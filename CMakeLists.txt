@@ -68,6 +68,8 @@ set_source_files_properties(qml/theme/AppTheme.qml PROPERTIES QT_RESOURCE_ALIAS 
 set_source_files_properties(qml/components/Typography.qml PROPERTIES QT_RESOURCE_ALIAS components/Typography.qml)
 set_source_files_properties(qml/components/HeaderAction.qml PROPERTIES QT_RESOURCE_ALIAS components/HeaderAction.qml)
 set_source_files_properties(qml/components/AppScrollBar.qml PROPERTIES QT_RESOURCE_ALIAS components/AppScrollBar.qml)
+set_source_files_properties(qml/components/SettingsChoice.qml PROPERTIES QT_RESOURCE_ALIAS components/SettingsChoice.qml)
+set_source_files_properties(qml/settings/SettingsPage.qml PROPERTIES QT_RESOURCE_ALIAS settings/SettingsPage.qml)
 qt_add_qml_module(leomoon_parsinama
     URI LeoMoon.ParsiNama
     VERSION 1.0
@@ -78,6 +80,8 @@ qt_add_qml_module(leomoon_parsinama
         qml/components/Typography.qml
         qml/components/HeaderAction.qml
         qml/components/AppScrollBar.qml
+        qml/components/SettingsChoice.qml
+        qml/settings/SettingsPage.qml
     RESOURCES
         assets/app-icon.svg
         "assets/fonts/Vazirmatn[wght].ttf"
