@@ -11,6 +11,7 @@
 #include <QGuiApplication>
 #include <QIcon>
 #include <QQmlApplicationEngine>
+#include <QQuickItem>
 #include <QQuickStyle>
 #include <QTemporaryDir>
 #include <QVariant>
@@ -89,6 +90,7 @@ int main(int argc, char *argv[])
         QObject *window = engine.rootObjects().constFirst();
         QObject *welcome = window->findChild<QObject *>(QStringLiteral("welcomeLabel"));
         QObject *status = window->findChild<QObject *>(QStringLiteral("catalogStatus"));
+        QObject *header = window->findChild<QObject *>(QStringLiteral("header"));
         QObject *poetPane = window->findChild<QObject *>(QStringLiteral("poetPane"));
         QObject *contentPane = window->findChild<QObject *>(QStringLiteral("contentPane"));
         QObject *moreButton = window->findChild<QObject *>(QStringLiteral("moreButton"));
@@ -120,14 +122,15 @@ int main(int argc, char *argv[])
             || (!catalogRepository.ready() && status->property("text").toString().isEmpty())
             || !window->property("bundledFontReady").toBool()
             || !window->property("bundledIconFontReady").toBool()
-            || !poetPane || !contentPane || !moreButton || !settingsButton
+            || !header || !poetPane || !contentPane || !moreButton || !settingsButton
             || !settingsPage || !readingSizeSelector || !lightThemeChoice
             || !appLogo || appLogo->property("color").value<QColor>()
                 != window->property("accentColor").value<QColor>()
             || window->property("compactHeader").toBool()
             || moreButton->property("visible").toBool()
             || !poetPane->property("visible").toBool()
-            || !contentPane->property("visible").toBool()) {
+            || !contentPane->property("visible").toBool()
+            || settingsButton->property("x").toReal() > 20) {
             std::fprintf(stderr, "The Persian application shell did not load correctly. settings=%p size=%p light=%p\n",
                          static_cast<void *>(settingsPage), static_cast<void *>(readingSizeSelector),
                          static_cast<void *>(lightThemeChoice));
@@ -159,6 +162,22 @@ int main(int argc, char *argv[])
                         + collectionScrollBar->property("width").toReal() + 4) {
                 qCritical("The collection row overlaps the scrollbar gutter");
                 return EXIT_FAILURE;
+            }
+            auto *poetRowItem = qobject_cast<QQuickItem *>(poetRow);
+            auto *collectionRowItem = qobject_cast<QQuickItem *>(collectionRow);
+            auto *poetPaneItem = qobject_cast<QQuickItem *>(poetPane);
+            auto *contentPaneItem = qobject_cast<QQuickItem *>(contentPane);
+            if (poetRowItem && collectionRowItem && poetPaneItem && contentPaneItem) {
+                const qreal poetInset = poetRowItem->mapToItem(poetPaneItem, QPointF{}).x();
+                const qreal collectionInset = collectionRowItem->mapToItem(contentPaneItem, QPointF{}).x();
+                const qreal poetTrailingInset = poetPaneItem->width() - poetInset - poetRowItem->width();
+                const qreal collectionTrailingInset = contentPaneItem->width()
+                    - collectionInset - collectionRowItem->width();
+                if (qAbs(poetInset - collectionInset) > 1
+                    || qAbs(poetTrailingInset - collectionTrailingInset) > 1) {
+                    qCritical("The poet and collection rows have inconsistent side gutters");
+                    return EXIT_FAILURE;
+                }
             }
             QMetaObject::invokeMethod(window, "showPoets");
         }
@@ -209,6 +228,21 @@ int main(int argc, char *argv[])
         }
         window->setProperty("page", QStringLiteral("settings"));
         QCoreApplication::processEvents();
+        QObject *settingsScrollBar = window->findChild<QObject *>(QStringLiteral("settingsScrollBar"));
+        if (!settingsScrollBar || settingsScrollBar->property("visible").toBool()) {
+            qCritical("The settings scrollbar is visible when the content fits");
+            return EXIT_FAILURE;
+        }
+        window->setProperty("height", 500);
+        QCoreApplication::processEvents();
+        if (!settingsScrollBar->property("visible").toBool()
+            || settingsScrollBar->property("height").toReal()
+                < settingsPage->property("availableHeight").toReal() - 1) {
+            qCritical("The settings scrollbar did not fill the viewport when scrolling is needed");
+            return EXIT_FAILURE;
+        }
+        window->setProperty("height", 760);
+        QCoreApplication::processEvents();
         QObject *tealAccentChoice = window->findChild<QObject *>(QStringLiteral("accentChoice_teal"));
         QObject *readingSizeText = window->findChild<QObject *>(QStringLiteral("readingSizeText"));
         QObject *readingSizePopup = window->findChild<QObject *>(QStringLiteral("readingSizePopup"));
@@ -249,16 +283,56 @@ int main(int argc, char *argv[])
             return EXIT_FAILURE;
         }
         QMetaObject::invokeMethod(window, "showPoets");
+        window->setProperty("width", 800);
+        QCoreApplication::processEvents();
+        if (window->property("compactHeader").toBool()
+            || !settingsButton->property("visible").toBool()
+            || moreButton->property("visible").toBool()
+            || settingsButton->property("x").toReal() > 20) {
+            qCritical("The full toolbar disappeared while there was room for it");
+            return EXIT_FAILURE;
+        }
         window->setProperty("width", 600);
         QCoreApplication::processEvents();
+        QObject *overflowMenu = window->findChild<QObject *>(QStringLiteral("overflowMenu"));
+        QObject *overflowMenuBackground = window->findChild<QObject *>(QStringLiteral("overflowMenuBackground"));
+        QObject *overflowPoetsItem = window->findChild<QObject *>(QStringLiteral("overflowPoetsItem"));
+        QObject *menuItemText = overflowPoetsItem
+            ? overflowPoetsItem->findChild<QObject *>(QStringLiteral("menuItemText")) : nullptr;
         if (!window->property("compactHeader").toBool()
             || !window->property("compactBrowse").toBool()
             || !moreButton->property("visible").toBool()
+            || moreButton->property("x").toReal() > 20
+            || !overflowMenu || !overflowMenuBackground || !overflowPoetsItem || !menuItemText
+            || overflowMenuBackground->property("color").value<QColor>()
+                != window->property("surfaceColor").value<QColor>()
+            || menuItemText->property("color").value<QColor>()
+                != window->property("foregroundColor").value<QColor>()
+            || menuItemText->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight
             || !poetPane->property("visible").toBool()
             || contentPane->property("visible").toBool()) {
             qCritical("The compact shell did not lay out correctly");
             return EXIT_FAILURE;
         }
+        if (!QMetaObject::invokeMethod(moreButton, "clicked")) {
+            qCritical("The compact menu button could not be activated");
+            return EXIT_FAILURE;
+        }
+        QCoreApplication::processEvents();
+        if (!overflowMenu->property("visible").toBool()) {
+            qCritical("The compact menu did not open");
+            return EXIT_FAILURE;
+        }
+        settingsStore.setTheme(QStringLiteral("dark"));
+        QCoreApplication::processEvents();
+        if (overflowMenuBackground->property("color").value<QColor>()
+                != window->property("surfaceColor").value<QColor>()
+            || menuItemText->property("color").value<QColor>()
+                != window->property("foregroundColor").value<QColor>()) {
+            qCritical("The compact menu did not follow the dark theme");
+            return EXIT_FAILURE;
+        }
+        QMetaObject::invokeMethod(overflowMenu, "close");
         return EXIT_SUCCESS;
     }
 

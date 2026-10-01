@@ -13,7 +13,7 @@ ApplicationWindow {
     required property var collectionListModel
     required property var poemLoader
     required property var settingsStore
-    readonly property bool compactHeader: width < 850
+    readonly property bool compactHeader: width < 760
     readonly property bool compactBrowse: width < 760
     readonly property bool bundledFontReady: typography.ready
     readonly property bool bundledFontError: typography.failed
@@ -97,7 +97,6 @@ ApplicationWindow {
                 Accessible.name: "نشان لئومون پارسی‌نما"
             }
             ColumnLayout {
-                Layout.fillWidth: true
                 spacing: 0
                 RowLayout {
                     spacing: 10
@@ -122,6 +121,7 @@ ApplicationWindow {
                     elide: Text.ElideRight
                 }
             }
+            Item { Layout.fillWidth: true }
             HeaderAction {
                 objectName: "poetsButton"
                 symbol: "\ue865"
@@ -183,6 +183,7 @@ ApplicationWindow {
                 onClicked: root.page = "settings"
             }
             HeaderAction {
+                id: moreButton
                 objectName: "moreButton"
                 symbol: "\ue5d4"
                 hint: "گزینه‌های بیشتر"
@@ -192,15 +193,7 @@ ApplicationWindow {
                 textColor: colors.foreground
                 borderColor: colors.border
                 focusColor: colors.focus
-                onClicked: overflowMenu.popup()
-                Menu {
-                    id: overflowMenu
-                    MenuItem { text: "شاعران"; onTriggered: root.showPoets() }
-                    MenuItem { text: "نشانک‌ها"; enabled: false }
-                    MenuItem { text: "جستجو"; enabled: false }
-                    MenuItem { text: "چاپ"; enabled: false }
-                    MenuItem { text: "تنظیمات"; onTriggered: root.page = "settings" }
-                }
+                onClicked: overflowMenu.popup(moreButton, 0, moreButton.height + 8)
             }
         }
 
@@ -328,7 +321,7 @@ ApplicationWindow {
                 }
                 ColumnLayout {
                     anchors.fill: parent
-                    anchors.margins: 24
+                    anchors.margins: 14
                     spacing: 16
                     visible: root.page !== "poets"
                     Label {
@@ -431,6 +424,39 @@ ApplicationWindow {
                 verticalAlignment: Text.AlignVCenter
                 elide: Text.ElideMiddle
             }
+        }
+    }
+
+    Menu {
+        id: overflowMenu
+        objectName: "overflowMenu"
+        width: 230
+        topPadding: 6
+        bottomPadding: 6
+        leftPadding: 6
+        rightPadding: 6
+        modal: true
+        dim: false
+        closePolicy: Popup.CloseOnEscape | Popup.CloseOnPressOutside
+        background: Rectangle {
+            objectName: "overflowMenuBackground"
+            radius: 11
+            color: colors.surface
+            border.color: colors.border
+        }
+        AppMenuItem {
+            objectName: "overflowPoetsItem"
+            appTheme: colors
+            text: "شاعران"
+            onTriggered: root.showPoets()
+        }
+        AppMenuItem { appTheme: colors; text: "نشانک‌ها"; enabled: false }
+        AppMenuItem { appTheme: colors; text: "جستجو"; enabled: false }
+        AppMenuItem { appTheme: colors; text: "چاپ"; enabled: false }
+        AppMenuItem {
+            appTheme: colors
+            text: "تنظیمات"
+            onTriggered: root.page = "settings"
         }
     }
 }

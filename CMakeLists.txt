@@ -69,6 +69,7 @@ set_source_files_properties(qml/components/Typography.qml PROPERTIES QT_RESOURCE
 set_source_files_properties(qml/components/HeaderAction.qml PROPERTIES QT_RESOURCE_ALIAS components/HeaderAction.qml)
 set_source_files_properties(qml/components/AppScrollBar.qml PROPERTIES QT_RESOURCE_ALIAS components/AppScrollBar.qml)
 set_source_files_properties(qml/components/SettingsChoice.qml PROPERTIES QT_RESOURCE_ALIAS components/SettingsChoice.qml)
+set_source_files_properties(qml/components/AppMenuItem.qml PROPERTIES QT_RESOURCE_ALIAS components/AppMenuItem.qml)
 set_source_files_properties(qml/settings/SettingsPage.qml PROPERTIES QT_RESOURCE_ALIAS settings/SettingsPage.qml)
 qt_add_qml_module(leomoon_parsinama
     URI LeoMoon.ParsiNama
@@ -81,6 +82,7 @@ qt_add_qml_module(leomoon_parsinama
         qml/components/HeaderAction.qml
         qml/components/AppScrollBar.qml
         qml/components/SettingsChoice.qml
+        qml/components/AppMenuItem.qml
         qml/settings/SettingsPage.qml
     RESOURCES
         assets/app-icon.svg
