@@ -1,5 +1,15 @@
 #include "PoetListModel.h"
 
+namespace {
+QString normalizedName(QString text)
+{
+    return text.trimmed().toCaseFolded()
+        .replace(QChar(0x064A), QChar(0x06CC))
+        .replace(QChar(0x0643), QChar(0x06A9))
+        .remove(QChar(0x0640));
+}
+}
+
 PoetListModel::PoetListModel(CatalogRepository *repository, QObject *parent)
     : QAbstractListModel(parent), m_repository(repository)
 {
@@ -40,8 +50,28 @@ QHash<int, QByteArray> PoetListModel::roleNames() const
 
 void PoetListModel::reload()
 {
+    m_allPoets = m_repository ? m_repository->poets() : QList<PoetRecord>{};
+    setFilterText(m_filterText);
+}
+
+void PoetListModel::setFilterText(const QString &text)
+{
+    const QString nextFilter = normalizedName(text);
+    if (nextFilter == m_filterText && m_poets.size() == m_allPoets.size() && nextFilter.isEmpty()) {
+        return;
+    }
     beginResetModel();
-    m_poets = m_repository ? m_repository->poets() : QList<PoetRecord>{};
+    m_poets.clear();
+    for (const PoetRecord &poet : m_allPoets) {
+        if (nextFilter.isEmpty() || normalizedName(poet.name).contains(nextFilter)
+            || normalizedName(poet.nickname).contains(nextFilter)) {
+            m_poets.append(poet);
+        }
+    }
     endResetModel();
+    if (m_filterText != nextFilter) {
+        m_filterText = nextFilter;
+        emit filterTextChanged();
+    }
     emit countChanged();
 }

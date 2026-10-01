@@ -47,6 +47,8 @@ qt_add_library(parsinama_data STATIC
     src/data/CatalogRepository.h
     src/data/CollectionListModel.cpp
     src/data/CollectionListModel.h
+    src/data/NavigationController.cpp
+    src/data/NavigationController.h
     src/data/PoemLoader.cpp
     src/data/PoemLoader.h
     src/data/PoetListModel.cpp
@@ -70,6 +72,7 @@ set_source_files_properties(qml/components/HeaderAction.qml PROPERTIES QT_RESOUR
 set_source_files_properties(qml/components/AppScrollBar.qml PROPERTIES QT_RESOURCE_ALIAS components/AppScrollBar.qml)
 set_source_files_properties(qml/components/SettingsChoice.qml PROPERTIES QT_RESOURCE_ALIAS components/SettingsChoice.qml)
 set_source_files_properties(qml/components/AppMenuItem.qml PROPERTIES QT_RESOURCE_ALIAS components/AppMenuItem.qml)
+set_source_files_properties(qml/components/BreadcrumbBar.qml PROPERTIES QT_RESOURCE_ALIAS components/BreadcrumbBar.qml)
 set_source_files_properties(qml/settings/SettingsPage.qml PROPERTIES QT_RESOURCE_ALIAS settings/SettingsPage.qml)
 qt_add_qml_module(leomoon_parsinama
     URI LeoMoon.ParsiNama
@@ -83,6 +86,7 @@ qt_add_qml_module(leomoon_parsinama
         qml/components/AppScrollBar.qml
         qml/components/SettingsChoice.qml
         qml/components/AppMenuItem.qml
+        qml/components/BreadcrumbBar.qml
         qml/settings/SettingsPage.qml
     RESOURCES
         assets/app-icon.svg

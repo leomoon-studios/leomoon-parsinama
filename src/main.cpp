@@ -1,6 +1,7 @@
 #include "data/CatalogPaths.h"
 #include "data/CatalogRepository.h"
 #include "data/CollectionListModel.h"
+#include "data/NavigationController.h"
 #include "data/PoemLoader.h"
 #include "data/PoetListModel.h"
 #include "services/SettingsStore.h"
@@ -59,6 +60,7 @@ int main(int argc, char *argv[])
     PoetListModel poetListModel(&catalogRepository);
     CollectionListModel collectionListModel(&catalogRepository);
     PoemLoader poemLoader(catalogPath);
+    NavigationController navigationController(&catalogRepository, &collectionListModel, &poemLoader);
     const bool smokeTest = application.arguments().contains(QStringLiteral("--smoke-test"));
     QTemporaryDir smokeConfigBase;
     SettingsStore settingsStore(smokeTest ? smokeConfigBase.path() : QString{});
@@ -80,6 +82,7 @@ int main(int argc, char *argv[])
         {QStringLiteral("poetListModel"), QVariant::fromValue(&poetListModel)},
         {QStringLiteral("collectionListModel"), QVariant::fromValue(&collectionListModel)},
         {QStringLiteral("poemLoader"), QVariant::fromValue(&poemLoader)},
+        {QStringLiteral("navigationController"), QVariant::fromValue(&navigationController)},
         {QStringLiteral("settingsStore"), QVariant::fromValue(&settingsStore)}
     });
     QObject::connect(&engine, &QQmlApplicationEngine::objectCreationFailed,
@@ -109,6 +112,7 @@ int main(int argc, char *argv[])
         QObject *welcomeContent = window->findChild<QObject *>(QStringLiteral("welcomeContent"));
         QObject *poetScrollBar = window->findChild<QObject *>(QStringLiteral("poetScrollBar"));
         QObject *collectionScrollBar = window->findChild<QObject *>(QStringLiteral("collectionScrollBar"));
+        QObject *collectionList = window->findChild<QObject *>(QStringLiteral("collectionList"));
         QObject *poetRow = window->findChild<QObject *>(QStringLiteral("poetRow"));
         for (int attempt = 0; attempt < 100
              && (!window->property("bundledFontReady").toBool()
@@ -120,7 +124,7 @@ int main(int argc, char *argv[])
             || !headerTitle || headerTitle->property("text").toString() != QString::fromUtf8(windowTitle)
             || !welcome || welcome->property("text").toString() != QString::fromUtf8(welcomeText)
             || !welcomeContent
-            || !poetScrollBar || !collectionScrollBar
+            || !poetScrollBar || !collectionScrollBar || !collectionList
             || poetScrollBar->property("policy").toInt() != Qt::ScrollBarAlwaysOn
             || collectionScrollBar->property("policy").toInt() != Qt::ScrollBarAlwaysOn
             || !status
@@ -345,6 +349,64 @@ int main(int argc, char *argv[])
             return EXIT_FAILURE;
         }
         QMetaObject::invokeMethod(overflowMenu, "close");
+        if (catalogRepository.ready()) {
+            poetListModel.setFilterText(QStringLiteral("حافظ"));
+            if (poetListModel.count() != 1) {
+                qCritical("The poet directory filter did not narrow the results");
+                return EXIT_FAILURE;
+            }
+            poetListModel.setFilterText({});
+            if (!navigationController.openPoet(QStringLiteral("/hafez"))) {
+                qCritical("The poet page did not open");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            QObject *biography = window->findChild<QObject *>(QStringLiteral("poetBiography"));
+            QObject *breadcrumbs = window->findChild<QObject *>(QStringLiteral("breadcrumbBar"));
+            if (window->property("page").toString() != QLatin1String("poet")
+                || !biography || biography->property("text").toString().isEmpty()
+                || !breadcrumbs || !breadcrumbs->property("visible").toBool()) {
+                qCritical("The poet biography or breadcrumbs did not appear");
+                return EXIT_FAILURE;
+            }
+            const auto ghazals = catalogRepository.categoryByUrl(QStringLiteral("/hafez/ghazal"));
+            if (!ghazals || !navigationController.openCategory(ghazals->fullUrl, 0, 180)
+                || navigationController.breadcrumbs().size() != 3) {
+                qCritical("The nested collection did not open");
+                return EXIT_FAILURE;
+            }
+            const auto poems = catalogRepository.categoryPoems(ghazals->id);
+            if (poems.isEmpty() || !navigationController.openPoem(poems.constFirst().fullUrl, 0, 240)
+                || navigationController.breadcrumbs().size() != 4
+                || !navigationController.back(0, 240)
+                || navigationController.collectionScroll() != 240) {
+                qCritical("Poem navigation did not preserve its collection position");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (qAbs(collectionList->property("contentY").toReal() - 240) > 1) {
+                qCritical("The collection list did not restore its scroll position");
+                return EXIT_FAILURE;
+            }
+            if (!navigationController.openCategory(QStringLiteral("/ferdousi/shahname/aghaz"))) {
+                qCritical("The deep collection did not open");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (!breadcrumbs->property("collapsed").toBool()
+                || !QMetaObject::invokeMethod(breadcrumbs, "openOverflow")) {
+                qCritical("Deep breadcrumbs did not collapse into an accessible menu");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (!breadcrumbs->property("overflowVisible").toBool()) {
+                qCritical("The collapsed breadcrumb menu did not open");
+                return EXIT_FAILURE;
+            }
+            QObject *breadcrumbOverflowPopup = window->findChild<QObject *>(
+                QStringLiteral("breadcrumbOverflowPopup"));
+            QMetaObject::invokeMethod(breadcrumbOverflowPopup, "close");
+        }
         return EXIT_SUCCESS;
     }
 

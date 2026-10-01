@@ -12,6 +12,7 @@ ApplicationWindow {
     required property var poetListModel
     required property var collectionListModel
     required property var poemLoader
+    required property var navigationController
     required property var settingsStore
     readonly property bool compactHeader: width < 760
     readonly property bool compactBrowse: width < 760
@@ -23,6 +24,7 @@ ApplicationWindow {
     readonly property color foregroundColor: colors.foreground
     readonly property color surfaceColor: colors.surface
     readonly property string statusMessage: settingsStore.error !== "" ? settingsStore.error
+        : navigationController.error !== "" ? navigationController.error
         : poemLoader.loading || poemLoader.error !== "" ? poemLoader.statusText
         : catalogRepository.ready ? "" : catalogRepository.statusText
     property string page: "poets"
@@ -42,18 +44,49 @@ ApplicationWindow {
     LayoutMirroring.childrenInherit: true
 
     function selectPoet(fullUrl, name) {
-        selectedPoetName = name
-        selectedPoetUrl = fullUrl
-        if (collectionListModel.loadCategory(fullUrl))
-            page = "collection"
+        if (navigationController.openPoet(fullUrl, poetList.contentY, collectionList.contentY))
+            page = "poet"
     }
 
     function showPoets() {
+        navigationController.openPoets(poetList.contentY, collectionList.contentY)
         selectedPoetName = ""
         selectedPoetUrl = ""
-        collectionListModel.clear()
-        poemLoader.clear()
+        poetFilter.text = ""
         page = "poets"
+    }
+
+    function openCategory(fullUrl) {
+        navigationController.openCategory(fullUrl, poetList.contentY, collectionList.contentY)
+    }
+
+    function openPoem(fullUrl) {
+        navigationController.openPoem(fullUrl, poetList.contentY, collectionList.contentY)
+    }
+
+    function openBreadcrumb(index) {
+        navigationController.openBreadcrumb(index, poetList.contentY, collectionList.contentY)
+    }
+
+    function goBack() {
+        navigationController.back(poetList.contentY, collectionList.contentY)
+    }
+
+    function goForward() {
+        navigationController.forward(poetList.contentY, collectionList.contentY)
+    }
+
+    Connections {
+        target: root.navigationController
+        function onStateChanged() {
+            root.page = root.navigationController.page
+            root.selectedPoetName = root.navigationController.poetName
+            root.selectedPoetUrl = root.navigationController.poetUrl
+            Qt.callLater(() => {
+                poetList.contentY = root.navigationController.poetScroll
+                collectionList.contentY = root.navigationController.collectionScroll
+            })
+        }
     }
 
     AppTheme {
@@ -223,6 +256,26 @@ ApplicationWindow {
                         font.pixelSize: 19
                         font.weight: Font.DemiBold
                     }
+                    TextField {
+                        id: poetFilter
+                        objectName: "poetFilter"
+                        LayoutMirroring.enabled: false
+                        Layout.fillWidth: true
+                        placeholderText: "جستجوی شاعر"
+                        font.family: typography.family
+                        font.pixelSize: 15
+                        color: colors.foreground
+                        placeholderTextColor: colors.muted
+                        horizontalAlignment: Text.AlignRight
+                        inputMethodHints: Qt.ImhNoPredictiveText
+                        onTextChanged: root.poetListModel.setFilterText(text)
+                        background: Rectangle {
+                            radius: 9
+                            color: colors.surface
+                            border.color: poetFilter.activeFocus ? colors.focus : colors.border
+                            border.width: poetFilter.activeFocus ? 2 : 1
+                        }
+                    }
                     ListView {
                         id: poetList
                         objectName: "poetList"
@@ -279,6 +332,45 @@ ApplicationWindow {
                             }
                         }
                     }
+                    Label {
+                        visible: root.page !== "poets" && root.page !== "settings"
+                        text: "مسیر مجموعه"
+                        color: colors.muted
+                        font.pixelSize: 14
+                    }
+                    ListView {
+                        id: sidebarPath
+                        objectName: "sidebarPath"
+                        visible: root.page !== "poets" && root.page !== "settings"
+                        Layout.fillWidth: true
+                        Layout.preferredHeight: Math.min(160, count * 38)
+                        model: root.navigationController.sidebarPath
+                        clip: true
+                        spacing: 4
+                        delegate: Button {
+                            id: pathButton
+                            required property int index
+                            required property var modelData
+                            width: sidebarPath.width
+                            implicitHeight: 34
+                            text: modelData.title
+                            font.family: typography.family
+                            onClicked: root.openBreadcrumb(index + 1)
+                            contentItem: Text {
+                                LayoutMirroring.enabled: false
+                                text: pathButton.text
+                                font: pathButton.font
+                                color: colors.foreground
+                                horizontalAlignment: Text.AlignRight
+                                verticalAlignment: Text.AlignVCenter
+                                elide: Text.ElideRight
+                            }
+                            background: Rectangle {
+                                radius: 7
+                                color: pathButton.hovered ? colors.surfaceRaised : colors.surface
+                            }
+                        }
+                    }
                 }
             }
 
@@ -324,14 +416,105 @@ ApplicationWindow {
                     anchors.margins: 14
                     spacing: 16
                     visible: root.page !== "poets"
+                    RowLayout {
+                        Layout.fillWidth: true
+                        Label {
+                            objectName: "contentTitle"
+                            LayoutMirroring.enabled: false
+                            text: root.page === "settings" ? "تنظیمات" : root.navigationController.title
+                            color: colors.foreground
+                            font.pixelSize: 24
+                            font.weight: Font.DemiBold
+                            Layout.fillWidth: true
+                            horizontalAlignment: Text.AlignRight
+                            wrapMode: Text.Wrap
+                        }
+                        HeaderAction {
+                            objectName: "backButton"
+                            visible: root.page !== "settings"
+                            enabled: root.navigationController.canGoBack
+                            symbol: "\ue5c8"
+                            hint: "بازگشت"
+                            font.family: typography.iconFamily
+                            surfaceColor: colors.surface
+                            textColor: colors.foreground
+                            borderColor: colors.border
+                            focusColor: colors.focus
+                            onClicked: root.goBack()
+                        }
+                        HeaderAction {
+                            objectName: "forwardButton"
+                            visible: root.page !== "settings"
+                            enabled: root.navigationController.canGoForward
+                            symbol: "\ue5c4"
+                            hint: "پیش‌روی"
+                            font.family: typography.iconFamily
+                            surfaceColor: colors.surface
+                            textColor: colors.foreground
+                            borderColor: colors.border
+                            focusColor: colors.focus
+                            onClicked: root.goForward()
+                        }
+                    }
+                    BreadcrumbBar {
+                        objectName: "breadcrumbBar"
+                        visible: root.page === "poet" || root.page === "collection" || root.page === "poem"
+                        Layout.fillWidth: true
+                        Layout.preferredHeight: 38
+                        navigationController: root.navigationController
+                        appTheme: colors
+                        typography: typography
+                        onActivated: (index) => root.openBreadcrumb(index)
+                    }
+                    ScrollView {
+                        visible: root.page === "poet" && root.navigationController.poetDescription !== ""
+                        Layout.fillWidth: true
+                        Layout.preferredHeight: Math.min(150, biographyLabel.implicitHeight + 12)
+                        contentWidth: availableWidth
+                        clip: true
+                        ScrollBar.horizontal.policy: ScrollBar.AlwaysOff
+                        Label {
+                            id: biographyLabel
+                            objectName: "poetBiography"
+                            LayoutMirroring.enabled: false
+                            width: parent.width
+                            text: root.navigationController.poetDescription
+                            color: colors.foreground
+                            font.pixelSize: 15
+                            horizontalAlignment: Text.AlignRight
+                            wrapMode: Text.Wrap
+                        }
+                    }
                     Label {
-                        text: root.page === "settings" ? "تنظیمات" : root.selectedPoetName
+                        visible: (root.page === "poet" || root.page === "collection")
+                            && root.navigationController.bookName !== ""
+                        LayoutMirroring.enabled: false
+                        text: root.navigationController.bookName
+                        color: colors.muted
+                        font.pixelSize: 15
+                        Layout.fillWidth: true
+                        horizontalAlignment: Text.AlignRight
+                    }
+                    Label {
+                        visible: (root.page === "poet" || root.page === "collection")
+                            && root.navigationController.description !== ""
+                        LayoutMirroring.enabled: false
+                        text: root.navigationController.description
                         color: colors.foreground
-                        font.pixelSize: 24
-                        font.weight: Font.DemiBold
+                        font.pixelSize: 15
                         Layout.fillWidth: true
                         horizontalAlignment: Text.AlignRight
                         wrapMode: Text.Wrap
+                    }
+                    Label {
+                        visible: root.page === "poet" || root.page === "collection"
+                        LayoutMirroring.enabled: false
+                        text: root.collectionListModel.categoryCount + " مجموعه · "
+                            + root.collectionListModel.poemCount + " شعر"
+                        color: colors.muted
+                        font.pixelSize: 14
+                        Layout.fillWidth: true
+                        horizontalAlignment: Text.AlignRight
                     }
                     SettingsPage {
                         objectName: "settingsPage"
@@ -346,7 +529,7 @@ ApplicationWindow {
                         id: collectionList
                         objectName: "collectionList"
                         readonly property real rowGutter: collectionScrollBar.width + 8
-                        visible: root.page === "collection"
+                        visible: root.page === "poet" || root.page === "collection"
                         Layout.fillWidth: true
                         Layout.fillHeight: true
                         model: root.collectionListModel
@@ -395,9 +578,74 @@ ApplicationWindow {
                                 }
                                 onClicked: {
                                     if (collectionEntry.entryType === "category")
-                                        root.collectionListModel.loadCategory(collectionEntry.fullUrl)
+                                        root.openCategory(collectionEntry.fullUrl)
                                     else
-                                        root.poemLoader.loadByUrl(collectionEntry.fullUrl)
+                                        root.openPoem(collectionEntry.fullUrl)
+                                }
+                            }
+                        }
+                    }
+                    Label {
+                        visible: collectionList.visible && root.collectionListModel.count > 0
+                        LayoutMirroring.enabled: false
+                        text: "مورد " + Math.max(1, collectionList.indexAt(1, collectionList.contentY + 1) + 1)
+                            + " از " + root.collectionListModel.count
+                        color: colors.muted
+                        font.pixelSize: 13
+                        Layout.fillWidth: true
+                        horizontalAlignment: Text.AlignRight
+                    }
+                    ColumnLayout {
+                        visible: root.page === "poem"
+                        Layout.fillWidth: true
+                        Layout.fillHeight: true
+                        Label {
+                            LayoutMirroring.enabled: false
+                            text: "شعر " + root.navigationController.poemPosition
+                                + " از " + root.navigationController.poemCount
+                            color: colors.muted
+                            font.pixelSize: 14
+                            Layout.fillWidth: true
+                            horizontalAlignment: Text.AlignRight
+                        }
+                        Label {
+                            visible: root.poemLoader.summary !== ""
+                            LayoutMirroring.enabled: false
+                            text: root.poemLoader.summary
+                            color: colors.muted
+                            font.pixelSize: 15
+                            Layout.fillWidth: true
+                            horizontalAlignment: Text.AlignRight
+                            wrapMode: Text.Wrap
+                        }
+                        ListView {
+                            id: poemList
+                            objectName: "poemList"
+                            Layout.fillWidth: true
+                            Layout.fillHeight: true
+                            model: root.poemLoader.verses
+                            clip: true
+                            spacing: 8
+                            ScrollBar.vertical: AppScrollBar {
+                                trackColor: colors.surfaceRaised
+                                thumbColor: colors.muted
+                                activeThumbColor: colors.accent
+                            }
+                            delegate: Item {
+                                id: verseEntry
+                                required property string text
+                                width: poemList.width
+                                height: verseText.implicitHeight + 8
+                                Label {
+                                    id: verseText
+                                    LayoutMirroring.enabled: false
+                                    x: 24
+                                    width: verseEntry.width - 48
+                                    text: verseEntry.text
+                                    color: colors.foreground
+                                    font.pixelSize: root.settingsStore.readingSize
+                                    horizontalAlignment: Text.AlignRight
+                                    wrapMode: Text.Wrap
                                 }
                             }
                         }

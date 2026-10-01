@@ -60,7 +60,9 @@ public:
 
     QList<PoetRecord> poets() const;
     std::optional<PoetRecord> poetByUrl(const QString &url) const;
+    std::optional<PoetRecord> poetById(qint64 id) const;
     std::optional<CategoryRecord> categoryByUrl(const QString &url) const;
+    std::optional<CategoryRecord> categoryById(qint64 id) const;
     QList<CategoryRecord> childCategories(qint64 parentId) const;
     QList<PoemRecord> categoryPoems(qint64 categoryId) const;
     std::optional<PoemRecord> poemByUrl(const QString &url) const;
