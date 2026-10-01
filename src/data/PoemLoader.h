@@ -31,6 +31,7 @@ struct ReadingRowRecord
     QString rightText;
     QString leftText;
     QString text;
+    QString position;
 };
 
 class SectionListModel final : public QAbstractListModel
@@ -102,7 +103,8 @@ public:
         PairedRole = Qt::UserRole + 1,
         RightTextRole,
         LeftTextRole,
-        TextRole
+        TextRole,
+        PositionRole
     };
 
     explicit ReadingRowListModel(QObject *parent = nullptr);

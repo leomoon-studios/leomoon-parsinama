@@ -15,6 +15,7 @@
 #include <QQmlApplicationEngine>
 #include <QQuickItem>
 #include <QQuickStyle>
+#include <QThread>
 #include <QTemporaryDir>
 #include <QVariant>
 
@@ -28,10 +29,41 @@ constexpr auto applicationName = "LeoMoon ParsiNama";
 constexpr auto windowTitle = "لئومون پارسی‌نما";
 constexpr auto welcomeText = "به لئومون پارسی‌نما خوش آمدید";
 
+#ifdef Q_OS_LINUX
+QtMessageHandler previousMessageHandler = nullptr;
+
+bool isDuplicatePortalRegistration(QtMsgType type, const QMessageLogContext &context,
+                                   const QString &message)
+{
+    // The host portal can associate a terminal-launched process before Qt registers it.
+    // Keep every other portal warning visible.
+    return type == QtWarningMsg && context.category
+        && std::strcmp(context.category, "qt.qpa.services") == 0
+        && message.startsWith(QStringLiteral("Failed to register with host portal"))
+        && message.contains(QStringLiteral(
+            "Could not register app ID: Connection already associated with an application ID"));
+}
+
+void appMessageHandler(QtMsgType type, const QMessageLogContext &context, const QString &message)
+{
+    if (isDuplicatePortalRegistration(type, context, message)) {
+        return;
+    }
+    if (previousMessageHandler) {
+        previousMessageHandler(type, context, message);
+    } else {
+        std::fprintf(stderr, "%s\n", qPrintable(qFormatLogMessage(type, context, message)));
+    }
+}
+#endif
+
 } // namespace
 
 int main(int argc, char *argv[])
 {
+#ifdef Q_OS_LINUX
+    previousMessageHandler = qInstallMessageHandler(appMessageHandler);
+#endif
     for (int index = 1; index < argc; ++index) {
         if (std::strcmp(argv[index], "--version") == 0) {
             std::printf("%s %s\n", applicationName, PARSINAMA_VERSION);
@@ -71,9 +103,13 @@ int main(int argc, char *argv[])
     }
 
     QQmlApplicationEngine engine;
+    int breadcrumbWarnings = 0;
     QObject::connect(&engine, &QQmlApplicationEngine::warnings, &application,
-                     [](const QList<QQmlError> &warnings) {
+                     [&breadcrumbWarnings](const QList<QQmlError> &warnings) {
         for (const QQmlError &warning : warnings) {
+            if (warning.toString().contains(QStringLiteral("BreadcrumbBar.qml"))) {
+                ++breadcrumbWarnings;
+            }
             std::fprintf(stderr, "%s\n", qPrintable(warning.toString()));
         }
     });
@@ -96,6 +132,21 @@ int main(int argc, char *argv[])
     }
 
     if (smokeTest) {
+#ifdef Q_OS_LINUX
+        const QMessageLogContext portalContext(nullptr, 0, nullptr, "qt.qpa.services");
+        const QMessageLogContext otherContext(nullptr, 0, nullptr, "qt.qml");
+        const QString duplicateMessage = QStringLiteral(
+            "Failed to register with host portal QDBusError(\"org.freedesktop.portal.Error.Failed\", "
+            "\"Could not register app ID: Connection already associated with an application ID\")");
+        if (!isDuplicatePortalRegistration(QtWarningMsg, portalContext, duplicateMessage)
+            || isDuplicatePortalRegistration(QtWarningMsg, otherContext, duplicateMessage)
+            || isDuplicatePortalRegistration(QtCriticalMsg, portalContext, duplicateMessage)
+            || isDuplicatePortalRegistration(QtWarningMsg, portalContext,
+                QStringLiteral("Failed to register with host portal: service unavailable"))) {
+            std::fprintf(stderr, "The portal warning filter is too broad.\n");
+            return EXIT_FAILURE;
+        }
+#endif
         QObject *window = engine.rootObjects().constFirst();
         QObject *welcome = window->findChild<QObject *>(QStringLiteral("welcomeLabel"));
         QObject *status = window->findChild<QObject *>(QStringLiteral("catalogStatus"));
@@ -114,6 +165,9 @@ int main(int argc, char *argv[])
         QObject *collectionScrollBar = window->findChild<QObject *>(QStringLiteral("collectionScrollBar"));
         QObject *collectionList = window->findChild<QObject *>(QStringLiteral("collectionList"));
         QObject *poetRow = window->findChild<QObject *>(QStringLiteral("poetRow"));
+        QObject *poetFilter = window->findChild<QObject *>(QStringLiteral("poetFilter"));
+        QObject *poetFilterPlaceholder = window->findChild<QObject *>(
+            QStringLiteral("poetFilterPlaceholder"));
         for (int attempt = 0; attempt < 100
              && (!window->property("bundledFontReady").toBool()
                  || !window->property("bundledIconFontReady").toBool()); ++attempt) {
@@ -125,8 +179,11 @@ int main(int argc, char *argv[])
             || !welcome || welcome->property("text").toString() != QString::fromUtf8(welcomeText)
             || !welcomeContent
             || !poetScrollBar || !collectionScrollBar || !collectionList
-            || poetScrollBar->property("policy").toInt() != Qt::ScrollBarAlwaysOn
-            || collectionScrollBar->property("policy").toInt() != Qt::ScrollBarAlwaysOn
+            || !poetFilter || !poetFilterPlaceholder
+            || poetFilter->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight
+            || poetFilterPlaceholder->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight
+            || poetScrollBar->property("policy").toInt() != Qt::ScrollBarAsNeeded
+            || collectionScrollBar->property("policy").toInt() != Qt::ScrollBarAsNeeded
             || !status
             || (catalogRepository.ready() && !status->property("text").toString().isEmpty())
             || (!catalogRepository.ready() && status->property("text").toString().isEmpty())
@@ -363,10 +420,33 @@ int main(int argc, char *argv[])
             QCoreApplication::processEvents();
             QObject *biography = window->findChild<QObject *>(QStringLiteral("poetBiography"));
             QObject *breadcrumbs = window->findChild<QObject *>(QStringLiteral("breadcrumbBar"));
+            for (int attempt = 0; attempt < 50 && biography
+                 && (biography->property("width").toReal() < 100
+                     || collectionList->property("contentHeight").toReal()
+                         <= collectionList->property("height").toReal()
+                     || qAbs(collectionList->property("contentY").toReal()
+                         + (collectionList->property("headerItem").value<QQuickItem *>()
+                             ? collectionList->property("headerItem").value<QQuickItem *>()->height() : 0)) > 1);
+                 ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            for (int attempt = 0; attempt < 8; ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            QQuickItem *collectionHeader = collectionList->property("headerItem").value<QQuickItem *>();
             if (window->property("page").toString() != QLatin1String("poet")
                 || !biography || biography->property("text").toString().isEmpty()
+                || !collectionList->findChild<QObject *>(QStringLiteral("poetBiography"))
+                || collectionList->property("height").toReal() < 250
+                || collectionList->property("contentHeight").toReal()
+                    <= collectionList->property("height").toReal()
+                || !collectionHeader || collectionHeader->height() < 100
+                || qAbs(collectionList->property("contentY").toReal()
+                    + collectionHeader->height()) > 1
                 || !breadcrumbs || !breadcrumbs->property("visible").toBool()) {
-                qCritical("The poet biography or breadcrumbs did not appear");
+                qCritical("The poet biography and collection rows did not share a scroll area");
                 return EXIT_FAILURE;
             }
             const auto ghazals = catalogRepository.categoryByUrl(QStringLiteral("/hafez/ghazal"));
@@ -377,14 +457,72 @@ int main(int argc, char *argv[])
             }
             const auto poems = catalogRepository.categoryPoems(ghazals->id);
             if (poems.isEmpty() || !navigationController.openPoem(poems.constFirst().fullUrl, 0, 240)
-                || navigationController.breadcrumbs().size() != 4
-                || !navigationController.back(0, 240)
+                || navigationController.breadcrumbs().size() != 4) {
+                qCritical("Poem navigation did not preserve its collection position");
+                return EXIT_FAILURE;
+            }
+            for (int attempt = 0; attempt < 100 && poemLoader.loading(); ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            for (int attempt = 0; attempt < 50; ++attempt) {
+                QQuickItem *headerItem = window->findChild<QObject *>(QStringLiteral("poemList"))
+                    ->property("headerItem").value<QQuickItem *>();
+                if (headerItem && qAbs(window->findChild<QObject *>(QStringLiteral("poemList"))
+                    ->property("contentY").toReal() + headerItem->height()) <= 1)
+                    break;
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            for (int attempt = 0; attempt < 8; ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            QCoreApplication::processEvents();
+            QObject *summary = window->findChild<QObject *>(QStringLiteral("poemSummary"));
+            QObject *poemList = window->findChild<QObject *>(QStringLiteral("poemList"));
+            QObject *poemScrollBar = window->findChild<QObject *>(QStringLiteral("poemScrollBar"));
+            QQuickItem *poemHeader = poemList
+                ? poemList->property("headerItem").value<QQuickItem *>() : nullptr;
+            if (poemLoader.loading() || !summary || !summary->property("visible").toBool()
+                || summary->property("text").toString().isEmpty()
+                || !poemList || !poemList->findChild<QObject *>(QStringLiteral("poemSummary"))
+                || poemList->property("height").toReal() < 300
+                || poemList->property("contentHeight").toReal()
+                    <= poemList->property("height").toReal()
+                || !poemScrollBar || !poemScrollBar->property("visible").toBool()
+                || !poemHeader || poemHeader->height() < 50
+                || breadcrumbs->property("fullCrumbWidth").toReal() < 200
+                || breadcrumbs->property("collapsed").toBool()
+                || qAbs(poemList->property("contentY").toReal()
+                    + poemHeader->height()) > 1) {
+                qCritical("The poem summary and verses did not share a scroll area");
+                return EXIT_FAILURE;
+            }
+            window->setProperty("width", 1600);
+            window->setProperty("height", 1100);
+            for (int attempt = 0; attempt < 20; ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            if (poemList->property("contentHeight").toReal()
+                    >= poemList->property("height").toReal() - 1
+                || poemScrollBar->property("visible").toBool()) {
+                qCritical("The poem scrollbar remains visible when all content fits");
+                return EXIT_FAILURE;
+            }
+            window->setProperty("width", 600);
+            window->setProperty("height", 760);
+            QCoreApplication::processEvents();
+            if (!navigationController.back(0, 240)
                 || navigationController.collectionScroll() != 240) {
                 qCritical("Poem navigation did not preserve its collection position");
                 return EXIT_FAILURE;
             }
             QCoreApplication::processEvents();
-            if (qAbs(collectionList->property("contentY").toReal() - 240) > 1) {
+            collectionHeader = collectionList->property("headerItem").value<QQuickItem *>();
+            if (!collectionHeader || qAbs(collectionList->property("contentY").toReal()
+                + collectionHeader->height() - 240) > 1) {
                 qCritical("The collection list did not restore its scroll position");
                 return EXIT_FAILURE;
             }
@@ -393,6 +531,11 @@ int main(int argc, char *argv[])
                 return EXIT_FAILURE;
             }
             QCoreApplication::processEvents();
+            if (breadcrumbs->property("collapsed").toBool()) {
+                qCritical("Breadcrumbs collapsed despite having enough space");
+                return EXIT_FAILURE;
+            }
+            breadcrumbs->setProperty("width", breadcrumbs->property("fullCrumbWidth").toReal() - 20);
             if (!breadcrumbs->property("collapsed").toBool()
                 || !QMetaObject::invokeMethod(breadcrumbs, "openOverflow")) {
                 qCritical("Deep breadcrumbs did not collapse into an accessible menu");
@@ -406,6 +549,12 @@ int main(int argc, char *argv[])
             QObject *breadcrumbOverflowPopup = window->findChild<QObject *>(
                 QStringLiteral("breadcrumbOverflowPopup"));
             QMetaObject::invokeMethod(breadcrumbOverflowPopup, "close");
+            navigationController.openPoets();
+            QCoreApplication::processEvents();
+            if (breadcrumbWarnings != 0) {
+                std::fprintf(stderr, "The breadcrumb menu emitted %d QML warnings.\n", breadcrumbWarnings);
+                return EXIT_FAILURE;
+            }
         }
         return EXIT_SUCCESS;
     }

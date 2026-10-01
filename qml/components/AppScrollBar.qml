@@ -7,7 +7,7 @@ ScrollBar {
     property color thumbColor: "#aeb5c3"
     property color activeThumbColor: "#9b8cff"
 
-    policy: ScrollBar.AlwaysOn
+    policy: ScrollBar.AsNeeded
     implicitWidth: 12
     padding: 3
     minimumSize: 0.08

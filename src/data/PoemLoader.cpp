@@ -120,12 +120,12 @@ PoemLoadResult loadPoem(const QString &catalogPath, const QString &url)
                 && next.coupletIndex == verse.coupletIndex
                 && next.sectionIndex1 == verse.sectionIndex1
                 && next.sectionIndex2 == verse.sectionIndex2) {
-                result.readingRows.append({true, verse.text, next.text, {}});
+                result.readingRows.append({true, verse.text, next.text, {}, {}});
                 ++index;
                 continue;
             }
         }
-        result.readingRows.append({false, {}, {}, verse.text});
+        result.readingRows.append({false, {}, {}, verse.text, verse.position});
     }
     if (result.title.isEmpty() || result.fullUrl != url) {
         result.error = QStringLiteral("شناسهٔ شعر در پایگاه داده معتبر نیست.");
@@ -233,6 +233,7 @@ QVariant ReadingRowListModel::data(const QModelIndex &index, int role) const
     case RightTextRole: return row.rightText;
     case LeftTextRole: return row.leftText;
     case TextRole: return row.text;
+    case PositionRole: return row.position;
     default: return {};
     }
 }
@@ -240,7 +241,8 @@ QVariant ReadingRowListModel::data(const QModelIndex &index, int role) const
 QHash<int, QByteArray> ReadingRowListModel::roleNames() const
 {
     return {{PairedRole, "paired"}, {RightTextRole, "rightText"},
-            {LeftTextRole, "leftText"}, {TextRole, "text"}};
+            {LeftTextRole, "leftText"}, {TextRole, "text"},
+            {PositionRole, "position"}};
 }
 
 void ReadingRowListModel::replace(QVector<ReadingRowRecord> rows)
