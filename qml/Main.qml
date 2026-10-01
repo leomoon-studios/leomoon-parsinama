@@ -547,6 +547,7 @@ ApplicationWindow {
                                 color: colors.muted
                                 font.pixelSize: 14
                                 Layout.fillWidth: true
+                                Layout.bottomMargin: 12
                                 horizontalAlignment: Text.AlignRight
                             }
                         }
@@ -638,6 +639,7 @@ ApplicationWindow {
                                     color: colors.muted
                                     font.pixelSize: 14
                                     Layout.fillWidth: true
+                                    Layout.bottomMargin: root.poemLoader.summary === "" ? 12 : 0
                                     horizontalAlignment: Text.AlignRight
                                 }
                                 Label {
@@ -648,6 +650,7 @@ ApplicationWindow {
                                     text: root.poemLoader.summary
                                     color: colors.muted
                                     font.pixelSize: 15
+                                    Layout.bottomMargin: 12
                                     horizontalAlignment: Text.AlignJustify
                                     wrapMode: Text.Wrap
                                 }
