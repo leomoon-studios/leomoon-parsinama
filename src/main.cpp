@@ -22,6 +22,7 @@
 namespace {
 
 constexpr auto applicationName = "LeoMoon ParsiNama";
+constexpr auto windowTitle = "لئومون پارسی‌نما";
 constexpr auto welcomeText = "به لئومون پارسی‌نما خوش آمدید";
 
 } // namespace
@@ -93,14 +94,27 @@ int main(int argc, char *argv[])
         QObject *moreButton = window->findChild<QObject *>(QStringLiteral("moreButton"));
         QObject *themeButton = window->findChild<QObject *>(QStringLiteral("themeButton"));
         QObject *appLogo = window->findChild<QObject *>(QStringLiteral("appLogo"));
-        for (int attempt = 0; attempt < 100 && !window->property("bundledFontReady").toBool(); ++attempt) {
+        QObject *headerTitle = window->findChild<QObject *>(QStringLiteral("headerTitle"));
+        QObject *welcomeContent = window->findChild<QObject *>(QStringLiteral("welcomeContent"));
+        QObject *poetScrollBar = window->findChild<QObject *>(QStringLiteral("poetScrollBar"));
+        QObject *collectionScrollBar = window->findChild<QObject *>(QStringLiteral("collectionScrollBar"));
+        QObject *poetRow = window->findChild<QObject *>(QStringLiteral("poetRow"));
+        for (int attempt = 0; attempt < 100
+             && (!window->property("bundledFontReady").toBool()
+                 || !window->property("bundledIconFontReady").toBool()); ++attempt) {
             QCoreApplication::processEvents(QEventLoop::AllEvents, 50);
         }
         if (window->objectName() != QStringLiteral("mainWindow")
-            || window->property("title").toString() != QString::fromUtf8(applicationName)
+            || window->property("title").toString() != QString::fromUtf8(windowTitle)
+            || !headerTitle || headerTitle->property("text").toString() != QString::fromUtf8(windowTitle)
             || !welcome || welcome->property("text").toString() != QString::fromUtf8(welcomeText)
+            || !welcomeContent
+            || !poetScrollBar || !collectionScrollBar
+            || poetScrollBar->property("policy").toInt() != Qt::ScrollBarAlwaysOn
+            || collectionScrollBar->property("policy").toInt() != Qt::ScrollBarAlwaysOn
             || !status || status->property("text").toString().isEmpty()
             || !window->property("bundledFontReady").toBool()
+            || !window->property("bundledIconFontReady").toBool()
             || !poetPane || !contentPane || !moreButton || !themeButton
             || !appLogo || appLogo->property("status").toInt() != 1
             || window->property("compactHeader").toBool()
@@ -108,6 +122,45 @@ int main(int argc, char *argv[])
             || !poetPane->property("visible").toBool()
             || !contentPane->property("visible").toBool()) {
             qCritical("The Persian application shell did not load correctly");
+            return EXIT_FAILURE;
+        }
+        const qreal welcomeCenterX = welcomeContent->property("x").toReal()
+            + welcomeContent->property("width").toReal() / 2;
+        const qreal welcomeCenterY = welcomeContent->property("y").toReal()
+            + welcomeContent->property("height").toReal() / 2;
+        if (qAbs(welcomeCenterX - contentPane->property("width").toReal() / 2) > 1
+            || qAbs(welcomeCenterY - contentPane->property("height").toReal() / 2) > 1) {
+            qCritical("The welcome content is not centered");
+            return EXIT_FAILURE;
+        }
+        if (poetRow
+            && poetRow->property("x").toReal()
+                < poetScrollBar->property("x").toReal()
+                    + poetScrollBar->property("width").toReal() + 4) {
+            qCritical("The poet row overlaps the scrollbar gutter");
+            return EXIT_FAILURE;
+        }
+        if (catalogRepository.ready() && collectionListModel.loadCategory(QStringLiteral("/ferdousi"))) {
+            window->setProperty("page", QStringLiteral("collection"));
+            QCoreApplication::processEvents();
+            QObject *collectionRow = window->findChild<QObject *>(QStringLiteral("collectionRow"));
+            if (collectionRow
+                && collectionRow->property("x").toReal()
+                    < collectionScrollBar->property("x").toReal()
+                        + collectionScrollBar->property("width").toReal() + 4) {
+                qCritical("The collection row overlaps the scrollbar gutter");
+                return EXIT_FAILURE;
+            }
+            QMetaObject::invokeMethod(window, "showPoets");
+        }
+        window->setProperty("selectedPoetName", QStringLiteral("حافظ"));
+        window->setProperty("selectedPoetUrl", QStringLiteral("/hafez"));
+        window->setProperty("page", QStringLiteral("collection"));
+        if (!QMetaObject::invokeMethod(window, "showPoets")
+            || !window->property("selectedPoetName").toString().isEmpty()
+            || !window->property("selectedPoetUrl").toString().isEmpty()
+            || window->property("page").toString() != QStringLiteral("poets")) {
+            qCritical("Returning to poets did not clear the previous selection");
             return EXIT_FAILURE;
         }
         const QColor darkColor = window->property("color").value<QColor>();

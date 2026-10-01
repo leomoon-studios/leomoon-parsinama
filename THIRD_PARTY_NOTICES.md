@@ -9,3 +9,7 @@ No license file or explicit data license was included with this export. GanjoorS
 ## Vazirmatn
 
 The bundled [Vazirmatn font](https://github.com/rastikerdar/vazirmatn) is copyright The Vazirmatn Project Authors and licensed under the SIL Open Font License 1.1. The license is included at [assets/fonts/OFL.txt](assets/fonts/OFL.txt).
+
+## Google Material Symbols
+
+The bundled [Material Symbols Rounded](https://github.com/google/material-design-icons) icon font is licensed under the Apache License 2.0. The license is included at [assets/fonts/MaterialSymbols-LICENSE.txt](assets/fonts/MaterialSymbols-LICENSE.txt).
