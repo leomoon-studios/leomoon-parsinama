@@ -4,6 +4,8 @@
 #include "data/NavigationController.h"
 #include "data/PoemLoader.h"
 #include "data/PoetListModel.h"
+#include "services/BookmarkStore.h"
+#include "services/UserDataPaths.h"
 
 #include <QDir>
 #include <QFile>
@@ -28,6 +30,8 @@ private slots:
     void navigationAndFiltering();
     void missingAndIncompatibleCatalog();
     void largePoemLoadsAsynchronously();
+    void bookmarksPersistAndNavigate();
+    void bookmarksHandleMissingAndInvalidFiles();
     void fullCatalogQueries();
 
 private:
@@ -300,6 +304,117 @@ void DataTests::largePoemLoadsAsynchronously()
     QCOMPARE(loader.readingRows()->rowCount(), 0);
 }
 
+void DataTests::bookmarksPersistAndNavigate()
+{
+    QTemporaryDir configBase;
+    QVERIFY(configBase.isValid());
+    CatalogRepository repository;
+    QVERIFY(repository.openCatalog(m_fixturePath));
+    CollectionListModel collection(&repository);
+    PoemLoader loader(m_fixturePath);
+    NavigationController navigation(&repository, &collection, &loader);
+    const QString deepCollection = QStringLiteral("/ferdousi/shahname/aghaz");
+    const QString deepPoem = deepCollection + QStringLiteral("/long");
+    {
+        BookmarkStore bookmarks(&repository, &navigation, configBase.path());
+        QCOMPARE(bookmarks.count(), 0);
+        QVERIFY(QFile::exists(bookmarks.filePath()));
+        QVERIFY(!bookmarks.canFavoriteCurrent());
+        QVERIFY(bookmarks.add(QStringLiteral("poet"), QStringLiteral("/ferdousi")));
+        QVERIFY(bookmarks.add(QStringLiteral("collection"), deepCollection));
+        QVERIFY(navigation.openPoem(deepPoem));
+        QVERIFY(bookmarks.canFavoriteCurrent());
+        QVERIFY(!bookmarks.currentFavorite());
+        QVERIFY(bookmarks.toggleCurrent());
+        QVERIFY(bookmarks.currentFavorite());
+        QCOMPARE(bookmarks.count(), 3);
+        QVERIFY(!bookmarks.add(QStringLiteral("poem"), deepPoem));
+        QCOMPARE(bookmarks.count(), 3);
+        QCOMPARE(bookmarks.data(bookmarks.index(0, 0), BookmarkStore::ContextRole).toString(),
+                 QStringLiteral("فردوسی » شاهنامه » آغاز کتاب"));
+        QVERIFY(bookmarks.remove(QStringLiteral("poet"), QStringLiteral("/ferdousi")));
+        QCOMPARE(bookmarks.count(), 2);
+    }
+    CatalogRepository reopenedRepository;
+    QVERIFY(reopenedRepository.openCatalog(m_fixturePath));
+    CollectionListModel reopenedCollection(&reopenedRepository);
+    PoemLoader reopenedLoader(m_fixturePath);
+    NavigationController reopenedNavigation(&reopenedRepository, &reopenedCollection, &reopenedLoader);
+    BookmarkStore restored(&reopenedRepository, &reopenedNavigation, configBase.path());
+    QCOMPARE(restored.count(), 2);
+    QVERIFY(restored.contains(QStringLiteral("poem"), deepPoem));
+    QCOMPARE(restored.data(restored.index(0, 0), BookmarkStore::AvailableRole).toBool(), true);
+    QVERIFY(reopenedNavigation.openPoem(restored.data(restored.index(0, 0), BookmarkStore::UrlRole).toString()));
+    QCOMPARE(reopenedNavigation.page(), QStringLiteral("poem"));
+    QCOMPARE(reopenedNavigation.breadcrumbs().size(), 5);
+    QCOMPARE(reopenedNavigation.breadcrumbs().at(3).toMap().value(QStringLiteral("url")).toString(), deepCollection);
+    QVERIFY(restored.currentFavorite());
+    QVERIFY(restored.toggleCurrent());
+    QVERIFY(!restored.currentFavorite());
+    QCOMPARE(restored.count(), 1);
+}
+
+void DataTests::bookmarksHandleMissingAndInvalidFiles()
+{
+    QTemporaryDir configBase;
+    QVERIFY(configBase.isValid());
+    CatalogRepository repository;
+    QVERIFY(repository.openCatalog(m_fixturePath));
+    CollectionListModel collection(&repository);
+    PoemLoader loader(m_fixturePath);
+    NavigationController navigation(&repository, &collection, &loader);
+    const QString url = QStringLiteral("/ferdousi/shahname/aghaz/long");
+    {
+        BookmarkStore bookmarks(&repository, &navigation, configBase.path());
+        QVERIFY(bookmarks.add(QStringLiteral("poem"), url));
+    }
+
+    const QString missingCatalog = m_temporary.filePath(QStringLiteral("missing-bookmark-poem.sqlite"));
+    QVERIFY(QFile::copy(m_fixturePath, missingCatalog));
+    const QString connection = QStringLiteral("missing_bookmark_writer");
+    {
+        QSqlDatabase database = QSqlDatabase::addDatabase(QStringLiteral("QSQLITE"), connection);
+        database.setDatabaseName(missingCatalog);
+        QVERIFY(database.open());
+        {
+            QSqlQuery query(database);
+            QVERIFY(query.exec(QStringLiteral("DELETE FROM category_poems WHERE poem_id = 500")));
+            QVERIFY(query.exec(QStringLiteral("DELETE FROM poems WHERE id = 500")));
+        }
+        database.close();
+    }
+    QSqlDatabase::removeDatabase(connection);
+    CatalogRepository changedRepository;
+    QVERIFY(changedRepository.openCatalog(missingCatalog));
+    CollectionListModel changedCollection(&changedRepository);
+    PoemLoader changedLoader(missingCatalog);
+    NavigationController changedNavigation(&changedRepository, &changedCollection, &changedLoader);
+    BookmarkStore stale(&changedRepository, &changedNavigation, configBase.path());
+    QCOMPARE(stale.count(), 1);
+    QCOMPARE(stale.data(stale.index(0, 0), BookmarkStore::AvailableRole).toBool(), false);
+    QCOMPARE(stale.data(stale.index(0, 0), BookmarkStore::TitleRole).toString(), QStringLiteral("شعر بلند"));
+    QVERIFY(stale.remove(QStringLiteral("poem"), url));
+    QCOMPARE(stale.count(), 0);
+
+    QFile file(stale.filePath());
+    QVERIFY(file.open(QIODevice::WriteOnly | QIODevice::Truncate));
+    const QByteArray invalid = "{invalid";
+    QCOMPARE(file.write(invalid), invalid.size());
+    file.close();
+    BookmarkStore corrupted(&changedRepository, &changedNavigation, configBase.path());
+    QVERIFY(!corrupted.error().isEmpty());
+    QVERIFY(!corrupted.add(QStringLiteral("poet"), QStringLiteral("/ferdousi")));
+    QVERIFY(file.open(QIODevice::ReadOnly));
+    QCOMPARE(file.readAll(), invalid);
+
+    QTemporaryDir unreadableBase;
+    QVERIFY(unreadableBase.isValid());
+    QVERIFY(UserDataPaths::ensureDirectory(unreadableBase.path()));
+    QVERIFY(QDir().mkpath(UserDataPaths::bookmarksFile(unreadableBase.path())));
+    BookmarkStore unreadable(&changedRepository, &changedNavigation, unreadableBase.path());
+    QVERIFY(!unreadable.error().isEmpty());
+}
+
 void DataTests::fullCatalogQueries()
 {
     const QString path = qEnvironmentVariable("PARSINAMA_FULL_CATALOG");
@@ -318,23 +433,15 @@ void DataTests::fullCatalogQueries()
     NavigationController navigation(&repository, &collection, &navigationLoader);
     QVERIFY(navigation.openPoem(ghazals.first().fullUrl));
     QCOMPARE(navigation.poemPosition(), 1);
-    QVERIFY(!navigation.hasPreviousPoem());
-    QVERIFY(navigation.hasNextPoem());
-    QVERIFY(navigation.openNextPoem());
+    QVERIFY(navigation.openPoem(ghazals.at(1).fullUrl));
     QCOMPARE(navigation.url(), ghazals.at(1).fullUrl);
     QCOMPARE(navigation.poemPosition(), 2);
     QCOMPARE(navigation.breadcrumbs().last().toMap().value(QStringLiteral("url")).toString(), ghazals.at(1).fullUrl);
     QVERIFY(navigation.openPoem(ghazals.at(ghazals.size() / 2).fullUrl));
     QCOMPARE(navigation.poemPosition(), ghazals.size() / 2 + 1);
-    QVERIFY(navigation.hasPreviousPoem());
-    QVERIFY(navigation.hasNextPoem());
     QVERIFY(navigation.openPoem(ghazals.last().fullUrl));
     QCOMPARE(navigation.poemPosition(), ghazals.size());
-    QVERIFY(navigation.hasPreviousPoem());
-    QVERIFY(!navigation.hasNextPoem());
-    QVERIFY(!navigation.openNextPoem());
-    QVERIFY(navigation.openPreviousPoem());
-    QCOMPARE(navigation.url(), ghazals.at(ghazals.size() - 2).fullUrl);
+    QCOMPARE(navigation.breadcrumbs().last().toMap().value(QStringLiteral("url")).toString(), ghazals.last().fullUrl);
     QCOMPARE(repository.categoryByUrl(QStringLiteral("/ferdousi/shahname/aghaz"))->parentId, 33);
     QCOMPARE(repository.categoryPoems(repository.categoryByUrl(QStringLiteral("/sepehri"))->id).size(), 1);
     PoemLoader loader(path);

@@ -25,8 +25,6 @@ class NavigationController final : public QObject
     Q_PROPERTY(qreal collectionScroll READ collectionScroll NOTIFY stateChanged)
     Q_PROPERTY(int poemPosition READ poemPosition NOTIFY stateChanged)
     Q_PROPERTY(int poemCount READ poemCount NOTIFY stateChanged)
-    Q_PROPERTY(bool hasPreviousPoem READ hasPreviousPoem NOTIFY stateChanged)
-    Q_PROPERTY(bool hasNextPoem READ hasNextPoem NOTIFY stateChanged)
     Q_PROPERTY(bool canGoBack READ canGoBack NOTIFY historyChanged)
     Q_PROPERTY(bool canGoForward READ canGoForward NOTIFY historyChanged)
     Q_PROPERTY(QString error READ error NOTIFY errorChanged)
@@ -48,8 +46,6 @@ public:
     qreal collectionScroll() const { return m_current.collectionScroll; }
     int poemPosition() const { return m_poemPosition; }
     int poemCount() const { return m_poemCount; }
-    bool hasPreviousPoem() const { return !m_previousPoemUrl.isEmpty(); }
-    bool hasNextPoem() const { return !m_nextPoemUrl.isEmpty(); }
     bool canGoBack() const { return !m_back.isEmpty(); }
     bool canGoForward() const { return !m_forward.isEmpty(); }
     QString error() const { return m_error; }
@@ -58,8 +54,6 @@ public:
     Q_INVOKABLE bool openPoet(const QString &url, qreal poetScroll = 0, qreal collectionScroll = 0);
     Q_INVOKABLE bool openCategory(const QString &url, qreal poetScroll = 0, qreal collectionScroll = 0);
     Q_INVOKABLE bool openPoem(const QString &url, qreal poetScroll = 0, qreal collectionScroll = 0);
-    Q_INVOKABLE bool openPreviousPoem(qreal poetScroll = 0, qreal collectionScroll = 0);
-    Q_INVOKABLE bool openNextPoem(qreal poetScroll = 0, qreal collectionScroll = 0);
     Q_INVOKABLE bool openBreadcrumb(int index, qreal poetScroll = 0, qreal collectionScroll = 0);
     Q_INVOKABLE bool back(qreal poetScroll = 0, qreal collectionScroll = 0);
     Q_INVOKABLE bool forward(qreal poetScroll = 0, qreal collectionScroll = 0);
@@ -98,6 +92,4 @@ private:
     QVariantList m_breadcrumbs;
     int m_poemPosition = 0;
     int m_poemCount = 0;
-    QString m_previousPoemUrl;
-    QString m_nextPoemUrl;
 };
