@@ -1,0 +1,229 @@
+#include "data/CatalogPaths.h"
+#include "data/CatalogRepository.h"
+#include "data/CollectionListModel.h"
+#include "data/PoemLoader.h"
+#include "data/PoetListModel.h"
+
+#include <QDir>
+#include <QFile>
+#include <QFileInfo>
+#include <QJsonArray>
+#include <QJsonDocument>
+#include <QJsonObject>
+#include <QSignalSpy>
+#include <QSqlDatabase>
+#include <QSqlError>
+#include <QSqlQuery>
+#include <QTemporaryDir>
+#include <QtTest>
+
+class DataTests final : public QObject
+{
+    Q_OBJECT
+
+private slots:
+    void initTestCase();
+    void repositoryAndModels();
+    void missingAndIncompatibleCatalog();
+    void largePoemLoadsAsynchronously();
+    void fullCatalogQueries();
+
+private:
+    QTemporaryDir m_temporary;
+    QString m_fixturePath;
+};
+
+void DataTests::initTestCase()
+{
+    QVERIFY(m_temporary.isValid());
+    m_fixturePath = m_temporary.filePath(QStringLiteral("fixture.sqlite"));
+    const QString connection = QStringLiteral("fixture_writer");
+    {
+        QSqlDatabase database = QSqlDatabase::addDatabase(QStringLiteral("QSQLITE"), connection);
+        database.setDatabaseName(m_fixturePath);
+        QVERIFY(database.open());
+        {
+            QSqlQuery query(database);
+            const QStringList statements {
+                QStringLiteral("CREATE TABLE metadata (key TEXT PRIMARY KEY, value TEXT NOT NULL)"),
+                QStringLiteral("CREATE TABLE poets (id INTEGER PRIMARY KEY, sort_order INTEGER, slug TEXT, name TEXT, nickname TEXT, full_url TEXT, description TEXT)"),
+                QStringLiteral("CREATE TABLE categories (id INTEGER PRIMARY KEY, poet_id INTEGER, parent_id INTEGER, title TEXT, full_url TEXT, description TEXT, book_name TEXT)"),
+                QStringLiteral("CREATE TABLE category_children (parent_id INTEGER, child_id INTEGER, sort_order INTEGER)"),
+                QStringLiteral("CREATE TABLE poems (id INTEGER PRIMARY KEY, poet_id INTEGER, cat_id INTEGER, title TEXT, full_title TEXT, full_url TEXT, data_json BLOB)"),
+                QStringLiteral("CREATE TABLE category_poems (category_id INTEGER, poem_id INTEGER, sort_order INTEGER)"),
+                QStringLiteral("INSERT INTO metadata VALUES ('catalog_schema_version', '1'), ('source_schema_version', '1'), ('source_digest_sha256', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'), ('poets_count', '3'), ('poems_count', '2')"),
+                QStringLiteral("INSERT INTO poets VALUES (2, 0, 'hafez', 'حافظ شیرازی', 'حافظ', '/hafez', 'زندگی‌نامه'), (4, 1, 'ferdousi', 'فردوسی', 'فردوسی', '/ferdousi', ''), (222, 2, 'sepehri', 'سهراب سپهری', 'سهراب سپهری', '/sepehri', '')"),
+                QStringLiteral("INSERT INTO categories VALUES (9, 2, NULL, 'حافظ', '/hafez', '', 'دیوان حافظ'), (24, 2, 9, 'غزلیات', '/hafez/ghazal', '', ''), (32, 4, NULL, 'فردوسی', '/ferdousi', '', ''), (33, 4, 32, 'شاهنامه', '/ferdousi/shahname', '', ''), (34, 4, 33, 'آغاز کتاب', '/ferdousi/shahname/aghaz', '', ''), (3410, 222, NULL, 'سپهری', '/sepehri', '', '')"),
+                QStringLiteral("INSERT INTO category_children VALUES (9, 24, 0), (32, 33, 0), (33, 34, 0)")
+            };
+            for (const QString &statement : statements) {
+                QVERIFY2(query.exec(statement), qPrintable(query.lastError().text()));
+            }
+
+            QJsonArray verses;
+            const QString longLine(400, QChar(0x0634));
+            for (int order = 1; order <= 2500; ++order) {
+                verses.append(QJsonObject{
+                    {QStringLiteral("VOrder"), order},
+                    {QStringLiteral("Position"), order % 2 ? QStringLiteral("Right") : QStringLiteral("Left")},
+                    {QStringLiteral("Text"), longLine},
+                    {QStringLiteral("CoupletIndex"), (order - 1) / 2},
+                    {QStringLiteral("SectionIndex1"), 0}
+                });
+            }
+            const QJsonObject poem {
+                {QStringLiteral("Id"), 500},
+                {QStringLiteral("CatId"), 34},
+                {QStringLiteral("Title"), QStringLiteral("شعر بلند")},
+                {QStringLiteral("FullUrl"), QStringLiteral("/ferdousi/shahname/aghaz/long")},
+                {QStringLiteral("PoemSummary"), QStringLiteral("خلاصه")},
+                {QStringLiteral("Metre"), QJsonObject{{QStringLiteral("Rhythm"), QStringLiteral("وزن آزمایشی")}}},
+                {QStringLiteral("Sections"), QJsonArray{QJsonObject{
+                    {QStringLiteral("Index"), 0}, {QStringLiteral("Number"), 1},
+                    {QStringLiteral("SectionType"), QStringLiteral("WholePoem")},
+                    {QStringLiteral("PlainText"), QStringLiteral("بخش یک")}}}},
+                {QStringLiteral("Verses"), verses}
+            };
+            QVERIFY(query.prepare(QStringLiteral("INSERT INTO poems VALUES (?, ?, ?, ?, ?, ?, ?)")));
+            query.addBindValue(500);
+            query.addBindValue(4);
+            query.addBindValue(34);
+            query.addBindValue(QStringLiteral("شعر بلند"));
+            query.addBindValue(QStringLiteral("فردوسی » شعر بلند"));
+            query.addBindValue(QStringLiteral("/ferdousi/shahname/aghaz/long"));
+            query.addBindValue(QJsonDocument(poem).toJson(QJsonDocument::Compact));
+            QVERIFY2(query.exec(), qPrintable(query.lastError().text()));
+            QVERIFY(query.exec(QStringLiteral("INSERT INTO category_poems VALUES (34, 500, 0)")));
+
+            const QJsonObject shortPoem {
+                {QStringLiteral("Id"), 501}, {QStringLiteral("CatId"), 3410},
+                {QStringLiteral("Title"), QStringLiteral("شعر کوتاه")},
+                {QStringLiteral("FullUrl"), QStringLiteral("/sepehri/short")},
+                {QStringLiteral("Sections"), QJsonArray{}},
+                {QStringLiteral("Verses"), QJsonArray{}}
+            };
+            QVERIFY(query.prepare(QStringLiteral("INSERT INTO poems VALUES (?, ?, ?, ?, ?, ?, ?)")));
+            query.addBindValue(501);
+            query.addBindValue(222);
+            query.addBindValue(3410);
+            query.addBindValue(QStringLiteral("شعر کوتاه"));
+            query.addBindValue(QStringLiteral("سپهری » شعر کوتاه"));
+            query.addBindValue(QStringLiteral("/sepehri/short"));
+            query.addBindValue(QJsonDocument(shortPoem).toJson(QJsonDocument::Compact));
+            QVERIFY2(query.exec(), qPrintable(query.lastError().text()));
+            QVERIFY(query.exec(QStringLiteral("INSERT INTO category_poems VALUES (3410, 501, 0)")));
+        }
+        database.close();
+    }
+    QSqlDatabase::removeDatabase(connection);
+}
+
+void DataTests::repositoryAndModels()
+{
+    const qint64 originalSize = QFileInfo(m_fixturePath).size();
+    {
+        CatalogRepository repository;
+        QVERIFY(repository.openCatalog(m_fixturePath));
+        QVERIFY(repository.ready());
+        QCOMPARE(repository.poets().size(), 3);
+        QCOMPARE(repository.poetByUrl(QStringLiteral("/hafez"))->nickname, QStringLiteral("حافظ"));
+        QCOMPARE(repository.categoryByUrl(QStringLiteral("/ferdousi/shahname/aghaz"))->parentId, 33);
+        QCOMPARE(repository.categoryPoems(3410).constFirst().fullUrl, QStringLiteral("/sepehri/short"));
+        QCOMPARE(repository.poemByUrl(QStringLiteral("/ferdousi/shahname/aghaz/long"))->categoryId, 34);
+
+        PoetListModel poets(&repository);
+        QCOMPARE(poets.count(), 3);
+        QCOMPARE(poets.data(poets.index(0, 0), PoetListModel::FullUrlRole).toString(), QStringLiteral("/hafez"));
+        CollectionListModel collection(&repository);
+        QVERIFY(collection.loadCategory(QStringLiteral("/ferdousi/shahname")));
+        QCOMPARE(collection.count(), 1);
+        QCOMPARE(collection.data(collection.index(0, 0), CollectionListModel::FullUrlRole).toString(),
+                 QStringLiteral("/ferdousi/shahname/aghaz"));
+        QVERIFY(collection.loadCategory(QStringLiteral("/sepehri")));
+        QCOMPARE(collection.data(collection.index(0, 0), CollectionListModel::EntryTypeRole).toString(),
+                 QStringLiteral("poem"));
+    }
+    QCOMPARE(QFileInfo(m_fixturePath).size(), originalSize);
+}
+
+void DataTests::missingAndIncompatibleCatalog()
+{
+    const QString missing = m_temporary.filePath(QStringLiteral("missing.sqlite"));
+    CatalogRepository repository;
+    QVERIFY(!repository.openCatalog(missing));
+    QVERIFY(!QFileInfo::exists(missing));
+    QVERIFY(!repository.error().isEmpty());
+
+    const QString incompatible = m_temporary.filePath(QStringLiteral("incompatible.sqlite"));
+    QVERIFY(QFile::copy(m_fixturePath, incompatible));
+    const QString connection = QStringLiteral("incompatible_writer");
+    {
+        QSqlDatabase database = QSqlDatabase::addDatabase(QStringLiteral("QSQLITE"), connection);
+        database.setDatabaseName(incompatible);
+        QVERIFY(database.open());
+        {
+            QSqlQuery query(database);
+            QVERIFY(query.exec(QStringLiteral("UPDATE metadata SET value='999' WHERE key='catalog_schema_version'")));
+        }
+        database.close();
+    }
+    QSqlDatabase::removeDatabase(connection);
+    QVERIFY(!repository.openCatalog(incompatible));
+    QVERIFY(repository.error().contains(QStringLiteral("نسخه")));
+
+    QString pathError;
+    QVERIFY(CatalogPaths::resolve({QStringLiteral("app"), QStringLiteral("--catalog")}, &pathError).isEmpty());
+    QVERIFY(!pathError.isEmpty());
+    QCOMPARE(CatalogPaths::resolve({QStringLiteral("app"), QStringLiteral("--catalog"), m_fixturePath}),
+             m_fixturePath);
+}
+
+void DataTests::largePoemLoadsAsynchronously()
+{
+    PoemLoader loader(m_fixturePath);
+    QSignalSpy finished(&loader, &PoemLoader::requestFinished);
+    loader.loadByUrl(QStringLiteral("/ferdousi/shahname/aghaz/long"));
+    QVERIFY(loader.loading());
+    QCOMPARE(finished.size(), 0);
+    QTRY_COMPARE_WITH_TIMEOUT(finished.size(), 1, 10000);
+    QVERIFY(finished.constFirst().at(0).toBool());
+    QVERIFY(!loader.loading());
+    QCOMPARE(loader.verses()->rowCount(), 2500);
+    QCOMPARE(loader.sections()->rowCount(), 1);
+    QCOMPARE(loader.metre(), QStringLiteral("وزن آزمایشی"));
+    QCOMPARE(loader.summary(), QStringLiteral("خلاصه"));
+    QCOMPARE(loader.verses()->data(loader.verses()->index(0, 0), VerseListModel::PositionRole).toString(),
+             QStringLiteral("Right"));
+    loader.loadByUrl(QStringLiteral("/missing/poem"));
+    QTRY_COMPARE_WITH_TIMEOUT(finished.size(), 2, 10000);
+    QVERIFY(!finished.at(1).at(0).toBool());
+    QVERIFY(!loader.error().isEmpty());
+    QCOMPARE(loader.verses()->rowCount(), 0);
+}
+
+void DataTests::fullCatalogQueries()
+{
+    const QString path = qEnvironmentVariable("PARSINAMA_FULL_CATALOG");
+    if (path.isEmpty()) {
+        QSKIP("Set PARSINAMA_FULL_CATALOG to run the full-data integration check");
+    }
+    CatalogRepository repository;
+    QVERIFY(repository.openCatalog(path));
+    QCOMPARE(repository.poets().size(), 240);
+    QCOMPARE(repository.poetByUrl(QStringLiteral("/hafez"))->id, 2);
+    QCOMPARE(repository.categoryPoems(repository.categoryByUrl(QStringLiteral("/hafez/ghazal"))->id).size(), 495);
+    QCOMPARE(repository.categoryByUrl(QStringLiteral("/ferdousi/shahname/aghaz"))->parentId, 33);
+    QCOMPARE(repository.categoryPoems(repository.categoryByUrl(QStringLiteral("/sepehri"))->id).size(), 1);
+    PoemLoader loader(path);
+    QSignalSpy finished(&loader, &PoemLoader::requestFinished);
+    loader.loadByUrl(QStringLiteral("/azar/divan/masnavi/sh11"));
+    QVERIFY(loader.loading());
+    QTRY_COMPARE_WITH_TIMEOUT(finished.size(), 1, 10000);
+    QVERIFY(finished.constFirst().at(0).toBool());
+    QCOMPARE(loader.verses()->rowCount(), 2500);
+    QCOMPARE(loader.sections()->rowCount(), 1247);
+}
+
+QTEST_GUILESS_MAIN(DataTests)
+
+#include "data_tests.moc"
