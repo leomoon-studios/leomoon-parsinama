@@ -66,6 +66,12 @@ target_compile_definitions(leomoon_parsinama PRIVATE
     PARSINAMA_APP_ID="${PARSINAMA_APP_ID}"
 )
 
+qt_add_executable(parsinama_catalog_builder src/tools/build_catalog.cpp)
+set_target_properties(parsinama_catalog_builder PROPERTIES
+    OUTPUT_NAME parsinama-catalog-builder
+)
+target_link_libraries(parsinama_catalog_builder PRIVATE Qt6::Core Qt6::Sql)
+
 set_target_properties(leomoon_parsinama PROPERTIES
     OUTPUT_NAME leomoon-parsinama
     WIN32_EXECUTABLE TRUE
@@ -97,6 +103,14 @@ if(BUILD_TESTING)
     add_test(NAME desktop_smoke COMMAND parsinama_app_tests)
     set_tests_properties(desktop_smoke PROPERTIES
         ENVIRONMENT "PARSINAMA_TEST_APP=$<TARGET_FILE:leomoon_parsinama>;QT_QPA_PLATFORM=offscreen;QT_QPA_PLATFORMTHEME=;QT_QUICK_BACKEND=software;QT_QUICK_CONTROLS_STYLE=Basic"
+        TIMEOUT 15
+    )
+
+    qt_add_executable(parsinama_catalog_tests tests/catalog_tests.cpp)
+    target_link_libraries(parsinama_catalog_tests PRIVATE Qt6::Core Qt6::Sql Qt6::Test)
+    add_test(NAME catalog_builder COMMAND parsinama_catalog_tests)
+    set_tests_properties(catalog_builder PROPERTIES
+        ENVIRONMENT "PARSINAMA_CATALOG_BUILDER=$<TARGET_FILE:parsinama_catalog_builder>"
         TIMEOUT 15
     )
 endif()
