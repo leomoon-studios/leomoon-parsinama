@@ -173,6 +173,22 @@ std::optional<PoetRecord> CatalogRepository::poetByUrl(const QString &url) const
     return query.next() ? std::optional<PoetRecord>(readPoet(query)) : std::nullopt;
 }
 
+std::optional<PoetRecord> CatalogRepository::poetById(qint64 id) const
+{
+    if (!m_ready) {
+        return std::nullopt;
+    }
+    QSqlQuery query(m_database);
+    query.prepare(QStringLiteral("SELECT id, sort_order, slug, name, nickname, full_url, description "
+                                 "FROM poets WHERE id = ?"));
+    query.addBindValue(id);
+    if (!query.exec()) {
+        logQueryError(query);
+        return std::nullopt;
+    }
+    return query.next() ? std::optional<PoetRecord>(readPoet(query)) : std::nullopt;
+}
+
 std::optional<CategoryRecord> CatalogRepository::categoryByUrl(const QString &url) const
 {
     if (!m_ready) {
@@ -182,6 +198,22 @@ std::optional<CategoryRecord> CatalogRepository::categoryByUrl(const QString &ur
     query.prepare(QStringLiteral("SELECT id, poet_id, parent_id, title, full_url, description, book_name "
                                  "FROM categories WHERE full_url = ?"));
     query.addBindValue(url);
+    if (!query.exec()) {
+        logQueryError(query);
+        return std::nullopt;
+    }
+    return query.next() ? std::optional<CategoryRecord>(readCategory(query)) : std::nullopt;
+}
+
+std::optional<CategoryRecord> CatalogRepository::categoryById(qint64 id) const
+{
+    if (!m_ready) {
+        return std::nullopt;
+    }
+    QSqlQuery query(m_database);
+    query.prepare(QStringLiteral("SELECT id, poet_id, parent_id, title, full_url, description, book_name "
+                                 "FROM categories WHERE id = ?"));
+    query.addBindValue(id);
     if (!query.exec()) {
         logQueryError(query);
         return std::nullopt;

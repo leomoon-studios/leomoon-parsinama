@@ -37,7 +37,6 @@ QHash<int, QByteArray> CollectionListModel::roleNames() const
 
 bool CollectionListModel::loadCategory(const QString &fullUrl)
 {
-    clear();
     if (!m_repository || !m_repository->ready()) {
         m_error = QStringLiteral("پایگاه دادهٔ شعر آماده نیست.");
         emit collectionChanged();
@@ -66,6 +65,9 @@ bool CollectionListModel::loadCategory(const QString &fullUrl)
     beginResetModel();
     m_category = *category;
     m_entries = std::move(entries);
+    m_error.clear();
+    m_categoryCount = int(children.size());
+    m_poemCount = int(poems.size());
     endResetModel();
     emit collectionChanged();
     return true;
@@ -76,6 +78,8 @@ void CollectionListModel::clear()
     beginResetModel();
     m_category = {};
     m_entries.clear();
+    m_categoryCount = 0;
+    m_poemCount = 0;
     m_error.clear();
     endResetModel();
     emit collectionChanged();

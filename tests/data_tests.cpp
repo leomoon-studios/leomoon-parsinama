@@ -1,6 +1,7 @@
 #include "data/CatalogPaths.h"
 #include "data/CatalogRepository.h"
 #include "data/CollectionListModel.h"
+#include "data/NavigationController.h"
 #include "data/PoemLoader.h"
 #include "data/PoetListModel.h"
 
@@ -24,6 +25,7 @@ class DataTests final : public QObject
 private slots:
     void initTestCase();
     void repositoryAndModels();
+    void navigationAndFiltering();
     void missingAndIncompatibleCatalog();
     void largePoemLoadsAsynchronously();
     void fullCatalogQueries();
@@ -112,10 +114,102 @@ void DataTests::initTestCase()
             query.addBindValue(QJsonDocument(shortPoem).toJson(QJsonDocument::Compact));
             QVERIFY2(query.exec(), qPrintable(query.lastError().text()));
             QVERIFY(query.exec(QStringLiteral("INSERT INTO category_poems VALUES (3410, 501, 0)")));
+
+            const QJsonObject rootPoem {
+                {QStringLiteral("Id"), 502}, {QStringLiteral("CatId"), 9},
+                {QStringLiteral("Title"), QStringLiteral("شعر ریشه")},
+                {QStringLiteral("FullUrl"), QStringLiteral("/hafez/root")},
+                {QStringLiteral("Sections"), QJsonArray{}},
+                {QStringLiteral("Verses"), QJsonArray{}}
+            };
+            QVERIFY(query.prepare(QStringLiteral("INSERT INTO poems VALUES (?, ?, ?, ?, ?, ?, ?)")));
+            query.addBindValue(502);
+            query.addBindValue(2);
+            query.addBindValue(9);
+            query.addBindValue(QStringLiteral("شعر ریشه"));
+            query.addBindValue(QStringLiteral("حافظ » شعر ریشه"));
+            query.addBindValue(QStringLiteral("/hafez/root"));
+            query.addBindValue(QJsonDocument(rootPoem).toJson(QJsonDocument::Compact));
+            QVERIFY2(query.exec(), qPrintable(query.lastError().text()));
+            QVERIFY(query.exec(QStringLiteral("INSERT INTO category_poems VALUES (9, 502, 0)")));
         }
         database.close();
     }
     QSqlDatabase::removeDatabase(connection);
+}
+
+void DataTests::navigationAndFiltering()
+{
+    CatalogRepository repository;
+    QVERIFY(repository.openCatalog(m_fixturePath));
+    PoetListModel poets(&repository);
+    QCOMPARE(poets.count(), 3);
+    poets.setFilterText(QStringLiteral("حافظ"));
+    QCOMPARE(poets.count(), 1);
+    QCOMPARE(poets.data(poets.index(0, 0), PoetListModel::FullUrlRole).toString(), QStringLiteral("/hafez"));
+    poets.setFilterText(QStringLiteral("فردوسی"));
+    QCOMPARE(poets.count(), 1);
+    poets.setFilterText({});
+    QCOMPARE(poets.count(), 3);
+    QCOMPARE(poets.data(poets.index(0, 0), PoetListModel::FullUrlRole).toString(), QStringLiteral("/hafez"));
+
+    CollectionListModel collection(&repository);
+    PoemLoader poemLoader(m_fixturePath);
+    NavigationController navigation(&repository, &collection, &poemLoader);
+    QCOMPARE(navigation.page(), QStringLiteral("poets"));
+    QCOMPARE(navigation.breadcrumbs().size(), 1);
+    QVERIFY(navigation.openPoet(QStringLiteral("/hafez"), 125));
+    QCOMPARE(navigation.page(), QStringLiteral("poet"));
+    QCOMPARE(navigation.poetDescription(), QStringLiteral("زندگی‌نامه"));
+    QCOMPARE(collection.categoryCount(), 1);
+    QCOMPARE(collection.poemCount(), 1);
+    QCOMPARE(collection.data(collection.index(1, 0), CollectionListModel::FullUrlRole).toString(),
+             QStringLiteral("/hafez/root"));
+    QVERIFY(navigation.openPoem(QStringLiteral("/hafez/root"), 125, 44));
+    QCOMPARE(navigation.page(), QStringLiteral("poem"));
+    QCOMPARE(navigation.breadcrumbs().size(), 3);
+    QVERIFY(navigation.back(125, 44));
+    QCOMPARE(navigation.page(), QStringLiteral("poet"));
+    QCOMPARE(navigation.collectionScroll(), 44);
+
+    QVERIFY(navigation.openPoet(QStringLiteral("/sepehri"), 280));
+    QCOMPARE(collection.categoryCount(), 0);
+    QCOMPARE(collection.poemCount(), 1);
+    QVERIFY(navigation.openPoet(QStringLiteral("/ferdousi"), 310));
+    QVERIFY(navigation.openCategory(QStringLiteral("/ferdousi/shahname"), 310, 90));
+    QCOMPARE(navigation.breadcrumbs().size(), 3);
+    QVERIFY(navigation.openCategory(QStringLiteral("/ferdousi/shahname/aghaz"), 310, 240));
+    QCOMPARE(navigation.breadcrumbs().size(), 4);
+    QVERIFY(navigation.openPoem(QStringLiteral("/ferdousi/shahname/aghaz/long"), 310, 430));
+    QCOMPARE(navigation.breadcrumbs().size(), 5);
+    QCOMPARE(navigation.poemPosition(), 1);
+    QCOMPARE(navigation.poemCount(), 1);
+    QVERIFY(navigation.back(310, 430));
+    QCOMPARE(navigation.page(), QStringLiteral("collection"));
+    QCOMPARE(navigation.url(), QStringLiteral("/ferdousi/shahname/aghaz"));
+    QCOMPARE(navigation.collectionScroll(), 430);
+    QVERIFY(navigation.forward(310, 390));
+    QCOMPARE(navigation.page(), QStringLiteral("poem"));
+    QVERIFY(navigation.openBreadcrumb(2, 310, 430));
+    QCOMPARE(navigation.url(), QStringLiteral("/ferdousi/shahname"));
+    QVERIFY(!navigation.canGoForward());
+    QVERIFY(navigation.back(310, 90));
+    QCOMPARE(navigation.url(), QStringLiteral("/ferdousi/shahname/aghaz/long"));
+    QVERIFY(navigation.forward(310, 430));
+    QCOMPARE(navigation.url(), QStringLiteral("/ferdousi/shahname"));
+    QVERIFY(!navigation.openCategory(QStringLiteral("/missing")));
+    QCOMPARE(navigation.url(), QStringLiteral("/ferdousi/shahname"));
+    QCOMPARE(collection.fullUrl(), QStringLiteral("/ferdousi/shahname"));
+    QVERIFY(navigation.openBreadcrumb(1));
+    QCOMPARE(navigation.url(), QStringLiteral("/ferdousi"));
+    QVERIFY(navigation.openCategory(QStringLiteral("/ferdousi/shahname/aghaz")));
+    QVERIFY(navigation.openBreadcrumb(3));
+    QCOMPARE(navigation.url(), QStringLiteral("/ferdousi/shahname/aghaz"));
+    QVERIFY(navigation.openPoem(QStringLiteral("/ferdousi/shahname/aghaz/long")));
+    QVERIFY(navigation.openBreadcrumb(4));
+    QCOMPARE(navigation.url(), QStringLiteral("/ferdousi/shahname/aghaz/long"));
+    QVERIFY(navigation.openBreadcrumb(0));
+    QCOMPARE(navigation.page(), QStringLiteral("poets"));
 }
 
 void DataTests::repositoryAndModels()
