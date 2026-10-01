@@ -25,6 +25,7 @@ set(CMAKE_CXX_EXTENSIONS OFF)
 
 find_package(Qt6 6.5 REQUIRED COMPONENTS
     Core
+    Concurrent
     Gui
     Qml
     Quick
@@ -37,6 +38,21 @@ find_package(Qt6 6.5 REQUIRED COMPONENTS
 qt_standard_project_setup(REQUIRES 6.5)
 
 set(PARSINAMA_APP_ID "com.leomoon.ParsiNama")
+
+qt_add_library(parsinama_data STATIC
+    src/data/CatalogPaths.cpp
+    src/data/CatalogPaths.h
+    src/data/CatalogRepository.cpp
+    src/data/CatalogRepository.h
+    src/data/CollectionListModel.cpp
+    src/data/CollectionListModel.h
+    src/data/PoemLoader.cpp
+    src/data/PoemLoader.h
+    src/data/PoetListModel.cpp
+    src/data/PoetListModel.h
+)
+target_include_directories(parsinama_data PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}/src")
+target_link_libraries(parsinama_data PUBLIC Qt6::Core Qt6::Concurrent Qt6::Sql)
 
 qt_add_executable(leomoon_parsinama
     src/main.cpp
@@ -59,6 +75,7 @@ target_link_libraries(leomoon_parsinama PRIVATE
     Qt6::QuickControls2
     Qt6::Sql
     Qt6::PrintSupport
+    parsinama_data
 )
 
 target_compile_definitions(leomoon_parsinama PRIVATE
@@ -113,4 +130,9 @@ if(BUILD_TESTING)
         ENVIRONMENT "PARSINAMA_CATALOG_BUILDER=$<TARGET_FILE:parsinama_catalog_builder>"
         TIMEOUT 15
     )
+
+    qt_add_executable(parsinama_data_tests tests/data_tests.cpp)
+    target_link_libraries(parsinama_data_tests PRIVATE Qt6::Core Qt6::Sql Qt6::Test parsinama_data)
+    add_test(NAME native_data_access COMMAND parsinama_data_tests)
+    set_tests_properties(native_data_access PROPERTIES TIMEOUT 20)
 endif()
