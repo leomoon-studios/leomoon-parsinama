@@ -65,7 +65,7 @@ int main(int argc, char *argv[])
     QObject::connect(&engine, &QQmlApplicationEngine::warnings, &application,
                      [](const QList<QQmlError> &warnings) {
         for (const QQmlError &warning : warnings) {
-            qWarning().noquote() << warning.toString();
+            std::fprintf(stderr, "%s\n", qPrintable(warning.toString()));
         }
     });
     engine.setInitialProperties({
@@ -92,7 +92,10 @@ int main(int argc, char *argv[])
         QObject *poetPane = window->findChild<QObject *>(QStringLiteral("poetPane"));
         QObject *contentPane = window->findChild<QObject *>(QStringLiteral("contentPane"));
         QObject *moreButton = window->findChild<QObject *>(QStringLiteral("moreButton"));
-        QObject *themeButton = window->findChild<QObject *>(QStringLiteral("themeButton"));
+        QObject *settingsButton = window->findChild<QObject *>(QStringLiteral("settingsButton"));
+        QObject *settingsPage = window->findChild<QObject *>(QStringLiteral("settingsPage"));
+        QObject *readingSizeSelector = window->findChild<QObject *>(QStringLiteral("readingSizeSelector"));
+        QObject *lightThemeChoice = window->findChild<QObject *>(QStringLiteral("lightThemeChoice"));
         QObject *appLogo = window->findChild<QObject *>(QStringLiteral("appLogo"));
         QObject *headerTitle = window->findChild<QObject *>(QStringLiteral("headerTitle"));
         QObject *welcomeContent = window->findChild<QObject *>(QStringLiteral("welcomeContent"));
@@ -112,16 +115,22 @@ int main(int argc, char *argv[])
             || !poetScrollBar || !collectionScrollBar
             || poetScrollBar->property("policy").toInt() != Qt::ScrollBarAlwaysOn
             || collectionScrollBar->property("policy").toInt() != Qt::ScrollBarAlwaysOn
-            || !status || status->property("text").toString().isEmpty()
+            || !status
+            || (catalogRepository.ready() && !status->property("text").toString().isEmpty())
+            || (!catalogRepository.ready() && status->property("text").toString().isEmpty())
             || !window->property("bundledFontReady").toBool()
             || !window->property("bundledIconFontReady").toBool()
-            || !poetPane || !contentPane || !moreButton || !themeButton
-            || !appLogo || appLogo->property("status").toInt() != 1
+            || !poetPane || !contentPane || !moreButton || !settingsButton
+            || !settingsPage || !readingSizeSelector || !lightThemeChoice
+            || !appLogo || appLogo->property("color").value<QColor>()
+                != window->property("accentColor").value<QColor>()
             || window->property("compactHeader").toBool()
             || moreButton->property("visible").toBool()
             || !poetPane->property("visible").toBool()
             || !contentPane->property("visible").toBool()) {
-            qCritical("The Persian application shell did not load correctly");
+            std::fprintf(stderr, "The Persian application shell did not load correctly. settings=%p size=%p light=%p\n",
+                         static_cast<void *>(settingsPage), static_cast<void *>(readingSizeSelector),
+                         static_cast<void *>(lightThemeChoice));
             return EXIT_FAILURE;
         }
         const qreal welcomeCenterX = welcomeContent->property("x").toReal()
@@ -170,6 +179,76 @@ int main(int argc, char *argv[])
             qCritical("The theme switch did not update the window");
             return EXIT_FAILURE;
         }
+        const QColor lightForeground = window->property("foregroundColor").value<QColor>();
+        QObject *poetRowText = window->findChild<QObject *>(QStringLiteral("poetRowText"));
+        if (poetRowText && (poetRowText->property("color").value<QColor>() != lightForeground
+            || poetRowText->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight)) {
+            qCritical("The light theme did not update poet row text");
+            return EXIT_FAILURE;
+        }
+        if (catalogRepository.ready() && collectionListModel.loadCategory(QStringLiteral("/ferdousi"))) {
+            window->setProperty("page", QStringLiteral("collection"));
+            QCoreApplication::processEvents();
+            QObject *collectionRowText = window->findChild<QObject *>(QStringLiteral("collectionRowText"));
+            if (collectionRowText && (collectionRowText->property("color").value<QColor>() != lightForeground
+                || collectionRowText->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight)) {
+                qCritical("The light theme did not update collection row text");
+                return EXIT_FAILURE;
+            }
+        }
+        const QColor originalAccent = window->property("accentColor").value<QColor>();
+        settingsStore.setAccentPreset(QStringLiteral("teal"));
+        QCoreApplication::processEvents();
+        QObject *logoGlyph = window->findChild<QObject *>(QStringLiteral("appLogoGlyph"));
+        if (window->property("accentColor").value<QColor>() == originalAccent
+            || appLogo->property("color").value<QColor>() != window->property("accentColor").value<QColor>()
+            || !logoGlyph || logoGlyph->property("fillColor").value<QColor>()
+                != window->property("accentTextColor").value<QColor>()) {
+            qCritical("The accent choice did not update the theme");
+            return EXIT_FAILURE;
+        }
+        window->setProperty("page", QStringLiteral("settings"));
+        QCoreApplication::processEvents();
+        QObject *tealAccentChoice = window->findChild<QObject *>(QStringLiteral("accentChoice_teal"));
+        QObject *readingSizeText = window->findChild<QObject *>(QStringLiteral("readingSizeText"));
+        QObject *readingSizePopup = window->findChild<QObject *>(QStringLiteral("readingSizePopup"));
+        QObject *readingSizePopupBackground = window->findChild<QObject *>(QStringLiteral("readingSizePopupBackground"));
+        QObject *readingSizePreview = window->findChild<QObject *>(QStringLiteral("readingSizePreview"));
+        if (!settingsPage->property("visible").toBool()
+            || !lightThemeChoice->property("selected").toBool()
+            || !tealAccentChoice || !tealAccentChoice->property("selected").toBool()
+            || !readingSizeText || readingSizeText->property("color").value<QColor>() != lightForeground
+            || readingSizeText->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight
+            || !readingSizePreview
+            || readingSizePreview->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight
+            || !readingSizePopup || !readingSizePopupBackground
+            || readingSizePopupBackground->property("color").value<QColor>()
+                != window->property("surfaceColor").value<QColor>()
+            || readingSizeSelector->property("currentIndex").toInt() != settingsStore.readingSize() - 16) {
+            std::fprintf(stderr, "The settings page did not load correctly: page=%d light=%d teal=%d size=%d expected=%d\n",
+                         settingsPage->property("visible").toBool(), lightThemeChoice->property("selected").toBool(),
+                         tealAccentChoice && tealAccentChoice->property("selected").toBool(),
+                         readingSizeSelector->property("currentIndex").toInt(), settingsStore.readingSize() - 16);
+            return EXIT_FAILURE;
+        }
+        QMetaObject::invokeMethod(readingSizePopup, "open");
+        QCoreApplication::processEvents();
+        QObject *sizeList = window->findChild<QObject *>(QStringLiteral("readingSizeList"));
+        if (!readingSizePopup->property("visible").toBool()
+            || readingSizePopup->property("height").toReal() < 80
+            || !sizeList || sizeList->property("count").toInt() != 25) {
+            qCritical("The reading-size menu did not open with visible options");
+            return EXIT_FAILURE;
+        }
+        QMetaObject::invokeMethod(readingSizePopup, "close");
+        settingsStore.setReadingSize(29);
+        QCoreApplication::processEvents();
+        if (readingSizeSelector->property("currentIndex").toInt() != 13) {
+            std::fprintf(stderr, "The reading-size selector did not follow the saved value: %d\n",
+                         readingSizeSelector->property("currentIndex").toInt());
+            return EXIT_FAILURE;
+        }
+        QMetaObject::invokeMethod(window, "showPoets");
         window->setProperty("width", 600);
         QCoreApplication::processEvents();
         if (!window->property("compactHeader").toBool()

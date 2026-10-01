@@ -3,6 +3,7 @@ pragma ComponentBehavior: Bound
 import QtQuick
 import QtQuick.Controls
 import QtQuick.Layouts
+import QtQuick.Shapes
 
 ApplicationWindow {
     id: root
@@ -17,6 +18,13 @@ ApplicationWindow {
     readonly property bool bundledFontReady: typography.ready
     readonly property bool bundledFontError: typography.failed
     readonly property bool bundledIconFontReady: typography.iconReady
+    readonly property color accentColor: colors.accent
+    readonly property color accentTextColor: colors.accentText
+    readonly property color foregroundColor: colors.foreground
+    readonly property color surfaceColor: colors.surface
+    readonly property string statusMessage: settingsStore.error !== "" ? settingsStore.error
+        : poemLoader.loading || poemLoader.error !== "" ? poemLoader.statusText
+        : catalogRepository.ready ? "" : catalogRepository.statusText
     property string page: "poets"
     property string selectedPoetName: ""
     property string selectedPoetUrl: ""
@@ -51,6 +59,7 @@ ApplicationWindow {
     AppTheme {
         id: colors
         darkMode: root.settingsStore.theme === "dark"
+        accentPreset: root.settingsStore.accentPreset
     }
 
     Typography { id: typography }
@@ -65,14 +74,26 @@ ApplicationWindow {
             Layout.fillWidth: true
             spacing: 12
 
-            Image {
+            Rectangle {
+                id: appLogo
                 objectName: "appLogo"
-                source: "qrc:/qt/qml/LeoMoon/ParsiNama/assets/app-icon.svg"
-                sourceSize.width: 60
-                sourceSize.height: 60
                 Layout.preferredWidth: root.compactHeader ? 48 : 60
                 Layout.preferredHeight: root.compactHeader ? 48 : 60
-                fillMode: Image.PreserveAspectFit
+                radius: width / 4
+                color: colors.accent
+                clip: true
+                Shape {
+                    width: 256
+                    height: 256
+                    transformOrigin: Item.TopLeft
+                    scale: appLogo.width / 256
+                    ShapePath {
+                        objectName: "appLogoGlyph"
+                        fillColor: colors.accentText
+                        strokeColor: "transparent"
+                        PathSvg { path: "m138.938 151.188 8.53 8.53-8.53 8.532-8.477-8.531zm-19.032 0 8.531 8.53-8.53 8.532-8.532-8.531zm9.516 14 8.531 8.476-8.531 8.531-8.531-8.53zm9.023-19.688h-12.687q-12.797 0-22.531-2.242-9.735-2.242-15.204-8.04-5.468-5.796-5.468-16.515 0-4.703 1.039-9.187 1.094-4.485 2.68-8.313l12.25 4.594q-.876 2.516-1.805 5.797-.875 3.281-.875 6.289 0 5.633 3.937 8.422 3.938 2.734 10.719 3.61 6.781.874 15.258.874h12.797q6.398 0 11.32-.656 4.922-.711 7.71-2.735 2.845-2.023 2.845-6.07 0-3.5-.82-7.984-.82-4.54-1.805-8.696l13.398-3.39q2.297 10.281 2.297 19.195 0 8.04-2.734 13.016-2.68 4.976-7.493 7.601-4.812 2.57-11.156 3.5t-13.672.93" }
+                    }
+                }
                 Accessible.name: "نشان لئومون پارسی‌نما"
             }
             ColumnLayout {
@@ -148,17 +169,6 @@ ApplicationWindow {
                 textColor: colors.foreground
                 borderColor: colors.border
                 focusColor: colors.focus
-            }
-            HeaderAction {
-                objectName: "themeButton"
-                symbol: root.settingsStore.theme === "dark" ? "\ue518" : "\ue51c"
-                hint: root.settingsStore.theme === "dark" ? "حالت روشن" : "حالت تیره"
-                font.family: typography.iconFamily
-                surfaceColor: colors.surface
-                textColor: colors.foreground
-                borderColor: colors.border
-                focusColor: colors.focus
-                onClicked: root.settingsStore.toggleTheme()
             }
             HeaderAction {
                 objectName: "settingsButton"
@@ -252,8 +262,17 @@ ApplicationWindow {
                                 LayoutMirroring.enabled: true
                                 text: poetEntry.name
                                 font.family: typography.family
-                                palette.buttonText: poetEntry.fullUrl === root.selectedPoetUrl
-                                    ? colors.accentText : colors.foreground
+                                contentItem: Text {
+                                    objectName: "poetRowText"
+                                    LayoutMirroring.enabled: false
+                                    text: poetRow.text
+                                    font: poetRow.font
+                                    color: poetEntry.fullUrl === root.selectedPoetUrl
+                                        ? colors.accentText : colors.foreground
+                                    horizontalAlignment: Text.AlignRight
+                                    verticalAlignment: Text.AlignVCenter
+                                    elide: Text.ElideRight
+                                }
                                 focusPolicy: Qt.StrongFocus
                                 Accessible.name: poetEntry.name
                                 background: Rectangle {
@@ -321,20 +340,14 @@ ApplicationWindow {
                         horizontalAlignment: Text.AlignRight
                         wrapMode: Text.Wrap
                     }
-                    RowLayout {
+                    SettingsPage {
+                        objectName: "settingsPage"
                         visible: root.page === "settings"
-                        Label { text: "اندازهٔ متن"; color: colors.foreground }
-                        Button {
-                            text: "−"
-                            Accessible.name: "کوچک کردن متن"
-                            onClicked: root.settingsStore.setReadingSize(root.settingsStore.readingSize - 1)
-                        }
-                        Label { text: root.settingsStore.readingSize.toString(); color: colors.foreground }
-                        Button {
-                            text: "+"
-                            Accessible.name: "بزرگ کردن متن"
-                            onClicked: root.settingsStore.setReadingSize(root.settingsStore.readingSize + 1)
-                        }
+                        Layout.fillWidth: true
+                        Layout.fillHeight: true
+                        settingsStore: root.settingsStore
+                        appTheme: colors
+                        typography: typography
                     }
                     ListView {
                         id: collectionList
@@ -369,7 +382,16 @@ ApplicationWindow {
                                 LayoutMirroring.enabled: true
                                 text: collectionEntry.title
                                 font.family: typography.family
-                                palette.buttonText: colors.foreground
+                                contentItem: Text {
+                                    objectName: "collectionRowText"
+                                    LayoutMirroring.enabled: false
+                                    text: collectionRow.text
+                                    font: collectionRow.font
+                                    color: colors.foreground
+                                    horizontalAlignment: Text.AlignRight
+                                    verticalAlignment: Text.AlignVCenter
+                                    elide: Text.ElideRight
+                                }
                                 focusPolicy: Qt.StrongFocus
                                 Accessible.name: collectionEntry.title
                                 background: Rectangle {
@@ -387,13 +409,13 @@ ApplicationWindow {
                             }
                         }
                     }
-                    Item { Layout.fillHeight: true; visible: root.page === "settings" }
                 }
             }
         }
 
         Rectangle {
             Layout.fillWidth: true
+            visible: root.statusMessage !== ""
             implicitHeight: 40
             radius: 10
             color: colors.surface
@@ -402,9 +424,8 @@ ApplicationWindow {
                 objectName: "catalogStatus"
                 anchors.fill: parent
                 anchors.margins: 10
-                text: root.settingsStore.error !== "" ? root.settingsStore.error
-                    : root.poemLoader.loading || root.poemLoader.error !== ""
-                    ? root.poemLoader.statusText : root.catalogRepository.statusText
+                LayoutMirroring.enabled: false
+                text: root.statusMessage
                 color: colors.muted
                 horizontalAlignment: Text.AlignRight
                 verticalAlignment: Text.AlignVCenter

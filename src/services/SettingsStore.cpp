@@ -10,9 +10,16 @@
 #include <utility>
 
 namespace {
-constexpr int settingsVersion = 1;
+constexpr int settingsVersion = 2;
 constexpr int minimumReadingSize = 16;
 constexpr int maximumReadingSize = 40;
+
+bool validAccentPreset(const QString &preset)
+{
+    return preset == QLatin1String("purple") || preset == QLatin1String("slate")
+        || preset == QLatin1String("faint") || preset == QLatin1String("blue")
+        || preset == QLatin1String("teal") || preset == QLatin1String("rose");
+}
 }
 
 SettingsStore::SettingsStore(QString homePath, QObject *parent)
@@ -57,10 +64,14 @@ bool SettingsStore::reload()
         return false;
     }
     const QJsonObject object = document.object();
+    const int version = object.value(QStringLiteral("version")).toInt();
     const QString theme = object.value(QStringLiteral("theme")).toString();
+    const QString accentPreset = version == 1 ? QStringLiteral("purple")
+        : object.value(QStringLiteral("accentPreset")).toString();
     const QJsonValue readingSize = object.value(QStringLiteral("readingSize"));
-    if (object.value(QStringLiteral("version")).toInt() != settingsVersion
+    if ((version != 1 && version != settingsVersion)
         || (theme != QLatin1String("dark") && theme != QLatin1String("light"))
+        || !validAccentPreset(accentPreset)
         || !readingSize.isDouble()
         || readingSize.toDouble() != readingSize.toInt()
         || readingSize.toInt() < minimumReadingSize
@@ -69,6 +80,7 @@ bool SettingsStore::reload()
         return false;
     }
     m_theme = theme;
+    m_accentPreset = accentPreset;
     m_readingSize = readingSize.toInt();
     setError({});
     emit settingsChanged();
@@ -89,6 +101,7 @@ bool SettingsStore::save()
     const QJsonObject object {
         {QStringLiteral("version"), settingsVersion},
         {QStringLiteral("theme"), m_theme},
+        {QStringLiteral("accentPreset"), m_accentPreset},
         {QStringLiteral("readingSize"), m_readingSize}
     };
     const QByteArray data = QJsonDocument(object).toJson(QJsonDocument::Indented);
@@ -108,6 +121,16 @@ void SettingsStore::setTheme(const QString &theme)
         return;
     }
     m_theme = theme;
+    emit settingsChanged();
+    save();
+}
+
+void SettingsStore::setAccentPreset(const QString &preset)
+{
+    if (!validAccentPreset(preset) || m_accentPreset == preset) {
+        return;
+    }
+    m_accentPreset = preset;
     emit settingsChanged();
     save();
 }
