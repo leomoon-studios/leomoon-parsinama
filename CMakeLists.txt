@@ -36,6 +36,7 @@ find_package(Qt6 6.5 REQUIRED COMPONENTS
 )
 
 qt_standard_project_setup(REQUIRES 6.5)
+qt_policy(SET QTP0004 NEW)
 
 set(PARSINAMA_APP_ID "com.leomoon.ParsiNama")
 
@@ -50,6 +51,10 @@ qt_add_library(parsinama_data STATIC
     src/data/PoemLoader.h
     src/data/PoetListModel.cpp
     src/data/PoetListModel.h
+    src/services/SettingsStore.cpp
+    src/services/SettingsStore.h
+    src/services/UserDataPaths.cpp
+    src/services/UserDataPaths.h
 )
 target_include_directories(parsinama_data PUBLIC "${CMAKE_CURRENT_SOURCE_DIR}/src")
 target_link_libraries(parsinama_data PUBLIC Qt6::Core Qt6::Concurrent Qt6::Sql)
@@ -59,12 +64,22 @@ qt_add_executable(leomoon_parsinama
 )
 
 set_source_files_properties(qml/Main.qml PROPERTIES QT_RESOURCE_ALIAS Main.qml)
-
+set_source_files_properties(qml/theme/AppTheme.qml PROPERTIES QT_RESOURCE_ALIAS theme/AppTheme.qml)
+set_source_files_properties(qml/components/Typography.qml PROPERTIES QT_RESOURCE_ALIAS components/Typography.qml)
+set_source_files_properties(qml/components/HeaderAction.qml PROPERTIES QT_RESOURCE_ALIAS components/HeaderAction.qml)
 qt_add_qml_module(leomoon_parsinama
     URI LeoMoon.ParsiNama
     VERSION 1.0
     RESOURCE_PREFIX /qt/qml
-    QML_FILES qml/Main.qml
+    QML_FILES
+        qml/Main.qml
+        qml/theme/AppTheme.qml
+        qml/components/Typography.qml
+        qml/components/HeaderAction.qml
+    RESOURCES
+        assets/app-icon.svg
+        "assets/fonts/Vazirmatn[wght].ttf"
+        assets/fonts/OFL.txt
 )
 
 target_link_libraries(leomoon_parsinama PRIVATE
@@ -135,4 +150,8 @@ if(BUILD_TESTING)
     target_link_libraries(parsinama_data_tests PRIVATE Qt6::Core Qt6::Sql Qt6::Test parsinama_data)
     add_test(NAME native_data_access COMMAND parsinama_data_tests)
     set_tests_properties(native_data_access PROPERTIES TIMEOUT 20)
+
+    qt_add_executable(parsinama_settings_tests tests/settings_tests.cpp)
+    target_link_libraries(parsinama_settings_tests PRIVATE Qt6::Core Qt6::Test parsinama_data)
+    add_test(NAME user_settings COMMAND parsinama_settings_tests)
 endif()
