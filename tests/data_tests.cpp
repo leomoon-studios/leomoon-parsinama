@@ -78,7 +78,7 @@ void DataTests::initTestCase()
                 {QStringLiteral("CatId"), 34},
                 {QStringLiteral("Title"), QStringLiteral("شعر بلند")},
                 {QStringLiteral("FullUrl"), QStringLiteral("/ferdousi/shahname/aghaz/long")},
-                {QStringLiteral("PoemSummary"), QStringLiteral("خلاصه")},
+                {QStringLiteral("PoemSummary"), QStringLiteral("خلاصه\n  متن")},
                 {QStringLiteral("Metre"), QJsonObject{{QStringLiteral("Rhythm"), QStringLiteral("وزن آزمایشی")}}},
                 {QStringLiteral("Sections"), QJsonArray{QJsonObject{
                     {QStringLiteral("Index"), 0}, {QStringLiteral("Number"), 1},
@@ -283,16 +283,21 @@ void DataTests::largePoemLoadsAsynchronously()
     QVERIFY(finished.constFirst().at(0).toBool());
     QVERIFY(!loader.loading());
     QCOMPARE(loader.verses()->rowCount(), 2500);
+    QCOMPARE(loader.readingRows()->rowCount(), 1250);
     QCOMPARE(loader.sections()->rowCount(), 1);
     QCOMPARE(loader.metre(), QStringLiteral("وزن آزمایشی"));
-    QCOMPARE(loader.summary(), QStringLiteral("خلاصه"));
+    QCOMPARE(loader.summary(), QStringLiteral("خلاصه متن"));
     QCOMPARE(loader.verses()->data(loader.verses()->index(0, 0), VerseListModel::PositionRole).toString(),
              QStringLiteral("Right"));
+    QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::PairedRole).toBool(), true);
+    QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::RightTextRole).toString(),
+             loader.verses()->data(loader.verses()->index(0, 0), VerseListModel::TextRole).toString());
     loader.loadByUrl(QStringLiteral("/missing/poem"));
     QTRY_COMPARE_WITH_TIMEOUT(finished.size(), 2, 10000);
     QVERIFY(!finished.at(1).at(0).toBool());
     QVERIFY(!loader.error().isEmpty());
     QCOMPARE(loader.verses()->rowCount(), 0);
+    QCOMPARE(loader.readingRows()->rowCount(), 0);
 }
 
 void DataTests::fullCatalogQueries()
@@ -316,6 +321,12 @@ void DataTests::fullCatalogQueries()
     QVERIFY(finished.constFirst().at(0).toBool());
     QCOMPARE(loader.verses()->rowCount(), 2500);
     QCOMPARE(loader.sections()->rowCount(), 1247);
+    loader.loadByUrl(QStringLiteral("/hafez/ghazal/sh1"));
+    QTRY_COMPARE_WITH_TIMEOUT(finished.size(), 2, 10000);
+    QVERIFY(finished.at(1).at(0).toBool());
+    QCOMPARE(loader.readingRows()->rowCount(), 7);
+    QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::PairedRole).toBool(), true);
+    QVERIFY(!loader.summary().contains(QLatin1Char('\n')));
 }
 
 QTEST_GUILESS_MAIN(DataTests)

@@ -25,6 +25,7 @@ struct PoemLoadResult
     QString summary;
     QVector<SectionRecord> sections;
     QVector<VerseRecord> verses;
+    QVector<ReadingRowRecord> readingRows;
 };
 
 PoemLoadResult loadPoem(const QString &catalogPath, const QString &url)
@@ -80,7 +81,7 @@ PoemLoadResult loadPoem(const QString &catalogPath, const QString &url)
     const QJsonObject poem = document.object();
     result.title = poem.value(QStringLiteral("Title")).toString();
     result.fullUrl = poem.value(QStringLiteral("FullUrl")).toString();
-    result.summary = poem.value(QStringLiteral("PoemSummary")).toString();
+    result.summary = poem.value(QStringLiteral("PoemSummary")).toString().simplified();
     result.metre = poem.value(QStringLiteral("Metre")).toObject()
         .value(QStringLiteral("Rhythm")).toString();
     const QJsonArray sections = poem.value(QStringLiteral("Sections")).toArray();
@@ -107,8 +108,24 @@ PoemLoadResult loadPoem(const QString &catalogPath, const QString &url)
             verse.value(QStringLiteral("CoupletIndex")).toInt(),
             verse.value(QStringLiteral("SectionIndex1")).toInt(),
             verse.value(QStringLiteral("SectionIndex2")).toInt(),
-            verse.value(QStringLiteral("CoupletSummary")).toString()
+            verse.value(QStringLiteral("CoupletSummary")).toString().simplified()
         });
+    }
+    result.readingRows.reserve(result.verses.size());
+    for (qsizetype index = 0; index < result.verses.size(); ++index) {
+        const VerseRecord &verse = result.verses.at(index);
+        if (verse.position == QLatin1String("Right") && index + 1 < result.verses.size()) {
+            const VerseRecord &next = result.verses.at(index + 1);
+            if (next.position == QLatin1String("Left")
+                && next.coupletIndex == verse.coupletIndex
+                && next.sectionIndex1 == verse.sectionIndex1
+                && next.sectionIndex2 == verse.sectionIndex2) {
+                result.readingRows.append({true, verse.text, next.text, {}});
+                ++index;
+                continue;
+            }
+        }
+        result.readingRows.append({false, {}, {}, verse.text});
     }
     if (result.title.isEmpty() || result.fullUrl != url) {
         result.error = QStringLiteral("شناسهٔ شعر در پایگاه داده معتبر نیست.");
@@ -198,9 +215,45 @@ void VerseListModel::replace(QVector<VerseRecord> verses)
     emit countChanged();
 }
 
+ReadingRowListModel::ReadingRowListModel(QObject *parent) : QAbstractListModel(parent) {}
+
+int ReadingRowListModel::rowCount(const QModelIndex &parent) const
+{
+    return parent.isValid() ? 0 : m_rows.size();
+}
+
+QVariant ReadingRowListModel::data(const QModelIndex &index, int role) const
+{
+    if (!index.isValid() || index.row() < 0 || index.row() >= m_rows.size()) {
+        return {};
+    }
+    const ReadingRowRecord &row = m_rows.at(index.row());
+    switch (role) {
+    case PairedRole: return row.paired;
+    case RightTextRole: return row.rightText;
+    case LeftTextRole: return row.leftText;
+    case TextRole: return row.text;
+    default: return {};
+    }
+}
+
+QHash<int, QByteArray> ReadingRowListModel::roleNames() const
+{
+    return {{PairedRole, "paired"}, {RightTextRole, "rightText"},
+            {LeftTextRole, "leftText"}, {TextRole, "text"}};
+}
+
+void ReadingRowListModel::replace(QVector<ReadingRowRecord> rows)
+{
+    beginResetModel();
+    m_rows = std::move(rows);
+    endResetModel();
+    emit countChanged();
+}
+
 PoemLoader::PoemLoader(QString catalogPath, QObject *parent)
     : QObject(parent), m_catalogPath(std::move(catalogPath)),
-      m_sections(this), m_verses(this)
+      m_sections(this), m_verses(this), m_readingRows(this)
 {
 }
 
@@ -223,6 +276,7 @@ void PoemLoader::clear()
     m_summary.clear();
     m_sections.replace({});
     m_verses.replace({});
+    m_readingRows.replace({});
     emit stateChanged();
 }
 
@@ -255,6 +309,7 @@ void PoemLoader::loadByUrl(const QString &url)
             m_summary = std::move(result.summary);
             m_sections.replace(std::move(result.sections));
             m_verses.replace(std::move(result.verses));
+            m_readingRows.replace(std::move(result.readingRows));
         }
         emit stateChanged();
         emit requestFinished(m_error.isEmpty());
