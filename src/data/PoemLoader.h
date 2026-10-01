@@ -25,6 +25,14 @@ struct VerseRecord
     QString coupletSummary;
 };
 
+struct ReadingRowRecord
+{
+    bool paired = false;
+    QString rightText;
+    QString leftText;
+    QString text;
+};
+
 class SectionListModel final : public QAbstractListModel
 {
     Q_OBJECT
@@ -84,6 +92,33 @@ private:
     QVector<VerseRecord> m_verses;
 };
 
+class ReadingRowListModel final : public QAbstractListModel
+{
+    Q_OBJECT
+    Q_PROPERTY(int count READ count NOTIFY countChanged)
+
+public:
+    enum Role {
+        PairedRole = Qt::UserRole + 1,
+        RightTextRole,
+        LeftTextRole,
+        TextRole
+    };
+
+    explicit ReadingRowListModel(QObject *parent = nullptr);
+    int rowCount(const QModelIndex &parent = QModelIndex()) const override;
+    QVariant data(const QModelIndex &index, int role) const override;
+    QHash<int, QByteArray> roleNames() const override;
+    int count() const { return m_rows.size(); }
+    void replace(QVector<ReadingRowRecord> rows);
+
+signals:
+    void countChanged();
+
+private:
+    QVector<ReadingRowRecord> m_rows;
+};
+
 class PoemLoader final : public QObject
 {
     Q_OBJECT
@@ -96,6 +131,7 @@ class PoemLoader final : public QObject
     Q_PROPERTY(QString summary READ summary NOTIFY stateChanged)
     Q_PROPERTY(QAbstractItemModel *sections READ sections CONSTANT)
     Q_PROPERTY(QAbstractItemModel *verses READ verses CONSTANT)
+    Q_PROPERTY(QAbstractItemModel *readingRows READ readingRows CONSTANT)
 
 public:
     explicit PoemLoader(QString catalogPath, QObject *parent = nullptr);
@@ -109,6 +145,7 @@ public:
     QString summary() const { return m_summary; }
     QAbstractItemModel *sections() { return &m_sections; }
     QAbstractItemModel *verses() { return &m_verses; }
+    QAbstractItemModel *readingRows() { return &m_readingRows; }
 
     Q_INVOKABLE void loadByUrl(const QString &url);
     Q_INVOKABLE void clear();
@@ -126,6 +163,7 @@ private:
     QString m_summary;
     SectionListModel m_sections;
     VerseListModel m_verses;
+    ReadingRowListModel m_readingRows;
     quint64 m_requestSerial = 0;
     bool m_loading = false;
 };

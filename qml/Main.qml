@@ -615,7 +615,7 @@ ApplicationWindow {
                             color: colors.muted
                             font.pixelSize: 15
                             Layout.fillWidth: true
-                            horizontalAlignment: Text.AlignRight
+                            horizontalAlignment: Text.AlignJustify
                             wrapMode: Text.Wrap
                         }
                         ListView {
@@ -623,7 +623,7 @@ ApplicationWindow {
                             objectName: "poemList"
                             Layout.fillWidth: true
                             Layout.fillHeight: true
-                            model: root.poemLoader.verses
+                            model: root.poemLoader.readingRows
                             clip: true
                             spacing: 8
                             ScrollBar.vertical: AppScrollBar {
@@ -633,19 +633,62 @@ ApplicationWindow {
                             }
                             delegate: Item {
                                 id: verseEntry
+                                required property bool paired
+                                required property string rightText
+                                required property string leftText
                                 required property string text
+                                readonly property bool stacked: poemList.width < 700
                                 width: poemList.width
-                                height: verseText.implicitHeight + 8
-                                Label {
-                                    id: verseText
+                                height: readingContent.height + 14
+                                Item {
+                                    id: readingContent
                                     LayoutMirroring.enabled: false
-                                    x: 24
-                                    width: verseEntry.width - 48
-                                    text: verseEntry.text
-                                    color: colors.foreground
-                                    font.pixelSize: root.settingsStore.readingSize
-                                    horizontalAlignment: Text.AlignRight
-                                    wrapMode: Text.Wrap
+                                    width: Math.min(Math.max(0, verseEntry.width - 48), 1000)
+                                    anchors.horizontalCenter: parent.horizontalCenter
+                                    height: verseEntry.paired
+                                        ? verseEntry.stacked
+                                            ? rightVerse.implicitHeight + leftVerse.implicitHeight + 10
+                                            : Math.max(rightVerse.implicitHeight, leftVerse.implicitHeight)
+                                        : singleVerse.implicitHeight
+                                    Text {
+                                        id: rightVerse
+                                        visible: verseEntry.paired
+                                        width: verseEntry.stacked ? readingContent.width
+                                            : (readingContent.width - 28) / 2
+                                        x: verseEntry.stacked ? 0 : readingContent.width - width
+                                        text: verseEntry.rightText
+                                        color: colors.foreground
+                                        font.family: typography.family
+                                        font.pixelSize: root.settingsStore.readingSize
+                                        horizontalAlignment: verseEntry.stacked ? Text.AlignRight
+                                            : lineCount > 1 ? Text.AlignJustify : Text.AlignHCenter
+                                        wrapMode: Text.Wrap
+                                    }
+                                    Text {
+                                        id: leftVerse
+                                        visible: verseEntry.paired
+                                        width: verseEntry.stacked ? readingContent.width
+                                            : (readingContent.width - 28) / 2
+                                        y: verseEntry.stacked ? rightVerse.implicitHeight + 10 : 0
+                                        text: verseEntry.leftText
+                                        color: colors.foreground
+                                        font.family: typography.family
+                                        font.pixelSize: root.settingsStore.readingSize
+                                        horizontalAlignment: verseEntry.stacked ? Text.AlignRight
+                                            : lineCount > 1 ? Text.AlignJustify : Text.AlignHCenter
+                                        wrapMode: Text.Wrap
+                                    }
+                                    Text {
+                                        id: singleVerse
+                                        visible: !verseEntry.paired
+                                        width: readingContent.width
+                                        text: verseEntry.text
+                                        color: colors.foreground
+                                        font.family: typography.family
+                                        font.pixelSize: root.settingsStore.readingSize
+                                        horizontalAlignment: Text.AlignRight
+                                        wrapMode: Text.Wrap
+                                    }
                                 }
                             }
                         }
