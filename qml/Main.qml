@@ -14,6 +14,7 @@ ApplicationWindow {
     required property var poemLoader
     required property var navigationController
     required property var settingsStore
+    required property var bookmarkStore
     readonly property bool compactHeader: width < 760
     readonly property bool compactBrowse: width < 760
     readonly property bool bundledFontReady: typography.ready
@@ -23,7 +24,8 @@ ApplicationWindow {
     readonly property color accentTextColor: colors.accentText
     readonly property color foregroundColor: colors.foreground
     readonly property color surfaceColor: colors.surface
-    readonly property string statusMessage: settingsStore.error !== "" ? settingsStore.error
+    readonly property string statusMessage: bookmarkStore.error !== "" ? bookmarkStore.error
+        : settingsStore.error !== "" ? settingsStore.error
         : navigationController.error !== "" ? navigationController.error
         : poemLoader.loading || poemLoader.error !== "" ? poemLoader.statusText
         : catalogRepository.ready ? "" : catalogRepository.statusText
@@ -56,6 +58,27 @@ ApplicationWindow {
         page = "poets"
     }
 
+    function showFavorites() {
+        selectedPoetName = ""
+        selectedPoetUrl = ""
+        page = "favorites"
+    }
+
+    function openFavorite(entryType, fullUrl) {
+        let opened = false
+        if (entryType === "poet")
+            opened = navigationController.openPoet(fullUrl, poetList.contentY, collectionScrollOffset())
+        else if (entryType === "collection")
+            opened = navigationController.openCategory(fullUrl, poetList.contentY, collectionScrollOffset())
+        else if (entryType === "poem")
+            opened = navigationController.openPoem(fullUrl, poetList.contentY, collectionScrollOffset())
+        if (opened) {
+            page = navigationController.page
+            selectedPoetName = navigationController.poetName
+            selectedPoetUrl = navigationController.poetUrl
+        }
+    }
+
     function openCategory(fullUrl) {
         navigationController.openCategory(fullUrl, poetList.contentY, collectionScrollOffset())
     }
@@ -64,35 +87,8 @@ ApplicationWindow {
         navigationController.openPoem(fullUrl, poetList.contentY, collectionScrollOffset())
     }
 
-    function previousPoem() {
-        navigationController.openPreviousPoem(poetList.contentY, collectionScrollOffset())
-    }
-
-    function nextPoem() {
-        navigationController.openNextPoem(poetList.contentY, collectionScrollOffset())
-    }
-
-    Shortcut {
-        sequence: "Alt+Right"
-        enabled: root.page === "poem" && root.navigationController.hasPreviousPoem
-        onActivated: root.previousPoem()
-    }
-    Shortcut {
-        sequence: "Alt+Left"
-        enabled: root.page === "poem" && root.navigationController.hasNextPoem
-        onActivated: root.nextPoem()
-    }
-
     function openBreadcrumb(index) {
         navigationController.openBreadcrumb(index, poetList.contentY, collectionScrollOffset())
-    }
-
-    function goBack() {
-        navigationController.back(poetList.contentY, collectionScrollOffset())
-    }
-
-    function goForward() {
-        navigationController.forward(poetList.contentY, collectionScrollOffset())
     }
 
     function collectionScrollOffset() {
@@ -227,15 +223,15 @@ ApplicationWindow {
             }
             HeaderAction {
                 objectName: "favoritesButton"
-                symbol: "\ue87d"
+                symbol: "\ue866"
                 hint: "نشانک‌ها"
                 font.family: typography.iconFamily
                 visible: !root.compactHeader
-                enabled: false
                 surfaceColor: colors.surface
                 textColor: colors.foreground
                 borderColor: colors.border
                 focusColor: colors.focus
+                onClicked: root.showFavorites()
             }
             HeaderAction {
                 objectName: "searchButton"
@@ -453,7 +449,8 @@ ApplicationWindow {
                         Label {
                             objectName: "contentTitle"
                             LayoutMirroring.enabled: false
-                            text: root.page === "settings" ? "تنظیمات" : root.navigationController.title
+                            text: root.page === "settings" ? "تنظیمات"
+                                : root.page === "favorites" ? "نشانک‌ها" : root.navigationController.title
                             color: colors.foreground
                             font.pixelSize: 24
                             font.weight: Font.DemiBold
@@ -462,56 +459,17 @@ ApplicationWindow {
                             wrapMode: Text.Wrap
                         }
                         HeaderAction {
-                            objectName: "previousPoemButton"
-                            visible: root.page === "poem"
-                            enabled: root.navigationController.hasPreviousPoem
-                            symbol: "\ue5c8"
-                            hint: "شعر پیشین (Alt+→)"
+                            objectName: "toggleFavoriteButton"
+                            visible: root.page === "poet" || root.page === "collection" || root.page === "poem"
+                            enabled: root.bookmarkStore.canFavoriteCurrent
+                            symbol: "\ue866"
+                            hint: root.bookmarkStore.currentFavorite ? "حذف نشانک" : "افزودن نشانک"
                             font.family: typography.iconFamily
                             surfaceColor: colors.surface
-                            textColor: colors.foreground
+                            textColor: root.bookmarkStore.currentFavorite ? colors.accent : colors.foreground
                             borderColor: colors.border
                             focusColor: colors.focus
-                            onClicked: root.previousPoem()
-                        }
-                        HeaderAction {
-                            objectName: "nextPoemButton"
-                            visible: root.page === "poem"
-                            enabled: root.navigationController.hasNextPoem
-                            symbol: "\ue5c4"
-                            hint: "شعر بعدی (Alt+←)"
-                            font.family: typography.iconFamily
-                            surfaceColor: colors.surface
-                            textColor: colors.foreground
-                            borderColor: colors.border
-                            focusColor: colors.focus
-                            onClicked: root.nextPoem()
-                        }
-                        HeaderAction {
-                            objectName: "backButton"
-                            visible: root.page !== "settings" && root.page !== "poem"
-                            enabled: root.navigationController.canGoBack
-                            symbol: "\ue5c8"
-                            hint: "بازگشت"
-                            font.family: typography.iconFamily
-                            surfaceColor: colors.surface
-                            textColor: colors.foreground
-                            borderColor: colors.border
-                            focusColor: colors.focus
-                            onClicked: root.goBack()
-                        }
-                        HeaderAction {
-                            objectName: "forwardButton"
-                            visible: root.page !== "settings" && root.page !== "poem"
-                            enabled: root.navigationController.canGoForward
-                            symbol: "\ue5c4"
-                            hint: "پیش‌روی"
-                            font.family: typography.iconFamily
-                            surfaceColor: colors.surface
-                            textColor: colors.foreground
-                            borderColor: colors.border
-                            focusColor: colors.focus
-                            onClicked: root.goForward()
+                            onClicked: root.bookmarkStore.toggleCurrent()
                         }
                     }
                     BreadcrumbBar {
@@ -532,6 +490,17 @@ ApplicationWindow {
                         settingsStore: root.settingsStore
                         appTheme: colors
                         typography: typography
+                    }
+                    FavoritesPage {
+                        objectName: "favoritesPage"
+                        visible: root.page === "favorites"
+                        Layout.fillWidth: true
+                        Layout.fillHeight: true
+                        bookmarkStore: root.bookmarkStore
+                        appTheme: colors
+                        typography: typography
+                        onActivated: (entryType, fullUrl) => root.openFavorite(entryType, fullUrl)
+                        onRemoveRequested: (entryType, fullUrl) => root.bookmarkStore.remove(entryType, fullUrl)
                     }
                     ListView {
                         id: collectionList
@@ -727,7 +696,7 @@ ApplicationWindow {
             text: "شاعران"
             onTriggered: root.showPoets()
         }
-        AppMenuItem { appTheme: colors; text: "نشانک‌ها"; enabled: false }
+        AppMenuItem { appTheme: colors; text: "نشانک‌ها"; onTriggered: root.showFavorites() }
         AppMenuItem { appTheme: colors; text: "جستجو"; enabled: false }
         AppMenuItem { appTheme: colors; text: "چاپ"; enabled: false }
         AppMenuItem {

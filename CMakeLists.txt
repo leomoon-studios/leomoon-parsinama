@@ -55,6 +55,8 @@ qt_add_library(parsinama_data STATIC
     src/data/PoetListModel.h
     src/services/SettingsStore.cpp
     src/services/SettingsStore.h
+    src/services/BookmarkStore.cpp
+    src/services/BookmarkStore.h
     src/services/UserDataPaths.cpp
     src/services/UserDataPaths.h
 )
@@ -75,6 +77,7 @@ set_source_files_properties(qml/components/AppMenuItem.qml PROPERTIES QT_RESOURC
 set_source_files_properties(qml/components/BreadcrumbBar.qml PROPERTIES QT_RESOURCE_ALIAS components/BreadcrumbBar.qml)
 set_source_files_properties(qml/settings/SettingsPage.qml PROPERTIES QT_RESOURCE_ALIAS settings/SettingsPage.qml)
 set_source_files_properties(qml/reader/PoemPage.qml PROPERTIES QT_RESOURCE_ALIAS reader/PoemPage.qml)
+set_source_files_properties(qml/favorites/FavoritesPage.qml PROPERTIES QT_RESOURCE_ALIAS favorites/FavoritesPage.qml)
 qt_add_qml_module(leomoon_parsinama
     URI LeoMoon.ParsiNama
     VERSION 1.0
@@ -90,6 +93,7 @@ qt_add_qml_module(leomoon_parsinama
         qml/components/BreadcrumbBar.qml
         qml/settings/SettingsPage.qml
         qml/reader/PoemPage.qml
+        qml/favorites/FavoritesPage.qml
     RESOURCES
         assets/app-icon.svg
         "assets/fonts/Vazirmatn[wght].ttf"

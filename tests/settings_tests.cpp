@@ -30,6 +30,17 @@ void SettingsTests::pathsUsePlatformConfigDirectory()
     QVERIFY(configBase.isValid());
     QCOMPARE(UserDataPaths::settingsFile(configBase.path()),
              QDir(configBase.path()).filePath(QStringLiteral("leomoon-parsinama/settings.json")));
+    QCOMPARE(UserDataPaths::bookmarksFile(configBase.path()),
+             QDir(configBase.path()).filePath(QStringLiteral("leomoon-parsinama/bookmarks.json")));
+    const QStringList platformBases {
+        QStringLiteral("/home/reader/.config"),
+        QStringLiteral("/Users/reader/Library/Preferences"),
+        QStringLiteral("C:/Users/reader/AppData/Local")
+    };
+    for (const QString &base : platformBases) {
+        QCOMPARE(UserDataPaths::bookmarksFile(base),
+                 QDir(base).filePath(QStringLiteral("leomoon-parsinama/bookmarks.json")));
+    }
 }
 
 void SettingsTests::createsDefaultSettingsOnFirstRun()

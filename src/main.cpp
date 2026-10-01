@@ -5,15 +5,18 @@
 #include "data/PoemLoader.h"
 #include "data/PoetListModel.h"
 #include "services/SettingsStore.h"
+#include "services/BookmarkStore.h"
 
 #include <QCoreApplication>
 #include <QColor>
 #include <QEventLoop>
+#include <QFont>
 #include <QFileInfo>
 #include <QGuiApplication>
 #include <QIcon>
 #include <QQmlApplicationEngine>
 #include <QQuickItem>
+#include <QRawFont>
 #include <QQuickStyle>
 #include <QThread>
 #include <QTemporaryDir>
@@ -96,6 +99,8 @@ int main(int argc, char *argv[])
     const bool smokeTest = application.arguments().contains(QStringLiteral("--smoke-test"));
     QTemporaryDir smokeConfigBase;
     SettingsStore settingsStore(smokeTest ? smokeConfigBase.path() : QString{});
+    BookmarkStore bookmarkStore(&catalogRepository, &navigationController,
+                                smokeTest ? smokeConfigBase.path() : QString{});
     if (smokeTest && (settingsStore.theme() != QLatin1String("light")
         || !QFileInfo::exists(settingsStore.filePath()))) {
         qCritical("The first launch did not create light-theme settings");
@@ -119,7 +124,8 @@ int main(int argc, char *argv[])
         {QStringLiteral("collectionListModel"), QVariant::fromValue(&collectionListModel)},
         {QStringLiteral("poemLoader"), QVariant::fromValue(&poemLoader)},
         {QStringLiteral("navigationController"), QVariant::fromValue(&navigationController)},
-        {QStringLiteral("settingsStore"), QVariant::fromValue(&settingsStore)}
+        {QStringLiteral("settingsStore"), QVariant::fromValue(&settingsStore)},
+        {QStringLiteral("bookmarkStore"), QVariant::fromValue(&bookmarkStore)}
     });
     QObject::connect(&engine, &QQmlApplicationEngine::objectCreationFailed,
                      &application, [] { QCoreApplication::exit(EXIT_FAILURE); },
@@ -203,6 +209,42 @@ int main(int argc, char *argv[])
                          static_cast<void *>(lightThemeChoice));
             return EXIT_FAILURE;
         }
+        QObject *favoritesPage = window->findChild<QObject *>(QStringLiteral("favoritesPage"));
+        QObject *favoritesEmptyState = window->findChild<QObject *>(QStringLiteral("favoritesEmptyState"));
+        QObject *favoritesButton = window->findChild<QObject *>(QStringLiteral("favoritesButton"));
+        QObject *toggleFavoriteButton = window->findChild<QObject *>(QStringLiteral("toggleFavoriteButton"));
+        if (!favoritesPage || !favoritesEmptyState || !favoritesButton
+            || !toggleFavoriteButton
+            || !QFileInfo::exists(bookmarkStore.filePath())
+            || bookmarkStore.count() != 0
+            || !QMetaObject::invokeMethod(window, "showFavorites")) {
+            std::fprintf(stderr, "The empty favorites page did not open: page=%p empty=%p button=%p file=%d count=%d\n",
+                         static_cast<void *>(favoritesPage), static_cast<void *>(favoritesEmptyState),
+                         static_cast<void *>(favoritesButton), QFileInfo::exists(bookmarkStore.filePath()),
+                         bookmarkStore.count());
+            return EXIT_FAILURE;
+        }
+        const QFont iconFont = favoritesButton->property("font").value<QFont>();
+        const QRawFont iconRawFont = QRawFont::fromFont(iconFont);
+        if (!iconRawFont.isValid() || !iconRawFont.supportsCharacter(QChar(0xe866))
+            || !iconRawFont.supportsCharacter(QChar(0xe872))
+            || !iconRawFont.supportsCharacter(QChar(0xe87d))
+            || favoritesButton->property("symbol").toString() != QString(QChar(0xe866))
+            || toggleFavoriteButton->property("symbol").toString() != QString(QChar(0xe866))) {
+            std::fprintf(stderr, "The bundled bookmark, delete, or retained heart icon is missing.\n");
+            return EXIT_FAILURE;
+        }
+        QCoreApplication::processEvents();
+        if (window->property("page").toString() != QStringLiteral("favorites")
+            || !favoritesPage->property("visible").toBool()
+            || !favoritesEmptyState->property("visible").toBool()
+            || !QMetaObject::invokeMethod(window, "showPoets")) {
+            std::fprintf(stderr, "The favorites page did not show its empty state: page=%s visible=%d empty=%d\n",
+                         qPrintable(window->property("page").toString()),
+                         favoritesPage->property("visible").toBool(), favoritesEmptyState->property("visible").toBool());
+            return EXIT_FAILURE;
+        }
+        QCoreApplication::processEvents();
         const qreal welcomeCenterX = welcomeContent->property("x").toReal()
             + welcomeContent->property("width").toReal() / 2;
         const qreal welcomeCenterY = welcomeContent->property("y").toReal()
@@ -482,21 +524,11 @@ int main(int argc, char *argv[])
             QObject *summary = window->findChild<QObject *>(QStringLiteral("poemSummary"));
             QObject *poemList = window->findChild<QObject *>(QStringLiteral("poemList"));
             QObject *poemScrollBar = window->findChild<QObject *>(QStringLiteral("poemScrollBar"));
-            QObject *previousPoemButton = window->findChild<QObject *>(QStringLiteral("previousPoemButton"));
-            QObject *nextPoemButton = window->findChild<QObject *>(QStringLiteral("nextPoemButton"));
-            QObject *historyBackButton = window->findChild<QObject *>(QStringLiteral("backButton"));
-            QObject *historyForwardButton = window->findChild<QObject *>(QStringLiteral("forwardButton"));
             QQuickItem *poemHeader = poemList
                 ? poemList->property("headerItem").value<QQuickItem *>() : nullptr;
             if (poemLoader.loading() || !summary || !summary->property("visible").toBool()
                 || summary->property("text").toString().isEmpty()
                 || !poemList || !poemList->findChild<QObject *>(QStringLiteral("poemSummary"))
-                || !previousPoemButton || !previousPoemButton->property("visible").toBool()
-                || previousPoemButton->property("enabled").toBool()
-                || !nextPoemButton || !nextPoemButton->property("visible").toBool()
-                || !nextPoemButton->property("enabled").toBool()
-                || !historyBackButton || historyBackButton->property("visible").toBool()
-                || !historyForwardButton || historyForwardButton->property("visible").toBool()
                 || poemList->property("height").toReal() < 300
                 || poemList->property("contentHeight").toReal()
                     <= poemList->property("height").toReal()
@@ -559,6 +591,49 @@ int main(int argc, char *argv[])
             QObject *breadcrumbOverflowPopup = window->findChild<QObject *>(
                 QStringLiteral("breadcrumbOverflowPopup"));
             QMetaObject::invokeMethod(breadcrumbOverflowPopup, "close");
+            if (!bookmarkStore.toggleCurrent() || !bookmarkStore.currentFavorite()
+                || bookmarkStore.count() != 1
+                || !QMetaObject::invokeMethod(window, "showFavorites")) {
+                std::fprintf(stderr, "The current collection could not be bookmarked: count=%d current=%d error=%s\n",
+                             bookmarkStore.count(), bookmarkStore.currentFavorite(), qPrintable(bookmarkStore.error()));
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            QObject *favoritesList = window->findChild<QObject *>(QStringLiteral("favoritesList"));
+            if (favoritesList) QMetaObject::invokeMethod(favoritesList, "forceLayout");
+            auto findFavoriteRow = [&]() -> QQuickItem * {
+                QQuickItem *content = favoritesList
+                    ? favoritesList->property("contentItem").value<QQuickItem *>() : nullptr;
+                auto search = [&](auto &&self, QQuickItem *item) -> QQuickItem * {
+                    if (!item) return nullptr;
+                    if (item->objectName() == QLatin1String("favoriteRow")) return item;
+                    for (QQuickItem *child : item->childItems()) {
+                        if (QQuickItem *found = self(self, child)) return found;
+                    }
+                    return nullptr;
+                };
+                return search(search, content);
+            };
+            QQuickItem *favoriteRow = findFavoriteRow();
+            for (int attempt = 0; attempt < 50 && !favoriteRow; ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+                favoriteRow = findFavoriteRow();
+            }
+            if (!favoriteRow || !favoriteRow->property("visible").toBool()
+                || !QMetaObject::invokeMethod(favoriteRow, "clicked")) {
+                std::fprintf(stderr, "The saved collection could not be opened from favorites.\n");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (window->property("page").toString() != QStringLiteral("collection")
+                || navigationController.url() != QStringLiteral("/ferdousi/shahname/aghaz")
+                || !bookmarkStore.toggleCurrent() || bookmarkStore.count() != 0) {
+                std::fprintf(stderr, "The saved collection did not restore navigation or remove cleanly: page=%s url=%s count=%d\n",
+                             qPrintable(window->property("page").toString()), qPrintable(navigationController.url()),
+                             bookmarkStore.count());
+                return EXIT_FAILURE;
+            }
             navigationController.openPoets();
             QCoreApplication::processEvents();
             if (breadcrumbWarnings != 0) {

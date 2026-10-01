@@ -16,6 +16,11 @@ QString UserDataPaths::settingsFile(const QString &configBasePath)
     return QDir(directory(configBasePath)).filePath(QStringLiteral("settings.json"));
 }
 
+QString UserDataPaths::bookmarksFile(const QString &configBasePath)
+{
+    return QDir(directory(configBasePath)).filePath(QStringLiteral("bookmarks.json"));
+}
+
 bool UserDataPaths::ensureDirectory(const QString &configBasePath)
 {
     return QDir().mkpath(directory(configBasePath));
