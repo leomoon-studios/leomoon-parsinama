@@ -27,11 +27,13 @@ struct VerseRecord
 
 struct ReadingRowRecord
 {
+    QString kind = QStringLiteral("verse");
     bool paired = false;
     QString rightText;
     QString leftText;
     QString text;
     QString position;
+    QString note;
 };
 
 class SectionListModel final : public QAbstractListModel
@@ -100,11 +102,13 @@ class ReadingRowListModel final : public QAbstractListModel
 
 public:
     enum Role {
-        PairedRole = Qt::UserRole + 1,
+        KindRole = Qt::UserRole + 1,
+        PairedRole,
         RightTextRole,
         LeftTextRole,
         TextRole,
-        PositionRole
+        PositionRole,
+        NoteRole
     };
 
     explicit ReadingRowListModel(QObject *parent = nullptr);

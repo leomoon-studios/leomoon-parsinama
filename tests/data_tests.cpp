@@ -311,6 +311,30 @@ void DataTests::fullCatalogQueries()
     QCOMPARE(repository.poets().size(), 240);
     QCOMPARE(repository.poetByUrl(QStringLiteral("/hafez"))->id, 2);
     QCOMPARE(repository.categoryPoems(repository.categoryByUrl(QStringLiteral("/hafez/ghazal"))->id).size(), 495);
+    const QList<PoemRecord> ghazals = repository.categoryPoems(
+        repository.categoryByUrl(QStringLiteral("/hafez/ghazal"))->id);
+    CollectionListModel collection(&repository);
+    PoemLoader navigationLoader(path);
+    NavigationController navigation(&repository, &collection, &navigationLoader);
+    QVERIFY(navigation.openPoem(ghazals.first().fullUrl));
+    QCOMPARE(navigation.poemPosition(), 1);
+    QVERIFY(!navigation.hasPreviousPoem());
+    QVERIFY(navigation.hasNextPoem());
+    QVERIFY(navigation.openNextPoem());
+    QCOMPARE(navigation.url(), ghazals.at(1).fullUrl);
+    QCOMPARE(navigation.poemPosition(), 2);
+    QCOMPARE(navigation.breadcrumbs().last().toMap().value(QStringLiteral("url")).toString(), ghazals.at(1).fullUrl);
+    QVERIFY(navigation.openPoem(ghazals.at(ghazals.size() / 2).fullUrl));
+    QCOMPARE(navigation.poemPosition(), ghazals.size() / 2 + 1);
+    QVERIFY(navigation.hasPreviousPoem());
+    QVERIFY(navigation.hasNextPoem());
+    QVERIFY(navigation.openPoem(ghazals.last().fullUrl));
+    QCOMPARE(navigation.poemPosition(), ghazals.size());
+    QVERIFY(navigation.hasPreviousPoem());
+    QVERIFY(!navigation.hasNextPoem());
+    QVERIFY(!navigation.openNextPoem());
+    QVERIFY(navigation.openPreviousPoem());
+    QCOMPARE(navigation.url(), ghazals.at(ghazals.size() - 2).fullUrl);
     QCOMPARE(repository.categoryByUrl(QStringLiteral("/ferdousi/shahname/aghaz"))->parentId, 33);
     QCOMPARE(repository.categoryPoems(repository.categoryByUrl(QStringLiteral("/sepehri"))->id).size(), 1);
     PoemLoader loader(path);
@@ -321,15 +345,42 @@ void DataTests::fullCatalogQueries()
     QVERIFY(finished.constFirst().at(0).toBool());
     QCOMPARE(loader.verses()->rowCount(), 2500);
     QCOMPARE(loader.sections()->rowCount(), 1247);
+    QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::KindRole).toString(),
+             QStringLiteral("verse"));
     loader.loadByUrl(QStringLiteral("/hafez/ghazal/sh1"));
     QTRY_COMPARE_WITH_TIMEOUT(finished.size(), 2, 10000);
     QVERIFY(finished.at(1).at(0).toBool());
     QCOMPARE(loader.readingRows()->rowCount(), 7);
     QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::PairedRole).toBool(), true);
+    QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::KindRole).toString(),
+             QStringLiteral("verse"));
+    QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::RightTextRole).toString(),
+             loader.verses()->data(loader.verses()->index(0, 0), VerseListModel::TextRole).toString());
+    QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::LeftTextRole).toString(),
+             loader.verses()->data(loader.verses()->index(1, 0), VerseListModel::TextRole).toString());
+    QVERIFY(!loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::NoteRole).toString().isEmpty());
     QVERIFY(!loader.summary().contains(QLatin1Char('\n')));
-    loader.loadByUrl(QStringLiteral("/shahriar/torki/sh3"));
+    loader.loadByUrl(QStringLiteral("/amir/tarjam/sh2"));
     QTRY_COMPARE_WITH_TIMEOUT(finished.size(), 3, 10000);
     QVERIFY(finished.at(2).at(0).toBool());
+    QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::KindRole).toString(),
+             QStringLiteral("section"));
+    QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::TextRole).toString(),
+             QStringLiteral("بند ۱"));
+    QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(1, 0), ReadingRowListModel::PairedRole).toBool(), true);
+    bool sawRefrain = false;
+    bool sawSecondBand = false;
+    for (int row = 0; row < loader.readingRows()->rowCount(); ++row) {
+        const QString heading = loader.readingRows()->data(loader.readingRows()->index(row, 0),
+                                                         ReadingRowListModel::TextRole).toString();
+        sawRefrain |= heading == QStringLiteral("بند برگردان");
+        sawSecondBand |= heading == QStringLiteral("بند ۲");
+    }
+    QVERIFY(sawRefrain);
+    QVERIFY(sawSecondBand);
+    loader.loadByUrl(QStringLiteral("/shahriar/torki/sh3"));
+    QTRY_COMPARE_WITH_TIMEOUT(finished.size(), 4, 10000);
+    QVERIFY(finished.at(3).at(0).toBool());
     QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::PairedRole).toBool(), false);
     QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::PositionRole).toString(),
              QStringLiteral("Single"));

@@ -74,6 +74,7 @@ set_source_files_properties(qml/components/SettingsChoice.qml PROPERTIES QT_RESO
 set_source_files_properties(qml/components/AppMenuItem.qml PROPERTIES QT_RESOURCE_ALIAS components/AppMenuItem.qml)
 set_source_files_properties(qml/components/BreadcrumbBar.qml PROPERTIES QT_RESOURCE_ALIAS components/BreadcrumbBar.qml)
 set_source_files_properties(qml/settings/SettingsPage.qml PROPERTIES QT_RESOURCE_ALIAS settings/SettingsPage.qml)
+set_source_files_properties(qml/reader/PoemPage.qml PROPERTIES QT_RESOURCE_ALIAS reader/PoemPage.qml)
 qt_add_qml_module(leomoon_parsinama
     URI LeoMoon.ParsiNama
     VERSION 1.0
@@ -88,6 +89,7 @@ qt_add_qml_module(leomoon_parsinama
         qml/components/AppMenuItem.qml
         qml/components/BreadcrumbBar.qml
         qml/settings/SettingsPage.qml
+        qml/reader/PoemPage.qml
     RESOURCES
         assets/app-icon.svg
         "assets/fonts/Vazirmatn[wght].ttf"

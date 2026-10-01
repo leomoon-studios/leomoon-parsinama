@@ -64,6 +64,25 @@ ApplicationWindow {
         navigationController.openPoem(fullUrl, poetList.contentY, collectionScrollOffset())
     }
 
+    function previousPoem() {
+        navigationController.openPreviousPoem(poetList.contentY, collectionScrollOffset())
+    }
+
+    function nextPoem() {
+        navigationController.openNextPoem(poetList.contentY, collectionScrollOffset())
+    }
+
+    Shortcut {
+        sequence: "Alt+Right"
+        enabled: root.page === "poem" && root.navigationController.hasPreviousPoem
+        onActivated: root.previousPoem()
+    }
+    Shortcut {
+        sequence: "Alt+Left"
+        enabled: root.page === "poem" && root.navigationController.hasNextPoem
+        onActivated: root.nextPoem()
+    }
+
     function openBreadcrumb(index) {
         navigationController.openBreadcrumb(index, poetList.contentY, collectionScrollOffset())
     }
@@ -443,8 +462,34 @@ ApplicationWindow {
                             wrapMode: Text.Wrap
                         }
                         HeaderAction {
+                            objectName: "previousPoemButton"
+                            visible: root.page === "poem"
+                            enabled: root.navigationController.hasPreviousPoem
+                            symbol: "\ue5c8"
+                            hint: "شعر پیشین (Alt+→)"
+                            font.family: typography.iconFamily
+                            surfaceColor: colors.surface
+                            textColor: colors.foreground
+                            borderColor: colors.border
+                            focusColor: colors.focus
+                            onClicked: root.previousPoem()
+                        }
+                        HeaderAction {
+                            objectName: "nextPoemButton"
+                            visible: root.page === "poem"
+                            enabled: root.navigationController.hasNextPoem
+                            symbol: "\ue5c4"
+                            hint: "شعر بعدی (Alt+←)"
+                            font.family: typography.iconFamily
+                            surfaceColor: colors.surface
+                            textColor: colors.foreground
+                            borderColor: colors.border
+                            focusColor: colors.focus
+                            onClicked: root.nextPoem()
+                        }
+                        HeaderAction {
                             objectName: "backButton"
-                            visible: root.page !== "settings"
+                            visible: root.page !== "settings" && root.page !== "poem"
                             enabled: root.navigationController.canGoBack
                             symbol: "\ue5c8"
                             hint: "بازگشت"
@@ -457,7 +502,7 @@ ApplicationWindow {
                         }
                         HeaderAction {
                             objectName: "forwardButton"
-                            visible: root.page !== "settings"
+                            visible: root.page !== "settings" && root.page !== "poem"
                             enabled: root.navigationController.canGoForward
                             symbol: "\ue5c4"
                             hint: "پیش‌روی"
@@ -611,125 +656,21 @@ ApplicationWindow {
                                 collectionScrollTimer.restart()
                         }
                     }
-                    ColumnLayout {
+                    PoemPage {
+                        id: poemList
                         visible: root.page === "poem"
                         Layout.fillWidth: true
                         Layout.fillHeight: true
-                        ListView {
-                            id: poemList
-                            objectName: "poemList"
-                            Layout.fillWidth: true
-                            Layout.fillHeight: true
-                            model: root.poemLoader.readingRows
-                            clip: true
-                            spacing: 8
-                            onContentHeightChanged: {
-                                if (visible && contentY <= 0)
-                                    poemScrollTimer.restart()
-                            }
-                            onMovementStarted: poemScrollTimer.stop()
-                            header: ColumnLayout {
-                                width: poemList.width - 20
-                                x: 20
-                                spacing: 16
-                                Label {
-                                    LayoutMirroring.enabled: false
-                                    text: "شعر " + root.navigationController.poemPosition
-                                        + " از " + root.navigationController.poemCount
-                                    color: colors.muted
-                                    font.pixelSize: 14
-                                    Layout.fillWidth: true
-                                    Layout.bottomMargin: root.poemLoader.summary === "" ? 12 : 0
-                                    horizontalAlignment: Text.AlignRight
-                                }
-                                Label {
-                                    objectName: "poemSummary"
-                                    visible: root.poemLoader.summary !== ""
-                                    LayoutMirroring.enabled: false
-                                    Layout.fillWidth: true
-                                    text: root.poemLoader.summary
-                                    color: colors.muted
-                                    font.pixelSize: 15
-                                    Layout.bottomMargin: 12
-                                    horizontalAlignment: Text.AlignJustify
-                                    wrapMode: Text.Wrap
-                                }
-                            }
-                            ScrollBar.vertical: AppScrollBar {
-                                id: poemScrollBar
-                                objectName: "poemScrollBar"
-                                visible: poemList.contentHeight > poemList.height + 1
-                                trackColor: colors.surfaceRaised
-                                thumbColor: colors.muted
-                                activeThumbColor: colors.accent
-                            }
-                            delegate: Item {
-                                id: verseEntry
-                                required property bool paired
-                                required property string rightText
-                                required property string leftText
-                                required property string text
-                                required property string position
-                                readonly property bool stacked: poemList.width < 700
-                                width: poemList.width
-                                height: readingContent.height + 14
-                                Item {
-                                    id: readingContent
-                                    LayoutMirroring.enabled: false
-                                    width: Math.min(Math.max(0, verseEntry.width - 48), 1000)
-                                    anchors.horizontalCenter: parent.horizontalCenter
-                                    height: verseEntry.paired
-                                        ? verseEntry.stacked
-                                            ? rightVerse.implicitHeight + leftVerse.implicitHeight + 10
-                                            : Math.max(rightVerse.implicitHeight, leftVerse.implicitHeight)
-                                        : singleVerse.implicitHeight
-                                    Text {
-                                        id: rightVerse
-                                        visible: verseEntry.paired
-                                        LayoutMirroring.enabled: false
-                                        width: verseEntry.stacked ? readingContent.width
-                                            : (readingContent.width - 28) / 2
-                                        x: verseEntry.stacked ? 0 : readingContent.width - width
-                                        text: verseEntry.rightText
-                                        color: colors.foreground
-                                        font.family: typography.family
-                                        font.pixelSize: root.settingsStore.readingSize
-                                        horizontalAlignment: verseEntry.stacked ? Text.AlignHCenter
-                                            : lineCount > 1 ? Text.AlignJustify : Text.AlignHCenter
-                                        wrapMode: Text.Wrap
-                                    }
-                                    Text {
-                                        id: leftVerse
-                                        visible: verseEntry.paired
-                                        LayoutMirroring.enabled: false
-                                        width: verseEntry.stacked ? readingContent.width
-                                            : (readingContent.width - 28) / 2
-                                        y: verseEntry.stacked ? rightVerse.implicitHeight + 10 : 0
-                                        text: verseEntry.leftText
-                                        color: colors.foreground
-                                        font.family: typography.family
-                                        font.pixelSize: root.settingsStore.readingSize
-                                        horizontalAlignment: verseEntry.stacked ? Text.AlignHCenter
-                                            : lineCount > 1 ? Text.AlignJustify : Text.AlignHCenter
-                                        wrapMode: Text.Wrap
-                                    }
-                                    Text {
-                                        id: singleVerse
-                                        visible: !verseEntry.paired
-                                        LayoutMirroring.enabled: false
-                                        width: readingContent.width
-                                        text: verseEntry.text
-                                        color: colors.foreground
-                                        font.family: typography.family
-                                        font.pixelSize: root.settingsStore.readingSize
-                                        horizontalAlignment: verseEntry.position === "Paragraph"
-                                            || verseEntry.position === "Comment"
-                                            ? Text.AlignJustify : Text.AlignHCenter
-                                        wrapMode: Text.Wrap
-                                    }
-                                }
-                            }
+                        poemLoader: root.poemLoader
+                        navigationController: root.navigationController
+                        settingsStore: root.settingsStore
+                        appTheme: colors
+                        typography: typography
+                        onContentHeightChanged: {
+                            if (visible && contentY <= 0)
+                                poemScrollTimer.restart()
                         }
+                        onMovementStarted: poemScrollTimer.stop()
                     }
                     Connections {
                         target: poemList.headerItem

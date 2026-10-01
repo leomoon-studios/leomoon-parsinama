@@ -482,11 +482,21 @@ int main(int argc, char *argv[])
             QObject *summary = window->findChild<QObject *>(QStringLiteral("poemSummary"));
             QObject *poemList = window->findChild<QObject *>(QStringLiteral("poemList"));
             QObject *poemScrollBar = window->findChild<QObject *>(QStringLiteral("poemScrollBar"));
+            QObject *previousPoemButton = window->findChild<QObject *>(QStringLiteral("previousPoemButton"));
+            QObject *nextPoemButton = window->findChild<QObject *>(QStringLiteral("nextPoemButton"));
+            QObject *historyBackButton = window->findChild<QObject *>(QStringLiteral("backButton"));
+            QObject *historyForwardButton = window->findChild<QObject *>(QStringLiteral("forwardButton"));
             QQuickItem *poemHeader = poemList
                 ? poemList->property("headerItem").value<QQuickItem *>() : nullptr;
             if (poemLoader.loading() || !summary || !summary->property("visible").toBool()
                 || summary->property("text").toString().isEmpty()
                 || !poemList || !poemList->findChild<QObject *>(QStringLiteral("poemSummary"))
+                || !previousPoemButton || !previousPoemButton->property("visible").toBool()
+                || previousPoemButton->property("enabled").toBool()
+                || !nextPoemButton || !nextPoemButton->property("visible").toBool()
+                || !nextPoemButton->property("enabled").toBool()
+                || !historyBackButton || historyBackButton->property("visible").toBool()
+                || !historyForwardButton || historyForwardButton->property("visible").toBool()
                 || poemList->property("height").toReal() < 300
                 || poemList->property("contentHeight").toReal()
                     <= poemList->property("height").toReal()
@@ -505,10 +515,10 @@ int main(int argc, char *argv[])
                 QCoreApplication::processEvents();
                 QThread::msleep(10);
             }
-            if (poemList->property("contentHeight").toReal()
-                    >= poemList->property("height").toReal() - 1
-                || poemScrollBar->property("visible").toBool()) {
-                qCritical("The poem scrollbar remains visible when all content fits");
+            if (poemScrollBar->property("visible").toBool()
+                != (poemList->property("contentHeight").toReal()
+                    > poemList->property("height").toReal() + 1)) {
+                qCritical("The poem scrollbar does not match its content size");
                 return EXIT_FAILURE;
             }
             window->setProperty("width", 600);
