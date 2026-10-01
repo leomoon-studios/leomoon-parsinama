@@ -13,7 +13,7 @@ class SettingsStore final : public QObject
     Q_PROPERTY(QString filePath READ filePath CONSTANT)
 
 public:
-    explicit SettingsStore(QString homePath = {}, QObject *parent = nullptr);
+    explicit SettingsStore(QString configBasePath = {}, QObject *parent = nullptr);
 
     QString theme() const { return m_theme; }
     QString accentPreset() const { return m_accentPreset; }
@@ -35,8 +35,8 @@ private:
     bool save();
     void setError(const QString &error);
 
-    QString m_homePath;
-    QString m_theme = QStringLiteral("dark");
+    QString m_configBasePath;
+    QString m_theme = QStringLiteral("light");
     QString m_accentPreset = QStringLiteral("purple");
     int m_readingSize = 22;
     QString m_error;
