@@ -16,6 +16,7 @@ ApplicationWindow {
     readonly property bool compactBrowse: width < 760
     readonly property bool bundledFontReady: typography.ready
     readonly property bool bundledFontError: typography.failed
+    readonly property bool bundledIconFontReady: typography.iconReady
     property string page: "poets"
     property string selectedPoetName: ""
     property string selectedPoetUrl: ""
@@ -25,7 +26,7 @@ ApplicationWindow {
     minimumWidth: 500
     minimumHeight: 440
     visible: true
-    title: "LeoMoon ParsiNama"
+    title: "لئومون پارسی‌نما"
     color: colors.background
     font.family: typography.family
 
@@ -37,6 +38,14 @@ ApplicationWindow {
         selectedPoetUrl = fullUrl
         if (collectionListModel.loadCategory(fullUrl))
             page = "collection"
+    }
+
+    function showPoets() {
+        selectedPoetName = ""
+        selectedPoetUrl = ""
+        collectionListModel.clear()
+        poemLoader.clear()
+        page = "poets"
     }
 
     AppTheme {
@@ -72,7 +81,8 @@ ApplicationWindow {
                 RowLayout {
                     spacing: 10
                     Label {
-                        text: "LeoMoon ParsiNama"
+                        objectName: "headerTitle"
+                        text: "لئومون پارسی‌نما"
                         color: colors.foreground
                         font.pixelSize: root.compactHeader ? 21 : 28
                         font.weight: Font.DemiBold
@@ -93,19 +103,21 @@ ApplicationWindow {
             }
             HeaderAction {
                 objectName: "poetsButton"
-                symbol: "☷"
+                symbol: "\ue865"
                 hint: "شاعران"
+                font.family: typography.iconFamily
                 visible: !root.compactHeader
                 surfaceColor: colors.surface
                 textColor: colors.foreground
                 borderColor: colors.border
                 focusColor: colors.focus
-                onClicked: root.page = "poets"
+                onClicked: root.showPoets()
             }
             HeaderAction {
                 objectName: "favoritesButton"
-                symbol: "☆"
+                symbol: "\ue87d"
                 hint: "نشانک‌ها"
+                font.family: typography.iconFamily
                 visible: !root.compactHeader
                 enabled: false
                 surfaceColor: colors.surface
@@ -115,8 +127,9 @@ ApplicationWindow {
             }
             HeaderAction {
                 objectName: "searchButton"
-                symbol: "⌕"
+                symbol: "\ue8b6"
                 hint: "جستجو"
+                font.family: typography.iconFamily
                 visible: !root.compactHeader
                 enabled: false
                 surfaceColor: colors.surface
@@ -126,8 +139,9 @@ ApplicationWindow {
             }
             HeaderAction {
                 objectName: "printButton"
-                symbol: "⎙"
+                symbol: "\ue8ad"
                 hint: "چاپ"
+                font.family: typography.iconFamily
                 visible: !root.compactHeader
                 enabled: false
                 surfaceColor: colors.surface
@@ -137,8 +151,9 @@ ApplicationWindow {
             }
             HeaderAction {
                 objectName: "themeButton"
-                symbol: root.settingsStore.theme === "dark" ? "☼" : "☾"
+                symbol: root.settingsStore.theme === "dark" ? "\ue518" : "\ue51c"
                 hint: root.settingsStore.theme === "dark" ? "حالت روشن" : "حالت تیره"
+                font.family: typography.iconFamily
                 surfaceColor: colors.surface
                 textColor: colors.foreground
                 borderColor: colors.border
@@ -147,8 +162,9 @@ ApplicationWindow {
             }
             HeaderAction {
                 objectName: "settingsButton"
-                symbol: "⚙"
+                symbol: "\ue8b8"
                 hint: "تنظیمات"
+                font.family: typography.iconFamily
                 visible: !root.compactHeader
                 surfaceColor: colors.surface
                 textColor: colors.foreground
@@ -158,8 +174,9 @@ ApplicationWindow {
             }
             HeaderAction {
                 objectName: "moreButton"
-                symbol: "⋮"
+                symbol: "\ue5d4"
                 hint: "گزینه‌های بیشتر"
+                font.family: typography.iconFamily
                 visible: root.compactHeader
                 surfaceColor: colors.surface
                 textColor: colors.foreground
@@ -168,7 +185,7 @@ ApplicationWindow {
                 onClicked: overflowMenu.popup()
                 Menu {
                     id: overflowMenu
-                    MenuItem { text: "شاعران"; onTriggered: root.page = "poets" }
+                    MenuItem { text: "شاعران"; onTriggered: root.showPoets() }
                     MenuItem { text: "نشانک‌ها"; enabled: false }
                     MenuItem { text: "جستجو"; enabled: false }
                     MenuItem { text: "چاپ"; enabled: false }
@@ -206,31 +223,48 @@ ApplicationWindow {
                     ListView {
                         id: poetList
                         objectName: "poetList"
+                        readonly property real rowGutter: poetScrollBar.width + 8
                         Layout.fillWidth: true
                         Layout.fillHeight: true
                         model: root.poetListModel
                         clip: true
                         spacing: 4
                         boundsBehavior: Flickable.StopAtBounds
-                        delegate: ItemDelegate {
-                            id: poetRow
+                        ScrollBar.vertical: AppScrollBar {
+                            id: poetScrollBar
+                            objectName: "poetScrollBar"
+                            trackColor: colors.surfaceRaised
+                            thumbColor: colors.muted
+                            activeThumbColor: colors.accent
+                        }
+                        delegate: Item {
+                            id: poetEntry
                             required property string name
                             required property string fullUrl
                             width: poetList.width
-                            text: name
-                            font.family: typography.family
-                            palette.buttonText: fullUrl === root.selectedPoetUrl
-                                ? colors.accentText : colors.foreground
-                            focusPolicy: Qt.StrongFocus
-                            Accessible.name: name
-                            background: Rectangle {
-                                radius: 9
-                                color: poetRow.fullUrl === root.selectedPoetUrl ? colors.accent
-                                    : poetRow.hovered ? colors.surfaceRaised : colors.surface
-                                border.color: poetRow.activeFocus ? colors.focus : "transparent"
-                                border.width: poetRow.activeFocus ? 2 : 0
+                            height: poetRow.implicitHeight
+                            LayoutMirroring.enabled: false
+                            ItemDelegate {
+                                id: poetRow
+                                objectName: "poetRow"
+                                x: poetList.rowGutter
+                                width: poetEntry.width - poetList.rowGutter - 4
+                                LayoutMirroring.enabled: true
+                                text: poetEntry.name
+                                font.family: typography.family
+                                palette.buttonText: poetEntry.fullUrl === root.selectedPoetUrl
+                                    ? colors.accentText : colors.foreground
+                                focusPolicy: Qt.StrongFocus
+                                Accessible.name: poetEntry.name
+                                background: Rectangle {
+                                    radius: 9
+                                    color: poetEntry.fullUrl === root.selectedPoetUrl ? colors.accent
+                                        : poetRow.hovered ? colors.surfaceRaised : colors.surface
+                                    border.color: poetRow.activeFocus ? colors.focus : "transparent"
+                                    border.width: poetRow.activeFocus ? 2 : 0
+                                }
+                                onClicked: root.selectPoet(poetEntry.fullUrl, poetEntry.name)
                             }
-                            onClicked: root.selectPoet(fullUrl, name)
                         }
                     }
                 }
@@ -244,25 +278,45 @@ ApplicationWindow {
                 radius: 18
                 color: colors.surface
                 border.color: colors.border
+                Item {
+                    objectName: "welcomePanel"
+                    anchors.fill: parent
+                    visible: root.page === "poets"
+                    ColumnLayout {
+                        objectName: "welcomeContent"
+                        anchors.centerIn: parent
+                        width: Math.min(parent.width - 48, 560)
+                        spacing: 12
+                        Label {
+                            objectName: "welcomeLabel"
+                            text: "به لئومون پارسی‌نما خوش آمدید"
+                            color: colors.foreground
+                            font.pixelSize: 27
+                            font.weight: Font.DemiBold
+                            Layout.fillWidth: true
+                            horizontalAlignment: Text.AlignHCenter
+                            wrapMode: Text.Wrap
+                        }
+                        Label {
+                            text: "برای خواندن، شاعری را از فهرست انتخاب کنید."
+                            color: colors.muted
+                            font.pixelSize: 16
+                            Layout.fillWidth: true
+                            horizontalAlignment: Text.AlignHCenter
+                            wrapMode: Text.Wrap
+                        }
+                    }
+                }
                 ColumnLayout {
                     anchors.fill: parent
                     anchors.margins: 24
                     spacing: 16
+                    visible: root.page !== "poets"
                     Label {
-                        objectName: "welcomeLabel"
-                        text: root.page === "settings" ? "تنظیمات" : root.page === "collection"
-                            ? root.selectedPoetName : "به لئومون پارسی‌نما خوش آمدید"
+                        text: root.page === "settings" ? "تنظیمات" : root.selectedPoetName
                         color: colors.foreground
                         font.pixelSize: 24
                         font.weight: Font.DemiBold
-                        Layout.fillWidth: true
-                        horizontalAlignment: Text.AlignRight
-                        wrapMode: Text.Wrap
-                    }
-                    Label {
-                        visible: root.page === "poets"
-                        text: "برای خواندن، شاعری را از فهرست انتخاب کنید."
-                        color: colors.muted
                         Layout.fillWidth: true
                         horizontalAlignment: Text.AlignRight
                         wrapMode: Text.Wrap
@@ -285,38 +339,55 @@ ApplicationWindow {
                     ListView {
                         id: collectionList
                         objectName: "collectionList"
+                        readonly property real rowGutter: collectionScrollBar.width + 8
                         visible: root.page === "collection"
                         Layout.fillWidth: true
                         Layout.fillHeight: true
                         model: root.collectionListModel
                         clip: true
                         spacing: 4
-                        delegate: ItemDelegate {
-                            id: collectionRow
+                        ScrollBar.vertical: AppScrollBar {
+                            id: collectionScrollBar
+                            objectName: "collectionScrollBar"
+                            trackColor: colors.surfaceRaised
+                            thumbColor: colors.muted
+                            activeThumbColor: colors.accent
+                        }
+                        delegate: Item {
+                            id: collectionEntry
                             required property string title
                             required property string fullUrl
                             required property string entryType
                             width: collectionList.width
-                            text: title
-                            font.family: typography.family
-                            palette.buttonText: colors.foreground
-                            focusPolicy: Qt.StrongFocus
-                            Accessible.name: title
-                            background: Rectangle {
-                                radius: 9
-                                color: collectionRow.hovered ? colors.surfaceRaised : colors.surface
-                                border.color: collectionRow.activeFocus ? colors.focus : "transparent"
-                                border.width: collectionRow.activeFocus ? 2 : 0
-                            }
-                            onClicked: {
-                                if (entryType === "category")
-                                    root.collectionListModel.loadCategory(fullUrl)
-                                else
-                                    root.poemLoader.loadByUrl(fullUrl)
+                            height: collectionRow.implicitHeight
+                            LayoutMirroring.enabled: false
+                            ItemDelegate {
+                                id: collectionRow
+                                objectName: "collectionRow"
+                                x: collectionList.rowGutter
+                                width: collectionEntry.width - collectionList.rowGutter - 4
+                                LayoutMirroring.enabled: true
+                                text: collectionEntry.title
+                                font.family: typography.family
+                                palette.buttonText: colors.foreground
+                                focusPolicy: Qt.StrongFocus
+                                Accessible.name: collectionEntry.title
+                                background: Rectangle {
+                                    radius: 9
+                                    color: collectionRow.hovered ? colors.surfaceRaised : colors.surface
+                                    border.color: collectionRow.activeFocus ? colors.focus : "transparent"
+                                    border.width: collectionRow.activeFocus ? 2 : 0
+                                }
+                                onClicked: {
+                                    if (collectionEntry.entryType === "category")
+                                        root.collectionListModel.loadCategory(collectionEntry.fullUrl)
+                                    else
+                                        root.poemLoader.loadByUrl(collectionEntry.fullUrl)
+                                }
                             }
                         }
                     }
-                    Item { Layout.fillHeight: true; visible: root.page !== "collection" }
+                    Item { Layout.fillHeight: true; visible: root.page === "settings" }
                 }
             }
         }
