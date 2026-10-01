@@ -17,6 +17,9 @@ ScrollView {
     ScrollBar.horizontal.policy: ScrollBar.AlwaysOff
     ScrollBar.vertical: AppScrollBar {
         objectName: "settingsScrollBar"
+        policy: ScrollBar.AsNeeded
+        height: root.availableHeight
+        visible: root.contentHeight > root.availableHeight + 1
         trackColor: root.appTheme.surfaceRaised
         thumbColor: root.appTheme.muted
         activeThumbColor: root.appTheme.accent
