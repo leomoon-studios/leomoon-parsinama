@@ -62,6 +62,8 @@ bool NavigationController::applyLocation(const Location &location)
         m_bookName.clear();
         m_poemPosition = 0;
         m_poemCount = 0;
+        m_previousPoemUrl.clear();
+        m_nextPoemUrl.clear();
         m_breadcrumbs = {crumb(QStringLiteral("شاعران"), QStringLiteral("poets"), {})};
         m_current = location;
         setError({});
@@ -133,8 +135,23 @@ bool NavigationController::applyLocation(const Location &location)
     m_title = poem ? poem->title : location.kind == Kind::Poet ? poet->name : category->title;
     m_description = category->description;
     m_bookName = category->bookName;
-    m_poemPosition = poem ? poem->sortOrder + 1 : 0;
+    m_poemPosition = 0;
     m_poemCount = m_collection->poemCount();
+    m_previousPoemUrl.clear();
+    m_nextPoemUrl.clear();
+    if (poem) {
+        const QList<PoemRecord> orderedPoems = m_repository->categoryPoems(category->id);
+        m_poemCount = orderedPoems.size();
+        for (int index = 0; index < orderedPoems.size(); ++index) {
+            if (orderedPoems.at(index).fullUrl != poem->fullUrl) {
+                continue;
+            }
+            m_poemPosition = index + 1;
+            if (index > 0) m_previousPoemUrl = orderedPoems.at(index - 1).fullUrl;
+            if (index + 1 < orderedPoems.size()) m_nextPoemUrl = orderedPoems.at(index + 1).fullUrl;
+            break;
+        }
+    }
     m_breadcrumbs = {crumb(QStringLiteral("شاعران"), QStringLiteral("poets"), {}),
                      crumb(poet->name, QStringLiteral("poet"), poet->fullUrl)};
     for (int index = 1; index < lineage.size(); ++index) {
@@ -190,6 +207,16 @@ bool NavigationController::openCategory(const QString &url, qreal poetScroll, qr
 bool NavigationController::openPoem(const QString &url, qreal poetScroll, qreal collectionScroll)
 {
     return navigate({Kind::Poem, url}, poetScroll, collectionScroll);
+}
+
+bool NavigationController::openPreviousPoem(qreal poetScroll, qreal collectionScroll)
+{
+    return hasPreviousPoem() && openPoem(m_previousPoemUrl, poetScroll, collectionScroll);
+}
+
+bool NavigationController::openNextPoem(qreal poetScroll, qreal collectionScroll)
+{
+    return hasNextPoem() && openPoem(m_nextPoemUrl, poetScroll, collectionScroll);
 }
 
 bool NavigationController::openBreadcrumb(int index, qreal poetScroll, qreal collectionScroll)

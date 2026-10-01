@@ -2,10 +2,13 @@
 
 #include <QFileInfo>
 #include <QFutureWatcher>
+#include <QHash>
 #include <QJsonArray>
 #include <QJsonDocument>
 #include <QJsonObject>
 #include <QJsonParseError>
+#include <QLocale>
+#include <QRegularExpression>
 #include <QSqlDatabase>
 #include <QSqlError>
 #include <QSqlQuery>
@@ -15,6 +18,15 @@
 #include <utility>
 
 namespace {
+
+QString preparedText(QString text, bool oneParagraph = false)
+{
+    static const QRegularExpression markup(QStringLiteral("</?[A-Za-z][^>]*>"));
+    text.remove(markup);
+    if (oneParagraph) return text.simplified();
+    text.replace(QStringLiteral("\r\n"), QStringLiteral("\n"));
+    return text.trimmed();
+}
 
 struct PoemLoadResult
 {
@@ -79,11 +91,11 @@ PoemLoadResult loadPoem(const QString &catalogPath, const QString &url)
         return result;
     }
     const QJsonObject poem = document.object();
-    result.title = poem.value(QStringLiteral("Title")).toString();
+    result.title = preparedText(poem.value(QStringLiteral("Title")).toString(), true);
     result.fullUrl = poem.value(QStringLiteral("FullUrl")).toString();
-    result.summary = poem.value(QStringLiteral("PoemSummary")).toString().simplified();
+    result.summary = preparedText(poem.value(QStringLiteral("PoemSummary")).toString(), true);
     result.metre = poem.value(QStringLiteral("Metre")).toObject()
-        .value(QStringLiteral("Rhythm")).toString();
+        .value(QStringLiteral("Rhythm")).toString().simplified();
     const QJsonArray sections = poem.value(QStringLiteral("Sections")).toArray();
     const QJsonArray verses = poem.value(QStringLiteral("Verses")).toArray();
     result.sections.reserve(sections.size());
@@ -95,7 +107,7 @@ PoemLoadResult loadPoem(const QString &catalogPath, const QString &url)
             section.value(QStringLiteral("Number")).toInt(),
             section.value(QStringLiteral("SectionType")).toString(),
             section.value(QStringLiteral("VerseType")).toString(),
-            section.value(QStringLiteral("PlainText")).toString(),
+            preparedText(section.value(QStringLiteral("PlainText")).toString()),
             section.value(QStringLiteral("PoemFormat")).toString()
         });
     }
@@ -104,28 +116,58 @@ PoemLoadResult loadPoem(const QString &catalogPath, const QString &url)
         result.verses.append({
             verse.value(QStringLiteral("VOrder")).toInt(),
             verse.value(QStringLiteral("Position")).toString(),
-            verse.value(QStringLiteral("Text")).toString(),
+            preparedText(verse.value(QStringLiteral("Text")).toString()),
             verse.value(QStringLiteral("CoupletIndex")).toInt(),
             verse.value(QStringLiteral("SectionIndex1")).toInt(),
             verse.value(QStringLiteral("SectionIndex2")).toInt(),
-            verse.value(QStringLiteral("CoupletSummary")).toString().simplified()
+            preparedText(verse.value(QStringLiteral("CoupletSummary")).toString(), true)
         });
     }
-    result.readingRows.reserve(result.verses.size());
+    result.readingRows.reserve(result.verses.size() + result.sections.size());
+    QHash<int, SectionRecord> namedSections;
+    for (const SectionRecord &section : std::as_const(result.sections)) {
+        if (section.sectionType == QLatin1String("Band")
+            || section.sectionType == QLatin1String("BandCouplets")) {
+            namedSections.insert(section.index, section);
+        }
+    }
+    int activeSection = -1;
+    int bandNumber = 0;
     for (qsizetype index = 0; index < result.verses.size(); ++index) {
         const VerseRecord &verse = result.verses.at(index);
+        if (verse.sectionIndex2 != activeSection) {
+            activeSection = verse.sectionIndex2;
+            if (namedSections.contains(activeSection)) {
+                const SectionRecord &section = namedSections[activeSection];
+                ReadingRowRecord heading;
+                heading.kind = QStringLiteral("section");
+                heading.text = section.sectionType == QLatin1String("Band")
+                    ? QStringLiteral("بند %1").arg(QLocale(QLocale::Persian).toString(++bandNumber))
+                    : QStringLiteral("بند برگردان");
+                result.readingRows.append(std::move(heading));
+            }
+        }
         if (verse.position == QLatin1String("Right") && index + 1 < result.verses.size()) {
             const VerseRecord &next = result.verses.at(index + 1);
             if (next.position == QLatin1String("Left")
                 && next.coupletIndex == verse.coupletIndex
                 && next.sectionIndex1 == verse.sectionIndex1
                 && next.sectionIndex2 == verse.sectionIndex2) {
-                result.readingRows.append({true, verse.text, next.text, {}, {}});
+                ReadingRowRecord row;
+                row.paired = true;
+                row.rightText = verse.text;
+                row.leftText = next.text;
+                row.note = verse.coupletSummary.isEmpty() ? next.coupletSummary : verse.coupletSummary;
+                result.readingRows.append(std::move(row));
                 ++index;
                 continue;
             }
         }
-        result.readingRows.append({false, {}, {}, verse.text, verse.position});
+        ReadingRowRecord row;
+        row.text = verse.text;
+        row.position = verse.position;
+        row.note = verse.coupletSummary;
+        result.readingRows.append(std::move(row));
     }
     if (result.title.isEmpty() || result.fullUrl != url) {
         result.error = QStringLiteral("شناسهٔ شعر در پایگاه داده معتبر نیست.");
@@ -229,20 +271,22 @@ QVariant ReadingRowListModel::data(const QModelIndex &index, int role) const
     }
     const ReadingRowRecord &row = m_rows.at(index.row());
     switch (role) {
+    case KindRole: return row.kind;
     case PairedRole: return row.paired;
     case RightTextRole: return row.rightText;
     case LeftTextRole: return row.leftText;
     case TextRole: return row.text;
     case PositionRole: return row.position;
+    case NoteRole: return row.note;
     default: return {};
     }
 }
 
 QHash<int, QByteArray> ReadingRowListModel::roleNames() const
 {
-    return {{PairedRole, "paired"}, {RightTextRole, "rightText"},
+    return {{KindRole, "kind"}, {PairedRole, "paired"}, {RightTextRole, "rightText"},
             {LeftTextRole, "leftText"}, {TextRole, "text"},
-            {PositionRole, "position"}};
+            {PositionRole, "position"}, {NoteRole, "note"}};
 }
 
 void ReadingRowListModel::replace(QVector<ReadingRowRecord> rows)
