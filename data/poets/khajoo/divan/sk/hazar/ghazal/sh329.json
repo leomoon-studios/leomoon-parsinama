@@ -1,0 +1,160 @@
+{
+  "Id": 127409,
+  "CatId": 2926,
+  "Title": "شمارهٔ ۳۲۹",
+  "FullTitle": "خواجوی کرمانی » دیوان اشعار » صنایع الکمال » حضریات » غزلیات » شمارهٔ ۳۲۹",
+  "FullUrl": "/khajoo/divan/sk/hazar/ghazal/sh329",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر وصف زیبایی و جذابیت یک معشوقه است که به طبیعت و بهشت تشبیه شده است. شاعر به وصف ظاهری و ویژگی‌های جذاب او می‌پردازد، از جمله موهای مشکی و حالت چهره‌اش که دل را می‌برد. با اشاره به لطافت و طراوت این معشوق، شاعر از خواص دلربای او می‌گوید که شباهت به حورهای بهشتی دارد. در انتها، شاعر از دوری و درد جدایی خود از این معشوق سخن می‌گوید و به دوستانش داستان‌های عشق و دلتنگی‌اش را نقل می‌کند.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انی",
+      "PlainText": "خرامنده سروی به رخ گلستانی\r\nفروزنده ماهی به لب دلستانی\r\nبهشتی به رخسار و در حسن حوری\r\nجهانی به خوبی و در لطف جانی\r\nنه حور بهشت از طراوت بهشتی\r\nنه سرو روان از لطافت روانی\r\nبه بالا بلندی به یاقوت قندی\r\nبه گیسو کمندی به ابرو کمانی\r\nز مشک ختن بر عذارش غباری\r\nز شعر سیه بر رخش طیلسانی\r\nدر آشفتگی زلفش آشوب شهری\r\nلبش در شکر خنده شور جهانی\r\nبه هنگام دل بردن آن چشم جادو\r\nتوانایی و خفته چون ناتوانی\r\nچو هندو سر زلفش آتش نشینی\r\nچو کوثر لب لعلش آتش نشانی\r\nسفر کرد خواجو ز درد جدایی\r\nفرو خواند بر دوستان داستانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرامنده سروی به رخ گلستانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفروزنده ماهی به لب دلستانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهشتی به رخسار و در حسن حوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهانی به خوبی و در لطف جانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه حور بهشت از طراوت بهشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه سرو روان از لطافت روانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بالا بلندی به یاقوت قندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه گیسو کمندی به ابرو کمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز مشک ختن بر عذارش غباری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز شعر سیه بر رخش طیلسانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آشفتگی زلفش آشوب شهری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلبش در شکر خنده شور جهانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هنگام دل بردن آن چشم جادو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتوانائی و خفته چون ناتوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو هندو سر زلفش آتش نشینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو کوثر لب لعلش آتش نشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسفر کرد خواجو ز درد جدائی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرو خواند بر دوستان داستانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خرامنده سروی به رخ گلستانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در باغی پر از گل، درخت سری قد بلند و زیبا راه می‌رود و ماهی، که دلش شاد است، در کنار آن وجود دارد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فروزنده ماهی به لب دلستانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بهشتی به رخسار و در حسن حوری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهشتی بر چهره و زیباویی حوری، جهانی پر از زیبایی و در دل لطفی وجود دارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جهانی به خوبی و در لطف جانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نه حور بهشت از طراوت بهشتی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه حوری بهشت به اندازه‌ی زیبایی خود در بهشت دل‌انگیز است و نه سرو روان به اندازه‌ی لطافت و زیبایی خود جذابیت دارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نه سرو روان از لطافت روانی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به بالا بلندی به یاقوت قندی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به زیبایی و جذابیت یک دختر اشاره دارد. شاعر از بلندی قامت و زیبایی ظاهری او صحبت می‌کند که مانند الماس درخشان و شگفت‌انگیز است. همچنین، موهای او به شکل کمند و با دقت و ظرافتی خاصی توصیف شده که تداعی‌گر جذابیت و فریبندگی اوست. به طور کلی، شاعر سعی دارد تصویری از زیبایی و لطافت معشوقه‌اش را به خواننده منتقل کند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به گیسو کمندی به ابرو کمانی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز مشک ختن بر عذارش غباری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از عطر خوش مشک ختن، بر چهره‌اش نشانی از غباری دیده می‌شود و بر صورت زیبایش، شعری سیاه را تصویر کرده است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز شعر سیه بر رخش طیلسانی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "در آشفتگی زلفش آشوب شهری",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زلف آشفته‌اش دلیل تمام آشفتگی‌هاست و لب‌هایش که در خنده‌ای همچون شکر است، شور و حال دنیا را به وجود می‌آورد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "لبش در شکر خنده شور جهانی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "به هنگام دل بردن آن چشم جادو",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زمانی که دل را با نگاه جادویی خود می‌رباید، توانایی و قدرتی در آن چشم نهفته است که می‌تواند حتی کسی را که به نظر ناتوان می‌آید، به خواب ببرد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "توانائی و خفته چون ناتوانی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "چو هندو سر زلفش آتش نشینی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌هایش مانند آتش سوزان است و موهایش همچون شعله‌ای و لب‌هایش همچون آبی زلال و خوش‌رنگ هستند که همواره شادابی و زیبایی را به ارمغان می‌آورند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "چو کوثر لب لعلش آتش نشانی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "سفر کرد خواجو ز درد جدائی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خواجو به خاطر درد جدایی سفر کرده و داستانی را برای دوستانش روایت کرده است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "فرو خواند بر دوستان داستانی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

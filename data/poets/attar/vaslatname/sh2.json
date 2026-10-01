@@ -1,0 +1,947 @@
+{
+  "Id": 37109,
+  "CatId": 874,
+  "Title": "بخش ۲ - وصلت نامه از مقالات شیخ بهلول در رموز توحید",
+  "FullTitle": "عطار » وصلت نامه » بخش ۲ - وصلت نامه از مقالات شیخ بهلول در رموز توحید",
+  "FullUrl": "/attar/vaslatname/sh2",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به مقام والای انبیا و اولیا اشاره می‌کند و عشق و معرفت الهی را توصیف می‌کند. انبیا در مقام عظمت و درک لامکان قرار دارند، در حالی که اولیا با درد و شوق عاشقانه به سیر و سلوک می‌پردازند. پیامبر مصطفی (ص) به عنوان پیشوای انبیا و اولیای الهی و راهنمای سالکان معرفی می‌شود و ویژگی‌های او مثل نور پاک و دریای راز به تصویر کشیده می‌شود. شاعر بر این نکته تأکید می‌کند که شناخت مصطفی و درک مقام او، باعث شرف و رسیدن به قرب الهی می‌شود. در نهایت، شاعر به یگانگی انبیا و اولیای الهی و اهمیت ایمان به حق و توحید می‌پردازد.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "انبیا را داد سر ذوق عشق\r\nاولیا را داد درد ذوق عشق\r\nانبیا را داد سر لامکان\r\nاولیا را داد شور عاشقان\r\nانبیا را داد هر دم رفعتی\r\nاولیا را داد هر دم خلعتی\r\nانبیا را داد هر دم صد عطا\r\nاولیا را داد صد صدق و صفا\r\nانبیاء و اولیاء را حق بدان\r\nاین سخن را از یقین مطلق بدان\r\nمن رآنی گفت آخر مصطفی\r\nچند باشی درحجاب ای بی وفا\r\nلی مع الله گفت آخر مصطفی\r\nلیک معنی را ندانند این خسان\r\nاز رموز سر حق آگه نه\r\nسخت معذوری که مرد ره نه\r\nمصطفی آمد در این ره پیشوا\r\nپیشوای انبیاء و اولیا\r\nمصطفی آمد در این ره سرفراز\r\nموج می زد در دلش دریای راز\r\nمصطفی آمد در این ره بانشان\r\nهر زمان زین راه داده صد نشان\r\nمصطفی آمد در این ره بحر کل\r\nقطره ها از بحر او خوردند مل\r\nمصطفی آمد در این ره نور پاک\r\nجمله ظلمات را کرده هلاک\r\nمصطفی آمد یقین او فخر جان\r\nتاجدار و پادشاه جاودان\r\nمصطفی آمد در این ره پیر راه\r\nدامن او گیر تا گردی تو شاه\r\nمصطفی آمد در این ره رهنما\r\nطالبان راه را اوجان فزا\r\nمصطفی آمد در این ره راز دان\r\nدیده معنی در این ره باز دان\r\nمصطفی آمد در این ره بحر نور\r\nهر دو عالم یافته از وی حضور\r\nمصطفی آمد در این ره عقل کل\r\nعقل کلی زو همی کرده نزول\r\nمصطفی آمد در این ره پاکباز\r\nسالکان را اندرین ره کارساز\r\nمصطفی آمد در این ره سرحق\r\nاز دو عالم برده در معنی سبق\r\nمصطفی آمد در این ره با وصال\r\nواصلان رفته ز راهش بر کمال\r\nمصطفی آمد در این ره شاهدین\r\nقطب عالم رحمة للعالمین\r\nمصطفی آمد در این ره حال را\r\nاز برای عام گفته قال را\r\nمصطفی آمد در این ره مرد عشق\r\nاین کسی داند که دارد درد عشق\r\nمصطفی آمد در این ره شهریار\r\nحکم او بر هر دو عالم پایدار\r\nمصطفی آمد در این ره ذات حق\r\nاین کسی داند که دید آیات حق\r\nمصطفی را حق بدان و حق ببین\r\nتا شوی تو پیر راه و مرد دین\r\nمصطفی را حق ببین و حق بدان\r\nتا شوی از هر دو عالم با نشان\r\nمصطفی حق بود و حق بدمصطفی\r\nبشنو این معنی حق با صفا\r\nمصطفی را نور حق میدان یقین\r\nتا رسی در قرب رب العالمین\r\nمصطفی و مرتضی هر دو یکی است\r\nدر ابوبکر و عمر خود کی شکی است\r\nسر احمد بود عثمان در جهان\r\nدوست احمد بود اندر دو جهان\r\nجمله در توحید حق یکتا بدند\r\nنه چو تو در کثرت ولالابدند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانبیا را داد سر ذوق عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاولیا را داد درد ذوق عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانبیا را داد سر لامکان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاولیا را داد شور عاشقان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانبیا را داد هر دم رفعتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاولیا را داد هر دم خلعتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانبیا را داد هر دم صد عطا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاولیا را داد صد صدق و صفا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانبیاء و اولیاء را حق بدان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین سخن را از یقین مطلق بدان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن رآنی گفت آخر مصطفی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند باشی درحجاب ای بی‌وفا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلی مع الله گفت آخر مصطفی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک معنی را ندانند این خسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز رموز سر حق آگه نهٔ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخت معذوری که مرد ره نهٔ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره پیشوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیشوای انبیاء و اولیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره سرفراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموج می‌زد در دلش دریای راز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره بانشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر زمان زین راه داده صد نشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره بحر کل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقطره‌ها از بحر او خوردند مل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره نور پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجملهٔ ظلمات را کرده هلاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد یقین او فخر جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاجدار و پادشاه جاودان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره پیر راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدامن او گیر تا گردی تو شاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره رهنما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطالبان راه را اوجان فزا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره راز دان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدهٔ معنی در این ره باز دان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره بحر نور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دو عالم یافته از وی حضور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره عقل کل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل کلی زو همی کرده نزول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره پاکباز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسالکان را اندرین ره کارساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره سرحق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دو عالم برده در معنی سبق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره با وصال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواصلان رفته ز راهش بر کمال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره شاهدین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقطب عالم رحمة للعالمین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره حال را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز برای عام گفته قال را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره مرد عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین کسی داند که دارد درد عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره شهریار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحکم او بر هر دو عالم پایدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره ذات حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین کسی داند که دید آیات حق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی را حق بدان و حق ببین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا شوی تو پیر راه و مرد دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی را حق ببین و حق بدان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا شوی از هر دو عالم با نشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی حق بود و حق بدمصطفی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشنو این معنی حق با صفا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی را نور حق میدان یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا رسی در قرب رب العالمین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی و مرتضی هر دو یکی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ابوبکر و عمر خود کی شکی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر احمد بود عثمان در جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوست احمد بود اندر دو جهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمله در توحید حق یکتا بدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه چو تو در کثرت ولالابدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 34
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ذوقعشق",
+      "PlainText": "انبیا را داد سر ذوق عشق\r\nاولیا را داد درد ذوق عشق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانبیا را داد سر ذوق عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاولیا را داد درد ذوق عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "انبیا را داد سر لامکان\r\nاولیا را داد شور عاشقان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانبیا را داد سر لامکان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاولیا را داد شور عاشقان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "عتی",
+      "PlainText": "انبیا را داد هر دم رفعتی\r\nاولیا را داد هر دم خلعتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانبیا را داد هر دم رفعتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاولیا را داد هر دم خلعتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ا",
+      "PlainText": "انبیا را داد هر دم صد عطا\r\nاولیا را داد صد صدق و صفا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانبیا را داد هر دم صد عطا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاولیا را داد صد صدق و صفا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "قبدان",
+      "PlainText": "انبیاء و اولیاء را حق بدان\r\nاین سخن را از یقین مطلق بدان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانبیاء و اولیاء را حق بدان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین سخن را از یقین مطلق بدان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فی",
+      "PlainText": "من رآنی گفت آخر مصطفی\r\nچند باشی درحجاب ای بی وفا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن رآنی گفت آخر مصطفی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند باشی درحجاب ای بی‌وفا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "لی مع الله گفت آخر مصطفی\r\nلیک معنی را ندانند این خسان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلی مع الله گفت آخر مصطفی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک معنی را ندانند این خسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "هنه",
+      "PlainText": "از رموز سر حق آگه نه\r\nسخت معذوری که مرد ره نه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز رموز سر حق آگه نهٔ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخت معذوری که مرد ره نهٔ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ا",
+      "PlainText": "مصطفی آمد در این ره پیشوا\r\nپیشوای انبیاء و اولیا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره پیشوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیشوای انبیاء و اولیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "راز",
+      "PlainText": "مصطفی آمد در این ره سرفراز\r\nموج می زد در دلش دریای راز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره سرفراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموج می‌زد در دلش دریای راز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نشان",
+      "PlainText": "مصطفی آمد در این ره بانشان\r\nهر زمان زین راه داده صد نشان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره بانشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر زمان زین راه داده صد نشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ل",
+      "PlainText": "مصطفی آمد در این ره بحر کل\r\nقطره ها از بحر او خوردند مل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره بحر کل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقطره‌ها از بحر او خوردند مل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اک",
+      "PlainText": "مصطفی آمد در این ره نور پاک\r\nجمله ظلمات را کرده هلاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره نور پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجملهٔ ظلمات را کرده هلاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "مصطفی آمد یقین او فخر جان\r\nتاجدار و پادشاه جاودان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد یقین او فخر جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاجدار و پادشاه جاودان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "مصطفی آمد در این ره پیر راه\r\nدامن او گیر تا گردی تو شاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره پیر راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدامن او گیر تا گردی تو شاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ا",
+      "PlainText": "مصطفی آمد در این ره رهنما\r\nطالبان راه را اوجان فزا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره رهنما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطالبان راه را اوجان فزا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ازدان",
+      "PlainText": "مصطفی آمد در این ره راز دان\r\nدیده معنی در این ره باز دان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره راز دان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدهٔ معنی در این ره باز دان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ور",
+      "PlainText": "مصطفی آمد در این ره بحر نور\r\nهر دو عالم یافته از وی حضور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره بحر نور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دو عالم یافته از وی حضور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ل",
+      "PlainText": "مصطفی آمد در این ره عقل کل\r\nعقل کلی زو همی کرده نزول",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره عقل کل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل کلی زو همی کرده نزول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "از",
+      "PlainText": "مصطفی آمد در این ره پاکباز\r\nسالکان را اندرین ره کارساز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره پاکباز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسالکان را اندرین ره کارساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ق",
+      "PlainText": "مصطفی آمد در این ره سرحق\r\nاز دو عالم برده در معنی سبق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره سرحق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دو عالم برده در معنی سبق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ال",
+      "PlainText": "مصطفی آمد در این ره با وصال\r\nواصلان رفته ز راهش بر کمال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره با وصال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواصلان رفته ز راهش بر کمال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "مصطفی آمد در این ره شاهدین\r\nقطب عالم رحمة للعالمین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره شاهدین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقطب عالم رحمة للعالمین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "الرا",
+      "PlainText": "مصطفی آمد در این ره حال را\r\nاز برای عام گفته قال را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره حال را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز برای عام گفته قال را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ردعشق",
+      "PlainText": "مصطفی آمد در این ره مرد عشق\r\nاین کسی داند که دارد درد عشق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره مرد عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین کسی داند که دارد درد عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "مصطفی آمد در این ره شهریار\r\nحکم او بر هر دو عالم پایدار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره شهریار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحکم او بر هر دو عالم پایدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اتحق",
+      "PlainText": "مصطفی آمد در این ره ذات حق\r\nاین کسی داند که دید آیات حق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی آمد در این ره ذات حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین کسی داند که دید آیات حق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 29,
+      "Number": 29,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "مصطفی را حق بدان و حق ببین\r\nتا شوی تو پیر راه و مرد دین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی را حق بدان و حق ببین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا شوی تو پیر راه و مرد دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 30,
+      "Number": 30,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "مصطفی را حق ببین و حق بدان\r\nتا شوی از هر دو عالم با نشان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی را حق ببین و حق بدان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا شوی از هر دو عالم با نشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 31,
+      "Number": 31,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فی",
+      "PlainText": "مصطفی حق بود و حق بدمصطفی\r\nبشنو این معنی حق با صفا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی حق بود و حق بدمصطفی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشنو این معنی حق با صفا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 32,
+      "Number": 32,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "مصطفی را نور حق میدان یقین\r\nتا رسی در قرب رب العالمین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی را نور حق میدان یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا رسی در قرب رب العالمین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 33,
+      "Number": 33,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "کیاست",
+      "PlainText": "مصطفی و مرتضی هر دو یکی است\r\nدر ابوبکر و عمر خود کی شکی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفی و مرتضی هر دو یکی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ابوبکر و عمر خود کی شکی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 34,
+      "Number": 34,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "جهان",
+      "PlainText": "سر احمد بود عثمان در جهان\r\nدوست احمد بود اندر دو جهان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر احمد بود عثمان در جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوست احمد بود اندر دو جهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 35,
+      "Number": 35,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ابدند",
+      "PlainText": "جمله در توحید حق یکتا بدند\r\nنه چو تو در کثرت ولالابدند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمله در توحید حق یکتا بدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه چو تو در کثرت ولالابدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "انبیا را داد سر ذوق عشق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: پیام این بیت به این معناست که انبیا (پیامبران) از عشق و شور و شوق الهی بهره‌مند شده‌اند، در حالی که اولیا (صالحان و افراد نزدیک به خدا) نیز از درد و رنج این عشق برخوردارند. این نشان‌دهندهٔ دو جنبه مختلف از تجربهٔ عشق الهی است که یکی شوق و سرور و دیگری سختی و مشقت را در بر می‌گیرد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اولیا را داد درد ذوق عشق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "انبیا را داد سر لامکان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: پیامبران را قدرتی داد که فراتر از مکان و زمان باشد، و اولیا را عشق و شوری عطا کرد که از دل عاشقان برمی‌خیزد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اولیا را داد شور عاشقان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "انبیا را داد هر دم رفعتی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: پیامبران هر لحظه مقام و رتبه‌ای والا دریافت می‌کنند و اولیای الهی نیز هر لحظه پاداشی و لباسی از کرامت می‌پوشند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اولیا را داد هر دم خلعتی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "انبیا را داد هر دم صد عطا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: پیامبران در هر لحظه نعمت‌های فراوانی دریافت می‌کنند، در حالی که اولیای خدا به صداقت و پاکی‌های بسیار دست می‌یابند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اولیا را داد صد صدق و صفا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "انبیاء و اولیاء را حق بدان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به این باور برس که پیامبران و اولیاء الهی را باید در حقیقت بپذیری و سخن آنان را بر اساس یقین و اعتماد کامل در نظر بگیری."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "این سخن را از یقین مطلق بدان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "من رآنی گفت آخر مصطفی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: من را دیدی، حالا بگو ای بی‌وفا، تا کی در پنهان‌کاری و دوری خواهی بود؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چند باشی درحجاب ای بی‌وفا",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "لی مع الله گفت آخر مصطفی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: حضرت محمد (ص) در نهایت با خداوند صحبت کرد، اما این افراد نادان معنای واقعی آن را نمی‌فهمند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "لیک معنی را ندانند این خسان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "از رموز سر حق آگه نهٔ",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در این بیت گفته شده که کسی که به حقیقت و رازهای آن آگاه است، نمی‌تواند به راحتی در مسیر صحیح زندگی حرکت کند، زیرا با موانع و مشکلاتی روبه‌رو می‌شود که او را به چالش می‌کشد. این فرد از یک سو به حقیقت نزدیک شده، اما از سوی دیگر در شرایط دشواری قرار دارد که نمی‌تواند به سادگی از آن عبور کند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "سخت معذوری که مرد ره نهٔ",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره پیشوا",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: مصطفی در این مسیر رهبری را به عهده دارد و الگوی پیامبران و دوستان خداوند است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "پیشوای انبیاء و اولیا",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره سرفراز",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: مصطفی با سر بلندی در این مسیر قدم گذاشت و در دلش مانند دریایی پر از رازها، احساسات و افکار متلاطم و عمیقی وجود داشت."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "موج می‌زد در دلش دریای راز",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره بانشان",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: پیامبر در این مسیر همواره نشانه‌های روشنی برای هدایت مردم قرار داده و هر لحظه نشانه جدیدی ارائه کرده است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "هر زمان زین راه داده صد نشان",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره بحر کل",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: مصطفی (پیامبر اسلام) در این مسیر (هدایت) حضور دارد و همه موجودات (قطره‌ها) از او بهره‌مند شده‌اند و زندگی‌شان تحت تأثیر اوست."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "قطره‌ها از بحر او خوردند مل",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره نور پاک",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: مصطفی با نور پاکش به این راه آمد و تمام تاریکی‌ها را نابود کرد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "جملهٔ ظلمات را کرده هلاک",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "مصطفی آمد یقین او فخر جان",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: مصطفی آمد و با حضورش، فخر و افتخار جان را به ارمغان آورد، او همان پادشاه جاودانه و با شکوه است."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "تاجدار و پادشاه جاودان",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره پیر راه",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: حضرت مصطفی (ص) در این مسیر آمده‌اند، پس از تجربه و راهنمایی‌های او بهره‌مند شو و از او یاری بگیر تا تو نیز به مقام و عظمت برسی."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "دامن او گیر تا گردی تو شاه",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره رهنما",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: مصطفی به عنوان راهنما در این مسیر آمده است و به جویندگان و seekers این راه کمک می‌کند تا در این مسیر پیشرفت کنند و به مقصد برسند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "طالبان راه را اوجان فزا",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره راز دان",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: حضرت مصطفی در این مسیر به حقیقت و رازهای آن آگاه شد، پس چشمان خود را برای درک عمیق این راه بگشایید."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "دیدهٔ معنی در این ره باز دان",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره بحر نور",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: مصطفی در این مسیر مانند دریا و دریای نور آمده است و هر دو جهان از وجود او بهره‌مند شده‌اند."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "هر دو عالم یافته از وی حضور",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره عقل کل",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: مصطفی (پیامبر اسلام) در این مسیر (راه حق و هدایت) حاضر شده است و به همین دلیل، عقل کلی (درک و فهم کامل) نیز به واسطه او به دنیا آمده و ظهور کرده است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "عقل کلی زو همی کرده نزول",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره پاکباز",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: مصطفی به عنوان راهنمایی واقعی در این مسیر معنوی به کمک سالکان و جویندگان حقیقت آمده است و به آنها در این مسیر یاری می‌رساند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "سالکان را اندرین ره کارساز",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره سرحق",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: مصطفی در این مسیر با سرور و عظمت وارد شد و از دو جهان، به عمق و حقیقت موضوع دست پیدا کرد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "از دو عالم برده در معنی سبق",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره با وصال",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: پیام این بیت اشاره به آمدن پیامبری دارد که در مسیر عشق و ارتباط با خداوند به مقصد واقعی رسیده است و در این راه کسانی که به کمال رسیده‌اند، از مسیر او عبور کرده‌اند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "واصلان رفته ز راهش بر کمال",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره شاهدین",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: مصطفی در این راه به عنوان شاهد و گواه آمده است؛ او قطب عالم و رحمت برای همه موجودات است."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "قطب عالم رحمة للعالمین",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره حال را",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: مصطفی در این مسیر حال را برای مردم به زبان آورد و سخنان خود را بیان کرد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "از برای عام گفته قال را",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره مرد عشق",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: حضرت مصطفی (پیامبر اسلام) در این مسیر آمده است، و تنها کسی می‌تواند به عمق عشق واقعی پی ببرد که خود تجربهٔ درد و عشق را داشته باشد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "این کسی داند که دارد درد عشق",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره شهریار",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: حضرت مصطفی (ص) به عنوان پیشوای بزرگ و فرمانروایی بر عالم، در این مسیر حضور دارد و دستورات و احکام او برای همه موجودات پایدار و ثابت است."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "حکم او بر هر دو عالم پایدار",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "مصطفی آمد در این ره ذات حق",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: مصطفی در این مسیر الهی آمد و تنها کسانی که نشانه‌های خداوند را دیده‌اند، به حقیقت این موضوع پی می‌برند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "این کسی داند که دید آیات حق",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "مصطفی را حق بدان و حق ببین",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: به مصطفی ایمان داشته باش و او را در جایگاه حقیقت ببین تا بتوانی به عنوان یک راهنما و فردی مذهبی به کمال برسی."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "تا شوی تو پیر راه و مرد دین",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "مصطفی را حق ببین و حق بدان",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه در هر دو عالم به عالم معنوی و عرفانی دست یابی، باید پیامبر اسلام، مصطفی، را به عنوان حقیقت و حق بشناسی و او را در این راستا معتبر گردانی."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "تا شوی از هر دو عالم با نشان",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "مصطفی حق بود و حق بدمصطفی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: مصطفی تجسم حق و حقیقت است و راستگویی او را بشناسید و این مفهوم را با دل پاک درک کنید."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "بشنو این معنی حق با صفا",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "مصطفی را نور حق میدان یقین",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: مصطفی، نور حقیقت و نشانه یقین است، تا آنجا که به نزدیکی خداوند جهانیان برسد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "تا رسی در قرب رب العالمین",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "مصطفی و مرتضی هر دو یکی است",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: مصطفی و مرتضی هر دو یکی هستند و هیچ شکی در مقام ابوبکر و عمر وجود ندارد."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "در ابوبکر و عمر خود کی شکی است",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "سر احمد بود عثمان در جهان",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: احمد در این دنیا سر اصلی و مورد توجه است، و عثمان نیز در این دنیا دوستی او محسوب می‌شود. در حقیقت، عشق و دوستی احمد در هر دو جهان (این دنیا و آن دنیا) وجود دارد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "دوست احمد بود اندر دو جهان",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "جمله در توحید حق یکتا بدند",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: تمام هستی در یکتایی خداوند جمع است، نه مانند تو که در کثرت و تنوع به سر می‌بری."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "نه چو تو در کثرت ولالابدند",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35
+    }
+  ]
+}

@@ -1,0 +1,1811 @@
+{
+  "Id": 84283,
+  "CatId": 2202,
+  "Title": "بخش ۲۱ - اظهار بندگی کردن شاعر در پیشگاه  شاه",
+  "FullTitle": "حکیم نزاری » مثنوی روز و شب » بخش ۲۱ - اظهار بندگی کردن شاعر در پیشگاه  شاه",
+  "FullUrl": "/nezari/rooz-o-shab/sh21",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این متن شعری از پادشاهی به نام نزار است که در آن به اخلاص و بندگی خود اشاره می‌کند و از قدرت و لطف پادشاه می‌گوید. او خود را بنده‌وار در خدمت پادشاه توصیف می‌کند و بر این نکته تأکید می‌ورزد که تنها در سایه ولایت پادشاه، حقیقتاً زندگی می‌کند. شاعر همچنین از احساسات عشق و وابستگی خود سخن می‌گوید و به معیارهای اخلاقی و خطاهای انسانی می‌پردازد. او در نهایت، به تمایل خود برای توبه و بازگشت به رضای پادشاه اشاره کرده و می‌خواهد از زندگی دنیوی و مادیات فاصله بگیرد تا به حقیقت و بصیرت دست یابد. این شعر نماد عشق، بندگی و تلاش برای یافتن راه راست در زندگی است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "پادشاها نزاری عاجز\r\nجز به اخلاص دم نزد هرگز\r\nهرچه گویم تو خود نکو دانی\r\nهمه غث و ثمین او دانی\r\nبی ریا بنده تو بوده ستم\r\nهمچنان تا که زنده ام هستم\r\nحق انعام تو فراوان است\r\nحق او بر من است تا جان است\r\nتا سرم بر تن است و تن زنده\r\nبنده ام بنده ترا بنده\r\nمن که باشم که گویم آن  توام\r\nیکی از جمله سگان توام\r\nبرکشیدی مرا و بگزیدی\r\nملک دادی و مال بخشیدی\r\nمن که باشم که من ز خود گویم\r\nهرچه گویم ز خویش بد گویم\r\nمنم و این قدر سخن ریزه\r\nبا عقول و جهول هم نیزه\r\nدل فرتوت صید چشم   غزال\r\nمغز آشفته وقف خیل خیال\r\nدر مقامات عشق باخته ام\r\nبا علامات عشق ساخته ام\r\nمست و معتوه و واله و مجنون\r\nپیش از این نیز بوده ام نه کنون\r\nجز ولای تو در ولایت دل\r\nنیست چیزی دگر ز آب وز گل\r\nدر مدح تو تا که من باشم\r\nبر سر افتخار می پاشم\r\nخود ثنای تو حرز جان دارم\r\nتا نفس می رود روان دارم\r\nگر مرا نکبتی رسد شاید\r\nبی خلل دولت تو می باید\r\nچون بود دولت تو پابرجا\r\nکوچه سردار روزگار چه پا\r\nروزگار ار به برگ و ساز آید\r\nبه در دولت تو باز آید\r\nعافیت زیر چرخ اخضر نیست\r\nزانکه در بحر جای اخگر نیست\r\nهیچ بند از زمانه نگشاید\r\nکه دمی اعتماد را شاید\r\nهرکه خود را از پیش دریابد\r\nعاقبت دولتی دگر یابد\r\nچون بود بر صراط حق سیرش\r\nبود انجام و عاقبت خیرش\r\nیک شکاف است از مبادی کار\r\nواجب و لازم است استغفار\r\nخیرگی هم حجاب ره باشد\r\nآدمی غافل از گنه باشد\r\nموی کردم سفید و نامه سیاه\r\nچون بود آدمی بری ز گناه\r\nچون براندیشم از خطا و زلل\r\nتا به گردن فرو شوم به وحل\r\nدل ریشم کباب می گردد\r\nعالم جان خراب می گردد\r\nآبم از دیده می رود چو سحاب\r\nزهره از بیم می شود خوناب\r\nدر قهستان ز من چه بیش و چه کم\r\nهیچ توفیر نیست نقصان هم\r\nچون نباشد به دست من کاری\r\nپیش از این بیش از این بود باری\r\nهم به تکلیف خود قیام کنم\r\nنیم کار سخن تمام کنم\r\nمنم امروز اوستاد سخن\r\nبستانم به طبع داد سخن\r\nگر به کاری دگر نمی شایم\r\nکار خود را به کار و بار آیم\r\nهر زمان تحفه ای برون آرم\r\nکه از آن عقل را جنون آرم\r\nتا به تشویش راح مشغولم\r\nاز صلاح و فلاح معزولم\r\nاشتغالم نمی گذارد بیش\r\nکه بر آرم سر ملال از پیش\r\nدختر فکر بکر مست مرا\r\nجز به خلوت نداد دست مرا\r\nفکر در سیر سست بنیاد است\r\nاصل او کنج خلوت آباد است\r\nمحفل عام محشری دگر است\r\nروز محشر که را ز خود خبر است\r\nتو ز من لطف خویش باز مگیر\r\nبر من از قصه\u00A0دراز مگیر\r\nقصه\u00A0روز و شب تمام نبود\r\nکه بر آن قصه قصه ای افزود \r\nشب گر از روز دادخواهی داشت\r\nاو دگرگونه رسم و راهی داشت\r\nبنده از بخت خویشتن دارد\r\nکه همه ساله قصد من دارد\r\nبخت و دولت مطیع و رام آیند\r\nهمه در سلک انتظام آیند\r\nداشتم از جناب خلدمآب\r\nکه مشرف شوم به عز جواب\r\nآنچ از این ملتمس صواب و خطاست\r\nتا چه بر مقتضای رای شماست\r\nیک اشارت در آن بفرمایند\r\nبنده را راه راست بنمایند\r\nعزم دارم که شقه ای پوشم\r\nگوشه ای گیرم و در آن کوشم\r\nکه رضای تو می کنم حاصل\r\nبه وفای تو جان سپارم و دل\r\nخرقه صوفیانه درفکنم\r\nوز شراب و سماع برشکنم\r\nاز لباس قبا برون آیم\r\nبنگرم تا ز کار چون آیم\r\nگرچه دانم که هرکس از رنگی\r\nبر سبویم زنند خرسنگی\r\nآن یکی گوید این چه سرتیزی ست \r\nنقش بندی و رنگ آمیزی ست \r\nو آن دگر گویدم به نسبت حال\r\nکه نزاری و توبه اینت محال \r\nدیگری گویدم بترسیده ست\r\nیا خیالی دگر مگر دیده ست\r\nوآن دگر یک به عجز بنشاند\r\nهریک القصه قصه ای خواند\r\nمن مجنون واله عاشق\r\nپس رو رنگ جعفر صادق\r\nداشتم اول این شعار و لیک\r\nبد شدم بر سرم نیامد نیک\r\nگر اعادت کنم پس از سی سال\r\nبر سر خرقه نیست دور از حال\r\nخام بودم مگر مگر چه بود\u00A0\r\nخامی این است و بس دگر چه بود\r\nدولت رفته را معاد از پس\r\nدر حساب است تا به قطع نفس\r\nمی دهد فقر گه گهی یارم\r\nمی برد باز با سرم کارم\r\nتا ز خود پاک وا نپردازند\r\nمهره نرد خویش چون بازند\r\nرنگ مردان نه رنگ سالوس است\r\nخرقه پوشی به هرکس افسوس است\r\nتا ز هستی خود برون نشوند\r\nفارغ از عقل و از جنون نشوند\r\nنتوان در لباس مردان شد\r\nسرسری در محیط نتوان شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپادشاها نزاری عاجز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز به اخلاص دم نزد هرگز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچه گویم تو خود نکو دانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه غثّ و ثمین او دانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌ریا بندهٔ تو بوده‌ستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچنان تا که زنده‌ام هستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق انعام تو فراوان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحق او بر من است تا جان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا سرم بر تن است و تن زنده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنده‌ام بنده ترا بنده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن که باشم که گویم آن‌ِ توام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی از جمله سگان توام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرکشیدی مرا و بگزیدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eملک دادی و مال بخشیدی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن که باشم که من ز خود گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچه گویم ز خویش بد گویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنم و این قدر سخن‌ریزه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا عقول و جهول هم نیزه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل فرتوت صید چشم‌ ِ غزال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمغز آشفته وقف خیل خیال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مقامات عشق باخته‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا علامات عشق ساخته‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست و معتوه و واله و مجنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش از این نیز بوده‌ام، نه کنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز ولای تو در ولایت دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست چیزی دگر ز آب وز گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدُر مدح تو تا که من باشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر افتخار می‌پاشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود ثنای تو حرز جان دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا نفس می‌رود روان دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر مرا نکبتی رسد شاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌خلل دولت تو می‌باید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بود دولت تو پابرجا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوچه سردار روزگار چه پا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزگار ار به برگ و ساز آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه درِ دولت تو باز آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعافیت زیر چرخ اخضر نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه در بحر جای اخگر نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهیچ بند از زمانه نگشاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دمی اعتماد را شاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکه خود را از پیش دریابد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاقبت دولتی دگر یابد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بود بر صراط حق سَیرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود انجام و عاقبت خَیرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک شکاف است از مبادی کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواجب و لازم است استغفار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیرگی هم حجاب ره باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآدمی غافل از گنه باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eموی کردم سفید و نامه سیاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بود آدمی بری ز گناه؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون براندیشم از خطا و زلل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به گردن فرو شوم به وَحل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل ریشم کباب می‌گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالم جان خراب می‌گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآبم از دیده می‌رود چو سحاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهره از بیم می‌شود خوناب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر قهستان ز من چه بیش و چه کم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ توفیر نیست نقصان هم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نباشد به دست من کاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش از این بیش از این بود باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم به تکلیف خود قیام کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیم کار سخن تمام کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنم امروز اوستاد سخن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبستانم به طبع داد سخن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر به کاری دگر نمی‌شایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار خود را به کار و بار آیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر زمان تحفه‌ای برون آرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از آن عقل را جنون آرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا به تشویش راح مشغولم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز صلاح و فلاح معزولم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشتغالم نمی‌گذارد بیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر آرم سر ملال از پیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدختر فکر بکر مست مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز به خلوت نداد دست مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفکر در سیر سست بنیاد است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاصل او کنج خلوت آباد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحفل عام محشری دگر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز محشر که‌را ز خود خبر است؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو ز من لطف خویش باز مگیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر من از قصهٔ\u00A0دراز مگیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقصهٔ\u00A0روز و شب تمام نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر آن قصه قصه‌ای افزود‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب گر از روز دادخواهی داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو دگرگونه رسم و راهی داشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنده از بخت خویشتن دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه همه ساله قصد من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخت و دولت مطیع و رام آیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه در سلک انتظام آیند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداشتم از جناب خلدمآب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مشرف شوم به عزّ جواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچ از این ملتمس صواب و خطاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چه بر مقتضای رای شماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک اشارت در آن بفرمایند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنده را راه راست بنمایند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعزم دارم که شقه‌ای پوشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوشه‌ای گیرم و در آن کوشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه رضای تو می‌کنم حاصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه وفای تو جان سپارم و دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرقه صوفیانه درفکنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز شراب و سماع برشکنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز لباس قبا برون آیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنگرم تا ز کار چون آیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه دانم که هرکس از رنگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سبویم زنند خرسنگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن یکی گوید «این چه سرتیزی‌ست؟‌\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقش‌بندی و رنگ آمیزی‌ست‌؟»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو آن دگر گویدم به نسبتِ حال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نزاری و توبه، اینت محال‌!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیگری گویدم بترسیده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا خیالی دگر مگر دیده‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن دگر یک به عجز بنشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهریک القصه قصه‌ای خواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن مجنون واله عاشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس رو رنگ جعفر صادق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداشتم اول این شعار و لیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبد شدم بر سرم نیامد نیک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر اعادت کنم پس از سی سال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر خرقه، نیست دور از حال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخام بودم مگر، مگر چه بود\u00A0\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخامی این است و بس، دگر چه بود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn61\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولت رفته را معاد از پس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حساب است تا به قطع نفس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn62\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی‌دهد فقر گه‌گهی یارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌برد باز با سرم کارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn63\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا ز خود پاک وا نپردازند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهره نرد خویش چون بازند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn64\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرنگ مردان نه رنگ سالوس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرقه‌پوشی به هرکس افسوس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn65\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا ز هستی خود برون نشوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفارغ از عقل و از جنون نشوند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn66\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنتوان در لباس مردان شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرسری در محیط نتوان شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 66
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "پادشاها نزاری عاجز\r\nجز به اخلاص دم نزد هرگز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپادشاها نزاری عاجز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز به اخلاص دم نزد هرگز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ودانی",
+      "PlainText": "هرچه گویم تو خود نکو دانی\r\nهمه غث و ثمین او دانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچه گویم تو خود نکو دانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه غثّ و ثمین او دانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "هستم",
+      "PlainText": "بی ریا بنده تو بوده ستم\r\nهمچنان تا که زنده ام هستم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌ریا بندهٔ تو بوده‌ستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچنان تا که زنده‌ام هستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اناست",
+      "PlainText": "حق انعام تو فراوان است\r\nحق او بر من است تا جان است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحق انعام تو فراوان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحق او بر من است تا جان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نده",
+      "PlainText": "تا سرم بر تن است و تن زنده\r\nبنده ام بنده ترا بنده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا سرم بر تن است و تن زنده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنده‌ام بنده ترا بنده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انتوام",
+      "PlainText": "من که باشم که گویم آن  توام\r\nیکی از جمله سگان توام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن که باشم که گویم آن‌ِ توام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی از جمله سگان توام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یدی",
+      "PlainText": "برکشیدی مرا و بگزیدی\r\nملک دادی و مال بخشیدی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرکشیدی مرا و بگزیدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eملک دادی و مال بخشیدی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دگویم",
+      "PlainText": "من که باشم که من ز خود گویم\r\nهرچه گویم ز خویش بد گویم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن که باشم که من ز خود گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچه گویم ز خویش بد گویم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یزه",
+      "PlainText": "منم و این قدر سخن ریزه\r\nبا عقول و جهول هم نیزه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنم و این قدر سخن‌ریزه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا عقول و جهول هم نیزه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ال",
+      "PlainText": "دل فرتوت صید چشم   غزال\r\nمغز آشفته وقف خیل خیال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل فرتوت صید چشم‌ ِ غزال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمغز آشفته وقف خیل خیال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اختهام",
+      "PlainText": "در مقامات عشق باخته ام\r\nبا علامات عشق ساخته ام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مقامات عشق باخته‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا علامات عشق ساخته‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نون",
+      "PlainText": "مست و معتوه و واله و مجنون\r\nپیش از این نیز بوده ام نه کنون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست و معتوه و واله و مجنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش از این نیز بوده‌ام، نه کنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ل",
+      "PlainText": "جز ولای تو در ولایت دل\r\nنیست چیزی دگر ز آب وز گل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز ولای تو در ولایت دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست چیزی دگر ز آب وز گل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "باشم",
+      "PlainText": "در مدح تو تا که من باشم\r\nبر سر افتخار می پاشم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدُر مدح تو تا که من باشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر افتخار می‌پاشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اندارم",
+      "PlainText": "خود ثنای تو حرز جان دارم\r\nتا نفس می رود روان دارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود ثنای تو حرز جان دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا نفس می‌رود روان دارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اید",
+      "PlainText": "گر مرا نکبتی رسد شاید\r\nبی خلل دولت تو می باید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر مرا نکبتی رسد شاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌خلل دولت تو می‌باید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ا",
+      "PlainText": "چون بود دولت تو پابرجا\r\nکوچه سردار روزگار چه پا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بود دولت تو پابرجا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوچه سردار روزگار چه پا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ازاید",
+      "PlainText": "روزگار ار به برگ و ساز آید\r\nبه در دولت تو باز آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزگار ار به برگ و ساز آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه درِ دولت تو باز آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رنیست",
+      "PlainText": "عافیت زیر چرخ اخضر نیست\r\nزانکه در بحر جای اخگر نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعافیت زیر چرخ اخضر نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه در بحر جای اخگر نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "شاید",
+      "PlainText": "هیچ بند از زمانه نگشاید\r\nکه دمی اعتماد را شاید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهیچ بند از زمانه نگشاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دمی اعتماد را شاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ریابد",
+      "PlainText": "هرکه خود را از پیش دریابد\r\nعاقبت دولتی دگر یابد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکه خود را از پیش دریابد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاقبت دولتی دگر یابد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یرش",
+      "PlainText": "چون بود بر صراط حق سیرش\r\nبود انجام و عاقبت خیرش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بود بر صراط حق سَیرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود انجام و عاقبت خَیرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "یک شکاف است از مبادی کار\r\nواجب و لازم است استغفار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک شکاف است از مبادی کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواجب و لازم است استغفار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "هباشد",
+      "PlainText": "خیرگی هم حجاب ره باشد\r\nآدمی غافل از گنه باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیرگی هم حجاب ره باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآدمی غافل از گنه باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "موی کردم سفید و نامه سیاه\r\nچون بود آدمی بری ز گناه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eموی کردم سفید و نامه سیاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بود آدمی بری ز گناه؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ل",
+      "PlainText": "چون براندیشم از خطا و زلل\r\nتا به گردن فرو شوم به وحل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون براندیشم از خطا و زلل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به گردن فرو شوم به وَحل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ابمیگردد",
+      "PlainText": "دل ریشم کباب می گردد\r\nعالم جان خراب می گردد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل ریشم کباب می‌گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالم جان خراب می‌گردد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 29,
+      "Number": 29,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "آبم از دیده می رود چو سحاب\r\nزهره از بیم می شود خوناب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآبم از دیده می‌رود چو سحاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهره از بیم می‌شود خوناب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 30,
+      "Number": 30,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "در قهستان ز من چه بیش و چه کم\r\nهیچ توفیر نیست نقصان هم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر قهستان ز من چه بیش و چه کم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ توفیر نیست نقصان هم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 31,
+      "Number": 31,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اری",
+      "PlainText": "چون نباشد به دست من کاری\r\nپیش از این بیش از این بود باری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نباشد به دست من کاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش از این بیش از این بود باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 32,
+      "Number": 32,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "امکنم",
+      "PlainText": "هم به تکلیف خود قیام کنم\r\nنیم کار سخن تمام کنم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم به تکلیف خود قیام کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیم کار سخن تمام کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 33,
+      "Number": 33,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ادسخن",
+      "PlainText": "منم امروز اوستاد سخن\r\nبستانم به طبع داد سخن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنم امروز اوستاد سخن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبستانم به طبع داد سخن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 34,
+      "Number": 34,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ایم",
+      "PlainText": "گر به کاری دگر نمی شایم\r\nکار خود را به کار و بار آیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر به کاری دگر نمی‌شایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار خود را به کار و بار آیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 35,
+      "Number": 35,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ونارم",
+      "PlainText": "هر زمان تحفه ای برون آرم\r\nکه از آن عقل را جنون آرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر زمان تحفه‌ای برون آرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از آن عقل را جنون آرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 36,
+      "Number": 36,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ولم",
+      "PlainText": "تا به تشویش راح مشغولم\r\nاز صلاح و فلاح معزولم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا به تشویش راح مشغولم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز صلاح و فلاح معزولم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 37,
+      "Number": 37,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "بیش",
+      "PlainText": "اشتغالم نمی گذارد بیش\r\nکه بر آرم سر ملال از پیش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشتغالم نمی‌گذارد بیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر آرم سر ملال از پیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 38,
+      "Number": 38,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ستمرا",
+      "PlainText": "دختر فکر بکر مست مرا\r\nجز به خلوت نداد دست مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدختر فکر بکر مست مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز به خلوت نداد دست مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 39,
+      "Number": 39,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اداست",
+      "PlainText": "فکر در سیر سست بنیاد است\r\nاصل او کنج خلوت آباد است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفکر در سیر سست بنیاد است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاصل او کنج خلوت آباد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 40,
+      "Number": 40,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "راست",
+      "PlainText": "محفل عام محشری دگر است\r\nروز محشر که را ز خود خبر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحفل عام محشری دگر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز محشر که‌را ز خود خبر است؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 41,
+      "Number": 41,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ازمگیر",
+      "PlainText": "تو ز من لطف خویش باز مگیر\r\nبر من از قصه\u00A0دراز مگیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو ز من لطف خویش باز مگیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر من از قصهٔ\u00A0دراز مگیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 42,
+      "Number": 42,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ود",
+      "PlainText": "قصه\u00A0روز و شب تمام نبود\r\nکه بر آن قصه قصه ای افزود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقصهٔ\u00A0روز و شب تمام نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر آن قصه قصه‌ای افزود‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 43,
+      "Number": 43,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اهیداشت",
+      "PlainText": "شب گر از روز دادخواهی داشت\r\nاو دگرگونه رسم و راهی داشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب گر از روز دادخواهی داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو دگرگونه رسم و راهی داشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 44,
+      "Number": 44,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ندارد",
+      "PlainText": "بنده از بخت خویشتن دارد\r\nکه همه ساله قصد من دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنده از بخت خویشتن دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه همه ساله قصد من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 45,
+      "Number": 45,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "امایند",
+      "PlainText": "بخت و دولت مطیع و رام آیند\r\nهمه در سلک انتظام آیند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخت و دولت مطیع و رام آیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه در سلک انتظام آیند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 46,
+      "Number": 46,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "داشتم از جناب خلدمآب\r\nکه مشرف شوم به عز جواب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداشتم از جناب خلدمآب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مشرف شوم به عزّ جواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 47,
+      "Number": 47,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "است",
+      "PlainText": "آنچ از این ملتمس صواب و خطاست\r\nتا چه بر مقتضای رای شماست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچ از این ملتمس صواب و خطاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چه بر مقتضای رای شماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 48,
+      "Number": 48,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مایند",
+      "PlainText": "یک اشارت در آن بفرمایند\r\nبنده را راه راست بنمایند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک اشارت در آن بفرمایند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنده را راه راست بنمایند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 49,
+      "Number": 49,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وشم",
+      "PlainText": "عزم دارم که شقه ای پوشم\r\nگوشه ای گیرم و در آن کوشم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعزم دارم که شقه‌ای پوشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوشه‌ای گیرم و در آن کوشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 50,
+      "Number": 50,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ل",
+      "PlainText": "که رضای تو می کنم حاصل\r\nبه وفای تو جان سپارم و دل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه رضای تو می‌کنم حاصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه وفای تو جان سپارم و دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 51,
+      "Number": 51,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "کنم",
+      "PlainText": "خرقه صوفیانه درفکنم\r\nوز شراب و سماع برشکنم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرقه صوفیانه درفکنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز شراب و سماع برشکنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 52,
+      "Number": 52,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ونایم",
+      "PlainText": "از لباس قبا برون آیم\r\nبنگرم تا ز کار چون آیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز لباس قبا برون آیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنگرم تا ز کار چون آیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 53,
+      "Number": 53,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نگی",
+      "PlainText": "گرچه دانم که هرکس از رنگی\r\nبر سبویم زنند خرسنگی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه دانم که هرکس از رنگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سبویم زنند خرسنگی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 54,
+      "Number": 54,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یزیست",
+      "PlainText": "آن یکی گوید این چه سرتیزی ست \r\nنقش بندی و رنگ آمیزی ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن یکی گوید «این چه سرتیزی‌ست؟‌\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقش‌بندی و رنگ آمیزی‌ست‌؟»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 55,
+      "Number": 55,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "حال",
+      "PlainText": "و آن دگر گویدم به نسبت حال\r\nکه نزاری و توبه اینت محال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو آن دگر گویدم به نسبتِ حال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نزاری و توبه، اینت محال‌!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 56,
+      "Number": 56,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یدهست",
+      "PlainText": "دیگری گویدم بترسیده ست\r\nیا خیالی دگر مگر دیده ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیگری گویدم بترسیده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا خیالی دگر مگر دیده‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 57,
+      "Number": 57,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اند",
+      "PlainText": "وآن دگر یک به عجز بنشاند\r\nهریک القصه قصه ای خواند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن دگر یک به عجز بنشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهریک القصه قصه‌ای خواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 58,
+      "Number": 58,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ق",
+      "PlainText": "من مجنون واله عاشق\r\nپس رو رنگ جعفر صادق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن مجنون واله عاشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس رو رنگ جعفر صادق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 59,
+      "Number": 59,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یک",
+      "PlainText": "داشتم اول این شعار و لیک\r\nبد شدم بر سرم نیامد نیک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداشتم اول این شعار و لیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبد شدم بر سرم نیامد نیک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 60,
+      "Number": 60,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ال",
+      "PlainText": "گر اعادت کنم پس از سی سال\r\nبر سر خرقه نیست دور از حال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر اعادت کنم پس از سی سال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر خرقه، نیست دور از حال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 61,
+      "Number": 61,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "گرچهبود",
+      "PlainText": "خام بودم مگر مگر چه بود\u00A0\r\nخامی این است و بس دگر چه بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخام بودم مگر، مگر چه بود\u00A0\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخامی این است و بس، دگر چه بود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 62,
+      "Number": 62,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "س",
+      "PlainText": "دولت رفته را معاد از پس\r\nدر حساب است تا به قطع نفس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولت رفته را معاد از پس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حساب است تا به قطع نفس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 63,
+      "Number": 63,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ارم",
+      "PlainText": "می دهد فقر گه گهی یارم\r\nمی برد باز با سرم کارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی‌دهد فقر گه‌گهی یارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌برد باز با سرم کارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 64,
+      "Number": 64,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ازند",
+      "PlainText": "تا ز خود پاک وا نپردازند\r\nمهره نرد خویش چون بازند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا ز خود پاک وا نپردازند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهره نرد خویش چون بازند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 65,
+      "Number": 65,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وساست",
+      "PlainText": "رنگ مردان نه رنگ سالوس است\r\nخرقه پوشی به هرکس افسوس است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرنگ مردان نه رنگ سالوس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرقه‌پوشی به هرکس افسوس است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 66,
+      "Number": 66,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وننشوند",
+      "PlainText": "تا ز هستی خود برون نشوند\r\nفارغ از عقل و از جنون نشوند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا ز هستی خود برون نشوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفارغ از عقل و از جنون نشوند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 67,
+      "Number": 67,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انشد",
+      "PlainText": "نتوان در لباس مردان شد\r\nسرسری در محیط نتوان شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنتوان در لباس مردان شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرسری در محیط نتوان شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پادشاها نزاری عاجز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: پادشاهی که در موقعیت ناتوانی قرار دارد، هرگز به جز با صداقت صحبت نمی‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز به اخلاص دم نزد هرگز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرچه گویم تو خود نکو دانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هرچند من از چیزهایی می‌گویم، تو خود به خوبی می‌دانی که چه چیزهایی بی‌ارزش و چه چیزهایی باارزش هستند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "همه غثّ و ثمین او دانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بی‌ریا بندهٔ تو بوده‌ستم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: من بی‌پرده و خالصانه بندهٔ تو بوده‌ام و همینطور که هستم، تا زمانی که زنده‌ام، به این بندگی ادامه می‌دهم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همچنان تا که زنده‌ام هستم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "حق انعام تو فراوان است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: من به قدری به تو بدهکارم که هیچ چیزی نمی‌تواند جبرانش کند و این بدهی تا زمانی که زنده‌ام ادامه دارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "حق او بر من است تا جان است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تا سرم بر تن است و تن زنده",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که زندگی‌ام ادامه دارد و بدنم زنده است، من به تو تعلق دارم و بنده تو هستم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بنده‌ام بنده ترا بنده",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "من که باشم که گویم آن‌ِ توام",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: من چه هستم که بخواهم بگویم من متعلق به تو هستم، من یکی از آن سگ‌های تو هستم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "یکی از جمله سگان توام",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "برکشیدی مرا و بگزیدی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: مرا برگزیدی و به من مقام و ثروت فرمان دادی."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "ملک دادی و مال بخشیدی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "من که باشم که من ز خود گویم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من هیچ اهمیتی به خودم نمی‌دهم و هر چیزی که درباره خودم بگویم، در واقع از ضعف‌ها و نواقص خودم صحبت کرده‌ام."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "هرچه گویم ز خویش بد گویم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "منم و این قدر سخن‌ریزه",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: من هستم و این همه گفتار، که با عقل‌ها و نادانی‌ها هم‌چند گویایی می‌کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "با عقول و جهول هم نیزه",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "دل فرتوت صید چشم‌ ِ غزال",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: دل ضعیف من، فریفته‌ی نگاه‌های زیبای اوست و ذهن آشفته‌ام در خدمت سیل خیالات و تصورات به سر می‌برد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "مغز آشفته وقف خیل خیال",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "در مقامات عشق باخته‌ام",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در زمینه عشق، من شکست خورده‌ام اما با نشانه‌های عشق توانسته‌ام چیزی بسازم."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "با علامات عشق ساخته‌ام",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "مست و معتوه و واله و مجنون",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: من پیش از این هم مست، دیوانه، و سرگردان بوده‌ام، نه فقط اکنون."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "پیش از این نیز بوده‌ام، نه کنون",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "جز ولای تو در ولایت دل",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: جز محبت و محبت تو در دل جای دیگری وجود ندارد و هیچ چیز دیگری در این دنیای مادی، از آب و گل، برای من ارزش ندارد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "نیست چیزی دگر ز آب وز گل",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "دُر مدح تو تا که من باشم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: هرگاه که من به افتخار تو بپردازم و تو را ستایش کنم، مانند مرواریدی درخشان، آن ستایش‌ها را به دیگران می‌پراکنم."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "بر سر افتخار می‌پاشم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "خود ثنای تو حرز جان دارم",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: من تا زمانی که نفس دارم، از ستایش و یاد تو در دل خود محافظت می‌کنم."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "تا نفس می‌رود روان دارم",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "گر مرا نکبتی رسد شاید",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: اگر به من بدبختی‌ای برسد، شاید این طور باشد که نعمت و موفقیت تو هیچ‌گاه دچار آسیب و مشکل نخواهد شد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "بی‌خلل دولت تو می‌باید",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "چون بود دولت تو پابرجا",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "مصرع دوم ممکن است اینگونه باشد: ‌«گو چه سر آرد روزگار چه پا‌»"
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "کوچه سردار روزگار چه پا",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "روزگار ار به برگ و ساز آید",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر روزگار به نفع تو تغییر کند، به دروازه‌ی خوشبختی و ثروت تو خواهد رسید."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "به درِ دولت تو باز آید",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "عافیت زیر چرخ اخضر نیست",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: آسایش و آرامش در دنیا به راحتی یافت نمی‌شود، زیرا در شرایط سخت و دشوار، جایی برای خوشی‌ها و راحتی‌ها نیست."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "زانکه در بحر جای اخگر نیست",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "هیچ بند از زمانه نگشاید",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: هیچ زمانه‌ای نیست که بتوان به آن اعتماد کرد و اطمینان داشت که مشکلاتی پیش نخواهد آمد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "که دمی اعتماد را شاید",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "هرکه خود را از پیش دریابد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که خود را بشناسد و به تأمل در درون خود بپردازد، در نهایت به موفقیت و جایگاهی بهتر خواهد رسید."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "عاقبت دولتی دگر یابد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "چون بود بر صراط حق سَیرش",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی در مسیر حقیقت و راستی گام بردارد، سرانجام و نتیجه‌اش به خیر و نیکی خواهد انجامید."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "بود انجام و عاقبت خَیرش",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "یک شکاف است از مبادی کار",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: یک نقطه شکست وجود دارد که از آغاز کار ناشی می‌شود و درخواست بخشش از خداوند ضروری و واجب است."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "واجب و لازم است استغفار",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "خیرگی هم حجاب ره باشد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: خیر و خوبی نیز می‌تواند مانع از دیدن راه واقعی باشد، به ویژه وقتی که انسان از گناهان خود غافل است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "آدمی غافل از گنه باشد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "موی کردم سفید و نامه سیاه",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: موی من سفید شده و نوشته‌های من تیره است. حالا چطور ممکن است آدمی از گناه پاک باشد؟"
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "چون بود آدمی بری ز گناه؟",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "چون براندیشم از خطا و زلل",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: هرگاه به فکر خطاها و اشتباهات خود می‌افتم، حس می‌کنم که به شدت در آن‌ها غرق می‌شوم و نمی‌توانم از آن‌ها رهایی یابم."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "تا به گردن فرو شوم به وَحل",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "دل ریشم کباب می‌گردد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: دلِ زخمی و داغ‌دیده من به شدت در حال درد کشیدن است و اوضاعِ روحی‌ام روز به روز بدتر می‌شود."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "عالم جان خراب می‌گردد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "آبم از دیده می‌رود چو سحاب",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: چشم‌های من شبیه ابرها اشک می‌ریزد و دل شادابی مثل زهره، به خاطر ترس از غم، به حالت غمگینی درمی‌آید."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "زهره از بیم می‌شود خوناب",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "در قهستان ز من چه بیش و چه کم",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: در قهستان، هیچ تفاوتی نیست بین این‌که از من چیزی کم شود یا زیاد. نقصان و کمبود هم در اینجا معنایی ندارد."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "هیچ توفیر نیست نقصان هم",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "چون نباشد به دست من کاری",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: وقتی کار خاصی به دست من نیست، دیگر نمی‌توانم بیشتر از این انتظار داشته باشم."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "پیش از این بیش از این بود باری",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "هم به تکلیف خود قیام کنم",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: من به مسئولیت‌هایم عمل می‌کنم و به اندازه‌ای که لازم است، کارهایم را به پایان می‌رسانم."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "نیم کار سخن تمام کنم",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "منم امروز اوستاد سخن",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: من امروز استاد هنر سخن هستم و با ذوق و استعداد خود، سخن را به دست می‌آورم."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "بستانم به طبع داد سخن",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "گر به کاری دگر نمی‌شایم",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: اگر در انجام کار دیگری توانایی نداری، بهتر است به همان کار خودت ادامه دهی."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "کار خود را به کار و بار آیم",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "هر زمان تحفه‌ای برون آرم",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: هر بار که چیزی جدید و شگفت‌انگیز به وجود می‌آورم، باعث می‌شوم که عقل و هوش را به چالش بکشند و حیرت‌زده کنند."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "که از آن عقل را جنون آرم",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "تا به تشویش راح مشغولم",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: در حالی که مشغول افکار و نگرانی‌هایم، از خوبی‌ها و نیکی‌ها دور مانده‌ام."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "از صلاح و فلاح معزولم",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 36
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "اشتغالم نمی‌گذارد بیش",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: مشغله‌های فراوانم اجازه نمی‌دهد که به دل‌مشغولی‌ها و نگرانی‌هایم فکر کنم."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "که بر آرم سر ملال از پیش",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 37
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "دختر فکر بکر مست مرا",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: دختر خیال‌انگیز و بی‌نظیر من اجازه نداد که به جز در تنهایی و خلوت به او نزدیک شوم."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "جز به خلوت نداد دست مرا",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 38
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "فکر در سیر سست بنیاد است",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: فکر و اندیشه ممکن است ضعیف و ناپایدار باشد، اما حقیقت و وجود اصلی در آرامش و سکوت درونی نهفته است."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "اصل او کنج خلوت آباد است",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 39
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "محفل عام محشری دگر است",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: در روز قیامت، جمعیتی بزرگ و شگفت‌انگیز به پا می‌شود که هیچ‌کس از حال و وضعیت خود خبر ندارد."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "روز محشر که‌را ز خود خبر است؟",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 40
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "تو ز من لطف خویش باز مگیر",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: لطف و مهربانی‌ات را از من دریغ نکن و از داستان‌های طولانی و پیچیده دوری کن."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "بر من از قصهٔ\u00A0دراز مگیر",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 41
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "قصهٔ\u00A0روز و شب تمام نبود",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: داستان روز و شب هرگز تمام نمی‌شود و همچنان بر آن داستان‌ها افزوده می‌شود."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "که بر آن قصه قصه‌ای افزود‌",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 42
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "شب گر از روز دادخواهی داشت",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: اگر شب از روز درخواست کمک کند، او هم نگاهی متفاوت و مسیری دیگر خواهد داشت."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "او دگرگونه رسم و راهی داشت",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 43
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "بنده از بخت خویشتن دارد",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر خوش‌شانسی خودم، هر ساله آرزویی دارم که به آن می‌پردازم."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "که همه ساله قصد من دارد",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 44
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "بخت و دولت مطیع و رام آیند",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: هر چه خوشبختی و ثروت باشد، به راحتی و با نظم به دست می‌آید."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "همه در سلک انتظام آیند",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 45
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "داشتم از جناب خلدمآب",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: من در حال آماده‌سازی خودم بودم که به مقام بلند و ارزشمند پاسخگویی برسم."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "که مشرف شوم به عزّ جواب",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 46
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "آنچ از این ملتمس صواب و خطاست",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: هر چه در اینجا درست و نادرست است، بستگی به نظر شما دارد."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "تا چه بر مقتضای رای شماست",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 47
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "یک اشارت در آن بفرمایند",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: یک اشاره کافی است تا راه درست را به من نشان دهند."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "بنده را راه راست بنمایند",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 48
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "عزم دارم که شقه‌ای پوشم",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: من تصمیم دارم که در یک گوشه بنشینم و تمام تلاشم را بکنم."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "گوشه‌ای گیرم و در آن کوشم",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 49
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "که رضای تو می‌کنم حاصل",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: من برای رسیدن به رضایت تو، جانم را فدای وفاداری‌ات می‌کنم و دل خود را به تو می‌سپارم."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "به وفای تو جان سپارم و دل",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "SectionIndex2": 50
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "خرقه صوفیانه درفکنم",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: من لباس صوفیانه‌ام را دور می‌اندازم و میان شراب و رقص، خود را رها می‌کنم."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "وز شراب و سماع برشکنم",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "SectionIndex2": 51
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "از لباس قبا برون آیم",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: من از لباس قبا بیرون می‌آیم و نگاه می‌کنم تا ببینم از چه کاری برمی‌گردم."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "بنگرم تا ز کار چون آیم",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 52
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "گرچه دانم که هرکس از رنگی",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: هرچند می‌دانم که هر کسی با زدن رنگی به ظرف من، به نوعی بار سنگینی بر دوشم می‌گذارد."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "بر سبویم زنند خرسنگی",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 53
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "آن یکی گوید «این چه سرتیزی‌ست؟‌",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: یکی می‌گوید: «این چه نوع آرایشی است؟ آیا این تنها طراحی و رنگ‌آمیزی است؟»"
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "نقش‌بندی و رنگ آمیزی‌ست‌؟»",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 54
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "و آن دگر گویدم به نسبتِ حال",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: یکی از آنها می‌گوید که با توجه به وضعیت تو، که هم نادم هستی و هم توبه کرده‌ای، این کار برای تو غیرممکن است!"
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "که نزاری و توبه، اینت محال‌!",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 55
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "دیگری گویدم بترسیده‌ست",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: شخصی به من گفت که شاید از چیزی ترسیده یا دچار خیال و اوهام شده است، اما آیا واقعاً چیزی را دیده است؟"
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "یا خیالی دگر مگر دیده‌ست",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 56
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "وآن دگر یک به عجز بنشاند",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: و دیگری به ناتوانی به سراغ داستانی رفت و هر یک داستانی را خواند."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "هریک القصه قصه‌ای خواند",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "SectionIndex2": 57
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "من مجنون واله عاشق",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: من دیوانه و شیفته‌ی عشق هستم، پس به رنگ جعفر صادق توجهی نکنید."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "پس رو رنگ جعفر صادق",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 58
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "داشتم اول این شعار و لیک",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: من در آغاز هدفی روشن داشتم، اما حالا به جای آن نتوانستم خوب عمل کنم و به بیراهه رفتم."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "بد شدم بر سرم نیامد نیک",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 59
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "گر اعادت کنم پس از سی سال",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: اگر بعد از سی سال دوباره به سراغ این لباس قدیمی بیایم، بعید نیست که این کار از حال و روز من دور نباشد."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "بر سر خرقه، نیست دور از حال",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 60
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "خام بودم مگر، مگر چه بود\u00A0",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: من بی‌تجربه و نادان بودم، مگر چه چیز دیگری بود؟ این بی‌دانشی، تنها همین بود و هیچ چیز دیگر."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "خامی این است و بس، دگر چه بود؟",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 61
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "دولت رفته را معاد از پس",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: شکوه و زیبایی که از دست رفته، در روز حساب و جزا دوباره مشخص می‌شود و تا آن زمان، باید نفس کشید و منتظر ماند."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "در حساب است تا به قطع نفس",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "SectionIndex2": 62
+    },
+    {
+      "VOrder": 123,
+      "Position": "Right",
+      "Text": "می‌دهد فقر گه‌گهی یارم",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: فقر گاهی به یاری من می‌آید و گاهی هم با مشکلاتی که برایم ایجاد می‌کند، کارم را دشوار می‌سازد."
+    },
+    {
+      "VOrder": 124,
+      "Position": "Left",
+      "Text": "می‌برد باز با سرم کارم",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "SectionIndex2": 63
+    },
+    {
+      "VOrder": 125,
+      "Position": "Right",
+      "Text": "تا ز خود پاک وا نپردازند",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که انسان از خودخواهی و قید و بندهای درونی خود رها نشود، نمی‌تواند به بازی زندگی و چالش‌های آن به خوبی بپردازد."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Left",
+      "Text": "مهره نرد خویش چون بازند؟",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "SectionIndex2": 64
+    },
+    {
+      "VOrder": 127,
+      "Position": "Right",
+      "Text": "رنگ مردان نه رنگ سالوس است",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: رنگ و شخصیت واقعی مردان به هیچ وجه مشابه رنگ نیرنگ و فریب نیست. این که کسی فقط به ظواهر توجه کند و به پوشش خود بپردازد، واقعاً اقدامی بی‌فایده است."
+    },
+    {
+      "VOrder": 128,
+      "Position": "Left",
+      "Text": "خرقه‌پوشی به هرکس افسوس است",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "SectionIndex2": 65
+    },
+    {
+      "VOrder": 129,
+      "Position": "Right",
+      "Text": "تا ز هستی خود برون نشوند",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه از وجود خود رها شوند، باید از هر دو نوع فکر و احساس، چه منطقی و چه بی‌خود، آزاد باشند."
+    },
+    {
+      "VOrder": 130,
+      "Position": "Left",
+      "Text": "فارغ از عقل و از جنون نشوند",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "SectionIndex2": 66
+    },
+    {
+      "VOrder": 131,
+      "Position": "Right",
+      "Text": "نتوان در لباس مردان شد",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: نمی‌توان به سادگی و بی‌توجهی در جمع مردان حاضر شد و خود را نشان داد."
+    },
+    {
+      "VOrder": 132,
+      "Position": "Left",
+      "Text": "سرسری در محیط نتوان شد",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "SectionIndex2": 67
+    }
+  ]
+}

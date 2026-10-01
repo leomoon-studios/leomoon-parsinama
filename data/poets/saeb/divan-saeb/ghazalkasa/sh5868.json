@@ -1,0 +1,195 @@
+{
+  "Id": 58066,
+  "CatId": 1852,
+  "Title": "غزل شمارهٔ ۵۸۶۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۸۶۸",
+  "FullUrl": "/saeb/divan-saeb/ghazalkasa/sh5868",
+  "RhymeLetters": "اگذاشتیم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف حال و روز خود می‌پردازد که به زندگی و انتخاب‌هایش ارتباط دارد. او از رها کردن اختیار خویش و سپردن آن به چیزهایی چون می و دریا صحبت می‌کند. مفاهیمی مانند غم، سکوت و فرار از دنیا نیز مورد تأکید قرار گرفته‌اند. شاعر آرزوی آرامش و رهایی از دغدغه‌های روزگار را دارد و به سفر به عوالم بالاتر و غیرمادی اشاره می‌کند. در نهایت، او اعلام می‌کند که به دلیل این انتخاب‌ها، از دنیا روی برگردانده و به دنبال نعمات بهشت است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اگذاشتیم",
+      "PlainText": "ما اختیار خویش به صهبا گذاشتیم\r\nسر بر خط پیاله چو مینا گذاشتیم\r\nآمد چو موج دامن ساحل به دست ما\r\nتا اختیار خویش به دریا گذاشتیم\r\nاز جبهه گشاده گرانی رود ز دل\r\nچون کوه سر به دامن صحرا گذاشتیم\r\nاز حرف و صوت زیر و زبر بود حال ما\r\nمهر سکوت بر لب گویا گذاشتیم\r\nچون سیل گرد کلفت ما هر قدم فزود\r\nتا پای در خرابه دنیا گذاشتیم\r\nاز سر زدن چو شمع شود بیش شوق ما\r\nتا روی خود به عالم بالا گذاشتیم\r\nاز خلق روزگار گرفتیم گوشه ای\r\nبر کوه قاف پشت چو عنقا گذاشتیم\r\nشد مخمل دو خوابه ز خواب گران ما\r\nپهلو اگر به بستر خارا گذاشتیم\r\nدیوانه راست سلسله شیرازه جنون\r\nدل را به آن دو زلف چلیپا گذاشتیم\r\nاز دست رفت دل به نظر باز کردنی\r\nاین طفل را عبث به تماشا گذاشتیم\r\nصایب بهشت نقد درین نشأه یافتیم\r\nتا دست رد به سینه دنیا گذاشتیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما اختیار خویش به صهبا گذاشتیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر بر خط پیاله چو مینا گذاشتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد چو موج دامن ساحل به دست ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا اختیار خویش به دریا گذاشتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جبهه گشاده گرانی رود ز دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون کوه سر به دامن صحرا گذاشتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز حرف و صوت زیر و زبر بود حال ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهر سکوت بر لب گویا گذاشتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سیل گرد کلفت ما هر قدم فزود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا پای در خرابه دنیا گذاشتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سر زدن چو شمع شود بیش شوق ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا روی خود به عالم بالا گذاشتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خلق روزگار گرفتیم گوشه ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر کوه قاف پشت چو عنقا گذاشتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد مخمل دو خوابه ز خواب گران ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپهلو اگر به بستر خارا گذاشتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیوانه راست سلسله شیرازه جنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل را به آن دو زلف چلیپا گذاشتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دست رفت دل به نظر باز کردنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین طفل را عبث به تماشا گذاشتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصائب بهشت نقد درین نشأه یافتیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دست رد به سینه دنیا گذاشتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 11
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما اختیار خویش به صهبا گذاشتیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما اراده و انتخاب خود را به شراب سپردیم و سر بر لبه‌ی پیاله گذاشتیم، مانند پرنده‌ای زیبا."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سر بر خط پیاله چو مینا گذاشتیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آمد چو موج دامن ساحل به دست ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که موج دریا دامن ساحل را به دست ما سپرد، ما تصمیم گرفتیم اختیار خود را به آب بسپاریم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا اختیار خویش به دریا گذاشتیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از جبهه گشاده گرانی رود ز دل",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی بار سنگین غم و غصه از دل برمی‌خیزد، مانند کوهی که بر دامن صحرا نشسته باشد، ما نیز در برابر این سختی‌ها ایستادگی می‌کنیم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون کوه سر به دامن صحرا گذاشتیم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از حرف و صوت زیر و زبر بود حال ما",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حالت ما تحت تأثیر حرف‌ها و صداهای مختلف قرار دارد، اما به نظر می‌رسد که تصمیم گرفته‌ایم برای حفظ سکوت، به زبان نیاوریم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مهر سکوت بر لب گویا گذاشتیم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چون سیل گرد کلفت ما هر قدم فزود",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما مانند سیلی هستیم که با هر قدمی که برمی‌داریم، بر بزرگی و شدت ما افزوده می‌شود تا زمانی که به ویرانه‌های این دنیا برسیم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا پای در خرابه دنیا گذاشتیم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "از سر زدن چو شمع شود بیش شوق ما",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی شوق و اشتیاق ما به اوج می‌رسد، مانند شمعی که در حال ذوب شدن است، به قدری مشتاق می‌شویم که تصویر خود را به عالم دیگر می‌فرستیم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "تا روی خود به عالم بالا گذاشتیم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "از خلق روزگار گرفتیم گوشه ای",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از مردم زمانه فاصله گرفتیم و در گوشه ای از کوه قاف نشسته‌ایم، همانند پرنده‌ای افسانه‌ای که در آنجا قرار دارد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بر کوه قاف پشت چو عنقا گذاشتیم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "شد مخمل دو خوابه ز خواب گران ما",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیت به ما می‌گوید که در حالتی که خواب سنگینی بر ما حاکم است، به طرز خاصی آرامش و آسایش را تجربه می‌کنیم، به گونه‌ای که حتی اگر روی سنگ هم بخوابیم، این خواب سنگین به ما احساس راحتی می‌دهد. یعنی در این حالت، شرایط دشوار نتوانسته خواب و آرامش ما را تحت تأثیر قرار دهد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "پهلو اگر به بستر خارا گذاشتیم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "دیوانه راست سلسله شیرازه جنون",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیوانه‌وار، رشته و سامان جنون قلب را به آن دو زلف زیبا گره زدیم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "دل را به آن دو زلف چلیپا گذاشتیم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "از دست رفت دل به نظر باز کردنی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل ما به خاطر دیدن این کودک از دست رفته، بیهوده به تماشا نشسته است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "این طفل را عبث به تماشا گذاشتیم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "صائب بهشت نقد درین نشأه یافتیم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در این دنیا بهشت واقعی را پیدا کردیم، به همین دلیل به چیزهای فانی و دنیوی بی‌اعتنا شده‌ایم."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "تا دست رد به سینه دنیا گذاشتیم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    }
+  ]
+}

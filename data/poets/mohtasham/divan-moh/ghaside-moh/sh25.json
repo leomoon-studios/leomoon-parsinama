@@ -1,0 +1,510 @@
+{
+  "Id": 22363,
+  "CatId": 322,
+  "Title": "قصیدهٔ شمارهٔ ۲۵ - وله ایضا قصیده",
+  "FullTitle": "محتشم کاشانی » دیوان اشعار » قصاید » قصیدهٔ شمارهٔ ۲۵ - وله ایضا قصیده",
+  "FullUrl": "/mohtasham/divan-moh/ghaside-moh/sh25",
+  "RhymeLetters": "ید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به سه عید مهم اشاره می‌کند که همگی به آصف سخی، شخصیتی با فضیلت و برجسته، مربوط می‌شوند. عید نخست به آغاز ماه رمضان و بازگشت هلال آن اشاره دارد. عید دوم به نظام حکومت و قدرت شهری که با آمدن فاتح خیبر به اوج خود رسیده، مربوط است. عید سوم نیز به وزارت نواب کامیاب و شخصیت‌های بزرگ مجالس نسبت داده می‌شود.\n\nشاعر ویژگی‌های برجسته آصف را توصیف می‌کند و بر فضیلت‌ها و عدالت او تأکید دارد. او در توصیف آصف به قوت و غیرت او در مبارزه با ظلم و ستم می‌پردازد و از شخصیت وی به عنوان فردی که توانسته نظم و عدالت را برقرار کند، یاد می‌کند. همچنین، شاعر به عظمت و احترام اجتماعی او اشاره می‌کند و او را مظهر قدرت و حاکمیت سعادت و رفاه برمی‌شمارد. در نهایت، بیان شده که آصف از اشخاص بسیار نادر و ارزشمند است و همچون آفتاب درخشان، سایه‌اش بر جهان گسترده است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "بر آصف سخی دل به اذل بود سه عید\r\nچون عهد او مبارک و فرخنده و سعید\r\nعید نخست عید مه روزه که آمده\r\nشکل هلال او در فردوس را کلید\r\nعید دوم حکومت شهری که صاحبش\r\nفتاح خیبر آمده ذوالقدة الشدید\r\nعید سوم وزارت نواب کامیاب\r\nشهزاده بزرگ نسب مرشد رشید\r\nگر خیل آصفان سلیمان وقار داد\r\nکاشان به آن حذیو فریدون فر فرید\r\nیعنی سمی احمد یثرب حرم که هست\r\nاز خاک رو به حرمش دیده مستفیذ\r\nبر پیشطاق خویش رقم کرده اسم او\r\nعرش بلند منظره اعظم مجید\r\nجان آفرین که زیب حکومت به عدل داد\r\nیک فرد را به معدلت او نیافرید\r\nبر زد سنان تیره غیرت سر از زمین\r\nهر جا که داد او سر بیداد را برید\r\nمرغی که بود بیضه ظلمش بزیر پر\r\nمنقار عدل بیضه شکن دیده بر پرید\r\nحرف وقار او به قلم چون سپرد عرش\r\nتا خواست نقش لوح کند قامتش خمید\r\nازشرم حلم او به حجاب عدم گریخت\r\nچون مجرمان عناد دل دشمن عنید\r\nبهر عدوی تو جسد از آتش آورد\r\nجان را به تن چو عود دهد مبدیی معید\r\nاز گرمی ملایمت او برون رود\r\nدر صلب کان طبیعت صلبیت از حدید\r\nسعی کف کفایت اکسیر سیرتش\r\nاز قطره ای هزار محیط آورد پدید\r\nای شام تو چو شام پسین مه صیام\r\nوی صبح تو چو صبح نخستین روز عید\r\nفرش تو عرش رفت و هزار احترام یافت\r\nمدح تو دهر گفت و هزار آفرین شنید\r\nمژگان دشمن از اثر زهر چشم تو\r\nگردید نیش عقرب و در چشم او خلید\r\nیاجوج ظلم را ز ازل گشته سنگ راه\r\nگرد عدالت تو که سدیست بس سدید\r\nبردند بس که دست به دست اهل روزگار\r\nنقش نگین حکم تو چون سکه جدید\r\nبگرفت کار بوسه رواجی که از شفا\r\nافتاد شغل حرف زدن یک جهان بعید\r\nدست تظلم دو جهان کاندرین زمان\r\nدامان هفت پرهین چرخ می درید\r\nچون شد زمان حکم قضا منتقل به تو\r\nخود را در آستین به صد آهستگی کشید\r\nای رای محتشم حشم نامور که هست\r\nهر بنده ات یگانه و هر چاکرت فرید\r\nگویی ز صبح روز ازل صبح فطرتش\r\nهم پیشتر برآمد و هم پیشتر دمید\r\nشد گرچه محتشم ملک خسروان نظم\r\nدر انقیاد صد چو خودش بندگی گزید\r\nسودای خدمتت به سویدای خاطرش\r\nشد بیش از آن فرو که به کنهش توان رسید\r\nآماده خریدن او شو که جنس خوب\r\nارزان اگرچه نیست گران می توان خرید\r\nاما به یک نظر نه به زر کاین متاع راست\r\nقیمت به مخزنی که خدا داردش کلید\r\nصلب جهان پر است ز اقران او ولی\r\nدر صد هزار قرن یکی می شود پدید\r\nبا نور آفتاب بود سایه ات قریب\r\nوز جرم آفتاب جهان تا جهان بعید\r\nاز آفتاب دولت شاهی مباد بعد\r\nظل تو را که دید جهان بر خرد مدید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آصف سخی دل به اذل بود سه عید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون عهد او مبارک و فرخنده و سعید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعید نخست عید مه روزه که آمده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکل هلال او در فردوس را کلید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعید دوم حکومت شهری که صاحبش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفتاح خیبر آمده ذوالقدة الشدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعید سوم وزارت نواب کامیاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشهزادهٔ بزرگ نسب مرشد رشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خیل آصفان سلیمان وقار داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاشان به آن حذیو فریدون فر فرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیعنی سمی احمد یثرب حرم که هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خاک رو به حرمش دیده مستفیذ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر پیشطاق خویش رقم کرده اسم او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرش بلند منظرهٔ اعظم مجید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان‌آفرین که زیب حکومت به عدل داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک فرد را به معدلت او نیافرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر زد سنان تیرهٔ غیرت سر از زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر جا که داد او سر بیداد را برید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغی که بود بیضهٔ ظلمش بزیر پر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنقار عدل بیضه شکن دیده بر پرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحرف وقار او به قلم چون سپرد عرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا خواست نقش لوح کند قامتش خمید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازشرم حلم او به حجاب عدم گریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون مجرمان عناد دل دشمن عنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر عدوی تو جسد از آتش آورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان را به تن چو عود دهد مبدئی معید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز گرمی ملایمت او برون رود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر صلب کان طبیعت صلبیت از حدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعی کف کفایت اکسیر سیرتش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز قطره‌ای هزار محیط آورد پدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شام تو چو شام پسین مه صیام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی صبح تو چو صبح نخستین روز عید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرش تو عرش رفت و هزار احترام یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمدح تو دهر گفت و هزار آفرین شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمژگان دشمن از اثر زهر چشم تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردید نیش عقرب و در چشم او خلید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاجوج ظلم را ز ازل گشته سنگ راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد عدالت تو که سدیست بس سدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبردند بس که دست به دست اهل روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقش نگین حکم تو چون سکهٔ جدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگرفت کار بوسه رواجی که از شفا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافتاد شغل حرف زدن یک جهان بعید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست تظلم دو جهان کاندرین زمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدامان هفت پرهین چرخ می‌درید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شد زمان حکم قضا منتقل به تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود را در آستین به صد آهستگی کشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای رای محتشم حشم نامور که هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر بنده‌ات یگانه و هر چاکرت فرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوئی ز صبح روز ازل صبح فطرتش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم پیشتر برآمد و هم پیشتر دمید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد گرچه محتشم ملک خسروان نظم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر انقیاد صد چو خودش بندگی گزید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسودای خدمتت به سویدای خاطرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد بیش از آن فرو که به کنهش توان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمادهٔ خریدن او شو که جنس خوب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eارزان اگرچه نیست گران می‌توان خرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاما به یک نظر نه به زر کاین متاع راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقیمت به مخزنی که خدا داردش کلید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصلب جهان پر است ز اقران او ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر صد هزار قرن یکی می‌شود پدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا نور آفتاب بود سایه‌ات قریب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز جرم آفتاب جهان تا جهان بعید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آفتاب دولت شاهی مباد بعد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eظل تو را که دید جهان بر خرد مدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 32
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر آصف سخی دل به اذل بود سه عید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزهایی که در کنار آصف سخاوت‌مند می‌گذرانیم، شبیه به سه عید است، زیرا عهد و پیمان او خوشایند و پرخیر و برکت است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون عهد او مبارک و فرخنده و سعید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عید نخست عید مه روزه که آمده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عید اول، عیدی است که با ماه جدید آغاز می‌شود و مانند هلال ماه، در بهشت را می‌گشاید."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شکل هلال او در فردوس را کلید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عید دوم حکومت شهری که صاحبش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عید دوم زمانی است که شهری به دست کسی فتح شده است که دارای قدرت و شجاعت بسیار بالایی است و آن شخص، فردی است که خیبر را فتح کرده."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "فتاح خیبر آمده ذوالقدة الشدید",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عید سوم وزارت نواب کامیاب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جشنی است برای وزیر جدید و موفق، که از خانواده‌ای بزرگ و معتبر به دنیا آمده و به راهنمایی نیکو شناخته می‌شود."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شهزادهٔ بزرگ نسب مرشد رشید",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر خیل آصفان سلیمان وقار داد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر جمع زیادی از حاکمان مانند سلیمان، به کاشان اعتبار و وقار ببخشند، آنجا به مانند حذیو، که نشان از عظمت و قدرت فریدون دارد، به شکوه و بزرگی می‌رسد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کاشان به آن حذیو فریدون فر فرید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "یعنی سمی احمد یثرب حرم که هست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یعنی مکانی که سمی احمد یثرب وجود دارد، به قدری مقدس و با ارزش است که از خاک آن، به سمت حرم توجه ویژه‌ای دارد و این مکان باعث بهره‌مندی و فیضی بزرگ می‌شود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از خاک رو به حرمش دیده مستفیذ",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بر پیشطاق خویش رقم کرده اسم او",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او نام او را بر درگاه خود نقش کرده است، همانند عرش بلندی که نمایی باشکوه و بزرگ دارد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "عرش بلند منظرهٔ اعظم مجید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "جان‌آفرین که زیب حکومت به عدل داد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آفریدگار جان، زیبایی حکومت را به عدل بخشید، ولی هیچ فردی را به اندازه او در تراز و توازن نیافرید."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "یک فرد را به معدلت او نیافرید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بر زد سنان تیرهٔ غیرت سر از زمین",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مکان‌هایی که غیرت و شجاعت به خطر می‌افتد، دشمنان را شکست می‌دهد و هر جا که لازم باشد، بر حوادث سخت فائق می‌آید و از پا در می‌آورد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "هر جا که داد او سر بیداد را برید",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "مرغی که بود بیضهٔ ظلمش بزیر پر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای که تخم ظلمش زیر منقار عدالت شکسته شده، دیگر نمی‌تواند پرواز کند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "منقار عدل بیضه شکن دیده بر پرید",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "حرف وقار او به قلم چون سپرد عرش",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقار و سنگینی کلام او باعث شد که وقتی قلم به نوشتن مشغول شد، عرش آسمان هم تحت تأثیر قرار گرفت و به خاطر زیبایی او، قامتش در برابر نوشتن خم شد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "تا خواست نقش لوح کند قامتش خمید",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "ازشرم حلم او به حجاب عدم گریخت",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر شرم و خجالت حلم و بردباری او، وجود نداشتن و عدم را به عنوان پوششی بر خود انتخاب کرد. مانند مجرمانی که در برابر دشمن سرسختی که دلش پر از کینه است، فرار می‌کنند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "چون مجرمان عناد دل دشمن عنید",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "بهر عدوی تو جسد از آتش آورد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای درمان تو، بدن را از آتش به دست آوردم؛ همچون عودی که جان را به بدن می‌دهد، منبعی برای تجدید حیات فراهم می‌کنم."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "جان را به تن چو عود دهد مبدئی معید",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "از گرمی ملایمت او برون رود",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از لطافت و نرمی او، سختی و استحکام طبیعی که در وجودش است، به کلی تغییر می‌کند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "در صلب کان طبیعت صلبیت از حدید",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "سعی کف کفایت اکسیر سیرتش",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با تلاش و کوشش، می‌توان به نتایجی بزرگ دست یافت؛ حتی یک قطره می‌تواند جهانی بزرگ را به وجود آورد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "از قطره‌ای هزار محیط آورد پدید",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "ای شام تو چو شام پسین مه صیام",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شام تو مانند شام آخر ماه رمضان است و صبح تو همانند صبح نخستین روز عید عيدفطر می‌باشد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "وی صبح تو چو صبح نخستین روز عید",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "فرش تو عرش رفت و هزار احترام یافت",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرش تو به اوج و مقام بلندی رسید و به خاطر این مقام، احترام زیادی کسب کرد. ستایش و تحسین درباره تو در دنیا گفته شد و هزاران بار به تو تبریک گفته شد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "مدح تو دهر گفت و هزار آفرین شنید",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "مژگان دشمن از اثر زهر چشم تو",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مژگان چشم‌های تو با تأثیر زهرآگین خود دشمن را به زهر عقرب تبدیل کرد و در چشمان او نشسته است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "گردید نیش عقرب و در چشم او خلید",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "یاجوج ظلم را ز ازل گشته سنگ راه",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یاجوج که نماد ظلم و ستم است، از آغاز تاریخ وجود داشته و همچون سنگی در راه تحقق عدالت قرار گرفته است. تو اما مانند سدی محکم و استوار، در برابر این ظلم و فساد ایستاده‌ای."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "گرد عدالت تو که سدیست بس سدید",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "بردند بس که دست به دست اهل روزگار",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از مردم به خاطر تاثیر و محبوبیت تو، به یکدیگر منتقل کردند که تو چقدر ارزش و مقام بالایی داری، به گونه‌ای که همانند سکه‌ای تازه ضرب شده، نقش و اعتبار تو در دل‌ها نقش بسته است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "نقش نگین حکم تو چون سکهٔ جدید",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "بگرفت کار بوسه رواجی که از شفا",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بوسه به قدری محبوب و رایج شد که صحبت کردن و گفتگو از حالت طبیعی و معنایی خود خارج گردید و به چیزی دور از واقعیت تبدیل شد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "افتاد شغل حرف زدن یک جهان بعید",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "دست تظلم دو جهان کاندرین زمان",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این زمان، دست ظلم و ستم در دو جهان، مانند دامنی که هفت پرهین چرخ را می‌دراند، عمل می‌کند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "دامان هفت پرهین چرخ می‌درید",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "چون شد زمان حکم قضا منتقل به تو",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی زمان سرنوشت فرارسید، خود را به آرامی در آستین کشید."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "خود را در آستین به صد آهستگی کشید",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "ای رای محتشم حشم نامور که هست",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای اندیشه برجسته و بزرگ که هر یک از بندگان تو بی‌نظیر و هر یک از خدمتگزارانت یکتا و خاص هستند."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "هر بنده‌ات یگانه و هر چاکرت فرید",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "گوئی ز صبح روز ازل صبح فطرتش",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که روز آغازین خلقت، صبح فطرت او ابتدا روشن شده و قبل از دیگر روزها به وجود آمده است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "هم پیشتر برآمد و هم پیشتر دمید",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "شد گرچه محتشم ملک خسروان نظم",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه محتشم (شاعر) در نظم و شعری که سروده، به مقام و سلطنت پادشاهان نزدیک شده، اما با این حال، در برابر صد افرادی که در بندگی او هستند، خود نیز انتخاب کرده که در این بندگی قرار گیرد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "در انقیاد صد چو خودش بندگی گزید",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "سودای خدمتت به سویدای خاطرش",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آرزو و عشق به خدمت به تو در دل او چنان عمیق و بزرگ شده که نمی‌توان به عمق واقعی آن پی برد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "شد بیش از آن فرو که به کنهش توان رسید",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "آمادهٔ خریدن او شو که جنس خوب",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خود را برای خرید او آماده کن، زیرا اگرچه کالای خوب به راحتی پیدا نمی‌شود، اما می‌توان آن را با قیمت مناسب خرید."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "ارزان اگرچه نیست گران می‌توان خرید",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "اما به یک نظر نه به زر کاین متاع راست",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما به یک نگاه متوجه می‌شویم که این دارایی واقعی ارزشمندتر از طلا است، زیرا کلید این گنجینه تنها در دست خداوند است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "قیمت به مخزنی که خدا داردش کلید",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "صلب جهان پر است ز اقران او ولی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان پر از انسان‌ها و هم‌نوعان اوست، اما در میان هزاران سال، تنها یکی از آن‌ها به برجستگی و ظهور واقعی می‌رسد."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "در صد هزار قرن یکی می‌شود پدید",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "با نور آفتاب بود سایه‌ات قریب",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سایه‌ات با نور خورشید نزدیک است و نوری که از خورشید به دنیا می‌تابد، تا دورترین نقاط جهان نیز می‌رسد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "وز جرم آفتاب جهان تا جهان بعید",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "از آفتاب دولت شاهی مباد بعد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از نور و برکت خورشید سلطنت تو، آرزو می‌کنم که پس از سایه‌ات، دیگر کسی نتواند جهان را به شکوه و عظمت تو ببیند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "ظل تو را که دید جهان بر خرد مدید",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    }
+  ]
+}

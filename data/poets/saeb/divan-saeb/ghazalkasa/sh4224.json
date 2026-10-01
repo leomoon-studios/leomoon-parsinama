@@ -1,0 +1,135 @@
+{
+  "Id": 56422,
+  "CatId": 1852,
+  "Title": "غزل شمارهٔ ۴۲۲۴",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۲۲۴",
+  "FullUrl": "/saeb/divan-saeb/ghazalkasa/sh4224",
+  "RhymeLetters": "ادمیکنند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به نقد افرادی می‌پردازد که فقط به اجداد خود افتخار می‌کنند و از حال و آینده خود غافل‌اند. شاعر به بخل و کراهت آنها اشاره می‌کند که در پاسخ به روابط انسانی، آزاداندیشی را از خود نشان نمی‌دهند. همچنین به واقعیت‌ها و روابط عاطفی در زندگی اشاره دارد و نشان می‌دهد که عشق واقعی برتر از عشق مجازی است. همچنین به افرادی اشاره می‌کند که فقط در ظاهر خوبند و در باطن به کارهای بی‌حاصل مشغولند. در نهایت، شاعر از حال آدم‌ها می‌خواهد که به یاد رفتگان و تأثیرات آنها در زندگی‌اشان توجه کنند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادمیکنند",
+      "PlainText": "این ناکسان که فخر به اجداد می کنند\r\nاز رو به پشت نامه دلی شاد می کنند\r\nبخل از کرم به است که بی حاصلان بخل\r\nدر هر جواب بنده ای آزاد می کنند\r\nگل بسته است راه به سر گوشی نسیم\r\nاین بلبلان خام چه فریاد می کنند\r\nآینده را قیاس کن از حال خود ببین\r\nکز رفتگان به خیر که را یاد می کنند\r\nدر مکتبی که عشق ادیب است کودکان\r\nمشق ستم به خامه فولاد می کنند\r\nعشق مجاز ابجد عشق حقیقت است\r\nدر عالمی که اهل دل ارشاد می کنند\r\nصایب جماعتی که سوارند بر سخن\r\nدر کوه قاف صید پریزاد می کنند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین ناکسان که فخر به اجداد می کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رو به پشت نامه دلی شاد می کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخل از کرم به است که بی حاصلان بخل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر هر جواب بنده ای آزاد می کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل بسته است راه به سر گوشی نسیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین بلبلان خام چه فریاد می کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآینده را قیاس کن از حال خود ببین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز رفتگان به خیر که را یاد می کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مکتبی که عشق ادیب است کودکان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشق ستم به خامه فولاد می کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق مجاز ابجد عشق حقیقت است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عالمی که اهل دل ارشاد می کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصائب جماعتی که سوارند بر سخن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کوه قاف صید پریزاد می کنند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این ناکسان که فخر به اجداد می کنند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این افراد بی‌ارزش که به نیاکان خود می‌بالند، در واقع فقط با نگاهی بی‌خود به گذشته، دلشان را خوش می‌کنند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از رو به پشت نامه دلی شاد می کنند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بخل از کرم به است که بی حاصلان بخل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بخل بهتر است از کرم، زیرا افراد بی‌فایده در هر پاسخ، می‌توانند بخل و خودخواهی را نشان دهند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در هر جواب بنده ای آزاد می کنند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گل بسته است راه به سر گوشی نسیم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل به خاطر وزش نسیم به سرگوشی، بسته شده است و بلبلان بی‌تجربه بی‌دلیل فریاد می‌زنند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این بلبلان خام چه فریاد می کنند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آینده را قیاس کن از حال خود ببین",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آینده‌ی خود را بر اساس حال فعلی‌ات بسنج. ببین که مردم از کسانی که گذشته‌اند، به خوبی یاد می‌کنند یا نه."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کز رفتگان به خیر که را یاد می کنند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در مکتبی که عشق ادیب است کودکان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جامعه‌ای که عشق و محبت ارزشمند است، کودکانی هستند که تحت فشار و ظلم مجبور به نوشتن و تحمل سختی‌ها می‌شوند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مشق ستم به خامه فولاد می کنند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "عشق مجاز ابجد عشق حقیقت است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق مجازی تنها نمایی از عشق واقعی است، در جهانی که دلسوختگان و آگاهان به هدایت دیگران مشغولند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "در عالمی که اهل دل ارشاد می کنند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "صائب جماعتی که سوارند بر سخن",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گروهی هستند که با تسلط بر کلام، در کوه قاف به شکار موجودات افسانه‌ای می‌پردازند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "در کوه قاف صید پریزاد می کنند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

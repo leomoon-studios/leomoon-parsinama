@@ -1,0 +1,195 @@
+{
+  "Id": 10973,
+  "CatId": 153,
+  "Title": "غزل شمارهٔ ۱۷",
+  "FullTitle": "عطار » دیوان اشعار » غزلیات » غزل شمارهٔ ۱۷",
+  "FullUrl": "/attar/divana/ghazal-attar/sh17",
+  "RhymeLetters": "ندت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این متن، شاعر به توصیف زیبایی و جذابیت معشوق خود می‌پردازد. او معشوق را به ماه و سرو بلند تشبیه می‌کند و از تأثیر عمیق عشقش بر خود سخن می‌گوید. شاعر بیان می‌کند که با دیدن زلف معشوق، به سرعت عاشق او شده و از «گزند» عشقش رنج می‌برد. همچنین، او به زیبایی و نورانی بودن معشوق اشاره کرده و می‌گوید که چهره معشوقش به اندازه‌ای زیباست که حتی آینه هم نمی‌تواند تمام زیبایی او را نشان دهد. در نهایت، شاعر از سوز و گداز عشق صحبت کرده و نشان می‌دهد که با وجود درد و رنج ناشی از عشق، هیچ چیز نمی‌تواند او را از این عشق دور کند.",
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندت",
+      "PlainText": "زهی ماه در مهر سرو بلندت\r\nشکر در گدازش ز تشویر قندت\r\nجهان فتنه بگرفت و پر مشک شد هم\r\nچو بگذشت بادی به مشکین کمندت\r\nسر زلف پر بند تو تا بدیدم\r\nبه یک دم شدم عاشق بند بندت\r\nگزند تو را قدر و قیمت که داند\r\nبیا تا به جانم رسانی گزندت\r\nبرآر از سر کبر گردی ز عالم\r\nکه گوگرد سرخ است گرد سمندت\r\nبه چه آلتی عشق روی تو بازم\r\nچو جان مست توست و خرد مستمندت\r\nچنان ماه رویی که آیینه تو\r\nبه رخ با قمر در غلط او فکندت\r\nچو وجه سپندی ندارم چه سازم\r\nجگر به که سوزم به جای سپندت\r\nمزن بانگ بر من که این است جرمم\r\nکه خورشید خواندم به بانگ بلندت\r\nغلط گفتم این زانکه خورشید دایم\r\nرخی همچو زر می رود مستمندت\r\nچه سازم که عطار اگر جان به زاری\r\nبسوزد ز عشقت نیاید پسندت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزهی ماه در مهر سرو بلندت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکر در گدازش ز تشویر قندت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان فتنه بگرفت و پر مشک شد هم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بگذشت بادی به مشکین کمندت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر زلف پر بند تو تا بدیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه یک دم شدم عاشق بند بندت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگزند تو را قدر و قیمت که داند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیا تا به جانم رسانی گزندت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرآر از سر کبر گردی ز عالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه گوگرد سرخ است گرد سمندت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه چه آلتی عشق روی تو بازم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو جان مست توست و خرد مستمندت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان ماه رویی که آئینهٔ تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه رخ با قمر در غلط او فکندت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو وجه سپندی ندارم چه سازم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجگر به که سوزم به جای سپندت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزن بانگ بر من که این است جرمم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خورشید خواندم به بانگ بلندت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغلط گفتم این زانکه خورشید دایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرخی همچو زر، می‌رود مستمندت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه سازم که عطار اگر جان به زاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسوزد ز عشقت نیاید پسندت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 11
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زهی ماه در مهر سرو بلندت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ماه! زیبایی تو مانند سرو بلند و شگفت‌انگیز است، شیرینی تو همانند شکر در حال ذوب شدن است و طعم گوارایت همچون قند می‌باشد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شکر در گدازش ز تشویر قندت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جهان فتنه بگرفت و پر مشک شد هم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا پر از آشوب و بلوا شده و حالتی همچون عطر مشک به خود گرفته است، مثل اینکه وزش بادی، عطر آن را به فضای اطراف پراکنده کرده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو بگذشت بادی به مشکین کمندت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سر زلف پر بند تو تا بدیدم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که سر زلف پر پیچ و تاب تو را دیدم، در یک لحظه به شدت عاشق تو شدم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به یک دم شدم عاشق بند بندت",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گزند تو را قدر و قیمت که داند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌داند آسیب تو چقدر ارزشمند است؛ پس بیا تا با جانم این آسیب را به من برسانی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بیا تا به جانم رسانی گزندت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "برآر از سر کبر گردی ز عالم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر اساس این بیت، شاعر از کسی می‌خواهد که به دلیل غرور و خودبینی‌اش، از دنیا و مسایل آن فاصله بگیرد. او اشاره می‌کند که این دنیا، مانند گرد و غباری است که به سمندش (اسب) نشسته و این گرد به رنگ قرمز است. در واقع، این تصویر به نوعی نشان‌دهنده زشتی و ناپاکی دنیای مادی است. شاعر می‌خواهد به خواننده یادآوری کند که باید به بالاتر از این دنیا توجه کند و از خودبینی رهایی یابد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که گوگرد سرخ است گرد سمندت",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "به چه آلتی عشق روی تو بازم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق به روی تو چه وسیله‌ای می‌خواهد وقتی که جانم شیدای تو است و عقل من به دنبالت می‌باشد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چو جان مست توست و خرد مستمندت",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چنان ماه رویی که آئینهٔ تو",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره‌ات به زیبایی آنقدر درخشان است که حتی آینه هم نمی‌تواند به خوبی منعکس کند و قمر (ماه) را در برابر زیبایی تو کم‌رنگ نشان می‌دهد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "به رخ با قمر در غلط او فکندت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "چو وجه سپندی ندارم چه سازم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که چیزی برای عرضه یا تقدیم کردن ندارم، چه کنم؟ آیا بهتر است جگر خود را بسوزانم به خاطر تو؟"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "جگر به که سوزم به جای سپندت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "مزن بانگ بر من که این است جرمم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من نگو که چرا بلند فریاد می‌کنم، چون تنها گناه من این است که خورشید را با صدای بلند نامیده‌ام."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "که خورشید خواندم به بانگ بلندت",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "غلط گفتم این زانکه خورشید دایم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، شاعر به اشتباه خود اعتراف می‌کند و می‌گوید خورشید همیشه در حال تابیدن است و چهره‌ای مانند طلا دارد. او به نوعی اظهار می‌کند که در زندگی دچار گرفتاری و نیازمندی شده است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "رخی همچو زر، می‌رود مستمندت",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "چه سازم که عطار اگر جان به زاری",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه کنم که اگر عطار از عشق تو جان خود را به آتش بکشد، این حالت برای تو خوشایند نخواهد بود."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "بسوزد ز عشقت نیاید پسندت",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    }
+  ]
+}

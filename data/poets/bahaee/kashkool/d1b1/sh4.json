@@ -1,0 +1,1255 @@
+{
+  "Id": 80910,
+  "CatId": 2147,
+  "Title": "بخش دوم - قسمت دوم",
+  "FullTitle": "شیخ بهایی » کشکول » دفتر اول - قسمت اول » بخش دوم - قسمت دوم",
+  "FullUrl": "/bahaee/kashkool/d1b1/sh4",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن شعری با مضمون عشق و دلتنگی است. شاعر از بی‌خبری و حیرت مردم از حال خود سخن می‌گوید و از حالت بی‌هوشی و عشقش به معشوقش می‌نالد. او به سختی‌ها و ناپایداری‌های دنیا اشاره کرده و از گذر زمان و پیری صحبت می‌کند. در ادامه، شاعر به ناکامی در دستیابی به آرزوهایش و بی‌معنایی لذت‌های دنیوی می‌پردازد. او متوجه می‌شود که همه انسان‌ها در نهایت به مرگ دچار می‌شوند و زندگی جز گذر اندوه و شادی نیست. شاعر از دنیا و بی‌پایانی آن می‌هراسد و به جایگاه‌های یاران گذشته که اکنون در خاک آرمیده‌اند، اندوهگین است. به طور کلی، این شعر اظهار احساسات عمیق، فلسفی و تأملی در مورد عشق، زندگی و مرگ را به تصویر می‌کشد.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "کهچودررختوبینمزخودمخبرنباشم",
+      "PlainText": "خبرم مپرس از من چو مقابل من آیی\r\nکه چو در رخ تو بینم زخودم خبر نباشم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخبرم مپرس از من چو مقابل من آئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چو در رخ تو بینم، زخودم خبر نباشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اجیکیاست",
+      "PlainText": "مریض عشق اگر صد بود علاج یکی است\r\nمرض یکی و طبیعت یکی مزاج یکی است\r\nتمام طالب وصلیم و وصل می طلبیم\r\nاگر یکیم و اگر صد که احتیاج یکی است\r\nبجز فساد مجو وحشی از طبیعت دهر\r\nکه وضع عنصر و تألیف و امتزاج یکی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمریض عشق اگر صد بود علاج یکی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرض یکی و طبیعت یکی، مزاج یکی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتمام طالب وصلیم و وصل می طلبیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر یکیم و اگر صد که احتیاج یکی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبجز فساد مجو وحشی از طبیعت دهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه وضع عنصر و تألیف و امتزاج یکی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "شد وقت آن دیگر که من ترک شکیبایی کنم\r\nناموس را یکسو نهم بنیاد رسوایی کنم\r\nچندان بکوشم در وفا کز من نپوشد راز خود\r\nهم محرم مجلس شوم هم باده پیمایی کنم\r\nتو خفته و من هر شبی در خلوت جان آرمت\r\nدل را نگهبانی دهم خاطر تماشایی کنم\r\nیک جو غم ایام نداریم و خوشیم\r\nگه چاشت گهی شام نداریم و خوشیم\r\nچون پخته بما می رسد از عالم غیب\r\nاز کس طمع خام نداریم و خوشیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد وقت آن دیگر که من ترک شکیبائی کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناموس را یکسو نهم، بنیاد رسوائی کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندان بکوشم در وفا کز من نپوشد راز خود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم محرم مجلس شوم، هم باده پیمائی کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو خفته و من هر شبی در خلوت جان آرمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل را نگهبانی دهم، خاطر تماشایی کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک جو غم ایام نداریم و خوشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه چاشت گهی شام نداریم و خوشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون پخته بما می رسد از عالم غیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز کس طمع خام نداریم و خوشیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "خبرم مپرس از من چو مقابل من آیی\r\nکه چو در رخ تو بینم زخودم خبر نباشم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخبرم مپرس از من چو مقابل من آئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چو در رخ تو بینم، زخودم خبر نباشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "مردمان در من و در بیهوشی من حیرانند\r\nمن در آن کس که ترا بیند و حیران نشود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردمان در من و در بیهوشی من حیرانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن در آن کس که ترا بیند و حیران نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "ساکنان سر کوی تو نباشند بهوش\r\nاین زمینی است که از وی همه مجنون خیزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساکنان سر کوی تو نباشند بهوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین زمینی است که از وی همه مجنون خیزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "دی که رسوا شده ای دیدی و گفتی این کیست\r\nدامن آلوده بخون خسرو تردامن بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی که رسوا شده ای دیدی و گفتی این کیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدامن آلوده بخون خسرو تردامن بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "قامتت راست چو تیر است و عقابست تیری\r\nکه زن دور و مرا در دل و در جان گذرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقامتت راست چو تیر است و عقابست تیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه زن دور و مرا در دل و در جان گذرد.\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "کهزندورومرادردلودرجانگذرد",
+      "PlainText": "قامتت راست چو تیر است و عقابست تیری\r\nکه زن دور و مرا در دل و در جان گذرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقامتت راست چو تیر است و عقابست تیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه زن دور و مرا در دل و در جان گذرد.\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دامنالودهبخونخسروتردامنبود",
+      "PlainText": "دی که رسوا شده ای دیدی و گفتی این کیست\r\nدامن آلوده بخون خسرو تردامن بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی که رسوا شده ای دیدی و گفتی این کیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدامن آلوده بخون خسرو تردامن بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اینزمینیاستکهازویهمهمجنونخیزد",
+      "PlainText": "ساکنان سر کوی تو نباشند بهوش\r\nاین زمینی است که از وی همه مجنون خیزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساکنان سر کوی تو نباشند بهوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین زمینی است که از وی همه مجنون خیزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "د",
+      "PlainText": "مردمان در من و در بیهوشی من حیرانند\r\nمن در آن کس که ترا بیند و حیران نشود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردمان در من و در بیهوشی من حیرانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن در آن کس که ترا بیند و حیران نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خبرم مپرس از من چو مقابل من آئی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو در مقابلم قرار می‌گیری، از من خبر نپرس. زیرا وقتی به چهره تو نگاه می‌کنم، از خودم غافل می‌شوم و دیگر نمی‌دانم چه خبر است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که چو در رخ تو بینم، زخودم خبر نباشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مردمان در من و در بیهوشی من حیرانند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 10,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: مردم در حالت بی‌خبری و گیجی من شگفت‌زده‌اند، ولی من به کسی فکر می‌کنم که تو را ببیند و هیچ‌گاه شگفت‌زده نشود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من در آن کس که ترا بیند و حیران نشود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 10,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ساکنان سر کوی تو نباشند بهوش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 9,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر ساکنان کوی تو بی‌احتیاط باشند، بدان که این دنیا پلی است که همه دیوانگان از آن برمی‌خیزند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این زمینی است که از وی همه مجنون خیزد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 9,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دی که رسوا شده ای دیدی و گفتی این کیست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 8,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: روزها و شب‌ها، وقتی که رسوایی و عیب و نقص کسی را مشاهده می‌کنی، به خاطر می‌آوری که چه کسی چنین وضعی پیدا کرده و با خود می‌گویی که این فردی که دامنش به خون آلوده است، در واقع از طایفه‌ای بوده که در ناز و نعمت زندگی کرده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دامن آلوده بخون خسرو تردامن بود",
+      "CoupletIndex": 3,
+      "SectionIndex1": 8,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "قامتت راست چو تیر است و عقابست تیری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 7,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: قامت تو همچون تیر است و مانند عقابی، تیری که به دور می‌زند و به دل و جان من نفوذ می‌کند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که زن دور و مرا در دل و در جان گذرد.",
+      "CoupletIndex": 4,
+      "SectionIndex1": 7,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Paragraph",
+      "Text": "شعر رضی - که خدا رحمتش کناد - نیز قریب همین معنی است:",
+      "CoupletIndex": 5,
+      "CoupletSummary": "هوش مصنوعی: شعر رضی - که خدا رحمتش کند - نیز به همین مضمون است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Paragraph",
+      "Text": "با آن که تیر زن در ذی سلم است، تیر",
+      "CoupletIndex": 6,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه تیرانداز در زمین ذیسلم حضور دارد، تیر..."
+    },
+    {
+      "VOrder": 13,
+      "Position": "Paragraph",
+      "Text": "کسی را در عراق بزد، راستی چه هدف را دور گزیده ای",
+      "CoupletIndex": 7,
+      "CoupletSummary": "هوش مصنوعی: کسی را در عراق زده‌ای، واقعاً چه هدفی را از دست داده‌ای؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Paragraph",
+      "Text": "سپید رویانی حریر پوش که هرگزشان قصد مشکوکی نیست",
+      "CoupletIndex": 8,
+      "CoupletSummary": "هوش مصنوعی: زنی با لباس حریر سفید و نازک که هرگز نیت بد و مشکوکی ندارد."
+    },
+    {
+      "VOrder": 15,
+      "Position": "Paragraph",
+      "Text": "چونانکه آهوان مکه که شکار کردنشان حرام است",
+      "CoupletIndex": 9,
+      "CoupletSummary": "هوش مصنوعی: همانند آهوانی که در مکه وجود دارند و شکار کردن آن‌ها ممنوع است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Paragraph",
+      "Text": "نرمی سخنشان شود که نابکار شمرده آوردشان",
+      "CoupletIndex": 10,
+      "CoupletSummary": "هوش مصنوعی: سخنانشان آن‌قدر ملایم و نرم می‌شود که به‌راستی مورد انتقاد و نکوهش قرار می‌گیرند."
+    },
+    {
+      "VOrder": 17,
+      "Position": "Paragraph",
+      "Text": "اما اسلام، از هر گونه خطائی مانعشان همی شود",
+      "CoupletIndex": 11,
+      "CoupletSummary": "هوش مصنوعی: اما اسلام جلوی هر نوع اشتباهی را می‌گیرد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Paragraph",
+      "Text": "روی دلدار، ماه تمام است اما همیشه پنهان ماند",
+      "CoupletIndex": 12,
+      "CoupletSummary": "هوش مصنوعی: دلبر زیبا همچون ماه کامل است، اما همیشه در سایه و پنهان باقی می‌ماند."
+    },
+    {
+      "VOrder": 19,
+      "Position": "Paragraph",
+      "Text": "هر چند پنهانی ماه، دوشبی بیش دوام نیارد",
+      "CoupletIndex": 13,
+      "CoupletSummary": "هوش مصنوعی: هرچند که ماه پنهان باشد، مدت زیادی نمی‌ماند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Paragraph",
+      "Text": "روی وی هلای است که اهله ی دیگر بگردش نمی رسند",
+      "CoupletIndex": 14,
+      "CoupletSummary": "هوش مصنوعی: روی او به گونه‌ای است که دیگران نمی‌توانند به او نزدیک شوند."
+    },
+    {
+      "VOrder": 21,
+      "Position": "Paragraph",
+      "Text": "چرا که هر گرانقدری، بسختی بدست همی آید",
+      "CoupletIndex": 15,
+      "CoupletSummary": "هوش مصنوعی: زیرا هر چیزی که ارزشمند است، به راحتی به دست نمی‌آید."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Paragraph",
+      "Text": "شمشیر نگاهی دارد که هرگز از نیام بیرون نشود",
+      "CoupletIndex": 16,
+      "CoupletSummary": "هوش مصنوعی: شمشیر دارای طرز نگاهی است که هیچ‌گاه از غلاف خود بیرون نمی‌آید."
+    },
+    {
+      "VOrder": 23,
+      "Position": "Paragraph",
+      "Text": "هر چند هیچ گاه ندیده ام که شمشیری در نیام خویش درخشد",
+      "CoupletIndex": 17,
+      "CoupletSummary": "هوش مصنوعی: هرچند هرگز ندیده‌ام که شمشیری در غلاف خود درخشش داشته باشد، اما این به معنای نادیده گرفتن توانایی‌های نهفته آن نیست."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Paragraph",
+      "Text": "اگر نزدیک آید، شب کوتاهی خواهد گرفت",
+      "CoupletIndex": 18,
+      "CoupletSummary": "هوش مصنوعی: اگر نزدیک شود، شب کوتاه خواهد بود."
+    },
+    {
+      "VOrder": 25,
+      "Position": "Paragraph",
+      "Text": "چرا که او صبحدم است و شب با رسیدن صبحدم تاب ماندن نیارد",
+      "CoupletIndex": 19,
+      "CoupletSummary": "هوش مصنوعی: چرا که او صبح است و شب نمی‌تواند در برابر صبح دوام بیاورد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Paragraph",
+      "Text": "هنگامی که شتر ابلقم بعزم سفر بازگشته بود",
+      "CoupletIndex": 20,
+      "CoupletSummary": "هوش مصنوعی: وقتی که شتر ابلقم با هدف سفر به خانه برگشته بود."
+    },
+    {
+      "VOrder": 27,
+      "Position": "Paragraph",
+      "Text": "گفتمش آنچرا در طاقت داری برای دوری آماده ساز",
+      "CoupletIndex": 21,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم که برای دوری از من، هر چیزی را که می‌تواند تحمل کند، آماده کند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Paragraph",
+      "Text": "چرا که من، تمامی روزگاران جوانی را",
+      "CoupletIndex": 22,
+      "CoupletSummary": "هوش مصنوعی: چرا که من تمام دوران جوانی‌ام را..."
+    },
+    {
+      "VOrder": 29,
+      "Position": "Paragraph",
+      "Text": "در جستجوی سر فرازی ها و حاصل ها از دست خواهم داد.",
+      "CoupletIndex": 23,
+      "CoupletSummary": "هوش مصنوعی: در تلاش برای رسیدن به موفقیت‌ها و دستاوردها، ممکن است چیزهایی را که ارزشمند هستند از دست بدهم."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Paragraph",
+      "Text": "آیا راستی این که شبان بی هوده بگذرد",
+      "CoupletIndex": 24,
+      "CoupletSummary": "هوش مصنوعی: آیا واقعاً شب را به بطالت سپری می‌کنیم؟"
+    },
+    {
+      "VOrder": 31,
+      "Position": "Paragraph",
+      "Text": "و از عمرمان بحساب نیز آید، زیانی محسوب نخواهد بود؟",
+      "CoupletIndex": 25,
+      "CoupletSummary": "هوش مصنوعی: این بدان معناست که اگر بخشی از زمان ما صرف شود، به نوعی ضرری به حساب نمی‌آید؟"
+    },
+    {
+      "VOrder": 32,
+      "Position": "Right",
+      "Text": "مریض عشق اگر صد بود علاج یکی است",
+      "CoupletIndex": 26,
+      "SectionIndex1": 1,
+      "CoupletSummary": "هوش مصنوعی: اگر چه در عشق ممکن است افراد مختلفی بیمار شوند، ولی درمان همه آن‌ها یکسان است. درد و طبیعت عشق برای همه یکسان است و همگی در یک وضعیت عاطفی مشابه قرار دارند."
+    },
+    {
+      "VOrder": 33,
+      "Position": "Left",
+      "Text": "مرض یکی و طبیعت یکی، مزاج یکی است",
+      "CoupletIndex": 26,
+      "SectionIndex1": 1
+    },
+    {
+      "VOrder": 34,
+      "Position": "Right",
+      "Text": "تمام طالب وصلیم و وصل می طلبیم",
+      "CoupletIndex": 27,
+      "SectionIndex1": 1,
+      "CoupletSummary": "هوش مصنوعی: همه ما در جستجوی وصال و رسیدن به حقیقتی واحد هستیم، چه ما یک نفر باشیم و چه صد نفر، نیاز ما به آن وصال یکی است."
+    },
+    {
+      "VOrder": 35,
+      "Position": "Left",
+      "Text": "اگر یکیم و اگر صد که احتیاج یکی است",
+      "CoupletIndex": 27,
+      "SectionIndex1": 1
+    },
+    {
+      "VOrder": 36,
+      "Position": "Right",
+      "Text": "بجز فساد مجو وحشی از طبیعت دهر",
+      "CoupletIndex": 28,
+      "SectionIndex1": 1,
+      "CoupletSummary": "هوش مصنوعی: جز فساد و خرابی، انتظار نداشته باش که از طبیعت جهان چیز دیگری به دست آوری، زیرا که ترکیب و تلفیق عناصر یکی است."
+    },
+    {
+      "VOrder": 37,
+      "Position": "Left",
+      "Text": "که وضع عنصر و تألیف و امتزاج یکی است",
+      "CoupletIndex": 28,
+      "SectionIndex1": 1
+    },
+    {
+      "VOrder": 38,
+      "Position": "Paragraph",
+      "Text": "نیز از اوست:",
+      "CoupletIndex": 29
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "شد وقت آن دیگر که من ترک شکیبائی کنم",
+      "CoupletIndex": 30,
+      "SectionIndex1": 2,
+      "CoupletSummary": "هوش مصنوعی: زمان آن رسیده که دیگر صبر نکنم، ناموس را کنار بگذارم و پایه‌گذار رسوائی شوم."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "ناموس را یکسو نهم، بنیاد رسوائی کنم",
+      "CoupletIndex": 30,
+      "SectionIndex1": 2
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "چندان بکوشم در وفا کز من نپوشد راز خود",
+      "CoupletIndex": 31,
+      "SectionIndex1": 2,
+      "CoupletSummary": "هوش مصنوعی: هرچقدر که در وفا و صداقت تلاش کنم، باید به جایی برسم که کسی راز خود را از من پنهان نکند. می‌خواهم هم در جمع‌های دوستانه حضور داشته باشم و هم در دمی از شراب لذت ببرم."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "هم محرم مجلس شوم، هم باده پیمائی کنم",
+      "CoupletIndex": 31,
+      "SectionIndex1": 2
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "تو خفته و من هر شبی در خلوت جان آرمت",
+      "CoupletIndex": 32,
+      "SectionIndex1": 2,
+      "CoupletSummary": "هوش مصنوعی: تو در خواب هستی و من هر شب در تنهایی‌ام به عشق تو، دل خود را مراقبت می‌کنم و به یاد تو فکر می‌کنم."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "دل را نگهبانی دهم، خاطر تماشایی کنم",
+      "CoupletIndex": 32,
+      "SectionIndex1": 2
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "یک جو غم ایام نداریم و خوشیم",
+      "CoupletIndex": 33,
+      "SectionIndex1": 2,
+      "CoupletSummary": "هوش مصنوعی: ما هیچ غمی از روزگار نداریم و در اوقات مختلف، از صبح تا شب، خوشحال و راضی هستیم."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "گه چاشت گهی شام نداریم و خوشیم",
+      "CoupletIndex": 33,
+      "SectionIndex1": 2
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "چون پخته بما می رسد از عالم غیب",
+      "CoupletIndex": 34,
+      "SectionIndex1": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که این نعمت پخته و آماده به ما می‌رسد، هیچ امیدی به هیچ کس نداریم و در همین حال خوشحال هستیم."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "از کس طمع خام نداریم و خوشیم",
+      "CoupletIndex": 34,
+      "SectionIndex1": 2
+    },
+    {
+      "VOrder": 49,
+      "Position": "Paragraph",
+      "Text": "آیا پس از «سلیمی » دیگر دلخواه و آرزوئی ممکن است؟",
+      "CoupletIndex": 35,
+      "CoupletSummary": "هوش مصنوعی: آیا بعد از «سلیمی» دیگر آرزو یا خواسته‌ای امکان‌پذیر است؟"
+    },
+    {
+      "VOrder": 50,
+      "Position": "Paragraph",
+      "Text": "و پس از عشق او آیا عشق و شور دیگری شدنی است؟",
+      "CoupletIndex": 36,
+      "CoupletSummary": "هوش مصنوعی: آیا پس از عاشق بودن او، می‌توان عشق و شور دیگری را تجربه کرد؟"
+    },
+    {
+      "VOrder": 51,
+      "Position": "Paragraph",
+      "Text": "پس از دیار او آیا، پناه و خانه ای یافته آید؟",
+      "CoupletIndex": 37,
+      "CoupletSummary": "هوش مصنوعی: آیا پس از ترک وطنش، مکانی امن و جایگاهی برای زندگی پیدا خواهد کرد؟"
+    },
+    {
+      "VOrder": 52,
+      "Position": "Paragraph",
+      "Text": "و جز در سایه او جائی دیگر را توان پناه برد؟",
+      "CoupletIndex": 38,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌توان در جایی دیگر غیر از سایه او پناه گرفت؟"
+    },
+    {
+      "VOrder": 53,
+      "Position": "Paragraph",
+      "Text": "هرگز مباد که عنان مرکب جز سوی دیار او شود",
+      "CoupletIndex": 39,
+      "CoupletSummary": "هوش مصنوعی: هرگز نگذار که کنترل اوضاع از دستت خارج شود و به سمت جای دیگری برود؛ همیشه باید در مسیر هدف خودت باقی بمانی."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Paragraph",
+      "Text": "و میان، جز به عزم دیدن او بسته آید",
+      "CoupletIndex": 40,
+      "CoupletSummary": "هوش مصنوعی: و در میانه، فقط به خاطر دیدن او از هم جدا می‌شویم."
+    },
+    {
+      "VOrder": 55,
+      "Position": "Paragraph",
+      "Text": "«سلیمی » اوج آرزوهاست، اگر دسترسی بوی نبود",
+      "CoupletIndex": 41,
+      "CoupletSummary": "هوش مصنوعی: «سلیمی» مظهر بالاترین آرزوهاست، اگر نتوان به آن دست یافت."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Paragraph",
+      "Text": "دیگر، آرزوهای دگر در این دنیا بر من حرام باد",
+      "CoupletIndex": 42,
+      "CoupletSummary": "هوش مصنوعی: دیگر هیچ آرزویی برای من در این دنیا مجاز نیست."
+    },
+    {
+      "VOrder": 57,
+      "Position": "Paragraph",
+      "Text": "دیگر نقش جاه را از خاطر خویش زدوده ام",
+      "CoupletIndex": 43,
+      "CoupletSummary": "هوش مصنوعی: من دیگر به هیچ عنوان به مقام و جایگاهی که داشتم فکر نمی‌کنم."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Paragraph",
+      "Text": "چنانکه گوئی، نقاشی، پیش از این بدان نگاری نکشیده",
+      "CoupletIndex": 44,
+      "CoupletSummary": "هوش مصنوعی: گویی که نقاشی هرگز قبل از این طرحی نکشیده است."
+    },
+    {
+      "VOrder": 59,
+      "Position": "Paragraph",
+      "Text": "به سختی ها و پستی های زمانه نیز خو کرده ام",
+      "CoupletIndex": 45,
+      "CoupletSummary": "هوش مصنوعی: من به دشواری‌ها و چالش‌های زندگی عادت کرده‌ام."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Paragraph",
+      "Text": ". . . های سرافرازی های دنیا، بدرود باد!",
+      "CoupletIndex": 46,
+      "CoupletSummary": "هوش مصنوعی: خداحافظ به افتخارات و موفقیت‌های جهان!"
+    },
+    {
+      "VOrder": 61,
+      "Position": "Paragraph",
+      "Text": "راستی تا کی بار غرور و دلال وی را بر دوش کشم",
+      "CoupletIndex": 47,
+      "CoupletSummary": "هوش مصنوعی: واقعاً تا کی باید بار غرور و دلالی او را بر دوش بزنم؟"
+    },
+    {
+      "VOrder": 62,
+      "Position": "Paragraph",
+      "Text": "آیا دیگرم زمان آرامش و تسلائی نرسیده است؟",
+      "CoupletIndex": 48,
+      "CoupletSummary": "هوش مصنوعی: آیا زمان آرامش و راحتی دیگر فرا نرسیده است؟"
+    },
+    {
+      "VOrder": 63,
+      "Position": "Paragraph",
+      "Text": "روزگار پیراهن حسنش را نیک یافته است",
+      "CoupletIndex": 49,
+      "CoupletSummary": "هوش مصنوعی: روزگار به خوبی پیراهن حسن را پیدا کرده است."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Paragraph",
+      "Text": "آن چنان که دیابی پررونق در مقابلش ژنده ای بیش نیست",
+      "CoupletIndex": 50,
+      "CoupletSummary": "هوش مصنوعی: چنان که یک دیاب به شکوه و زیبایی در برابرش به نظر می‌رسد، در واقع چیزی بیشتر از یک بافت کهنه و فرسوده نیست."
+    },
+    {
+      "VOrder": 65,
+      "Position": "Paragraph",
+      "Text": "همزمان با برف پیری هجرانم را بگزیده است؟",
+      "CoupletIndex": 51,
+      "CoupletSummary": "هوش مصنوعی: آیا همزمان با بارش برف، پیری تنهایی و جدایی مرا به دوش کشیده است؟"
+    },
+    {
+      "VOrder": 66,
+      "Position": "Paragraph",
+      "Text": "زمانی که بیشترین موهایم سپید گشته",
+      "CoupletIndex": 52,
+      "CoupletSummary": "هوش مصنوعی: وقتی که بیشترین موهایم سفید شده است."
+    },
+    {
+      "VOrder": 67,
+      "Position": "Paragraph",
+      "Text": "نیز آن گاه که طلایه دارن ضعف، نیرویم را کاسته",
+      "CoupletIndex": 53,
+      "CoupletSummary": "هوش مصنوعی: همچنین زمانی که نشانه‌های ضعف ظاهر می‌شوند، انرژی‌ام کاهش می‌یابد."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Paragraph",
+      "Text": "و رزمگاه مزاجم را، سیاهی سایه انداخته",
+      "CoupletIndex": 54,
+      "CoupletSummary": "هوش مصنوعی: و میدان جنگ مرا سایه‌ای از سیاهی فرا گرفته است."
+    },
+    {
+      "VOrder": 69,
+      "Position": "Paragraph",
+      "Text": "هر چند نه او دیگر در برج زیبائی مقام دارد",
+      "CoupletIndex": 55,
+      "CoupletSummary": "هوش مصنوعی: هرچند او دیگر در جایگاه زیبایی و شکوه خود قرار ندارد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Paragraph",
+      "Text": "و نه من بروزگار جوانی خویش ام",
+      "CoupletIndex": 56,
+      "CoupletSummary": "هوش مصنوعی: من در زمان جوانی خود نیستم."
+    },
+    {
+      "VOrder": 71,
+      "Position": "Paragraph",
+      "Text": "آنچه ما را به هم می پیوست، بگسست",
+      "CoupletIndex": 57,
+      "CoupletSummary": "هوش مصنوعی: آنچه ما را به هم مرتبط می‌کرد، از هم جدا شد."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Paragraph",
+      "Text": "و بین ما هیچ پیوندی دیگر نمانده است",
+      "CoupletIndex": 58,
+      "CoupletSummary": "هوش مصنوعی: در بین ما دیگر هیچ رابطه‌ای باقی نمانده است."
+    },
+    {
+      "VOrder": 73,
+      "Position": "Paragraph",
+      "Text": "دیگر شتران جوان عزم من، برای رسیدنش سستی گرفته اند",
+      "CoupletIndex": 59,
+      "CoupletSummary": "هوش مصنوعی: دیگر شتران جوان من، برای رسیدن به هدفم، بی‌تحرک و سست شده‌اند."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Paragraph",
+      "Text": "و هیچ یکشان را کوهان و ارتفاعی باقی نمانده حکایت من و دل، آن زمان که رکاب استوار کرده است",
+      "CoupletIndex": 60,
+      "CoupletSummary": "هوش مصنوعی: هیچ یک از آن‌ها نه برآمدگی و نه بلندی‌ای برای خود نگذاشته‌اند، مانند حال من و دلم که زمانی که آماده و ثابت قدم شده است."
+    },
+    {
+      "VOrder": 75,
+      "Position": "Paragraph",
+      "Text": "و نیز خیمه گاه را در پیچیده",
+      "CoupletIndex": 61,
+      "CoupletSummary": "هوش مصنوعی: و همچنین خیمه را در بر گرفته است."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Paragraph",
+      "Text": "حکایت کسی است که بدیار سستی گام نهاده",
+      "CoupletIndex": 62,
+      "CoupletSummary": "هوش مصنوعی: داستان درباره فردی است که به سرزمین ضعف و ناتوانی قدم گذاشته است."
+    },
+    {
+      "VOrder": 77,
+      "Position": "Paragraph",
+      "Text": "و تنها و گریان بدو شوق می ورزد",
+      "CoupletIndex": 63,
+      "CoupletSummary": "هوش مصنوعی: او تنها و با گریه به او محبت می‌کند."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Paragraph",
+      "Text": "شوق ماده شتری که به عشق فرزند سیر می کند",
+      "CoupletIndex": 64,
+      "CoupletSummary": "هوش مصنوعی: شوق مادر شتری که به خاطر عشق به فرزندش، دائم در حال پرورش و مراقبت از اوست."
+    },
+    {
+      "VOrder": 79,
+      "Position": "Paragraph",
+      "Text": "و هنگامی که می رسد، جز ناله و تیغ خار نصیبی ندارد",
+      "CoupletIndex": 65,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به مقصد می‌رسد، تنها چیزی که به همراه دارد ناله و درد است و هیچ چیز دیگر نصیبش نمی‌شود."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Paragraph",
+      "Text": "شب های سرور بگذشت و از دست شد",
+      "CoupletIndex": 66,
+      "CoupletSummary": "هوش مصنوعی: شب‌های خوشی گذشت و از بین رفت."
+    },
+    {
+      "VOrder": 81,
+      "Position": "Paragraph",
+      "Text": "هر روزگارانی را سرانجام پایانی است",
+      "CoupletIndex": 67,
+      "CoupletSummary": "هوش مصنوعی: هر دوره‌ای در نهایت به پایان می‌رسد."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Paragraph",
+      "Text": "راستی چه زود بگذشت و روزگاران دیگر در پی اش آمد",
+      "CoupletIndex": 68,
+      "CoupletSummary": "هوش مصنوعی: واقعاً چقدر زمان سریع سپری شد و روزهای دیگری پس از آن آغاز شد."
+    },
+    {
+      "VOrder": 83,
+      "Position": "Paragraph",
+      "Text": "کاشکی دوامی داشت، هر چند نمی توانست داشته باشد",
+      "CoupletIndex": 69,
+      "CoupletSummary": "هوش مصنوعی: ای کاش چیزهایی که داریم بیشتر دوام می‌آوردند، هرچند می‌دانیم که این امکان‌پذیر نیست."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Paragraph",
+      "Text": "قرن های شادی چگونه یک ساعته میگذرد",
+      "CoupletIndex": 70,
+      "CoupletSummary": "هوش مصنوعی: قرن‌ها شادی چطور در یک لحظه سپری می‌شود."
+    },
+    {
+      "VOrder": 85,
+      "Position": "Paragraph",
+      "Text": "و روزهای اندوه چگونه سالی است",
+      "CoupletIndex": 71,
+      "CoupletSummary": "هوش مصنوعی: روزهای حزن‌آور چگونه سالی را رقم می‌زنند؟"
+    },
+    {
+      "VOrder": 86,
+      "Position": "Paragraph",
+      "Text": "خوشا اندوها! چسان زندگانی مرا",
+      "CoupletIndex": 72,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال آنهایی که شادی را در زندگی دارند! چطور می‌توانم زندگی‌ام را بهتر کنم؟"
+    },
+    {
+      "VOrder": 87,
+      "Position": "Paragraph",
+      "Text": "دراز کرد، هر چند اندوه جز باد سمومی نیست",
+      "CoupletIndex": 73,
+      "CoupletSummary": "هوش مصنوعی: او دراز به خواب رفت، هرچند که ناراحتی فقط به مانند بادی داغ و سوزان است."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Paragraph",
+      "Text": "با آن که با ندیمانم حق صحبت ها بود",
+      "CoupletIndex": 74,
+      "CoupletSummary": "هوش مصنوعی: با اینکه با دوستانم حق گفت‌وگو داشتم،"
+    },
+    {
+      "VOrder": 89,
+      "Position": "Paragraph",
+      "Text": "اکنون در پهندشت حیرت تنها مانده ام",
+      "CoupletIndex": 75,
+      "CoupletSummary": "هوش مصنوعی: اکنون در یک دنیای وسیع و شگفت‌انگیز تنها مانده‌ام."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Paragraph",
+      "Text": "بسا عشرت ها که جز عسرت نمی آرد",
+      "CoupletIndex": 76,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از خوشی‌ها، تنها به دردسری که به دنبالشان می‌آید، می‌انجامند."
+    },
+    {
+      "VOrder": 91,
+      "Position": "Paragraph",
+      "Text": "و بسا سخن ها که دل را تنگ همی کند",
+      "CoupletIndex": 77,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از سخنان وجود دارند که باعث ناراحتی و دلزدگی انسان می‌شوند."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Paragraph",
+      "Text": "من که هرگز نیکی این و آن را فراموش نکرده ام",
+      "CoupletIndex": 78,
+      "CoupletSummary": "هوش مصنوعی: من هیچ وقت خوبی‌های دیگران را فراموش نکرده‌ام."
+    },
+    {
+      "VOrder": 93,
+      "Position": "Paragraph",
+      "Text": "چگونه توانم بدی ها را بفراموشی بسپارم",
+      "CoupletIndex": 79,
+      "CoupletSummary": "هوش مصنوعی: چطور می‌توانم ناراحتی‌ها و اتفاقات منفی را از یاد ببرم؟"
+    },
+    {
+      "VOrder": 94,
+      "Position": "Paragraph",
+      "Text": "هر چند که مردمان زمانه، بدین فراموشی معتاداند",
+      "CoupletIndex": 80,
+      "CoupletSummary": "هوش مصنوعی: مردم این روزها به فراموشی عادت کرده‌اند."
+    },
+    {
+      "VOrder": 95,
+      "Position": "Paragraph",
+      "Text": "و هر گروه که پس از گروه دیگر آید، نیز چنان شود",
+      "CoupletIndex": 81,
+      "CoupletSummary": "هوش مصنوعی: هر گروهی که پس از گروه دیگری بیاید، همچنین خواهد بود."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Paragraph",
+      "Text": "آتش معرفت و دانش و رهگشائی فرود گرفته است",
+      "CoupletIndex": 82,
+      "CoupletSummary": "هوش مصنوعی: آتش شعله‌ور دانش و آگاهی و هدایت بر زمین نشسته است."
+    },
+    {
+      "VOrder": 97,
+      "Position": "Paragraph",
+      "Text": "شعله ی گمراهی اما سخت پرفروغ گشته است",
+      "CoupletIndex": 83,
+      "CoupletSummary": "هوش مصنوعی: شعله‌ی گمراهی به شدت روشن و پرنور شده است."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Paragraph",
+      "Text": "آن زمان علم را بانگی صافی بودی",
+      "CoupletIndex": 84,
+      "CoupletSummary": "هوش مصنوعی: در آن زمان، علم به صورت خالص و واضحی ارائه می‌شد."
+    },
+    {
+      "VOrder": 99,
+      "Position": "Paragraph",
+      "Text": "که اگر میخواست، با افلاک سخن گفتی",
+      "CoupletIndex": 85,
+      "CoupletSummary": "هوش مصنوعی: اگر او می‌خواست، می‌توانست با ستاره‌ها صحبت کند."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Paragraph",
+      "Text": "و تخت دانش را چنان رفعت و بزرگی",
+      "CoupletIndex": 86,
+      "CoupletSummary": "هوش مصنوعی: تخت دانش به حدی بلند و باعظمت است که هیچ چیز نمی‌تواند به آن برسد."
+    },
+    {
+      "VOrder": 101,
+      "Position": "Paragraph",
+      "Text": "و عزت بود که آرزو هرگز به گردش نمی رسید",
+      "CoupletIndex": 87,
+      "CoupletSummary": "هوش مصنوعی: و این شرافت بود که آرزو هیچ‌گاه به کمال نمی‌رسید."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Paragraph",
+      "Text": "ماهتاب هدایت چنان از برجهای دانش می درخشید",
+      "CoupletIndex": 88,
+      "CoupletSummary": "هوش مصنوعی: ماهتاب هدایت به طور فوق‌العاده‌ای در زمینه‌های علمی و دانش می‌درخشید."
+    },
+    {
+      "VOrder": 103,
+      "Position": "Paragraph",
+      "Text": "که گوئی برقی است که از ابرها همی جهد",
+      "CoupletIndex": 89,
+      "CoupletSummary": "هوش مصنوعی: انگار نوری است که از میان ابرها به سمت بالا می‌جهد."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Paragraph",
+      "Text": "کوههای سر به فلک کشیده دامان بدنبالش می کشیدند",
+      "CoupletIndex": 90,
+      "CoupletSummary": "هوش مصنوعی: کوه‌های بلند با عظمت خود، به زمین چسبیده بودند."
+    },
+    {
+      "VOrder": 105,
+      "Position": "Paragraph",
+      "Text": "و تخت سلاطین با ستونهایشان بسویش می رفتند",
+      "CoupletIndex": 91,
+      "CoupletSummary": "هوش مصنوعی: تخت‌های سلطنتی با ستون‌هایشان به سمت او حرکت می‌کردند."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Paragraph",
+      "Text": "اما امروز، دانش پژوهان چونان",
+      "CoupletIndex": 92,
+      "CoupletSummary": "هوش مصنوعی: اما امروزه، محققان به گونه‌ای عمل می‌کنند که..."
+    },
+    {
+      "VOrder": 107,
+      "Position": "Paragraph",
+      "Text": "اسیری مقهور بدیار کم بهائی سوق یافته اند",
+      "CoupletIndex": 93,
+      "CoupletSummary": "هوش مصنوعی: زبان‌آوری که به سرزمین‌های دورفرستاده شده‌اند، به شدت تحت فشار و محدودیت‌های مختلف قرار گرفته‌اند."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Paragraph",
+      "Text": "روزگار چنین است و با مردمان چنین کند",
+      "CoupletIndex": 94,
+      "CoupletSummary": "هوش مصنوعی: دنیا چنین است و با مردم این‌گونه رفتار می‌کند."
+    },
+    {
+      "VOrder": 109,
+      "Position": "Paragraph",
+      "Text": "و بر سر راههاشان کژی و راستی یکسان نهد",
+      "CoupletIndex": 95,
+      "CoupletSummary": "هوش مصنوعی: و در مسیرهایشان نیک و بد را به یک اندازه قرار می‌دهد."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Paragraph",
+      "Text": "بی شک هر قیل و قالی از سر علم و حکمت نیست",
+      "CoupletIndex": 96,
+      "CoupletSummary": "هوش مصنوعی: بدون شک هر شلوغی و هیاهویی ناشی از دانش و عقل نیست."
+    },
+    {
+      "VOrder": 111,
+      "Position": "Paragraph",
+      "Text": "و هر آهنی را شمشیر ساختن نتوان",
+      "CoupletIndex": 97,
+      "CoupletSummary": "هوش مصنوعی: هر فلزی را نمی‌توان به شمشیر تبدیل کرد."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Paragraph",
+      "Text": "زمانه، گاه بر آدمی نعمت و صحت آرد",
+      "CoupletIndex": 98,
+      "CoupletSummary": "هوش مصنوعی: زمان sometimes به انسان خوشی و سلامتی می‌دهد."
+    },
+    {
+      "VOrder": 113,
+      "Position": "Paragraph",
+      "Text": "و گاه سختی و بیماری نصیبش کند",
+      "CoupletIndex": 99,
+      "CoupletSummary": "هوش مصنوعی: و گاهی ممکن است با سختی و بیماری مواجه شود."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Paragraph",
+      "Text": "از این رو آن که در این دنیاست و از او چشم امید ندارد",
+      "CoupletIndex": 100,
+      "CoupletSummary": "هوش مصنوعی: بنابراین، کسی که در این دنیا زندگی می‌کند و امیدوار نیست که به او کمک شود، باید به خود وابسته باشد."
+    },
+    {
+      "VOrder": 115,
+      "Position": "Paragraph",
+      "Text": "ملامتش نشاید و سرزنشش نباید",
+      "CoupletIndex": 101,
+      "CoupletSummary": "هوش مصنوعی: سرزنش کردن او جایز نیست و نباید به او ایراد گرفت."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Paragraph",
+      "Text": "دلا بهر تو تحقیق کرده ام که دنیا چیست و متاعش کدام است",
+      "CoupletIndex": 102,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر تو تلاش کردم بدانم دنیا چیست و ارزش واقعی‌اش در چیست."
+    },
+    {
+      "VOrder": 117,
+      "Position": "Paragraph",
+      "Text": "و این که آنچه دنیا می پذیرد، خرده ریزی بیش نیست",
+      "CoupletIndex": 103,
+      "CoupletSummary": "هوش مصنوعی: آنچه که در دنیا به رسمیت شناخته می‌شود، تنها قسمت کوچکی از واقعیت است."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Paragraph",
+      "Text": "هر چیز، در آن، بگونه ای مخالف خود، شکل می گیرد",
+      "CoupletIndex": 104,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی به نوعی در تضاد با وجود خود شکل می‌گیرد."
+    },
+    {
+      "VOrder": 119,
+      "Position": "Paragraph",
+      "Text": "و مردمان اما از این قضیه سخت غافل اند",
+      "CoupletIndex": 105,
+      "CoupletSummary": "هوش مصنوعی: اما مردم از این موضوع به شدت بی‌خبرند."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Paragraph",
+      "Text": "نقص را چنان لباس کمال درپیچد",
+      "CoupletIndex": 106,
+      "CoupletSummary": "هوش مصنوعی: نقص را به گونه‌ای بپوشان که خود را کامل نشان دهد."
+    },
+    {
+      "VOrder": 121,
+      "Position": "Paragraph",
+      "Text": "که گوئی زنی عمامه به سر برنهاده است",
+      "CoupletIndex": 107,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد زنی با عمامه بر سرش ایستاده است."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Paragraph",
+      "Text": "دلا! زمانه را بگذار، آنچه در اوست، گوارای اهلش باد",
+      "CoupletIndex": 108,
+      "CoupletSummary": "هوش مصنوعی: ای دل! به حال زمانه اهمیت نده، هر چیزی که در آن هست، برای کسانی که در آن زندگی می‌کنند خوشایند باشد."
+    },
+    {
+      "VOrder": 123,
+      "Position": "Paragraph",
+      "Text": "هرگز تو بدان رغبتی از خود نشان مده",
+      "CoupletIndex": 109,
+      "CoupletSummary": "هوش مصنوعی: هرگز نشان نده که به چیزی علاقه‌مند هستی."
+    },
+    {
+      "VOrder": 124,
+      "Position": "Paragraph",
+      "Text": "چرا که مردان بزرگ آن زمانه که فرومایگان",
+      "CoupletIndex": 110,
+      "CoupletSummary": "هوش مصنوعی: زیرا مردان بزرگ در آن دوران، افرادی بودند که هیچ‌گاه نباید به فرومایگان توجه می‌کردند."
+    },
+    {
+      "VOrder": 125,
+      "Position": "Paragraph",
+      "Text": "سفره داری میکنند، گرسنه می مانند",
+      "CoupletIndex": 111,
+      "CoupletSummary": "هوش مصنوعی: آنها غذا را تهیه می‌کنند، اما همچنان گرسنه می‌مانند."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Paragraph",
+      "Text": "بویژه از آن جا که زمانه را دستگیری نیست،",
+      "CoupletIndex": 112,
+      "CoupletSummary": "هوش مصنوعی: به ویژه از آنجا که زمان در دست انسان نیست،"
+    },
+    {
+      "VOrder": 127,
+      "Position": "Paragraph",
+      "Text": "آسان، بدست آمدنی نخواهد بود",
+      "CoupletIndex": 113,
+      "CoupletSummary": "هوش مصنوعی: به دست آوردن آن آسان نخواهد بود."
+    },
+    {
+      "VOrder": 128,
+      "Position": "Paragraph",
+      "Text": "و اگر تو هزاران سال در دست یابیش کوشی",
+      "CoupletIndex": 114,
+      "CoupletSummary": "هوش مصنوعی: اگر تو هزاران سال هم در تلاش باشی تا به آن چیزی که می‌خواهی برسی،"
+    },
+    {
+      "VOrder": 129,
+      "Position": "Paragraph",
+      "Text": "و او تا سر پستانی بتو دست یابد، حرام خواهد بود",
+      "CoupletIndex": 115,
+      "CoupletSummary": "هوش مصنوعی: او تا زمانی که به سر پستانی تو دسترسی پیدا نکند، حرام خواهد بود."
+    },
+    {
+      "VOrder": 130,
+      "Position": "Paragraph",
+      "Text": "در آن صورت دوباره باز خواهی گشت",
+      "CoupletIndex": 116,
+      "CoupletSummary": "هوش مصنوعی: در آن صورت دوباره به جایی که بودی برمی‌گردی."
+    },
+    {
+      "VOrder": 131,
+      "Position": "Paragraph",
+      "Text": "و کوشش بیهوده ات تا قیامت ملامت می پذیرد",
+      "CoupletIndex": 117,
+      "CoupletSummary": "هوش مصنوعی: تلاش بیهوده تو تا ابد مورد سرزنش قرار خواهد گرفت."
+    },
+    {
+      "VOrder": 132,
+      "Position": "Paragraph",
+      "Text": "گیرم که تمامی قدرت دنیا را بدست آری",
+      "CoupletIndex": 118,
+      "CoupletSummary": "هوش مصنوعی: فرض کن که تمام قدرت‌های دنیا را به دست بیاوری، اما آیا این به تنهایی باعث خوشبختی و رضایت در زندگی‌ات خواهد شد؟"
+    },
+    {
+      "VOrder": 133,
+      "Position": "Paragraph",
+      "Text": "و دنیا بتو رکاب دهد و پادشاهی بزرگ شوی",
+      "CoupletIndex": 119,
+      "CoupletSummary": "هوش مصنوعی: دنیا به تو کمک خواهد کرد و تو به یک پادشاه بزرگ تبدیل خواهی شد."
+    },
+    {
+      "VOrder": 134,
+      "Position": "Paragraph",
+      "Text": "و قرنی تمام از لذت های دنیاوی بهره بری",
+      "CoupletIndex": 120,
+      "CoupletSummary": "هوش مصنوعی: در طول یک قرن از لذت‌های دنیایی بهره‌مند شدم."
+    },
+    {
+      "VOrder": 135,
+      "Position": "Paragraph",
+      "Text": "سرانجام اما آیا، مرگ محتوم نخواهد بود؟",
+      "CoupletIndex": 121,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، آیا مرگ不可 evit خواهد بود؟"
+    },
+    {
+      "VOrder": 136,
+      "Position": "Paragraph",
+      "Text": "بویژه که مردمان را با جاودانگی نسبتی نیست",
+      "CoupletIndex": 122,
+      "CoupletSummary": "هوش مصنوعی: به ویژه اینکه انسان‌ها ارتباطی با جاودانگی ندارند."
+    },
+    {
+      "VOrder": 137,
+      "Position": "Paragraph",
+      "Text": "و ایشان را با مرگ مناسبت بیش است",
+      "CoupletIndex": 123,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها با مرگ رابطه بیشتری دارند."
+    },
+    {
+      "VOrder": 138,
+      "Position": "Paragraph",
+      "Text": "داستان سر نهادن مردمان به سرنوشتشان است",
+      "CoupletIndex": 124,
+      "CoupletSummary": "هوش مصنوعی: داستان درباره این است که چگونه مردم سرنوشت خود را قبول می‌کنند و با آن کنار می‌آیند."
+    },
+    {
+      "VOrder": 139,
+      "Position": "Paragraph",
+      "Text": "پیر و جوان تمام باور دارند",
+      "CoupletIndex": 125,
+      "CoupletSummary": "هوش مصنوعی: همه افراد، چه پیر و چه جوان، به این موضوع اعتقاد دارند."
+    },
+    {
+      "VOrder": 140,
+      "Position": "Paragraph",
+      "Text": "و چنان بدیهی است که خردش نیز باور دارد",
+      "CoupletIndex": 126,
+      "CoupletSummary": "هوش مصنوعی: این موضوع آن‌قدر واضح است که حتی عقل نیز به آن اعتقاد دارد."
+    },
+    {
+      "VOrder": 141,
+      "Position": "Paragraph",
+      "Text": "و اگر تواش باور نداری از این و آن پرس",
+      "CoupletIndex": 127,
+      "CoupletSummary": "هوش مصنوعی: اگر به چیزهایی که می‌گویی ایمان نداری، از دیگران سوال کن و نظرشان را بپرس."
+    },
+    {
+      "VOrder": 142,
+      "Position": "Paragraph",
+      "Text": "از زمین حال شاهانی را پرس که",
+      "CoupletIndex": 128,
+      "CoupletSummary": "هوش مصنوعی: از زمین بخواه تا حال شاهان را به تو بگوید."
+    },
+    {
+      "VOrder": 143,
+      "Position": "Paragraph",
+      "Text": "بر بالای ستارگان مقام داشته اند",
+      "CoupletIndex": 129,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها در جایگاهی بالاتر از ستارگان قرار دارند."
+    },
+    {
+      "VOrder": 144,
+      "Position": "Paragraph",
+      "Text": "و فرستادگان بسیار بر درگاهشان گرد می شدند",
+      "CoupletIndex": 130,
+      "CoupletSummary": "هوش مصنوعی: و جمع زیادی از فرستادگان در نزدیکی آنها گرد می‌آمدند."
+    },
+    {
+      "VOrder": 145,
+      "Position": "Paragraph",
+      "Text": "و عاشقان بسیار بر درگاهشان ازدحام همی کردند",
+      "CoupletIndex": 131,
+      "CoupletSummary": "هوش مصنوعی: عاشق‌های زیادی در جلوی در خانه آنها جمع شده بودند."
+    },
+    {
+      "VOrder": 146,
+      "Position": "Paragraph",
+      "Text": "زمین بی آنکه کلامی گوید، پاسخت خواهد داد",
+      "CoupletIndex": 132,
+      "CoupletSummary": "هوش مصنوعی: زمین بدون اینکه سخن بگوید، پاسخ خواهد داد."
+    },
+    {
+      "VOrder": 147,
+      "Position": "Paragraph",
+      "Text": "پاسخی پیرامن آنچه گذشته است",
+      "CoupletIndex": 133,
+      "CoupletSummary": "هوش مصنوعی: پاسخی در مورد اتفاقات گذشته."
+    },
+    {
+      "VOrder": 148,
+      "Position": "Paragraph",
+      "Text": "این که مرگ سرانجام، از میان بردشان",
+      "CoupletIndex": 134,
+      "CoupletSummary": "هوش مصنوعی: این که در نهایت مرگ آنها را از میان می‌برد."
+    },
+    {
+      "VOrder": 149,
+      "Position": "Paragraph",
+      "Text": "و تیرهائی که به سویشان می آمد، تمام، به هدف خورد",
+      "CoupletIndex": 135,
+      "CoupletSummary": "هوش مصنوعی: و تمام تیره‌هایی که به سمت آن‌ها پرتاب می‌شد، هدف قرار گرفتند."
+    },
+    {
+      "VOrder": 150,
+      "Position": "Paragraph",
+      "Text": "همگی همان راه را رفتند، که گذشتگان رفته بودند.",
+      "CoupletIndex": 136,
+      "CoupletSummary": "هوش مصنوعی: همه آن‌ها همان مسیری را دنبال کردند که نسل‌های قبلی رفته بودند."
+    },
+    {
+      "VOrder": 151,
+      "Position": "Paragraph",
+      "Text": "و سر منزل و جایگاهشان از ایشان خالی ماند",
+      "CoupletIndex": 137,
+      "CoupletSummary": "هوش مصنوعی: و محل اقامت و جایگاه آن‌ها از وجودشان خالی ماند."
+    },
+    {
+      "VOrder": 152,
+      "Position": "Paragraph",
+      "Text": "همه بدانجا که پیش از آن محبوبش نمی داشتند",
+      "CoupletIndex": 138,
+      "CoupletSummary": "هوش مصنوعی: همه به جایی می‌رسند که قبلاً محبوبشان نبوده است."
+    },
+    {
+      "VOrder": 153,
+      "Position": "Paragraph",
+      "Text": "و تا روز جزا، از آن جا بر نخواهند خاست",
+      "CoupletIndex": 139,
+      "CoupletSummary": "هوش مصنوعی: تا روز قیامت، از آنجا برخیز نخواهند کرد."
+    },
+    {
+      "VOrder": 154,
+      "Position": "Paragraph",
+      "Text": "خداوند قصدشان را کرد و ناگهان برایشان تاخته شد",
+      "CoupletIndex": 140,
+      "CoupletSummary": "هوش مصنوعی: خداوند اراده‌ای برای آنها داشت و ناگهان به سویشان حمله‌ور شد."
+    },
+    {
+      "VOrder": 155,
+      "Position": "Paragraph",
+      "Text": "و اکنون در زیر خروارها خاک، خاکی بیش نیستند",
+      "CoupletIndex": 141,
+      "CoupletSummary": "هوش مصنوعی: اکنون تحت لایه‌های متعدد خاک، فقط به خاکی ساده تبدیل شده‌اند."
+    },
+    {
+      "VOrder": 156,
+      "Position": "Paragraph",
+      "Text": "این نود و دو بیت، را من از بهترین ابیات سروده وی برگزیده ام .",
+      "CoupletIndex": 142,
+      "CoupletSummary": "هوش مصنوعی: من این نود و دو بیت را از بهترین اشعار او انتخاب کرده‌ام."
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "Id": 77088,
+  "CatId": 2092,
+  "Title": "شمارهٔ ۵۶۹",
+  "FullTitle": "کمال خجندی » غزلیات » شمارهٔ ۵۶۹",
+  "FullUrl": "/khojandi/ghazalkk/sh569",
+  "RhymeLetters": "ور",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف زیبایی و جذابیت معشوق می‌پردازد. شاعر به وضوح می‌گوید که وقتی او را می‌بیند، همه چیز در دور و بر او زیبا می‌شود و حتی بهشت و حور هم بی‌معنا می‌شوند. عشق و جذابیت معشوق بر دل شاعر اثری عمیق دارد و او را به تفکر وامی‌دارد. لب‌های معشوق او را سرد کرده و این احساسات عمیق باعث می‌شود که به یاد چیزهای شگفت‌انگیز و دلپذیر بیفتد. چشم‌های معشوق او را به شدت تشنه کرده و همواره در حال جذب اوست. شاعر از غمزه‌ها و زیبایی‌های معشوق می‌گوید و آن را به گناهی نسبت می‌دهد که همواره برایش معذور است. در نهایت، شاعر با اشاراتی به شعر خود و تأثیر آن بر دیگران، زیبایی واقعی را در عشق و هنر می‌بیند.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ور",
+      "PlainText": "با روی تو چیست جنت و هور\r\nهر چیز نکو نماید از دور\r\nما را نظری که هست بر تست\r\nخود حور و فرشته نیست منظور\r\nلبهای تو کرد بر دلم سرد\r\nاندیشه سلسبیل و کافور\r\nچشم تو به خون ماست تشته\r\nباشد همه وقت تشنه مخمور\r\nبر غمزه منه گناه خونم\r\nمأمور بود همیشه معذور\r\nنزدیک تر که میدهم جان\r\nاز دیده مرو که می رود نور\r\nابیات کمال بیت نحل است\r\nنوک قلمش چو نیش زنبور\r\nهر کس که شفا ازین عسل یافت\r\nهرگز نشود ز غصه رنجور\r\nبر دیده نهند شاید این شعر\r\nنظار گیان بیت معمور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا روی تو چیست جنت و هور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چیز نکو نماید از دور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را نظری که هست بر تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود حور و فرشته نیست منظور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلبهای تو کرد بر دلم سرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندیشه سلسبیل و کافور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم تو به خون ماست تشته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباشد همه وقت تشنه مخمور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر غمزه منه گناه خونم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمأمور بود همیشه معذور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنزدیک تر که میدهم جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دیده مرو که می رود نور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابیات کمال بیت نحل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوک قلمش چو نیش زنبور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس که شفا ازین عسل یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز نشود ز غصه رنجور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر دیده نهند شاید این شعر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنظار گیان بیت معمور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با روی تو چیست جنت و هور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود چهره زیبای تو، بهشت و حوری چه معنا دارند؟ هر چیز زیبا از دور، در مقابل تو کم‌رنگ و بی‌ارزش به نظر می‌رسد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر چیز نکو نماید از دور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما را نظری که هست بر تست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به ما نگاهی کن که فقط بر توست، نه بر حور و فرشته‌ای که به آن توجه داریم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خود حور و فرشته نیست منظور",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "لبهای تو کرد بر دلم سرد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لب‌های تو بر دل من تأثیری مانند خنکای آب زلال و عطر کافور گذاشت."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "اندیشه سلسبیل و کافور",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چشم تو به خون ماست تشته",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم تو همیشه تشنه دیدن خون ماست و به همین خاطر مدام در حال انتظار و عطش است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "باشد همه وقت تشنه مخمور",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بر غمزه منه گناه خونم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر نگاه‌های جذاب و دلربایت، من هیچ گناهی ندارم و همیشه در برابر عشق تو معذور و بخشوده هستم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مأمور بود همیشه معذور",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "نزدیک تر که میدهم جان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه من بیشتر به تو نزدیک شوم، از دیدگانم دورتر می‌شوی و نور وجود تو کم‌رنگ‌تر می‌شود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از دیده مرو که می رود نور",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ابیات کمال بیت نحل است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت اشاره به قدرت و دقت کلام شاعر دارد. شاعر با تشبیه قلمه‌اش به نیش زنبور، به تأثیرگذاری حرف‌هایش اشاره می‌کند. مانند نیش زنبور که به طرز دقیق و مؤثری عمل می‌کند، نوشته‌های او نیز اثرگذار و با عمق هستند. کیفیت کارش به اندازه‌ای بالا است که آثاری که از خود به جا می‌گذارد، به مثابه عسل شیرین و مفید است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "نوک قلمش چو نیش زنبور",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "هر کس که شفا ازین عسل یافت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که از این عسل میوه شفا بگیرد، هرگز در غم و درد مبتلا نخواهد شد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "هرگز نشود ز غصه رنجور",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بر دیده نهند شاید این شعر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید این شعر را بر روی دیده‌ها بگذارند تا تماشاگران آن را ببینند و لذت ببرند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "نظار گیان بیت معمور",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

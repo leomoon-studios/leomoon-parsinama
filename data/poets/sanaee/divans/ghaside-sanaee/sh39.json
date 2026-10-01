@@ -1,0 +1,1170 @@
+{
+  "Id": 12578,
+  "CatId": 191,
+  "Title": "قصیدهٔ شمارهٔ ۳۹ - در مدح خواجه عمید ثقةالملک، طاهر",
+  "FullTitle": "سنایی » دیوان اشعار » قصاید » قصیدهٔ شمارهٔ ۳۹ - در مدح خواجه عمید ثقةالملک، طاهر",
+  "FullUrl": "/sanaee/divans/ghaside-sanaee/sh39",
+  "RhymeLetters": "ارخواهدکرد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف زیبایی‌ها و نشانه‌های بهار و تأثیرات آن بر جهان می‌پردازد. شاعر به نوعی جشن و نوید فصل بهار را به تصویر می‌کشد و از تغییرات طبیعی و روحی ناشی از آن صحبت می‌کند. برف، باران، گل‌ها، و جانداران بهار را به نمایش می‌گذارند و نشان‌دهنده توازن و زیبایی در طبیعت هستند. در این بین، شاعر به اشاره به تأثیرات منفی و بدعت‌ها نیز پرداخته و هشدارهایی از گذشته و نسبت به آینده می‌دهد. در نهایت، امید به بهار و تجدید حیات در زندگی انسان‌ها و طبیعت به چشم می‌خورد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارخواهدکرد",
+      "PlainText": "دی دل ما فگار خواهد کرد\r\nوز ستم سوگوار خواهد کرد\r\nسده بهر نوید فصل بهار\r\nباز عهد استوار خواهد کرد\r\nپیش چونین نوید گر که ترا\r\nبه امید بهار خواهد کرد\r\nبرفشان آن گهر که کافر ازو\r\nدر سقر زینهار خواهد کرد\r\nاژدهایی که اهل بدعت را\r\nروز محشر شکار خواهد کرد\r\nآنکه می فخر کرد ازو ابلیس\r\nجم از آن فخر عار خواهد کرد\r\nمو و زرین شود ازو پران\r\nچون زبانه چو مار خواهد کرد\r\nهمچنو بیند آن زمان معیار\r\nآن که او را عیار خواهد کرد\r\nگوهری کو چو خود کند به مثال\r\nآن گهر کبدار خواهد کرد\r\nروی سرخی مادرش طلبد\r\nآنکه با اوش یار خواهد کرد\r\nبی قرار آفریده ای در طبع\r\nکیست کش با قرار خواهد کرد\r\nتا بینی که همچو هر سال او\r\nدر زمانه چه کار خواهد کرد\r\nدر میان هوا ز جنبش خویش\r\nفلکی مستعار خواهد کرد\r\nچون بنان محاسبش هر شاخ\r\nگویی انجم شمار خواهد کرد\r\nبینی از وی دو مایه ثنوی\r\nچون دو سو آشکار خواهد کرد\r\nگل او آن نکرد روز از نور\r\nکامشب او از شرار خواهد کرد\r\nگوهری کو نگار نپذیرد\r\nعالمی چون نگار خواهد کرد\r\nجز وی از شمس همچو شمس از نور\r\nلیل را چون نهار خواهد کرد\r\nدو عرض کاندروست تف و شعاع\r\nبر سه جوهر نثار خواهد کرد\r\nآبرا لعل پوش خواهد کرد\r\nخاک را مشکبار خواهد کرد\r\nبر هوایی که سیم بارید ابر\r\nامشب او زربار خواهد کرد\r\nاز تن لاله پوش لولو پاش\r\nصد نهان آشکار خواهد کرد\r\nآشکاری کوهسار از رنگ\r\nچون نهان بهار خواهد کرد\r\nکز نهیب بحار او فردا\r\nآسمان را بخار خواهد کرد\r\nچشم بی دیده فلک را دود\r\nدیده ها همچو نار خواهد کرد\r\nبر آن آب و رنگ را از عکس\r\nچون می و کفته نار خواهد کرد\r\nافسر امهات و آبا را\r\nبر سر خود فسار خواهد کرد\r\nز آسمانها قلاده خواهد بست\r\nاز قمر گوشوار خواهد کرد\r\nسخت سوی فلک همی پوید\r\nکار دیوانه وار خواهد کرد\r\nیا پدر زیر خاک می ماند\r\nیا پسر اختیار خواهد کرد\r\nیا ز تاثیر طبع خود بر گل\r\nچون سه عنصر جوار خواهد کرد\r\nمگر از بهر خوش دلی فضلا\r\nچرخ را تار و مار خواهد کرد\r\nتا چو فخر دو کون در یکشب\r\nنه فلک را گذار خواهد کرد\r\nتا بر سعد اخترش از دود\r\nدیده نحس تار خواهد کرد\r\nتا نشان یافت رتبت خواجه\r\nهمتش را شعار خواهد کرد\r\nثقةالملک طاهر آنکه چو آب\r\nایزدش پایدار خواهد کرد\r\nوز پی اتفاق و انصافش\r\nآب از آتش سوار خواهد کرد\r\nآب از امنش سپر شود آنرا\r\nکه نهنگش شکار خواهد کرد\r\nقوت آب عزم او چون چرخ\r\nخاک را نامدار خواهد کرد\r\nجوهر باد حزم او چون خاک\r\nآب را با قرار خواهد کرد\r\nآن درختی که آب خشمش خورد\r\nدان که آن شاخ وار خواهد کرد\r\nآب نظمش درخت فکرت را\r\nاز خرد بیخ و بار خواهد کرد\r\nگلبنی را که آب عونش یافت\r\nدان که طبعش چنار خواهد کرد\r\nآب گوهر شود در آن کانی\r\nکه ازو افتخار خواهد کرد\r\nخواب را در دو چشم خلق از امن\r\nقوت کوکنار خواهد کرد\r\nای که تاثیر آب دولت تو\r\nگل اعدات خار خواهد کرد\r\nنعمتی را که بحرها نبرد\r\nرزق تو خود دمار خواهد کرد\r\nآب را تف طبعت از بس جود\r\nهمه زرین بخار خواهد کرد\r\nآتش خشمت آب دریا را\r\nهمچو آتش نزار خواهد کرد\r\nایزد آن کلک را که لفظ تو یافت\r\nآتش آب خوار خواهد کرد\r\nز آب حیوان بقات چون شعرت\r\nهر زمان نو شعار خواهد کرد\r\nگردد آتش حصار امنش اگر\r\nآب را در حصار خواهد کرد\r\nتا ز آب حرام عقل و سخن\r\nذات عیب و عوار خواهد کرد\r\nآب و آتش برای این مدحت\r\nبرد و گوهر فخار خواهد کرد\r\nملک دنیا نخواهد آن کو را\r\nجود تو با یسار خواهد کرد\r\nدشمنت را چو آب اجل سوی مرگ\r\nهم ز عرضش مهار خواهد کرد\r\nروزگار آب روی داد آن را\r\nکه برو روزگار خواهد کرد\r\nدشمنت زین سپس به عذر جواب\r\nخاک فرش عذار خواهد کرد\r\nگر نه از بخت بد چو هر عاقل\r\nناله ها زار زار خواهد کرد\r\nآب جاه تو آنکسی خواهد\r\nکایزدش بختیار خواهد کرد\r\nمهترا پا و سر در آب از شرم\r\nخویشتن را یسار خواهد کرد\r\nچون کف از تف عمامه خواهد بست\r\nچون بط از آب ازار خواهد کرد\r\nآب من برده گیر اگر با من\r\nجود تو همچو پار خواهد کرد\r\nآب آنراست نزد هر مهتر\r\nچون نبرد او قمار خواهد کرد\r\nآمدم چون پر آب آبله من\r\nتا دلت چختیار خواهد کرد\r\nای سنایی مبر تو آب از کار\r\nکت خرد حق گزار خواهد کرد\r\nغوطه ها خورد باید اندر بحر\r\nهر که در در کنار خواهد کرد\r\nکی بترسد ز زخم مار آنکو\r\nخویشتن یار غار خواهد کرد\r\nآب دیده مریز کت خواجه\r\nبا ضیاع و عقار خواهد کرد\r\nآب را گرچه میل زی پستیست\r\nنظم تو کار نار خواهد کرد\r\nتافته گردد آنکه بی اقبال\r\nنام خود یادگار خواهد کرد\r\nرنجکی بیند آنکه بی کشتی\r\nبحر اخضر گذار خواهد کرد\r\nتا ز تاثیر نه فلک چار اصل\r\nکار کردست و کار خواهد کرد\r\nسرورا سرفراز کت نه چرخ\r\nافسر هر چهار خواهد کرد\r\nز آبها تا بخار خواهد خواست\r\nبادها تا غبار خواهد کرد\r\nشادمان زی که در بقات سده\r\nاین چنین صدهزار خواهد کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی دل ما فگار خواهد کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز ستم سوگوار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسده بهر نوید فصل بهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز عهد استوار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش چونین نوید گر که ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه امید بهار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرفشان آن گهر که کافر ازو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سقر زینهار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاژدهایی که اهل بدعت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز محشر شکار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه می فخر کرد ازو ابلیس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجم از آن فخر عار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمو و زرین شود ازو پران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون زبانه چو مار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچنو بیند آن زمان معیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن که او را عیار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوهری کو چو خود کند به مثال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن گهر کبدار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی سرخی مادرش طلبد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه با اوش یار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌قرار آفریده‌ای در طبع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکیست کش با قرار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بینی که همچو هر سال او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر زمانه چه کار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر میان هوا ز جنبش خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفلکی مستعار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بنان محاسبش هر شاخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی انجم شمار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبینی از وی دو مایهٔ ثنوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون دو سو آشکار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل او آن نکرد روز از نور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامشب او از شرار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوهری کو نگار نپذیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالمی چون نگار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز وی از شمس همچو شمس از نور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیل را چون نهار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو عرض کاندروست تف و شعاع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سه جوهر نثار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآبرا لعل پوش خواهد کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک را مشکبار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر هوایی که سیم بارید ابر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامشب او زربار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تن لاله‌پوش لولو پاش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد نهان آشکار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآشکاری کوهسار از رنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نهان بهار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکز نهیب بحار او فردا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسمان را بخار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم بی‌دیدهٔ فلک را دود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیده‌ها همچو نار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آن آب و رنگ را از عکس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون می و کفته نار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسر امهات و آبا را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر خود فسار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آسمانها قلاده خواهد بست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز قمر گوشوار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخت سوی فلک همی پوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار دیوانه‌وار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا پدر زیر خاک می‌ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا پسر اختیار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا ز تاثیر طبع خود بر گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون سه عنصر جوار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر از بهر خوش دلی فضلا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرخ را تار و مار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چو فخر دو کون در یکشب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه فلک را گذار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بر سعد اخترش از دود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدهٔ نحس تار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نشان یافت رتبت خواجه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمتش را شعار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eثقةالملک طاهر آنکه چو آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایزدش پایدار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز پی اتفاق و انصافش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب از آتش سوار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب از امنش سپر شود آنرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نهنگش شکار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقوت آب عزم او چون چرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک را نامدار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوهر باد حزم او چون خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب را با قرار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن درختی که آب خشمش خورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدان که آن شاخ‌وار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب نظمش درخت فکرت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خرد بیخ و بار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلبنی را که آب عونش یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدان که طبعش چنار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب گوهر شود در آن کانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ازو افتخار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواب را در دو چشم خلق از امن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقوت کوکنار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای که تاثیر آب دولت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل اعدات خار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنعمتی را که بحرها نبرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرزق تو خود دمار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب را تف طبعت از بس جود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه زرین بخار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتش خشمت آب دریا را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو آتش نزار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایزد آن کلک را که لفظ تو یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش آب خوار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آب حیوان بقات چون شعرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر زمان نو شعار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردد آتش حصار امنش اگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب را در حصار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا ز آب حرام عقل و سخن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذات عیب و عوار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب و آتش برای این مدحت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرد و گوهر فخار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک دنیا نخواهد آن کو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجود تو با یسار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدشمنت را چو آب اجل سوی مرگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم ز عرضش مهار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزگار آب روی داد آن را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه برو روزگار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدشمنت زین سپس به عذر جواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک فرش عذار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نه از بخت بد چو هر عاقل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناله‌ها زار زار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب جاه تو آنکسی خواهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکایزدش بختیار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn61\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهترا پا و سر در آب از شرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویشتن را یسار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn62\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون کف از تف عمامه خواهد بست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بط از آب ازار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn63\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب من برده گیر اگر با من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجود تو همچو پار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn64\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب آنراست نزد هر مهتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نبرد او قمار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn65\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمدم چون پر آب آبله من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دلت چختیار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn66\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سنایی مبر تو آب از کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکت خرد حق گزار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn67\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغوطه‌ها خورد باید اندر بحر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر که در در کنار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn68\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی بترسد ز زخم مار آنکو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویشتن یار غار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn69\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب دیده مریز کت خواجه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا ضیاع و عقار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn70\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب را گرچه میل زی پستیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنظم تو کار نار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn71\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتافته گردد آنکه بی اقبال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنام خود یادگار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn72\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرنجکی بیند آنکه بی‌کشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحر اخضر گذار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn73\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا ز تاثیر نه فلک چار اصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار کردست و کار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn74\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرورا سرفراز کت نه چرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافسر هر چهار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn75\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آبها تا بخار خواهد خواست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبادها تا غبار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn76\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشادمان زی که در بقات سده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین چنین صدهزار خواهد کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 76
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دی دل ما فگار خواهد کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل ما را رنجیده خواهد کرد و از ظلمی که بر ما می‌رود، گریه و سوگواری خواهد شد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز ستم سوگوار خواهد کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سده بهر نوید فصل بهار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سده، مژده‌ای برای آمدن فصل بهار است و دوباره پیمانی محکم برقرار خواهد شد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "باز عهد استوار خواهد کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پیش چونین نوید گر که ترا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چنین نویدهایی را بشنوی، امید به بهار در تو زنده خواهد شد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به امید بهار خواهد کرد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "برفشان آن گهر که کافر ازو",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برفشان آن گوهر که کافر از آن در عذاب جهنم به آن پناه خواهد برد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در سقر زینهار خواهد کرد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "اژدهایی که اهل بدعت را",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز قیامت، اژدهایی وجود دارد که کسانی را که راه‌های نادرست و بُعد از حقیقت را دنبال کرده‌اند، مورد معاقبه قرار خواهد داد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "روز محشر شکار خواهد کرد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "آنکه می فخر کرد ازو ابلیس",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که به خود می‌بالد و خودش را بزرگ می‌داند، در واقع به نوعی خوار و ذلیل خواهد شد و در آینده، این برتری‌جویی برایش عیب و زشتی خواهد بود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "جم از آن فخر عار خواهد کرد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "مو و زرین شود ازو پران",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مو و زر طلایی او به زیبایی پرواز می‌کند، همان‌طور که مار هنگام حمله به جلو می‌پرد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چون زبانه چو مار خواهد کرد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "همچنو بیند آن زمان معیار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آن زمان، شخصی که در نظر تو عیار و معیار دارد، قادر خواهد بود تا تو را با سنجش‌هایش شناسایی کند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "آن که او را عیار خواهد کرد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گوهری کو چو خود کند به مثال",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر که مانند خود جوهری ارزشمند ایجاد کند، به زودی خواهان سختی و چالش خواهد شد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "آن گهر کبدار خواهد کرد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "روی سرخی مادرش طلبد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنکه برای مادرش آرزو دارد کسی را که با او دوستی کند یا عشق بورزد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "آنکه با اوش یار خواهد کرد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "بی‌قرار آفریده‌ای در طبع",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا کسی وجود دارد که بتواند با شخصی بی‌قرار و پریشان که به صورت طبیعی اینگونه خلق شده است، آرامش بخش باشد؟"
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "کیست کش با قرار خواهد کرد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "تا بینی که همچو هر سال او",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باید ببینی او در این سال چه اقداماتی خواهد داشت و چه تغییراتی را به وجود خواهد آورد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "در زمانه چه کار خواهد کرد",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "در میان هوا ز جنبش خویش",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در فضای آسمان به دلیل حرکت خود، ستاره‌ای غیرواقعی خواهد درخشید."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "فلکی مستعار خواهد کرد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "چون بنان محاسبش هر شاخ",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز نگران نباش، زیرا زمانی که او حساب کارها را رسیدگی کند، هر گل یا شکوفه‌ای که رشد کرده را به تعداد ستاره‌ها خواهد شمرد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "گویی انجم شمار خواهد کرد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "بینی از وی دو مایهٔ ثنوی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی او را ببینی، دو نتیجهٔ متفاوت از او قابل مشاهده خواهد بود."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "چون دو سو آشکار خواهد کرد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "گل او آن نکرد روز از نور",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل او در روز روشن نشکفته، اما امشب از آتش عشقش خواهد شکفت."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "کامشب او از شرار خواهد کرد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "گوهری کو نگار نپذیرد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جواهری که محبوب آن را نمی‌پذیرد، جهانی به زیبایی او خواهد ساخت."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "عالمی چون نگار خواهد کرد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "جز وی از شمس همچو شمس از نور",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز او هیچ‌کس مانند شمس نور شب را مانند روز روشن نخواهد کرد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "لیل را چون نهار خواهد کرد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "دو عرض کاندروست تف و شعاع",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دو بحث در اینجا وجود دارد که به وسیله‌ی شعاع و گرما بر روی سه نوع ماده تاثیر خواهد گذاشت."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "بر سه جوهر نثار خواهد کرد",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "آبرا لعل پوش خواهد کرد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باران، خاک را مانند لعل زیبا خواهد کرد و آن را خوشبو خواهد ساخت."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "خاک را مشکبار خواهد کرد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "بر هوایی که سیم بارید ابر",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امشب برای آسمانی که باران نقره‌ای بارید، خورشید درخشان خود را خواهد نمایاند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "امشب او زربار خواهد کرد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "از تن لاله‌پوش لولو پاش",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از تن لاله‌پوش لولویی که درونش رازهایی پنهان است، صدها راز و حقیقت آشکار خواهد شد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "صد نهان آشکار خواهد کرد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "آشکاری کوهسار از رنگ",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با نزدیک شدن به بهار، کوه‌ها رنگ و زیبایی خود را نشان می‌دهند و جلوه‌ای دلنشین و شگفت‌انگیز به طبیعت می‌بخشند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "چون نهان بهار خواهد کرد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "کز نهیب بحار او فردا",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دلیل شدت و تأثیرات ناشی از طوفان‌ و هیاهوی طبیعت، فردا آسمان پر از بخار خواهد شد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "آسمان را بخار خواهد کرد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "چشم بی‌دیدهٔ فلک را دود",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم بدون بینایی آسمان، چشمان پر از غبار را مانند آتش خواهد سوزاند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "دیده‌ها همچو نار خواهد کرد",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "بر آن آب و رنگ را از عکس",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن چیزهایی که به صورت تصویر و رنگ و لعاب دیده می‌شوند، مانند می‌زیبا که رنگ و بویی دارد، می‌تواند تغییر کند و به شکل دیگری درآید."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "چون می و کفته نار خواهد کرد",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "افسر امهات و آبا را",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او بر سر خود تاجی از افتخار و بزرگی خواهد گذاشت که نماد مقام و منزلت ancestors و مادرانش است."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "بر سر خود فسار خواهد کرد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "ز آسمانها قلاده خواهد بست",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آسمان‌ها زینتی از نورانی‌ترین ماه خواهد آویخت و برای گوش‌ها زینتی خواهد ساخت."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "از قمر گوشوار خواهد کرد",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "سخت سوی فلک همی پوید",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که شخصی به طور دیوانه‌وار به دنبال رسیدن به اهداف خود است و تمام تلاشش را برای پیشرفت و دستیابی به آنچه در سر دارد می‌کند. او به راحتی تسلیم نمی‌شود و با انرژی و شتاب بالا به سوی آسمان و آینده می‌رود."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "کار دیوانه‌وار خواهد کرد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "یا پدر زیر خاک می‌ماند",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یا پدر در زیر خاک می‌ماند یا پسر به انتخاب خودش اقدام خواهد کرد."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "یا پسر اختیار خواهد کرد",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "یا ز تاثیر طبع خود بر گل",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید به خاطر ویژگی‌های طبیعی خود، مانند گل، بتواند سه عنصر را در کنار هم قرار دهد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "چون سه عنصر جوار خواهد کرد",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "مگر از بهر خوش دلی فضلا",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا ممکن است که تنها به خاطر خوشحالی و رضایت افراد دانا، جهان را دگرگون کند؟"
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "چرخ را تار و مار خواهد کرد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "تا چو فخر دو کون در یکشب",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در یک شب، او چنان خواهد درخشید که حتی آسمان نیز تحت تأثیر قرار خواهد گرفت."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "نه فلک را گذار خواهد کرد",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "تا بر سعد اخترش از دود",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که ستارهٔ خوشبختی‌اش تحت تاثیر بدبینی و منفی نگری محو شود."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "دیدهٔ نحس تار خواهد کرد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "تا نشان یافت رتبت خواجه",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که کسی موقعیت و مقام خود را به دست آورد، به اوج قدرت و عظمت خود خواهد رسید و این وضعیت را به همه نشان خواهد داد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "همتش را شعار خواهد کرد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "ثقةالملک طاهر آنکه چو آب",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: طاهر، که به عنوان امانت‌دار پادشاه شناخته می‌شود، به مانند آبی است که از طرف خداوند دائمی و پایدار خواهد بود."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "ایزدش پایدار خواهد کرد",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "وز پی اتفاق و انصافش",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس از رخدادها و بر اساس انصاف، او آب را از آتش جدا خواهد کرد."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "آب از آتش سوار خواهد کرد",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "آب از امنش سپر شود آنرا",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب وقتی امن است که کسی قصد شکار نهنگ را نداشته باشد."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "که نهنگش شکار خواهد کرد",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "قوت آب عزم او چون چرخ",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قدرت اراده او همانند نیروی آب، می‌تواند خاک را به نامی مشهور و شناخته‌شده تبدیل کند."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "خاک را نامدار خواهد کرد",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "جوهر باد حزم او چون خاک",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب و خاک در کنار هم از دو عنصر متفاوت هستند، اما با درستی و صبر می‌توانند یکدیگر را در کنار هم قرار دهند و هماهنگ شوند. این یعنی که با تلاش و پایداری، می‌توان به یک نتیجه خوب دست یافت."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "آب را با قرار خواهد کرد",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "آن درختی که آب خشمش خورد",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن درختی که از آب خشم سیراب می‌شود، بدان که روزی به شاخ و برگ خواهد رسید و رشد خواهد کرد."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "دان که آن شاخ‌وار خواهد کرد",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "آب نظمش درخت فکرت را",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آبِ نظم، درختِ فکر تو را از فهم و دانش غنی خواهد ساخت."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "از خرد بیخ و بار خواهد کرد",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "گلبنی را که آب عونش یافت",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر گلی را که آب به آن رسید، بگیریم، بدان که آن گل به سمت چنار یعنی یک درخت بزرگ و مقاوم خواهد رفت. این نشان‌دهنده این است که شرایط مناسب باعث شکوفایی و رشد درختانی بزرگ خواهد شد."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "دان که طبعش چنار خواهد کرد",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "آب گوهر شود در آن کانی",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب در جایی که گوهر ارزشمند وجود دارد، اهمیت و ارزش می‌یابد و به آن افتخار خواهد شد."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "که ازو افتخار خواهد کرد",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "خواب را در دو چشم خلق از امن",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خواب در دو چشم مردم، ناشی از قدرت ایمنی کوکنار خواهد بود."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "قوت کوکنار خواهد کرد",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "ای که تاثیر آب دولت تو",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو که با قدرت و تأثیر خود باعث بهبود اوضاع و حال و روز مردم می‌شوی، می‌توانی حتی خارها را به گل تبدیل کنی و مشکلات را از بین ببری."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "گل اعدات خار خواهد کرد",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "نعمتی را که بحرها نبرد",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نعمتی را که دیگران نمی‌توانند از آن بهره ببرند، از دست بدهی، در نهایت خودت آن را هدر خواهی داد و به مشکل خواهی خورد."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "رزق تو خود دمار خواهد کرد",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "آب را تف طبعت از بس جود",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب به خاطر سخاوت و generosity تو، از شدت عطش به طلا تبدیل خواهد شد."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "همه زرین بخار خواهد کرد",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "آتش خشمت آب دریا را",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خشم تو می‌تواند به اندازه‌ای گسترش یابد که آب دریا را نیز به تب و تاب وادارد."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "همچو آتش نزار خواهد کرد",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "ایزد آن کلک را که لفظ تو یافت",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خدای بزرگ آن کسی را که بتواند با زبان خود توصیف کند، در آتش و آب آزمایش خواهد کرد."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "آتش آب خوار خواهد کرد",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "ز آب حیوان بقات چون شعرت",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آب حیات، چون به توصل یابی، هرگاه که شعرت را بخوانی، دوباره شکوفا و تازه خواهد شد."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "هر زمان نو شعار خواهد کرد",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "گردد آتش حصار امنش اگر",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهد آب را در محدوده خود نگه دارد، آتش امنیتش را به خطر می‌اندازد."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "آب را در حصار خواهد کرد",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "تا ز آب حرام عقل و سخن",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از آب ناپاک بهره بگیریم، عقل و گفتار ما دچار نقص و مشکلات خواهند شد."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "ذات عیب و عوار خواهد کرد",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "آب و آتش برای این مدحت",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب و آتش به خاطر این ستایش، به صفای خاصی خواهند رسید و مانند جواهر درخشانی خواهند شد."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "برد و گوهر فخار خواهد کرد",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "ملک دنیا نخواهد آن کو را",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرمانروایی دنیا به کسی تعلق نخواهد گرفت که توان بخشش و سخاوت تو را ندارد و تنها به ثروت و مال خود اتکا خواهد کرد."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "جود تو با یسار خواهد کرد",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "دشمنت را چو آب اجل سوی مرگ",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دشمنت را مانند آب مرگ به سوی مرگ خواهد برد و از زمینش مهار خواهد کرد."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "هم ز عرضش مهار خواهد کرد",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "روزگار آب روی داد آن را",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر روزگار به کسی روی بیاورد، نشانه آن است که زمانه با او خواهد بود و او از آن بهره‌مند خواهد شد."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "که برو روزگار خواهد کرد",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "دشمنت زین سپس به عذر جواب",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دشمنت از این پس به خاطر عذرخواهی، با ناز و تنبلی به تو پاسخ خواهد داد."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "خاک فرش عذار خواهد کرد",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "گر نه از بخت بد چو هر عاقل",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر انسان از بدشانسی خود آگاه باشد، مانند دیگران که عاقل هستند، به‌حال زار و ناله خواهد کرد."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "ناله‌ها زار زار خواهد کرد",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "آب جاه تو آنکسی خواهد",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آبروی تو را کسی خواهد داشت که سرنوشتش خوش باشد."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "کایزدش بختیار خواهد کرد",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "مهترا پا و سر در آب از شرم",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مهره‌دار در آب، از شرم خود به روی خود خواهد بزد."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "خویشتن را یسار خواهد کرد",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 123,
+      "Position": "Right",
+      "Text": "چون کف از تف عمامه خواهد بست",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که سر و دست باید به آراستگی و زیبایی برسانی، مانند پرنده‌ای که به آب دست نیاز دارد، باید با دقت عمل کنی."
+    },
+    {
+      "VOrder": 124,
+      "Position": "Left",
+      "Text": "چون بط از آب ازار خواهد کرد",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 125,
+      "Position": "Right",
+      "Text": "آب من برده گیر اگر با من",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو با من لطف و محبت کنی، من از مشکلات و سختی‌ها عبور خواهم کرد."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Left",
+      "Text": "جود تو همچو پار خواهد کرد",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 127,
+      "Position": "Right",
+      "Text": "آب آنراست نزد هر مهتر",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب متعلق به هر سرپرست است، اما اگر او به خطر بیفتد، قمار خواهد کرد."
+    },
+    {
+      "VOrder": 128,
+      "Position": "Left",
+      "Text": "چون نبرد او قمار خواهد کرد",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 129,
+      "Position": "Right",
+      "Text": "آمدم چون پر آب آبله من",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به اینجا آمده‌ام تا به تو بگویم که اگر بخواهی، می‌توانی به راحتی احساسات و عشق‌های عمیق را تجربه کنی."
+    },
+    {
+      "VOrder": 130,
+      "Position": "Left",
+      "Text": "تا دلت چختیار خواهد کرد",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 131,
+      "Position": "Right",
+      "Text": "ای سنایی مبر تو آب از کار",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای سنایی، نگران نباش، زیرا خرد و حکمت الهی یاری‌ات می‌کند و تو را از مشکلات نجات می‌دهد."
+    },
+    {
+      "VOrder": 132,
+      "Position": "Left",
+      "Text": "کت خرد حق گزار خواهد کرد",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 133,
+      "Position": "Right",
+      "Text": "غوطه‌ها خورد باید اندر بحر",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که می‌خواهد در کنار دریا زندگی کند، باید بتواند در آن غوطه‌ور شود و با چالش‌هایش روبه‌رو شود."
+    },
+    {
+      "VOrder": 134,
+      "Position": "Left",
+      "Text": "هر که در در کنار خواهد کرد",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 135,
+      "Position": "Right",
+      "Text": "کی بترسد ز زخم مار آنکو",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به خود اطمینان دارد و از چالش‌ها نمی‌ترسد، هرگز از زخم‌های خطرناک نمی‌هراسد و می‌تواند در سختی‌ها همراه و یاور خود باشد."
+    },
+    {
+      "VOrder": 136,
+      "Position": "Left",
+      "Text": "خویشتن یار غار خواهد کرد",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 137,
+      "Position": "Right",
+      "Text": "آب دیده مریز کت خواجه",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب چشم خود را نریز، چون خواجه با اموال و زمین‌هایش به زودی به خواسته‌اش خواهد رسید."
+    },
+    {
+      "VOrder": 138,
+      "Position": "Left",
+      "Text": "با ضیاع و عقار خواهد کرد",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 139,
+      "Position": "Right",
+      "Text": "آب را گرچه میل زی پستیست",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند آب از نظر سطحی به پایین میل دارد، اما نظم و ترتیب تو باعث خواهد شد که این وضعیت تغییر کند و به هنر و زیبایی برسد."
+    },
+    {
+      "VOrder": 140,
+      "Position": "Left",
+      "Text": "نظم تو کار نار خواهد کرد",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 141,
+      "Position": "Right",
+      "Text": "تافته گردد آنکه بی اقبال",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که از خوش‌شانسی برخوردار نیست، تلاش می‌کند تا نام خود را در تاریخ ثبت کند."
+    },
+    {
+      "VOrder": 142,
+      "Position": "Left",
+      "Text": "نام خود یادگار خواهد کرد",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 143,
+      "Position": "Right",
+      "Text": "رنجکی بیند آنکه بی‌کشتی",
+      "CoupletIndex": 71,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که بدون داشتن وسیله‌ای مناسب برای عبور از دریا به سفر می‌رود، دچار سختی و رنج می‌شود."
+    },
+    {
+      "VOrder": 144,
+      "Position": "Left",
+      "Text": "بحر اخضر گذار خواهد کرد",
+      "CoupletIndex": 71,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 145,
+      "Position": "Right",
+      "Text": "تا ز تاثیر نه فلک چار اصل",
+      "CoupletIndex": 72,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که تأثیرات آسمانی و چهار اصل وجود دارد، کارها هم انجام می‌شود و ادامه خواهد داشت."
+    },
+    {
+      "VOrder": 146,
+      "Position": "Left",
+      "Text": "کار کردست و کار خواهد کرد",
+      "CoupletIndex": 72,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 147,
+      "Position": "Right",
+      "Text": "سرورا سرفراز کت نه چرخ",
+      "CoupletIndex": 73,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سروار با شکوه به قدری بلند مرتبه است که هر چهار سوی آسمان را تحت تأثیر خود قرار خواهد داد."
+    },
+    {
+      "VOrder": 148,
+      "Position": "Left",
+      "Text": "افسر هر چهار خواهد کرد",
+      "CoupletIndex": 73,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 149,
+      "Position": "Right",
+      "Text": "ز آبها تا بخار خواهد خواست",
+      "CoupletIndex": 74,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آب‌ها بخار ایجاد می‌شود و بادها پس از آن گرد و غبار تولید می‌کنند."
+    },
+    {
+      "VOrder": 150,
+      "Position": "Left",
+      "Text": "بادها تا غبار خواهد کرد",
+      "CoupletIndex": 74,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 151,
+      "Position": "Right",
+      "Text": "شادمان زی که در بقات سده",
+      "CoupletIndex": 75,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاد باش که در این باغ، درختان با شگفتی و زیبایی خواهند رویید و محصولات فراوانی خواهند داشت."
+    },
+    {
+      "VOrder": 152,
+      "Position": "Left",
+      "Text": "این چنین صدهزار خواهد کرد",
+      "CoupletIndex": 75,
+      "SectionIndex1": 0
+    }
+  ]
+}

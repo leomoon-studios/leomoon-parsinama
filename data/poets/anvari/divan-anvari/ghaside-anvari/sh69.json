@@ -1,0 +1,630 @@
+{
+  "Id": 15978,
+  "CatId": 245,
+  "Title": "قصیدهٔ شمارهٔ ۶۹ - در مدح یکی از فرزندان نظام‌الملک است",
+  "FullTitle": "انوری » دیوان اشعار » قصاید » قصیدهٔ شمارهٔ ۶۹ - در مدح یکی از فرزندان نظام‌الملک است",
+  "FullUrl": "/anvari/divan-anvari/ghaside-anvari/sh69",
+  "RhymeLetters": "ر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر نغمه‌ای در ستایش بزرگی و عظمت شخصی است که نویسنده او را فراتر از آسمان و آفتاب می‌داند. شاعر به تمجید از ویژگی‌های این شخص می‌پردازد و او را محور خیر و زیبایی جهان معرفی می‌کند. در شعر اشاره شده که او قادر است تقدیرها را تغییر دهد و بر همه چیز تسلط دارد.\n\nشاعر به صفات والای این شخصیت اشاره کرده و او را منبع برکت و نعمت می‌داند. بر این باور است که وجود او مایه آرامش و آسایش دیگران است. همچنین، به قدرت او در تغییر سرنوشت افراد و تأثیرات مثبت و منفی آن اشاره دارد.\n\nدر نتیجه، این شعر یک مدح بزرگ است برای شخصی که راستی و انصاف را در دست دارد و نشان‌دهنده اعتماد و امید مردم به اوست. شاعر آرزو می‌کند که او همیشه در بالاترین مقام و منزلت باقی بماند.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "ای به رفعت ز آسمان برتر\r\nنور رای تو آفتاب دگر\r\nای تو مقصود جنس و نوع جهان\r\nوی تو مختار خاص و عام بشر\r\nکمترین آستان درگه تست\r\nبرترین بام گنبد اخضر\r\nدهر در مدحتت گشاده زبان\r\nچرخ در خدمتت ببسته کمر\r\nنزد عدل تو ای به جود مثل\r\nروز بار تو ای به جاه سمر\r\nنتوان برد نام نوشروان\r\nنتوان کرد یاد اسکندر\r\nدر هوای تو عیش خوش مدغم\r\nدر خلاف تو بخت بد مضمر\r\nیک نسیم است از رضای تو خیر\r\nیک سموم است از خلاف تو شر\r\nای جهان لفظ و تو درو معنی\r\nهم ازو پیش و هم بدو اندر\r\nچرخ در جنت همت تو قصیر\r\nبحر در پیش خاطر تو شمر\r\nدست راد تو ابر بی نقصان\r\nطبع پاک تو بحر بی معبر\r\nوهمت آرد ز راز چرخ نشان\r\nکلکت آرد ز علم غیب خبر\r\nکار بندد مسخر و منقاد\r\nامر و نهی ترا قضا و قدر\r\nچون بخوانی خلاف چرخ هبا\r\nچون برانی قبول بخت هدر\r\nپاسبان سرای ملک تواند\r\nنه فلک چار طبع و هفت اختر\r\nنوبت ملک پنج کن که شدست\r\nدشمن تو چو مهره در ششدر\r\nچون تو گردد به قدر خصمت اگر\r\nشبه لؤلؤ شود عرض جوهر\r\nای زمین حلم آفتاب لقا\r\nوی فلک همت ملک مخبر\r\nای بزرگی که از بزرگی و جاه\r\nهرکه بر خدمت تو یافت ظفر\r\nکرد بیرون ز دست محنت پای\r\nبرد در دولتت به کیوان سر\r\nبگذشت از فلک به مرتبه آنک\r\nکرد روزی به درگه تو گذر\r\nبنده نیز ار به حکم اومیدی\r\nخدمتی گفت ازو عجب مشمر\r\nعاجزی بود کرد با تو پناه\r\nاز بد روزگار بد گوهر\r\nمهملی بود دامن تو گرفت\r\nاز جفای سپهر دون پرور\r\nطمعش بود کز خزانه جود\r\nبی نیازش کنی به جامه و زر\r\nگردد از دست بخشش تو غنی\r\nیابد از فر دولت تو خطر\r\nبرهد از نحوست انجم\r\nبجهد از خساست کشور\r\nمدتی شد که تا بدان اومید\r\nچشم دارد به راه و گوش به در\r\nهست هنگام آنکه باز کشد\r\nبر سر او همای جود تو پر\r\nحلقه در گوش چرخ کرده هرآنک\r\nکرد بر وی عنایت تو نظر\r\nبنده را گوشمال داد بسی\r\nبه عنایت یکی بدو بنگر\r\nصله دادن ترا سزاوارست\r\nزانکه آن دیده ای ز جد و پدر\r\nبیخ کان را نشاند دست سخات\r\nشاخ آن جز کرم نیارد بر\r\nنیست نادر ز خاندان نظام\r\nدانش و رادی و ذکا و هنر\r\nنور نادر نباشد از خورشید\r\nبوی نادر نباشد از عنبر\r\nتا بود تیره خاک و صافی آب\r\nتا بود تند باد و تیز آذر\r\nعالمت بنده باد و دهر غلام\r\nآسمان تخت و آفتاب افسر\r\nعید فرخنده و قرین اقبال\r\nملک پاینده و معین داور\r\nچون منت صدهزار مدحت گوی\r\nچون جهان صدهزار فرمان بر\r\nدیر زی شادمان و نهمت یاب\r\nکامران ملک دار و دولت خور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای به رفعت ز آسمان برتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنور رای تو آفتاب دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تو مقصود جنس و نوع جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی تو مختار خاص و عام بشر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکمترین آستان درگه تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرترین بام گنبد اخضر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدهر در مدحتت گشاده زبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرخ در خدمتت ببسته کمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنزد عدل تو ای به جود مثل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز بار تو ای به جاه سمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنتوان برد نام نوشروان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتوان کرد یاد اسکندر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هوای تو عیش خوش مدغم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خلاف تو بخت بد مضمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک نسیم است از رضای تو خیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک سموم است از خلاف تو شر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای جهان لفظ و تو درو معنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم ازو پیش و هم بدو اندر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرخ در جنت همت تو قصیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحر در پیش خاطر تو شمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست راد تو ابر بی‌نقصان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطبع پاک تو بحر بی‌معبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوهمت آرد ز راز چرخ نشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلکت آرد ز علم غیب خبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکار بندد مسخر و منقاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامر و نهی ترا قضا و قدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بخوانی خلاف چرخ هبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون برانی قبول بخت هدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپاسبان سرای ملک تواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه فلک چار طبع و هفت اختر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوبت ملک پنج کن که شدست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشمن تو چو مهره در ششدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تو گردد به قدر خصمت اگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشبه لؤلؤ شود عرض جوهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای زمین حلم آفتاب لقا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی فلک همت ملک مخبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بزرگی که از بزرگی و جاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرکه بر خدمت تو یافت ظفر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرد بیرون ز دست محنت پای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرد در دولتت به کیوان سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگذشت از فلک به مرتبه آنک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد روزی به درگه تو گذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنده نیز ار به حکم اومیدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخدمتی گفت ازو عجب مشمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاجزی بود کرد با تو پناه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بد روزگار بد گوهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهملی بود دامن تو گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز جفای سپهر دون‌پرور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطمعش بود کز خزانهٔ جود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌نیازش کنی به جامه و زر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردد از دست بخشش تو غنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیابد از فر دولت تو خطر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرهد از نحوست انجم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبجهد از خساست کشور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدتی شد که تا بدان اومید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم دارد به راه و گوش به در\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست هنگام آنکه باز کشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر او همای جود تو پر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحلقه در گوش چرخ‌کرده هرآنک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد بر وی عنایت تو نظر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنده را گوشمال داد بسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه عنایت یکی بدو بنگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصله دادن ترا سزاوارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه آن دیده‌ای ز جد و پدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیخ کان را نشاند دست سخات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاخ آن جز کرم نیارد بر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست نادر ز خاندان نظام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانش و رادی و ذکا و هنر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنور نادر نباشد از خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوی نادر نباشد از عنبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بود تیره خاک و صافی آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بود تند باد و تیز آذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالمت بنده باد و دهر غلام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسمان تخت و آفتاب افسر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعید فرخنده و قرین اقبال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eملک پاینده و معین داور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون منت صدهزار مدحت‌گوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون جهان صدهزار فرمان‌بر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیر زی شادمان و نهمت یاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامران ملک‌دار و دولت‌خور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 40
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای به رفعت ز آسمان برتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای که نور تو از آسمان نیز بالاتر است، تو همچون آفتابی هستی که دیگر آفتاب‌ها در مقابل درخشش تو کم‌نور به نظر می‌رسند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نور رای تو آفتاب دگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای تو مقصود جنس و نوع جهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو هدف و مقصود در میان همه موجودات جهان هستی و تو هستی که بر همه انسان‌ها تسلط و اختیار داری."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وی تو مختار خاص و عام بشر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کمترین آستان درگه تست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کمترین درگاه تو، بالاترین نقطه گنبد سبز است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "برترین بام گنبد اخضر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دهر در مدحتت گشاده زبان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا در ستایش تو زبان گشوده و زمان خود را به خدمت تو آماده کرده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چرخ در خدمتت ببسته کمر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نزد عدل تو ای به جود مثل",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای داد تو مانند روز روشن است و بخشش تو مانند بارانی است که بر زمین می‌بارد. تو در مقام و مقام‌تان به مانند سمر در شاخسار خود می‌درخشی."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "روز بار تو ای به جاه سمر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "نتوان برد نام نوشروان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمی‌توانیم نام نوشروان را از یاد ببریم و یاد اسکندر را نیز نادیده بگیریم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نتوان کرد یاد اسکندر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "در هوای تو عیش خوش مدغم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در فضایی که تو هستی، شادی و خوشی محو شده است و در برابر تو، سرنوشت سهمگینی پنهان شده است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "در خلاف تو بخت بد مضمر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "یک نسیم است از رضای تو خیر",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نسیمی که از رضایت تو می‌وزد، خوب و خوشایند است، اما وزش بادهایی که ناشی از نافرمانی تو هستند، بد و زیان‌آور است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "یک سموم است از خلاف تو شر",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ای جهان لفظ و تو درو معنی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دنیا، تو تنها واژه‌ای هستی و معنا در تو نهفته است، هم از پیش وجود داری و هم به تو منتهی می‌شویم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "هم ازو پیش و هم بدو اندر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "چرخ در جنت همت تو قصیر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تقدیر و نوعروزی به دست تو محدود است و مانند دریا در برابر اندیشه‌ات کوچک و ناچیز به حساب می‌آید."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "بحر در پیش خاطر تو شمر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "دست راد تو ابر بی‌نقصان",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دست تو مانند ابری است که هیچ نقصی ندارد و طبع پاک تو مانند دریایی است که هیچ راه عبوری ندارد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "طبع پاک تو بحر بی‌معبر",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "وهمت آرد ز راز چرخ نشان",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اندیشه و خیال تو می‌تواند از اسرار آسمان خبر دهد و نشان از آنچه در نهان است به دست آورد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "کلکت آرد ز علم غیب خبر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "کار بندد مسخر و منقاد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام کارها و امور به فرمان و اراده تو انجام می‌شود و تقدیر و سرنوشت تو را تحت تاثیر قرار می‌دهد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "امر و نهی ترا قضا و قدر",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "چون بخوانی خلاف چرخ هبا",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که به روال طبیعی زندگی پشت پا زنی و راه خلاف برانی، شانس و فرصتی که در اختیارت بوده از دست می‌دهی."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "چون برانی قبول بخت هدر",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "پاسبان سرای ملک تواند",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگهبان محل حکومت تنها کسی است که می‌تواند به خوبی از آن دفاع کند، نه آسمان با خواص چهارگانه‌اش و نه هفت سیاره."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "نه فلک چار طبع و هفت اختر",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "نوبت ملک پنج کن که شدست",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نوبت این است که به سلطنت خود بپردازی، زیرا دشمن تو به اندازه یک مهره در شطرنج تحت کنترل است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "دشمن تو چو مهره در ششدر",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "چون تو گردد به قدر خصمت اگر",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که تو به اندازه‌ی دشمن خود رشد کنی، شخصیت و ارزش تو به مانند مروارید ظاهر می‌شود."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "شبه لؤلؤ شود عرض جوهر",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "ای زمین حلم آفتاب لقا",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به وصف ویژگی‌های برتر و شگفت‌انگیز آفتاب و زمین می‌پردازد. زمین، به عنوان محل ملاقات با نور و روشنی، با آفتاب آشتی می‌کند و آفتاب، به عنوان نشانه‌ای از کمال و بلاغت، نشان‌دهنده خبر و تجربه‌گرایی است. در واقع، زمین و آسمان به شکلی هم‌افزا، به یادآوری دوگانگی زیبایی‌ها و ارزش‌های معنوی پرداخته‌اند."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "وی فلک همت ملک مخبر",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "ای بزرگی که از بزرگی و جاه",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای بزرگمردی که به خاطر بزرگی و مقام خود، هرکس که در خدمت تو باشد، پیروز و سعادتمند می‌شود."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "هرکه بر خدمت تو یافت ظفر",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "کرد بیرون ز دست محنت پای",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او از زحمت و رنج رها شد و وارد خوشی و سعادت شد، مانند ستاره‌ای در آسمان."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "برد در دولتت به کیوان سر",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "بگذشت از فلک به مرتبه آنک",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی از عوالم بالا عبور کرد و به آن مرتبه رسید که روزی به درگاه تو آمد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "کرد روزی به درگه تو گذر",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "بنده نیز ار به حکم اومیدی",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر من هم به خاطر امیدی که به او دارم چیزی بگویم، از او شگفتی نکن."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "خدمتی گفت ازو عجب مشمر",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "عاجزی بود کرد با تو پناه",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او به خاطر ناتوانی‌اش به تو پناه آورده تا از روزگار سخت و بدی که در آن است، حمایت بگیرد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "از بد روزگار بد گوهر",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "مهملی بود دامن تو گرفت",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دامن تو به خاطر بدی‌های آسمان که پایین‌تر از تو است، به دردسر افتاده و درگیر مشکلات شده است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "از جفای سپهر دون‌پرور",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "طمعش بود کز خزانهٔ جود",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او امیدوار بود که با بخشش و generosity تو، از نیاز به لباس و پول بی‌نیاز شود."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "بی‌نیازش کنی به جامه و زر",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "گردد از دست بخشش تو غنی",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با بخشش تو، کسی که بی‌نیاز می‌شود، به خاطر مقام و قدرت تو ممکن است دچار خطر شود."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "یابد از فر دولت تو خطر",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "برهد از نحوست انجم",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از بدی و شومی ستاره‌ها فاصله بگیر و از تنگ‌نظری و خساست رهایی یاب."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "بجهد از خساست کشور",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "مدتی شد که تا بدان اومید",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدتی است که او با امید به دیدن شخصی به در نگاه می‌کند و گوش به صداهای بیرون دارد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "چشم دارد به راه و گوش به در",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "هست هنگام آنکه باز کشد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی خواهد رسید که بال‌های بخشش تو بر سر او گسترده شود."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "بر سر او همای جود تو پر",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "حلقه در گوش چرخ‌کرده هرآنک",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که با محبت و توجه تو به آن نگاه شود، در دایره‌ای از مهر و محبت قرار می‌گیرد."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "کرد بر وی عنایت تو نظر",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "بنده را گوشمال داد بسی",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بنده را به شدت تحت نظر قرار داده‌اند و با لطف خود، به یکی از دو راهنمایی بنگر."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "به عنایت یکی بدو بنگر",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "صله دادن ترا سزاوارست",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شایسته است که به تو نیکی شود، زیرا تو از نسل و ریشه‌های نیکو آمده‌ای."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "زانکه آن دیده‌ای ز جد و پدر",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "بیخ کان را نشاند دست سخات",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون که ریشه درخت با دست بخشندگی گذاشته شده، شاخ آن فقط برکت و سخاوت می‌آورد و نمی‌تواند، جز خوبی، میوه‌ای دهد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "شاخ آن جز کرم نیارد بر",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "نیست نادر ز خاندان نظام",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در میان خانواده نظام، افرادی با دانش، فهم، و استعدادهای هنری نادر نیستند."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "دانش و رادی و ذکا و هنر",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "نور نادر نباشد از خورشید",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برخی چیزها نمی‌توانند از منبع خود جدا شوند، مانند اینکه نور خورشید همیشه درخشان است و بوی خاصی که از عنبر می‌آید نیز همواره در آن مستتر است."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "بوی نادر نباشد از عنبر",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "تا بود تیره خاک و صافی آب",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که خاک تیره وجود دارد و آب صاف در جریان است، و تا زمانی که باد تند می‌وزد و آتش تیز می‌سوزد."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "تا بود تند باد و تیز آذر",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "عالمت بنده باد و دهر غلام",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عالم متعلق به توست و زمان مانند خدمتکار است. آسمان به عنوان تختی برای تو و خورشید به عنوان تاجی بر سر توست."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "آسمان تخت و آفتاب افسر",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "عید فرخنده و قرین اقبال",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عید خوش یمنی است و با شانس و کامیابی همراه است. سرنوشت ملک همیشه پایدار و حمایتگر است."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "ملک پاینده و معین داور",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "چون منت صدهزار مدحت‌گوی",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به اندازه یک صد هزار مدح گو برای او احترام قائل باشد، مانند این است که در دنیا صد هزار فرمانبردار دارد."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "چون جهان صدهزار فرمان‌بر",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "دیر زی شادمان و نهمت یاب",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدت‌هاست که شاد و خوشحال هستم و آرزو می‌کنم که تو نیز در زندگی‌ات به خوشبختی و کامیابی برسی."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "کامران ملک‌دار و دولت‌خور",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    }
+  ]
+}

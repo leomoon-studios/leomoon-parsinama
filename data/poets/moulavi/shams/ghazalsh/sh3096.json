@@ -1,0 +1,165 @@
+{
+  "Id": 5720,
+  "CatId": 99,
+  "Title": "غزل شمارهٔ ۳۰۹۶",
+  "FullTitle": "مولانا » دیوان شمس » غزلیات » غزل شمارهٔ ۳۰۹۶",
+  "FullUrl": "/moulavi/shams/ghazalsh/sh3096",
+  "RhymeLetters": "ایی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره دلتنگی و عشق عمیق سراینده است. او از صبحگاهان دلش به سوی عشق می‌جهد و حسرتی عمیق او را می‌سوزاند. در اشعار، او به آتش عشق و تأثیر آن بر دلش اشاره می‌کند و بیان می‌کند که عشقش شدید و سوزان است. همچنین به جست‌وجوی وصال معشوقه‌اش پرداخته و از درد و آتش عشق می‌گوید. در نهایت، اشاره‌ای به نور و تابش شمس تبریزی دارد که به عنوان نمادی از روشنایی و حقیقت در عشقش مطرح می‌شود.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایی",
+      "PlainText": "ز بامداد دلم می جهد به سودایی\r\nز بامداد پگه می زند یکی رایی\r\nچگونه آه نگویم که آتشی بفروخت\r\nکه از پگه دل من گشت آتش افزایی\r\nفسون ناله بخوانم بر اژدهای غمش\r\nکه آتشست دم او و ناله سقایی\r\nعجب که دوش کجا بوده است این دل من\r\nکه بر رخ دل من هست تازه صفرایی\r\nبه سوی جسم چو خاکسترم میا گستاخ\r\nکه زیر اوست یکی آتشی و دریایی\r\nبه خوی آتش او من همی روم ای یار\r\nبه حیله ها و به تزویرها و هیهایی\r\nز دردمیدن عشقش دلم شکست آورد\r\nکه عشق را دم تندست و دل چو سرنایی\r\nبه جست و جوی وصالش دل مراست به عشق\r\nچه آتشین طلبی و چه آهنین پایی\r\nحدیث آتش گویم ز شمس تبریزی\r\nکه تا ز تابش نورش رسد به هر جایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بامداد دلم می‌جهد به سودایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بامداد پگه می‌زند یکی رایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچگونه آه نگویم که آتشی بفروخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از پگه دل من گشت آتش افزایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفسون ناله بخوانم بر اژدهای غمش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آتشست دم او و ناله سقایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعجب که دوش کجا بوده است این دل من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر رخ دل من هست تازه صفرایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سوی جسم چو خاکسترم میا گستاخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه زیر اوست یکی آتشی و دریایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خوی آتش او من همی‌روم ای یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه حیله‌ها و به تزویرها و هیهایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دردمیدن عشقش دلم شکست آورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عشق را دم تندست و دل چو سرنایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه جست و جوی وصالش دل مراست به عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه آتشین طلبی و چه آهنین پایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدیث آتش گویم ز شمس تبریزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تا ز تابش نورش رسد به هر جایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز بامداد دلم می‌جهد به سودایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از صبحگاهی، دل من به شور و شوقی می‌پرد و از صبح، صدای فکری در ذهن من طنین‌انداز می‌شود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز بامداد پگه می‌زند یکی رایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چگونه آه نگویم که آتشی بفروخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چگونه می‌توانم آهی بکشم وقتی که آتشی به وجود آمده است که دل من را به شدت می‌سوزاند؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که از پگه دل من گشت آتش افزایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فسون ناله بخوانم بر اژدهای غمش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من با صدای ناله‌ای به درد و غم او می‌پردازم، زیرا او مانند اژدهایی است که دمش شعله می‌افروزد و ناله‌های من مانند آب از سقی هستند که به تشنگی‌اش پاسخ می‌دهد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که آتشست دم او و ناله سقایی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عجب که دوش کجا بوده است این دل من",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عجب است که دیروز دل من کجا بوده است که امروز بر چهره من حالتی جدید و شاداب دارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که بر رخ دل من هست تازه صفرایی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به سوی جسم چو خاکسترم میا گستاخ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به سمت جسم من به عنوان خاکستر نیا، چون زیر این جسم، آتش و دریا نهفته است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که زیر اوست یکی آتشی و دریایی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "به خوی آتش او من همی‌روم ای یار",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هم مانند آتش شخصیت تو در حال حرکت هستم، ای دوست، با فریب‌ها و نیرنگ‌ها و با ناله‌ها و آه‌ها."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "به حیله‌ها و به تزویرها و هیهایی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ز دردمیدن عشقش دلم شکست آورد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق او باعث درد و رنج دل من شد تا جایی که دلم شکست. زیرا عشق شدت و شورو هیجان خاصی دارد و دل انسان مثل سرناست که هنگام نواختن، نازک و آسیب‌پذیر می‌شود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که عشق را دم تندست و دل چو سرنایی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "به جست و جوی وصالش دل مراست به عشق",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من در پی وصال اوست و در این مسیر، عشق من مانند آتش سوزان است. در این تلاش، با اراده‌ای آهنین و استقامت بی‌نظیر پیش می‌روم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "چه آتشین طلبی و چه آهنین پایی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "حدیث آتش گویم ز شمس تبریزی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم داستان آتش را از شمس تبریزی بگویم، زیرا نور او به هر جا که برسد، تاثیرش را منتقل می‌کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "که تا ز تابش نورش رسد به هر جایی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

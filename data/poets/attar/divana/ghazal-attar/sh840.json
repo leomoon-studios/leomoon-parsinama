@@ -1,0 +1,195 @@
+{
+  "Id": 11796,
+  "CatId": 153,
+  "Title": "غزل شمارهٔ ۸۴۰",
+  "FullTitle": "عطار » دیوان اشعار » غزلیات » غزل شمارهٔ ۸۴۰",
+  "FullUrl": "/attar/divana/ghazal-attar/sh840",
+  "RhymeLetters": "ربربایی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر در مورد زیبایی و جاذبه‌ای که یک معشوق دارد، صحبت می‌کند. شاعر به توصیف احساسی می‌پردازد که در برابر کرشمه‌ها و نازهای معشوقش به او دست می‌دهد. او می‌گوید که معشوق به راحتی می‌تواند دل و جان کسانی را با نگاهش برباید و هر بار که او از آفتاب دور می‌شود، عشق و عقل را در مقابل خود نابود می‌کند. شاعر همچنین به این نکته اشاره می‌کند که معشوق با هر حرکت و زیور خود می‌تواند هزاران دل را تحت تأثیر قرار دهد. او به زیبایی‌های چهره و لب‌های معشوقش می‌بالد و از او می‌خواهد که با جاذبه‌اش، بیشتر دل‌ها را برباید. در نهایت، شاعر به این نتیجه می‌رسد که عشق و زیبایی معشوق بی‌پایان است و حتی یک لحظه از محبت و لبخند او می‌تواند به زندگی خود ادامه دهد.",
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ربربایی",
+      "PlainText": "گه به کرشمه دلم ز بر بربایی\r\nگه ز تنم جان به یک نظر بربایی\r\nننگ نیاید تو را که هیچ کسی را\r\nگه دل و گه جان مختصر بربایی\r\nچون تتق از آفتاب چهره کنی دور\r\nعقل براندازی و بصر بربایی\r\nچون سر زلف تو سرکشی کند آغاز\r\nاز سر مویی هزار سر بربایی\r\nاز سر کین زان سنان غمزه کنی تیز\r\nتا به سنانی ز مه قمر بربایی\r\nقصد کنی چون در آینه نگری تو\r\nکز لب خود زاینه شکر بربایی\r\nبر طرفی می روی ز من که من مست\r\nطرف ندارم که از کمر بربایی\r\nدر رخ من ننگری به دیده رحمت\r\nبلکه بدان بنگری که زر بربایی\r\nگر بربایی هزار دل تو به روزی\r\nسیر نگردی تو و دگر بربایی\r\nچون نشکیبی ز دلربایی عشاق\r\nجهد بر آن کن که بیشتر بربایی\r\nتا به ابد ای فرید تو بنمیری\r\nاز لب او یک شکر اگر بربایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه به کرشمه دلم ز بر بربایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه ز تنم جان به یک نظر بربایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eننگ نیاید تو را که هیچ کسی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه دل و گه جان مختصر بربایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تتق از آفتاب چهره کنی دور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل براندازی و بصر بربایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سر زلف تو سرکشی کند آغاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سر مویی هزار سر بربایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سر کین زان سنان غمزه کنی تیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به سنانی ز مه قمر بربایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقصد کنی چون در آینه نگری تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز لب خود زاینه شکر بربایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر طرفی می‌روی ز من که من مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطرف ندارم که از کمر بربایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رخ من ننگری به دیدهٔ رحمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلکه بدان بنگری که زر بربایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بربایی هزار دل تو به روزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیر نگردی تو و دگر بربایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نشکیبی ز دلربایی عشاق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهد بر آن کن که بیشتر بربایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا به ابد ای فرید تو بنمیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز لب او یک شکر اگر بربایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 11
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گه به کرشمه دلم ز بر بربایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی با یک ناز و کرشمه، دل مرا از من می‌گیری و گاهی هم با یک نگاه، جانم را از تنم جدا می‌کنی."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گه ز تنم جان به یک نظر بربایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ننگ نیاید تو را که هیچ کسی را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ننگی به تو نمی‌چسبد که هیچ کس را نباید به سادگی و بدون دلیل، هم قلب و هم جانش را بربایی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گه دل و گه جان مختصر بربایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون تتق از آفتاب چهره کنی دور",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که چهره‌ات را از تابش آفتاب دور کنی، عقل را کنار می‌گذاری و بصیرت را از دست می‌دهی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "عقل براندازی و بصر بربایی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون سر زلف تو سرکشی کند آغاز",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که سر زلف تو سرکشی کند، به اندازه‌ای قدرت دارد که می‌تواند هزار سر را به صبح بیاندازد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از سر مویی هزار سر بربایی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از سر کین زان سنان غمزه کنی تیز",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر کینه‌ای که داری، با نگاه تند و تیزت مانند نیزه حمله می‌کنی، تا او را که چون مه قمر زیباست و با لبخندش تو را جذب می‌کند، از آن خود کنی."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا به سنانی ز مه قمر بربایی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "قصد کنی چون در آینه نگری تو",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی به خودت خوب نگاه کنی، می‌بینی که با لبخند شیرینت می‌توانی دل‌ها را شاد کنی و محبت را به دیگران هدیه بدهی."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "کز لب خود زاینه شکر بربایی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بر طرفی می‌روی ز من که من مست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به سمتی می‌روی که از من دور شده‌ای و من در حال حاضر به وضوح نمی‌توانم کسی را در کنار خود ببینم که به من کمک کند یا مرا نجات دهد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "طرف ندارم که از کمر بربایی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "در رخ من ننگری به دیدهٔ رحمت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به جای اینکه با نگاه محبت‌آمیز به من بنگری، بهتر است به این فکر کنی که من چه کارهایی کرده‌ام که ریاکارانه رفتار کرده‌ام."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "بلکه بدان بنگری که زر بربایی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گر بربایی هزار دل تو به روزی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو هزار دل را بربایی، باز هم به روزی سیر نخواهی شد و دوباره کسی دیگر نیز از تو بهره خواهد برد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "سیر نگردی تو و دگر بربایی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "چون نشکیبی ز دلربایی عشاق",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی نمی‌توانی از دلربایی عاشقان چشم پوشی کنی، سعی کن که بیشتر آن را جذب کنی."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "جهد بر آن کن که بیشتر بربایی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "تا به ابد ای فرید تو بنمیری",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو به عشق او همیشه زنده بمانی، حتی اگر یک دانه شکر هم از لب او بربایی، تا ابد زنده خواهی بود."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "از لب او یک شکر اگر بربایی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    }
+  ]
+}

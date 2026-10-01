@@ -1,0 +1,60 @@
+{
+  "Id": 74877,
+  "CatId": 2085,
+  "Title": "شمارهٔ ۳۳۶",
+  "FullTitle": "قدسی مشهدی » رباعیات » شمارهٔ ۳۳۶",
+  "FullUrl": "/ghodsi/robghm/sh336",
+  "RhymeLetters": "ومشود",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: این شعر بیان می‌کند که اگر کسی سخت و مقاوم مانند سنگ و در عین حال نرم و پذیرنده مانند موم باشد، نمی‌تواند مفهوم عمیق را درک کند. جاهل نمی‌تواند با آشفتگی درون خود آشنا شود و در تاریکی شب نمی‌تواند روشنایی آب را بیابد. به عبارت دیگر، درک حقیقت و مفاهیم عمیق نیاز به درک و هوش دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ومشود",
+      "PlainText": "گر سخت چو سنگ و نرم چون موم شود\r\nکی جاهل را ملال مفهوم شود\r\nآشفتگی طبع چه داند جاهل\r\nشب تیرگی آب چه معلوم شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر سخت چو سنگ و نرم چون موم شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی جاهل را ملال مفهوم شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآشفتگی طبع چه داند جاهل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب، تیرگی آب چه معلوم شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر سخت چو سنگ و نرم چون موم شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی چون سنگ محکم باشد و در عین حال مانند موم نرم و انعطاف‌پذیر، آیا انسان نادان می‌تواند درک کند که چه چیزهایی مایه‌ی نگرانی و ناراحتی‌اش می‌شود؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کی جاهل را ملال مفهوم شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آشفتگی طبع چه داند جاهل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نادان شب از کجا می‌داند که طبع و روح انسان در چه حالتی است؟ و تیرگی و زلالی آب چگونه می‌تواند مشخص شود؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شب، تیرگی آب چه معلوم شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

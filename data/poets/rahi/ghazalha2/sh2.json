@@ -1,0 +1,135 @@
+{
+  "Id": 39475,
+  "CatId": 1327,
+  "Title": "نازک‌اندام",
+  "FullTitle": "رهی معیری » غزلها - جلد دوم » نازک‌اندام",
+  "FullUrl": "/rahi/ghazalha2/sh2",
+  "RhymeLetters": "ابدمید",
+  "SourceName": "تبیان",
+  "SourceUrlSlug": "tebyan",
+  "PoemSummary": "هوش مصنوعی: این شعر با تصاویری زیبا و خیال‌انگیز، به موضوعاتی چون عشق، امید و فریب می‌پردازد. شاعر با استفاده از تصاویری مانند شراب، آفتاب، نیلوفر و ستاره، احساسات و تجربیات خود را به تصویر می‌کشد. او به نقش عشق و امید در زندگی اشاره می‌کند، اما در عین حال از فریب و ناامیدی نیز سخن می‌گوید. پایان شعر به سرعت گذر زمان و زودگذری خوشی‌ها اشاره دارد، که به شهاب‌واره‌ای که می‌گذرد، تعبیر می‌شود. به‌طور کلی، این اثر نشان‌دهنده تضاد بین زیبایی و اندوه در زندگی است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابدمید",
+      "PlainText": "ز جام آینه گون پرتو شراب دمید\r\nخیال خواب چه داری که آفتاب دمید\r\nدرون اشک من افتاد نقش اندامش\r\nبه خنده گفت که نیلوفری ز آب دمید\r\nز جامه گشت پدیدار گوی سینه او\r\nستاره ای ز گریبان ماهتاب دمید\r\nکشید دانه امید ما سری از خاک\r\nکه برق خنده زنان از دل سحاب دمید\r\nبه باد رفت امیدی که داشتم از خلق\r\nفریب بود فروغی که از سراب دمید\r\nغبار تربت ما بوی گل دهد گویی\r\nکه جای لاله ازین خاک مشک ناب دمید\r\nرهی چو برق شتابنده خنده ای زد و رفت\r\nدمی نماند چو نوری که از شهاب دمید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز جام آینه‌گون پرتو شراب دمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخیال خواب چه داری؟ که آفتاب دمید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرون اشک من افتاد نقش اندامش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خنده گفت: که نیلوفری ز آب دمید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز جامه گشت پدیدار گوی سینه او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eستاره‌ای ز گریبان ماهتاب دمید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشید دانه امید ما سری از خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه برق خنده‌زنان از دل سحاب دمید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه باد رفت امیدی که داشتم از خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفریب بود فروغی که از سراب دمید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغبار تربت ما بوی گل دهد گویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه جای لاله ازین خاک مشک ناب دمید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرهی چو برق شتابنده خنده‌ای زد و رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدمی نماند چو نوری که از شهاب دمید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز جام آینه‌گون پرتو شراب دمید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ظرف شفاف و درخشنده‌ای، نور شراب به شکل خیال خواب بیرون آمده است. چه چیزی در ذهن داری؟ چرا که خورشید درخشید و تجلی کرد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خیال خواب چه داری؟ که آفتاب دمید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "درون اشک من افتاد نقش اندامش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل اشک‌های من تصویر قامتش فرود آمد و با لبخند گفت: یک نیلوفر از آب سر زده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به خنده گفت: که نیلوفری ز آب دمید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز جامه گشت پدیدار گوی سینه او",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از لباسش ستاره‌ای نمایان شد، همچون سینه‌ای که درخشش ماهتاب را از گردن خود بیرون آورده است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ستاره‌ای ز گریبان ماهتاب دمید",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کشید دانه امید ما سری از خاک",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دانه امید ما از خاک سر بیرون آورد و با لبخندی روشن، به زندگی و شادی جان بخشید."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که برق خنده‌زنان از دل سحاب دمید",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به باد رفت امیدی که داشتم از خلق",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امیدی که به آن دل بسته بودم از جانب مردم نادرست و فریبنده بود، مانند نوری که از سراب پدید می‌آید و واقعی نیست."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "فریب بود فروغی که از سراب دمید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "غبار تربت ما بوی گل دهد گویی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غبار قبر ما بویی مانند گل دارد، انگار که در این خاک خالص، جای لاله‌ای وجود دارد که عطر آن را منتشر می‌کند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که جای لاله ازین خاک مشک ناب دمید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "رهی چو برق شتابنده خنده‌ای زد و رفت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند برق با شتاب، رهی لبخندی زد و به سرعت رفت. لحظه‌ای هم نایستاد، مانند نوری که از ستاره‌ای Shooting Star می‌درخشد و سپس ناپدید می‌شود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "دمی نماند چو نوری که از شهاب دمید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

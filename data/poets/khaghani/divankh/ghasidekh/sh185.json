@@ -1,0 +1,630 @@
+{
+  "Id": 14955,
+  "CatId": 231,
+  "Title": "شمارهٔ ۱۸۵ - در عزلت و حکمت و موعظه و ریاضت و انتباه و ارشاد",
+  "FullTitle": "خاقانی » دیوان اشعار » قصاید » شمارهٔ ۱۸۵ - در عزلت و حکمت و موعظه و ریاضت و انتباه و ارشاد",
+  "FullUrl": "/khaghani/divankh/ghasidekh/sh185",
+  "RhymeLetters": "انصبحگاه",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن شعری است که به وصف حال و هوای صبح گاه و تجربه‌های روحانی و عشق پرداخته است. شاعر از زیبایی‌های صبح، عشق و زندگی می‌گوید و به حالت‌های مختلف انسان در این زمان اشاره دارد. او به چگونگی احساسات و دستاوردهای انسانی در دل شب و صبح اشاره می‌کند و از مزایای عشق و دل‌دادگی سخن می‌گوید. در کل، این شعر تصویرگر بیداری روح و جستجوی معانی عمیق زندگی است که با ورود صبح تازه روحیه‌ای نو برمی‌افرازد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انصبحگاه",
+      "PlainText": "ما را دلی است زله خور خوان صبح گاه\r\nجانی است خاک جرعه مستان صبح گاه\r\nجان شد نهنگ بحرکش از جام نیم شب\r\nدل گشت مور ریزه خور از خوان صبح گاه\r\nغربال بیختیم به عمری که یافتیم\r\nزر عیاردار به میزان صبح گاه\r\nبس نقد گم ببوده مردان که یافتند\r\nرندان خاک بیز به میدان صبح گاه\r\nدولت دوید و هفت در آسمان گشاد\r\nچون بر زدیم حلقه به سندان صبح گاه\r\nزین یک نفس درآمد و بیرون شد حیات\r\nبردیم روزنامه به دیوان صبح گاه\r\nاول شب ایتکین وثاق آمدیم بلیک\r\nالب ارسلان شدیم به پایان صبح گاه\r\nبی آرزوی ملک به زیر گلیم فقر\r\nکوبیم کوس بر در ایوان صبح گاه\r\nغوغا کنیم یک تنه چون رستم و دریم\r\nدرع فراسیاب به پیکان صبح گاه\r\nنقب افکنیم نیم شب از دور تا بریم\r\nپی بر سر خزینه پنهان صبح گاه\r\nبی ترس تیغ و دار بگوییم تا که ایم\r\nنقب افکن خزینه ترکان صبح گاه\r\nصور روان خفته دلانیم چون خروس\r\nآهنگ دان پرده دستان صبح گاه\r\nچندین هزار جرعه که این سبز طشتراست\r\nنوشیم چون شویم به مهمان صبح گاه\r\nچو آب روی درنکشیم ارچه درکشیم\r\nبحری ز دست ساقی دوران صبح گاه\r\nگفتی شما چگونه و چون است نزلتان\r\nماشا و نزل ما ز شبستان صبح گاه\r\nآتش زنیم هفت علف خانه فلک\r\nچون بنگریم نزل فراوان صبح گاه\r\nخواهی که نزل ما دهدت ده کیای دهر\r\nبستان گشاد نامه به عنوان صبح گاه\r\nتو کی شناسی این چه معماست چون هنوز\r\nابجد نخوانده ای به دبستان صبح گاه\r\nبیاع خان جان مجاهز دلان عشق\r\nجز صبح نیست جان تو و جان صبح گاه\r\nگفتی شما که اید و چه مرغید و چیستید\r\nسیمرغ نیم روز و سلیمان صبح گاه\r\nما مرغ عرشییم که بر بانگ ما روند\r\nمرغان شب شناس نواخوان صبح گاه\r\nصبح شما دمی است دم ما هزار صبح\r\nهر پنج وقت ما شده یکسان صبح گاه\r\nما را به هر دو صبح دو عید است و جان ما\r\nمرغی است فربه از پی قربان صبح گاه\r\nتسکین جان گرم دلان را کنیم سرد\r\nچون دم برآوریم به دامان صبح گاه\r\nسحرا که بر قواره سیمین مه کنیم\r\nچون برکشیم سر ز گریبان صبح گاه\r\nبهر بخور مجلس روحانیان عشق\r\nسازیم سینه مجمر سوزان صبح گاه\r\nگر چشم ما گلاب فشان شد عجب مدار\r\nدل های ماست آینه گردان صبح گاه\r\nخاقانیا مرنج که سلطان گدات خواند\r\nآری گدای روزی و سلطان صبح گاه\r\nچون ژاله و صبا و شباهنگ هم چنین\r\nمعزول روز باش و عمل ران صبح گاه\r\nجیحون فشان ز اشک و سمرقند گیر از آه\r\nتا ما نهیم نام تو خاقان صبح گاه\r\nاز دم سیاه کن رخ دیو سپید روز\r\nچون دیو نفس توست سلیمان صبح گاه\r\nمیلی بساز ز آه وبزن بر پلاس شب\r\nدرکش به چشم روز به فرمان صبح گاه\r\nاز خوان دل به نزل سرای ازل درآی\r\nبفرست زله ای سوی اخوان صبح گاه\r\nیک گوش ماهیی بده از می که حاضرند\r\nدریاکشان ره زده عطشان صبح گاه\r\nریزی بریز از آن می ریحانی سرشک\r\nوز بوی جرعه کن دم ریحان صبح گاه\r\nچون ماهی ار بریده زبانی دلت بجاست\r\nدل در تو یونسی است زبان دان صبح گاه\r\nبر شاه نیم روز کمین کن که آه توست\r\nهر نیم شب کمان کش مردان صبح گاه\r\nهر صبح فتح باب کن از انجم سرشک\r\nبنشان غبار غصه به باران صبح گاه\r\nچون بر بطت زبان چه بکار است بهتر آنک\r\nچون نای بی زبان زنی الحان صبح گاه\r\nگم کن زبان که مار نگهبان گنج توست\r\nبر گنج خود تو باش نگهبان صبح گاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را دلی است زله خور خوان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانی است خاک جرعهٔ مستان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان شد نهنگ بحرکش از جام نیم شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل گشت مور ریزه خور از خوان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغربال بیختیم به عمری که یافتیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزر عیاردار به میزان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس نقد گم ببودهٔ مردان که یافتند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرندان خاک بیز به میدان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولت دوید و هفت در آسمان گشاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بر زدیم حلقه به سندان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین یک نفس درآمد و بیرون شد حیات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبردیم روزنامه به دیوان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاول شب ایتکین وثاق آمدیم بلیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eالب ارسلان شدیم به پایان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌آرزوی ملک به زیر گلیم فقر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوبیم کوس بر در ایوان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغوغا کنیم یک تنه چون رستم و دریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرع فراسیاب به پیکان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنقب افکنیم نیم شب از دور تا بریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپی بر سر خزینهٔ پنهان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌ترس تیغ و دار بگوئیم تا که‌ایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقب افکن خزینهٔ ترکان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصور روان خفته دلانیم چون خروس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآهنگ دان پردهٔ دستان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندین هزار جرعه که این سبز طشتراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوشیم چون شویم به مهمان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو آب روی درنکشیم ارچه درکشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحری ز دست ساقی دوران صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی شما چگونه و چون است نزلتان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماشا و نزل ما ز شبستان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتش زنیم هفت علف‌خانهٔ فلک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بنگریم نزل فراوان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهی که نزل ما دهدت ده کیای دهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبستان گشاد نامه به عنوان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو کی شناسی این چه معماست چون هنوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابجد نخوانده‌ای به دبستان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیاع خان جان مجاهز دلان عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز صبح نیست جان تو و جان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی شما که‌اید و چه مرغید و چیستید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیمرغ نیم‌روز و سلیمان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما مرغ عرشییم که بر بانگ ما روند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغان شب شناس نواخوان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبح شما دمی است، دم ما هزار صبح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر پنج وقت ما شده یکسان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را به هر دو صبح دو عید است و جان ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغی است فربه از پی قربان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتسکین جان گرم دلان را کنیم سرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون دم برآوریم به دامان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسحرا که بر قوارهٔ سیمین مه کنیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون برکشیم سر ز گریبان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر بخور مجلس روحانیان عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسازیم سینه مجمر سوزان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر چشم ما گلاب فشان شد عجب مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل‌های ماست آینه‌گردان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاقانیا مرنج که سلطان گدات خواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری گدای روزی و سلطان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ژاله و صبا و شباهنگ هم‌چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعزول روز باش و عمل‌ران صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجیحون فشان ز اشک و سمرقند گیر از آه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ما نهیم نام تو خاقان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دم سیاه کن رخ دیو سپید روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون دیو نفس توست سلیمان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیلی بساز ز آه وبزن بر پلاس شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرکش به چشم روز به فرمان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خوان دل به نزل سرای ازل درآی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبفرست زله‌ای سوی اخوان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک گوش ماهیی بده از می که حاضرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریاکشان ره زده عطشان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eریزی بریز از آن می ریحانی سرشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز بوی جرعه کن دم ریحان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ماهی ار بریده زبانی دلت بجاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل در تو یونسی است زبان دان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر شاه نیم‌روز کمین کن که آه توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر نیم شب کمان‌کش مردان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر صبح فتح باب کن از انجم سرشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنشان غبار غصه به باران صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بر بطت زبان چه بکار است بهتر آنک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نای بی‌زبان زنی الحان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگم کن زبان که مار نگهبان گنج توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر گنج خود تو باش نگهبان صبح‌گاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 40
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ما را دلی است زله خور خوان صبح‌گاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل ما پر از عشق و شوق است و در صبح زود به یاد آن روزهای شاد و خوش، زندگی به ما انرژی و جان تازه‌ای می‌دهد. در این لحظه‌ها، احساس نشاط و سرخوشی مشابه حالتی که در اثر نوشیدن شراب به دست می‌آید، بر ما حاکم است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جانی است خاک جرعهٔ مستان صبح‌گاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جان شد نهنگ بحرکش از جام نیم شب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نیمه شب، روح نهنگ دریا به‌طور کامل بیدار می‌شود، و در صبح، دل مورچه‌هایی که از برکت سفره صبحانه بهره‌مند می‌شوند، شاداب و سرزنده می‌شود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل گشت مور ریزه خور از خوان صبح‌گاه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غربال بیختیم به عمری که یافتیم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در طول عمر خود تلاش کردیم و با زحمات فراوان، طلا و ارزش واقعی را مانند میزان سنجیدیم تا به صبح‌های روشن و امیدبخش دست یابیم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زر عیاردار به میزان صبح‌گاه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بس نقد گم ببودهٔ مردان که یافتند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از مردان باهوش و زبردست گمشده‌هایی دارند که در صبح زود در میدان‌ها، افراد هوشمند و زیرک را پیدا می‌کنند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "رندان خاک بیز به میدان صبح‌گاه",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دولت دوید و هفت در آسمان گشاد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دولت با سرعت حرکت کرد و درهای هفت آسمان را گشود، هنگامی که صبح‌گاه حلقه‌ای به سندان زدیم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چون بر زدیم حلقه به سندان صبح‌گاه",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "زین یک نفس درآمد و بیرون شد حیات",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از نفس کشیدن زنده‌ایم و این نفس به ما حیات می‌بخشد، مانند اینکه روزنامه‌ای را در آغاز صبح می‌خوانیم و از آن استفاده می‌کنیم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بردیم روزنامه به دیوان صبح‌گاه",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "اول شب ایتکین وثاق آمدیم بلیک",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در ابتدا شب به اینجا آمدیم و درگیر مشکلات شدیم، اما در پایان صبح به آرامش و موفقیت رسیدیم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "الب ارسلان شدیم به پایان صبح‌گاه",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "بی‌آرزوی ملک به زیر گلیم فقر",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدون آرزوی داشتن ثروت، در زیر گلیم فقر، صدای پیروزی را در صبحگاه به‌صدا درمی‌آوریم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "کوبیم کوس بر در ایوان صبح‌گاه",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "غوغا کنیم یک تنه چون رستم و دریم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیایید با تمام قدرت و شجاعت مانند رستم، در صبح زود با تجهیزات خود، به میدان برویم و صدا به راه بیندازیم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "درع فراسیاب به پیکان صبح‌گاه",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "نقب افکنیم نیم شب از دور تا بریم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نیمه شب به آرامی و بی سر و صدا حرکت می‌کنیم تا به سمت خزانه‌ای پنهان برویم که در صبح آشکار خواهد شد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "پی بر سر خزینهٔ پنهان صبح‌گاه",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "بی‌ترس تیغ و دار بگوئیم تا که‌ایم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بی‌هیچ ترسی باید بگوییم تا زمانی که هستیم، راه‌هایی برای نفوذ به گنجینه‌ی ترکان پیدا کنیم، به ویژه در صبحگاه."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "نقب افکن خزینهٔ ترکان صبح‌گاه",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "صور روان خفته دلانیم چون خروس",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما مانند مرغ‌های خوان در خواب دل‌هایی که بیدار نیستند، در صبح زود با نغمه‌ای آهنگین بیدار می‌شویم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "آهنگ دان پردهٔ دستان صبح‌گاه",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "چندین هزار جرعه که این سبز طشتراست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با نوشیدن هزاران جرعه از این چشمه‌ی سبز رنگ، هنگامی که صبح به مهمانی برویم، چه لذتی خواهیم برد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "نوشیم چون شویم به مهمان صبح‌گاه",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "چو آب روی درنکشیم ارچه درکشیم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه ما آبی را بر صورت نمی‌کشیم، اما در عوض در صبحگاه می‌توانیم از دریا و لذت‌های ناب ساقی بهره‌مند شویم."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "بحری ز دست ساقی دوران صبح‌گاه",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "گفتی شما چگونه و چون است نزلتان",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو پرسیده‌ای که حال ما چگونه است و جایگاه ما در دنیای شب و روز چه تفاوتی دارد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "ماشا و نزل ما ز شبستان صبح‌گاه",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "آتش زنیم هفت علف‌خانهٔ فلک",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما آتش خواهیم زد به هفت علف‌خانه آسمان، چون که صبح‌گاه را با بارش فراوانش خواهیم دید."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "چون بنگریم نزل فراوان صبح‌گاه",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "خواهی که نزل ما دهدت ده کیای دهر",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی که زندگی‌ات به تو خوشی و برکت بیازد، باید در زمان صبح که تازه روز آغاز می‌شود، دست به کار شوی و نامه‌ات را با عنوان خوبی شروع کنی."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "بستان گشاد نامه به عنوان صبح‌گاه",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "تو کی شناسی این چه معماست چون هنوز",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو چطور می‌خواهی این راز را بفهمی در حالی که هنوز الفبای زندگی را یاد نگرفته‌ای و به شروع روز نرسیده‌ای؟"
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "ابجد نخوانده‌ای به دبستان صبح‌گاه",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "بیاع خان جان مجاهز دلان عشق",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و شور زندگی به مانند نوری تازه در بامداد است، و در این صبح جان‌نواز، تو و جان تو به یکدیگر مرتبط‌اند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "جز صبح نیست جان تو و جان صبح‌گاه",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "گفتی شما که‌اید و چه مرغید و چیستید",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو پرسیدی که چه کسانی هستید و چه جایگاهی دارید، ما همان سیمرغ در اوج آسمان و سلیمان در صبح روشن هستیم."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "سیمرغ نیم‌روز و سلیمان صبح‌گاه",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "ما مرغ عرشییم که بر بانگ ما روند",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما پرندگانی هستیم که در آسمان زندگی می‌کنیم و صدای ما باعث می‌شود که پرندگان دیگر، که به شب و تاریکی آشنا هستند، صداهای صبحگاهی را بشنوند و به سمت روشنی و امید بیایند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "مرغان شب شناس نواخوان صبح‌گاه",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "صبح شما دمی است، دم ما هزار صبح",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صبح شما تنها یک لحظه است، اما صبح ما در هر پنج وقت نماز به هزار صبح می‌ماند، زیرا همه‌یشان برای ما مانند صبحگاه می‌شود."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "هر پنج وقت ما شده یکسان صبح‌گاه",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "ما را به هر دو صبح دو عید است و جان ما",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در هر دو صبح، در دو جشن شاد و خوشحال هستیم و روح ما مانند پرنده‌ای چاق و سالم است که به دنبال نذری برای قربانی کردن در صبح زود می‌گردد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "مرغی است فربه از پی قربان صبح‌گاه",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "تسکین جان گرم دلان را کنیم سرد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما با دمیدن صبح، دل‌های پرحرارت را آرام می‌کنیم و آنها را به حالتی ساکن می‌رسانیم."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "چون دم برآوریم به دامان صبح‌گاه",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "سحرا که بر قوارهٔ سیمین مه کنیم",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که صبح به آسمان نگاه می‌کنیم و نور صبحگاهی را مشاهده می‌کنیم، گویی که در دل کویر با زیبایی و درخشندگی خاصی مواجه شده‌ایم که یک حس شگفتی و تازگی را به ما منتقل می‌کند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "چون برکشیم سر ز گریبان صبح‌گاه",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "بهر بخور مجلس روحانیان عشق",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای لذت بردن در جمع عاشقان، روح پاکی را به وجود آوریم و دل‌هامان را چون آتش سوزان در صبحگاه روشن نگه داریم."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "سازیم سینه مجمر سوزان صبح‌گاه",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "گر چشم ما گلاب فشان شد عجب مدار",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چشمان ما پر از اشک و اندوه شد، تعجب نکنید؛ زیرا دل‌های ما همچون آینه‌هایی هستند که زیبایی‌های صبح را منعکس می‌کنند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "دل‌های ماست آینه‌گردان صبح‌گاه",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "خاقانیا مرنج که سلطان گدات خواند",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خاقان! ناراحت نباش، زیرا سلطان روزی را به گدا می‌خواند و در صبح‌گاه نیز او به گدا همان‌گونه توجه می‌کند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "آری گدای روزی و سلطان صبح‌گاه",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "چون ژاله و صبا و شباهنگ هم‌چنین",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند شبنم و نسیم و بلبل، تو نیز از روز بی‌برخورد و دوری کن و در صبحگاه کارهای نیک را انجام بده."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "معزول روز باش و عمل‌ران صبح‌گاه",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "جیحون فشان ز اشک و سمرقند گیر از آه",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب جیحون با اشک‌های ما روان است و از سوی سمرقند، ما نام تو را به عنوان پادشاه صبحگاه بر زبان می‌آوریم."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "تا ما نهیم نام تو خاقان صبح‌گاه",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "از دم سیاه کن رخ دیو سپید روز",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر صدای سیاهی به گوش می‌رسد، چهره‌ی روشن روز مانند دیو است، زیرا نفس تو همانند سلیمان در صبح زود است."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "چون دیو نفس توست سلیمان صبح‌گاه",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "میلی بساز ز آه وبزن بر پلاس شب",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دل خودش آرزویی بساز و آن را به تاروپود شب بده و در صبحگاه با دیدی روشن به آن بنگر."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "درکش به چشم روز به فرمان صبح‌گاه",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "از خوان دل به نزل سرای ازل درآی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دل و احساس خود به منزلگاه جاودانه وارد شو و پیامی به سوی دوستان در صبحگاه بفرست."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "بفرست زله‌ای سوی اخوان صبح‌گاه",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "یک گوش ماهیی بده از می که حاضرند",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من یک لیوان شراب بده، زیرا دریاشناسانی هستند که صبح زود در جستجوی آب تشنه به دریا رفته‌اند."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "دریاکشان ره زده عطشان صبح‌گاه",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "ریزی بریز از آن می ریحانی سرشک",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از شراب خوشبو و خوش طعم بریز و بگذار قطره‌ای از آن به روی گل‌ها بریزد و با رایحه‌اش، صبح را تازه کن."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "وز بوی جرعه کن دم ریحان صبح‌گاه",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "چون ماهی ار بریده زبانی دلت بجاست",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به مانند ماهی زبان از دست بدهی، دل تو هنوز در عشق دیگری است. دل تو در عشق است و حتی اگر زبان نداشته باشی، صبح که می‌رسد، عشق تو را می‌فهمد."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "دل در تو یونسی است زبان دان صبح‌گاه",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "بر شاه نیم‌روز کمین کن که آه توست",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر شاه نیم‌روز، کمین کن؛ چرا که آه تو تبدیل به تیر کمان‌کش مردان در صبحگاه خواهد شد."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "هر نیم شب کمان‌کش مردان صبح‌گاه",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "هر صبح فتح باب کن از انجم سرشک",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر صبح، با شروع تازه‌ ای، حس تازه‌ ای را تجربه کن و با اشک‌هایی که از ستاره‌ها می‌چکد، غبار غم و ناراحتی را با باران صبح بشوی و پاک کن."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "بنشان غبار غصه به باران صبح‌گاه",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "چون بر بطت زبان چه بکار است بهتر آنک",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که سخن گفتن با پرنده‌ای چون بلبل بی‌فایده است، بهتر است که مانند نی بی‌زبان باشی و آوازهای دل‌نواز صبحگاهی را سر دهی."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "چون نای بی‌زبان زنی الحان صبح‌گاه",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "گم کن زبان که مار نگهبان گنج توست",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زبانت را در کنترل بگیر، زیرا کسی که از افشای راز تو مراقبت می‌کند، شبیه مار است. در صبح زود، خودت مراقب گنج‌های درونت باش."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "بر گنج خود تو باش نگهبان صبح‌گاه",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    }
+  ]
+}

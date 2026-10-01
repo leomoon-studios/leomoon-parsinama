@@ -1,0 +1,540 @@
+{
+  "Id": 3672,
+  "CatId": 99,
+  "Title": "غزل شمارهٔ ۱۰۴۸",
+  "FullTitle": "مولانا » دیوان شمس » غزلیات » غزل شمارهٔ ۱۰۴۸",
+  "FullUrl": "/moulavi/shams/ghazalsh/sh1048",
+  "RhymeLetters": "ار",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن شعری است که به زیبایی و عشق الهی می‌پردازد. شاعر به توصیف خداوند به عنوان خالق نور و جلال می‌پردازد و عشق به خدا را به رقصی شگفت‌انگیز تشبیه می‌کند. او بیان می‌کند که عشق الهی نمی‌تواند پنهان بماند و حتی درد جدایی از محبوب نیز عمیق و پرآتش است. شاعر بر اهمیت زندگی در لحظه و عدم وابستگی به وعده‌های آینده تأکید می‌کند و به ویژگی‌های محبت و زیبایی‌های روحی اشاره می‌نماید. در نهایت، شاعر به وحدت همه موجودات می‌پردازد و زیبایی و روحانیت را در عشق الهی می‌جوید.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "خداوند خداوندان اسرار\r\nزهی خورشید در خورشید انوار\r\nز عشق حسن تو خوبان مه رو\r\nبه رقص اندر مثال چرخ دوار\r\nچو بنمایی ز خوبی دست بردی\r\nبماند دست و پای عقل از کار\r\nگشاده ز آتش او آب حیوان\r\nکه آبش خوشترست ای دوست یا نار\r\nاز آن آتش بروییدست گلزار\r\nو زان گلزار عالم های دل زار\r\nاز آن گل ها که هر دم تازه تر شد\r\nنه زان گل ها که پژمردست پیرار\r\nنتاند کرد عشقش را نهان کس\r\nاگر چه عشق او دارد ز ما عار\r\nیکی غاریست هجرانش پرآتش\r\nعجب روزی برآرم سر از این غار\r\nز انکارت بروید پرده هایی\r\nمکن در کار آن دلبر تو انکار\r\nچو گرگی می نمودی روی یوسف\r\nچون آن پرده غرض می گشت اظهار\r\nز جان آدمی زاید حسدها\r\nملک باش و به آدم ملک بسپار\r\nغذای نفس تخم آن غرض هاست\r\nچو کاریدی بروید آن به ناچار\r\nنداند گاو کردن بانگ بلبل\r\nنداند ذوق مستی عقل هشیار\r\nنزاید گرگ لطف روی یوسف\r\nو نی طاووس زاید بیضه مار\r\nبه طراری ربود این عمرها را\r\nبه پس فردا و فردا نفس طرار\r\nهمه عمرت هم امروزست لاغیر\r\nتو مشنو وعده این طبع عیار\r\nکمر بگشا ز هستی و کمر بند\r\nبه خدمت تا رهی زین نفس اغیار\r\nنمازت کی روا باشد که رویت\r\nبه هنگام نمازست سوی بلغار\r\nدر آن صحرا بچر گر مشک خواهی\r\nکه می چرد در آن آهوی تاتار\r\nنمی بینی تغیرها و تحویل\r\nدر افلاک و زمین و اندر آثار\r\nکی داند جوهر خوبت بگردد\r\nبه خاکی کش ندارد سود غمخوار\r\nچو تو خربنده باشی نفس خود را\r\nبه حلقه نازنینان باشی بس خوار\r\nاگر خواهی عطای رایگانی\r\nز عالم های باقی ملک بسیار\r\nچنان جامی که ویرانی هوش است\r\nز شمس حق و دین بستان و هش دار\r\nخداوند خداوندان باقی\r\nکه نبودشان به مخدومیش انکار\r\nز لطف جان او رفته بکارت\r\nچو دیدندنش ز جنت حور ابکار\r\nاگر نه پرده رشک الهی\r\nبپوشیدیش از دار و ز دیار\r\nکه سنگ و خاک و آب و باد و آتش\r\nهمه روحی شدندی مست و سیار\r\nبه بازار بتان و عاشقان در\r\nز نقش او بسوزد جمله بازار\r\nدو ده دان هر دو کون دو جهان را\r\nچه باشد ده که باشد اوش سالار\r\nکه روح القدس پایش می ببوسید\r\nندا آمد که پایش را میازار\r\nچه کم عقلی بود آن کس که این را\r\nبرای جاه او گوید که مکثار\r\nبه حق آنک آن شیر حقیقی\r\nچنین صید دلم کردست اشکار\r\nکه از تبریز پیغامی فرستی\r\nکه اینست لابه ما اندر اسحار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخداوند خداوندان اسرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهی خورشید در خورشید انوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز عشق حسن تو خوبان مه رو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه رقص اندر مثال چرخ دوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو بنمایی ز خوبی دست بردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبماند دست و پای عقل از کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشاده ز آتش او آب حیوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آبش خوشترست ای دوست یا نار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن آتش بروییدست گلزار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو زان گلزار عالم‌های دل زار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن گل‌ها که هر دم تازه‌تر شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه زان گل‌ها که پژمردست پیرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنتاند کرد عشقش را نهان کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر چه عشق او دارد ز ما عار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی غاریست هجرانش پرآتش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعجب روزی برآرم سر از این غار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز انکارت بروید پرده‌هایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمکن در کار آن دلبر تو انکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو گرگی می‌نمودی روی یوسف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون آن پرده غرض می‌گشت اظهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز جان آدمی زاید حسدها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eملک باش و به آدم ملک بسپار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغذای نفس تخم آن غرض‌هاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو کاریدی بروید آن به ناچار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنداند گاو کردن بانگ بلبل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنداند ذوق مستی عقل هشیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنزاید گرگ لطف روی یوسف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو نی طاووس زاید بیضه مار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه طراری ربود این عمرها را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه پس فردا و فردا نفس طرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه عمرت هم امروزست لاغیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو مشنو وعده این طبع عیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکمر بگشا ز هستی و کمر بند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خدمت تا رهی زین نفس اغیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمازت کی روا باشد که رویت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هنگام نمازست سوی بلغار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آن صحرا بچر گر مشک خواهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه می‌چرد در آن آهوی تاتار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمی‌بینی تغیرها و تحویل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر افلاک و زمین و اندر آثار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی داند جوهر خوبت بگردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خاکی کش ندارد سود غمخوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو تو خربنده باشی نفس خود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه حلقه نازنینان باشی بس خوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر خواهی عطای رایگانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز عالم‌های باقی ملک بسیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان جامی که ویرانی هوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز شمس حق و دین بستان و هش دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخداوند خداوندان باقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نبودشان به مخدومیش انکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز لطف جان او رفته بکارت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو دیدندنش ز جنت حور ابکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر نه پرده رشک الهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبپوشیدیش از دار و ز دیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه سنگ و خاک و آب و باد و آتش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه روحی شدندی مست و سیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بازار بتان و عاشقان در\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز نقش او بسوزد جمله بازار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو ده دان هر دو کون دو جهان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه باشد ده که باشد اوش سالار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه روح القدس پایش می ببوسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندا آمد که پایش را میازار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه کم عقلی بود آن کس که این را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرای جاه او گوید که مکثار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه حق آنک آن شیر حقیقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنین صید دلم کردست اشکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه از تبریز پیغامی فرستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه اینست لابه ما اندر اسحار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 34
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خداوند خداوندان اسرار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند اصلی و حاکم بر اسرار و رازهای نهفته است، او همانند خورشید درخشان، نور و روشنایی خود را در دیگر خورشیدها پخش می‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زهی خورشید در خورشید انوار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز عشق حسن تو خوبان مه رو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از عشق زیبایی تو، همه زیبایان با صورت‌های گرد و زیبا به رقص در آمده‌اند، مانند چرخ در حال چرخش."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به رقص اندر مثال چرخ دوار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو بنمایی ز خوبی دست بردی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی زیبایی‌ات را نشان می‌دهی، عقل از کار می‌افتد و ناتوان می‌شود."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بماند دست و پای عقل از کار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گشاده ز آتش او آب حیوان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر آتش عشق او، آب حیات آزاد شده است؛ زیرا این آب از هر چیز دیگر برای ما دوست‌داشتنی‌تر است، حتی از آتش."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که آبش خوشترست ای دوست یا نار",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از آن آتش بروییدست گلزار",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل‌های زیبا از آن آتش زبانه می‌کشند و از این گلزار، دنیای دل‌های شکست‌خورده و غمگین به وجود می‌آید."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "و زان گلزار عالم‌های دل زار",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "از آن گل‌ها که هر دم تازه‌تر شد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به زیبایی و تازگی اشاره دارد. شاعر به گل‌هایی اشاره می‌کند که هر لحظه تازه‌تر و زیباتر می‌شوند، در مقابل گل‌هایی که پژمرده و قدیمی شده‌اند. این بیان به نوعی نمادین است و نشان‌دهنده‌ی زندگی و شادابی است که در گذر زمان حفظ می‌شود، در حالی که برخی چیزها به مرور زمان از زیبایی و زندگی‌شان کاسته می‌شود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نه زان گل‌ها که پژمردست پیرار",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "نتاند کرد عشقش را نهان کس",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌تواند عشق او را پنهان کند، هرچند که عشقش برای ما عیب و نقصی به شمار نمی‌آید."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "اگر چه عشق او دارد ز ما عار",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "یکی غاریست هجرانش پرآتش",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزی خواهد رسید که از این غار پر از آتش و تنهایی خسته‌کننده خارج می‌شوم و سرم را بیرون می‌آورم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "عجب روزی برآرم سر از این غار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ز انکارت بروید پرده‌هایی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از انکار کردن خود و سعی در پنهان‌کاری دست بردار. در رابطه با محبوبت، به هیچ وجه انکار نکن."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "مکن در کار آن دلبر تو انکار",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "چو گرگی می‌نمودی روی یوسف",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو با ظاهری شبیه به گرگ خود را نشان می‌دادی، مانند پرده‌ای که مقصود را پنهان می‌کند، هدف واقعی‌ات را آشکار می‌کردی."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "چون آن پرده غرض می‌گشت اظهار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "ز جان آدمی زاید حسدها",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حسادت‌ها از دل انسان بیرون می‌آید، پس سعی کن که با روح بلند و ملکوتی خود، زندگی را در دست بگیری و آن را به آدمی واگذار کنی."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "ملک باش و به آدم ملک بسپار",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "غذای نفس تخم آن غرض‌هاست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نفس انسان مانند دانه‌ای است که به هدف‌ها و خواسته‌ها اختصاص دارد. اگر این دانه را بکارید، به ناچار رشد می‌کند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "چو کاریدی بروید آن به ناچار",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "نداند گاو کردن بانگ بلبل",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاو نمی‌داند که صدای بلبل چه معنا دارد و لذت شادابی را عقل هوشیار درک نمی‌کند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "نداند ذوق مستی عقل هشیار",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "نزاید گرگ لطف روی یوسف",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر گرگی از زیبایی یوسف پدید نیاید و طاووس نیز از تخم مار به وجود نیاید، معنایش این است که زیبایی و نیکی تنها از منابع و مبدأهای مناسب و خوش‌ظاهر می‌توانند سر برآورند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "و نی طاووس زاید بیضه مار",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "به طراری ربود این عمرها را",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این زندگی را مانند یک بازی ربوده است و به آینده‌ای نامشخص و دور می‌کشاند، جایی که نفس و زمان همیشه در حال تغییر و تردید هستند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "به پس فردا و فردا نفس طرار",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "همه عمرت هم امروزست لاغیر",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام عمر تو فقط به امروز مربوط می‌شود. به وعده‌های آینده که این دل تغییرپذیر می‌دهد، گوش نده."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "تو مشنو وعده این طبع عیار",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "کمر بگشا ز هستی و کمر بند",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خود را از قید و بندهای دنیوی رها کن و خود را برای خدمت آماده ساز، تا بتوانی از تأثیرات دیگران بر خود رهایی پیدا کنی."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "به خدمت تا رهی زین نفس اغیار",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "نمازت کی روا باشد که رویت",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "\u00A0نماز تو در صورتی که در هنگام نماز، چهره‌ات به سوی بلغار باشد ، مقبول نیست\u00A0"
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "به هنگام نمازست سوی بلغار",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "در آن صحرا بچر گر مشک خواهی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در آن دشت می‌خواهی مشک را پیدا کنی، باید بدانی که آهوهای تاتاری در آنجا در حال چرانیدن هستند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "که می‌چرد در آن آهوی تاتار",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "نمی‌بینی تغیرها و تحویل",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شما تغییرات و تحولات در آسمان‌ها و زمین و نشانه‌ها و آثارش را نمی‌بینی."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "در افلاک و زمین و اندر آثار",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "کی داند جوهر خوبت بگردد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌داند که آیا ارزش و زیبایی تو به زوال می‌رسد یا نه؛ زیرا کسی وجود ندارد که از این تغییر دلسوزی کند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "به خاکی کش ندارد سود غمخوار",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "چو تو خربنده باشی نفس خود را",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو گندم روییده‌ای، خودت را به حلقه‌ی نازنینان بسپاری، کاملاً خوار و حقیر خواهی شد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "به حلقه نازنینان باشی بس خوار",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "اگر خواهی عطای رایگانی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی که از دنیای دیگران، نعمت و بخشش‌های زیادی نصیبت شود، باید تلاش کنی و در راستای رسیدن به آن بکوشی."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "ز عالم‌های باقی ملک بسیار",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "چنان جامی که ویرانی هوش است",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چنان‌که جامی که عقل را از بین می‌برد، از نوری که از حقیقت و دین می‌تابد، بگیر و مراقب باش."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "ز شمس حق و دین بستان و هش دار",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "خداوند خداوندان باقی",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوندی که همه خدایان دیگر به وجود او وابسته‌اند و عدم وجود آنها به لطف او غیرممکن است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "که نبودشان به مخدومیش انکار",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "ز لطف جان او رفته بکارت",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر محبت و لطف او، وقتی که به زیبایی‌اش نگریستند، عفت و پاکی او مانند حوریان بهشتی به نظر می‌رسید."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "چو دیدندنش ز جنت حور ابکار",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "اگر نه پرده رشک الهی",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خداوند به او پوششی از زیبایی‌های خود نمی‌داد، او از زندگی و دنیای خود نمی‌تواند فرار کند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "بپوشیدیش از دار و ز دیار",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "که سنگ و خاک و آب و باد و آتش",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سنگ و خاک و آب و باد و آتش همه این عناصر طبیعی، روحی سرشار از زندگی و جنب و جوش دارند و در حال حرکت و تغییر هستند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "همه روحی شدندی مست و سیار",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "به بازار بتان و عاشقان در",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در بازار معشوقان و زیبایی‌ها، همه از زیبایی‌ها و نقش دلربا می‌سوزند و دلتنگ می‌شوند."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "ز نقش او بسوزد جمله بازار",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "دو ده دان هر دو کون دو جهان را",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دو دهانه (یا دو عالم) هر دو جهان چه اهمیتی دارد؟ دهن (یا وجود) او (سالار) خود، محور همه چیز است."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "چه باشد ده که باشد اوش سالار",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "که روح القدس پایش می ببوسید",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح القدس، که بیانگر مقام و مرتبه‌ای بسیار بلند است، مورد احترام قرار گرفته و به او اعلام می‌شود که به پایش آسیب نرساند. این بیان نشان‌دهنده‌ی حرمت و ارزش والا در مقابل موجودات آسمانی و الهی است."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "ندا آمد که پایش را میازار",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "چه کم عقلی بود آن کس که این را",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه بی‌خردی است از کسی که به دلیل جاه و مقامش، به این حرف‌ها بپردازد که به جمع‌آوری مال و ثروت می‌پردازد."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "برای جاه او گوید که مکثار",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "به حق آنک آن شیر حقیقی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به حقیقت، آن شیر واقعی قلب مرا به راحتی شکار کرده است."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "چنین صید دلم کردست اشکار",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "که از تبریز پیغامی فرستی",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت اشاره دارد به این که از تبریز خبری بفرستی که در دل شب‌ها به ما برسد."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "که اینست لابه ما اندر اسحار",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    }
+  ]
+}

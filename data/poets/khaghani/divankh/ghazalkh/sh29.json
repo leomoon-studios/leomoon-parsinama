@@ -1,0 +1,150 @@
+{
+  "Id": 14398,
+  "CatId": 230,
+  "Title": "غزل شمارهٔ ۲۹",
+  "FullTitle": "خاقانی » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۹",
+  "FullUrl": "/khaghani/divankh/ghazalkh/sh29",
+  "RhymeLetters": "انمسوختهاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از آتش اندیشه و غم‌هایی که به او رسیده سخن می‌گوید. او احساس می‌کند که از سوز و درد درونی‌اش جانش سوخته و این آتش ناشی از غم‌ها و رنج‌هاست. در این اثر، شاعر به تصویرسازی آتش و شعله‌ها اشاره می‌کند تا عمق درد و عذاب خود را بیان کند. او همچنین از جستجوی آرامش و ربودن زبانش به خاطر این آتش‌های درون صحبت می‌کند. به طور کلی، شعر حال و هوای غمگینی دارد و نشان‌دهنده رنج‌های عمیق انسانی است.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمسوختهاست",
+      "PlainText": "زآتش اندیشه جانم سوخته است\r\nوز تف یا رب دهانم سوخته است\r\nاز فلک در سینه من آتشی است\r\nکز سر دل تا میانم سوخته است\r\nسوز غم ها کار من کرده است خام\r\nخامی گردون روانم سوخته است\r\nشعله های آه من در پیش خلق\r\nپرده راز نهانم سوخته است\r\nدولتی جستم وبالم آمده است\r\nآتشی گفتم زبانم سوخته است\r\nدیده ای آتش که چون سوزد پرند\r\nبرق محنت همچنانم سوخته است\r\nشعر من زان سوزناک آمد که غم\r\nخاطر گوهرفشانم سوخته است\r\nدر سخن من نایب خاقانیم\r\nآسمان زین رشک جانم سوخته است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآتش اندیشه جانم سوخته است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز تف «یا رب» دهانم سوخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز فلک در سینهٔ من آتشی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز سر دل تا میانم سوخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوز غم‌ها کار من کرده است خام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخامی گردون روانم سوخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشعله‌های آه من در پیش خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپردهٔ راز نهانم سوخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولتی جستم، وبالم آمده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتشی گفتم، زبانم سوخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیده‌ای آتش که چون سوزد پرند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرق محنت همچنانم سوخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشعر من زان سوزناک آمد که غم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاطر گوهرفشانم سوخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سخن من نایب خاقانیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسمان زین رشک جانم سوخته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زآتش اندیشه جانم سوخته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از شعله‌های تفکر، جانم به آتش درآمده و از گرمای شدید، دهانم نیز آسیب دیده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز تف «یا رب» دهانم سوخته است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از فلک در سینهٔ من آتشی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در درون من آتشی وجود دارد که از قلبم آغاز شده و تا میانهٔ وجودم پیشرفته و همه را سوزانده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز سر دل تا میانم سوخته است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سوز غم‌ها کار من کرده است خام",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درد‌ها و غم‌ها مرا به شدت تحت تاثیر قرار داده و باعث شده که روح و روانم به کلی دچار سوختگی و آزردگی شود."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خامی گردون روانم سوخته است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شعله‌های آه من در پیش خلق",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آتش حسرت من به‌خاطر دیگران، پرده‌ای که رازهای پنهانم را در خود جای داده، را سوزانده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پردهٔ راز نهانم سوخته است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دولتی جستم، وبالم آمده است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به دنبال قدرتی بوده‌ام که حالا بهای آن را می‌پردازم و آتشی که بر زبانم جاری شده، نشان‌دهنده‌ی درد و رنجی است که متحمل شدم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آتشی گفتم، زبانم سوخته است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دیده‌ای آتش که چون سوزد پرند؟",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا تا به حال آتشی را دیده‌ای که وقتی می‌سوزد، پرندگانی را بسوزاند؟ من هم به همین شکل از درد و رنج سوخته‌ام."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "برق محنت همچنانم سوخته است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "شعر من زان سوزناک آمد که غم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شعر من به خاطر درد و ناراحتی‌ای که در دل دارم به وجود آمده است، زیرا غم و اندوه من، مانند گوهرهایی که در آتش سوخته شده‌اند، مرا به شدت آزار می‌دهد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "خاطر گوهرفشانم سوخته است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "در سخن من نایب خاقانیم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در سخن خود نماینده‌ای از خاقان هستم و آسمان به خاطر عشق و شوقی که دارم، به حالت سوختگی درآمده است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "آسمان زین رشک جانم سوخته است",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ]
+}

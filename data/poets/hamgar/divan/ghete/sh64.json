@@ -1,0 +1,135 @@
+{
+  "Id": 120642,
+  "CatId": 2780,
+  "Title": "شمارهٔ ۶۴",
+  "FullTitle": "مجد همگر » دیوان اشعار » قطعات » شمارهٔ ۶۴",
+  "FullUrl": "/hamgar/divan/ghete/sh64",
+  "RhymeLetters": "مبراورم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به ستایش خداوند و عظمت او می‌پردازد. شاعر می‌گوید که به برکت وجود خداوند، عالم به سعادت و شکوفایی دست یافته و هیچ خرابی از عدل او نخواهد آمد. همچنین، او به نقش مثبت نام خداوند در روشنایی و حرارت جهان اشاره می‌کند و معتقد است که وجود او همچون آفتاب و باران، تأثیرگذار است. شاعر تأکید می‌کند که مقام معنوی و روحانی خداوند از جهان مادی فراتر است و او با ذکر جمیل خود، ارزش‌های والایی را به دست می‌آورد. در پایان، از خداوند می‌خواهد که به بنده‌اش، نام و جایگاهی بدهد که جاودانه و بزرگ باشد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تعالم",
+      "PlainText": "ایا مبشر اقبال در ازل داده\r\nبه یمن طالع سعدت بشارت عالم\r\nزبیم عدل تو ناید خرابی از باده\r\nز سعی کلک تو باشد عمارت عالم\r\nز پشت گرمی نام تو شمس شد تابان\r\nوگرنه روز ندادی حرارت عالم\r\nتو آفتابی و باران و بیگمان باشد\r\nز آفتاب و ز باران نظارت عالم\r\nجهان معنوی جاهت ارشدی محسوس\r\nقدم برون نهدی ز استدارت عالم\r\nبه مال ذکر جمیلی خریده ای که ترا\r\nذخیره ییست ورای تجارت عالم\r\nز بنده نام طلب کن که جاودان مانی\r\nجلالتی که چه جای جلالت عالم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایا مبشر اقبال در ازل داده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه یمن طالع سعدت بشارت عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبیم عدل تو ناید خرابی از باده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز سعی کلک تو باشد عمارت عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز پشت گرمی نام تو شمس شد تابان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگرنه روز ندادی حرارت عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو آفتابی و باران و بیگمان باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آفتاب و ز باران نظارت عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان معنوی جاهت ارشدی محسوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقدم برون نهدی ز استدارت عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه مال ذکر جمیلی خریده ای که ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذخیره ئیست ورای تجارت عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بنده نام طلب کن که جاودان مانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجلالتی که چه جای جلالت عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایا مبشر اقبال در ازل داده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا خوشخبری که از پیش آمده، به خاطر شانس خوب و نیکو، به جهانیان بشارت داده است؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به یمن طالع سعدت بشارت عالم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زبیم عدل تو ناید خرابی از باده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از زحمات و تلاش‌های تو، جهانی پر از نظم و زیبایی ساخته می‌شود و هیچ خرابی و نابودی از ستم و بی‌عدالتی تو ناشی نمی‌گردد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز سعی کلک تو باشد عمارت عالم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز پشت گرمی نام تو شمس شد تابان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از پشت نام پر نور تو، شمس (خورشید) درخشید و روشن شد و اگر نبود، تو روزی به عالم نمی‌دادی و حرارت و گرما نمی‌آفریدی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وگرنه روز ندادی حرارت عالم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تو آفتابی و باران و بیگمان باشد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو مانند آفتاب و بارانی، و بی‌شک، وجود تو بر همه چیز تأثیر می‌گذارد و دنیای اطرافت روشنایی و زندگی می‌بخشد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ز آفتاب و ز باران نظارت عالم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جهان معنوی جاهت ارشدی محسوس",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در عرصه‌ی معنوی و معنای عمیق زندگی پیشرفت کنی، به گونه‌ای محسوس و قابل لمس از قدرت و اصالت خود خارج خواهی شد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "قدم برون نهدی ز استدارت عالم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "به مال ذکر جمیلی خریده ای که ترا",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو چیزی ارزشمند و زیبایی را به دست آورده‌ای که این دارایی فراتر از تمام تجارت‌های این دنیا برایت سودمند است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ذخیره ئیست ورای تجارت عالم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ز بنده نام طلب کن که جاودان مانی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خدمتگزار نام بخواه که جلال و شکوه تو همیشه باقی است، که در برابر عظمت تو، عظمتی در جهان وجود ندارد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "جلالتی که چه جای جلالت عالم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

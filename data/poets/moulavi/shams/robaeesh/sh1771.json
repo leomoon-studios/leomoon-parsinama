@@ -1,0 +1,60 @@
+{
+  "Id": 31229,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۷۷۱",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۷۷۱",
+  "FullUrl": "/moulavi/shams/robaeesh/sh1771",
+  "RhymeLetters": "دهای",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با نگاهی به زندگی و بازی‌های آن، به معشوق خود اشاره می‌کند و از او می‌خواهد که در این مجلس که سرشار از زندگی و شادی است، حاضر شود و خود را ناراحت نکند. او به یاد زیبایی‌های سوسن و سرو اشاره می‌کند و بیان می‌کند که بنده غم و اندوه شده است چون معشوق به مقام و جایگاهی دست یافته و از این رو در اندوه به سر می‌برد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دهای",
+      "PlainText": "ای آنکه حریف بازی ما بده ای\r\nاین مجلس جانست چرا تن زده ای\r\nچون سوسن و سرو از غم آزاد بدی\r\nبنده ی غم از آن شدی که خواجه شده ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه حریف بازی ما بده‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین مجلس جانست چرا تن زده‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سوسن و سرو از غم آزاد بدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنده ی غم از آن شدی که خواجه شده‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای آنکه حریف بازی ما بده‌ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در بازی ما همراهی می‌کنی، این مجلس تنها جان و زندگی است. چرا خود را از آن دور کرده‌ای؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این مجلس جانست چرا تن زده‌ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون سوسن و سرو از غم آزاد بدی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که مانند سوسن و سرو از غم رهایی یافتم، بنده درد و رنج ناشی از غم بودم و این حال من به این خاطر بود که به مقام بالا و خواجگی رسیده‌ای."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بنده ی غم از آن شدی که خواجه شده‌ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

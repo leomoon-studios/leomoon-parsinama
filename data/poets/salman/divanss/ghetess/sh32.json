@@ -1,0 +1,210 @@
+{
+  "Id": 38831,
+  "CatId": 1135,
+  "Title": "قطعه شمارهٔ ۳۲",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » قطعات » قطعه شمارهٔ ۳۲",
+  "FullUrl": "/salman/divanss/ghetess/sh32",
+  "RhymeLetters": "اننشست",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره بلقیس ثانی (ملکه سبا) و ویژگی‌های اوست. شاعر با زبان شاعرانه از مقام بلقیس و محبت او سخن می‌گوید و توصیفاتی از لطافت و کرامت او می‌کند. شاعر به خورشید مهر او و تاثیرات نشاط‌آور او بر آسمان اشاره می‌کند و می‌گوید که نام او بر گل‌ها نشسته و به مملکت شکوفایی و سرسبزی امید می‌بخشد. \n\nشاعر همچنین به اسب و مرکب‌هایش اشاره می‌کند و از آرزوی خود برای داشتن اسبی نیرومند و مناسب صحبت می‌کند. او به دنبال اسبی است که توانایی راندن و خدمات شایسته را داشته باشد تا در کنار بلقیس قرار گیرد. در نهایت، شاعر به سایه امن و امان بلقیس اشاره می‌کند و آرزو دارد در زیر بمشیت و حکمرانی او زندگی کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اننشست",
+      "PlainText": "بلقیس ثانی ای که صد پایه رای تو \r\nبالای دست را بعه آسمان نشست \r\nلطفت به آستین کرم پاک می کند \r\nگردی که گرد دامن آخر زمان نشست \r\nخورشید مهر توست که در جان چرخ تافت \r\nگوهر حدیث توست که در طبع کان نشست \r\nگردی است کز نشاط تو برخاست آسمان \r\nآنگه به خدمت آمد و بر آستان نشست \r\nنام کنیزکی تو بر خود نهاد گل \r\nزان بر سریر مملکت بوستان نشست \r\nشاها امید بود که داعی به دولتت \r\nبر مرکبی بلند جوان روان نشست \r\nاسپیم پیر کوته کاهل همی دهند \r\nاسبی نه آنچنان که توانم بران نشست \r\nچون کلک مرکبی سیه و سست و لاغر است \r\nجهل مرکب است بر اسبی چنان نشست \r\nاز بنده مهتر است به ده سال و راستی \r\nگستاخی است بر زبر مهتران نشست \r\nاسب سیه نخواهم و خواهم به دولتت \r\nبر خنگ باد سرعت آتش عنان نشست \r\nور نیست خنگ نیک بفرمای تا مرا \r\nاسبی چنان دهند که بر وی توان نشست \r\nظلت ظلیل باد که گیتی به دولتت \r\nدر سایه مظله امن و امان نشست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلقیس ثانی ای که صد پایه رای تو \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالای دست را بعه آسمان نشست \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلطفت به آستین کرم پاک می‌کند \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردی که گرد دامن آخر زمان نشست \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید مهر توست که در جان چرخ تافت \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوهر حدیث توست که در طبع کان نشست \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردی است کز نشاط تو برخاست آسمان \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنگه به خدمت آمد و بر آستان نشست \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنام کنیزکی تو بر خود نهاد گل \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان بر سریر مملکت بوستان نشست \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها امید بود که داعی به دولتت \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر مرکبی بلند جوان روان نشست \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسپیم پیر کوته کاهل همی دهند \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسبی نه آنچنان که توانم بران نشست \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون کلک مرکبی سیه و سست و لاغر است \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهل مرکب است بر اسبی چنان نشست \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بنده مهتر است به ده سال و راستی \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگستاخی است بر زبر مهتران نشست \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسب سیه نخواهم و خواهم به دولتت \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر خنگ باد سرعت آتش عنان نشست \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور نیست خنگ نیک بفرمای تا مرا \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسبی چنان دهند که بر وی توان نشست \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eظلت ظلیل باد که گیتی به دولتت \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سایه مظله امن و امان نشست \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 12
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بلقیس ثانی ای که صد پایه رای تو ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای بلقیس ثانی، تو که حکم و نظر تو همچون پایه‌ای محکم، آسمان را در دست تو قرار داده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بالای دست را بعه آسمان نشست ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "لطفت به آستین کرم پاک می‌کند ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لطفت به آستینِ کرم، ناپاکی‌ها و غم‌هایی که در دامن زمانه جمع شده را پاک می‌کند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گردی که گرد دامن آخر زمان نشست ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خورشید مهر توست که در جان چرخ تافت ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید محبت تو در دل آسمان نورافشانی می‌کند و سخنان تو همچون گوهری در دل زمین جای دارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گوهر حدیث توست که در طبع کان نشست ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گردی است کز نشاط تو برخاست آسمان ",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بخشی از شادمانی و سرزندگی تو به قدری تاثیرگذار است که آسمان نیز به شوق و سرور به خدمت تو می‌آید و در درگاه تو حضور می‌یابد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آنگه به خدمت آمد و بر آستان نشست ",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نام کنیزکی تو بر خود نهاد گل ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نام کنیزک تو مانند گلی زیبا بر روی خودت قرار گرفته و به همین دلیل بر تخت پادشاهی که به مانند یک باغ سرسبز است، نشسته‌ای."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زان بر سریر مملکت بوستان نشست ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "شاها امید بود که داعی به دولتت ",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، امیدوار بودم که دعوت‌کننده به فرمانروایی‌ات بر اسبی بلند و جوان به سفر آمده است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بر مرکبی بلند جوان روان نشست ",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "اسپیم پیر کوته کاهل همی دهند ",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستی را که در سن و سال بالاست و تنبل است، اسبی می‌دهند که فقط مناسب او نیست و من می‌توانم برانم، اما این اسب برای او مناسب نیست."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "اسبی نه آنچنان که توانم بران نشست ",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "چون کلک مرکبی سیه و سست و لاغر است ",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مثل این است که اگر مرکبی سیاه و ضعیف و ناتوان باشد، بر آن سوار شدن نشانه نادانی است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "جهل مرکب است بر اسبی چنان نشست ",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "از بنده مهتر است به ده سال و راستی ",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به مدت ده سال، شخصی که در مقام و موقعیت پایین‌تری قرار دارد، از کسی که در مقام بالاتری است برتر شده است و این خود نشان از بی‌احترامی و گستاخی دارد که بر جمع معتبران نشسته است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "گستاخی است بر زبر مهتران نشست ",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "اسب سیه نخواهم و خواهم به دولتت ",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من اسب سیاه نمی‌خواهم، بلکه به برکت و خوشبختی تو، بر سرعت آتش، افسار را در دست خواهم گرفت."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "بر خنگ باد سرعت آتش عنان نشست ",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "ور نیست خنگ نیک بفرمای تا مرا ",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی نادان نباشد، مهربانی کن و به من بگو تا اسبی مثل این به من بدهند که بتوانم بر آن سوار شوم."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "اسبی چنان دهند که بر وی توان نشست ",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "ظلت ظلیل باد که گیتی به دولتت ",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد سایه‌پناهی بر گیتی افکنده است و در سایه‌ امن و امان تو، دنیا در آرامش قرار گرفته است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "در سایه مظله امن و امان نشست ",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    }
+  ]
+}

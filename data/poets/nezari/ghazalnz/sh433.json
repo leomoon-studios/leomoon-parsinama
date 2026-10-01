@@ -1,0 +1,135 @@
+{
+  "Id": 70663,
+  "CatId": 2046,
+  "Title": "شمارهٔ ۴۳۳",
+  "FullTitle": "حکیم نزاری » غزلیات » شمارهٔ ۴۳۳",
+  "FullUrl": "/nezari/ghazalnz/sh433",
+  "RhymeLetters": "رد",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این شعر بیان کنندهٔ اهمیت پیروی از رهروان و پیشگامان در مسیر زندگی است. شاعر می‌گوید که کسی که همراه با پیشینیان گام برمی‌دارد، ارزش دو عالم را ندارد و در برابر مشکلات نباید غمگین باشد. هرچند دنیا ممکن است بر طبق مذهب نباشد، اما انسان باید به یقین و ایمان خود پایبند بماند. او همچنین بر این نکته تأکید می‌کند که عقل انسانی پس از تجربهٔ زخم‌های زندگی، کمتر به عشق و معنویت نزدیک می‌شود. در نهایت، این شعر به ما یادآوری می‌کند که نباید به ترک دنیا و مسائل مادی مشغول شویم و باید از ستم و فرومایگی بپرهیزیم، زیرا که راه راست و صحیح در پیروی از پیشینیان است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "هر که با سابقان قدم سپرد\r\nهر دو عالم به یک درم نخرد\r\nگو جهان بر خلاف مذهب باش\r\nموقن البته هیچ غم نخورد\r\nغلط احول است قرابه\r\nبود و نابود را به هم شمرد\r\nبه همه حال هست مطلق را\r\nنیست بیند چو از عدم نگرد\r\nعقل چون زخم امتحان خورده است\r\nبر سر کوی عشق کم گذرد\r\nسخره دل مشو که نفس شریف\r\nاز فرومایگان ستم نبرد\r\nپیش ما خود نزار یا نسزد\r\nهر که با سابقان قدم سپرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که با سابقان قدم سپرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دو عالم به یک درم نخرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگو جهان بر خلاف مذهب باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموقن البته هیچ غم نخورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغلط احول است قرابه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود و نابود را به هم شمرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه همه حال هست مطلق را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست بیند چو از عدم نگرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل چون زخم امتحان خورده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر کوی عشق کم گذرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخره دل مشو که نفس شریف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز فرومایگان ستم نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش ما خود نزار یا نسزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر که با سابقان قدم سپرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر که با سابقان قدم سپرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که با پیشگامان و افراد بزرگ قدم بردارد، به ارزش واقعی زندگی و دانش پی می‌برد و نمی‌تواند این دو دنیا را با چیزی کم‌ارزش‌تر معامله کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هر دو عالم به یک درم نخرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گو جهان بر خلاف مذهب باش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه دنیا بر خلاف عقاید و اصول ما پیش می‌رود، اما مطمئن باش که هیچ دلیلی برای نگرانی وجود ندارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "موقن البته هیچ غم نخورد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غلط احول است قرابه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که اشتباهی در قضاوت وجود دارد؛ گلاب و شراب را نمی‌توان با یکدیگر مقایسه کرد و هیچ‌کدام از آن‌ها نمی‌توانند به جای دیگری به حساب آیند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بود و نابود را به هم شمرد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به همه حال هست مطلق را",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر شرایطی، مطلق همیشه وجود دارد و به چشم نمی‌آید، مگر زمانی که از عدم خارج شود."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نیست بیند چو از عدم نگرد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عقل چون زخم امتحان خورده است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل پس از تجربه‌های سخت و آزمایش‌های متعدد، در شور و شوق عشق کمتر حاضر می‌شود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بر سر کوی عشق کم گذرد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "سخره دل مشو که نفس شریف",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با دل خود بازی نکن، زیرا نفس والا و محترم نمی‌تواند از افراد پست و بی‌ارزش رنج و ظلم بکشد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از فرومایگان ستم نبرد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "پیش ما خود نزار یا نسزد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که با افراد با سابقه و بزرگ‌تر از خود قدم بزند، نباید خود را کمتر از آن‌ها بداند یا خود را ناچیز فرض کند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "هر که با سابقان قدم سپرد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "Id": 96317,
+  "CatId": 2478,
+  "Title": "شمارهٔ  ۵۴",
+  "FullTitle": "ابوالحسن فراهانی » دیوان اشعار » رباعیات » شمارهٔ  ۵۴",
+  "FullUrl": "/abolhasan/divan/robaee/sh54",
+  "RhymeLetters": "ارینبرد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر از ناتوانی دلش در پیدا کردن راهی برای عشق و احساساتش می‌گوید. دلش به شدت غمگین است و نمی‌تواند بار سنگین غم را تحمل کند. او همچنین اشاره می‌کند که هیچ چیز نمی‌تواند غبار غم را از دلش بزداید، مانند سیلی که همیشه در دلش جاری است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارینبرد",
+      "PlainText": "بیچاره دلم راه به کاری نبرد\r\nراهی بسر کوه نگاری نبرد\r\nاز دل نبرد غبار غم سیل سرشک\r\nمن سیل ندیدم که غباری نبرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیچاره دلم راه به کاری نبرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراهی بسر کوه نگاری نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دل نبرد غبار غم سیل سرشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن سیل ندیدم که غباری نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیچاره دلم راه به کاری نبرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل بیچاره‌ام نمی‌داند چگونه باید رفتار کند، هیچ راهی برای رسیدن به محبوبی که همچون کوهی زیبا و دلربا است، ندارد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راهی بسر کوه نگاری نبرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دل نبرد غبار غم سیل سرشک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دل پر درد و غم من اشک‌های زیادی به راه افتاده است؛ اما هرگز هیچ سیلی را ندیدم که نتواند غبار غم را از بین ببرد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من سیل ندیدم که غباری نبرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

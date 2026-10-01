@@ -1,0 +1,585 @@
+{
+  "Id": 14088,
+  "CatId": 214,
+  "Title": "قصیدهٔ شمارهٔ ۱۹۹",
+  "FullTitle": "ناصرخسرو » دیوان اشعار » قصاید » قصیدهٔ شمارهٔ ۱۹۹",
+  "FullUrl": "/naserkhosro/divann/ghaside-naser/sh199",
+  "RhymeLetters": "ن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن شاعرانه به توصیف وضعیتی پیچیده و خسران در زندگی انسانی و اجتماعی می‌پردازد. شاعر از افسران و قدرت‌های حاکم سخن می‌گوید که در حالی که بر جهان تسلط دارند، خودشان نیز در تیره‌روزی و ناامیدی گرفتارند. \n\nشاعر از حال و هوای بهاری و زیبایی‌های طبیعت یاد می‌کند، اما این زیبایی‌ها در مواجهه با فساد و کج‌روی‌های انسانی رنگ می‌بازند. او به ناپایداری زندگی، بی‌وفایی و عدم آرامش اشاره می‌کند. در نهایت، شاعر به نوعی از دعوت به بیداری و آگاهی از واقعیت‌های تلخ زندگی و همچنین برقراری عدالت می‌پردازد، با انتقادهایی به وضع موجود و فساد در حکومت و دین، و ابراز آرزوهایی برای تغییر.",
+  "Metre": {
+    "Id": 31,
+    "Rhythm": "مفعول مفاعلن مفاعیلن (هزج مسدس اخرب مقبوض)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ن",
+      "PlainText": "ای افسر کوه و چرخ را جوشن\r\nخود تیره به روی و فعل تو روشن\r\nچون باد سحر تو را برانگیزد\r\nدیوی سیهی به لولو آبستن\r\nوانگه که تهی شدی ز فرزندان\r\nچون پنبه شوی به کوه بر خرمن\r\nامروز به آب چشم تو حورا\r\nدر باغ بشست سبزه پیراهن\r\nوز گوهر و زر مخنقه و یاره\r\nدر کرد به دست و بست بر گردن\r\nحورا که شنود ای مسلمانان\r\nپرورده به آب چشم آهرمن\r\nدشت از تو کشید مفرش وشی\r\nچرخ از تو خزید در خز ادکن\r\nبا باد چو بیدلان همی گردی\r\nنه خواب و قرار و نه خور و مسکن\r\nگه همچو یکی پر آتش اژدرها\r\nگه همچو یکی پر آب پرویزن\r\nیک چند کنون لباس بد مهری\r\nاز دلت همی بباید آهختن\r\nزیرا که ز دشت باد نوروزی\r\nبربود سپید خلعت بهمن\r\nوآمیخته شد به فر فروردین\r\nبا چندن سوده آب چون سوزن\r\nاکنون نچرد گوزن بر صحرا\r\nجز سنبل و کرویا و آویشن\r\nبازی نکند مگر به جماشی\r\nبا زلف بنفشه عارض سوسن\r\nچون روی منیژه شد گل سوری\r\nسوسن به مثل چو خنجر بیژن\r\nباد سحری به سحر ماهر شد\r\nبربود ز خلق دل به مکر و فن\r\nمفتی و فقیه و عابد و زاهد\r\nگشتند همه دنان به گرد دن\r\nگر بیدل و مست خلق شد یارب\r\nچون است که مانده ام به زندان من\r\nمن رانده بهم چو پیش گه باشد\r\nطنبوری و پای کوب و بربط زن\r\nاز بهر خدای سوی این دیوان\r\nیکی بنگر به چشم دلت ای سن\r\nده جای به زر عمامه مطرب\r\nصد جای دریده موزه مؤذن\r\nحاکم به چراغ در بس از مستی\r\nاز دبه مزگت افگند روغن\r\nزین پایگه زوال هر روزی\r\nسر بر نکند ز مستی آن کودن\r\nور مرغ بپرد از برش گوید\r\nپری برکن به پیش من بفگن\r\nوز بخل نیوفتد به صد حیلت\r\nاز مشت پر ارزنش یکی ارزن\r\nبی رشوت اگر فرشته ای گردی\r\nگرد در او نشایدت گشتن\r\nچون رشوه به زیر زانوش در شد\r\nصد کاج قوی به تارکش بر زن\r\nحاکم درخورد شهریان باید\r\nنیکو نبود فرشته در گلخن\r\nنشناسم از این عظیم گوباره\r\nجز دشمن خویش به مثل یک تن\r\nگویند چرا چو ما نمی باشی\r\nبر آل رسول مصطفی دشمن\r\nگفتار محمد رسول الله\r\nواندر دل کینه چون که قارن\r\nدیوانه شده ست مردم اندر دین\r\nآن زین سو باز وین از آن سو زن\r\nبی بند نشایدی یکی زینها\r\nگر چند به نرخ زر شدی آهن\r\nای آنکه به امر توست گردنده\r\nاین گنبد پر چراغ بی روزن\r\nاز گرد من این سپاه دیوان را\r\nبه قدرت و فضل خویش بپراگن\r\nجز آنکه به پیش تو همی نالم\r\nمن پیش که دانم این سخن گفتن\r\nحاکم به میان خصم و آن من\r\nپیغمبر توست روز پاداشن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای افسر کوه و چرخ را جوشن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود تیره به روی و فعلِ تو روشن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون باد سحر تو را برانگیزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیوی سیهی به لولو آبستن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوانگه که تهی شدی ز فرزندان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون پنبه شوی به کوه بر خرمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز به آب چشم تو حورا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر باغ بشست سبزه پیراهن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز گوهر و زر، مخنقه و یاره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کرد به دست و بست بر گردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحورا که شنود، ای مسلمانان،\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرورده به آبِ چشمِ آهرمن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدشت از تو کشید مفرش وَشّی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرخ از تو خزید در خز ادکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا باد چو بیدلان همی گردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه خواب و قرار و نه خور و مسکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه همچو یکی پر آتش اژدرها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه همچو یکی پر آب پرویزن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک چند کنون لباس بد مهری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دلت همی بباید آهختن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزیرا که ز دشت باد نوروزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبربود سپید خلعت بهمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآمیخته شد به فرِّ فروردین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا چندن سوده آب چون سوزن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاکنون نچرد گوزن بر صحرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز سنبل و کَرویا و آویشن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازی نکند مگر به جمّاشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا زلف بنفشه عارض سوسن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون روی منیژه شد گل سوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوسن به مثل چو خنجر بیژن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد سحری به سحر ماهر شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبربود ز خلق دل به مکر و فن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمفتی و فقیه و عابد و زاهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشتند همه دنان به گرد دن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بیدل و مست خلق شد یارب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون است که مانده‌ام به زندان من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن رانده بهم چو پیش گَه باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطنبوری و پای‌کوب و بربط‌زن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بهر خدای سوی این دیوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکّی بنگر به چشم دلْت، ای سَن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eده جای به زر عِمامهٔ مطرب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد جای دریده موزهٔ مؤذن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاکم به چراغ در بس از مستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دبهٔ مزگت افگند روغن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین پایگه زوال هر روزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر بر نکند ز مستی آن کودن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور مرغ بپرّد از برش گوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرّی برکن به پیش من بفگن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز بخل نیوفتد به صد حیلت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز مشت پر ارزنش یکی ارزن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌رشوت اگر فرشته‌ای گردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد در او نشایدت گشتن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون رشوه به زیر زانوش در شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد کاج قوی به تارکش بر زن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاکم درخورد شهریان باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیکو نبود فرشته در گلخن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشناسم از این عظیم گوباره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز دشمن خویش به مَثَل یک تن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند «چرا چو ما نمی‌باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آل رسول مصطفی دشمن؟»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتار، محمد رسول الله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواندر دل، کینه چون کُه قارن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیوانه شده‌ست مردم اندر دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن زین‌سو باز وین از آن‌سو زن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌بند نشایدی یکی زینها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر چند به نرخ زر شدی آهن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه به امر توست گردنده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین گنبد پر چراغ بی‌روزن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز گرد من این سپاه دیوان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه قدرت و فضل خویش بپراگن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز آنکه به پیش تو همی نالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن پیش که دانم این سخن گفتن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاکم به میان خصم و آن من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیغمبر توست روز پاداشن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 37
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای افسر کوه و چرخ را جوشن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای فرمانده کوه و آسمان، تو زره‌ای تار بر تن داری، اما کارهایت درخشان و روشن است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود تیره به روی و فعلِ تو روشن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون باد سحر تو را برانگیزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که نسیم صبح تو را بیدار کند، موجودی زشت و سیاه همچون دیو به دنبال تو خواهد آمد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیوی سیهی به لولو آبستن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "وانگه که تهی شدی ز فرزندان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که از داشتن فرزندان خالی شدی، مانند پنبه‌ای که در کوه بر روی کاه و خوراک جمع می‌شود، می‌شوی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون پنبه شوی به کوه بر خرمن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "امروز به آب چشم تو حورا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز اشک‌های تو مانند حورا، سبزه‌ها را در باغ شستشو داد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در باغ بشست سبزه پیراهن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "وز گوهر و زر، مخنقه و یاره",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او از جواهر و طلا، زنجیری درست کرد و آن را به دور گردن خود آویخت."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در کرد به دست و بست بر گردن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "حورا که شنود، ای مسلمانان،",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حوری که صدای او را می‌شنوید، ای مسلمانان، آیا شما را نمی‌ترساند که او از آبی غم‌انگیز و افسونگر به وجود آمده است؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "پرورده به آبِ چشمِ آهرمن؟",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دشت از تو کشید مفرش وَشّی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دشت به خاطر تو فرش خود را گستراند و آسمان به خاطر تو به آرامی خم شد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چرخ از تو خزید در خز ادکن",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "با باد چو بیدلان همی گردی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مثل بیدهای لرزان در باد، در حال گردیدن و چرخش هستی، نه آرامش داری، نه خواب و استراحت پیدا می‌کنی و نه جایی برای سکون و زندگی."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "نه خواب و قرار و نه خور و مسکن",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گه همچو یکی پر آتش اژدرها",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی انسان مانند اژدهایی پرآتش و خشمگین است و گاهی مانند پرویزی که در آب آرام و نرم است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "گه همچو یکی پر آب پرویزن",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "یک چند کنون لباس بد مهری",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کمی از دل خود کینه و ناراحتی را کنار بگذار و به آرامش و مهربانی بگذر."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "از دلت همی بباید آهختن",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "زیرا که ز دشت باد نوروزی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون باد نوروزی از دشت وزید، لباس سفید بهمن را با خود برد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "بربود سپید خلعت بهمن",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "وآمیخته شد به فرِّ فروردین",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز فروردین، زیبایی و طراوت گل ها به شکل زیرکانه‌ای با آب‌های زلال ترکیب شده است، مانند سوزن که در پارچه‌ای نرم می‌درخشد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "با چندن سوده آب چون سوزن",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "اکنون نچرد گوزن بر صحرا",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اکنون دیگر گوشتی در بیابان نمی‌چرخد جز گیاهان خوشبویی مثل سنبل و بره موم و آویشن."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "جز سنبل و کَرویا و آویشن",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "بازی نکند مگر به جمّاشی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها در صورتی به بازی می‌پردازد که با موهای شیدای بنفشه و چهره‌ی زیبا و دلنشین سوسن همراه باشد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "با زلف بنفشه عارض سوسن",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "چون روی منیژه شد گل سوری",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی چهره منیژه مشابه گل زیبای سوسن می‌شود، مانند خنجری است که به بیژن ضربه می‌زند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "سوسن به مثل چو خنجر بیژن",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "باد سحری به سحر ماهر شد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد سحرگاهی با مهارت خاصی وزید و با فریب و نیرنگ، دل مردم را به‌راحتی گرفت."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "بربود ز خلق دل به مکر و فن",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "مفتی و فقیه و عابد و زاهد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه‌ی علمای دین، عابران و زاهدان به دور مال و دنیا جمع شدند."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "گشتند همه دنان به گرد دن",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "گر بیدل و مست خلق شد یارب",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فردی بی‌پروا و سرمست از شادی مردم شده، خداوند، چرا من در این زندان مانده‌ام؟"
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "چون است که مانده‌ام به زندان من",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "من رانده بهم چو پیش گَه باشد",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همچون شخصی طرد شده هستم که در مقابل ساز و پایکوبی دیگران قرار دارم."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "طنبوری و پای‌کوب و بربط‌زن",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "از بهر خدای سوی این دیوان",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای خدا به این مجنون نگاهی بینداز با چشم دل، ای سن."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "یکّی بنگر به چشم دلْت، ای سَن",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "ده جای به زر عِمامهٔ مطرب",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دو خط به مقایسه‌ی دو نوع حرفه و سبک زندگی متفاوت می‌پردازد. در اینجا، شخصی به صفت‌های دو قشر از جامعه اشاره می‌کند: یکی هنرمندان و مطرب‌ها که به زرق و برق و زیبایی‌های ظاهری اهمیت می‌دهند و دیگری مؤذنی که بیشتر به وظیفه و آداب دینی توجه دارد. در واقع، شاعر با کنایه می‌خواهد بگوید که توجه به زیبایی و هنر در زندگی ارزش بیشتری دارد نسبت به ظواهر و تشریفات مذهبی. بنابراین، او به عمامه‌ای که برای مطربان زینت است اشاره می‌کند و همچنین به پوشش مؤذن که شاید بیشتر در معرض آسیب و سادگی قرار دارد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "صد جای دریده موزهٔ مؤذن",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "حاکم به چراغ در بس از مستی",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حاکم در حالی که به خاطر مستی چراغ در دست دارد، روغن را از دبه‌ای که در کنار مشغولیتش است، می‌ریزد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "از دبهٔ مزگت افگند روغن",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "زین پایگه زوال هر روزی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ روزی از این جا نمی‌تواند سر برآورد، چون آن نادان از نوشیدن شراب مست است."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "سر بر نکند ز مستی آن کودن",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "ور مرغ بپرّد از برش گوید",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مرغی از بالای سر او پر بزند، می‌گوید که پرش را به جلو پرتاب کن و پیش من بیاوری."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "پرّی برکن به پیش من بفگن",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "وز بخل نیوفتد به صد حیلت",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی بخیل باشد، با هر ترفند و راهی که به کار ببرد، تنها می‌تواند یک دانه ارزن از مشت پرش را بیرون بیاورد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "از مشت پر ارزنش یکی ارزن",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "بی‌رشوت اگر فرشته‌ای گردی",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بدون داشتن رشوه، فرشته‌ای باشی، نمی‌توانی در آنجا به گردش درآیی."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "گرد در او نشایدت گشتن",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "چون رشوه به زیر زانوش در شد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که فساد و رشوه‌خواری به نفوذ در امور اجتماعی و سیاسی راه می‌یابد، فساد مانند یک درخت قوی و ریشه‌دار رشد می‌کند و به تدریج اثرات منفی‌اش را در جامعه بروز می‌دهد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "صد کاج قوی به تارکش بر زن",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "حاکم درخورد شهریان باید",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حاکم باید برای مردم شایسته و شایسته عمل کند و مانند فرشته‌ای باشد که در جایگاه نیکو زندگی می‌کند، نه در محیطی آلوده و ناپاک."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "نیکو نبود فرشته در گلخن",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "نشناسم از این عظیم گوباره",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌توانم هیچ‌کس را به جز دشمن خود در این دنیای بزرگ بشناسم، مانند یک فرد تنها که در این جمعیت گم شده است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "جز دشمن خویش به مَثَل یک تن",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "گویند «چرا چو ما نمی‌باشی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند: «چرا تو مانند ما بر دشمنان آل رسول خدا نیستی؟»"
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "بر آل رسول مصطفی دشمن؟»",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "گفتار، محمد رسول الله",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتار پیامبر محمد (ص) بر زبان جاری است، اما در دل کینه‌ای وجود دارد که مانند قارن است."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "واندر دل، کینه چون کُه قارن",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "دیوانه شده‌ست مردم اندر دین",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم به خاطر دین دچار دیوانگی شده‌اند؛ از یک طرف به این سو و از طرف دیگر به آن سو منتقل می‌شوند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "آن زین‌سو باز وین از آن‌سو زن",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "بی‌بند نشایدی یکی زینها",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باید به یاد داشته باشی که بی‌قیدی و رها بودن در کارها ناپسند است، حتی اگر چندین چیز با ارزش و گران قیمت به دست آوری. "
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "گر چند به نرخ زر شدی آهن",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "ای آنکه به امر توست گردنده",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آن کسی که به فرمان تو، این گنبد پر نور و روشن، بدون روزنه‌ها می‌چرخد و حرکت می‌کند."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "این گنبد پر چراغ بی‌روزن",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "از گرد من این سپاه دیوان را",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معنی است که فردی که صحبت می‌کند، با توانایی و فضیلت خود، نیروی دیوان و دشمنان را از دور خود پراکنده و دور کند. به عبارتی دیگر، او به قدرت و استعداد خود بر دشمنان غلبه می‌کند و آنها را فراری می‌دهد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "به قدرت و فضل خویش بپراگن",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "جز آنکه به پیش تو همی نالم",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز به تو نمی‌توانم شکایت کنم، چون می‌دانم که این حرف‌ها را باید با تو بزنم."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "من پیش که دانم این سخن گفتن؟",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "حاکم به میان خصم و آن من",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حاکم در میان دشمنان من قرار دارد و آن راهنمای من، شبیه پیامبر توست، روزی که پاداش‌ها تقسیم می‌شوند."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "پیغمبر توست روز پاداشن",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    }
+  ]
+}

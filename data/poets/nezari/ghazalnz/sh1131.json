@@ -1,0 +1,165 @@
+{
+  "Id": 73961,
+  "CatId": 2046,
+  "Title": "شمارهٔ ۱۱۳۱",
+  "FullTitle": "حکیم نزاری » غزلیات » شمارهٔ ۱۱۳۱",
+  "FullUrl": "/nezari/ghazalnz/sh1131",
+  "RhymeLetters": "ابی",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: این شاعر در این شعر به معشوق خود اشاره می‌کند و زیبایی و جذابیت او را توصیف می‌کند. او از عشق و اضطرابی که در دل دارد سخن می‌گوید و بر تأثیرات عشق بر زندگی‌اش تأکید می‌کند. شاعر نسبت به درد و رنجی که از دوری معشوق می‌کشد، ناله می‌کند و خواستار نزدیک شدن به او و رسیدن به وصال است. در نهایت، او از معشوق می‌خواهد که اندکی تأمل کرده و نگذارد عشق به فتنه و آشوبی بینجامد.",
+  "Metre": {
+    "Id": 4,
+    "Rhythm": "مفعول فاعلاتن مفعول فاعلاتن (مضارع مثمن اخرب)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابی",
+      "PlainText": "ای صورت خیالت در پیش من شرابی\r\nوی پرتو جمالت در چشمم آفتابی\r\nاز چشم پرخمارت در مغز من بخاری\r\nوز زلف تاب دارت در جانم اضطرابی\r\nشب های تا به روزم از دیده رفته سیلی\r\nوز تاب آتش تب در دل فتاده تابی\r\nاز سوز سینه بسته وز درد دل گشاده\r\nبر هر نفس شراری وز هر مژه زهابی\r\nحلاج وار خواهم بر دار عشق خود را\r\nوز حلقه های زلفت در حلق من طنابی\r\nیک ره نصیحتی کن خورشید حسن خود را\r\nتا فتنه برنخیزد گو برفکن نقابی\r\nسوز تو در سر من صوری ست در قیامت\r\nمهر تو در دل من گنجی ست در خرابی\r\nآخر به کوی وصلت دریوزه چند آرم\r\nیا زود کن ثوابی یا باز ده جوابی\r\nدر کشتن نزاری تعجیل می نمایی\r\nآهسته تر نگارا گر نیست بس شتابی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای صورت خیالت در پیش من شرابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی پرتو جمالت در چشمم آفتابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چشم پرخمارت در مغزِ من بخاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز زلفِ تاب‌دارت در جانم اضطرابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب‌های تا به روزم از دیده رفته سیلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز تابِ آتش تب در دل فتاده تابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سوز سینه بسته وز درد دل گشاده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر هر نفس شراری وز هر مژه زهابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحلاج‌وار خواهم بر دار عشق خود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز حلقه‌های زلفت در حلق من طنابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک ره نصیحتی کن خورشید حسنِ خود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا فتنه برنخیزد گو برفکن نقابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوزِ تو در سرِ من صوری‌ست در قیامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهرِ تو در دل من گنجی‌ست در خرابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآخر به کویِ وصلت دریوزه چند آرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا زود کن ثوابی یا باز ده جوابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کشتن نزاری تعجیل می‌نمایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآهسته‌تر نگارا گر نیست بس شتابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای صورت خیالت در پیش من شرابی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای تصویر خیال تو در برابر من مانند شرابی است و نور زیبایی تو در چشمانم مانند آفتاب می‌تابد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی پرتو جمالت در چشمم آفتابی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از چشم پرخمارت در مغزِ من بخاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگاه عمیق و خمار تو در ذهن من شعله‌ای روشن می‌کند و موهای تابدار تو در روح من اضطرابی ایجاد می‌کند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وز زلفِ تاب‌دارت در جانم اضطرابی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شب‌های تا به روزم از دیده رفته سیلی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در شب‌های طولانی تا بامداد، اشک‌هایم از چشمانم رفته و در دل من حرارت آتشین عشقی سوزان وجود دارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وز تابِ آتش تب در دل فتاده تابی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از سوز سینه بسته وز درد دل گشاده",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آتش دل و سوزی که در سینه دارم، هر لحظه شعله‌ای برمی‌افروزم و از هر مژه‌ام، قطره‌ای می‌ریزد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بر هر نفس شراری وز هر مژه زهابی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حلاج‌وار خواهم بر دار عشق خود را",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم مانند حلاج به خاطر عشق خود را بر دار بلا ببندم و از حلقه‌های موی تو، برای خودم طنابی بسازم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "وز حلقه‌های زلفت در حلق من طنابی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "یک ره نصیحتی کن خورشید حسنِ خود را",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک بار در مورد زیبایی و جذبه‌ات نصیحتی کن، تا فتنه و آشفتگی‌ای ایجاد نشود. بهتر است چهره‌ات را بپوشانی."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "تا فتنه برنخیزد گو برفکن نقابی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "سوزِ تو در سرِ من صوری‌ست در قیامت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و احساس تو در وجود من حضوری عمیق دارد که مانند نشانه‌ای در روز قیامت خود را نشان می‌دهد. در دل من، محبت و یاد تو به قدری ارزشمند است که حتی در شرایط نامساعد و ناامیدی همچنان وجود دارد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "مهرِ تو در دل من گنجی‌ست در خرابی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "آخر به کویِ وصلت دریوزه چند آرم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا به در خانه تو بی‌وقفه التماس کنم یا هر چه سریع‌تر پاداشی بدهی یا پاسخی به من بدهی؟"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "یا زود کن ثوابی یا باز ده جوابی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "در کشتن نزاری تعجیل می‌نمایی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، در کار کشتن نزار (عشق) شتاب نکن. بهتر است آرام‌تر پیش بروی، چرا که این شتابی که داری، لازم نیست."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "آهسته‌تر نگارا گر نیست بس شتابی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

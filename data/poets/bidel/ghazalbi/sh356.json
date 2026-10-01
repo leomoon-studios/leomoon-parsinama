@@ -1,0 +1,195 @@
+{
+  "Id": 40990,
+  "CatId": 1401,
+  "Title": "غزل شمارهٔ ۳۵۶",
+  "FullTitle": "بیدل دهلوی » غزلیات » غزل شمارهٔ ۳۵۶",
+  "FullUrl": "/bidel/ghazalbi/sh356",
+  "RhymeLetters": "انافتاب",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف زیبایی و جلال محبوبی می‌پردازد که به عنوان نماینده آفتاب و بهار تجلی می‌کند. شاعر با استفاده از تصاویری مثل سایه، آینه و چمن، نشان می‌دهد که وجود محبوب، نور و زندگی را در جهان پخش کرده است. او همچنین به تضاد میان روشنی صفات محبوب و غفلت انسان‌ها اشاره می‌کند و از تاثیر زیبایی محبوب بر دل‌ها و ذهن‌ها سخن می‌گوید. در نهایت، شاعر با تحیری از زیبایی‌های محبوب، احساسات خود را بیان کرده و به این نتیجه می‌رسد که آن قدس، نور و زیبایی اصلی در دنیا، همان محبوب است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انافتاب",
+      "PlainText": "ای چیده نقش پای تو دکان آفتاب\r\nدر سایه تو ریخته سامان آفتاب\r\nاز طلعت نقاب طلسم بهار صبح\r\nدر جلوه تو آینه ها کان آفتاب\r\nسرو قد تو مصرع موزونی چمن\r\nزلف  کج تو خط پریشان آفتاب\r\nدر مکتبی  که دفتر حسنت رقم زند\r\nیک نقطه است مطلع دیوان آفتاب\r\nهر دیده نیست قابل برق تجلیت\r\nتیغ آزماست پیکر عریان آفتاب\r\nخلق کریم آینه دستگاه اوست\r\nپرتو بس است وسعت دامان آفتاب\r\nشبنم صفت ز خویش برآ تا نظر کنی\r\nوضع جهان به دیده حیران آفتاب\r\nهر صبح چاک پیرهنی تازه می کند\r\nیارب به دست  کیست  گریبان آفتاب\r\nغفلت به چشم صافدلان نور آگهی است\r\nنظاره است لمعه مژگان آفتاب\r\nهر ذره درد از کف خاک فسرده ام\r\nمشق تحیری ز دبستان آفتاب\r\nبیدل ز حسن نوخط او داغ حیرتم\r\nکانجاست دست سایه به دامان آفتاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چیده نقش پای تو دکان آفتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سایهٔ تو ریخته سامان آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز طلعت نقاب طلسم بهار صبح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جلوهٔ تو آینه‌ها کان آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرو قد تو مصرع موزونی چمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلف‌ کج تو خط پریشان آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مکتبی‌ که دفتر حسنت رقم زند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک نقطه است مطلع دیوان آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دیده نیست قابل برق تجلیت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیغ‌آزماست پیکر عریان آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلق کریم آینهٔ دستگاه اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرتو بس است وسعت دامان آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبنم صفت ز خویش برآ تا نظر کنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوضع جهان به دیدهٔ حیران آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر صبح چاک پیرهنی تازه می‌کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیارب به دست‌ کیست‌ گریبان آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغفلت به چشم صافدلان نور آگهی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنظّاره است لمعهٔ مژگان آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر ذره درد از کف خاک فسرده‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشق تحیری ز دبستان آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیدل ز حسن نوخط او داغ حیرتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکانجاست دست سایه به دامان آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 11
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای چیده نقش پای تو دکان آفتاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای سایهٔ تو، نقش پای تو در دکان آفتاب، نظم و ترتیب زندگی را تحت تأثیر خود قرار داده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در سایهٔ تو ریخته سامان آفتاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از طلعت نقاب طلسم بهار صبح",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره زیبای تو مانند طلوع بهار می‌درخشد و آینه‌ها به خاطر تابش تو مانند آفتاب روشن و جلا یافته‌اند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در جلوهٔ تو آینه‌ها کان آفتاب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سرو قد تو مصرع موزونی چمن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قد زیبا و استوارت مانند موزون‌ترین شعر است و زلف‌های کج و آشفته‌ات همچون خطی پریشان در نور خورشید می‌تابد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زلف‌ کج تو خط پریشان آفتاب",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در مکتبی‌ که دفتر حسنت رقم زند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مدرسی که زیبایی‌های تو را ثبت می‌کند، یکی از نشانه‌ها آغازگر کتاب نور خورشید است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یک نقطه است مطلع دیوان آفتاب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هر دیده نیست قابل برق تجلیت",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چشمی نمی‌تواند جلوه‌ی درخشان شمشیرآسا و بدون حجاب آفتاب را ببیند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تیغ‌آزماست پیکر عریان آفتاب",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "خلق کریم آینهٔ دستگاه اوست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آدم‌های بزرگوار و خوب، نمایانگر قدرت و عظمت خداوند هستند. نور و روشنی که از آنها می‌تابد، نشان‌دهنده‌ی بی‌کرانگی و دلسوزی خداوندی است که همچون آفتاب گسترده و فراگیر است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "پرتو بس است وسعت دامان آفتاب",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "شبنم صفت ز خویش برآ تا نظر کنی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به زیبایی و ظرافت شبنم توجه کنی، بی‌تردید وضعیت جهان را با چشمانی حیرت‌زده همچون آفتاب خواهی دید."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "وضع جهان به دیدهٔ حیران آفتاب",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "هر صبح چاک پیرهنی تازه می‌کند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر روز صبح، پیراهنی نو و تازه به تن می‌کند. ای کاش کسی باشد که بتواند گریبان خورشید را بگیرد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "یارب به دست‌ کیست‌ گریبان آفتاب",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "غفلت به چشم صافدلان نور آگهی است",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غفلت برای افرادی که دل‌های پاک و روشن دارند، مانند نوری است که به آنها آگاهی می‌دهد. این غفلت مانند نوری است که از مژگان آنها به سمت خورشید می‌تابد و نظر آنها را جلب می‌کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "نظّاره است لمعهٔ مژگان آفتاب",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "هر ذره درد از کف خاک فسرده‌ام",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هر ذره‌ای از درد را از خاک پژمرده‌ام حس می‌کنم و این احساس، برایم مانند درس‌هایی است که از آفتاب می‌آموزم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "مشق تحیری ز دبستان آفتاب",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "بیدل ز حسن نوخط او داغ حیرتم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیدل از زیبایی خط نو انسان حیران است و نمی‌داند که سایه کجا رفته است، در حالی که آفتاب در دامنش است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "کانجاست دست سایه به دامان آفتاب",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "Id": 4700,
+  "CatId": 99,
+  "Title": "غزل شمارهٔ ۲۰۷۶",
+  "FullTitle": "مولانا » دیوان شمس » غزلیات » غزل شمارهٔ ۲۰۷۶",
+  "FullUrl": "/moulavi/shams/ghazalsh/sh2076",
+  "RhymeLetters": "انهمکن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از معشوق خود می‌خواهد که او را رها نکند و در کنار او باشد. او از تمایلات دنیوی و عذر و بهانه‌ها فاصله می‌گیرد و بر دوستی و عشق تأکید می‌کند. شاعر به این نکته اشاره می‌کند که زندگی پر از دام‌ها و تله‌هاست و باید از آرزوهای بی‌پایه دوری کرد. او دعوت می‌کند که فقط به عشق و معشوق فکر شود و از حواشی خودداری گردد. در پایان، شاعر به سختی عاشقانه‌ای که با فراق همراه است، اشاره می‌کند و می‌گوید هیچ چیزی جز فراق نباید باعث سوختن دل شود.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انهمکن",
+      "PlainText": "به جان تو که از این دلشده کرانه مکن\r\nبساز با من مسکین و عزم خانه مکن\r\nبهانه ها بمیندیش و عذر را بگذار\r\nمرا مگیر ز بالا و خشک شانه مکن\r\nشراب حاضر و دولت ندیم و تو ساقی\r\nبده شراب و دغل های ساقیانه مکن\r\nنظر به روی حریفان بکن که مست تواند\r\nنظر به روزن و دهلیز و آستانه مکن\r\nبجز به حلقه عشاق روزگار مبر\r\nبجز به کوی خرابات آشیانه مکن\r\nببین که عالم دام است و آرزو دانه\r\nبه دام او مشتاب و هوای دانه مکن\r\nز دام او چو گذشتی قدم بنه بر چرخ\r\nبه زیر پای به جز چرخ آستانه مکن\r\nبه آفتاب و به مهتاب التفات مکن\r\nیگانه باش و به جز قصد آن یگانه مکن\r\nمکن قرار تو بی او چو کاسه بر سر آب\r\nمگیر کاسه به هر مطبخی دوانه مکن\r\nزمانه روشن و تاریک و گرم و سرد شود\r\nمقام جز به سرچشمه زمانه مکن\r\nمکن ستایش بر وی عتاب را بمپوش\r\nمده قطایف و آن سیر در میانه مکن\r\nولی چه سود که کار بتان همین باشد\r\nمگو به شعله آتش هلا زبانه مکن\r\nبگو به هرچ بسوزی بسوز جز به فراق\r\nروا نباشد و این یک ستم روانه مکن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه جان تو که از این دلشده کرانه مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبساز با من مسکین و عزم خانه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهانه‌ها بمیندیش و عذر را بگذار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا مگیر ز بالا و خشک شانه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشراب حاضر و دولت ندیم و تو ساقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبده شراب و دغل‌های ساقیانه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظر به روی حریفان بکن که مست تواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنظر به روزن و دهلیز و آستانه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبجز به حلقه عشاق روزگار مبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبجز به کوی خرابات آشیانه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eببین که عالم دام است و آرزو دانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دام او مشتاب و هوای دانه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دام او چو گذشتی قدم بنه بر چرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه زیر پای به جز چرخ آستانه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آفتاب و به مهتاب التفات مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیگانه باش و به جز قصد آن یگانه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمکن قرار تو بی‌او چو کاسه بر سر آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگیر کاسه به هر مطبخی دوانه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزمانه روشن و تاریک و گرم و سرد شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمقام جز به سرچشمه زمانه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمکن ستایش بر وی عتاب را بمپوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمده قطایف و آن سیر در میانه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولی چه سود که کار بتان همین باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگو به شعله آتش هلا زبانه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگو به هرچ بسوزی بسوز جز به فراق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروا نباشد و این یک ستم روانه مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 13
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به جان تو که از این دلشده کرانه مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با جان تو سوگند، نگذار که این دل به دیوار بیفتد. با من بیچاره مدارا کن و تصمیم به دوری نگیر."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بساز با من مسکین و عزم خانه مکن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بهانه‌ها بمیندیش و عذر را بگذار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به عذر و بهانه‌ها فکر نکن و از من دور نشو. ما را از دوری نرنجان و رفتار خشک و بی‌احساسی نداشته باش."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرا مگیر ز بالا و خشک شانه مکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شراب حاضر و دولت ندیم و تو ساقی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شراب آماده است و حال ما خوب است، ای ساقی، شراب بده و از تزویر و نیرنگ خودداری کن."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بده شراب و دغل‌های ساقیانه مکن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نظر به روی حریفان بکن که مست تواند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به چهره رقیبان نگاه کن، زیرا مستی واقعی از تماشا به آنها حاصل می‌شود. اما نگاه کردن به روزنه‌ها و ورودی‌ها را رها کن."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نظر به روزن و دهلیز و آستانه مکن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بجز به حلقه عشاق روزگار مبر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز در جمع عاشقان قدم نگذار و جز در محل خرابات، جایی نیاشین."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بجز به کوی خرابات آشیانه مکن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ببین که عالم دام است و آرزو دانه",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دقت نگاه کن که این دنیا مانند دام است و آرزوها نیز همچون دانه‌هایی هستند که در این دام وجود دارند. پس فریب نخور و به دنبال جذب کردن این دانه‌ها نباش."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "به دام او مشتاب و هوای دانه مکن",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ز دام او چو گذشتی قدم بنه بر چرخ",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی از دام او عبور کردی، قدمت را بر روی چرخ بگذار و فقط به چرخ توجه کن و به هیچ چیز دیگر فکر نکن."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "به زیر پای به جز چرخ آستانه مکن",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "به آفتاب و به مهتاب التفات مکن",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خورشید و ماه توجه نکن، تنها به یک هدف متعهد باش و جز آن هدف به چیز دیگری فکر نکن."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "یگانه باش و به جز قصد آن یگانه مکن",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "مکن قرار تو بی‌او چو کاسه بر سر آب",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چنان رفتار نکن که بدون او آرامش داشته باشی، مانند کاسه‌ای بر سر آب، که به هر آشپزخانه‌ای نمی‌توان وارد شد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "مگیر کاسه به هر مطبخی دوانه مکن",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "زمانه روشن و تاریک و گرم و سرد شود",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمان همیشه تغییر می‌کند و ممکن است حالتی روشن یا تاریک، گرم یا سرد به خود بگیرد. اما از مقام و جایگاه خود تنها به سرچشمه و منبع اصلی تکیه کن و متکی باش."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "مقام جز به سرچشمه زمانه مکن",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "مکن ستایش بر وی عتاب را بمپوش",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ستایش کردن کسی که باید نکوهش شود پرهیز کن و در عین حال برای او عشق و محبتی ابراز نکن. در میانه کار هم نباید دور خوردن و مهمانی برگزار کرد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "مده قطایف و آن سیر در میانه مکن",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "ولی چه سود که کار بتان همین باشد",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ولی چه فایده دارد که کار و کردار معشوقان همین باشد؟ نگو که مانند شعله آتش خود را به خطر می‌اندازید."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "مگو به شعله آتش هلا زبانه مکن",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "بگو به هرچ بسوزی بسوز جز به فراق",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به هر چیزی که می‌سوزی بسوز، اما تنها در مورد دوری و جدایی این کار مناسب نیست و این یک بی‌عدالتی است که انجام ندهی."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "روا نباشد و این یک ستم روانه مکن",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    }
+  ]
+}

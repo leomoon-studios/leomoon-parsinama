@@ -1,0 +1,60 @@
+{
+  "Id": 72526,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۷۸۹",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۷۸۹",
+  "FullUrl": "/kamal/robaeek-kamal/sh789",
+  "RhymeLetters": "ادی",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از آب و شادی دل خود صحبت می‌کند که در چشم معشوقش هیچ توجهی به آن ندارد. همچنین، او از آتش درونی که از آن می‌سوزد یاد می‌کند و می‌گوید که معشوقش او را در مقام دست راست خود قرار داده است. در کل، شاعر احساسات عمیق و درد در روابط عاشقانه را بیان می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادی",
+      "PlainText": "آن آب کزو بود دلم را شادی\r\nد رچشم خودش هیچ محل ننهادی\r\nو آتش که ازوست بر دلم بیدادی\r\nبر منصب دست راست جایش دادی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن آب کزو بود دلم را شادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eد رچشم خودش هیچ محل ننهادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو آتش که ازوست بر دلم بیدادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر منصب دست راست جایش دادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن آب کزو بود دلم را شادی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که آن چیزی که به من شادی و خوشحالی می‌دهد، برای او هیچ اهمیتی ندارد و توجهی به آن نمی‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "د رچشم خودش هیچ محل ننهادی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "و آتش که ازوست بر دلم بیدادی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آتش که از اوست بر دلم بی‌رحمی می‌کند و او را در جایگاه دست راست خود نشاندی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر منصب دست راست جایش دادی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

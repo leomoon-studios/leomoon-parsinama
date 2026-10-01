@@ -1,0 +1,150 @@
+{
+  "Id": 77190,
+  "CatId": 2092,
+  "Title": "شمارهٔ ۶۷۱",
+  "FullTitle": "کمال خجندی » غزلیات » شمارهٔ ۶۷۱",
+  "FullUrl": "/khojandi/ghazalkk/sh671",
+  "RhymeLetters": "ال",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: این شعر از شاعر به زیبایی اشتیاق و حسرت به معشوق را توصیف می‌کند. شاعر بیان می‌کند که بدون حضور معشوق حتی خواب و خیال دلدادگی نیز بی‌معناست. او اشاره می‌کند که برای دیدن محبوبش تنها یک نگاه کافی است و این دیدار برایش اهمیت زیادی دارد. همچنین به زیبایی و جذابیت معشوق اشاره کرده و می‌گوید که اگر معشوق نشان ندهد، سوختگان عشق همچنان به آتش عشق خود ادامه می‌دهند. در نهایت، شاعر در پایان به ساختار شعر و قافیه آن اشاره کرده و از غزل به‌عنوان ابزاری برای بیان احساساتش یاد می‌کند.",
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ال",
+      "PlainText": "بی تو مرا خواب و خیال وصال\r\nآن همه خوابست به چشم و خیال\r\nجانسوی بالای نو بیدله نرفت\r\nمرغ به بالا نرود جز به بال\r\nحاجتم از روی نو یک دیدنست\r\nدور محل نظرست و سؤال\r\nبر ورق گل قلم صنع را\r\nخوشتر از آن نقطه نیفتاد خال\r\nسوختگان روی به آتش نهند\r\nگر تو به جنت ننمایی جمال\r\nجان و سر و هرچه برم پیش تو\r\nهیچ نگری ز من الأ ملال\r\nزلف تو خواهم به تفال گرفت\r\nدال گرفتند مبارک به قال\r\nالامیه گفتم غزلی تا بری\r\nبر گذر قافیه نام کمال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی تو مرا خواب و خیال وصال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن همه خوابست به چشم و خیال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانسوی بالای نو بیدله نرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغ به بالا نرود جز به بال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاجتم از روی نو یک دیدنست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدور محل نظرست و سؤال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر ورق گل قلم صنع را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوشتر از آن نقطه نیفتاد خال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوختگان روی به آتش نهند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر تو به جنت ننمائی جمال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان و سر و هرچه برم پیش تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ نگری ز من الأ ملال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزلف تو خواهم به تفال گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدال گرفتند مبارک به قال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالامیه گفتم غزلی تا بری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر گذر قافیه نام کمال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی تو مرا خواب و خیال وصال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدون تو، نه خواب و نه فکر وصال، همه آنچه در خیال دارم، فقط یک خواب و خیال بی‌اساس است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن همه خوابست به چشم و خیال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جانسوی بالای نو بیدله نرفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی که در زندگی‌اش به دور از خودخواهی و بلندپروازی است، می‌تواند به بالاترین قله‌ها برسد. اما پرنده‌ای که توانایی پرواز دارد، تنها زمانی می‌تواند به آسمان برود که بال داشته باشد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مرغ به بالا نرود جز به بال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حاجتم از روی نو یک دیدنست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به یک نگاه جدید از تو نیازمندم، زیرا دور از دید تو هستم و سوالی در دل دارم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دور محل نظرست و سؤال",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر ورق گل قلم صنع را",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر روی گل، زیبایی و هنر به اندازه‌ای جذاب است که هیچ نقطه‌ای نمی‌تواند به زیبایی یک خال بر آن بیفزاید."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خوشتر از آن نقطه نیفتاد خال",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "سوختگان روی به آتش نهند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن‌هایی که در عشق دچار درد و سوزش‌اند، اگر تو زیبایی‌ات را در بهشت به نمایش نگذاری، به سمت آتش خواهند رفت."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گر تو به جنت ننمائی جمال",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "جان و سر و هرچه برم پیش تو",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جان و سر و هر آنچه دارم را، پیش روی تو قرار می‌دهم و هیچ‌گونه ناراحتی یا خستگی از من نمی‌تراود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هیچ نگری ز من الأ ملال",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "زلف تو خواهم به تفال گرفت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به زلف تو نگاهی عمیق خواهم انداخت و از آن خوشحال و شادمان خواهم شد. این عمل برای من خوش یمن و خوشبختی به همراه خواهد داشت."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "دال گرفتند مبارک به قال",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "الامیه گفتم غزلی تا بری",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به زبان ساده می‌توان گفت: من شعری سرودم تا با کلمات زیبا و قافیه‌های هنرمندانه، به مفهوم کمال اشاره کنم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "بر گذر قافیه نام کمال",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "Id": 123390,
+  "CatId": 2830,
+  "Title": "شمارهٔ ۴۵۲",
+  "FullTitle": "نظیری نیشابوری » دیوان اشعار » غزلیات » شمارهٔ ۴۵۲",
+  "FullUrl": "/naziri/divan/ghazal/sh452",
+  "RhymeLetters": "اناوریم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به درخواست و نیازی عمیق به عواطف و ایمان اشاره دارد. شاعر از معشوقه‌اش می‌خواهد که خود را نشان دهد تا جان تازه‌ای به او ببخشد و او بتواند ایمانش را تقویت کند. به زیبایی‌ها و صداقت عشق اشاره می‌شود و از درد و رنج به عنوان راهی برای دستیابی به درمان و حقیقت یاد می‌شود. شاعر همچنین به ذکر جوانب مختلف عشق و زیبایی‌های زندگی پرداخته و ابراز می‌کند که عشق و زیبایی بی‌انتها و بی‌حد و مرز هستند. در نهایت، با ذکر نیشابور و خراسان، بر اهمیت عشق و زیبایی‌های فرهنگی تأکید دارد.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اناوریم",
+      "PlainText": "رخ نما تا رونما جان آوریم\r\nعرضه کن ایمان که ایمان آوریم\r\nپیش کفر زلف و روی بت شکن\r\nحسن عهد و صدق پیمان آوریم\r\nبوی درمان برده ایم از راه درد\r\nهم ز راه درد درمان آوریم\r\nجان جانان در میان جان بود\r\nاز دم جان بوی جانان آوریم\r\nشاهد مضمون ما عنوان ماست\r\nشرح احوال پریشان آوریم\r\nقول ما آیینه اسرار ماست\r\nحجتی بر ذوق عرفان آوریم\r\nبلبلان هند ناخوش نغمه اند\r\nعندلیبی از خراسان آوریم\r\nهست نیشابور کان خوش نمک\r\nاین ملاحت زان نمکدان آوریم\r\nیار اگر سامان کار ما کند\r\nکار بی سامان به سامان آوریم\r\nخاطری را کز پریشانی گریخت\r\nاز پشیمانی پشیمان آوریم\r\nحسن بی اندازه و مقدار را\r\nعشق بی آغاز و پایان آوریم\r\nدفتر وحی نظیری  در بغل\r\nرشگ بستان و گلستان آوریم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخ نما تا رونما جان آوریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرضه کن ایمان که ایمان آوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش کفر زلف و روی بت شکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحسن عهد و صدق پیمان آوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوی درمان برده ایم از راه درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم ز راه درد درمان آوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان جانان در میان جان بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دم جان بوی جانان آوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهد مضمون ما عنوان ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرح احوال پریشان آوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقول ما آیینه اسرار ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحجتی بر ذوق عرفان آوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلبلان هند ناخوش نغمه اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعندلیبی از خراسان آوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست نیشابور کان خوش نمک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین ملاحت زان نمکدان آوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیار اگر سامان کار ما کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار بی سامان به سامان آوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاطری را کز پریشانی گریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز پشیمانی پشیمان آوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحسن بی اندازه و مقدار را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق بی آغاز و پایان آوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدفتر وحی «نظیری » در بغل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرشگ بستان و گلستان آوریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 12
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخ نما تا رونما جان آوریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمایش چهره‌ات را بکن تا زندگی حقیقی را برای ما فراهم کنی. ایمان را به ما نشان بده تا ما نیز ایمان بیاوریم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عرضه کن ایمان که ایمان آوریم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پیش کفر زلف و روی بت شکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قبل از اینکه به بی‌دینی زلف و چهره معشوق پاسخ دهیم، به عهد و پیمان وفاداری تأکید می‌کنیم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حسن عهد و صدق پیمان آوریم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بوی درمان برده ایم از راه درد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما با درد و رنجی که داریم، بوی درمان را به دست آورده‌ایم و از همان مسیر درد، به سوی درمان حرکت می‌کنیم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هم ز راه درد درمان آوریم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جان جانان در میان جان بود",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح محبوب در دل جان قرار دارد و از نفس جان، عطر و یاد محبوب را به ارمغان می‌آوریم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از دم جان بوی جانان آوریم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "شاهد مضمون ما عنوان ماست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که زیبایی و موضوع ما خود به خود معیار و نشانه‌ای برای بیان احساسات و وضعیت‌های نامنظممان است. به عبارت دیگر، زیبایی و جذابیت ما، داستان و حال و احوال ما را به خوبی نشان می‌دهد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شرح احوال پریشان آوریم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "قول ما آیینه اسرار ماست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قول ما نمایانگر رازهای ماست و دلیل بر درک عرفانی ما خواهد بود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "حجتی بر ذوق عرفان آوریم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بلبلان هند ناخوش نغمه اند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بلبل‌های هندی آواز خوشی ندارند، باید از خراسان یک قناری بیاوریم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "عندلیبی از خراسان آوریم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "هست نیشابور کان خوش نمک",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیشابور، شهری است که به خاطر زیبایی و جذابیتش شناخته می‌شود و ما از این زیبایی به عنوان یک چاشنی با لذت استفاده خواهیم کرد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "این ملاحت زان نمکدان آوریم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "یار اگر سامان کار ما کند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دوست ما به امور ما رسیدگی کند، ما هم می‌توانیم کارهای بی‌نظم و نامرتب را به نظم و سامان برسانیم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "کار بی سامان به سامان آوریم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "خاطری را کز پریشانی گریخت",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما دلی را که به خاطر ناامیدی و پریشانی از ما دور شده، به خاطر پشیمانی خودمان به نزدش بازمی‌گردانیم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "از پشیمانی پشیمان آوریم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "حسن بی اندازه و مقدار را",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی و نیکویی که هیچ حد و اندازه‌ای ندارد، ما را به عشقی سوق می‌دهد که آغاز و پایانی ندارد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "عشق بی آغاز و پایان آوریم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "دفتر وحی «نظیری » در بغل",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به همراه خود کتاب وحی «نظیری» را در کنار زیبایی‌های باغ و گلستان به ارمغان می‌آوریم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "رشگ بستان و گلستان آوریم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    }
+  ]
+}

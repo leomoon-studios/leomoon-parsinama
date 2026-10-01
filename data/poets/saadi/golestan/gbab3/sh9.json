@@ -1,0 +1,127 @@
+{
+  "Id": 41389,
+  "CatId": 1668,
+  "Title": "حکایتِ شمارهٔ ۹",
+  "FullTitle": "سعدی » گلستان » باب سوم در فضیلت قناعت » حکایتِ شمارهٔ ۹",
+  "FullUrl": "/saadi/golestan/gbab3/sh9",
+  "SourceName": "ویکی‌نبشته",
+  "SourceUrlSlug": "wikisource",
+  "PoemSummary": "این متن درباره سختی کمک‌خواستن از بخیلان و آدم‌های ترش‌روست. در ابتدا حکایتی از یک پهلوان و جوانمرد که دچار زخمی شدید گشته‌، نقل شده است که آن جوانمرد‌، مرگ را بر کمک خواستن از یک شخص خسیس و فرومایه ترجیح می‌دهد. در ادامه ابیاتی در وصف و فضیلت خوش‌خویی‌، سخاوت و قناعت آمده است.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تاقیامتروزروشنکسندیدیدرجهان",
+      "PlainText": "گر به جای نانش اندر سفره بودی آفتاب\r\nتا قیامت روز روشن کس ندیدی در جهان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر به جایِ نانش، اندر سفره بودی آفتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا قیامت روزِ روشن کس ندیدی در جهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "استی",
+      "PlainText": "هر چه از دونان به منت خواستی\r\nدر تن افزودی و از جان کاستی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چه از دونان به منّت خواستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر تن افزودیّ و از جان کاستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وی",
+      "PlainText": "اگر حنظل خوری از دست خوش خوی\r\nبه از شیرینی از دست ترش روی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر حَنْظَل خوری از دستِ خوش‌خوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبِهْ از شیرینی از دستِ تُرُش‌روی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "جوانمردی را در جنگِ تاتار جراحتی هول رسید.",
+      "CoupletIndex": 0,
+      "CoupletSummary": "جوانمرد و پهلوانی بود که در جنگ با تاتار‌ها زخمی شدید و خطرناک به‌او رسیده بود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Paragraph",
+      "Text": "کسی گفت: فلان بازرگان نوش‌دارو دارد، اگر بخواهی، باشد که دریغ ندارد.",
+      "CoupletIndex": 1,
+      "CoupletSummary": "یکی به او گفت‌: فلان بازرگان نوش‌دارو دارد، اگر از او بخواهی، حتما به‌تو کمک می‌کند."
+    },
+    {
+      "VOrder": 3,
+      "Position": "Paragraph",
+      "Text": "گویند آن بازرگان به بُخْل معروف بود.",
+      "CoupletIndex": 2,
+      "CoupletSummary": "گفته‌شده که آن بازرگان در آن ناحیه به خسیسی و بخل معروف بود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Right",
+      "Text": "گر به جایِ نانش، اندر سفره بودی آفتاب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "اگر قرصِ آفتاب بجای گردهٔ نان در سفرهٔ وی بود، تا رستخیز دیگر کسی روز تابان به چشم نمی‌دید."
+    },
+    {
+      "VOrder": 5,
+      "Position": "Left",
+      "Text": "تا قیامت روزِ روشن کس ندیدی در جهان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Paragraph",
+      "Text": "جوانمرد گفت: اگر خواهم، دارو دهد یا ندهد. و گر دهد، منفعت کند یا نکند. باری، خواستن از او زهرِ کُشنده است.",
+      "CoupletIndex": 4,
+      "CoupletSummary": "جوانمرد گفت‌: اگر دارو از او بخواهم یا می‌دهد یا نمی‌دهد و اگر بدهد یا مرا درمان می‌کند و یا فایده‌ای ندارد؛ اما خواهش از او زهر کُشنده است."
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر چه از دونان به منّت خواستی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 1,
+      "CoupletSummary": "هرچه از فرومایگان به منّت و خواری طلبیدی (طلب کنی)، پیکرِ فربه و روانِ آدمی نَزار کردی(می‌کند)."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در تن افزودیّ و از جان کاستی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 1
+    },
+    {
+      "VOrder": 9,
+      "Position": "Paragraph",
+      "Text": "و حکیمان گفته‌اند: آبِ حیات اگر فروشند فی‌المثل به آب‌روی، دانا نخرد که مردن به علّت بِهْ از زندگانی به مَذَلّت.",
+      "CoupletIndex": 6,
+      "CoupletSummary": "و دانایان گفته‌اند: آبِ زندگی (بقا) اگر به مَثَل به بهایِ آبرو و شرف دهند، حکیم نخرد. زیرا از بیماری و درد، جان سپردن خوشتر است تا در خواری و ننگ زیستن."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Right",
+      "Text": "اگر حَنْظَل خوری از دستِ خوش‌خوی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 2,
+      "CoupletSummary": "اگر حنظل تلخ از دست آدم سخاوتمند و خوش‌اخلاق بخوری‌، گواراتر از شیرینی از دست آدم خسیس و بدخوست. (حنظل: میوه‌ای است شبیه هندوانه و بسیار تلخ)"
+    },
+    {
+      "VOrder": 11,
+      "Position": "Left",
+      "Text": "بِهْ از شیرینی از دستِ تُرُش‌روی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 2
+    }
+  ]
+}

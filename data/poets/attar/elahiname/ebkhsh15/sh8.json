@@ -1,0 +1,515 @@
+{
+  "Id": 33441,
+  "CatId": 764,
+  "Title": "(۶) حکایت حکیم با ذوالقرنین",
+  "FullTitle": "عطار » الهی نامه » بخش پانزدهم » (۶) حکایت حکیم با ذوالقرنین",
+  "FullUrl": "/attar/elahiname/ebkhsh15/sh8",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این متن، حکیمی به ذوالقرنین (سکندر) نصیحت می‌کند که هرچند او توانسته نصف زمین را فتح کند، اما در تلاش برای تصاحب بیشتر، در واقع درگیر آشوب و پریشانی شده است. او به سکندر یادآور می‌شود که زندگی در دنیا مانند ساختن کاخ است که در نهایت به ویرانی ختم خواهد شد و هیچ چیزی در این دنیا ثابت نیست. حکیم به او می‌گوید که اگرچه او مقام و سلطنت را کسب کرده، اما آرامش واقعی در این دارایی‌ها نیست و همگان در نهایت به ویرانی می‌رسند. او باید از تلاش‌های بیهوده‌اش دست بکشد و به جای دلشاد شدن از ثروت و قدرت، به واقعیت جاندگی و ناپایداری دنیا توجه کند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "حکیمی دید ذوالقرنین در راه\r\nبذوالقرنین گفت آن مرد درگاه\r\nکه آخر گرد عالم چند گردی\r\nکه عالم جمله پر آشوب کردی\r\nسکندر گفت نیمی از اقالیم\r\nنهادم راست باقی ماند یک نیم\r\nکنون من می روم عزم من این راست\r\nکه تا آن نیمه دیگر کنم راست\r\nحکیمش گفت نیست این داد دادن\r\nترا رگ راست می باید نهادن\r\nچو می دانی که بر می بایدت خاست\r\nبنه رگ راست چون عالم نهی راست\r\nکه تو گر فی المثل شیر نبردی\r\nچو راه گور گیری مور گردی\r\nچو در دنیا ترا اندک قرارست\r\nولی درگور سالی صد هزارست\r\nبدنیا در چرا کاشانه سازی\r\nکه هم در گور به گر خانه سازی\r\nچو کسری گر کنی طاق دلارام\r\nز کسری جبر نپذیرد سر انجام\r\nنمی بینی که اینها کاخترانند\r\nچه گر بر فرق گردون خانه دانند\r\nهمه سرگشته می گردند در سوز\r\nازین خانه بدان خانه شب و روز\r\nچو می بینند کان جز دامشان نیست\r\nدمی در خانه آرامشان نیست\r\nاگرچه شاه عالی ذات گردند\r\nولی در خانه هم مات گردند\r\nتو هم گر خانه سازی درین راه\r\nدرو میری چو کرم پیله ناگاه\r\nبسی بارست ای دیوانه بر تو\r\nفرود آید بآخر خانه بر تو\r\nمشو دلشاد از کاشانه خویش\r\nمکن دل تنگ از ویرانه خویش\r\nکه نه دلتنگ مانی تو نه شادی\r\nکه هم این بگذرد هم آن چو بادی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحکیمی دید ذوالقرنین در راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبذوالقرنین گفت آن مردِ درگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه آخر گرد عالم چند گَردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عالم جمله پُر آشوب کردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسکندر گفت نیمی از اقالیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنهادم راست باقی ماند یک نیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون من می‌روم عزم من این راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تا آن نیمهٔ دیگر کنم راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحکیمش گفت نیست این داد دادن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترا رگ راست می‌باید نهادن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو می‌دانی که بر می‌بایدت خاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنه رگ راست، چون عالم نهی راست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه تو گر فی المَثَل شیر نبردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو راه گور گیری مور گردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو در دنیا ترا اندک قرارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی درگور سالی صد هزارست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدنیا در چرا کاشانه سازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هم در گور به گر خانه سازی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو کِسری گر کنی طاق دلارام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز کَسری جبر نپذیرد سر انجام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمی‌بینی که اینها کاخترانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه گر بر فرقِ گردون خانه دانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه سرگشته می‌گردند در سوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازین خانه بدان خانه شب و روز؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو می‌بینند کان جز دامشان نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدمی در خانهٔ آرامشان نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگرچه شاهِ عالی ذات گردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی در خانهٔ هم مات گردند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو هم گر خانهٔ سازی درین راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرو میری چو کِرم پیله ناگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسی بارست ای دیوانه بر تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرود آید بآخر خانه بر تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشو دلشاد از کاشانهٔ خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمکن دل تنگ از ویرانهٔ خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه نه دلتنگ مانی تو نه شادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هم این بگذرد هم آن چو بادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 18
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "حکیمی دید ذوالقرنین در راه\r\nبذوالقرنین گفت آن مرد درگاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحکیمی دید ذوالقرنین در راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبذوالقرنین گفت آن مردِ درگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ردی",
+      "PlainText": "که آخر گرد عالم چند گردی\r\nکه عالم جمله پر آشوب کردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه آخر گرد عالم چند گَردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عالم جمله پُر آشوب کردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یم",
+      "PlainText": "سکندر گفت نیمی از اقالیم\r\nنهادم راست باقی ماند یک نیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسکندر گفت نیمی از اقالیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنهادم راست باقی ماند یک نیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "راست",
+      "PlainText": "کنون من می روم عزم من این راست\r\nکه تا آن نیمه دیگر کنم راست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون من می‌روم عزم من این راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تا آن نیمهٔ دیگر کنم راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ادن",
+      "PlainText": "حکیمش گفت نیست این داد دادن\r\nترا رگ راست می باید نهادن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحکیمش گفت نیست این داد دادن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترا رگ راست می‌باید نهادن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "است",
+      "PlainText": "چو می دانی که بر می بایدت خاست\r\nبنه رگ راست چون عالم نهی راست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو می‌دانی که بر می‌بایدت خاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنه رگ راست، چون عالم نهی راست؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ردی",
+      "PlainText": "که تو گر فی المثل شیر نبردی\r\nچو راه گور گیری مور گردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه تو گر فی المَثَل شیر نبردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو راه گور گیری مور گردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ارست",
+      "PlainText": "چو در دنیا ترا اندک قرارست\r\nولی درگور سالی صد هزارست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو در دنیا ترا اندک قرارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی درگور سالی صد هزارست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انهسازی",
+      "PlainText": "بدنیا در چرا کاشانه سازی\r\nکه هم در گور به گر خانه سازی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدنیا در چرا کاشانه سازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هم در گور به گر خانه سازی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ام",
+      "PlainText": "چو کسری گر کنی طاق دلارام\r\nز کسری جبر نپذیرد سر انجام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو کِسری گر کنی طاق دلارام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز کَسری جبر نپذیرد سر انجام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انند",
+      "PlainText": "نمی بینی که اینها کاخترانند\r\nچه گر بر فرق گردون خانه دانند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمی‌بینی که اینها کاخترانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه گر بر فرقِ گردون خانه دانند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وز",
+      "PlainText": "همه سرگشته می گردند در سوز\r\nازین خانه بدان خانه شب و روز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه سرگشته می‌گردند در سوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازین خانه بدان خانه شب و روز؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "امشاننیست",
+      "PlainText": "چو می بینند کان جز دامشان نیست\r\nدمی در خانه آرامشان نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو می‌بینند کان جز دامشان نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدمی در خانهٔ آرامشان نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اتگردند",
+      "PlainText": "اگرچه شاه عالی ذات گردند\r\nولی در خانه هم مات گردند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگرچه شاهِ عالی ذات گردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی در خانهٔ هم مات گردند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "تو هم گر خانه سازی درین راه\r\nدرو میری چو کرم پیله ناگاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو هم گر خانهٔ سازی درین راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرو میری چو کِرم پیله ناگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انهبرتو",
+      "PlainText": "بسی بارست ای دیوانه بر تو\r\nفرود آید بآخر خانه بر تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسی بارست ای دیوانه بر تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرود آید بآخر خانه بر تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انهخویش",
+      "PlainText": "مشو دلشاد از کاشانه خویش\r\nمکن دل تنگ از ویرانه خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشو دلشاد از کاشانهٔ خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمکن دل تنگ از ویرانهٔ خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ادی",
+      "PlainText": "که نه دلتنگ مانی تو نه شادی\r\nکه هم این بگذرد هم آن چو بادی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه نه دلتنگ مانی تو نه شادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هم این بگذرد هم آن چو بادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حکیمی دید ذوالقرنین در راه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: حکیمی در مسیر به ذوالقرنین برخورد کرد و به او گفت که آن مرد در درگاهش حضور دارد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بذوالقرنین گفت آن مردِ درگاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "که آخر گرد عالم چند گَردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، تمام این دنیای پرهیاهو و شلوغی چقدر به خاطر دلیلی ساده و بی‌اهمیت به هم ریخته است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که عالم جمله پُر آشوب کردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سکندر گفت نیمی از اقالیم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: سکندر گفت که نیمی از سرزمین‌ها را زیر سلطه درآورده‌ام و تنها نیمی دیگر باقی مانده است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نهادم راست باقی ماند یک نیم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کنون من می‌روم عزم من این راست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اکنون من می‌روم و هدفم این است که تا نیمه‌ی دیگر را درست کنم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که تا آن نیمهٔ دیگر کنم راست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حکیمش گفت نیست این داد دادن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: حکیم به او گفت که این رفتار تو، که داد و فریاد می‌زنی، درست نیست. باید احساسات و هیجانات خود را تحت کنترل قرار دهی و در یک مسیر درست و منطقی حرکت کنی."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ترا رگ راست می‌باید نهادن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چو می‌دانی که بر می‌بایدت خاست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: وقتی می‌دانی که باید به پا خیزید، درست عمل کن و راست بایست. چرا در جاهایی که علم و دانش به تو اجازه می‌دهد، درست رفتار نمی‌کنی؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بنه رگ راست، چون عالم نهی راست؟",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "که تو گر فی المَثَل شیر نبردی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر تو در میدان جنگ مانند شیر دلیر نباشی، و در شرایط سخت گریزی به مانند مور که از زیر پا فرار می‌کند، خواهی شد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چو راه گور گیری مور گردی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "چو در دنیا ترا اندک قرارست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا ممکن است زندگی‌ات کوتاه یا اندک باشد، اما در زندگی پس از مرگ، سال‌ها و حتی به اندازه‌ی صدها هزار سال تجربه و ماندگاری وجود دارد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ولی درگور سالی صد هزارست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بدنیا در چرا کاشانه سازی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در دنیا خانه‌ای برای خود بساز که وقتی به گور رفتی، همچنان در آنجا آرامش داشته باشی."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "که هم در گور به گر خانه سازی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "چو کِسری گر کنی طاق دلارام",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر تو بتوانی طاق دلنشینی بسازی، هیچ کسری نمی‌تواند به سرنوشت تو تسلطی داشته باشد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "ز کَسری جبر نپذیرد سر انجام",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "نمی‌بینی که اینها کاخترانند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانی که اینها در واقع بزرگان و محترمان هستند، حتی اگر بر بالای آسمان به منزلت برسند."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "چه گر بر فرقِ گردون خانه دانند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "همه سرگشته می‌گردند در سوز",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: همه در حال گشت و گذار و سردرگمی هستند، در حالی که از این خانه به آن خانه می‌روند و در این حال، روز و شب برایشان یکسان شده است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "ازین خانه بدان خانه شب و روز؟",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "چو می‌بینند کان جز دامشان نیست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: زمانی که می‌بینند که غیر از دام خودشان چیزی وجود ندارد، هیچ لحظه‌ای در خانه‌ی آرامششان آرامش نخواهند داشت."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "دمی در خانهٔ آرامشان نیست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "اگرچه شاهِ عالی ذات گردند",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگرچه پادشاهان بزرگ و والامقام شوند، اما در خانه‌هایشان هم گاهی دچار ناتوانی و شکست می‌شوند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "ولی در خانهٔ هم مات گردند",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "تو هم گر خانهٔ سازی درین راه",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر تو هم در این مسیر خانه‌ای بسازی، ناگهان مانند کرمی که در پیله است، به درون آن خواهی رفت."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "درو میری چو کِرم پیله ناگاه",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "بسی بارست ای دیوانه بر تو",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: بسیار بارش خواهد بود، ای دیوانه، که در نهایت بر تو نازل می‌شود."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "فرود آید بآخر خانه بر تو",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "مشو دلشاد از کاشانهٔ خویش",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: از خانه و جایگاه خود زیاد خوشحال نشو، و از ویرانی و خراب بودن آنجا نیز ناراحت نباش."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "مکن دل تنگ از ویرانهٔ خویش",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "که نه دلتنگ مانی تو نه شادی",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: نه تو نگران می‌شوی و نه خوشحال، چون هر دو حالتی که داری، بالاخره مثل نسیمی می‌گذرد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "که هم این بگذرد هم آن چو بادی",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    }
+  ]
+}

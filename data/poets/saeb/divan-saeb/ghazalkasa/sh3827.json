@@ -1,0 +1,180 @@
+{
+  "Id": 56025,
+  "CatId": 1852,
+  "Title": "غزل شمارهٔ ۳۸۲۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۸۲۷",
+  "FullUrl": "/saeb/divan-saeb/ghazalkasa/sh3827",
+  "RhymeLetters": "ارمیریزد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس عمیق عاشقانه و درد جدایی اشاره دارد. شاعر از زیبایی و جذبه محبوبش می‌گوید و تأثیری که این زیبایی بر دنیا و دل او می‌گذارد. او بیان می‌کند که صبر و استقامتش در عشق از بین رفته و به خاطر این عشق، غم و درد بر دلش می‌ریزد. شاعر با استفاده از تشبیهات مختلف، احساس ناامیدی و فقدان را به تصویر می‌کشد و به خطری که ممکن است بر باغ عشقش حاکم شود اشاره می‌کند. او همچنین از تلاش فلک برای آزمایش صبر عاشقان سخن می‌گوید و در نهایت از ارزش و زیبایی عشق و غمستگی‌های آن یاد می‌کند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمیریزد",
+      "PlainText": "ز جلوه تو دل روزگار می ریزد\r\nبنای صبر و شکیب و قرار می ریزد\r\nدوام حسن ترا نیست نسبتی با گل\r\nبه پای سرو تو خون بهار می ریزد\r\nبه خاکساری من نیست هیچ کس در عشق\r\nبه چشم آینه عکسم غبار می ریزد\r\nچه غم ز رفتن چشم است پیر کنعان را\r\nشکوفه برگ خود از بهر بار می ریزد\r\nچه نسبت است به فرهاد ذوق کار مرا\r\nعرق ز جبهه من چون شرار می ریزد\r\nگل بهار تمناست داغ نومیدی\r\nبه قدر خار و خس آتش شرار می ریزد\r\nچو گردباد ز بس زخم خار و خس خوردم\r\nز جنبش نفس من غبار می ریزد\r\nکدام دیده بد در کمین این باغ است\r\nکه بی نسیم گل از شاخسار می ریزد\r\nبه اهل صبر فلک بیش می کند کاوش\r\nکه تیر بر هدف پایدار می ریزد\r\nرگ کدام محیط است خامه صایب\r\nکه اینقدر گهر شاهوار می ریزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز جلوه تو دل روزگار می ریزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنای صبر و شکیب و قرار می ریزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوام حسن ترا نیست نسبتی با گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه پای سرو تو خون بهار می ریزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خاکساری من نیست هیچ کس در عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه چشم آینه عکسم غبار می ریزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه غم ز رفتن چشم است پیر کنعان را؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکوفه برگ خود از بهر بار می ریزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه نسبت است به فرهاد، ذوق کار مرا؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرق ز جبهه من چون شرار می ریزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل بهار تمناست داغ نومیدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه قدر خار و خس آتش شرار می ریزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو گردباد ز بس زخم خار و خس خوردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز جنبش نفس من غبار می ریزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکدام دیده بد در کمین این باغ است؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بی نسیم، گل از شاخسار می ریزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه اهل صبر فلک بیش می کند کاوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تیر بر هدف پایدار می ریزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرگ کدام محیط است خامه صائب؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه اینقدر گهر شاهوار می ریزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز جلوه تو دل روزگار می ریزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از زیبایی تو، دل زمانه وادار می‌شود به ریختن و سختی‌های صبر و آرامش از بین می‌رود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بنای صبر و شکیب و قرار می ریزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دوام حسن ترا نیست نسبتی با گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی تو ارتباطی با گل ندارد؛ زیرا خون بهار به پای سرو تو می‌ریزد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به پای سرو تو خون بهار می ریزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به خاکساری من نیست هیچ کس در عشق",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس در عشق به من، که در خاکساری و فروتنی قرار دارم، توجهی نمی‌کند و فقط در آینه تصویر من را با غبار می‌پوشاند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به چشم آینه عکسم غبار می ریزد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چه غم ز رفتن چشم است پیر کنعان را؟",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا باید از رفتن چشم پیر کنعان ناراحت باشیم؟ گل‌ها برای اینکه میوه بدهند، برگ‌های خود را رها می‌کنند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شکوفه برگ خود از بهر بار می ریزد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چه نسبت است به فرهاد، ذوق کار مرا؟",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ مقایسه‌ای با فرهاد در لذت و شوق کار من وجود ندارد. عرقی که از پیشانیم می‌ریزد، مانند شعله‌ای است که سر ریز می‌شود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "عرق ز جبهه من چون شرار می ریزد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گل بهار تمناست داغ نومیدی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل بهار نمادی از خواسته‌ها و آرزوهاست، اما ناامیدی به اندازه‌ی خار و علف‌های هرز، شعله‌های آتش را برمی‌افروزد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "به قدر خار و خس آتش شرار می ریزد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چو گردباد ز بس زخم خار و خس خوردم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مثل گردباد، به خاطر زخم‌هایی که از خارها و علف‌های هرز خورده‌ام، حرکت نفس من باعث می‌شود که غباری پراکنده شود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "ز جنبش نفس من غبار می ریزد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "کدام دیده بد در کمین این باغ است؟",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کدام چشم بدخواه در انتظار این باغ است که بدون وزش نسیمی، گل‌ها از درختان می‌ریزد؟"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "که بی نسیم، گل از شاخسار می ریزد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "به اهل صبر فلک بیش می کند کاوش",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمان به افرادی که صبر دارند بیشتر می‌پردازد و تلاش می‌کند، زیرا تیر بر هدف ثابت و پایدار نشانه می‌زند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "که تیر بر هدف پایدار می ریزد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "رگ کدام محیط است خامه صائب؟",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کدام سرزمین یا فضایی است که این‌قدر جواهرات گرانبها و باارزش می‌ریزد؟"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "که اینقدر گهر شاهوار می ریزد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ]
+}

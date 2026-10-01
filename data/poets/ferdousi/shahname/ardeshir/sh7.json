@@ -1,0 +1,1271 @@
+{
+  "Id": 1714,
+  "CatId": 69,
+  "Title": "بخش ۷",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی اردشیر » بخش ۷",
+  "FullUrl": "/ferdousi/shahname/ardeshir/sh7",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر داستانی روایت می‌شود از شاپور، پادشاهی دلاور که همراه با خردمند خود به شکار می‌رود. در مسیر خود به دهکده‌ای برمی‌خورد و در آنجا دختری زیبا و دلربا می‌بیند که در حال کشیدن آب از چاه است. شاپور به زیبایی او علاقه‌مند می‌شود و از دختر می‌پرسد که چرا این قدر زحمت می‌کشد.\n\nدختر که از نژاد بزرگان است، از شاپور می‌خواهد که در مورد نژادش سوال نکند تا مبادا خشم پادشاهی دیگر برانگیزد. او در نهایت خود را دختر مهرک معرفی می‌کند و از شاپور درخواست می‌کند که او را در نظر داشته باشد. شاپور به او می‌گوید که بی‌تردید آب چاه شیرین خواهد بود و او را به خاطر زیبایی و دلیری‌اش ستایش می‌کند. \n\nدر پایان، شاپور دستور می‌دهد تا دختر را به او بسپارند و او با احترام به او می‌نگرد.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "کنون بشنو از دخت مهرک سخن\r\nابا گرد شاپور شمشیرزن\r\nچو لختی برآمد برین روزگار\r\nفروزنده شد دولت شهریار\r\nبه نخچیر شد شاه روزی پگاه\r\nخردمند شاپور با او به راه\r\nبه هر سو سواران همی تاختند\r\nز نخچیر دشتی بپرداختند\r\nپدید آمد از دور دشتی فراخ\r\nپر از باغ و میدان و ایوان و کاخ\r\nهمی تاخت شاپور تا پیش ده\r\nفرود آمد از راه در خان مه\r\nیکی باغ بد کش و خرم سرای\r\nجوان اندر آمد بدان سبز جای\r\nیکی دختری دید بر سان ماه\r\nفروهشته از چرخ دلوی به چاه\r\nچو آن ماه رخ روی شاپور دید\r\nبیامد برو آفرین گسترید\r\nکه شادان بدی شاه و خندان بدی\r\nهمه ساله از بی گزندان بدی\r\nکنون بی گمان تشنه باشد ستور\r\nبدین ده رود اندرون آب شور\r\nبه چاه اندرون آب سردست و خوش\r\nبفرمای تا من بوم آب کش\r\nبدو گفت شاپور کای ماه روی\r\nچرا رنجه گشتی بدین گفت وگوی\r\nکه باشند با من پرستنده مرد\r\nکزین چاه بی بن کشند آب سرد\r\nز برنا کنیزک بپیچید روی\r\nبشد دور و بنشست بر پیش جوی\r\nپرستنده ای را بفرمود شاه\r\nکه دلو آور و آب برکش ز چاه\r\nپرستنده بشنید و آمد دوان\r\nرسن برد بر چرخ دلو گران\r\nچو دلو گران سنگ پر آب گشت\r\nپرستنده را روی پرتاب گشت\r\nچو دلو گران برنیامد ز چاه\r\nبیامد ژکان زود شاپور شاه\r\nپرستنده را گفت کای نیم زن\r\nنه زن داشت این دلو و چندین رسن\r\nهمی برکشید آب چندین ز چاه\r\nتو گشتی پر از رنج و فریادخواه\r\nبیامد رسن بستد از پیشکار\r\nشد آن کار دشوار بر شاه خوار\r\nز دلو گران شاه چون رنج دید\r\nبر آن خوب رخ آفرین گسترید\r\nکه برتافت دلوی برین سان گران\r\nهمانا که هست از نژاد سران\r\nکنیزک چو او دلو را برکشید\r\nبیامد به مهر آفرین گسترید\r\nکه نوشه بدی تا بود روزگار\r\nهمیشه خرد بادت آموزگار\r\nبه نیروی شاپور شاه اردشیر\r\nشود بی گمان آب در چاه شیر\r\nجوان گفت با دختر چرب گوی\r\nچه دانی که شاپورم ای ماه روی\r\nچنین داد پاسخ که این داستان\r\nشنیدم بسی از لب راستان\r\nکه شاپور گردست با زور پیل\r\nبه بخشندگی همچو دریای نیل\r\nبه بالای سروست و رویین تنست\r\nبه هرچیز ماننده بهمنست\r\nبدو گفت شاپور کای ماه روی\r\nسخن هرچ پرسم ترا راست گوی\r\nپدیدار کن تا نژاد تو چیست\r\nبرین چهره تو نشان کییست\r\nبدو گفت من دختر مهترم\r\nازیرا چنین خوب و کنداورم\r\nچنین داد پاسخ که هرگز دروغ\r\nبر شهریاران نگیرد فروغ\r\nکشاورز را دختر ماه روی\r\nنباشد بدین روی و این رنگ و بوی\r\nکنیزک بدو گفت کای شهریار\r\nهرانگه که یابم به جان زینهار\r\nبگویم همه پیش تو من نژاد\r\nچو یابم ز خشم شهنشاه داد\r\nبدو گفت شاپور کز بوستان\r\nنرست از چمن کینه دوستان\r\nبگوی و ز من بیم در دل مدار\r\nنه از نامور دادگر شهریار\r\nکنیزک بدو گفت کز راه داد\r\nمنم دختر مهرک نوش زاد\r\nمرا پارسایی بیاورد خرد\r\nبدین پرهنر مهتر ده سپرد\r\nمن از بیم آن نامور شهریار\r\nچنین آبکش گشتم و پیشکار\r\nبیامد بپردخت شاپور جای\r\nهمی بود مهتر به پیشش به پای\r\nبه دو گفت کین دختر خوب چهر\r\nبه من ده بر من گوا کن سپهر\r\nبدو داد مهتر به فرمان اوی\r\nبر آیین آتش پرستان اوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون بشنو از دخت مهرک سخن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابا گرد شاپور شمشیرزن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو لختی برآمد برین روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفروزنده شد دولت شهریار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نخچیر شد شاه روزی پگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخردمند شاپور با او به راه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر سو سواران همی تاختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز نخچیر دشتی بپرداختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپدید آمد از دور دشتی فراخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپر از باغ و میدان و ایوان و کاخ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی تاخت شاپور تا پیش ده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرود آمد از راه در خان مه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی باغ بد کش و خرم سرای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجوان اندر آمد بدان سبز جای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی دختری دید بر سان ماه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفروهشته از چرخ دلوی به چاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو آن ماه‌رخ روی شاپور دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیامد برو آفرین گسترید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه شادان بدی شاه و خندان بدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه ساله از بی‌گزندان بدی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون بی‌گمان تشنه باشد ستور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدین ده رود اندرون آب شور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه چاه اندرون آب سردست و خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبفرمای تا من بوم آب‌کش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدو گفت شاپور کای ماه‌روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا رنجه گشتی بدین گفت‌وگوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه باشند با من پرستنده مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکزین چاه بی‌بن کشند آب سرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز برنا کنیزک بپیچید روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشد دور و بنشست بر پیش جوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرستنده‌ای را بفرمود شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دلو آور و آب برکش ز چاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرستنده بشنید و آمد دوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرسن برد بر چرخ دلو گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو دلو گران‌سنگ پر آب گشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرستنده را روی پرتاب گشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو دلو گران برنیامد ز چاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیامد ژکان زود شاپور شاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرستنده را گفت کای نیم‌زن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه زن داشت این دلو و چندین رسن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی برکشید آب چندین ز چاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو گشتی پر از رنج و فریادخواه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد رسن بستد از پیشکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد آن کار دشوار بر شاه خوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دلو گران شاه چون رنج دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آن خوب‌رخ آفرین گسترید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه برتافت دلوی برین سان گران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمانا که هست از نژاد سران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنیزک چو او دلو را برکشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیامد به مهر آفرین گسترید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه نوشه بدی تا بود روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه خرد بادت آموزگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نیروی شاپور شاه اردشیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشود بی‌گمان آب در چاه شیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوان گفت با دختر چرب‌گوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه دانی که شاپورم ای ماه‌روی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین داد پاسخ که این داستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشنیدم بسی از لب راستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه شاپور گردست با زور پیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه بخشندگی همچو دریای نیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بالای سروست و رویین‌تنست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هرچیز مانندهٔ بهمنست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدو گفت شاپور کای ماه‌روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن هرچ پرسم ترا راست‌گوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپدیدار کن تا نژاد تو چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرین چهرهٔ تو نشان کییست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدو گفت من دختر مهترم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازیرا چنین خوب و کنداورم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین داد پاسخ که هرگز دروغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر شهریاران نگیرد فروغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشاورز را دختر ماه‌روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنباشد بدین روی و این رنگ و بوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنیزک بدو گفت کای شهریار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرانگه که یابم به جان زینهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگویم همه پیش تو من نژاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو یابم ز خشم شهنشاه داد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدو گفت شاپور کز بوستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنرست از چمن کینهٔ دوستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگوی و ز من بیم در دل مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه از نامور دادگر شهریار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنیزک بدو گفت کز راه داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنم دختر مهرک نوش‌زاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا پارسایی بیاورد خرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدین پرهنر مهتر ده سپرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن از بیم آن نامور شهریار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنین آبکش گشتم و پیشکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد بپردخت شاپور جای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی بود مهتر به پیشش به پای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دو گفت کین دختر خوب‌چهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه من ده بر من گوا کن سپهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدو داد مهتر به فرمان اوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آیین آتش‌پرستان اوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 46
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "کنون بشنو از دخت مهرک سخن\r\nابا گرد شاپور شمشیرزن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون بشنو از دخت مهرک سخن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابا گرد شاپور شمشیرزن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "چو لختی برآمد برین روزگار\r\nفروزنده شد دولت شهریار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو لختی برآمد برین روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفروزنده شد دولت شهریار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "به نخچیر شد شاه روزی پگاه\r\nخردمند شاپور با او به راه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نخچیر شد شاه روزی پگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخردمند شاپور با او به راه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اختند",
+      "PlainText": "به هر سو سواران همی تاختند\r\nز نخچیر دشتی بپرداختند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر سو سواران همی تاختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز نخچیر دشتی بپرداختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اخ",
+      "PlainText": "پدید آمد از دور دشتی فراخ\r\nپر از باغ و میدان و ایوان و کاخ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپدید آمد از دور دشتی فراخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپر از باغ و میدان و ایوان و کاخ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "همی تاخت شاپور تا پیش ده\r\nفرود آمد از راه در خان مه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی تاخت شاپور تا پیش ده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرود آمد از راه در خان مه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ای",
+      "PlainText": "یکی باغ بد کش و خرم سرای\r\nجوان اندر آمد بدان سبز جای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی باغ بد کش و خرم سرای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجوان اندر آمد بدان سبز جای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "یکی دختری دید بر سان ماه\r\nفروهشته از چرخ دلوی به چاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی دختری دید بر سان ماه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفروهشته از چرخ دلوی به چاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "چو آن ماه رخ روی شاپور دید\r\nبیامد برو آفرین گسترید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو آن ماه‌رخ روی شاپور دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیامد برو آفرین گسترید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ندانبدی",
+      "PlainText": "که شادان بدی شاه و خندان بدی\r\nهمه ساله از بی گزندان بدی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه شادان بدی شاه و خندان بدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه ساله از بی‌گزندان بدی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ور",
+      "PlainText": "کنون بی گمان تشنه باشد ستور\r\nبدین ده رود اندرون آب شور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون بی‌گمان تشنه باشد ستور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدین ده رود اندرون آب شور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ش",
+      "PlainText": "به چاه اندرون آب سردست و خوش\r\nبفرمای تا من بوم آب کش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه چاه اندرون آب سردست و خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبفرمای تا من بوم آب‌کش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وی",
+      "PlainText": "بدو گفت شاپور کای ماه روی\r\nچرا رنجه گشتی بدین گفت وگوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدو گفت شاپور کای ماه‌روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا رنجه گشتی بدین گفت‌وگوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "که باشند با من پرستنده مرد\r\nکزین چاه بی بن کشند آب سرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه باشند با من پرستنده مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکزین چاه بی‌بن کشند آب سرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وی",
+      "PlainText": "ز برنا کنیزک بپیچید روی\r\nبشد دور و بنشست بر پیش جوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز برنا کنیزک بپیچید روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشد دور و بنشست بر پیش جوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "پرستنده ای را بفرمود شاه\r\nکه دلو آور و آب برکش ز چاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرستنده‌ای را بفرمود شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دلو آور و آب برکش ز چاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "پرستنده بشنید و آمد دوان\r\nرسن برد بر چرخ دلو گران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرستنده بشنید و آمد دوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرسن برد بر چرخ دلو گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ابگشت",
+      "PlainText": "چو دلو گران سنگ پر آب گشت\r\nپرستنده را روی پرتاب گشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو دلو گران‌سنگ پر آب گشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرستنده را روی پرتاب گشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "چو دلو گران برنیامد ز چاه\r\nبیامد ژکان زود شاپور شاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو دلو گران برنیامد ز چاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیامد ژکان زود شاپور شاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "پرستنده را گفت کای نیم زن\r\nنه زن داشت این دلو و چندین رسن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرستنده را گفت کای نیم‌زن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه زن داشت این دلو و چندین رسن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "همی برکشید آب چندین ز چاه\r\nتو گشتی پر از رنج و فریادخواه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی برکشید آب چندین ز چاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو گشتی پر از رنج و فریادخواه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "بیامد رسن بستد از پیشکار\r\nشد آن کار دشوار بر شاه خوار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد رسن بستد از پیشکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد آن کار دشوار بر شاه خوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "ز دلو گران شاه چون رنج دید\r\nبر آن خوب رخ آفرین گسترید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دلو گران شاه چون رنج دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آن خوب‌رخ آفرین گسترید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ران",
+      "PlainText": "که برتافت دلوی برین سان گران\r\nهمانا که هست از نژاد سران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه برتافت دلوی برین سان گران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمانا که هست از نژاد سران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "کنیزک چو او دلو را برکشید\r\nبیامد به مهر آفرین گسترید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنیزک چو او دلو را برکشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیامد به مهر آفرین گسترید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وزگار",
+      "PlainText": "که نوشه بدی تا بود روزگار\r\nهمیشه خرد بادت آموزگار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه نوشه بدی تا بود روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه خرد بادت آموزگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "شیر",
+      "PlainText": "به نیروی شاپور شاه اردشیر\r\nشود بی گمان آب در چاه شیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نیروی شاپور شاه اردشیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشود بی‌گمان آب در چاه شیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 29,
+      "Number": 29,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وی",
+      "PlainText": "جوان گفت با دختر چرب گوی\r\nچه دانی که شاپورم ای ماه روی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوان گفت با دختر چرب‌گوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه دانی که شاپورم ای ماه‌روی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 30,
+      "Number": 30,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "استان",
+      "PlainText": "چنین داد پاسخ که این داستان\r\nشنیدم بسی از لب راستان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین داد پاسخ که این داستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشنیدم بسی از لب راستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 31,
+      "Number": 31,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یل",
+      "PlainText": "که شاپور گردست با زور پیل\r\nبه بخشندگی همچو دریای نیل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه شاپور گردست با زور پیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه بخشندگی همچو دریای نیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 32,
+      "Number": 32,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نست",
+      "PlainText": "به بالای سروست و رویین تنست\r\nبه هرچیز ماننده بهمنست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بالای سروست و رویین‌تنست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هرچیز مانندهٔ بهمنست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 33,
+      "Number": 33,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وی",
+      "PlainText": "بدو گفت شاپور کای ماه روی\r\nسخن هرچ پرسم ترا راست گوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدو گفت شاپور کای ماه‌روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن هرچ پرسم ترا راست‌گوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 34,
+      "Number": 34,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یست",
+      "PlainText": "پدیدار کن تا نژاد تو چیست\r\nبرین چهره تو نشان کییست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپدیدار کن تا نژاد تو چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرین چهرهٔ تو نشان کییست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 35,
+      "Number": 35,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رم",
+      "PlainText": "بدو گفت من دختر مهترم\r\nازیرا چنین خوب و کنداورم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدو گفت من دختر مهترم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازیرا چنین خوب و کنداورم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 36,
+      "Number": 36,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "روغ",
+      "PlainText": "چنین داد پاسخ که هرگز دروغ\r\nبر شهریاران نگیرد فروغ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین داد پاسخ که هرگز دروغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر شهریاران نگیرد فروغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 37,
+      "Number": 37,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وی",
+      "PlainText": "کشاورز را دختر ماه روی\r\nنباشد بدین روی و این رنگ و بوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشاورز را دختر ماه‌روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنباشد بدین روی و این رنگ و بوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 38,
+      "Number": 38,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "کنیزک بدو گفت کای شهریار\r\nهرانگه که یابم به جان زینهار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنیزک بدو گفت کای شهریار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرانگه که یابم به جان زینهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 39,
+      "Number": 39,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اد",
+      "PlainText": "بگویم همه پیش تو من نژاد\r\nچو یابم ز خشم شهنشاه داد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگویم همه پیش تو من نژاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو یابم ز خشم شهنشاه داد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 40,
+      "Number": 40,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وستان",
+      "PlainText": "بدو گفت شاپور کز بوستان\r\nنرست از چمن کینه دوستان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدو گفت شاپور کز بوستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنرست از چمن کینهٔ دوستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 41,
+      "Number": 41,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "بگوی و ز من بیم در دل مدار\r\nنه از نامور دادگر شهریار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگوی و ز من بیم در دل مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه از نامور دادگر شهریار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 42,
+      "Number": 42,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اد",
+      "PlainText": "کنیزک بدو گفت کز راه داد\r\nمنم دختر مهرک نوش زاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنیزک بدو گفت کز راه داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنم دختر مهرک نوش‌زاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 43,
+      "Number": 43,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "مرا پارسایی بیاورد خرد\r\nبدین پرهنر مهتر ده سپرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا پارسایی بیاورد خرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدین پرهنر مهتر ده سپرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 44,
+      "Number": 44,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "من از بیم آن نامور شهریار\r\nچنین آبکش گشتم و پیشکار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن از بیم آن نامور شهریار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنین آبکش گشتم و پیشکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 45,
+      "Number": 45,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ای",
+      "PlainText": "بیامد بپردخت شاپور جای\r\nهمی بود مهتر به پیشش به پای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد بپردخت شاپور جای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی بود مهتر به پیشش به پای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 46,
+      "Number": 46,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "هر",
+      "PlainText": "به دو گفت کین دختر خوب چهر\r\nبه من ده بر من گوا کن سپهر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دو گفت کین دختر خوب‌چهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه من ده بر من گوا کن سپهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 47,
+      "Number": 47,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اناوی",
+      "PlainText": "بدو داد مهتر به فرمان اوی\r\nبر آیین آتش پرستان اوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدو داد مهتر به فرمان اوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آیین آتش‌پرستان اوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کنون بشنو از دخت مهرک سخن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: حالا به سخن دختر مهرک گوش کن، که به پدر شاپور شمشیرزن اشاره می‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ابا گرد شاپور شمشیرزن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو لختی برآمد برین روزگار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در این روزگار که به تدریج روشن‌تر می‌شود، قدرت و موفقیت پادشاه افزایش یافته است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فروزنده شد دولت شهریار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به نخچیر شد شاه روزی پگاه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: روزی در صبح زود، شاه خردمند شاپور با همراهی دیگران به شکار رفت."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خردمند شاپور با او به راه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به هر سو سواران همی تاختند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: سواران به هر طرف می‌روند و در دشت مشغول شکار هستند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ز نخچیر دشتی بپرداختند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "پدید آمد از دور دشتی فراخ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در دوردست، فضایی وسیع و باز نمایان شد که پر از باغ‌ها، میدان‌ها، ایوان‌ها و کاخ‌ها بود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "پر از باغ و میدان و ایوان و کاخ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "همی تاخت شاپور تا پیش ده",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: شاپور با شتاب به سمت دهکده حرکت کرد و در مسیر به خانه‌ای رسید که در آن ماه نمایان بود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "فرود آمد از راه در خان مه",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "یکی باغ بد کش و خرم سرای",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: یک باغ زیبا وجود دارد و جوانی خوشحال و شاداب به آن مکان سرسبز وارد شده است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "جوان اندر آمد بدان سبز جای",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "یکی دختری دید بر سان ماه",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: یک مرد دختری را دید که مانند ماه زیبا و دلربا بود و آن دختر در کنار چاهی نشسته بود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "فروهشته از چرخ دلوی به چاه",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "چو آن ماه‌رخ روی شاپور دید",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: زمانی که آن چهره‌ی زیبای شاپور را دید، به سوی او آمد و برایش تحسین و ستایش کرد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "بیامد برو آفرین گسترید",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "که شادان بدی شاه و خندان بدی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر ما همیشه خوشحال باشیم و از خوشی‌ها بهره‌مند شویم، سال‌ها را با خنده و شادی سپری خواهیم کرد و از نگرانی‌ها و مشکلات دور خواهیم بود."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "همه ساله از بی‌گزندان بدی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "کنون بی‌گمان تشنه باشد ستور",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اکنون بدون شک، اسب باید تشنه باشد، زیرا در این ده، آبی شور درون آن روان است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "بدین ده رود اندرون آب شور",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "به چاه اندرون آب سردست و خوش",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در چاه آب سردی موجود است و تو می‌توانی به راحتی از آن استفاده کنی تا من نیز آب را بیرون بکشم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "بفرمای تا من بوم آب‌کش",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "بدو گفت شاپور کای ماه‌روی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: شاپور به آن ماه‌روی گفت: چرا برای این گفت‌و‌گو زحمت کشیدی و ناراحت شدی؟"
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "چرا رنجه گشتی بدین گفت‌وگوی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "که باشند با من پرستنده مرد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: کسانی که با من هستند، کسانی هستند که از این چاه بدون اساس آب سردی را می‌کشند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "کزین چاه بی‌بن کشند آب سرد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "ز برنا کنیزک بپیچید روی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: دختر جوان با زیبایی و ناز خودش، به دور از چشم‌ها پنهان شد و کنار جوی آب نشسته است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "بشد دور و بنشست بر پیش جوی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "پرستنده‌ای را بفرمود شاه",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: شاه به یکی از خدمتگذاران دستور داد تا یک دلو بیاورد و آب را از چاه بکشاند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "که دلو آور و آب برکش ز چاه",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "پرستنده بشنید و آمد دوان",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: پرستنده شنید و به سرعت آمد، و طناب سنگین را بر روی چرخ دلو انداخت."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "رسن برد بر چرخ دلو گران",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "چو دلو گران‌سنگ پر آب گشت",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دلوی سنگین و پر از آب شد، نگاه پرستنده به سمت آن جلب شد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "پرستنده را روی پرتاب گشت",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "چو دلو گران برنیامد ز چاه",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: چون دلو سنگین نتوانست بالا بیاید، از چاه بیرون آمد و به سرعت شاپور شاه آمد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "بیامد ژکان زود شاپور شاه",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "پرستنده را گفت کای نیم‌زن",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: پرستنده به نیم‌زن گفت: این دل و چندین رشته که دارد، نه برای توست و نه برای هیچ‌کس دیگر."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "نه زن داشت این دلو و چندین رسن",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "همی برکشید آب چندین ز چاه",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: آب زیادی را از چاه برداشت کردی و به خاطر این کار، دچار رنج و فریاد و ناراحتی شدی."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "تو گشتی پر از رنج و فریادخواه",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "بیامد رسن بستد از پیشکار",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: یکی به دنبال کاری سخت و دشوار رفت و آن را به عهده گرفت، و در این مسیر با سختی‌ها و چالش‌هایی مواجه شد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "شد آن کار دشوار بر شاه خوار",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "ز دلو گران شاه چون رنج دید",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: وقتی شاه از دل سنگین خود رنج کشید، بر آن چهره زیبا نیکی و لطافت گستراند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "بر آن خوب‌رخ آفرین گسترید",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "که برتافت دلوی برین سان گران",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: کسی که این همه سنگینی دل را تحمل می‌کند، در واقع از نسل بزرگان و سرشناسان است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "همانا که هست از نژاد سران",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "کنیزک چو او دلو را برکشید",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: دختر خدمتکار وقتی که سطل آب را بالا کشید، به سمت کسی آمد که او را ستایش می‌کرد و مهر و محبتش را نشان داد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "بیامد به مهر آفرین گسترید",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "که نوشه بدی تا بود روزگار",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که نوشتی تا هنگامی که دنیا برقرار است، همواره خرد و دانایی‌ات را مربی قرار بده."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "همیشه خرد بادت آموزگار",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "به نیروی شاپور شاه اردشیر",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: با قدرت شاپور، پادشاه، بدون شک آب در چاه به شیر تبدیل می‌شود."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "شود بی‌گمان آب در چاه شیر",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "جوان گفت با دختر چرب‌گوی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: جوان به دختر زیبا و روان‌گوی گفت: نمی‌دانی که من کی هستم، من شاپور هستم."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "چه دانی که شاپورم ای ماه‌روی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "چنین داد پاسخ که این داستان",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: او اینگونه جواب داد که من این داستان را بارها از زبان حقیقت‌گویان شنیده‌ام."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "شنیدم بسی از لب راستان",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "که شاپور گردست با زور پیل",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: شاپور، با قدرت و عظمت خود، به مانند قدرت یک فیل، بخشش و سخاوتی دارد که مانند دریاهای بزرگ و بی‌انتهای نیل است."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "به بخشندگی همچو دریای نیل",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "به بالای سروست و رویین‌تنست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: او به اوج بلندی مانند سرو می‌رسد و همچون کسی که در برابر سرما و سختی‌ها مقاوم است، به هر چیزی شباهت به قدرت و عظمت دارد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "به هرچیز مانندهٔ بهمنست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "بدو گفت شاپور کای ماه‌روی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: شاپور به او گفت: ای چهره‌ی زیبا، هر چه از تو بپرسم، راست و درست جواب بده."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "سخن هرچ پرسم ترا راست‌گوی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "پدیدار کن تا نژاد تو چیست",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: ظاهر خود را نشان بده تا ببینیم تو از کدام نسل هستی و این چهرهٔ تو چه چیزی را نمایان می‌کند."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "برین چهرهٔ تو نشان کییست",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "بدو گفت من دختر مهترم",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: او به او گفت که من دختر یک مرد برجسته هستم و به همین خاطر این‌قدر زیبا و دلربا هستم."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "ازیرا چنین خوب و کنداورم",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "چنین داد پاسخ که هرگز دروغ",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: او به این پرسش پاسخ داد که هرگز دروغ بر فرمانروایان تاب و نوری نمی‌آورد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "بر شهریاران نگیرد فروغ",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 36
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "کشاورز را دختر ماه‌روی",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: کشاورز دختری با زیبایی و ظاهری دلنشین ندارد که این گونه به نظر برسد و این رنگ و بوی خاص را داشته باشد."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "نباشد بدین روی و این رنگ و بوی",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 37
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "کنیزک بدو گفت کای شهریار",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: دختر به او گفت: ای پادشاه، هر بار که جان خود را در خطر ببینم، حواسم جمع خواهد بود."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "هرانگه که یابم به جان زینهار",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 38
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "بگویم همه پیش تو من نژاد",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهم همه چیز را به تو بگویم، باید به یاد داشته باشم که از خشم پادشاه محفوظ بمانم."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "چو یابم ز خشم شهنشاه داد",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 39
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "بدو گفت شاپور کز بوستان",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: شاپور به او گفت که از باغ، هیچ چیز بدست نمی‌آید مگر دوستی و محبت، بنابراین چرا باید از دوستان کینه به دل داشت؟"
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "نرست از چمن کینهٔ دوستان",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 40
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "بگوی و ز من بیم در دل مدار",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: نترس و نگران نباش، من از کسی که مشهور و دادگر است، محافظت می‌کنم و تو را در امان می‌گذارم."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "نه از نامور دادگر شهریار",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 41
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "کنیزک بدو گفت کز راه داد",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: دختر خدمتکار به او گفت: من دختر مهرک نوش‌زاد هستم که از راه تو آمده‌ام."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "منم دختر مهرک نوش‌زاد",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 42
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "مرا پارسایی بیاورد خرد",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: خرد و اندیشه‌ی نیچه به من پارسایی و سنجیدگی بخشید و آن را به دست کسی با ویژگی‌های برجسته‌ای سپرد."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "بدین پرهنر مهتر ده سپرد",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 43
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "من از بیم آن نامور شهریار",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: به خاطر ترس از آن پادشاه معروف، من به خدمت او درآمدم و به نوعی به کاری مشغول شدم که به نظر می‌رسید در آن جا امن‌تر هستم."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "چنین آبکش گشتم و پیشکار",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 44
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "بیامد بپردخت شاپور جای",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: شاپور وارد شد و مسئولیت‌هایی را بر عهده گرفت، در حالی که بزرگ‌تری در برابر او به احترام ایستاده بود."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "همی بود مهتر به پیشش به پای",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 45
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "به دو گفت کین دختر خوب‌چهر",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: او به دو گفت که این دختر خوش‌چهره را به من بده و آسمان را بر این موضوع شاهد قرار بده."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "به من ده بر من گوا کن سپهر",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 46
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "بدو داد مهتر به فرمان اوی",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: او به فرمان بزرگ‌تر خود، آتش‌پرستان را به راه و رسم خود فرا می‌خواند."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "بر آیین آتش‌پرستان اوی",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 47
+    }
+  ]
+}

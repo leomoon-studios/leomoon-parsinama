@@ -1,0 +1,210 @@
+{
+  "Id": 100018,
+  "CatId": 2527,
+  "Title": "شمارهٔ  ۵۲۰",
+  "FullTitle": "آشفتهٔ شیرازی » غزلیات » شمارهٔ  ۵۲۰",
+  "FullUrl": "/ashofte/ghazal/sh520",
+  "RhymeLetters": "اکنند",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با بیانی زیبا و خیال‌انگیز به توصیف عشق و زیبایی می‌پردازد. او از باده و میکده، گل و جوانی، و زیبایی چهره معشوق صحبت می‌کند. شاعر به وفاداری و عاشقانه‌ی یوسف اشاره می‌کند و به تصویر عشق و زیبایی می‌پردازد که در زندگی انسان‌ها اثر می‌گذارد. همچنین به آزادی و قفس، حال و احوال مستان، و جلوه‌های زیبای معشوق اشاره می‌کند. در نهایت، شاعر زیبایی و دلربایی را وصف می‌کند که تأثیر شگرفی بر دل‌ها و جان‌ها دارد.",
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارافکند",
+      "PlainText": "باده صافی شد و گل پرده ز رخسار افکند\r\nبایدت با خم می رخت به گلزار افکند\r\nمصریان گو نشناسید دگر دست و ترنج\r\nکز وفا یوسف ما پرده ز رخسار افکند\r\nلاجرم چاره بیچارگی خویش کند\r\nهرکه خود را به در میکده ناچار افکند\r\nمرغ آزاد چه دیده است ز صیاد که دوش\r\nخویش را در قفس مرغ گرفتار افکند\r\nچون خرامید به گلزار بت سرو قدم\r\nهر کجا سرو سهی بود ز رفتار افکند\r\nدر چه حالند مقیمان سراپرده میر\r\nکه ز کشفش سر جمعی به سر دار افکند\r\nجلوه ای کرد و رخ از خلق به یکبار نهفت\r\nشور در مردم این شهر پریوار افکند\r\nز تبسم به لب غنچه خموشی آموخت\r\nطوطیان را به شکر خنده و گفتار افکند\r\nحال مستان تو چونست که میگون لب تو\r\nبی سر و پا همه جا مردم هشیار افکند\r\nچون به بتخانه فرخار شد آن طرفه صنم\r\nهر کجا بود بتی از در و دیوار افکند\r\nآن صنم بود مگر نور علی مظهر حق\r\nکز پی بت شکنی بود به یکبار افکند\r\nبود بارش ز ازل وصف لب شیرینش\r\nکه نی خامه آشفته شکربار افکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباده صافی شد و گل پرده ز رخسار افکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبایدت با خم می رخت به گلزار افکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصریان گو نشناسید دگر دست و ترنج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز وفا یوسف ما پرده ز رخسار افکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلاجرم چاره بیچارگی خویش کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرکه خود را به در میکده ناچار افکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغ آزاد چه دیده است ز صیاد که دوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویش را در قفس مرغ گرفتار افکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون خرامید به گلزار بت سرو قدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کجا سرو سهی بود ز رفتار افکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر چه حالند مقیمان سراپرده میر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ز کشفش سر جمعی به سر دار افکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجلوه‌ای کرد و رخ از خلق به یکبار نهفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشور در مردم این شهر پریوار افکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز تبسم به لب غنچه خموشی آموخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطوطیان را به شکر خنده و گفتار افکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحال مستان تو چونست که میْگون لب تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی سر و پا همه جا مردم هشیار افکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون به بتخانه فرخار شد آن طرفه صنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کجا بود بتی از در و دیوار افکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن صنم بود مگر نور علی مظهر حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز پی بت شکنی بود به یکبار افکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود بارش ز ازل وصف لب شیرینش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نی خامه آشفته شکربار افکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 12
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باده صافی شد و گل پرده ز رخسار افکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شراب خالص آماده شده و گل به زیبایی چهره‌ات را می‌پوشاند. حالا باید با لیوان شراب، رخسارت را در میان باغ گل‌ها تزیین کنی."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بایدت با خم می رخت به گلزار افکند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مصریان گو نشناسید دگر دست و ترنج",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مصر را با دیگران مقایسه نکنید، زیرا وفای یوسف ما چنان است که پرده از چهره برداشته و خود را نشان می‌دهد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز وفا یوسف ما پرده ز رخسار افکند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "لاجرم چاره بیچارگی خویش کند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در موقعیت سختی قرار گیرد، ناگزیر باید راه حلی برای مشکلاتش پیدا کند و به جایی برود که آرامش و دلخواهش باشد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هرکه خود را به در میکده ناچار افکند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مرغ آزاد چه دیده است ز صیاد که دوش",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای که آزاد است، درک کرده که چه بر سر او آمده است که دیروز با خود در قفس هم‌نوعش صحبت کرده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خویش را در قفس مرغ گرفتار افکند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چون خرامید به گلزار بت سرو قدم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که آن بت، با وقار و زیبایی‌اش در باغ گل راه می‌رود، هر جا که سرو بلند و زیبا وجود دارد، اثر زیبایی او آنجا را پر می‌کند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر کجا سرو سهی بود ز رفتار افکند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "در چه حالند مقیمان سراپرده میر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردمی که در کنار شاه زندگی می‌کنند، در چه وضعیتی هستند؟ آن‌هایی که از استقرار و جلوه‌های معنوی او تحت تأثیر قرار گرفته‌اند و گویی در عالم غیب به سر می‌برند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که ز کشفش سر جمعی به سر دار افکند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "جلوه‌ای کرد و رخ از خلق به یکبار نهفت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به یکباره زیبایی خود را به نمایش گذاشت و چهره‌اش را از دید مردم پنهان کرد، به طوری که هیجان و شور را در مردم این شهر برانگیخت."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "شور در مردم این شهر پریوار افکند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ز تبسم به لب غنچه خموشی آموخت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از لبخند بلبلی، غنچه به Quiet بودن پی برد و طوطیان با شکری که در خنده و گفتار داشتند، این درس را فرا گرفتند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "طوطیان را به شکر خنده و گفتار افکند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "حال مستان تو چونست که میْگون لب تو",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: احوال مست‌ها را بگو، آن‌چنان که لب‌های رنگین تو بی‌مقدمه و بی‌دلیل همه جا انسان‌های هوشیار را تحت‌تأثیر قرار می‌دهد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "بی سر و پا همه جا مردم هشیار افکند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "چون به بتخانه فرخار شد آن طرفه صنم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی به معبد بتان رسید، هر کجا که نگاه کرد بت‌ها از دیوار و در به زمین افتادند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "هر کجا بود بتی از در و دیوار افکند",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "آن صنم بود مگر نور علی مظهر حق",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید آن معشوق نور خداوند باشد که پس از شکست بت‌ها به یکباره ظهور کرد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "کز پی بت شکنی بود به یکبار افکند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "بود بارش ز ازل وصف لب شیرینش",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بارش باران شیرین همچون لب‌های اوست که مانند خامه‌ای آشفته و شیرین بر زمین می‌ریزد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "که نی خامه آشفته شکربار افکند",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    }
+  ]
+}

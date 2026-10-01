@@ -1,0 +1,1080 @@
+{
+  "Id": 42519,
+  "CatId": 1509,
+  "Title": "قصیدهٔ شمارهٔ ۶۶ - د‌ر ستایش شاهزاده‌ ی کیوان سریر اردشیر میرزا ‌دام‌ اقباله فرماید",
+  "FullTitle": "قاآنی » قصاید » قصیدهٔ شمارهٔ ۶۶ - د‌ر ستایش شاهزاده‌ ی کیوان سریر اردشیر میرزا ‌دام‌ اقباله فرماید",
+  "FullUrl": "/ghaani/ghasidegh/sh66",
+  "RhymeLetters": "رزد",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف زیبایی و جذابیت محبوبش می‌پردازد. او از صبح آفتاب و تأثیراتش بر طبیعت و دیدار معشوقه‌اش صحبت می‌کند؛ تصویری که با احساسات شدید عشق و خشم همراه است. شاعر با استفاده از استعاره‌های زیبا و تصاویری واضح، عشق را به عنوان نیرویی قوی و مخرب معرفی می‌کند. این احساسات از چشم‌های معشوق و زلف‌های او ناشی می‌شود که شعله عشق و آتش دل را در شاعر برمی‌انگیزد. در قسمت‌های پایانی، شاعر به وجود شخصیت‌های مذهبی و تاریخی اشاره می‌کند، مانند علی (ع)، و از جایگاه ویژه او در عالم هستی سخن می‌گوید. در نهایت، شاعر به ستایش این شخصیت‌ها پرداخته و از قدرت و عظمت آنها تمجید می‌کند.",
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رزد",
+      "PlainText": "صبح آفتاب چون ز فلک سر زد\r\nماهم به خشم سندان بر در زد\r\nجستم ز جاگشودم درگفتی\r\nخورشید از کنار افق سر زد\r\nای بس  که حنده خنده نوشینش\r\nبر بسته بسته قند مکرر زد\r\nننشسته بردرید گریبان را\r\nپهلو ز تن به صبح من رر زد\r\nچون داغ دیدان به ملامت جنگ\r\nدر حلقهای زلف معنبر زد\r\nگفتی به قهر پنجه یکی شاهین\r\nغافل به پر و بال  کبوتر زد\r\nبر روی خویش نازده یک لطمه\r\nاز روی خشم لطمه دیگر زد\r\nای بسکه خنده صفحه  کافورش\r\nزان لطمه بر لطیمه عنبر زد\r\nنیلی تر از بنفشه ستان آمد\r\nاز بس طپانچه بر گل احمر زد\r\nگفتی به عمد شاخه نیلوفر\r\nپیرایه را به فرق صنوبر زد\r\nدر خون دیده طره او گفتی\r\nزاغی به خون خویش همی پر زد\r\nاز دانه دانه اشک دو رخسارش \r\nبس  طعنه بر نجوم دو پیکر زد\r\nدر لب  گرفته زلف سیه  گفتی\r\nدزدی به بارخانه  گوهر زد\r\nبر هر رگم ز خشم دو چشم او\r\nاز هر نگه هزاران نشتر زد\r\nبر جان همه شرنگ ز شکر ریخت\r\nبر دل همه خدنگ ز عنبر زد\r\nهر مژه اش ز قهر به هر عضوم\r\nچندین هزار ناوک و خنجر زد\r\nهم نرگسش به  کینم ترکش بست\r\nهم عبهرش به جانم آذر زد\r\nنیلی شدش ز بسکه رخ از سیلی\r\nگفتی به نیل دیبه ششتر زد\r\nبگداخت شکرین لب نوشینش\r\nاز بس ز دیده آب به شکر زد\r\nافروخت زیر زلف رخش گفتی\r\nدوزخ زبانه در دل کافر زد\r\nدر موج اشک مردمک چشمش\r\nبس دست و پا چو مرد شناور زد\r\nسر تا قدم چون نیل شدش نیلی\r\nاز بس طپانچه بر سر و پیکر زد\r\nزد دست و زلف و کاکل مشکین را\r\nچون  کار رو زگار بهم بر زد\r\nبگشود چین ز جعد و گره از زلف\r\nبر روی پاک و قلب مکدر زد\r\nچونان  که مار حلقه زند بر گنج\r\nمویش به  گرد رویش چنبر زد\r\nشد چون بنات نعش پراکنده\r\nاز بسکه چنگ بر زر و زیور زد\r\nبر زرد چهره سیلی پی در پی\r\nگفتی چو سکه بود که بر زر زد\r\nچندان  که باد سرد کشید از دل\r\nاشکش ز دیده موج فزون تر زد\r\nموج از قفا ی  موج همی  گفتی\r\nبحر دمان ز جنبش صرصر زد\r\nگفتی ز خون دیده ستبرق را\r\nصباغ سان به خم معصفر زد\r\nبیهوش  گشت عبهر فتانش\r\nزاشکش  به رخ گلاب همی برزد\r\nگفتی  کسوف یافت مگر خورشید\r\nاز بس  طپانچه بر مه انور زد\r\nگفتمش ناله از چه  کنی چندین\r\nکافغانت بر به جان من  آذر زد\r\nگفتا ز دوری تو همی مویم\r\nکاتش  به موی موی من اندر زد\r\nایدون مر آن غلامک دیرینت\r\nزین باز بر به پشت تکاور زد\r\nگفتم خمش  که صاعقه آهت\r\nآتش به کشت جان من اندر زد\r\nیک سال بیش رفت  که هجرانم\r\nآتش به جان مام و برادر زد\r\nدر ری ازین فزون بنیارم ماند\r\nکاهم به جان زبانه چو اخگر زد\r\nاین گفت و سفت لعل به مروارید\r\nوز خشم سنگریزه به ساغر زد\r\nگفت از پی علاج  کنون باید\r\nدست رجا به دامن داور زد\r\nمظلوم  وش ز بهر تظلم چنگ\r\nدر دامن  خدیو مظفر زد\r\nشهزاده اردشیر که جودش طعن\r\nبر  فضل معن و همت جعفر زد\r\nفرماندهی که خادم قصر او\r\nبیغاره از جلال به قیصر زد\r\nرایش بها به مهر منور داد\r\nقهرش  قفا به چرخ مدور زد\r\nخود او به رزم یک تنه چون خورشید\r\nبا صد هزار بیشه غضنفر زد\r\nکس دیده غیر او  که به یک حمله\r\nبر صد هزار بادیه لشکر زد\r\nاختر بدند دشمن و او خورشید\r\nخورشیدوش  به یک فلک اختر زد\r\nاز خون زمین رزم بدخشان شد\r\nدر کین چو او نهیب بر اشقر زد\r\nبر عرق حلق خصم سنان او\r\nپنداشتی ز پیکان نشتر زد\r\nزد برگره ره دشم ا دین تنها\r\nچون  مرتضی  که  بر صف کافر زد\r\nدیگر نشان  کسی بنداد از او\r\nکوپال هرکرا که به مغفر زد\r\nدر رزم تیغ  کینه چو بهمن آخت\r\nدر بزم جام زر چو سکندر زد\r\nساغر به  بزم  عیش چو خسرو خورد\r\nصارم به رزم خصم چو نوذر زد\r\nجمشیدوار تخت چو بر بپراست\r\nخورشید وار باده احمر زد\r\nبر بام آسمان برین قدرش\r\nای بس که پنج نوبه چو سنجر زد\r\nجز تیر او عقاب شنیدستی\r\nکاندر طوافگاه اجل پر زد\r\nجز تیغ او نهنگ شنیدستی\r\nکاو همچو لجه موج ز جوهر زد\r\nخرگاه عز و رایت دولت را\r\nبر فرق چرخ و تارک اختر زد\r\nنعلین جاه و مقدم حشمت را\r\nبر ارج ماه و فرق دو پیکر زد\r\nبا برق  گویی ابر قرین آمد\r\nچون دست او به قبضه خنجر زد\r\nکفران نمود بر نعمش دشمن\r\nاو تیغ  کینه از پی  کیفر زد\r\nنشکفت اگر به طاعت ما چربد\r\nضربی  که شه به دشمن ابتر زد\r\nکافزون ز طاعت ثقلین آمد\r\nآن ضربتی که حیدر صفدر زد\r\nشیر خدا علی  که حسام او\r\nآتش به جان فرقه  کافر زد\r\nاو بود ماشطه صور خلقت\r\nدست ازل چو خامه به دفتر زد\r\nلا بلکه نیست دست صور پیرا\r\nگر نقش دست خالق اکبر زد\r\nجز او که اوست دست خدا آری\r\nدست خدا به دفتر زیور زد\r\nجز او پی شکستن بتها در\r\nکی پای کس به دوش پیمبر زد\r\nاز راست جز به عون و لای او\r\nنتوان قدم به عرصه محشر زد\r\nکوته  کنم سخن  که سزای او\r\nنتوان دم از ستایش درخور زد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبح آفتاب چون ز فلک سر زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماهم به خشم سندان بر در زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجستم ز جاگشودم درگفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید از کنار افق سر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بس‌ که حنده خندهٔ نوشینش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر بسته بسته قند مکرّر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eننشسته بردرید گریبان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپهلو ز تن به صبح من‌رر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون داغ دیدان به ملامت جنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حلقهای زلف معنبر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی به قهر پنجه یکی شاهین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغافل به پرّ و بال ‌کبوتر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر روی خویش نازده یک لطمه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز روی خشم لطمهٔ دیگر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بسکه خنده صفحهٔ‌ کافورش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان لطمه بر لطیمهٔ عنبر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیلی‌تر از بنفشه‌ستان آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بس طپانچه بر گل احمر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی به عمد شاخهٔ نیلوفر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیرایه را به فرق صنوبر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خون دیده طرهٔ او گفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزاغی به خون خویش همی پر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دانه دانه اشک دو رخسارش‌\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس‌ طعنه بر نجوم دو پیکر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر لب ‌گرفته زلف سیه‌ گفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدزدی به بارخانهٔ‌ گوهر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر هر رگم ز خشم دو چشم او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هر نگه هزاران نشتر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر جان همه شرنگ ز شکر ریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دل همه خدنگ ز عنبر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر مژه‌اش ز قهر به هر عضوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندین هزار ناوک و خنجر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم نرگسش به ‌کینم ترکش بست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم عبهرش به جانم آذر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیلی شدش ز بسکه رخ از سیلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتی به نیل دیبهٔ ششتر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگداخت شکّرین لب نوشینش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بس ز دیده آب به شکّر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافروخت زیر زلف رخش گفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوزخ زبانه در دل کافر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر موج اشک مردمک چشمش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس دست و پا چو مرد شناور زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر تا قدم چون نیل شدش نیلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بس طپانچه بر سر و پیکر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزد دست و زلف و کاکل مشکین را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون‌ کار رو‌زگار بهم بر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگشود چین ز جعد و گره از زلف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر روی پاک و قلب مکدّر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچونان‌ که مار حلقه زند بر گنج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمویش به‌ گرد رویش چنبر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد چون بنات نعش پراکنده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بسکه چنگ بر زر و زیور زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر زرد چهره سیلی پی در پی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتی چو سکه بود که بر زر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندان ‌که باد سرد کشید از دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاشکش ز دیده موج فزون تر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eموج از قفا‌ی ‌موج همی‌ گفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحر دمان ز جنبش صرصر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی ز خون دیده سِتبرَق را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصباغ سان به خم معصفر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیهوش‌ گشت عبهر فتانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزاشکش‌ به رخ گلاب همی برزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی ‌کسوف یافت مگر خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بس‌ طپانچه بر مه انور زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتمش ناله از چه‌ کنی چندین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکافغانت بر به جان من‌ آذر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتا ز دوری تو همی مویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاتش‌ به موی موی من اندر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایدون مر آن غلامک دیرینت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین باز بر به پشت تکاور زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم خمش‌ که صاعقهٔ آهت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش به‌کشت جان من اندر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک سال بیش رفت‌ که هجرانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش به جان مام و برادر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ری ازین فزون بنیارم ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاهم به جان زبانه چو اخگر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین‌گفت و سفت لعل به مروارید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز خشم سنگریزه به ساغر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت از پی علاج‌ کنون باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست رجا به دامن داور زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمظلوم ‌وش ز بهر تظلم چنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دامن‌ خدیو مظفّر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشهزاده اردشیر که جودش طعن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ‌فضل معن و همت جعفر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرماندهی که خادم قصر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیغاره از جلال به قیصر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرایش بها به مهر منور داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقهرش‌ قفا به چرخ مدور زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود او به‌رزم‌یک‌تنه‌چون‌خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا صد هزار بیشه غضنفر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس دیده غیر او ‌که به یک حمله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر صد هزار بادیه لشکر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاختر بدند دشمن و او خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشیدوش‌ به یک فلک اختر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خون زمین رزم بدخشان شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کین چو او نهیب بر اشقر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر عرق حلقِ خصم سنان او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپنداشتی ز پیکان نشتر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزد برگره‌ره دشم‌ا دین تنها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون ‌مرتضی‌ که ‌بر صف کافر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیگر نشان ‌کسی بنداد از او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوپال هرکرا که به مغفر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رزم تیغ ‌کینه چو بهمن آخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بزم جام زر چو سکندر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساغر به‌ بزم‌ عیش چو خسرو خورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصارم به رزم خصم چو نوذر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمشیدوار تخت چو بر بپراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید وار بادهٔ احمر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر بام آسمان برین قدرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای‌بس‌که پنج نوبه چو سنجر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز تیر او عقاب شنیدستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر طوافگاه اجل پر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز تیغ او نهنگ شنیدستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاو همچو لجه موج ز جوهر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرگاه عز و رایت دولت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر فرق چرخ و تارک اختر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنعلین جاه و مقدم حشمت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ارج ماه و فرق دو پیکر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا برق‌ گویی ابر قرین آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون دست او به قبضهٔ خنجر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn61\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکفران نمود بر نعمش دشمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو تیغ‌ کینه از پی ‌کیفر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn62\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشکفت اگر به طاعت ما چربد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eضربی‌ که شه به دشمن ابتر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn63\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکافزون ز طاعت ثقلین آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن ضربتی‌که حیدر صفدر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn64\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشیر خدا علی‌ که حسام او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش به جان فرقهٔ‌ کافر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn65\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو بود ماشطهٔ صور خلقت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست ازل چو خامه به دفتر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn66\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلا بلکه نیست دست صور پیرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر نقش دست خالق اکبر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn67\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز او که اوست دست خدا آری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست خدا به دفتر زیور زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn68\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز او پی شکستن بتها در\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی پای‌کس به دوش پیمبر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn69\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز راست جز به عون و لای او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتوان قدم به عرصهٔ محشر زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn70\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوته ‌کنم سخن ‌که سزای او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتوان دم از ستایش درخور زد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 70
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبح آفتاب چون ز فلک سر زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صبح که آفتاب از افق پیدا شد، ماه به خاطر خشم و نارضایتی‌اش به در کوبید."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ماهم به خشم سندان بر در زد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جستم ز جاگشودم درگفتی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به محض اینکه از جایی که بودم خارج شدم، متوجه شدم که خورشید از لبه افق بالا آمده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خورشید از کنار افق سر زد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای بس‌ که حنده خندهٔ نوشینش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیار دیده‌ام که لبخند شیرین او، همچون قند، بارها و بارها شیرینی را به دل‌ها می‌نشاند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بر بسته بسته قند مکرّر زد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ننشسته بردرید گریبان را",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خودم اجازه ندادم که در مقابل سختی‌ها و مشکلات، زانو بزنم و از پا در بیافتم؛ به طوری که در میان صبحگاهان، دست از خودنکردم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پهلو ز تن به صبح من‌رر زد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چون داغ دیدان به ملامت جنگ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که غم و اندوه عشق را احساس کردم، متوجه شدم که با شوق و انتظار، نگاه و زیبایی پیچیده‌شده در زلف و موهای محبوبم را درک می‌کنم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در حلقهای زلف معنبر زد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گفتی به قهر پنجه یکی شاهین",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو با کینه و خشم، به مانند یک شاهین ناآگاه، به پر و بال کبوتر حمله کردی."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "غافل به پرّ و بال ‌کبوتر زد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بر روی خویش نازده یک لطمه",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر اثر خشم، خود را مورد ضربه قرار داد و ضربه دیگری نیز به خود زد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "از روی خشم لطمهٔ دیگر زد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ای بسکه خنده صفحهٔ‌ کافورش",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به زیبایی می‌گوید که خنده‌ٔ دلنشین و شیرین خداوند، به قدری تاثیرگذار است که باعث شادی و خوشحالی عمیق در وجود انسان می‌شود و روح را به وجد می‌آورد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "زان لطمه بر لطیمهٔ عنبر زد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "نیلی‌تر از بنفشه‌ستان آمد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او از شدت ضربات بر گل‌های قرمز، رنگی عمیق‌تر از نیلی پیدا کرده است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "از بس طپانچه بر گل احمر زد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "گفتی به عمد شاخهٔ نیلوفر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتی که به طور عمدی شاخهٔ گل نیلوفر را بر سر درخت صنوبر قرار دادی."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "پیرایه را به فرق صنوبر زد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "در خون دیده طرهٔ او گفتی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در چشمانم که پر از اشک و حسرت است، موهای او مانند زاغی به پرواز درآمده که در خون خودش می‌کوشد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "زاغی به خون خویش همی پر زد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "از دانه دانه اشک دو رخسارش‌",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از هر یک از اشک‌های گونه‌هایش، به دو جسم آسمانی طعنه می‌زند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "بس‌ طعنه بر نجوم دو پیکر زد",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "در لب ‌گرفته زلف سیه‌ گفتی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زلف سیاه او همچون دزدی است که به گنجینه‌ای از گوهرها وارد شده و آن را در دست دارد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "دزدی به بارخانهٔ‌ گوهر زد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "بر هر رگم ز خشم دو چشم او",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آنجا که او به من نگاه می‌کند، هر نگاهش هزاران درد و زخم به من می‌زند و خشمش در وجودم جاری است."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "از هر نگه هزاران نشتر زد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "بر جان همه شرنگ ز شکر ریخت",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر جان همه زهر تلخ شکر پاشید و بر دل همه تیر خوشبو زد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "بر دل همه خدنگ ز عنبر زد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "هر مژه‌اش ز قهر به هر عضوم",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر مژه او به خاطر خشمش، بر هر یک از اعضای بدنم ضربات زیادی مانند تیر و خنجر زده است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "چندین هزار ناوک و خنجر زد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "هم نرگسش به ‌کینم ترکش بست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌هایش با زیبایی و بی‌نظیری، دلم را به شدت مجذوب کرده و شاهدانی از عشق و احساسات عمیق در جانم ایجاد کرده است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "هم عبهرش به جانم آذر زد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "نیلی شدش ز بسکه رخ از سیلی",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره‌اش به خاطر سیلی‌های مکرر، به رنگ نیلی درآمده است، گویی که دیبایی را از ششتر بر تن کرده باشد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "گفتی به نیل دیبهٔ ششتر زد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "بگداخت شکّرین لب نوشینش",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لب‌های شیرین و خوشگوار او به قدری بر اثر اشک‌هایم شکرین و لطیف شده‌اند که گویا شکر بر آنها نشسته است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "از بس ز دیده آب به شکّر زد",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "افروخت زیر زلف رخش گفتی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیر موهای زیبای او آتش شوقی شعله‌ور است که مانند آتش دوزخ در دل کافر می‌سوزد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "دوزخ زبانه در دل کافر زد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "در موج اشک مردمک چشمش",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در موج اشک‌های چشمان او، مانند مردی که در آب شناور است، دست و پا می‌زند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "بس دست و پا چو مرد شناور زد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "سر تا قدم چون نیل شدش نیلی",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او از شدت ضرباتی که به سر و بدنش خورده، کاملاً کبود شده و رنگش به آبی نیلگون تبدیل شده است."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "از بس طپانچه بر سر و پیکر زد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "زد دست و زلف و کاکل مشکین را",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر زیبایی و جذابیت خاصی که موها و زیبایی‌هایش دارد، روزگار و حوادث زندگی تغییراتی در او ایجاد کرده است."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "چون‌ کار رو‌زگار بهم بر زد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "بگشود چین ز جعد و گره از زلف",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: موهای مجعد و چین‌دارش را باز کرد و با گره‌هایش از روی چهرهٔ معصومش برداشت، و دل‌های ناراحت را شاد کرد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "بر روی پاک و قلب مکدّر زد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "چونان‌ که مار حلقه زند بر گنج",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند اینکه مار به دور گنج موی او حلقه می‌زند، دایره‌ای به دور چهره‌اش کشیده شده است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "مویش به‌ گرد رویش چنبر زد",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "شد چون بنات نعش پراکنده",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون دختران بی‌سر و سامان پراکنده شدند، به خاطر اینکه بیش از حد به زینت‌ها و جواهرات اهتمام کردند."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "از بسکه چنگ بر زر و زیور زد",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "بر زرد چهره سیلی پی در پی",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صورت زردش به سیلی‌های مداوم می‌مانست، گویی مانند سکه‌ای بود که بر روی نقره زده شده باشد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "گفتی چو سکه بود که بر زر زد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "چندان ‌که باد سرد کشید از دل",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که باد سردی وزید، اشک او از دلش به حدی سرریز شد که مانند موجی به شدت برآمد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "اشکش ز دیده موج فزون تر زد",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "موج از قفا‌ی ‌موج همی‌ گفتی",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: موج‌ها از پشت سر به همدیگر می‌گفتند که دریا در حال حرکت و تلاطم است و بادی سخت و سرد به آن ضربه می‌زند."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "بحر دمان ز جنبش صرصر زد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "گفتی ز خون دیده سِتبرَق را",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو گفتی که با خون اشک‌هایم، رنگ سرخ را به مانند صباغی، بر خم معصفر (یعنی شراب) زدی."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "صباغ سان به خم معصفر زد",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "بیهوش‌ گشت عبهر فتانش",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عبهر به خاطر جذابیت فریبنده‌اش به شدت تحت تأثیر قرار می‌گیرد و چنان خوشبو و زیباست که به گمان کسی گلاب بر چهره‌اش می‌ریزد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "زاشکش‌ به رخ گلاب همی برزد",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "گفتی ‌کسوف یافت مگر خورشید",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویی که خورشید به خاطر ضربه‌هایی که به ماه زده شده، eclipsed شده است."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "از بس‌ طپانچه بر مه انور زد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "گفتمش ناله از چه‌ کنی چندین",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از او پرسیدم چرا دائم ناله می‌کنی، در حالی که دلم را با غم و درد خود سوزانده‌ای؟"
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "کافغانت بر به جان من‌ آذر زد",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "گفتا ز دوری تو همی مویم",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفت که از فراق تو به جانم آتش زده‌ام و این آتش به موهایم رسیده است."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "کاتش‌ به موی موی من اندر زد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "ایدون مر آن غلامک دیرینت",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اکنون آن جوان کوچک و قدیمی‌ات دوباره بر پشت تو خیزش کرد و حمله‌ور شد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "زین باز بر به پشت تکاور زد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "گفتم خمش‌ که صاعقهٔ آهت",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم ساکت شو، زیرا صدای آه و ناله‌ات مثل صاعقه‌ای است که به جانم آسیب می‌زند و آتش می‌زند."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "آتش به‌کشت جان من اندر زد",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "یک سال بیش رفت‌ که هجرانم",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک سال گذشته و غم جدایی همچنان به جان من و خانواده‌ام آتش زده است."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "آتش به جان مام و برادر زد",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "در ری ازین فزون بنیارم ماند",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در ری، به اندازه‌ای که زنده‌ام، منتظر می‌مانم، مانند آتشی که در جانم شعله‌ور است."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "کاهم به جان زبانه چو اخگر زد",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "این‌گفت و سفت لعل به مروارید",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او این را گفت و با حرص و خشم، لعل را به مروارید تبدیل کرد و سنگریزه را به ساغر زد."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "وز خشم سنگریزه به ساغر زد",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "گفت از پی علاج‌ کنون باید",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گوید حالا که به درمان نیاز داریم، باید با امید و دلگرمی به درگاه خداوند رو بیاوریم."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "دست رجا به دامن داور زد",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "مظلوم ‌وش ز بهر تظلم چنگ",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زن بی‌پناه برای کمک و درخواست یاری، دست به دامن شاه پادشاه و پیروزی زده است."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "در دامن‌ خدیو مظفّر زد",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "شهزاده اردشیر که جودش طعن",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اردشیر، شاهزاده‌ای است که بخشش و generosity او، به قدری قابل توجه است که می‌تواند بر نیکی و تلاش‌های دیگران سایه بیندازد."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "بر ‌فضل معن و همت جعفر زد",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "فرماندهی که خادم قصر او",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرمانده‌ای که خدمتکارانش به سبب عظمت و شکوه او برتری و قدرت قیصر را تحت‌الشعاع قرار داده‌اند."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "بیغاره از جلال به قیصر زد",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "رایش بها به مهر منور داد",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او با ناز و محبت خاصی بر من توجه کرد و در عین حال، از روی ناخرسندی و بی‌میلی، به سمت دورترین حالت ممکن رفت."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "قهرش‌ قفا به چرخ مدور زد",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "خود او به‌رزم‌یک‌تنه‌چون‌خورشید",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او مانند خورشید، تنها و با قدرت، در میانه جنگی سخت با صد هزار شیر وحشی مقابله کرد."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "با صد هزار بیشه غضنفر زد",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "کس دیده غیر او ‌که به یک حمله",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس غیر از او را نمی‌بیند که با یک حرکت قادر است بر صد هزار نفر لشکر بتازد."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "بر صد هزار بادیه لشکر زد",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "اختر بدند دشمن و او خورشید",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد دشمنی بدخواهان به اندازه خورشیدی درخشان و خوشبختی را تهدید می‌کند، ولی در عین حال در یک آسمان ستاره‌ای، که نشان‌دهنده‌ی قدرت و نور است، همچنان درخشش خورشید از آن ستاره‌ها برجسته‌تر است."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "خورشیدوش‌ به یک فلک اختر زد",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "از خون زمین رزم بدخشان شد",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نتیجه خونریزی‌های زمین، جنگ در بدخشان به شدت شدت گرفت، وقتی که او با صدای بلند بر اسب سفید خود فرمان داد."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "در کین چو او نهیب بر اشقر زد",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "بر عرق حلقِ خصم سنان او",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شما فکر کردید که دندان‌های تیز دشمن، مانند پیکانی که به هدف نشانه می‌رود، بر عرق گردن او فرود می‌آید."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "پنداشتی ز پیکان نشتر زد",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "زد برگره‌ره دشم‌ا دین تنها",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دشمنان را درخودت احساس کن که چگونه به سراغشان می‌روی. مانند علی، که در میدان نبرد با شجاعت به صف کافران حمله کرد."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "چون ‌مرتضی‌ که ‌بر صف کافر زد",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "دیگر نشان ‌کسی بنداد از او",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیگر هیچ نشانی از کسی باقی نمانده که وقتی در همسایگی‌اش می‌نشینی، به او دسترسی پیدا کنی."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "کوپال هرکرا که به مغفر زد",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "در رزم تیغ ‌کینه چو بهمن آخت",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نبرد، اگر کینه و دشمنی به شدت و قاطعیت حمله کند، در مهمانی و فرصت‌های خوشی، انسان باید مانند سکندر شجاعت و قدرت را در دست داشته باشد."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "در بزم جام زر چو سکندر زد",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "ساغر به‌ بزم‌ عیش چو خسرو خورد",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در میخانه، نوشیدن شربت و خوش‌گذارانی مانند خسرو است، و در میدان جنگ، جنگیدن و مبارزه مانند نوذر است."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "صارم به رزم خصم چو نوذر زد",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "جمشیدوار تخت چو بر بپراست",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تخت مانند جمشید در اوج بلندی قرار می‌گیرد، همچون خورشید، شراب قرمزی را می‌نوشد."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "خورشید وار بادهٔ احمر زد",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "بر بام آسمان برین قدرش",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اوج آسمان، جایگاه تو بسیار بلند است، چرا که سنجر پنج بار به این مقام رسید."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "ای‌بس‌که پنج نوبه چو سنجر زد",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "جز تیر او عقاب شنیدستی",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها تیر او را که شلیک کرد، شنیده‌ای که در گرداگرد مرگ بال ها گشوده است."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "کاندر طوافگاه اجل پر زد",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "جز تیغ او نهنگ شنیدستی",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غیر از تیغ او، نهنگ هم چیزی نشنیده‌ای که او مانند دریا موجی از جوهر را به حرکت درآورد."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "کاو همچو لجه موج ز جوهر زد",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "خرگاه عز و رایت دولت را",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خرگاه عظمت و پرچم حکومت را بر فراز آسمان و بر بالای ستاره‌ها قرار داد."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "بر فرق چرخ و تارک اختر زد",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "نعلین جاه و مقدم حشمت را",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کفش‌های گرانبها و نشانه‌های مقام و احترام را به جایگاه و ارزش ماه و فرق دو تن از انسان‌ها قرار داد."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "بر ارج ماه و فرق دو پیکر زد",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "با برق‌ گویی ابر قرین آمد",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ابر همچون برقی زیبا به نظر می‌رسد و زمانی که او دستش را بر روی خنجر می‌ساید، این زیبایی به اوج می‌رسد."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "چون دست او به قبضهٔ خنجر زد",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "کفران نمود بر نعمش دشمن",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دشمن او بر نعمت‌هایش ناشکری کرد و با کینه‌توزی در پی انتقام رفت."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "او تیغ‌ کینه از پی ‌کیفر زد",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 123,
+      "Position": "Right",
+      "Text": "نشکفت اگر به طاعت ما چربد",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به خاطر اطاعت ما، کاری که شاه علیه دشمن انجام داد، نازک و کم‌اثر شود، پس چه فایده‌ای خواهد داشت؟"
+    },
+    {
+      "VOrder": 124,
+      "Position": "Left",
+      "Text": "ضربی‌ که شه به دشمن ابتر زد",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 125,
+      "Position": "Right",
+      "Text": "کافزون ز طاعت ثقلین آمد",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ضربتی که حیدر (علی) بر دشمن زد، نتیجه ای بیش از عبادت و اخلاص ائمه (علیه‌السلام) در پی دارد."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Left",
+      "Text": "آن ضربتی‌که حیدر صفدر زد",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 127,
+      "Position": "Right",
+      "Text": "شیر خدا علی‌ که حسام او",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علی، شیر خدا و دلاوری است که با شمشیرش، گروه کافران را به شدت مجازات کرد و آتش حملاتش به جان آنها افتاد."
+    },
+    {
+      "VOrder": 128,
+      "Position": "Left",
+      "Text": "آتش به جان فرقهٔ‌ کافر زد",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 129,
+      "Position": "Right",
+      "Text": "او بود ماشطهٔ صور خلقت",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او همان کسی است که زیبایی‌های خلق را شکل داده، مانند دست ازل که با قلم خود بر روی کاغذ نوشت."
+    },
+    {
+      "VOrder": 130,
+      "Position": "Left",
+      "Text": "دست ازل چو خامه به دفتر زد",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 131,
+      "Position": "Right",
+      "Text": "لا بلکه نیست دست صور پیرا",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درست است که این دست، زیبایی‌های خود را دارد، اما آنچه که مهم‌تر است، اثر و نقش خالق بزرگ است که در پس این زیبایی‌ها قرار دارد."
+    },
+    {
+      "VOrder": 132,
+      "Position": "Left",
+      "Text": "گر نقش دست خالق اکبر زد",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 133,
+      "Position": "Right",
+      "Text": "جز او که اوست دست خدا آری",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها کسی که حقیقتاً موجود است و نمایانگر قدرت الهی است، همان خداست. خداوند به زیبایی و کمالات خود، مانند دفتری زیبا و پرزرق و برق، جلوه می‌دهد."
+    },
+    {
+      "VOrder": 134,
+      "Position": "Left",
+      "Text": "دست خدا به دفتر زیور زد",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 135,
+      "Position": "Right",
+      "Text": "جز او پی شکستن بتها در",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها اوست که برای نابود کردن بت‌ها، هیچ کس را به دوش پیامبر نمی‌گذارد."
+    },
+    {
+      "VOrder": 136,
+      "Position": "Left",
+      "Text": "کی پای‌کس به دوش پیمبر زد",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 137,
+      "Position": "Right",
+      "Text": "از راست جز به عون و لای او",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای ورود به عرصهٔ محشر، تنها با یاری و کمک او می‌توان قدم برداشت و بدون این حمایت، امکان‌پذیر نیست."
+    },
+    {
+      "VOrder": 138,
+      "Position": "Left",
+      "Text": "نتوان قدم به عرصهٔ محشر زد",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 139,
+      "Position": "Right",
+      "Text": "کوته ‌کنم سخن ‌که سزای او",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن را کوتاه می‌کنم زیرا شایسته او آنقدر بزرگ است که نمی‌توانم او را به خوبی ستایش کنم."
+    },
+    {
+      "VOrder": 140,
+      "Position": "Left",
+      "Text": "نتوان دم از ستایش درخور زد",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0
+    }
+  ]
+}

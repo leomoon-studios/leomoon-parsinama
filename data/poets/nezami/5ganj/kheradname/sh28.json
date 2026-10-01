@@ -1,0 +1,947 @@
+{
+  "Id": 9240,
+  "CatId": 116,
+  "Title": "بخش ۲۸ - گفتار حکیم نظامی",
+  "FullTitle": "نظامی » خمسه » اسکندرنامه - بخش دوم: خردنامه » بخش ۲۸ - گفتار حکیم نظامی",
+  "FullUrl": "/nezami/5ganj/kheradname/sh28",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: نظامی در این متن به بیان حقیقیات و رازهای عالم می‌پردازد. او تاکید می‌کند که همه چیز از ذات آفریننده نشأت می‌گیرد و در این بین، خرد بشر کلید فهم حقیقت‌ها است. از نظر او، خرد توانایی درک و کشف گنجینه‌های پنهان دانش را دارد. \n\nاو به نقش ازل و پنهانی که بر آن پرده است اشاره کرده و می‌گوید که انسان نمی‌تواند به تمامی رازها دست یابد. در عین حال، بهبود و پیشرفت انسان به خرد و خردمندی وابسته است. نظامی با استفاده از آیات و تشبیهات به ماهیت انسان، روح و جسم او پرداخته و اهمیت خرد را در زیستن صحیح و درک عالم تفسیر می‌کند. \n\nاو به تضادهایی که در وجود انسان است اشاره می‌کند و به دشواری‌هایی که در راه درک حقیقت وجود دارد، می‌پردازد و در نهایت، بر لزوم کمال انسانی و گردآوری پیکر پراکنده آدمی تاکید دارد.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "نظامی بر این در مجنبان کلید\r\nکه نقش ازل بسته را کس ندید\r\nبزرگ آفریننده هر چه هست\r\nز هرچ آفریده  است بالا و پست\r\nنخستین خرد را پدیدار کرد\r\nز نور خودش دیده بیدار کرد\r\nبر آن نقش کز کلک قدرت نگاشت\r\nز چشم خرد هیچ پنهان نداشت\r\nمگر نقش اول کز آغاز بست\r\nکز آن پرده چشم خرد باز بست\r\nچو شد بسته نقش نخستین طراز\r\nعصابه ز چشم خرد کرد باز\r\nهر آن گنج پوشیده کامد پدید\r\nبه دست خرد باز دادش کلید\r\nجز اول حسابی که سربسته بود\r\nوز آنجا خرد چشم بربسته بود\r\nدیگر جا که پنهان نبود از خرد\r\nخرد را چو پرسی بدو ره برد\r\nوز آن جاده کاو بر خرد بست راه\r\nحکایت مکن زو حکایت مخواه\r\nبه آنجا تواند خرد راه برد\r\nکه فرسنگ و منزل تواند شمرد\r\nره غیب ازان دورتر شد بسی\r\nکه اندیشه آنجا رساند کسی\r\nخردمندی آنراست کز هر چه هست\r\nچو نادیدنی بود ازو دیده بست\r\nچو صنعت به صانع تو را ره نمود\r\nنوایی بر این پرده نتوان فزود\r\nسخن بین که با مرکب نیم لنگ\r\nچگونه برون آمد از راه تنگ\r\nهمانا که آن هاتف خضر نام\r\nکه خارا شکافیست خضرا خرام\r\nدرودم رسانید و بعد از درود\r\nبه کاخ من آمد ز گنبد فرود\r\nدماغ مرا بر سخن کرد گرم\r\nسخن گفت با من به آواز نرم\r\nکه چندین سخن های خلوت سگال\r\nحوالت مکن بر زبان های لال\r\nتو می خاری این سرو را بیخ و بن\r\nبر آن فیلسوفان چه بندی سخن \r\nچرا بست باید سخن های نغز \r\nبر آن استخوان های پوسیده مغز\r\nبه خوان کسان بر مخور نان خویش\r\nشکینه بنه بر سر خوان خویش\r\nبلی مردم دور نامردمند\r\nنه بر انجمن فتنه بر انجمند\r\nنه خاکی ولی چون زمین خاک دوست\r\nنه خاک آدمی بلکه خاکی نکوست\r\nمشعبد شد این خاک نیرنگ ساز\r\nکه هم مهره دزد است و هم مهره باز\r\nکند مهره ای را به کف در نهان\r\nدگر باره آرد برون از دهان\r\nفرو بردنش هست زرنیخ زرد\r\nبرآوردنش نیل با لاجورد\r\nبه وقت خزان می خورد عود خشک\r\nبه فصل بهار آورد ناف مشک\r\nتن آدمی را که خواهد فشرد\r\nندانم که چون باز خواهد سپرد\r\nتن ما که در خاکش آکندگی است\r\nنه در نیستی در پراکندگی است\r\nپراکنده ای کاو بود جایگیر\r\nگر آید فراهم بود دلپذیر\r\nچو هرچ آن بود بر زمین ریز ریز\r\nبه سیماب جمع آورد خاک بیز\r\nچو زر پراکنده را چاره ساز\r\nبه سیماب دیگر ره آرد فراز\r\nگر اجزای ما را که بودش روان\r\nدگر باره جمعی بود می توان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظامی بر این در مجنبان کلید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نقش ازل بسته را کس ندید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبزرگ آفریننده هر چه هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز هرچ آفریده‌ است بالا و پست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخستین خرد را پدیدار کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز نور خودش دیده بیدار کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آن نقش کز کلک قدرت نگاشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز چشم خرد هیچ پنهان نداشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر نقش اوّل کز آغاز بست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز آن پرده چشم خرد باز بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو شد بسته نقش نخستین طراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعصابه ز چشم خرد کرد باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر آن گنج پوشیده کامد پدید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دست خرد باز دادش کلید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز اوّل حسابی که سربسته بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز آنجا خرد چشم بربسته بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیگر جا که پنهان نبود از خرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرد را چو پرسی، بدو ره بَرَد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز آن جاده کاو بر خرد بست راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحکایت مکن، زو حکایت مخواه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آنجا تواند خرد راه بُرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه فرسنگ و منزل تواند شمرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eره غیب ازان دورتر شد بسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه اندیشه آنجا رسانَد کسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخردمندی آنراست کز هر چه هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو نادیدنی بود، ازو دیده بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو صنعت به صانع تو را ره نمود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوایی بر این پرده نتوان فزود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخن بین که با مرکبِ نیم‌لنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچگونه برون آمد از راه تنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمانا که آن هاتف خضر نام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خارا شکافیست خضرا خرام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرودم رسانید و بعد از درود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کاخ من آمد ز گنبد فرود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدماغ مرا بر سخن کرد گرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن گفت با من به آواز نرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه چندین سخن‌های خلوت سگال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحوالت مکن بر زبان‌های لال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو می‌خاری این سرو را بیخ و بن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آن فیلسوفان چه بندی سخن ؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرا بست باید سخن‌های نغز ؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آن استخوان‌های پوسیده مغز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خوان کسان بر مخور نان خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکینه بنه بر سر خوان خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلی مردمِ دور نامردمند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه بر انجمن فتنه بر انجمند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه خاکی ولی چون زمین خاک دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه خاک آدمی بلکه خاکی نکوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشعبد شد این خاک نیرنگ ساز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هم مهره‌دزد است و هم مهره‌باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکند مهره‌ای را به کف در نهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدگر باره آرد برون از دهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرو بردنش هست زرنیخ زرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآوردنش نیل با لاجورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه وقت خزان می‌خورد عود خشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه فصل بهار آورد ناف مشک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن آدمی را که خواهد فشرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندانم که چون باز خواهد سپرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن ما که در خاکش آکندگی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه در نیستی در پراکندگی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپراکنده‌ای کاو بود جایگیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر آید فراهم بود دلپذیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو هرچ آن بود بر زمین ریز ریز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سیماب جمع آورد خاک بیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو زر پراکنده را چاره ساز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سیماب دیگر ره آرد فراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر اجزای ما را که بودش روان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدگر باره جمعی بود می‌توان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 34
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "نظامی بر این در مجنبان کلید\r\nکه نقش ازل بسته را کس ندید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظامی بر این در مجنبان کلید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نقش ازل بسته را کس ندید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ست",
+      "PlainText": "بزرگ آفریننده هر چه هست\r\nز هرچ آفریده  است بالا و پست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبزرگ آفریننده هر چه هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز هرچ آفریده‌ است بالا و پست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یدارکرد",
+      "PlainText": "نخستین خرد را پدیدار کرد\r\nز نور خودش دیده بیدار کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخستین خرد را پدیدار کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز نور خودش دیده بیدار کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اشت",
+      "PlainText": "بر آن نقش کز کلک قدرت نگاشت\r\nز چشم خرد هیچ پنهان نداشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آن نقش کز کلک قدرت نگاشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز چشم خرد هیچ پنهان نداشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ازبست",
+      "PlainText": "مگر نقش اول کز آغاز بست\r\nکز آن پرده چشم خرد باز بست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر نقش اوّل کز آغاز بست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز آن پرده چشم خرد باز بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "از",
+      "PlainText": "چو شد بسته نقش نخستین طراز\r\nعصابه ز چشم خرد کرد باز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو شد بسته نقش نخستین طراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعصابه ز چشم خرد کرد باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "هر آن گنج پوشیده کامد پدید\r\nبه دست خرد باز دادش کلید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر آن گنج پوشیده کامد پدید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دست خرد باز دادش کلید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ربستهبود",
+      "PlainText": "جز اول حسابی که سربسته بود\r\nوز آنجا خرد چشم بربسته بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز اوّل حسابی که سربسته بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز آنجا خرد چشم بربسته بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "دیگر جا که پنهان نبود از خرد\r\nخرد را چو پرسی بدو ره برد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیگر جا که پنهان نبود از خرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرد را چو پرسی، بدو ره بَرَد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "وز آن جاده کاو بر خرد بست راه\r\nحکایت مکن زو حکایت مخواه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز آن جاده کاو بر خرد بست راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحکایت مکن، زو حکایت مخواه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "به آنجا تواند خرد راه برد\r\nکه فرسنگ و منزل تواند شمرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آنجا تواند خرد راه بُرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه فرسنگ و منزل تواند شمرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "سی",
+      "PlainText": "ره غیب ازان دورتر شد بسی\r\nکه اندیشه آنجا رساند کسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eره غیب ازان دورتر شد بسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه اندیشه آنجا رسانَد کسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ست",
+      "PlainText": "خردمندی آنراست کز هر چه هست\r\nچو نادیدنی بود ازو دیده بست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخردمندی آنراست کز هر چه هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو نادیدنی بود، ازو دیده بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ود",
+      "PlainText": "چو صنعت به صانع تو را ره نمود\r\nنوایی بر این پرده نتوان فزود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو صنعت به صانع تو را ره نمود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوایی بر این پرده نتوان فزود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نگ",
+      "PlainText": "سخن بین که با مرکب نیم لنگ\r\nچگونه برون آمد از راه تنگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخن بین که با مرکبِ نیم‌لنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچگونه برون آمد از راه تنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ام",
+      "PlainText": "همانا که آن هاتف خضر نام\r\nکه خارا شکافیست خضرا خرام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمانا که آن هاتف خضر نام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خارا شکافیست خضرا خرام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رود",
+      "PlainText": "درودم رسانید و بعد از درود\r\nبه کاخ من آمد ز گنبد فرود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرودم رسانید و بعد از درود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کاخ من آمد ز گنبد فرود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رم",
+      "PlainText": "دماغ مرا بر سخن کرد گرم\r\nسخن گفت با من به آواز نرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدماغ مرا بر سخن کرد گرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن گفت با من به آواز نرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ال",
+      "PlainText": "که چندین سخن های خلوت سگال\r\nحوالت مکن بر زبان های لال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه چندین سخن‌های خلوت سگال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحوالت مکن بر زبان‌های لال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "تو می خاری این سرو را بیخ و بن\r\nبر آن فیلسوفان چه بندی سخن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو می‌خاری این سرو را بیخ و بن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آن فیلسوفان چه بندی سخن ؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "غز",
+      "PlainText": "چرا بست باید سخن های نغز \r\nبر آن استخوان های پوسیده مغز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرا بست باید سخن‌های نغز ؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آن استخوان‌های پوسیده مغز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انخویش",
+      "PlainText": "به خوان کسان بر مخور نان خویش\r\nشکینه بنه بر سر خوان خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خوان کسان بر مخور نان خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکینه بنه بر سر خوان خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مند",
+      "PlainText": "بلی مردم دور نامردمند\r\nنه بر انجمن فتنه بر انجمند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلی مردمِ دور نامردمند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه بر انجمن فتنه بر انجمند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وست",
+      "PlainText": "نه خاکی ولی چون زمین خاک دوست\r\nنه خاک آدمی بلکه خاکی نکوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه خاکی ولی چون زمین خاک دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه خاک آدمی بلکه خاکی نکوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "از",
+      "PlainText": "مشعبد شد این خاک نیرنگ ساز\r\nکه هم مهره دزد است و هم مهره باز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشعبد شد این خاک نیرنگ ساز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هم مهره‌دزد است و هم مهره‌باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "هان",
+      "PlainText": "کند مهره ای را به کف در نهان\r\nدگر باره آرد برون از دهان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکند مهره‌ای را به کف در نهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدگر باره آرد برون از دهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "فرو بردنش هست زرنیخ زرد\r\nبرآوردنش نیل با لاجورد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرو بردنش هست زرنیخ زرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآوردنش نیل با لاجورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 29,
+      "Number": 29,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "شک",
+      "PlainText": "به وقت خزان می خورد عود خشک\r\nبه فصل بهار آورد ناف مشک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه وقت خزان می‌خورد عود خشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه فصل بهار آورد ناف مشک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 30,
+      "Number": 30,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "تن آدمی را که خواهد فشرد\r\nندانم که چون باز خواهد سپرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن آدمی را که خواهد فشرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندانم که چون باز خواهد سپرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 31,
+      "Number": 31,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اکندگیاست",
+      "PlainText": "تن ما که در خاکش آکندگی است\r\nنه در نیستی در پراکندگی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن ما که در خاکش آکندگی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه در نیستی در پراکندگی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 32,
+      "Number": 32,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یر",
+      "PlainText": "پراکنده ای کاو بود جایگیر\r\nگر آید فراهم بود دلپذیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپراکنده‌ای کاو بود جایگیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر آید فراهم بود دلپذیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 33,
+      "Number": 33,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یز",
+      "PlainText": "چو هرچ آن بود بر زمین ریز ریز\r\nبه سیماب جمع آورد خاک بیز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو هرچ آن بود بر زمین ریز ریز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سیماب جمع آورد خاک بیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 34,
+      "Number": 34,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "از",
+      "PlainText": "چو زر پراکنده را چاره ساز\r\nبه سیماب دیگر ره آرد فراز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو زر پراکنده را چاره ساز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سیماب دیگر ره آرد فراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 35,
+      "Number": 35,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وان",
+      "PlainText": "گر اجزای ما را که بودش روان\r\nدگر باره جمعی بود می توان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر اجزای ما را که بودش روان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدگر باره جمعی بود می‌توان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نظامی بر این در مجنبان کلید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: نظامی می‌گوید که هیچ کس نباید در این در را با کلیدش تکان دهد، زیرا هیچ‌کس از قبل تعیین‌شده را که بر این در نوشته شده است، نمی‌تواند ببیند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که نقش ازل بسته را کس ندید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بزرگ آفریننده هر چه هست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: خداوند بزرگ، خالق هر چیزی است و هر آنچه که وجود دارد، چه در سطح بالا و چه در سطح پایین، از اوست."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز هرچ آفریده‌ است بالا و پست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نخستین خرد را پدیدار کرد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: خداوند، نخستین آگاهی و دانش را آشکار ساخت و با نور خود، بصیرت و دانایی انسان‌ها را روشن کرد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز نور خودش دیده بیدار کرد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر آن نقش کز کلک قدرت نگاشت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که هر آنچه که از قدرت خالق بر کاغذ زندگی نوشته شده، هیچ چیز از چشم خرد پنهان نیست و همه چیز آشکار و واضح است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ز چشم خرد هیچ پنهان نداشت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مگر نقش اوّل کز آغاز بست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: آیا نمی‌دانی که نقش اولی که از ابتدا ترسیم شده است، چشمان خرد را از دیدن آن پرده بسته است؟"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کز آن پرده چشم خرد باز بست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چو شد بسته نقش نخستین طراز",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: وقتی که طرح اولیه به شکلی مشخص و زیبا طراحی شد، دوباره با دقت و خردمندانه آن را از نو بررسی کرد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "عصابه ز چشم خرد کرد باز",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "هر آن گنج پوشیده کامد پدید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که به‌طور پنهان وجود دارد و به دنبال آن هستیم، با استفاده از عقل و دانش، آشکار می‌شود و به ما راه‌حل یا راهی برای دسترسی به آن داده می‌شود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "به دست خرد باز دادش کلید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "جز اوّل حسابی که سربسته بود",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: جز اولین محاسبه‌ای که به‌طور مبهم بود و از آنجا خرد و عقل دور شده بود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "وز آنجا خرد چشم بربسته بود",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "دیگر جا که پنهان نبود از خرد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر در جایی چیزی پنهان نباشد و از خرد و دانایی خود بپرسی، او تو را به راه درست هدایت می‌کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "خرد را چو پرسی، بدو ره بَرَد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "وز آن جاده کاو بر خرد بست راه",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: به خاطر داشته باش که از کسی که به عقل و خرد خود راه را بسته، چیزی نپرس و صحبت نکن."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "حکایت مکن، زو حکایت مخواه",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "به آنجا تواند خرد راه بُرد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: یک ذهن آگاه می‌تواند به هدفی برسد که به فاصله و مراحل آن توجه کرده باشد و مسیر را به‌خوبی بشناسد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "که فرسنگ و منزل تواند شمرد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "ره غیب ازان دورتر شد بسی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: راه‌های ناشناخته و غیرقابل پیش‌بینی بسیار دورتر شده‌اند به‌اندازه‌ای که هیچ‌کس نمی‌تواند به راحتی به آن‌ها فکر کند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "که اندیشه آنجا رسانَد کسی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "خردمندی آنراست کز هر چه هست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: خردمند کسی است که از چیزهایی که دیده نمی‌شوند، چشم می‌پوشد و خود را از آنها دور می‌کند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "چو نادیدنی بود، ازو دیده بست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "چو صنعت به صانع تو را ره نمود",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی هنر به خالقش مسیر را نشان داد، دیگر نمیتوان به این پرده نت جدیدی افزود."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "نوایی بر این پرده نتوان فزود",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "سخن بین که با مرکبِ نیم‌لنگ",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: به دقت توجه کن که چگونه با یک وسیله ناقص می‌توان از مسیر باریک عبور کرد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "چگونه برون آمد از راه تنگ",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "همانا که آن هاتف خضر نام",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: به راستی آن ندا دهنده‌ای به نام خضر وجود دارد که در زندگی درخشان و پربار تاثیر دارد و در مشکلات و دشواری‌ها راهنمایی می‌کند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "که خارا شکافیست خضرا خرام",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "درودم رسانید و بعد از درود",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: سلامی به من فرستاد و بعد از آن به کاخ من آمد و از بالای گنبد پایین آمد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "به کاخ من آمد ز گنبد فرود",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "دماغ مرا بر سخن کرد گرم",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: بیدارم کرد و با صدای ملایم و دلنشینش با من سخن گفت."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "سخن گفت با من به آواز نرم",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "که چندین سخن‌های خلوت سگال",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که از بیان رازها و صحبت‌های خصوصی خود نزد افرادی که قادر به درک و پاسخ‌گویی نیستند، خودداری کن."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "حوالت مکن بر زبان‌های لال",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "تو می‌خاری این سرو را بیخ و بن",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: تو مانند خار به ریشه این سرو لطیف آسیب می‌زنی، پس فیلسوفان چه نگاهی به این سخن دارند؟"
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "بر آن فیلسوفان چه بندی سخن ؟",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "چرا بست باید سخن‌های نغز ؟",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: چرا باید صحبت‌های زیبا و دلنشین را محدود کرد؟ وقتی که این اندیشه‌ها فقط بر پایه تفکرات کهنه و فرسوده بنا شده‌اند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "بر آن استخوان‌های پوسیده مغز",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "به خوان کسان بر مخور نان خویش",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: به میهمانی دیگران نرو و از سفره‌‍شان غذا نخور، بلکه خودت سفره‌ای پهن کن و به میهمانان خود نان بده."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "شکینه بنه بر سر خوان خویش",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "بلی مردمِ دور نامردمند",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: بله، مردم از دور به‌نظر بی‌وفا و نامرد به نظر می‌رسند و نه در جمع‌هایی که صحبت از فتنه و آشوب می‌شود، بلکه در چرخه‌ای که به مشکلات گسترده‌تری منجر می‌شود."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "نه بر انجمن فتنه بر انجمند",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "نه خاکی ولی چون زمین خاک دوست",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: تو خاک نیستی، اما مانند زمین، خاک را دوست داری. تو خاک انسان نیستی، بلکه خاکی ارزشمند و نیکو به شمار می‌آیی."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "نه خاک آدمی بلکه خاکی نکوست",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "مشعبد شد این خاک نیرنگ ساز",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: این زمین به جایی تبدیل شده که در آن هم کسی مهره‌ها را می‌دزدد و هم کسی با آن‌ها بازی می‌کند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "که هم مهره‌دزد است و هم مهره‌باز",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "کند مهره‌ای را به کف در نهان",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: یک مهره را در دست پنهان می‌کند، دوباره آن را از دهانش بیرون می‌آورد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "دگر باره آرد برون از دهان",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "فرو بردنش هست زرنیخ زرد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: این جمله به معنی این است که برای دستیابی به چیزی با ارزش و زیبا، باید از مراحل سخت و دشواری عبور کرد. در اینجا، اشاره به فرآیند تولید رنگ زرد (زرنیخ) و رنگ نیل و لاجورد به عنوان نمادهای تلاش و کوشش برای رسیدن به زیبایی و ارزش دارد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "برآوردنش نیل با لاجورد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "به وقت خزان می‌خورد عود خشک",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در فصل پاییز، عود خشک می‌سوزد و بوی خوشی از آن برخاسته و در بهار، خوشبویی به مشام می‌رسد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "به فصل بهار آورد ناف مشک",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "تن آدمی را که خواهد فشرد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: تن انسان را وقتی که بخواهند بفشارند، نمی‌دانم چگونه دوباره به حالت اول خود برمی‌گردد."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "ندانم که چون باز خواهد سپرد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "تن ما که در خاکش آکندگی است",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: بدن ما که در خاک قرار دارد، به خاطر عدم وجود در واقع پراکنده است و نه به خاطر عدم وجود واقعی."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "نه در نیستی در پراکندگی است",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "پراکنده‌ای کاو بود جایگیر",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: شخصی که از هم پراکنده شده، به محض اینکه به هم بپیوندند، می‌تواند در کنار هم بودن، لذت بخش و خوشایند باشد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "گر آید فراهم بود دلپذیر",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "چو هرچ آن بود بر زمین ریز ریز",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: هر چه در زمین وجود دارد، مانند ریزه‌ریزهایی است که در جویبار جمع می‌شوند، به‌ویژه خاکی که در دامن طبیعت پراکنده است."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "به سیماب جمع آورد خاک بیز",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "چو زر پراکنده را چاره ساز",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: وقتی که طلا را به صورت پراکنده درآوریم، برای به دست آوردن نتیجه مطلوب باید به روشی دیگر و با استفاده از جوهری متفاوت مانند جیوه، آن را به شکل مناسب درآوریم."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "به سیماب دیگر ره آرد فراز",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "گر اجزای ما را که بودش روان",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: اگر اجزای جسم ما که در آن روح قرار دارد دوباره جمع شوند، می‌توانیم دوباره به زندگی بازگردیم."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "دگر باره جمعی بود می‌توان",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35
+    }
+  ]
+}

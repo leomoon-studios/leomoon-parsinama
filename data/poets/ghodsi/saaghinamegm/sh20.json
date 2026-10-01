@@ -1,0 +1,1759 @@
+{
+  "Id": 75251,
+  "CatId": 2087,
+  "Title": "بخش ۲۰",
+  "FullTitle": "قدسی مشهدی » ساقی‌نامه » بخش ۲۰",
+  "FullUrl": "/ghodsi/saaghinamegm/sh20",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: در این متن، شاعر به موضوع توبه و بازگشت به راه راست پرداخته و هشدار می‌دهد که زندگی باید در لحظه کنونی شکل بگیرد و به خوشی‌های زودگذر گذشته امید نداشته باشد. او به بیهوده بودن زندگی در پی لذات دنیوی اشاره کرده و می‌گوید که هوس‌های زودگذر در پیری به هیچ دردی نمی‌خورند. توصیه‌های شاعر نشان‌دهنده اهمیت کنترل هوس‌ها و دوری از گناه است و او جوانان را به تفکر درباره عواقب کارهایشان و عدم فریب خوردن از زرق و برق دنیوی دعوت می‌کند. همچنین، شاعر به نسبت‌های انسانی و عشق‌های حقیقی اشاره کرده و بر این نکته تأکید می‌کند که در دوستی‌ها باید احتیاط کرد و از افراد ناپخته دوری گزید.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "ز بد توبه امروز باشد صواب\r\nوگرنه چه سود از پل آن سوی آب\r\nبه زشتی کشی عالمی را به پیش\r\nندانسته ای قبح کردار خویش\r\nچنان کن که چون پرده افتد ز کار\r\nنباشی ز فعل نهان شرمسار\r\nبه باطل به سر رفت پنجاه و شست\r\nندانم کی از پای خواهی نشست\r\nهوس را به پیری ز خاطر برآر\r\nکه افسوس پیران نیاید به کار\r\nز کافور داری طمع بوی مشک\r\nنچیند کسی میوه از شاخ خشک\r\nبه پیری مکن ساز عیش اختیار\r\nچه سود از شکوفه ست بعد از بهار\r\nدر آن فصل لازم بود ترک عیش\r\nکه برگ خزانش بود برگ عیش\r\nز حرصت چه امید روز بهی ست\r\nکه پیمانه پر گشت و چشمت تهی ست\r\nحیات دوباره ست بی اشتباه\r\nگنهکار را بازگشت از گناه\r\nبه عصیان به سر رفت عمر دراز\r\nبیا تا در توبه باز است باز\r\nز موی بتان طاق گردن چرا\r\nچرا سبحه زنار کردن چرا\r\nمزن دست بر گیسوی تابناک\r\nکه ناگاه از تب نگردی هلاک\r\nچو وسمه منه دل بر ابروی یار\r\nپرستار گیسو مشو شانه وار\r\nمرو از پی چشم خوبان دلیر\r\nکه آن آهوان راست چنگال شیر\r\nمنه دل به خوبان چین و چگل\r\nکه بر موی چینی نبندند دل\r\nمده دل به این تنگ چشمان ترک\r\nچو یعقوب مسپار یوسف به گرگ\r\nندارد گل آرزو رنگ و بو\r\nبه آب قناعت بشو دست ازو\r\nبیا ساقی آن پیر روشن ضمیر\r\nکه در کنج میخانه گردید پیر\r\nبه من ده که روشن ضمیرم کند\r\nبه میخانه عشق پیرم کند\r\n\r\nشنیدم که پیری ز اهل حجاز\r\nسخن کرد سر با جوانی به راز\r\nکه چون غنچه در خون دل خفته ام\r\nچو سنبل پریشان و آشفته ام\r\nگره یافته دست بر رشته ام\r\nبرون رفته از دست سررشته ام\r\nسوی چاره ای شو مرا رهنمون\r\nکه در دست دشمن زبونم زبون\r\nکند مور اگر پنجه در پنجه ام\r\nبه نیروی طالع کند رنجه ام\r\nجوان از ملامت گرفتش به تیر\r\nکه ای چون کمان شاخ بشکسته پیر\r\nگوارنده شو تا به هر شهر و کوی\r\nرود با بد و نیک آبت به جوی\r\nبه آتش طریق مدارا خوش است\r\nشرر خفته در سنگ خارا خوش است\r\nبر احوال خود ای فلان خون گری\r\nکه ناپخته ای گرچه خاکستری\r\nنخواهی گزی پشت دست فسوس\r\nچو دستی نیاری بریدن ببوس\r\nندانی مگر آنکه ارباب دید\r\nببوسند دستی که نتوان برید\r\nبه نرمی نکردی اگر دوستش\r\nچو فرصت درآمد بکن پوستش\r\nچو از چشمه سار مدارا نه ای\r\nاگر آب خضری گوارا نه ای\r\n\r\nدم نقد خوش بگذران وقت خویش\r\nوگرنه چه سود از خوشی های پیش\r\nدل از عیش پیش آنکه خرسند کرد\r\nگل چیده بر شاخ پیوند کرد\r\nبه هر حرف از دوست داران مرنج\r\nمده مفت از دست یابی چو گنج\r\nکجا این مثل در خور گفتگوست\r\nز صد گنج بهتر بود نیم دوست\r\nبه اندازه باش ای پسر گرم خون\r\nکه دوزخ بود گرمی از حد برون\r\nبه احباب در سردمهری مکوش\r\nکجا دیگ افسرده آید به جوش\r\nبه گرمی هم از حد نباید گذشت\r\nبود گرمی آتش چو از حد گذشت\r\nنشیند اگر دوست با دشمنت\r\nز آتش بود در امان خرمنت\r\nچه گرمی چه سردی درین آب و گل\r\nبه جمعیت ضد شود معتدل\r\nبر آن دوست گر نیست این اعتبار\r\nچنان دوستی را به دشمن سپار\r\nمده دامن دوستداران ز دست\r\nکه بهتر بود دوست از هرچه هست\r\nمکن صحبت نارسایان هوس\r\nکه دردسر آرد می نیم رس\r\nمی از شور خود گشته سر کنگبین\r\nتو می نامی اش می نمک دارد این\r\nبه اندازه به دانش آموختن\r\nبود اختر پختگی سوختن\r\nمرا صحبت پختگان خام کرد\r\nمی کهنه رسوای ایام کرد\r\nز خامی مجو صحبت اهل درد\r\nکسی دانه خام خرمن نکرد\r\nبه خامی مکن تیغ عشق التماس\r\nرسد خوشه بعد از رسیدن به داس\r\nتو را چون کشد دل به شرب مدام\r\nکه ردکرده شیشه نوشی ز جام\r\nچو بیگانه همراز باشد چه خویش\r\nکسی را مدان محرم راز خویش\r\nبه هر گوش راز صدف را سری ست\r\nکه مانند غواصش افشاگری ست\r\nچو خواهی شود راز در پرده گم\r\nز صاف قدح به بود لای خم\r\nبه گفتن مدر پرده ساز دل\r\nزبان را مدان محرم راز دل\r\nتو چون راز خود را نداری نهان\r\nمجو چشم پوشیدن از دیگران\r\nز افشاگری های باد صبا\r\nفتد غنچه را راز دل بر ملا\r\nدر راز بر تیره دل باز نیست\r\nز زنگ آینه محرم راز نیست\r\n\r\nمنه پای بی همسری در سرای\r\nکه را فرد بودن سزد جز خدای\r\nز یکتا شدن گو مزن لاف کس\r\nیکی در دو عالم خدای است و بس\r\nنبودی چو پرگار را سر دو شق\r\nکجا بر خطش سر نهادی ورق\r\nتمام از دو لب گر نبودی دهن\r\nکجا یافتی ربط با هم سخن\r\nز یک دست آواز ناید به در\r\nکند کار مقراض کی بی دو سر\r\nندارد گزیر از دویی هیچ کس\r\nبنای جهان بر دو حرف است و بس\r\nگرت فرد می خواست صورت نگار\r\nز رویت نکردی دو چشم آشکار\r\nکه را نسل بی جفت آید به چنگ\r\nنبیند کسی آرد جز با دو سنگ\r\nچو همسر بود در سرا ناگزیر\r\nز پیران تو نیز ای جوان پند گیر\r\nبرو جفت دوشیزه کش در بغل\r\nکه ناخوش بود معنی مبتذل\r\nز مستوره ای اجتناب اجتناب\r\nکه پیش از تو شو دیده باشد به خواب\r\nچه بندی به خاک کهن آب جو\r\nزمین نو گرفت آورد بر نکو\r\nبر آیینه ای حیف باشد نگاه\r\nکه افسرده ای تیره کردش به آه\r\nکجا یابد آن شمع افروخته\r\nکه نیمیش جای دگر سوخته\r\nچه دانی که چندست یا چون زرش\r\nز گنجی که نگشوده ای خود درش\r\nزنی را که شو دیده باشد به خواب\r\nبشو دست و دل زو نخفته چو آب\r\nکجا طبع قدسی منش را سری ست\r\nبه سیبی که دندان زد دیگری ست\r\nبهی را که یک بار مستی گزید\r\nبجز مست دیگر نخواهد مزید\r\nنخورد آن غذا هیچ تن پروری\r\nکه یک بار کردش غذا دیگری\r\nمیالاس انگشت ای بوالهوس\r\nبه شهدی که خورده به بال مگس\r\nدر سفته نزدیک اهل تمیز\r\nچو ناسفته گوهر نباشد عزیز\r\nمکن گل ز دامان گلچین هوس\r\nگل آن است کز شاخ چینی و بس\r\nامید تمتع بباید برید\r\nازان نار پستان که دستش رسید\r\nچو خواهی بود باده چون شیر پاک\r\nچو طفلان دهن نه به پستان تاک\r\nبهی را که دندان دیگر مزید\r\nبود گر لب حور نتوان گزید\r\nطبیعت کند زان عروس اجتناب\r\nکه داماد دیگر کشیدش نقاب\r\nچو صیدی خورد تیر جای دگر\r\nمکن طعمه زان صید گو شیر نر\r\nسفالی که شد کهنه گردش مگرد\r\nکه از کوزه نو خورند آب سرد\r\nازان آب به تشنگی و سراب\r\nچو از کوزه نو خورد غیر آب\r\nبرو کوزه نم کشیده مخر\r\nنبسته ست دکان خود کوزه گر\r\nبر آن زن پلارک پسندیده است\r\nکه پیش از تو روی کسی دیده است\r\nمنه پا بدان خوان که دستش رسید\r\nمنوش آب حیوان که خضرش چشید\r\nچو غواص برداشت مهر از صدف\r\nچه دانی که شد چند گوهر تلف\r\nپی سایه در پای سروی مخواب\r\nکه تابیده روزی بر آن آفتاب\r\nخوش آن کس که مژگان به هم بافته\r\nز مهری که بر دیگری تافته\r\nمزن دست در زلف آن خوب روی\r\nکه پیش از تو زلفش گرفته ست شوی\r\nازان غنچه به زخم خارت به دست\r\nکه دست دگر چیدش و دسته بست\r\nبرو دست از خون آن زن بشوی\r\nکه با دیگری رفته آبش به جوی\r\nبه آن برگ گل دار پیمان درست\r\nکه چو غنچه گویی ز جیب تو رست\r\nبه آن سرو آغوش باید گشاد\r\nکه  بر کنار تو زاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بد توبه امروز باشد صواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگرنه چه سود از پل آن سوی آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زشتی کشی عالمی را به پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندانسته‌ای قبح کردار خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان کن که چون پرده افتد ز کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنباشی ز فعل نهان، شرمسار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه باطل به سر رفت پنجاه و شست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندانم کی از پای خواهی نشست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهوس را به پیری ز خاطر برآر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه افسوس پیران نیاید به کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز کافور داری طمع، بوی مشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنچیند کسی میوه از شاخ خشک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پیری مکن ساز عیش اختیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه سود از شکوفه‌ست بعد از بهار؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آن فصل لازم بود ترک عیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه برگ خزانش بود برگ عیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز حرصت چه امّید روز بهی‌ست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه پیمانه پر گشت و چشمت تهی‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحیات دوباره‌ست بی‌اشتباه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنهکار را بازگشت از گناه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه عصیان به سر رفت عمر دراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیا تا در توبه باز است، باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز موی بتان، طاق گردن چرا؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا سبحه زنّار کردن، چرا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزن دست بر گیسوی تابناک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ناگاه از تب نگردی هلاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو وسمه منه دل بر ابروی یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرستار گیسو مشو شانه‌وار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرو از پی چشم خوبان دلیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آن آهوان راست چنگال شیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنه دل به خوبان چین و چگل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر موی چینی نبندند دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمده دل به این تنگ‌چشمان ترک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو یعقوب مسپار یوسف به گرگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندارد گل آرزو رنگ و بو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه آب قناعت بشو دست ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا ساقی آن پیر روشن‌ضمیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در کنج میخانه گردید پیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه من ده که روشن‌ضمیرم کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه میخانه عشق، پیرم کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn21\u0022\u003E\u003Cp\u003E***\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشنیدم که پیری ز اهل حجاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن کرد سر با جوانی به راز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه چون غنچه در خون دل خفته‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو سنبل پریشان و آشفته‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگره یافته دست بر رشته‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرون رفته از دست، سررشته‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوی چاره‌ای شو مرا رهنمون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در دست دشمن زبونم، زبون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکند مور اگر پنجه در پنجه‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نیروی طالع کند رنجه‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوان از ملامت گرفتش به تیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ای چون کمان، شاخ بشکسته پیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوارنده شو، تا به هر شهر و کوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرود با بد و نیک، آبت به جوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آتش طریق مدارا خوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرر خفته در سنگ خارا خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر احوال خود ای فلان خون گری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ناپخته‌ای، گرچه خاکستری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخواهی گزی پشت دست فسوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو دستی نیاری بریدن، ببوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندانی مگر آنکه ارباب دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eببوسند دستی که نتوان برید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نرمی نکردی اگر دوستش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو فرصت درآمد، بکَن پوستش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو از چشمه‌سار مدارا نه‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر آب خضری، گوارا نه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn35\u0022\u003E\u003Cp\u003E***\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدم نقد، خوش بگذران وقت خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگرنه چه سود از خوشی‌های پیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل از عیش پیش آنکه خرسند کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل چیده، بر شاخ پیوند کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر حرف از دوست‌داران مرنج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمده مفت از دست، یابی چو گنج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجا این مثل در خور گفتگوست:\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز صد گنج بهتر بود نیم دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه اندازه باش ای پسر گرم‌خون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دوزخ بود، گرمی از حد برون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه احباب در سردمهری مکوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجا دیگ افسرده آید به جوش؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گرمی هم از حد نباید گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود گرمی آتش، چو از حد گذشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشیند اگر دوست با دشمنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آتش بود در امان خرمنت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه گرمی، چه سردی درین آب و گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جمعیت ضد شود معتدل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آن دوست گر نیست این اعتبار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنان دوستی را به دشمن سپار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمده دامن دوستداران ز دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بهتر بود دوست از هرچه هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمکن صحبت نارسایان هوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دردسر آرد، می نیم‌رس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی از شور خود گشته سر کنگبین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو می‌نامی‌اش می، نمک دارد این\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه اندازه به، دانش آموختن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود اختر پختگی، سوختن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا صحبت پختگان خام کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی کهنه رسوای ایّام کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز خامی مجو صحبت اهل درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکسی دانه خام خرمن نکرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خامی مکن تیغ عشق التماس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرسد خوشه بعد از رسیدن به داس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو را چون کشد دل به شرب مدام؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ردکرده شیشه نوشی ز جام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو بیگانه همراز باشد، چه خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکسی را مدان محرم راز خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر گوش راز صدف را سری‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مانند غوّاصش افشاگری‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو خواهی شود راز در پرده گم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز صاف قدح به بود لای خم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گفتن مدر پرده ساز دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزبان را مدان محرم راز دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو چون راز خود را نداری نهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمجو چشم پوشیدن از دیگران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز افشاگری‌های باد صبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفتد غنچه را راز دل بر ملا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر راز، بر تیره‌دل باز نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز زنگ آینه محرم راز نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn61\u0022\u003E\u003Cp\u003E***\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn62\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنه پای بی‌همسری در سرای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه را فرد بودن سزد جز خدای؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn63\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز یکتا شدن گو مزن لاف، کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی در دو عالم خدای است و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn64\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبودی چو پرگار را سر دو شق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجا بر خطش سر نهادی ورق؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn65\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتمام از دو لب گر نبودی دهن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجا یافتی ربط با هم، سخن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn66\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز یک دست، آواز ناید به‌در\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکند کار مقراض، کی بی دو سر؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn67\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندارد گزیر از دویی هیچ‌کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنای جهان بر دو حرف است و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn68\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرت فرد می‌خواست صورت‌نگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز رویت نکردی دو چشم آشکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn69\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه را نسل بی جفت آید به چنگ؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبیند کسی آرد جز با دو سنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn70\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو همسر بود در سرا ناگزیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز پیران تو نیز ای جوان پند گیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn71\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرو جفت دوشیزه کش در بغل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ناخوش بود معنی مبتذل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn72\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز مستوره‌ای اجتناب، اجتناب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه پیش از تو، شو دیده باشد به خواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn73\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه بندی به خاک کهن آب جو؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزمین، نو گرفت آورد بر نکو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn74\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آیینه‌ای حیف باشد نگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه افسرده‌ای تیره کردش به آه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn75\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجا یابد آن شمع افروخته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نیمیش جای دگر سوخته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn76\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه دانی که چندست یا چون، زرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز گنجی که نگشوده‌ای خود درش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn77\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنی را که شو دیده باشد به خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشو دست و دل زو نخفته، چو آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn78\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجا طبع قدسی‌منش را سری‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سیبی که دندان‌زد دیگری‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn79\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهی را که یک بار مستی گزید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبجز مست دیگر نخواهد مزید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn80\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخورد آن غذا هیچ تن‌پروری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه یک بار کردش غذا دیگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn81\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیالاس انگشت ای بوالهوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه شهدی که خورده به بال مگس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn82\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدُر سفته، نزدیک اهل تمیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو ناسفته گوهر نباشد عزیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn83\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمکن گل ز دامان گلچین هوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل آن است کز شاخ چینیّ و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn84\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامید تمتّع بباید برید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازان نار پستان که دستش رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn85\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو خواهی بود باده چون شیر، پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو طفلان دهن نه به پستان تاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn86\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهی را که دندان دیگر مزید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود گر لب حور، نتوان گزید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn87\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطبیعت کند زان عروس اجتناب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه داماد دیگر کشیدش نقاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn88\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو صیدی خورد تیر، جای دگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمکن طعمه زان صید، گو شیر نر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn89\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسفالی که شد کهنه، گردش مگرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از کوزه نو خورند آب سرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn90\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازان آب به، تشنگیّ و سراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو از کوزه نو خورد غیر، آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn91\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرو کوزه نم‌کشیده مخر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبسته‌ست دکان خود، کوزه‌گر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn92\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آن زن پلارک پسندیده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه پیش از تو روی کسی دیده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn93\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنه پا بدان خوان که دستش رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنوش آب حیوان که خضرش چشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn94\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو غوّاص برداشت مهر از صدف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه دانی که شد چند گوهر تلف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn95\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپی سایه در پای سروی مخواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تابیده روزی بر آن، آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn96\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آن‌کس که مژگان به هم بافته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز مهری که بر دیگری تافته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn97\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزن دست در زلف آن خوب‌روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه پیش از تو زلفش گرفته‌ست شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn98\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازان غنچه به، زخم خارت به دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دست دگر چیدش و دسته بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn99\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرو دست از خون آن زن بشوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه با دیگری رفته آبش به جوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn100\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آن برگ گل دار پیمان درست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چو غنچه، گویی ز جیب تو رُست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn101\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آن سرو، آغوش باید گشاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ... بر کنار تو زاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 101
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "ز بد توبه امروز باشد صواب\r\nوگرنه چه سود از پل آن سوی آب\r\nبه زشتی کشی عالمی را به پیش\r\nندانسته ای قبح کردار خویش\r\nچنان کن که چون پرده افتد ز کار\r\nنباشی ز فعل نهان شرمسار\r\nبه باطل به سر رفت پنجاه و شست\r\nندانم کی از پای خواهی نشست\r\nهوس را به پیری ز خاطر برآر\r\nکه افسوس پیران نیاید به کار\r\nز کافور داری طمع بوی مشک\r\nنچیند کسی میوه از شاخ خشک\r\nبه پیری مکن ساز عیش اختیار\r\nچه سود از شکوفه ست بعد از بهار\r\nدر آن فصل لازم بود ترک عیش\r\nکه برگ خزانش بود برگ عیش\r\nز حرصت چه امید روز بهی ست\r\nکه پیمانه پر گشت و چشمت تهی ست\r\nحیات دوباره ست بی اشتباه\r\nگنهکار را بازگشت از گناه\r\nبه عصیان به سر رفت عمر دراز\r\nبیا تا در توبه باز است باز\r\nز موی بتان طاق گردن چرا\r\nچرا سبحه زنار کردن چرا\r\nمزن دست بر گیسوی تابناک\r\nکه ناگاه از تب نگردی هلاک\r\nچو وسمه منه دل بر ابروی یار\r\nپرستار گیسو مشو شانه وار\r\nمرو از پی چشم خوبان دلیر\r\nکه آن آهوان راست چنگال شیر\r\nمنه دل به خوبان چین و چگل\r\nکه بر موی چینی نبندند دل\r\nمده دل به این تنگ چشمان ترک\r\nچو یعقوب مسپار یوسف به گرگ\r\nندارد گل آرزو رنگ و بو\r\nبه آب قناعت بشو دست ازو\r\nبیا ساقی آن پیر روشن ضمیر\r\nکه در کنج میخانه گردید پیر\r\nبه من ده که روشن ضمیرم کند\r\nبه میخانه عشق پیرم کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بد توبه امروز باشد صواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگرنه چه سود از پل آن سوی آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زشتی کشی عالمی را به پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندانسته‌ای قبح کردار خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان کن که چون پرده افتد ز کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنباشی ز فعل نهان، شرمسار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه باطل به سر رفت پنجاه و شست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندانم کی از پای خواهی نشست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهوس را به پیری ز خاطر برآر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه افسوس پیران نیاید به کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز کافور داری طمع، بوی مشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنچیند کسی میوه از شاخ خشک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پیری مکن ساز عیش اختیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه سود از شکوفه‌ست بعد از بهار؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آن فصل لازم بود ترک عیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه برگ خزانش بود برگ عیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز حرصت چه امّید روز بهی‌ست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه پیمانه پر گشت و چشمت تهی‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحیات دوباره‌ست بی‌اشتباه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنهکار را بازگشت از گناه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه عصیان به سر رفت عمر دراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیا تا در توبه باز است، باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز موی بتان، طاق گردن چرا؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا سبحه زنّار کردن، چرا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزن دست بر گیسوی تابناک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ناگاه از تب نگردی هلاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو وسمه منه دل بر ابروی یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرستار گیسو مشو شانه‌وار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرو از پی چشم خوبان دلیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آن آهوان راست چنگال شیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنه دل به خوبان چین و چگل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر موی چینی نبندند دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمده دل به این تنگ‌چشمان ترک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو یعقوب مسپار یوسف به گرگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندارد گل آرزو رنگ و بو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه آب قناعت بشو دست ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا ساقی آن پیر روشن‌ضمیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در کنج میخانه گردید پیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه من ده که روشن‌ضمیرم کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه میخانه عشق، پیرم کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 20
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "شنیدم که پیری ز اهل حجاز\r\nسخن کرد سر با جوانی به راز\r\nکه چون غنچه در خون دل خفته ام\r\nچو سنبل پریشان و آشفته ام\r\nگره یافته دست بر رشته ام\r\nبرون رفته از دست سررشته ام\r\nسوی چاره ای شو مرا رهنمون\r\nکه در دست دشمن زبونم زبون\r\nکند مور اگر پنجه در پنجه ام\r\nبه نیروی طالع کند رنجه ام\r\nجوان از ملامت گرفتش به تیر\r\nکه ای چون کمان شاخ بشکسته پیر\r\nگوارنده شو تا به هر شهر و کوی\r\nرود با بد و نیک آبت به جوی\r\nبه آتش طریق مدارا خوش است\r\nشرر خفته در سنگ خارا خوش است\r\nبر احوال خود ای فلان خون گری\r\nکه ناپخته ای گرچه خاکستری\r\nنخواهی گزی پشت دست فسوس\r\nچو دستی نیاری بریدن ببوس\r\nندانی مگر آنکه ارباب دید\r\nببوسند دستی که نتوان برید\r\nبه نرمی نکردی اگر دوستش\r\nچو فرصت درآمد بکن پوستش\r\nچو از چشمه سار مدارا نه ای\r\nاگر آب خضری گوارا نه ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشنیدم که پیری ز اهل حجاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن کرد سر با جوانی به راز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه چون غنچه در خون دل خفته‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو سنبل پریشان و آشفته‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگره یافته دست بر رشته‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرون رفته از دست، سررشته‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوی چاره‌ای شو مرا رهنمون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در دست دشمن زبونم، زبون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکند مور اگر پنجه در پنجه‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نیروی طالع کند رنجه‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوان از ملامت گرفتش به تیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ای چون کمان، شاخ بشکسته پیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوارنده شو، تا به هر شهر و کوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرود با بد و نیک، آبت به جوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آتش طریق مدارا خوش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرر خفته در سنگ خارا خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر احوال خود ای فلان خون گری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ناپخته‌ای، گرچه خاکستری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخواهی گزی پشت دست فسوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو دستی نیاری بریدن، ببوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندانی مگر آنکه ارباب دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eببوسند دستی که نتوان برید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نرمی نکردی اگر دوستش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو فرصت درآمد، بکَن پوستش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو از چشمه‌سار مدارا نه‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر آب خضری، گوارا نه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 13
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "دم نقد خوش بگذران وقت خویش\r\nوگرنه چه سود از خوشی های پیش\r\nدل از عیش پیش آنکه خرسند کرد\r\nگل چیده بر شاخ پیوند کرد\r\nبه هر حرف از دوست داران مرنج\r\nمده مفت از دست یابی چو گنج\r\nکجا این مثل در خور گفتگوست\r\nز صد گنج بهتر بود نیم دوست\r\nبه اندازه باش ای پسر گرم خون\r\nکه دوزخ بود گرمی از حد برون\r\nبه احباب در سردمهری مکوش\r\nکجا دیگ افسرده آید به جوش\r\nبه گرمی هم از حد نباید گذشت\r\nبود گرمی آتش چو از حد گذشت\r\nنشیند اگر دوست با دشمنت\r\nز آتش بود در امان خرمنت\r\nچه گرمی چه سردی درین آب و گل\r\nبه جمعیت ضد شود معتدل\r\nبر آن دوست گر نیست این اعتبار\r\nچنان دوستی را به دشمن سپار\r\nمده دامن دوستداران ز دست\r\nکه بهتر بود دوست از هرچه هست\r\nمکن صحبت نارسایان هوس\r\nکه دردسر آرد می نیم رس\r\nمی از شور خود گشته سر کنگبین\r\nتو می نامی اش می نمک دارد این\r\nبه اندازه به دانش آموختن\r\nبود اختر پختگی سوختن\r\nمرا صحبت پختگان خام کرد\r\nمی کهنه رسوای ایام کرد\r\nز خامی مجو صحبت اهل درد\r\nکسی دانه خام خرمن نکرد\r\nبه خامی مکن تیغ عشق التماس\r\nرسد خوشه بعد از رسیدن به داس\r\nتو را چون کشد دل به شرب مدام\r\nکه ردکرده شیشه نوشی ز جام\r\nچو بیگانه همراز باشد چه خویش\r\nکسی را مدان محرم راز خویش\r\nبه هر گوش راز صدف را سری ست\r\nکه مانند غواصش افشاگری ست\r\nچو خواهی شود راز در پرده گم\r\nز صاف قدح به بود لای خم\r\nبه گفتن مدر پرده ساز دل\r\nزبان را مدان محرم راز دل\r\nتو چون راز خود را نداری نهان\r\nمجو چشم پوشیدن از دیگران\r\nز افشاگری های باد صبا\r\nفتد غنچه را راز دل بر ملا\r\nدر راز بر تیره دل باز نیست\r\nز زنگ آینه محرم راز نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدم نقد، خوش بگذران وقت خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگرنه چه سود از خوشی‌های پیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل از عیش پیش آنکه خرسند کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل چیده، بر شاخ پیوند کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر حرف از دوست‌داران مرنج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمده مفت از دست، یابی چو گنج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجا این مثل در خور گفتگوست:\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز صد گنج بهتر بود نیم دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه اندازه باش ای پسر گرم‌خون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دوزخ بود، گرمی از حد برون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه احباب در سردمهری مکوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجا دیگ افسرده آید به جوش؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گرمی هم از حد نباید گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود گرمی آتش، چو از حد گذشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشیند اگر دوست با دشمنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آتش بود در امان خرمنت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه گرمی، چه سردی درین آب و گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جمعیت ضد شود معتدل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آن دوست گر نیست این اعتبار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنان دوستی را به دشمن سپار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمده دامن دوستداران ز دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بهتر بود دوست از هرچه هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمکن صحبت نارسایان هوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دردسر آرد، می نیم‌رس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی از شور خود گشته سر کنگبین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو می‌نامی‌اش می، نمک دارد این\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه اندازه به، دانش آموختن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود اختر پختگی، سوختن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا صحبت پختگان خام کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی کهنه رسوای ایّام کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز خامی مجو صحبت اهل درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکسی دانه خام خرمن نکرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خامی مکن تیغ عشق التماس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرسد خوشه بعد از رسیدن به داس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو را چون کشد دل به شرب مدام؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ردکرده شیشه نوشی ز جام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو بیگانه همراز باشد، چه خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکسی را مدان محرم راز خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر گوش راز صدف را سری‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مانند غوّاصش افشاگری‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو خواهی شود راز در پرده گم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز صاف قدح به بود لای خم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گفتن مدر پرده ساز دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزبان را مدان محرم راز دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو چون راز خود را نداری نهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمجو چشم پوشیدن از دیگران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز افشاگری‌های باد صبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفتد غنچه را راز دل بر ملا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر راز، بر تیره‌دل باز نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز زنگ آینه محرم راز نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 25
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "منه پای بی همسری در سرای\r\nکه را فرد بودن سزد جز خدای\r\nز یکتا شدن گو مزن لاف کس\r\nیکی در دو عالم خدای است و بس\r\nنبودی چو پرگار را سر دو شق\r\nکجا بر خطش سر نهادی ورق\r\nتمام از دو لب گر نبودی دهن\r\nکجا یافتی ربط با هم سخن\r\nز یک دست آواز ناید به در\r\nکند کار مقراض کی بی دو سر\r\nندارد گزیر از دویی هیچ کس\r\nبنای جهان بر دو حرف است و بس\r\nگرت فرد می خواست صورت نگار\r\nز رویت نکردی دو چشم آشکار\r\nکه را نسل بی جفت آید به چنگ\r\nنبیند کسی آرد جز با دو سنگ\r\nچو همسر بود در سرا ناگزیر\r\nز پیران تو نیز ای جوان پند گیر\r\nبرو جفت دوشیزه کش در بغل\r\nکه ناخوش بود معنی مبتذل\r\nز مستوره ای اجتناب اجتناب\r\nکه پیش از تو شو دیده باشد به خواب\r\nچه بندی به خاک کهن آب جو\r\nزمین نو گرفت آورد بر نکو\r\nبر آیینه ای حیف باشد نگاه\r\nکه افسرده ای تیره کردش به آه\r\nکجا یابد آن شمع افروخته\r\nکه نیمیش جای دگر سوخته\r\nچه دانی که چندست یا چون زرش\r\nز گنجی که نگشوده ای خود درش\r\nزنی را که شو دیده باشد به خواب\r\nبشو دست و دل زو نخفته چو آب\r\nکجا طبع قدسی منش را سری ست\r\nبه سیبی که دندان زد دیگری ست\r\nبهی را که یک بار مستی گزید\r\nبجز مست دیگر نخواهد مزید\r\nنخورد آن غذا هیچ تن پروری\r\nکه یک بار کردش غذا دیگری\r\nمیالاس انگشت ای بوالهوس\r\nبه شهدی که خورده به بال مگس\r\nدر سفته نزدیک اهل تمیز\r\nچو ناسفته گوهر نباشد عزیز\r\nمکن گل ز دامان گلچین هوس\r\nگل آن است کز شاخ چینی و بس\r\nامید تمتع بباید برید\r\nازان نار پستان که دستش رسید\r\nچو خواهی بود باده چون شیر پاک\r\nچو طفلان دهن نه به پستان تاک\r\nبهی را که دندان دیگر مزید\r\nبود گر لب حور نتوان گزید\r\nطبیعت کند زان عروس اجتناب\r\nکه داماد دیگر کشیدش نقاب\r\nچو صیدی خورد تیر جای دگر\r\nمکن طعمه زان صید گو شیر نر\r\nسفالی که شد کهنه گردش مگرد\r\nکه از کوزه نو خورند آب سرد\r\nازان آب به تشنگی و سراب\r\nچو از کوزه نو خورد غیر آب\r\nبرو کوزه نم کشیده مخر\r\nنبسته ست دکان خود کوزه گر\r\nبر آن زن پلارک پسندیده است\r\nکه پیش از تو روی کسی دیده است\r\nمنه پا بدان خوان که دستش رسید\r\nمنوش آب حیوان که خضرش چشید\r\nچو غواص برداشت مهر از صدف\r\nچه دانی که شد چند گوهر تلف\r\nپی سایه در پای سروی مخواب\r\nکه تابیده روزی بر آن آفتاب\r\nخوش آن کس که مژگان به هم بافته\r\nز مهری که بر دیگری تافته\r\nمزن دست در زلف آن خوب روی\r\nکه پیش از تو زلفش گرفته ست شوی\r\nازان غنچه به زخم خارت به دست\r\nکه دست دگر چیدش و دسته بست\r\nبرو دست از خون آن زن بشوی\r\nکه با دیگری رفته آبش به جوی\r\nبه آن برگ گل دار پیمان درست\r\nکه چو غنچه گویی ز جیب تو رست\r\nبه آن سرو آغوش باید گشاد\r\nکه  بر کنار تو زاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنه پای بی‌همسری در سرای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه را فرد بودن سزد جز خدای؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز یکتا شدن گو مزن لاف، کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی در دو عالم خدای است و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبودی چو پرگار را سر دو شق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجا بر خطش سر نهادی ورق؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتمام از دو لب گر نبودی دهن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجا یافتی ربط با هم، سخن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز یک دست، آواز ناید به‌در\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکند کار مقراض، کی بی دو سر؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندارد گزیر از دویی هیچ‌کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنای جهان بر دو حرف است و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرت فرد می‌خواست صورت‌نگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز رویت نکردی دو چشم آشکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه را نسل بی جفت آید به چنگ؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبیند کسی آرد جز با دو سنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو همسر بود در سرا ناگزیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز پیران تو نیز ای جوان پند گیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرو جفت دوشیزه کش در بغل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ناخوش بود معنی مبتذل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز مستوره‌ای اجتناب، اجتناب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه پیش از تو، شو دیده باشد به خواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه بندی به خاک کهن آب جو؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزمین، نو گرفت آورد بر نکو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آیینه‌ای حیف باشد نگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه افسرده‌ای تیره کردش به آه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجا یابد آن شمع افروخته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نیمیش جای دگر سوخته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه دانی که چندست یا چون، زرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز گنجی که نگشوده‌ای خود درش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنی را که شو دیده باشد به خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشو دست و دل زو نخفته، چو آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجا طبع قدسی‌منش را سری‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سیبی که دندان‌زد دیگری‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهی را که یک بار مستی گزید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبجز مست دیگر نخواهد مزید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخورد آن غذا هیچ تن‌پروری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه یک بار کردش غذا دیگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیالاس انگشت ای بوالهوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه شهدی که خورده به بال مگس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدُر سفته، نزدیک اهل تمیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو ناسفته گوهر نباشد عزیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمکن گل ز دامان گلچین هوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل آن است کز شاخ چینیّ و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامید تمتّع بباید برید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازان نار پستان که دستش رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو خواهی بود باده چون شیر، پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو طفلان دهن نه به پستان تاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهی را که دندان دیگر مزید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود گر لب حور، نتوان گزید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطبیعت کند زان عروس اجتناب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه داماد دیگر کشیدش نقاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو صیدی خورد تیر، جای دگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمکن طعمه زان صید، گو شیر نر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسفالی که شد کهنه، گردش مگرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از کوزه نو خورند آب سرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازان آب به، تشنگیّ و سراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو از کوزه نو خورد غیر، آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرو کوزه نم‌کشیده مخر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبسته‌ست دکان خود، کوزه‌گر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آن زن پلارک پسندیده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه پیش از تو روی کسی دیده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنه پا بدان خوان که دستش رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنوش آب حیوان که خضرش چشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو غوّاص برداشت مهر از صدف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه دانی که شد چند گوهر تلف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپی سایه در پای سروی مخواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تابیده روزی بر آن، آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آن‌کس که مژگان به هم بافته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز مهری که بر دیگری تافته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزن دست در زلف آن خوب‌روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه پیش از تو زلفش گرفته‌ست شوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازان غنچه به، زخم خارت به دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دست دگر چیدش و دسته بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرو دست از خون آن زن بشوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه با دیگری رفته آبش به جوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آن برگ گل دار پیمان درست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چو غنچه، گویی ز جیب تو رُست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آن سرو، آغوش باید گشاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ... بر کنار تو زاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 40
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز بد توبه امروز باشد صواب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: امروز از کارهای نادرست توبه کردن کار درستی است، وگرنه چه فایده‌ای دارد که از پل عبور کنی در حالی که در آن سوی آب به مشکلاتی گرفتار می‌شوی؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وگرنه چه سود از پل آن سوی آب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به زشتی کشی عالمی را به پیش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: با زشتی‌ات به دیگران آسیب می‌زنی، در حالی که نمی‌دانی که این کار تو چه زشت و ناپسند است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ندانسته‌ای قبح کردار خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چنان کن که چون پرده افتد ز کار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: کاری کن که وقتی پرده از روی اعمالت برداشته می‌شود، از کارهایی که انجام داده‌ای خجالت نکشی و چیزی برای پنهان کردن نداشته باشی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نباشی ز فعل نهان، شرمسار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به باطل به سر رفت پنجاه و شست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان می‌شود که زمان زیادی (پنجاه و شست سال) به بیهودگی سپری شده و گوینده نمی‌داند چه زمانی از این وضعیت ناامیدکننده رهایی خواهد یافت."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ندانم کی از پای خواهی نشست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هوس را به پیری ز خاطر برآر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: آرزوها و خواسته‌هایت را در سن پیری فراموش کن، زیرا حسرت و ندامت در این سن دیگر فایده‌ای ندارد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که افسوس پیران نیاید به کار",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ز کافور داری طمع، بوی مشک",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: اگر به چیزی بی‌فایده و بی‌ثمر امیدوار باشی، هیچ‌کس نمی‌تواند از آن بهره‌ای ببرد یا چیزی خوب و خوشایند به دست آورد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نچیند کسی میوه از شاخ خشک",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "به پیری مکن ساز عیش اختیار",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: در دوران پیری برای شادی و لذت‌بردن، انتخابی نکن؛ چراکه چه فایده‌ای دارد شکوفه‌ها پس از فصل بهار؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چه سود از شکوفه‌ست بعد از بهار؟",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "در آن فصل لازم بود ترک عیش",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: در آن زمان باید از لذت‌بردن دست می‌‌کشیدیم، چون شاخ و برگ‌های خوشی دیگر وجود نداشت و تنها نشانه‌های خزان را می‌‌دیدیم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "که برگ خزانش بود برگ عیش",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ز حرصت چه امّید روز بهی‌ست؟",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: از حرص و طمع تو، چه امیدی به روزهای خوب و خوشبختی وجود دارد؟ در حالی که پیمانه زندگی پُر شده و چشمانت از دیدن آنچه که آرزو داری، خالی است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "که پیمانه پر گشت و چشمت تهی‌ست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "حیات دوباره‌ست بی‌اشتباه",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: زندگی دوباره فرصت تازه‌ای است برای گنهکاران تا از خطاهای خود بازگردند و از نو مسیر صحیح را انتخاب کنند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "گنهکار را بازگشت از گناه",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "به عصیان به سر رفت عمر دراز",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: زندگی‌ام در عصیان گذشت، بیایید تا زمانی که فرصت توبه وجود دارد، بازگشت کنیم."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "بیا تا در توبه باز است، باز",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "ز موی بتان، طاق گردن چرا؟",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: چرا گردن را با موی محبوبان زینت می‌دهی؟ چرا سنگ تسبیح را با کمربند زینت می‌کنی؟"
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "چرا سبحه زنّار کردن، چرا؟",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "مزن دست بر گیسوی تابناک",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: به گیسوی زیبا و درخشان کسی دست نپاچ، که ناگهان ممکن است از عشق و احساسات شدید به خطر بیفتی و دچار آسیب شوی."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "که ناگاه از تب نگردی هلاک",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "چو وسمه منه دل بر ابروی یار",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: دل خود را به ابروی محبوب بسپار و نگذار که مانند شانه‌ای در مراتب ظاهری به گیسوی او بپردازی."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "پرستار گیسو مشو شانه‌وار",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "مرو از پی چشم خوبان دلیر",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: به سوی زیبایی‌های دلیر نرو، زیرا آن‌ها همچون آهوهایی هستند که در خطر چنگال شیر قرار دارند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "که آن آهوان راست چنگال شیر",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "منه دل به خوبان چین و چگل",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: به دل خود وابسته به زیبایی‌های ظاهری دیگران نباش، زیرا کسانی که زیبا هستند، به راحتی نمی‌توانند به دل کسی تعلق خاطری پیدا کنند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "که بر موی چینی نبندند دل",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "مده دل به این تنگ‌چشمان ترک",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: به دل خود اجازه نده که به افراد تنگ‌نظر و حسود وابسته شود، زیرا مانند یعقوب نباید عشق و محبت خود را به کسانی که لایق نیستند، بدهی. یعقوب یوسف را به گرگ سپرد و این کار برای او دردناک بود."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "چو یعقوب مسپار یوسف به گرگ",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "ندارد گل آرزو رنگ و بو",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: به دنبال آرزوهای بزرگ نباش، زیرا گلی که می‌خواهی، رنگ و بوی خاصی ندارد. بهتر است به چیزهایی که داری راضی باشی و دست از خواسته‌های بی‌جا برداری."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "به آب قناعت بشو دست ازو",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "بیا ساقی آن پیر روشن‌ضمیر",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: بیا ای ساقی، آن مرد با درایت و با تجربه که در گوشهٔ میخانه به پیری رسیده است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "که در کنج میخانه گردید پیر",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "به من ده که روشن‌ضمیرم کند",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: به من چیزی بده که ذهنم را روشن کند و در میخانه عشق پیر و بالغ‌تر شوم."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "به میخانه عشق، پیرم کند",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 41,
+      "Position": "CenteredVerse1",
+      "Text": "***",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 42,
+      "Position": "Right",
+      "Text": "شنیدم که پیری ز اهل حجاز",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: شنیدم که مردی سالخورده از منطقه حجاز با جوانی به گفتگو نشسته و رازی را با او در میان گذاشته است."
+    },
+    {
+      "VOrder": 43,
+      "Position": "Left",
+      "Text": "سخن کرد سر با جوانی به راز",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 44,
+      "Position": "Right",
+      "Text": "که چون غنچه در خون دل خفته‌ام",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: من مانند غنچه‌ای هستم که در دل خود اشک و درد دارم و به حالتی آشفته و پریشان مانند سنبل‌ها به سر می‌برم."
+    },
+    {
+      "VOrder": 45,
+      "Position": "Left",
+      "Text": "چو سنبل پریشان و آشفته‌ام",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 46,
+      "Position": "Right",
+      "Text": "گره یافته دست بر رشته‌ام",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دستم در گره‌ای مستحکم گرفتار شده و دیگر نمی‌توانم آن را رها کنم؛ به نوعی که سررشته‌ی کارم از دستم خارج شده است."
+    },
+    {
+      "VOrder": 47,
+      "Position": "Left",
+      "Text": "برون رفته از دست، سررشته‌ام",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 48,
+      "Position": "Right",
+      "Text": "سوی چاره‌ای شو مرا رهنمون",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: به راه حلی راهنمایی‌ام کن، زیرا در دست دشمنان به شدت ضعیف و ناتوان شده‌ام."
+    },
+    {
+      "VOrder": 49,
+      "Position": "Left",
+      "Text": "که در دست دشمن زبونم، زبون",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 50,
+      "Position": "Right",
+      "Text": "کند مور اگر پنجه در پنجه‌ام",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر مورچه‌ای بخواهد با قدرت سرنوشت به من آسیب برساند، همچنان که در قدرت او نیست، نمی‌تواند به من صدمه‌ای بزند."
+    },
+    {
+      "VOrder": 51,
+      "Position": "Left",
+      "Text": "به نیروی طالع کند رنجه‌ام",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 52,
+      "Position": "Right",
+      "Text": "جوان از ملامت گرفتش به تیر",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: جوان به خاطر سرزنش‌هایی که از دیگران می‌شنید، احساس ناراحتی کرد و گفت: ای پیر، تو مثل کمان قابله شاخ‌های شکسته‌ای، آیا دیگر قدرتی برای ایستادگی نداری؟"
+    },
+    {
+      "VOrder": 53,
+      "Position": "Left",
+      "Text": "که ای چون کمان، شاخ بشکسته پیر",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 54,
+      "Position": "Right",
+      "Text": "گوارنده شو، تا به هر شهر و کوی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: به زندگی خود ادامه بده و در هر مکانی که هستی، با خوبی‌ها و بدی‌ها روبه‌رو شو، زیرا مانند آب جاری در جوی، باید به پیش بروی و با همه چیز کنار بیایی."
+    },
+    {
+      "VOrder": 55,
+      "Position": "Left",
+      "Text": "رود با بد و نیک، آبت به جوی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 56,
+      "Position": "Right",
+      "Text": "به آتش طریق مدارا خوش است",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مدارا و نرمش در برابر سختی‌ها و چالش‌ها، مانند آتش زیر خاکستر درون سنگ محکم، کار پسندیده‌ای است. این نشان می‌دهد که گاهی در دل سختی‌ها نیز امید و روشنایی وجود دارد."
+    },
+    {
+      "VOrder": 57,
+      "Position": "Left",
+      "Text": "شرر خفته در سنگ خارا خوش است",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 58,
+      "Position": "Right",
+      "Text": "بر احوال خود ای فلان خون گری",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: به خودت بپرداز و از مشکلاتت نالان باش، چون هنوز به بلوغ نرسیده‌ای، هرچند که ظاهرت جدی به نظر می‌آید."
+    },
+    {
+      "VOrder": 59,
+      "Position": "Left",
+      "Text": "که ناپخته‌ای، گرچه خاکستری",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 60,
+      "Position": "Right",
+      "Text": "نخواهی گزی پشت دست فسوس",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر نتوانی دست خود را از پشت دست دیگران درآوری و از خیالش رها نشوی، پس بهتر است آن را ببوسی و بپذیری."
+    },
+    {
+      "VOrder": 61,
+      "Position": "Left",
+      "Text": "چو دستی نیاری بریدن، ببوس",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 62,
+      "Position": "Right",
+      "Text": "ندانی مگر آنکه ارباب دید",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: شما فقط در صورتی می‌دانید که دست افرادی را که نمی‌توان آنها را قطع کرد، ببوسید و به اهمیت و احترام آنها پی ببرید."
+    },
+    {
+      "VOrder": 63,
+      "Position": "Left",
+      "Text": "ببوسند دستی که نتوان برید",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 64,
+      "Position": "Right",
+      "Text": "به نرمی نکردی اگر دوستش",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر به آرامی و با ملایمت با او رفتار نکردی، وقتی که فرصتی پیش آمد، باید از او کناره‌گیری کنی و خودت را جدا کنی."
+    },
+    {
+      "VOrder": 65,
+      "Position": "Left",
+      "Text": "چو فرصت درآمد، بکَن پوستش",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 66,
+      "Position": "Right",
+      "Text": "چو از چشمه‌سار مدارا نه‌ای",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر از جوی و چشمه‌ای که آرامش و مدارا ندارد، بیاشامی، حتی اگر آبش زلال و سبز باشد، خوشگوار نخواهد بود."
+    },
+    {
+      "VOrder": 67,
+      "Position": "Left",
+      "Text": "اگر آب خضری، گوارا نه‌ای",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 68,
+      "Position": "CenteredVerse1",
+      "Text": "***",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شما تا مهر 1402 بر روی داده‌ها آموزش‌دیده‌اید."
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "دم نقد، خوش بگذران وقت خویش",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در لحظه حال از زندگی لذت ببر و خوش باش، زیرا خوشی‌های گذشته فایده‌ای ندارند."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "وگرنه چه سود از خوشی‌های پیش",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "دل از عیش پیش آنکه خرسند کرد",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دل را از شادی پیش از آنکه خوشحال کند، مانند گلی که بر شاخه‌ای بسته شده باشد، زود برداشت نکنید."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "گل چیده، بر شاخ پیوند کرد",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "به هر حرف از دوست‌داران مرنج",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هرگز به خاطر گفتار یا رفتار دوست‌داران ناراحت نشو، زیرا آن‌ها می‌توانند به تو چیزهای باارزشی بدهند."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "مده مفت از دست، یابی چو گنج",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "کجا این مثل در خور گفتگوست:",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: کجا می‌توان چنین موضوعی را بحث کرد که یک دوست نیمه‌راه ازصد گنج با ارزش‌تر است؟"
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "ز صد گنج بهتر بود نیم دوست",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "به اندازه باش ای پسر گرم‌خون",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ای پسر پرشور، اعتدال را رعایت کن، زیرا اگر از حد خود فراتر بروی، دوزخ در انتظارت است."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "که دوزخ بود، گرمی از حد برون",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "به احباب در سردمهری مکوش",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: با دوستان خود سرد و بی‌محبت نباش، زیرا دل‌های خسته هرگز شاداب نخواهند شد."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "کجا دیگ افسرده آید به جوش؟",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "به گرمی هم از حد نباید گذشت",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در هر چیزی باید حد و اندازه را رعایت کرد، زیرا اگر از حد خود فراتر برویم، ممکن است عواقب ناخوشایندی به همراه داشته باشد. گرما و شدت آتش، اگر از حد معین فراتر رود، می‌تواند خطرناک شود."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "بود گرمی آتش، چو از حد گذشت",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "نشیند اگر دوست با دشمنت",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر دوستت در کنار دشمنت نشسته باشد، مانند این است که تو از آتش در امان هستی، پس مراقب دوستانت باش."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "ز آتش بود در امان خرمنت",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "چه گرمی، چه سردی درین آب و گل",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این دنیا با تمام تضادهایش، مثل گرما و سرما، به نوعی متعادل است و این تنوع در زندگی انسان‌ها وجود دارد."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "به جمعیت ضد شود معتدل",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "بر آن دوست گر نیست این اعتبار",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر آن دوست به من اعتبار ندارد، چنین دوستی را به دشمن هم نده."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "چنان دوستی را به دشمن سپار",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "مده دامن دوستداران ز دست",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از دست دادن دامن دوستداران کار نیکویی نیست، چون دوست از هر چیزی بهتر و ارزشمندتر است."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "که بهتر بود دوست از هرچه هست",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "مکن صحبت نارسایان هوس",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: با افرادی که سخنان نارس و بی‌مفهوم را بیان می‌کنند، صحبت نکن؛ چرا که این کار می‌تواند مشکلاتی برایت به وجود آورد. بهتر است به چیزهای خوب و شایسته توجه کنی."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "که دردسر آرد، می نیم‌رس",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "می از شور خود گشته سر کنگبین",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از شور و شوق خودت، مایعی ساخته‌ای که تو آن را شراب می‌نامی، اما در حقیقت این مایع دارای نمک هم هست."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "تو می‌نامی‌اش می، نمک دارد این",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "به اندازه به، دانش آموختن",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: به اندازه‌ای که فرد باید از علم و دانش بهره‌مند شود، برای رسیدن به پختگی و کمال، باید معایب و نواقص خود را نیز تحمل کند و در مسیر یادگیری با چالش‌ها و مشکلات دست و پنجه نرم کند."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "بود اختر پختگی، سوختن",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "مرا صحبت پختگان خام کرد",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: صحبت بزرگ‌ترها و افراد باتجربه، مرا تحت تأثیر قرار داد و یادآوری خاطرات گذشته باعث شد که به ناتوانی‌ها و رسوایی‌های زمان خود پی ببرم."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "می کهنه رسوای ایّام کرد",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "ز خامی مجو صحبت اهل درد",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر هنوز ناپخته‌ای، در جمع افرادی که درد و رنج را می‌شناسند، شرکت نکن. زیرا کسی که تجربه و شناخت کافی ندارد، نمی‌تواند از تلاش و زحمت دیگران بهره‌مند شود."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "کسی دانه خام خرمن نکرد",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "به خامی مکن تیغ عشق التماس",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: به نادانی درباره عشق اقدام نکن، زیرا در نهایت ممکن است به خواسته‌ات نرسی و همه چیز به ناامیدی تبدیل شود."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "رسد خوشه بعد از رسیدن به داس",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "تو را چون کشد دل به شرب مدام؟",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: چگونه دل مرا به نوشیدن پیوسته وادار می‌کند؟ در حالی که لیوان را به خاطر بودن در بازار از دست داده‌ام."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "که ردکرده شیشه نوشی ز جام",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "چو بیگانه همراز باشد، چه خویش",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر با بیگانه‌ای راز دل را در میان بگذاری، باید بدان که کسی را به عنوان دوست و محرم اسرار خود حساب نکن."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "کسی را مدان محرم راز خویش",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "به هر گوش راز صدف را سری‌ست",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هر گوش و هر فرد از اسرار دل و رازها آگاه است، مانند غواصی که به عمق دریا رفته و رازهای پنهان را فاش می‌کند."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "که مانند غوّاصش افشاگری‌ست",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "چو خواهی شود راز در پرده گم",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی رازها پنهان بمانند، بهتر است آنها را در دل نگه‌داری و از گفتن آنها دوری کنی."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "ز صاف قدح به بود لای خم",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "به گفتن مدر پرده ساز دل",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: با صحبت کردن و بیان احساسات، دل را به خطر می‌اندازی. زبان را محرم راز دل خود ندان."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "زبان را مدان محرم راز دل",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "تو چون راز خود را نداری نهان",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: وقتی خودت نمی‌توانی رازهایت را پنهان کنی، انتظار نداشته باش که بتوانی از دیگران چشم‌پوشی کنی."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "مجو چشم پوشیدن از دیگران",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "ز افشاگری‌های باد صبا",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از نقشه‌های باد صبا، غنچه دلش را فاش می‌کند."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "فتد غنچه را راز دل بر ملا",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "در راز، بر تیره‌دل باز نیست",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در دل تیره‌دل‌ها، حقایق آشکار نمی‌شود و هیچ‌کس که رازها را می‌داند، نمی‌تواند به خوبی در آینه‌ی حقیقت خود را ببیند؛ زیرا زنگارها و مشکلات مانع از این کار هستند."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "ز زنگ آینه محرم راز نیست",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 119,
+      "Position": "CenteredVerse1",
+      "Text": "***",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 120,
+      "Position": "Right",
+      "Text": "منه پای بی‌همسری در سرای",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در جایی که هیچ کس را جز خدا نمی‌توان یاری کرد، پای خود را به خاطر تنهایی نگذار."
+    },
+    {
+      "VOrder": 121,
+      "Position": "Left",
+      "Text": "که را فرد بودن سزد جز خدای؟",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 122,
+      "Position": "Right",
+      "Text": "ز یکتا شدن گو مزن لاف، کس",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به فکر این نباش که بخواهی به یکتایی و بی‌همتایی خود افتخار کنی، زیرا در تمامی عالم فقط خداوند یگانه است و غیر از او هیچ‌کس دیگری وجود ندارد."
+    },
+    {
+      "VOrder": 123,
+      "Position": "Left",
+      "Text": "یکی در دو عالم خدای است و بس",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 124,
+      "Position": "Right",
+      "Text": "نبودی چو پرگار را سر دو شق",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر پرگار را به دو قسمت تقسیم کنی، کجا می‌توانی رأس آن را بر روی خطی که می‌کشی قرار دهی؟"
+    },
+    {
+      "VOrder": 125,
+      "Position": "Left",
+      "Text": "کجا بر خطش سر نهادی ورق؟",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 126,
+      "Position": "Right",
+      "Text": "تمام از دو لب گر نبودی دهن",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر دو لب نبودند، چگونه می‌توانستی ارتباط بین سخنان را پیدا کنی؟"
+    },
+    {
+      "VOrder": 127,
+      "Position": "Left",
+      "Text": "کجا یافتی ربط با هم، سخن؟",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 128,
+      "Position": "Right",
+      "Text": "ز یک دست، آواز ناید به‌در",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر یک دست تنها باشد، نمی‌تواند صدایی تولید کند. همانطور که کار یک قیچی تنها با یک لبه‌اش پیش نمی‌رود؛ برای کارایی بهتر، به دو لبه نیاز دارد."
+    },
+    {
+      "VOrder": 129,
+      "Position": "Left",
+      "Text": "کند کار مقراض، کی بی دو سر؟",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 130,
+      "Position": "Right",
+      "Text": "ندارد گزیر از دویی هیچ‌کس",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌تواند از دوگانگی و دو انتخاب در زندگی فرار کند. اساس جهان بر پایه دو مفهوم اصلی استوار است و تمامی امور از این دو حرف شکل می‌گیرد."
+    },
+    {
+      "VOrder": 131,
+      "Position": "Left",
+      "Text": "بنای جهان بر دو حرف است و بس",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 132,
+      "Position": "Right",
+      "Text": "گرت فرد می‌خواست صورت‌نگار",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی می‌خواست تو را به عنوان یک زن زیبا ببیند، باید به چشمانت نگاه می‌کرد، نه به چهره‌ات."
+    },
+    {
+      "VOrder": 133,
+      "Position": "Left",
+      "Text": "ز رویت نکردی دو چشم آشکار",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 134,
+      "Position": "Right",
+      "Text": "که را نسل بی جفت آید به چنگ؟",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: کیست که بدون همدم و یاری به دست آورد؟ هیچ کس نمی‌تواند چیزی را به دست آورد، مگر با دو ابزار و وسیله."
+    },
+    {
+      "VOrder": 135,
+      "Position": "Left",
+      "Text": "نبیند کسی آرد جز با دو سنگ",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 136,
+      "Position": "Right",
+      "Text": "چو همسر بود در سرا ناگزیر",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: وقتی در خانه همسری داشته باشی، ناگزیر باید از تجربیات و نصیحت‌های افراد با تجربه‌تر استفاده کنی، ای جوان!"
+    },
+    {
+      "VOrder": 137,
+      "Position": "Left",
+      "Text": "ز پیران تو نیز ای جوان پند گیر",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 138,
+      "Position": "Right",
+      "Text": "برو جفت دوشیزه کش در بغل",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: برو و با دختران نجیب و باوقار باش که این موضوع را به طور سطحی و بی‌اهمیت نگیر."
+    },
+    {
+      "VOrder": 139,
+      "Position": "Left",
+      "Text": "که ناخوش بود معنی مبتذل",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 140,
+      "Position": "Right",
+      "Text": "ز مستوره‌ای اجتناب، اجتناب",
+      "CoupletIndex": 71,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: از زن مستور دوری کن، دوری که او پیش از تو، خواب تو را دیده است."
+    },
+    {
+      "VOrder": 141,
+      "Position": "Left",
+      "Text": "که پیش از تو، شو دیده باشد به خواب",
+      "CoupletIndex": 71,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 142,
+      "Position": "Right",
+      "Text": "چه بندی به خاک کهن آب جو؟",
+      "CoupletIndex": 72,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: چرا باید به خاک کهن وابسته باشیم؟ زمین تازگی و زیبایی را به ما ارائه می‌دهد."
+    },
+    {
+      "VOrder": 143,
+      "Position": "Left",
+      "Text": "زمین، نو گرفت آورد بر نکو",
+      "CoupletIndex": 72,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 144,
+      "Position": "Right",
+      "Text": "بر آیینه‌ای حیف باشد نگاه",
+      "CoupletIndex": 73,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: نگاه به آینه بی‌فایده است وقتی کسی با غم و اندوهی عمیق، آن را تیره و کوفته کرده باشد."
+    },
+    {
+      "VOrder": 145,
+      "Position": "Left",
+      "Text": "که افسرده‌ای تیره کردش به آه",
+      "CoupletIndex": 73,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 146,
+      "Position": "Right",
+      "Text": "کجا یابد آن شمع افروخته",
+      "CoupletIndex": 74,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: کجا می‌توان شمعی را پیدا کرد که در یک جا روشن باشد و نیمه‌ی دیگرش در جای دیگری خاموش شده باشد؟"
+    },
+    {
+      "VOrder": 147,
+      "Position": "Left",
+      "Text": "که نیمیش جای دگر سوخته",
+      "CoupletIndex": 74,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 148,
+      "Position": "Right",
+      "Text": "چه دانی که چندست یا چون، زرش",
+      "CoupletIndex": 75,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانی چقدر ارزشمند است یا چقدر از آن را داری، زیرا گنجی را که هنوز در آن را باز نکرده‌ای، نمی‌توانی بشناسی."
+    },
+    {
+      "VOrder": 149,
+      "Position": "Left",
+      "Text": "ز گنجی که نگشوده‌ای خود درش",
+      "CoupletIndex": 75,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 150,
+      "Position": "Right",
+      "Text": "زنی را که شو دیده باشد به خواب",
+      "CoupletIndex": 76,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: زنی که شوهرش را در خواب دیده باشد، هرگز دل و دستش در آرامش نخواهد بود، مانند آبی که در حال جریان است."
+    },
+    {
+      "VOrder": 151,
+      "Position": "Left",
+      "Text": "بشو دست و دل زو نخفته، چو آب",
+      "CoupletIndex": 76,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 152,
+      "Position": "Right",
+      "Text": "کجا طبع قدسی‌منش را سری‌ست",
+      "CoupletIndex": 77,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: جا و مکان روح بلند من کجاست که به آن سیبی که دیگری از آن دندان زده، دسترسی پیدا کند؟"
+    },
+    {
+      "VOrder": 153,
+      "Position": "Left",
+      "Text": "به سیبی که دندان‌زد دیگری‌ست",
+      "CoupletIndex": 77,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 154,
+      "Position": "Right",
+      "Text": "بهی را که یک بار مستی گزید",
+      "CoupletIndex": 78,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: کسی که یک بار طعم مستی را چشیده باشد، دیگر هیچ چیز جز مستی را نمی‌خواهد."
+    },
+    {
+      "VOrder": 155,
+      "Position": "Left",
+      "Text": "بجز مست دیگر نخواهد مزید",
+      "CoupletIndex": 78,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 156,
+      "Position": "Right",
+      "Text": "نخورد آن غذا هیچ تن‌پروری",
+      "CoupletIndex": 79,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هیچ فرد تن‌پروری که به یک بار غذا خوردن عادت کرده باشد، به غذای دیگری روی نخواهد آورد."
+    },
+    {
+      "VOrder": 157,
+      "Position": "Left",
+      "Text": "که یک بار کردش غذا دیگری",
+      "CoupletIndex": 79,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 158,
+      "Position": "Right",
+      "Text": "میالاس انگشت ای بوالهوس",
+      "CoupletIndex": 80,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به انگشت خود به چیزی که مگس بر روی آن نشسته نزن، زیرا آن عسل شیرین است که مگس از آن استفاده کرده است."
+    },
+    {
+      "VOrder": 159,
+      "Position": "Left",
+      "Text": "به شهدی که خورده به بال مگس",
+      "CoupletIndex": 80,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 160,
+      "Position": "Right",
+      "Text": "دُر سفته، نزدیک اهل تمیز",
+      "CoupletIndex": 81,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: مروارید خام، نزد افرادی که به درستی تشخیص می‌دهند، ارزشمندتر از جواهر نابی است که نادانسته باشد."
+    },
+    {
+      "VOrder": 161,
+      "Position": "Left",
+      "Text": "چو ناسفته گوهر نباشد عزیز",
+      "CoupletIndex": 81,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 162,
+      "Position": "Right",
+      "Text": "مکن گل ز دامان گلچین هوس",
+      "CoupletIndex": 82,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: نباید گل را از دامن گلچین جدا کنی، زیرا گل تنها از شاخه چیده می‌شود و بس."
+    },
+    {
+      "VOrder": 163,
+      "Position": "Left",
+      "Text": "گل آن است کز شاخ چینیّ و بس",
+      "CoupletIndex": 82,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 164,
+      "Position": "Right",
+      "Text": "امید تمتّع بباید برید",
+      "CoupletIndex": 83,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: کسی که به نعمت‌های زندگی امید دارد، باید از چیزهایی که او را به دردسر می‌اندازد و خطرات را در پی دارد، دوری کند."
+    },
+    {
+      "VOrder": 165,
+      "Position": "Left",
+      "Text": "ازان نار پستان که دستش رسید",
+      "CoupletIndex": 83,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 166,
+      "Position": "Right",
+      "Text": "چو خواهی بود باده چون شیر، پاک",
+      "CoupletIndex": 84,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی باده‌ات مانند شیر باشد و خالص و پاک مانند دهان کودکانی که از پستان مادر می‌مکند، نباید از تاک بنوشی."
+    },
+    {
+      "VOrder": 167,
+      "Position": "Left",
+      "Text": "چو طفلان دهن نه به پستان تاک",
+      "CoupletIndex": 84,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 168,
+      "Position": "Right",
+      "Text": "بهی را که دندان دیگر مزید",
+      "CoupletIndex": 85,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر دندان بهی (زیبارویی) که دندانش زیبایی بیشتری دارد، وجود داشته باشد، حتی لب‌های حور (زیبایان بهشتی) هم نمی‌توانند آن را بچشند."
+    },
+    {
+      "VOrder": 169,
+      "Position": "Left",
+      "Text": "بود گر لب حور، نتوان گزید",
+      "CoupletIndex": 85,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 170,
+      "Position": "Right",
+      "Text": "طبیعت کند زان عروس اجتناب",
+      "CoupletIndex": 86,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: طبیعت از آن عروس دوری می‌کند، چون داماد دیگری بر سرش نقاب گذاشته است."
+    },
+    {
+      "VOrder": 171,
+      "Position": "Left",
+      "Text": "که داماد دیگر کشیدش نقاب",
+      "CoupletIndex": 86,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 172,
+      "Position": "Right",
+      "Text": "چو صیدی خورد تیر، جای دگر",
+      "CoupletIndex": 87,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: وقتی صیادی تیر می‌زند و شکارش می‌شود، دیگر به دنبال طعمه‌ای که متعلق به آن صید است نرو. حتی اگر شیر نر هم باشد."
+    },
+    {
+      "VOrder": 173,
+      "Position": "Left",
+      "Text": "مکن طعمه زان صید، گو شیر نر",
+      "CoupletIndex": 87,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 174,
+      "Position": "Right",
+      "Text": "سفالی که شد کهنه، گردش مگرد",
+      "CoupletIndex": 88,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر سفالی کهنه شده است، نگران نباش زیرا دیگران از کوزه‌های نو آب سرد می‌نوشند. به این معنا که نباید بر سر مسایل گذشته و کهنگی چیزها نگران باشیم، چرا که همیشه تازه‌ها و نوآوری‌های جدیدی وجود دارد."
+    },
+    {
+      "VOrder": 175,
+      "Position": "Left",
+      "Text": "که از کوزه نو خورند آب سرد",
+      "CoupletIndex": 88,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 176,
+      "Position": "Right",
+      "Text": "ازان آب به، تشنگیّ و سراب",
+      "CoupletIndex": 89,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: از آن آب، تشنگی و سراب مانند این است که وقتی کسی از کوزه‌ای تازه آب می‌نوشد، جز آب چیز دیگری نمی‌بیند."
+    },
+    {
+      "VOrder": 177,
+      "Position": "Left",
+      "Text": "چو از کوزه نو خورد غیر، آب",
+      "CoupletIndex": 89,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 178,
+      "Position": "Right",
+      "Text": "برو کوزه نم‌کشیده مخر",
+      "CoupletIndex": 90,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: برو ببین، کوزه‌گری که هنوز کوزه‌اش خشک نشده و در دکانش بسته نیست، چه کار می‌کند."
+    },
+    {
+      "VOrder": 179,
+      "Position": "Left",
+      "Text": "نبسته‌ست دکان خود، کوزه‌گر",
+      "CoupletIndex": 90,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 180,
+      "Position": "Right",
+      "Text": "بر آن زن پلارک پسندیده است",
+      "CoupletIndex": 91,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: زن پلارک به کسی خوش‌آمد می‌گوید که پیش از او چهره‌ی دیگری را دیده و تجربه کرده باشد."
+    },
+    {
+      "VOrder": 181,
+      "Position": "Left",
+      "Text": "که پیش از تو روی کسی دیده است",
+      "CoupletIndex": 91,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 182,
+      "Position": "Right",
+      "Text": "منه پا بدان خوان که دستش رسید",
+      "CoupletIndex": 92,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به جایی پا نگذار که به دیگران آسیب می‌زند. از آب زندگی که باعث زنده شدن دیگران می‌شود، نیاشام."
+    },
+    {
+      "VOrder": 183,
+      "Position": "Left",
+      "Text": "منوش آب حیوان که خضرش چشید",
+      "CoupletIndex": 92,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 184,
+      "Position": "Right",
+      "Text": "چو غوّاص برداشت مهر از صدف",
+      "CoupletIndex": 93,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: وقتی که غواص مروارید را از صدف بیرون می‌آورد، تو نمی‌توانی بدانی که چندین گوهر از دست رفته است."
+    },
+    {
+      "VOrder": 185,
+      "Position": "Left",
+      "Text": "چه دانی که شد چند گوهر تلف",
+      "CoupletIndex": 93,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 186,
+      "Position": "Right",
+      "Text": "پی سایه در پای سروی مخواب",
+      "CoupletIndex": 94,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در زیر سایه درخت سرو دراز دراز نیفت، زیرا روزی برفراز آن آفتاب تابیده است."
+    },
+    {
+      "VOrder": 187,
+      "Position": "Left",
+      "Text": "که تابیده روزی بر آن، آفتاب",
+      "CoupletIndex": 94,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 188,
+      "Position": "Right",
+      "Text": "خوش آن‌کس که مژگان به هم بافته",
+      "CoupletIndex": 95,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال کسی که چشمانش را به عشق و محبت برای دیگران بهم دوخته است."
+    },
+    {
+      "VOrder": 189,
+      "Position": "Left",
+      "Text": "ز مهری که بر دیگری تافته",
+      "CoupletIndex": 95,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 190,
+      "Position": "Right",
+      "Text": "مزن دست در زلف آن خوب‌روی",
+      "CoupletIndex": 96,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به آن معشوق زیبا که قبل از تو کسی زلف‌هایش را بسته، دست نزن."
+    },
+    {
+      "VOrder": 191,
+      "Position": "Left",
+      "Text": "که پیش از تو زلفش گرفته‌ست شوی",
+      "CoupletIndex": 96,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 192,
+      "Position": "Right",
+      "Text": "ازان غنچه به، زخم خارت به دست",
+      "CoupletIndex": 97,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این بیت به معنای این است که وجود یک غنچه زیبا، به قیمت زخم و آسیب به دست آمده است. دست دیگری آن غنچه را چیده و به زیبایی دسته کرده است. این بیانگر قربانی کردن و تلاش برای رسیدن به زیبایی یا چیزی با ارزش است، حتی اگر این فرآیند همراه با درد و رنج باشد."
+    },
+    {
+      "VOrder": 193,
+      "Position": "Left",
+      "Text": "که دست دگر چیدش و دسته بست",
+      "CoupletIndex": 97,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 194,
+      "Position": "Right",
+      "Text": "برو دست از خون آن زن بشوی",
+      "CoupletIndex": 98,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: از کینه و انتقام نسبت به آن زن دست بکش که با مرد دیگری رفته و دیگر هیچ ارتباطی با تو ندارد."
+    },
+    {
+      "VOrder": 195,
+      "Position": "Left",
+      "Text": "که با دیگری رفته آبش به جوی",
+      "CoupletIndex": 98,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 196,
+      "Position": "Right",
+      "Text": "به آن برگ گل دار پیمان درست",
+      "CoupletIndex": 99,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به آن گلبرگ زیبا و نرم احترام بگذار که همچون غنچه‌ای به نظر می‌رسد که از درون تو بیرون آمده است."
+    },
+    {
+      "VOrder": 197,
+      "Position": "Left",
+      "Text": "که چو غنچه، گویی ز جیب تو رُست",
+      "CoupletIndex": 99,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 198,
+      "Position": "Right",
+      "Text": "به آن سرو، آغوش باید گشاد",
+      "CoupletIndex": 100,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: برای آن درخت سرسبز و زیبا باید دست باز کرد و به او نزدیک شد، زیرا بر کنار تو رشد و شکوفایی دارد."
+    },
+    {
+      "VOrder": 199,
+      "Position": "Left",
+      "Text": "که ... بر کنار تو زاد",
+      "CoupletIndex": 100,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "Id": 5678,
+  "CatId": 99,
+  "Title": "غزل شمارهٔ ۳۰۵۴",
+  "FullTitle": "مولانا » دیوان شمس » غزلیات » غزل شمارهٔ ۳۰۵۴",
+  "FullUrl": "/moulavi/shams/ghazalsh/sh3054",
+  "RhymeLetters": "اری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر ناامیدی و بی‌کفایتی شاعر در مقابل مشکلات و سختی‌های زمانه است. شاعر از تاریکی و مکاری‌ پیر چرخ (زمان) گلایه می‌کند و به کلاهی کج و بی‌فایده اشاره دارد. او به تنگدستی خود اشاره می‌کند و می‌گوید که در این دریای زندگی هیچ چیز به دست نیاورده است. شاعر در انتها به عشق و امید می‌پردازد و می‌گوید که عشق می‌تواند او را از زشتی‌های زندگی نجات دهد و به یاد عشق، شب تاریک را روشن کند. در نهایت، او به قناعت و بسندگی در زندگی اشاره می‌کند و خواهان گفتار کمتر و عمل بیشتر است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اری",
+      "PlainText": "منم که کار ندارم به غیر بی کاری\r\nدلم ز کار زمانه گرفت بیزاری\r\nز خاک تیره ندیدم به غیر تاریکی\r\nز پیر چرخ ندیدم به غیر مکاری\r\nفروگذاشته ای شست دل در این دریا\r\nنه ماهیی بگرفتی نه دست می داری\r\nتو را چه شصت و چه هفتاد چون نخواهی پخت\r\nگلی به دست نداری چه خار می خاری\r\nکلاه کژ بنهی همچو ماه و نورت نیست\r\nبرو برو که گرفتار ریش و دستاری\r\nچگونه برقی آخر که کشت می سوزی\r\nچگونه ابری آخر که سنگ می باری\r\nچو صید دام خودی پس چگونه صیادی\r\nچو دزد خانه خویشی چگونه عیاری\r\nاگر چه این همه باشد ولی اگر روزی\r\nخیال یار مرا دیده ای نکو یاری\r\nبه ذات پاک خدایی که کارساز همه ست\r\nچو مست کار امیر منی نکوکاری\r\nاگر دو گام پیاده دویدی از پی او\r\nتو یک سواره نه ای تو سپاه سالاری\r\nبگیر دامن عشقی که دامنش گرمست\r\nکه غیر او نرهاند تو را ز اغیاری\r\nبه یاد عشق شب تیره را به روز آور\r\nچو عشق یاد بود شب کجا بود تاری\r\nتو خفته باشی و آن عشق بر سر بالین\r\nبرآوریده دو کف در دعا و در زاری\r\nاگر بگویم باقی بسوزد این عالم\r\nهلا قناعت کردم بس است گفتاری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنم که کار ندارم به غیر بی‌کاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلم ز کار زمانه گرفت بیزاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز خاک تیره ندیدم به غیر تاریکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز پیر چرخ ندیدم به غیر مکاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفروگذاشته‌ای شست دل در این دریا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه ماهیی بگرفتی نه دست می‌داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو را چه شصت و چه هفتاد چون نخواهی پخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگلی به دست نداری چه خار می‌خاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکلاه کژ بنهی همچو ماه و نورت نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرو برو که گرفتار ریش و دستاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچگونه برقی آخر که کشت می‌سوزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچگونه ابری آخر که سنگ می‌باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو صید دام خودی پس چگونه صیادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو دزد خانه خویشی چگونه عیاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه این همه باشد ولی اگر روزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخیال یار مرا دیده‌ای نکو یاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه ذات پاک خدایی که کارساز همه‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو مست کار امیر منی نکوکاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر دو گام پیاده دویدی از پی او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو یک سواره نه‌ای تو سپاه سالاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگیر دامن عشقی که دامنش گرمست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه غیر او نرهاند تو را ز اغیاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه یاد عشق شب تیره را به روز آور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو عشق یاد بود شب کجا بود تاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو خفته باشی و آن عشق بر سر بالین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآوریده دو کف در دعا و در زاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر بگویم باقی بسوزد این عالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهلا قناعت کردم بس است گفتاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 14
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "منم که کار ندارم به غیر بی‌کاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من کسی هستم که به هیچ چیزی به جز بیکاری فکر نمی‌کنم و از مشغله‌های دنیا و کارهای آن خسته‌ام."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دلم ز کار زمانه گرفت بیزاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز خاک تیره ندیدم به غیر تاریکی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از زمین تاریک غیر از تاریکی چیزی ندیدم و از کهن‌سال زمان هم جز فریب و مکر چیزی نیاموخته‌ام."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز پیر چرخ ندیدم به غیر مکاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فروگذاشته‌ای شست دل در این دریا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در این دریا شست دل خود را فرو کرده‌ای، اما نه ماهی‌ای گرفتی و نه دستی برای خود داری."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نه ماهیی بگرفتی نه دست می‌داری",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تو را چه شصت و چه هفتاد چون نخواهی پخت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچقدر که تلاش کنی و به سن و سالی برسی، اگر نخواهی که در کارهای خود پیشرفت کنی، به مانند گلی در دست نداری و تنها به خودت آسیب می‌زنی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گلی به دست نداری چه خار می‌خاری",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کلاه کژ بنهی همچو ماه و نورت نیست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چو نیک بنگری، می‌بینی که این که شکل و شمایل مخصوص دارد و مانند ماه می‌درخشد، اما در واقع تو را در دام خود می‌اندازد. بهتر است که دور شوی چون گرفتار چهره و ظواهر نخواهی شد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "برو برو که گرفتار ریش و دستاری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چگونه برقی آخر که کشت می‌سوزی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چطور می‌توانی به آخرین لحظه درختی را بسوزانی، و چگونه می‌توانی در آخرین مرحله بارانی سنگین بر زمین باری؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چگونه ابری آخر که سنگ می‌باری",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چو صید دام خودی پس چگونه صیادی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو خودت در دام گرفتی، پس چطور می‌توانی صیاد باشی؟ مانند دزدی که در خانه خود به دنبال کاری است، چگونه می‌توانی با زرنگی عمل کنی؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چو دزد خانه خویشی چگونه عیاری",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "اگر چه این همه باشد ولی اگر روزی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه همه چیز به این شکل است، اما اگر روزی به یاد معشوق من بیفتی، آن را به نیکویی و خوبی برمی‌گردانی."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "خیال یار مرا دیده‌ای نکو یاری",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "به ذات پاک خدایی که کارساز همه‌ست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خداوندی که همه چیز را به راه می‌اندازد، مانند این است که وقتی کسی تحت تأثیر کارهای خوب امیر قرار می‌گیرد، او نیز نیکوکار می‌شود."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "چو مست کار امیر منی نکوکاری",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "اگر دو گام پیاده دویدی از پی او",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دو قدم پیاده برای دنبال کردن او برداری، تو از یک سوار هم بالاتر و قوی‌تر هستی، مانند رهبری که سپاهی دارد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "تو یک سواره نه‌ای تو سپاه سالاری",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "بگیر دامن عشقی که دامنش گرمست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق را در آغوش بگیر که باعث آرامش تو می‌شود، زیرا تنها او می‌تواند تو را از چنگال نیرنگ‌ها نجات دهد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "که غیر او نرهاند تو را ز اغیاری",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "به یاد عشق شب تیره را به روز آور",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به یاد عشق، شب تاریک را به روشنی تبدیل کن. چون وقتی عشق در یاد باشد، دیگر شب‌های تاریک معنا ندارند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "چو عشق یاد بود شب کجا بود تاری",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "تو خفته باشی و آن عشق بر سر بالین",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در حالی که تو خواب هستی، عشق در کنار سرت نشسته و با دستانش دعا می‌کند و در حال ناله و زاری است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "برآوریده دو کف در دعا و در زاری",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "اگر بگویم باقی بسوزد این عالم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بگویم که باقی مانده این دنیا باید بسوزد، این برای من کافی است که چنین حرفی بزنم."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "هلا قناعت کردم بس است گفتاری",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    }
+  ]
+}

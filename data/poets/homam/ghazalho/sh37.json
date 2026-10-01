@@ -1,0 +1,165 @@
+{
+  "Id": 77635,
+  "CatId": 2115,
+  "Title": "شمارهٔ ۳۷",
+  "FullTitle": "همام تبریزی » غزلیات » شمارهٔ ۳۷",
+  "FullUrl": "/homam/ghazalho/sh37",
+  "RhymeLetters": "یناست",
+  "SourceName": "سید جابر موسوی",
+  "SourceUrlSlug": "sjm",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر عشق و شدت علاقه شاعر به معشوق است. شاعر از بوی خوش معشوق و لطافت کلمات او صحبت می‌کند و به زیبایی‌های او اشاره دارد. عشق را به می و مستی تشبیه می‌کند و می‌گوید که این عشق می‌تواند هم دنیا را فتنه انگیز کند و هم دین را دچار آسیب کند. در ادامه، شاعر به زیبایی و جذابیت چهره معشوق اشاره می‌کند و می‌گوید که حتی بهشت نیز نمی‌تواند همچون او زیبا باشد. در نهایت، از معروفیت شعرهایش به خاطر وصف زیبایی معشوق سخن می‌گوید، که نشان‌دهنده تأثیر عمیق عشق او بر هنر و ادبیاتش است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یناست",
+      "PlainText": "مرا دماغ ز بویت هنوز مشکین است\r\nدهان من به حدیث لب تو شیرین است\r\nبه باغ می کشدم آرزوی دیدارت\r\nچه جای برگ گل وارغوان و نسرین است\r\nبه وقت خنده نظر کرده ام به دندانت\r\nهنوز چشم مرا روشنی ز پروین است\r\nفدای مستی چشم تو باد هستی ما\r\nاگر چه فتنه دنیی و آفت دین است\r\nعجب مدار گر آب دو دیده گلگون شد\r\nخیال روی تو در دیدۀ جهان بین است\r\nمباش منکر تمکین من که هست مرا\r\nشراب عشق تو در سر چه جای تمکین است\r\nنظر بر آینه انداز تا شود معلوم\r\nکه عکس روی مهت را چه زیب و آیین است\r\nاگر به روی تو رضوان نظر کند گوید\r\nملاحتی که بدیدیم در بهشت این است\r\nز وصف روی تو مشهور گشت شعر همام\r\nبرای نسبت حسنت سزای تحسین است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا دماغ ز بویت هنوز مشکین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدهان من به حدیث لب تو شیرین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه باغ می‌کشدم آرزوی دیدارت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه جای برگ گل وارغوان و نسرین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه وقت خنده نظر کرده‌ام به دندانت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهنوز چشم مرا روشنی ز پروین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفدای مستی چشم تو باد هستی ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر چه فتنه دنیی و آفت دین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعجب مدار گر آب دو دیده گلگون شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخیال روی تو در دیدۀ جهان‌بین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمباش منکر تمکین من که هست مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشراب عشق تو در سر چه جای تمکین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظر بر آینه انداز تا شود معلوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عکس روی مهت را چه زیب و آیین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر به روی تو رضوان نظر کند گوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eملاحتی که بدیدیم در بهشت این است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز وصف روی تو مشهور گشت شعر همام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرای نسبت حسنت سزای تحسین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مرا دماغ ز بویت هنوز مشکین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بوی تو هنوز در ذهن من خوش است و سخنانم به یاد لب‌های تو، شیرین و لذت‌بخش است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دهان من به حدیث لب تو شیرین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به باغ می‌کشدم آرزوی دیدارت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر آرزوی دیدنت، به باغ می‌روم؛ چراکه در این باغ، به جز گل و گیاهان زیبا، چیزی برای من اهمیت ندارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چه جای برگ گل وارغوان و نسرین است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به وقت خنده نظر کرده‌ام به دندانت",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که می‌خندیدی، به دندان‌هایت نگاه می‌کردم و هنوز هم نور چشمانم از زیبایی توست."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هنوز چشم مرا روشنی ز پروین است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "فدای مستی چشم تو باد هستی ما",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه جذابیت و زیبایی چشم تو ممکن است باعث مشکلات و چالش‌هایی در زندگی و دین ما شود، ولی ما برای آن مستی و شیفتگی آماده‌ایم و حتی جانمان را فدای آن می‌کنیم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اگر چه فتنه دنیی و آفت دین است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عجب مدار گر آب دو دیده گلگون شد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شگفتا اگر چشمانم از اشک پر شود، چون در نظر دنیا تنها تصویر تو به ذهن می‌آید."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خیال روی تو در دیدۀ جهان‌بین است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "مباش منکر تمکین من که هست مرا",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که کسی را نپندار که نمی‌تواند عشق تو را بپذیرد، زیرا در سر او شوری از عشق تو وجود دارد و در چنین حالتی، جای تسلیم و انفعال نیست."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "شراب عشق تو در سر چه جای تمکین است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "نظر بر آینه انداز تا شود معلوم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به آینه نگاه کن تا ببینی که تصویر زیبای تو چه زیبایی و شکوهی دارد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که عکس روی مهت را چه زیب و آیین است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "اگر به روی تو رضوان نظر کند گوید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فرشته‌های بهشت به چهره‌ات نگاه کنند، خواهند گفت که زیبایی و جذابیتی که در اینجا دیدیم، همین است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ملاحتی که بدیدیم در بهشت این است",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ز وصف روی تو مشهور گشت شعر همام",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شعر همام به خاطر زیبایی و وصف روی تو معروف شده است و این زیبایی لایق تحسین است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "برای نسبت حسنت سزای تحسین است",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

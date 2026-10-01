@@ -1,0 +1,130 @@
+{
+  "Id": 134189,
+  "CatId": 3068,
+  "Title": "شمارهٔ ۱۷",
+  "FullTitle": "سیدای نسفی » دیوان اشعار » غزلیات » شمارهٔ ۱۷",
+  "FullUrl": "/nasafi/divan/ghazal/sh17",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و محبت وابستگی به یک محبوب می‌پردازد. شاعر با توصیف زلف و روی محبوب، به نحوی احساسات عمیق و دل‌تنگی خود را بیان می‌کند. او از جذابیت و زیبایی باغ‌ها و گل‌ها بهره می‌گیرد تا حسرت و اشتیاق خود را به تصویر بکشد. در عین حال، به اندوه و داغ دل سوختگان عشق اشاره می‌کند و نشان می‌دهد که غم عشق بر دل‌های مردم سایه انداخته و حتی در دل‌های جوانان نیز باقی مانده است. در نهایت، شاعر درخواست می‌کند که محبوبش به کلبه‌اش بیاید و باز هم عشق و زیبایی در دنیا جاری شود.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اغها",
+      "PlainText": "ای فرش بوی سنبل زلفت دماغ ها\r\nپامال شبنم گل روی تو باغ ها\r\nامشب بیا به کلبه ام ای رشک بوستان\r\nکز روغن گل است لبالب چراغ ها\r\nنامم میان سوختگان تا بلند شد\r\nخود را به لاله زار کشیدند داغ ها\r\nزان یار خانگی خبری هیچ کس نگفت\r\nلبریز شد ز آبله پای سراغ ها\r\nامروز بس که ریخته ای خون بلبلان\r\nبربسته شد به خلق ره کوچه باغ ها\r\nدر آفتاب سوخته گشتند قمریان\r\nبر سایه های سرو نشستند زاغ ها\r\nدر هیچ دل نماند غم عشق سیدا\r\nشد پیر در خیال جوانان دماغ ها",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای فرش بوی سنبل زلفت دماغ‌ها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپامال شبنم گل روی تو باغ‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب بیا به کلبه‌ام ای رشک بوستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز روغن گل است لبالب چراغ‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنامم میان سوختگان تا بلند شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود را به لاله زار کشیدند داغ‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان یار خانگی خبری هیچ کس نگفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلبریز شد ز آبله پای سراغ‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز بس که ریخته‌ای خون بلبلان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبربسته شد به خلق ره کوچه‌باغ‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آفتاب سوخته گشتند قمریان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سایه‌های سرو نشستند زاغ‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هیچ دل نماند غم عشق سیدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد پیر در خیال جوانان دماغ‌ها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای فرش بوی سنبل زلفت دماغ‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای فرش، بوی خوش سنبل زلفت را در باغ‌ها پخش کرده‌ است و عطر شبنم بر روی گل‌های تو، همه جا را پر کرده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پامال شبنم گل روی تو باغ‌ها",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "امشب بیا به کلبه‌ام ای رشک بوستان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امشب به خانه‌ام بیا، ای کسی که حسرت باغ را به دل داری، زیرا چراغ‌ها از روغن گل پر شده و روشن هستند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز روغن گل است لبالب چراغ‌ها",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نامم میان سوختگان تا بلند شد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی نامم در میان آتش‌زدگان بلند شد، داغ‌ها به سمت لاله‌زارها کشیده شدند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خود را به لاله زار کشیدند داغ‌ها",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "زان یار خانگی خبری هیچ کس نگفت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آن یار نزدیک، هیچ‌کس خبری نیاورد و او از غم و درد، دچار زخم‌های بی‌شمار شد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "لبریز شد ز آبله پای سراغ‌ها",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "امروز بس که ریخته‌ای خون بلبلان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز به قدری بلبلان را کشته‌ای که مردم دیگر نمی‌توانند به کوچه‌باغ‌ها بروند و در آنجا آرامش داشته باشند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بربسته شد به خلق ره کوچه‌باغ‌ها",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "در آفتاب سوخته گشتند قمریان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرندگان قمری در گرمای آفتاب به سایه‌های درختان سرو پناه بردند و زاغ‌ها هم در آنجا نشسته‌اند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بر سایه‌های سرو نشستند زاغ‌ها",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "در هیچ دل نماند غم عشق سیدا",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل هیچ‌کسی غم عشق باقی نمانده است؛ سیدا در افکار خود به یاد جوانانی است که آرزوها و احساسات زیادی دارند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "شد پیر در خیال جوانان دماغ‌ها",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

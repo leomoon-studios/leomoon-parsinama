@@ -1,0 +1,930 @@
+{
+  "Id": 27713,
+  "CatId": 233,
+  "Title": "شمارهٔ ۵۰ - در حکمت",
+  "FullTitle": "خاقانی » دیوان اشعار » قطعات » شمارهٔ ۵۰ - در حکمت",
+  "FullUrl": "/khaghani/divankh/ghetekh/sh50",
+  "RhymeLetters": "ماست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره وفا و دوری از نفاق و نیرنگ سخن می‌گوید. شاعر تأکید می‌کند که غدر و خیانت به نهایت نابودی می‌انجامد و بر وفا و صداقت باید تکیه کرد. او توصیه می‌کند که باید دوستان واقعی را در کنار خود داشت و از دوستان ناپاک دوری کرد. همچنین بر ضرورت شناخت افراد و پرهیز از افراد کاذب تأکید می‌کند و اینکه وفاداری و صداقت در دوستی از اهمیت بالایی برخوردار است. شاعر در انتها خاطرنشان می‌کند که در این جهان، بزرگ‌ترها و افراد با فضیلت باید مورد احترام قرار گیرند و از ویژگی‌های نیکو باید الگوبرداری شود. در مجموع، شعر پیامی از تأکید بر شرافت، صداقت و پرهیز از خیانت به همراه دارد.",
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ماست",
+      "PlainText": "ای فتی فتوی غدرت ندهم\r\nکافت غدر هلاک امم است\r\nغدر نقابی بنیاد وفاست\r\nاینت بنیاد که جان را حرم است\r\nصبح حشر است مزن نقب چنین\r\nکافت نقب زن از صبح دم است\r\nغدر چون لذت دزدی است نخست\r\nکاخرش دست بریدن الم است\r\nورم غدر کند رویت سرخ\r\nسرخی عضو دلیل ورم است\r\nتا تو بیمار نفاقی به درست\r\nهرچه صحبت شمری هم سقم است\r\nخانه در کوی وفا گیر و بدان\r\nکه تو را حبل متین معتصم است\r\nمن وصیت به وفا می کنمت\r\nگرچه امروز وفا در عدم است\r\nدوستی کم کن و چون خواهی کرد\r\nآن چنان کن که شعار کرم است\r\nهرکه را دوست براند تو مخوان\r\nگرنه در چشم وفای تو نم است\r\nوانکه را دوست به انصاف بزد\r\nمنوازش که سزای ستم است\r\nوانکه را دوست بیفکند از پای\r\nسرفرازش مکن ار شاه جم است\r\nوانکه را دوست به تهمت رد کرد\r\nمپذیر ار همه ز اهل حرم است\r\nشاخ کو برکند آن را به ستیز\r\nمنشان ار همه شاخ ارم است\r\nو آن گلی کو بنشاند به حسد\r\nبرمکن گر همه خار قدم است\r\nهر خسی کو به کسی مردم شد\r\nقدر نشناسد کافر نعم است\r\nگل که عیسیش طرازد مرغ است\r\nنی که ادریس نشاند قلم است\r\nلطف در حق رهی چندان کن\r\nکه خداوندش از آن دل خرم است\r\nنه حواری صفت است آنکه از او\r\nاسقفان خوش دل و عیسی دژم است\r\nکهتری را که تو تمکینش دهی\r\nعامه گوید که ز مهتر چه کم است\r\nسگ سگ است ارچه بیاغالندش\r\nکاستخوان خواره شیر اجم است\r\nباد در سبلت نااهل مدم\r\nگرچه نااهل خریدار دم است\r\nتو غرورش دهی او چیره شود\r\nظن برد کو نه رهی ابن عم است\r\nبیش بر جای خدم ننشیند\r\nایمه مخدوم چه جای خدم است\r\nکهتر از فر مهان نامور است\r\nبیدق از خدمت شه محتشم است\r\nهر فروتر به بزرگی است عزیز\r\nهر پیمبر به خدا محترم است\r\nمهتر ار چه بزند بنوازد\r\nکه یکی لا و هزارش نعم است\r\nگه کند تندی و گه بخشش از آنک\r\nبحر تند است و گهربخش هم است\r\nمهتر آن به که درشت است نه نرم\r\nکه درشتی صفت فحل رم است\r\nخارپشت است کم آزار و درشت\r\nمار نرم است و سراپای سم است\r\nاز درشتی است سفن قایم تیغ\r\nکه بر او تکیه گه روستم است\r\nآب نرم است ولی خاین طبع\r\nساده رنگ است ولی پیچ و خم است\r\nسنگ در عین درشتی است امین\r\nلاجرم گاه محک گه حکم است\r\nآب را سنگ است اندر بر از آنک\r\nسنگ را بچه خور در شکم است\r\nجملةالامر سری را ز سفیه\r\nفرق کن کاین ملک است آن حشم است\r\nغصه مفزای سران را به ستیز\r\nخاصه کانفاس سران مغتنم است\r\nبی سران را سر و گردن مفراز\r\nبرمزن دوش که ما را چه غم است\r\nپس مگو کایمه همه آدمی اند\r\nآدمی هست که شیطان شیم است\r\nدر بزرگی جسدشان منگر\r\nکه دل خرد بزرگ از همم است\r\nاز خلال ملکان فرق بکن\r\nتا عصا کان ز شبان غنم است\r\nنبرد دیده بسی ناز چراغ\r\nزان که با خواب در او بهم است\r\nدیده قبله ز چراغی چکند\r\nتاش محراب ز بدر الظلم است\r\nکاوه را چون فر افریدون یافت\r\nچه غم کوره و سندان و دم است\r\nعیسی از معجزه برسازد رنگ\r\nاو چه محتاج به نیل و بقم است\r\nمه و مشک اند مهان کهتر کیست\r\nکه نه از مه ضو و نز مشک شم است\r\nاین غران خصم سرانند به طبع\r\nآری آری عدوی مشک تم است\r\nزیردستان گله بر عکس کنند\r\nگله شان از پی نفی تهم است\r\nبینی آن زخم گران بر سر کوس\r\nلرزه و دل سبکی بر علم است\r\nشکل شاگرد غلامانه مکن\r\nگرچه این قاعده مرتسم است\r\nزانکه شاگرد غلامی نکند\r\nعقل کاستاد سرای قدم است\r\nبه ادب زی که به شمشیر ادب\r\nعرب اقلیم ستان عجم است\r\nحرز جان ساز ادب کاین کلمه\r\nبر سر افسر کسری رقم است\r\nنه کبوتر که امان یافت ز تیغ\r\nبه ادب خاصه بیت الحرم است\r\nادب صحبت خلق از سر صدق\r\nنسخت طاعت رب النسم است\r\nهم نمودار سجود صمد است\r\nشمنان را که هوای صنم است\r\nبه تنعم جهلا را مستای\r\nکه ستودن به علوم و حکم است\r\nیاد کردی به هنر جاه بس است\r\nکه ز اسباب همه مدح و ذم است\r\nشمس را خوان بره نیست شرف\r\nشرف شمس به واو قسم است\r\nبشنو این نکته که خاقانی گفت\r\nکو به میزان سخن یک درم است\r\nاز بدان نیک حذر دار که بد\r\nکژدم اعمی و مار اصم است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای فتی فتوی غدرت ندهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکافت غدر هلاک امم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغدر نقّابی بنیاد وفاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاینت بنیاد که جان را حرم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبح حشر است مزن نقب چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکافت نقب زن از صبح‌دم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغدر چون لذت دزدی است نخست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاخرش دست بریدن الم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eورم غدر کند رویت سرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرخی عضو دلیل ورم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا تو بیمار نفاقی به درست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچه صحبت شمری هم سقم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانه در کوی وفا گیر و بدان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تو را حبل متین معتصم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن وصیت به وفا می‌کنمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه امروز وفا در عدم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوستی کم کن و چون خواهی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن چنان کن که شعار کرم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکه را دوست براند تو مخوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرنه در چشم وفای تو نم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوانکه را دوست به انصاف بزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنوازش که سزای ستم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوانکه را دوست بیفکند از پای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرفرازش مکن ار شاه جم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوانکه را دوست به تهمت رد کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمپذیر ار همه ز اهل حرم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاخ کو برکند آن را به ستیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنشان ار همه شاخ ارم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو آن گلی کو بنشاند به حسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرمکن گر همه خار قدم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر خسی کو به کسی مردم شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقدر نشناسد کافر نعم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل که عیسیش طرازد مرغ است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنی که ادریس نشاند قلم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلطف در حق رهی چندان کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خداوندش از آن دل خرم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه حواری صفت است آنکه از او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسقفان خوش‌دل و عیسی دژم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکهتری را که تو تمکینش دهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعامه گوید که ز مهتر چه کم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسگ سگ است ارچه بیاغالندش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاستخوان خوارهٔ شیر اجم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد در سبلت نااهل مدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه نااهل خریدار دم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو غرورش دهی او چیره شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eظن برد کو نه رهی، ابن‌عم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیش بر جای خدم ننشیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایمه مخدوم چه جای خدم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکهتر از فر مهان نامور است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیدق از خدمت شه محتشم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر فروتر به بزرگی است عزیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر پیمبر به خدا محترم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهتر ار چه بزند بنوازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه یکی لا و هزارش نعم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه کند تندی و گه بخشش از آنک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحر تند است و گهربخش هم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهتر آن به که درشت است نه نرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه درشتی صفت فحل رم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخارپشت است کم آزار و درشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمار نرم است و سراپای سم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز درشتی است سفن قائم تیغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر او تکیه‌گه روستم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب نرم است ولی خائن طبع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساده رنگ است ولی پیچ و خم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسنگ در عین درشتی است امین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاجرم گاه محک گه حکم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب را سنگ است اندر بر از آنک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسنگ را بچهٔ خور در شکم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجملةالامر سری را ز سفیه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرق کن کاین ملک است آن حشم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغصه مفزای سران را به ستیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاصه کانفاس سران مغتنم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌سران را سر و گردن مفراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرمزن دوش که ما را چه غم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس مگو کایمه همه آدمی‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآدمی هست که شیطان شیم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بزرگی جسدشان منگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دل خرد بزرگ از همم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خلال ملکان فرق بکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا عصا کان ز شبان غنم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبرد دیده بسی ناز چراغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان که با خواب در او بهم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیده قبله ز چراغی چکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاش محراب ز بدر الظلم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاوه را چون فر افریدون یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه غم کوره و سندان و دم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعیسی از معجزه برسازد رنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو چه محتاج به نیل و بقم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمه و مشک‌اند مهان کهتر کیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نه از مه ضو و نز مشک شم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین غران خصم سرانند به طبع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری آری عدوی مشک تم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزیردستان گله بر عکس کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگله‌شان از پی نفی تهم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبینی آن زخم گران بر سر کوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلرزه و دل سبکی بر علم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکل شاگرد غلامانه مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه این قاعدهٔ مرتسم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانکه شاگرد غلامی نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل کاستاد سرای قدم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه ادب زی که به شمشیر ادب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرب اقلیم ستان عجم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحرز جان ساز ادب کاین کلمه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر افسر کسری رقم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه کبوتر که امان یافت ز تیغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه ادب خاصهٔ بیت الحرم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eادب صحبت خلق از سر صدق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنسخت طاعت رب النسم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم نمودار سجود صمد است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمنان را که هوای صنم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه تنعم جهلا را مستای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ستودن به علوم و حکم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاد کردی به هنر جاه بس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ز اسباب همه مدح و ذم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمس را خوان بره نیست شرف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرف شمس به واو قسم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبشنو این نکته که خاقانی گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو به میزان سخن یک درم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بدان نیک حذر دار که بد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکژدم اعمی و مار اصم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 60
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای فتی فتوی غدرت ندهم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "ای جوانمرد من هرگز رای و نظر به روا بودن بدعهدی و خيانت به تو نمی‌دهم و آن را برات جائز نمی‌شمرم، چرا که بدعهدی و خيانت سبب نابودی و هلاکت آدمیان است.\u00A0"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کافت غدر هلاک امم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غدر نقّابی بنیاد وفاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "متاسفانه از آنجا که برای کلمه «نقّاب» (در معنی نقب زنده یا سوراخ کننده و در اینجا از بین برنده) در متن شعر تشدید گذارده نشده، هوش مصنوع هم «نِقاب» تصور کرده و بر اساس آن توضیح داده، در صورت که معنی آن چنین می‌شود که : بدعهدی و خیانت ، بنیاد وفاداری را متزلزل می‌کند در حالیکه وفاداری بنیاد \u00A0حفظ حریم وجود آدمی است.\u00A0"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اینت بنیاد که جان را حرم است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صبح حشر است مزن نقب چنین",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صبح روز قیامت است، پس این‌گونه بی‌هوده تلاش نکن. در واقع، تلاش و کوشش باید از همان ابتدای صبح آغاز شود، نه در آخرین لحظات."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کافت نقب زن از صبح‌دم است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "غدر چون لذت دزدی است نخست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خیانت ابتدا ممکن است لذت‌بخش و شیرین به نظر برسد، اما در پایان، عواقب آن همانند قطع دست موتور درد و رنجی بزرگ است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کاخرش دست بریدن الم است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ورم غدر کند رویت سرخ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چهره‌ات سرخ شود، نشانه‌ای از عشق و شوق توست و این سرخی به دلیل عشق درون تو نمایان است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سرخی عضو دلیل ورم است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "تا تو بیمار نفاقی به درست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که دچار تناقض و نفاق باشی، هرچه بگویی و هر صحبت درست و قابل اعتباری هم داشته باشی، غیرقابل قبول و بی‌معنا خواهد بود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هرچه صحبت شمری هم سقم است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "خانه در کوی وفا گیر و بدان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به جایی برو که وفا و صداقت در آنجا باشد و بدان که تو از پشتیبانی و قوتی محکم برخوردار هستی."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که تو را حبل متین معتصم است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "من وصیت به وفا می‌کنمت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به تو قول وفا می‌دهم، حتی اگر امروز وفا در دسترس نباشد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "گرچه امروز وفا در عدم است",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "دوستی کم کن و چون خواهی کرد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستی را کمتر کن و هرگاه خواستی آن را به گونه‌ای انجام بده که نشان‌دهنده‌ی بزرگواری و نیک‌خواهی‌ات باشد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "آن چنان کن که شعار کرم است",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "هرکه را دوست براند تو مخوان",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر که را که دوست داری، به سوی او نرو یا او را دعوت نکن، چون شاید در دل تو نشانه‌ای از وفا وجود نداشته باشد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "گرنه در چشم وفای تو نم است",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "وانکه را دوست به انصاف بزد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که فردی را به خاطر دوستی به طور ناعادلانه مجازات کند، باید از او دور شود، زیرا این کار عادلانه نیست و به ظلم منجر می‌شود."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "منوازش که سزای ستم است",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "وانکه را دوست بیفکند از پای",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی را که بر تو دوستی دارد، از جایگاه بلندش به زمین بیندازی، این کار را نکن، حتی اگر آن شخص شاه جم باشد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "سرفرازش مکن ار شاه جم است",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "وانکه را دوست به تهمت رد کرد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به دوستی تهمت زد و او را رد کرد، نباید او را بپذیری، حتی اگر همه از اهل نیکی و صداقت باشند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "مپذیر ار همه ز اهل حرم است",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "شاخ کو برکند آن را به ستیز",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که ممکن است شاخ و برگ‌های زیبا و فریبنده‌ای وجود داشته باشد، اما اگر کسی بخواهد به جایگاه و مقام من تعرض کند، باید آماده پاسخگویی باشد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "منشان ار همه شاخ ارم است",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "و آن گلی کو بنشاند به حسد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر گلی به خاطر حسادت دیگری کشت شود، نباید از آن دوری جست، حتی اگر در اطرافش خارهایی باشد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "برمکن گر همه خار قدم است",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "هر خسی کو به کسی مردم شد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر انسانی که به واسطه دیگری به مقام یا شناختی دست پیدا کند، اگر قدر این حمایت را نداشته باشد و شکرگزار نباشد، مانند کافر است که نعمت‌ها را نمی‌بیند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "قدر نشناسد کافر نعم است",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "گل که عیسیش طرازد مرغ است",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل، مانند عیسی که با طراوت و زیبایی خود همه را مجذوب می‌کند، است؛ نه مانند ادریس که فقط نوشته‌هایش را به نمایش می‌گذارد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "نی که ادریس نشاند قلم است",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "لطف در حق رهی چندان کن",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیکی و محبت را چنان در حق دیگران انجام بده که خداوند هم از این کار خوشحال و راضی باشد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "که خداوندش از آن دل خرم است",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "نه حواری صفت است آنکه از او",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که از او شخصیت‌های محترم و عالمانی خوشحال هستند، در حقیقت با ویژگی‌های نیکو قابل تعریف نیست و همچنان که عیسی (علیه‌السلام) نیز در چهره‌ای غمگین و دژم به نظر می‌رسد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "اسقفان خوش‌دل و عیسی دژم است",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "کهتری را که تو تمکینش دهی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به کسی که مقام و جایگاه بالایی ندارد قدرت و اختیاری بدهی، مردم می‌گویند او از بزرگان و افراد محترم چه کم دارد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "عامه گوید که ز مهتر چه کم است",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "سگ سگ است ارچه بیاغالندش",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سگ همیشه همان سگ است، حتی اگر برایش گوشت لذیذی ببرید؛ چرا که ناچار در ذات خود مانده و تغییر نمی‌کند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "کاستخوان خوارهٔ شیر اجم است",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "باد در سبلت نااهل مدم",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد در خرطوم بی‌لیاقت ندم، هرچند که بی‌لیاقت هم خواهان دم است."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "گرچه نااهل خریدار دم است",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "تو غرورش دهی او چیره شود",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر او به خاطر خُودبینی‌اش مغرور شود، ممکن است بر تو غلبه کند. گمان نکن که راهی برای عبور از این وضعیت وجود دارد، چرا که این مشکل به رفتار او مربوط می‌شود."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "ظن برد کو نه رهی، ابن‌عم است",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "بیش بر جای خدم ننشیند",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سرور و آقایی در میان باشد، دیگر نیازی به خدمتگزاری نخواهد بود."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "ایمه مخدوم چه جای خدم است",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "کهتر از فر مهان نامور است",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهتر است بدانیم که کسی که در مقام و مرتبه پایین‌تری قرار دارد، ممکن است نامی بزرگ و معروف داشته باشد، در حالی که کسی که در خدمت یک پادشاه بزرگ است، ممکن است کمتر شناخته شده باشد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "بیدق از خدمت شه محتشم است",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "هر فروتر به بزرگی است عزیز",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در موقعیت بالاتری قرار دارد، باید احترام بیشتری داشته باشد. همچنین هر پیامبری در نظر خداوند مورد احترام و ارزشمند است."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "هر پیمبر به خدا محترم است",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "مهتر ار چه بزند بنوازد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بزرگتر یا رئیس ضربه‌ای به کسی بزند، باید در عوض او را نوازش کند، زیرا هر یک از این ضربه‌ها می‌تواند به هزار نعمت تبدیل شود."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "که یکی لا و هزارش نعم است",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "گه کند تندی و گه بخشش از آنک",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاه خشمگین و تند مزاج می‌شود و گاه با مهربانی و بخشش برخورد می‌کند، زیرا مانند دریا است که هم موج‌های تند دارد و هم می‌تواند جواهرات باارزشی را به ارمغان بیاورد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "بحر تند است و گهربخش هم است",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "مهتر آن به که درشت است نه نرم",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که سرپرست و رهبر کسی باشد که محکم و جدی است، نه کسی که نرم و ملایم باشد؛ چون افرادی که دارای صفت جدی و قاطع هستند، در شرایط سخت می‌توانند به خوبی عمل کنند."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "که درشتی صفت فحل رم است",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "خارپشت است کم آزار و درشت",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خارپشت جانوری است که زخم کمتری می‌زند و بدنش محکم و درشت است، اما مار موجودی نرم و انعطاف‌پذیر است که تمام بدنش از سم و زهر پر شده است."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "مار نرم است و سراپای سم است",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "از درشتی است سفن قائم تیغ",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "سَفَن پوست نهنگ یا سوسمار بوده که بسیار محکم هم بوده و از آن برای ساختن غلاف شمشیر استفاده می‌کردند و برای اینکه توجیه کند که درشتخویی در جای خود لازم است مثال می‌زند که سَفَن خشن و بسیار سفت باید باشد که برای غلاف شمشیر سازند چرا که آن غلاف را سخت میحکم نگاه می‌دارد، چرا که آن شمشیر تکیه‌گاه رستم است، از این رو که آدمیان پیشتر به شمشیر خود تکیه می‌کردند و یا آنرا گرفته و از زمین برمی‌خواستند و نظیر اینها در مجموع سخن اینکه آدمی لازم است که گاهی درشتخو باشد تا زیر دستان از مهربانی زیاد سواستفاده می‌کنند. \u00A0\u00A0"
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "که بر او تکیه‌گه روستم است",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "آب نرم است ولی خائن طبع",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب به ظاهر آرام و نرم است ولی در باطن می‌تواند فریبنده و خطرناک باشد. رنگ نیز ساده به نظر می‌رسد اما در واقع دارای زوایا و پیچیدگی‌های خاصی است."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "ساده رنگ است ولی پیچ و خم است",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "سنگ در عین درشتی است امین",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سنگ با وجود اینکه خیلی بزرگ و سخت است، در حقیقت می‌تواند قابل اعتماد باشد؛ بنابراین گاهی اوقات به عنوان معیار و معیارسنجی استفاده می‌شود."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "لاجرم گاه محک گه حکم است",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "آب را سنگ است اندر بر از آنک",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب، در درون خود سنگی دارد، زیرا در دل سنگ، نوزادی وجود دارد که در حال رشد است."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "سنگ را بچهٔ خور در شکم است",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "جملةالامر سری را ز سفیه",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه چیز را به درستی از کشتی جدا کن، زیرا اینجا یک ملک است و آنجا فقط خدمتکاران هستند."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "فرق کن کاین ملک است آن حشم است",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "غصه مفزای سران را به ستیز",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غصه و دردسر بزرگانی که در معرض چالش هستند، مهم نیست، زیرا نفس کشیدن و زندگی کردن برای آنها ارزشمند است."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "خاصه کانفاس سران مغتنم است",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "بی‌سران را سر و گردن مفراز",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به کسانی که بی‌نمک و بی‌ارزش هستند، بها نده و نگران آنها نباش؛ زیرا ما به مشکلات و ناراحتی‌های خود اهمیت می‌دهیم."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "برمزن دوش که ما را چه غم است",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "پس مگو کایمه همه آدمی‌اند",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس نگو که همه انسان‌ها مثل هم هستند؛ چون بعضی از آنها ممکن است به شیطنت و پلیدی گرایش داشته باشند."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "آدمی هست که شیطان شیم است",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "در بزرگی جسدشان منگر",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به ظاهر جسم و قد و قامت بزرگ انسان‌ها توجه نکن، چون دل و فکر بزرگ و با ارزش در درون من قرار دارد."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "که دل خرد بزرگ از همم است",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "از خلال ملکان فرق بکن",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از میان مردان قدرتمند تفاوت قائل شو تا بتوانی به جایگاه و قدرت واقعی پی ببری. در واقع، مانند عصایی که ویژه شبان است، باید ویژگی‌های خاص افراد را بشناسی."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "تا عصا کان ز شبان غنم است",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "نبرد دیده بسی ناز چراغ",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، شاعر به چشمانی اشاره می‌کند که به دیدن زیبایی‌ها و ناز و لطافت چراغ معشوق عادت کرده‌اند. خواب و بیداری در اینجا به هم آمیخته‌اند، به طوری که چشم‌هایش به شدت تحت تأثیر آن زیبایی قرار گرفته و نمی‌توانند از آن جدا شوند."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "زان که با خواب در او بهم است",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "دیده قبله ز چراغی چکند",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم، مانند قبله‌ای در شب، به روشنایی چراغی می‌نگرد تا این‌که محراب از نور ماه در تاریکی دیده شود."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "تاش محراب ز بدر الظلم است",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "کاوه را چون فر افریدون یافت",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کاوه وقتی فرزند افریدون را پیدا کرد، دیگر برایش جای نگرانی از کوره و سندان و دم وجود ندارد."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "چه غم کوره و سندان و دم است",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "عیسی از معجزه برسازد رنگ",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عیسی با معجزه‌اش می‌تواند رنگ پوست خود را تغییر دهد و نیازی به رنگ‌های دیگری مانند نیل و بقم ندارد."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "او چه محتاج به نیل و بقم است",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "مه و مشک‌اند مهان کهتر کیست",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا می‌گویند که افرادی مانند ماه و مشک هستند و در میان مهمانان، هیچ‌کس که از نور ماه و بوی مشک بهره‌مند نیست، نمی‌تواند به مقام آن‌ها برسد."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "که نه از مه ضو و نز مشک شم است",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "این غران خصم سرانند به طبع",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دشمنان سرسخت و خطرناک هستند و در واقع، دشمنی آنها به اندازه‌ای است که به مشک و عطر مربوط می‌شود، به نوعی نشانه‌ای از تنفر و آزار است."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "آری آری عدوی مشک تم است",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "زیردستان گله بر عکس کنند",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیر دستان معمولاً به این نکته اشاره می‌کنند که اگر مشکلی در گروه یا جمعی وجود داشته باشد، آن‌ها به جای حل مشکل، فقط شکایت می‌کنند و به دنبال پیدا کردن مقصر می‌گردند. در واقع، این افراد به جای برطرف کردن مشکلات، بیشتر به نفی و انتقاد می‌پردازند."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "گله‌شان از پی نفی تهم است",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "بینی آن زخم گران بر سر کوس",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زخم عمیق و سنگینی را بر سر کوس می‌بینی، در حالی که دل سبکی بر علم دارد و نگاهش به آن زخم است."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "لرزه و دل سبکی بر علم است",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "شکل شاگرد غلامانه مکن",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به ظاهری که شبیه به شاگردان دارد، اهمیت نده. حتی اگر این یک قاعده‌ی معمولی باشد."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "گرچه این قاعدهٔ مرتسم است",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "زانکه شاگرد غلامی نکند",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شاگردی، در یادگیری خود کوشا نباشد، عقل و فهم او رشد نخواهد کرد و در حقیقت، او نمی‌تواند به پیشرفت و موفقیت دست یابد."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "عقل کاستاد سرای قدم است",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "به ادب زی که به شمشیر ادب",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با ادب زندگی کن، زیرا ادب در زمین عرب‌ها همچون شمشیری است که سرزمین عجم را تسخیر کرده است."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "عرب اقلیم ستان عجم است",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "حرز جان ساز ادب کاین کلمه",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای حفاظت از جان، باید ادب را در سر داشته باشیم، چرا که این کلمه بر تاج کسری (شاهان) نوشته شده است."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "بر سر افسر کسری رقم است",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "نه کبوتر که امان یافت ز تیغ",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به این معناست که فردی از مرگ یا خطر بزرگ رهایی یافته و به نوعی ایمنی دست یافته است. او به یک مکان مقدس و آرامش‌بخش پناه برده که به سبب صفات ویژه‌اش، احساس امنیت و آرامش می‌کند."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "به ادب خاصهٔ بیت الحرم است",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "ادب صحبت خلق از سر صدق",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آداب و ویژگی‌های خوب صحبت کردن با مردم، ناشی از صداقت و پذیرش فرمان خداوند است."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "نسخت طاعت رب النسم است",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "هم نمودار سجود صمد است",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمودار سجود، نشانه‌ای از آن است که افرادی در تلاشند تا به ذات برتر و نامتناهی نزدیک شوند، ولی در دل همچنان به محبوبی دنیوی و زمینی وابسته‌اند."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "شمنان را که هوای صنم است",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "به تنعم جهلا را مستای",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دنبال لذت‌های زودگذر و بی‌محتوا نرو، زیرا تنها با علم و دانش و آگاهی است که می‌توان ارزش‌ها را ستود و به حقیقت نزدیک شد."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "که ستودن به علوم و حکم است",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "یاد کردی به هنر جاه بس است",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یاد تو کافیست که از هر نوع تعریف و سرزنش فراتر می‌رود و بر هر چیزی در هنر برتری دارد."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "که ز اسباب همه مدح و ذم است",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "شمس را خوان بره نیست شرف",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید هیچگاه بره‌ای نیست، زیرا ارزش و شرافت خورشید به دلیل وجود واو (و) است."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "شرف شمس به واو قسم است",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "بشنو این نکته که خاقانی گفت",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به این نکته توجه کن که خاقانی بیان کرده است: ارزش کلام او به اندازه یک درم است، یعنی هر حرفی که می‌زند به دقت و اندازه‌گیری خاصی وابسته است."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "کو به میزان سخن یک درم است",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "از بدان نیک حذر دار که بد",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از افراد بد و خطرناک دوری کن، زیرا آن‌ها مانند کژدم نابینا و مار ناشنوا هستند و می‌توانند بدون هشدار به تو آسیب برسانند."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "کژدم اعمی و مار اصم است",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0
+    }
+  ]
+}

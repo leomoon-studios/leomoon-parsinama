@@ -1,0 +1,240 @@
+{
+  "Id": 2980,
+  "CatId": 99,
+  "Title": "غزل شمارهٔ ۳۵۶",
+  "FullTitle": "مولانا » دیوان شمس » غزلیات » غزل شمارهٔ ۳۵۶",
+  "FullUrl": "/moulavi/shams/ghazalsh/sh356",
+  "RhymeLetters": "امست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن شعر به عشق و زیبایی معشوق و تأثیرات آن بر شاعر می‌پردازد. شاعر در آن احساسات عمیق خود را بیان می‌کند و می‌گوید که تمام زیبایی‌ها و خوبی‌ها جز با چهره معشوق معنایی ندارند. عشق و محبت به او برای شاعر بسیار مهم و ارزشمند است و همه چیز در زندگی او به عشق و دیدار معشوق وابسته است. او به صورت نمادین از غم و شادی سخن می‌گوید و آنها را در خدمت معشوق می‌داند. در نهایت، شاعر به درونی‌ترین احساسات خود اشاره می‌کند و نشان می‌دهد که تحت تأثیر عشق و وفاداری به معشوق، به او تسلیم شده است.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امست",
+      "PlainText": "تو را در دلبری دستی تمامست\r\nمرا در بی دلی درد و سقامست\r\nبجز با روی خوبت عشقبازی\r\nحرامست و حرامست و حرامست\r\nهمه فانی و خوان وحدت تو\r\nمدامست و مدامست و مدامست\r\nچو چشم خود بمالم خود جز تو\r\nکدامست و کدامست و کدامست\r\nجهان بر روی تو از بهر روپوش\r\nلثامست و لثامست و لثامست\r\nبه هر دم از زبان عشق بر ما\r\nسلامست و سلامست و سلامست\r\nز هر ذره به گفت بی زبانی\r\nپیامست و پیامست و پیامست\r\nغم و شادی ما در پیش تختت\r\nغلامست و غلامست و غلامست\r\nاگر چه اشتر غم هست گرگین\r\nامامست و امامست و امامست\r\nپس آن اشتر شادی پرشیر\r\nختامست و ختامست و ختامست\r\nتو را در بینی این هر دو اشتر\r\nزمامست و زمامست و زمامست\r\nنه آن شیری که آخر طفل جان را\r\nفطامست و فطامست و فطامست\r\nاز آن شیری که جوی خلد از وی\r\nنظامست و نظامست و نظامست\r\nخمش کردم که غیرت بر دهانم\r\nلگامست و لگامست و لگامست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو را در دلبری دستی تمامست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا در بی‌دلی درد و سقامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبجز با روی خوبت عشقبازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرامست و حرامست و حرامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه فانی و خوان وحدت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمدامست و مدامست و مدامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو چشم خود بمالم خود جز تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکدامست و کدامست و کدامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان بر روی تو از بهر روپوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلثامست و لثامست و لثامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر دم از زبان عشق بر ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسلامست و سلامست و سلامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز هر ذره به گفت بی‌زبانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیامست و پیامست و پیامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم و شادی ما در پیش تختت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغلامست و غلامست و غلامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه اشتر غم هست گرگین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامامست و امامست و امامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس آن اشتر شادی پرشیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eختامست و ختامست و ختامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو را در بینی این هر دو اشتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزمامست و زمامست و زمامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه آن شیری که آخر طفل جان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفطامست و فطامست و فطامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن شیری که جوی خلد از وی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنظامست و نظامست و نظامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخمش کردم که غیرت بر دهانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلگامست و لگامست و لگامست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 14
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تو را در دلبری دستی تمامست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در هنر عاشقانه‌ات مهارت زیادی داری، اما من در بی‌عشقی و درد و رنج به سر می‌برم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا در بی‌دلی درد و سقامست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بجز با روی خوبت عشقبازی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق‌ورزی جز با چهره زیبایت ممنوع و ناپسند است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حرامست و حرامست و حرامست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "همه فانی و خوان وحدت تو",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه چیز فانی و زوال‌پذیر است، اما خوان انس و وحدت تو همیشه پایدار و همیشگی است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مدامست و مدامست و مدامست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چو چشم خود بمالم خود جز تو",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چشمانم را بمالم، جز تو کسی را نمی‌بینم و نمی‌توانم کسی دیگر را تصور کنم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کدامست و کدامست و کدامست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جهان بر روی تو از بهر روپوش",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان به خاطر چهره‌ات در حال خفگی و پنهان شدن است و این حالت به صورت مکرر ادامه دارد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "لثامست و لثامست و لثامست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "به هر دم از زبان عشق بر ما",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر لحظه از عشق، پیامی از سلام به ما می‌رسد و این پیام مداوم و همیشگی است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "سلامست و سلامست و سلامست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ز هر ذره به گفت بی‌زبانی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر ذره از جهان بی‌کلام پیامی دارد و پیامی را منتقل می‌کند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "پیامست و پیامست و پیامست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "غم و شادی ما در پیش تختت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم و شادی ما در برابر تو همچون بنده‌ای است که همیشه در خدمت توست و به تو وابسته است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "غلامست و غلامست و غلامست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "اگر چه اشتر غم هست گرگین",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه غم و نگرانی وجود دارد، اما تو پیشوای ما هستی و ما به رهبری تو اعتماد داریم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "امامست و امامست و امامست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "پس آن اشتر شادی پرشیر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این اشتر، که نمادی از شادی و قدرت است، در پایان برنامه یا مسیر قرار دارد و این پایان را بارها تأکید می‌کند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "ختامست و ختامست و ختامست",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "تو را در بینی این هر دو اشتر",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دو کلمه‌ی \u0022اشتر\u0022 و \u0022زمام\u0022 اشاره به اسب و اصول و قواعدی است که در کارها باید رعایت شود. بنابراین، می‌توان گفت: تو در اینجا به مسیر و راهی هدایت می‌شوی که با آن می‌توانی بر اوضاع مسلط شوی."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "زمامست و زمامست و زمامست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "نه آن شیری که آخر طفل جان را",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به نوعی اشاره دارد که شیر در اینجا به معنای تغذیه و پرورش است. در حقیقت، به نظر می‌رسد که گفته می‌شود این شیر، آن شیری نیست که در آخر زندگی کودک او را پرورش دهد و به رشدش کمک کند. در واقع این عبارت بر اهمیت تغذیه و پرورش صحیح در مراحل مختلف زندگی تأکید می‌کند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "فطامست و فطامست و فطامست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "از آن شیری که جوی خلد از وی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به تجلی و زیبایی حیرت‌انگیز طبیعت اشاره دارد که از وجود موجودی خاص و بی‌نظیر ناشی می‌شود. این موجود به گونه‌ای است که باعث شکل‌گیری و سامان‌دهی طبیعت و زندگی می‌شود و همه چیز به‌دلیل او در نظم و هماهنگی قرار دارد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "نظامست و نظامست و نظامست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "خمش کردم که غیرت بر دهانم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سکوت کردم چون غیرت از حرف زدنم جلوگیری می‌کند و مرا کنترل می‌کند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "لگامست و لگامست و لگامست",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    }
+  ]
+}

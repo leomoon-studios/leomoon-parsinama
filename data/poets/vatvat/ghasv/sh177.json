@@ -1,0 +1,495 @@
+{
+  "Id": 65269,
+  "CatId": 1883,
+  "Title": "شمارهٔ ۱۷۷ - نیز در ستایش ملک اتسز گوید",
+  "FullTitle": "وطواط » قصاید » شمارهٔ ۱۷۷ - نیز در ستایش ملک اتسز گوید",
+  "FullUrl": "/vatvat/ghasv/sh177",
+  "RhymeLetters": "رگشته",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی توصیف جهان و عشق به معشوق پرداخته و معشوق را به عنوان منبع زیبایی و دلربایی معرفی می‌کند. شاعر با استفاده از تمثیل‌ها و استعاره‌ها، ویژگی‌های معشوق را ستایش می‌کند و تأثیر حضور او را بر زندگی خود و جهان نشان می‌دهد. شاعر در اشعار خود به احساسات عمیق عاشقانه، غم فراق و ارزش‌های معنوی اشاره دارد و معشوق را به عنوان محور تمام جذابیت‌ها و عوامل خیر و زیبایی در زندگی به تصویر می‌کشد. همچنین، شاعر به مقامات و فضایل معشوق اشاره کرده و او را به عنوان یک پیشوای بزرگ و معتبر توصیف می‌کند. در نهایت، این شعر بیانگر عشق و ارادت بالای شاعر به معشوق و زیبایی‌های اوست.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رگشته",
+      "PlainText": "ای جهان از سر زلف تو معطر گشته\r\nهمه آفاق ز روی تو معنبر گشته\r\nخوب چون یوسف پیغمبری و بی تو مرا\r\nدیده چون دیده یعقوب پیمبر گشته\r\nدهند و چشم تو چون پسته و بادام شده \r\nزلف و بالای تو شمشاد و صنوبر گشته \r\nچهره من ز فراق تو و دیده ز غمت \r\nمعدن زر شده و موضع گوهر گشته\r\nخوار چون مردم درویش چرا باشم اگر\r\nهستم از چهره و از دیده توانگر گشته \r\nکوی تو قبله شد و از قبل دیدن تو \r\nبسر کوی تو عشاق مجاور گشته\r\nعاشق ساغری و من ز پی خدمت تو\r\nمصحف انداخته و بنده ساغر گشته\r\nبوده من صاحب زهاد و کنون در عشقت\r\nپیشوای همه اوباش قلندر گشته\r\nلب تو آب حیاتست و مرا در طلبش \r\nحال تاریک تر از راه سکندر گشته\r\nچشم من در غمت  ای گوهر دریای جمال \r\nگوهر افشان چو کف شاه مظفر گشته\r\nقطب دین  اتسز غازی  که برفعت قدرش\r\nهست با کنگره چرخ برابر گشته\r\nباطن روشنش از نور چو ظاهر بوده\r\nمفخر فرخش از حسن چو منظر گشته\r\nافسری بر سر او بخت نهاده بشرف \r\nو اختران فلکش گوهر افسر گشته \r\nدر هنر وقت مجابات چو صاحب بوده \r\nدر وغا روز ملاقات چو حیدر گشته \r\nدر کف حادثه گنبد اخضر اعداش \r\nهمه سرگشته تر از گنبد اخضر گشته\r\nاز غبار سپهش چشم فلک کور شده \r\nوز صهیل فرسش گوش جهان کر گشته\r\nای یک انصاف تو صد سایه طوبی بوده\r\nوی یک انگشت تو صد چشمه کوثر گشته\r\nخانه فضل و حیا و تن اقبال و کرم\r\nبمساعی تو معمور و معمر گشته\r\nبیضه دولت و اطراف جهان را بسزا\r\nتیغ تو راعی و انصاف تو داور گشته\r\nنام فرخنده و القاب بزرگت بجلال \r\nفخر خاتم شده و زینت منبر گشته\r\nحیدری روز وغا وز سر تیغ تو خراب\r\nقلعه خصم تو چون قلعه خیبر گشته \r\nشکر اندر دهن حاسد تو زهر شده\r\nزهر در کام نکوه خواه تو شکر گشته \r\nبانگ کوس تو شده نغمه صور و ز فزع \r\nعرصه رزم تو چون عرصه محشر گشته\r\nآفتابی تو و از رایت فرخنده تو\r\nمنهزم دشمن جان تو چو اختر گشته \r\nپر ز دود و تهی از نور دل و دیده خصم\r\nچون دل لاله و چون دیده عبهر گشته\r\nمملکت چون فلک و رای تو خورشید شده\r\nمکرمت چون عرض و جاه تو جوهر گشته\r\nتو چون خورشید منور گه جولان و براق\r\nزیر ران تو چو گردون منور گشته\r\nتیغ بران تو تو مرگی  که مجسم شده است \r\nشخص میمون تو جانیست مصور گشته\r\nتا بود ساحت بستان ببهار و بخزان\r\nچون کف سایل تو پر گهر و زر گشته\r\nباد تا حشر اشارات و ارادات ترا\r\nدهر مأمور شده  چرخ مسخر گشته \r\nاندرست اسلام کرامات تو بی حد مانده\r\nوندر ایام مقامات تو بی مر گشته",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای جهان از سر زلف تو معطر گشته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه آفاق ز روی تو معنبر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوب چون یوسف پیغمبری و بی تو مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیده چون دیدهٔ یعقوب پیمبر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدهند و چشم تو چون پسته و بادام شده \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلف و بالای تو شمشاد و صنوبر گشته \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچهرهٔ من ز فراق تو و دیده ز غمت \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعدن زر شده و موضع گوهر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوار چون مردم درویش چرا باشم ؟اگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهستم از چهره و از دیده توانگر گشته \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوی تو قبله شد و از قبل دیدن تو \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسر کوی تو عشاق مجاور گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاشق ساغری و من ز پی خدمت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمصحف انداخته و بنده ساغر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوده من صاحب زهاد و کنون در عشقت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیشوای همه اوباش قلندر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب تو آب حیاتست و مرا در طلبش \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحال تاریک تر از راه سکندر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم من در غمت ، ای گوهر دریای جمال \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوهر افشان چو کف شاه مظفر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقطب دین ، اتسز غازی ، که برفعت قدرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست با کنگرهٔ چرخ برابر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباطن روشنش از نور چو ظاهر بوده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمفخر فرخش از حسن چو منظر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسری بر سر او بخت نهاده بشرف \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو اختران فلکش گوهر افسر گشته \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هنر وقت مجابات چو صاحب بوده \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر وغا روز ملاقات چو حیدر گشته \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کف حادثهٔ گنبد اخضر اعداش \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه سرگشته تر از گنبد اخضر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز غبار سپهش چشم فلک کور شده \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز صهیل فرسش گوش جهان کر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای یک انصاف تو صد سایهٔ طوبی بوده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی یک انگشت تو صد چشمهٔ کوثر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانه فضل و حیا و تن اقبال و کرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبمساعی تو معمور و معمر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیضهٔ دولت و اطراف جهان را بسزا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیغ تو راعی و انصاف تو داور گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنام فرخنده و القاب بزرگت بجلال \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفخر خاتم شده و زینت منبر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحیدری روز وغا وز سر تیغ تو خراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقلعهٔ خصم تو چون قلعهٔ خیبر گشته \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکر اندر دهن حاسد تو زهر شده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهر در کام نکوه خواه تو شکر گشته \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبانگ کوس تو شده نغمهٔ صور و ز فزع \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرصهٔ رزم تو چون عرصهٔ محشر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفتابی تو و از رایت فرخندهٔ تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنهزم دشمن جان تو چو اختر گشته \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپر ز دود و تهی از نور دل و دیدهٔ خصم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون دل لاله و چون دیدهٔ عبهر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمملکت چون فلک و رای تو خورشید شده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمکرمت چون عرض و جاه تو جوهر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو چون خورشید منور گه جولان و براق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیر ران تو چو گردون منور گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیغ بران تو تو مرگی ، که مجسم شده است \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشخص میمون تو جانیست مصور گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بود ساحت بستان ببهار و بخزان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون کف سایل تو پر گهر و زر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد تا حشر اشارات و ارادات ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدهر مأمور شده ، چرخ مسخر گشته \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندرست اسلام کرامات تو بی حد مانده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوندر ایام مقامات تو بی مر گشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 31
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای جهان از سر زلف تو معطر گشته",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دنیا، بویی که از زلف تو به مشام می‌رسد، همه جا را معطر کرده و زیبایی‌های جهان به خاطر چهره‌ات خوش‌منظر شده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همه آفاق ز روی تو معنبر گشته",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خوب چون یوسف پیغمبری و بی تو مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون تو خوب هستی و مانند یوسف پیامبر، من هم بدون تو مثل یعقوب پیامبر می‌شوم که چشم انتظار است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دیده چون دیدهٔ یعقوب پیمبر گشته",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دهند و چشم تو چون پسته و بادام شده ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌هایت مانند پسته و بادام زیبا و جذاب شده‌اند و موهای تو مانند شمشاد و صنوبر صاف و بلند شده‌اند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زلف و بالای تو شمشاد و صنوبر گشته ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چهرهٔ من ز فراق تو و دیده ز غمت ",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صورت من به واسطهٔ دوری تو مثل طلا شده و چشمانم بر اثر اندوه تو مانند جواهری ارزشمند شده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "معدن زر شده و موضع گوهر گشته",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خوار چون مردم درویش چرا باشم ؟اگر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا باید خود را مانند یک درویش و بی‌پول خوار بشمارم؟ اگرچه من چنین به نظر می‌رسم، اما در حقیقت از نظر چهره و نگاه، ثروتمند و توانگر هستم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هستم از چهره و از دیده توانگر گشته ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "کوی تو قبله شد و از قبل دیدن تو ",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محل تو به عنوان نقطه‌ی توجه و عبادت قرار گرفته و عاشقان به خاطر دیدن تو، در آنجا گرد آمده‌اند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بسر کوی تو عشاق مجاور گشته",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "عاشق ساغری و من ز پی خدمت تو",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشق شراب هستی و من به خاطر خدمت به تو، کتاب مقدس را کنار گذاشته‌ام و تبدیل به خدمت‌گزار شراب شده‌ام."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "مصحف انداخته و بنده ساغر گشته",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "بوده من صاحب زهاد و کنون در عشقت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من زمانی برترین زاهدان و عابدان بودم، اما اکنون به خاطر عشق تو، رهبری آشفتگان و بی‌پرواها را بر عهده گرفته‌ام."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "پیشوای همه اوباش قلندر گشته",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "لب تو آب حیاتست و مرا در طلبش ",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لبانت همچون آب حیات است و من به دنبال آن، در وضعیتی سخت‌تر از راه سکندر قرار گرفته‌ام."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "حال تاریک تر از راه سکندر گشته",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "چشم من در غمت ، ای گوهر دریای جمال ",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم من در اندوه تو، ای مروارید زیبایی، گویی درخشش یاقوتی که بر روی امواج دریا می‌درخشد، به مانند کف‌های دریا که در برابر شکوه شاه مظفر نمایان می‌شوند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "گوهر افشان چو کف شاه مظفر گشته",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "قطب دین ، اتسز غازی ، که برفعت قدرش",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف شخصیتی بزرگ و برجسته می‌پردازد که مقام و موقعیتش به حدی است که قابل مقایسه با بلندترین نقاط آسمان است. او همچون قطب و محور دین و ایمان است و ارزش و عظمتش به قدری بالا است که با قله‌های آسمان برابری می‌کند."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "هست با کنگرهٔ چرخ برابر گشته",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "باطن روشنش از نور چو ظاهر بوده",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درون روشن او مثل ظاهرش نورانی است و زیبایی او به قدری است که به عنوان یک نماینده از زیبایی شناخته می‌شود."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "مفخر فرخش از حسن چو منظر گشته",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "افسری بر سر او بخت نهاده بشرف ",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرنوشت و شانس او به قدری با ارزش و برجسته است که مانند یک افسر بر سرش جای‌گاه می‌گیرد و ستاره‌های آسمان نیز به او جلا و زیبایی افزوده‌اند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "و اختران فلکش گوهر افسر گشته ",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "در هنر وقت مجابات چو صاحب بوده ",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که هنری به خوبی استفاده شود و هنرمند در اوج خود باشد، روز ملاقات می‌تواند به اندازه‌ی روزی که حیدر (علی) در میدان نبرد حماسه آفرید، پرشور و هیجان‌انگیز باشد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "در وغا روز ملاقات چو حیدر گشته ",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "در کف حادثهٔ گنبد اخضر اعداش ",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زیر گنبد سبز، که نماد مقدسی است، همه در حیرت و سردرگمی بیشتری هستند. آن‌ها بیشتر از خود گنبد در جستجوی معنای زندگی و مسایل خود به سر می‌برند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "همه سرگشته تر از گنبد اخضر گشته",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "از غبار سپهش چشم فلک کور شده ",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر گرد و غبار ناشی از حرکت سپاهیان، چشم آسمان به خواب رفته و به دلیل صدای خشمگین اسب‌هایشان، گوش‌های جهان ناشنوا شده‌اند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "وز صهیل فرسش گوش جهان کر گشته",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "ای یک انصاف تو صد سایهٔ طوبی بوده",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو که در انصاف و عدل بی‌نظیری، سایهٔ درخت طوبی را به وجود می‌آوری؛ انگشت کوچکت موجب جاری شدن صدها چشمهٔ کوثر می‌شود."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "وی یک انگشت تو صد چشمهٔ کوثر گشته",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "خانه فضل و حیا و تن اقبال و کرم",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خانه‌ای که مملو از فضیلت، حیا و خوش شانسی است، به برکت تلاش‌ها و زحمات تو آباد و پر رونق شده است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "بمساعی تو معمور و معمر گشته",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "بیضهٔ دولت و اطراف جهان را بسزا",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دولت و تمام زوایای جهان به شدت تحت تأثیر تیغ توست و انصاف تو به عنوان قاضی شناخته می‌شود."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "تیغ تو راعی و انصاف تو داور گشته",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "نام فرخنده و القاب بزرگت بجلال ",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نام پر عظمت و صفات بلندت باعث افتخار و سربلندی شده و به زیبایی‌های منبر افزوده است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "فخر خاتم شده و زینت منبر گشته",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "حیدری روز وغا وز سر تیغ تو خراب",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز نبرد، با قدرتی که از تیغ تو نشأت می‌گیرد، قلعه‌های دشمن به راحتی ویران می‌شود، مانند قلعه خیبر که به سادگی شکست خورده است."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "قلعهٔ خصم تو چون قلعهٔ خیبر گشته ",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "شکر اندر دهن حاسد تو زهر شده",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مقداری از شیرینی و خوبی که در وجود توست، در چشم حسود به زهر تبدیل شده است و در عوض، بدی‌ها و نکوهش‌هایی که برای تو وجود دارد، در نظر دیگران شیرینی و خوبی جلوه می‌کند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "زهر در کام نکوه خواه تو شکر گشته ",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "بانگ کوس تو شده نغمهٔ صور و ز فزع ",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای طبل تو به آواز صور تبدیل شده و از ترس، میدان نبرد تو به مانند میدان محشر شده است."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "عرصهٔ رزم تو چون عرصهٔ محشر گشته",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "آفتابی تو و از رایت فرخندهٔ تو",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو مانند آفتابی هستی و دشمنان از پرچم خوشبختی‌ات به وحشت افتاده‌اند، مانند ستاره‌ای که در برابر نور تو کمرنگ شده است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "منهزم دشمن جان تو چو اختر گشته ",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "پر ز دود و تهی از نور دل و دیدهٔ خصم",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل و چشمان دشمن، پر از دود و خالی از نور است، همچون دل گل لاله و چشمان دریا که شده‌اند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "چون دل لاله و چون دیدهٔ عبهر گشته",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "مملکت چون فلک و رای تو خورشید شده",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کشور همچون آسمان است و اراده تو همانند خورشید، درخشان و مهم است. بزرگواری و مقام تو نیز مانند جوهر ارزشمند شده و به اعتبار آن افزوده است."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "مکرمت چون عرض و جاه تو جوهر گشته",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "تو چون خورشید منور گه جولان و براق",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو مثل خورشید درخشانی که در آسمان در حال حرکت و تابش است، و زیر پای تو مانند آسمان نورانی شده است."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "زیر ران تو چو گردون منور گشته",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "تیغ بران تو تو مرگی ، که مجسم شده است ",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تیغ تند و بران تو نشان‌دهنده مرگی است که در چهره‌ی میمون ثابت شده؛ این جان تو نیست که به تصویر کشیده شده است."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "شخص میمون تو جانیست مصور گشته",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "تا بود ساحت بستان ببهار و بخزان",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که فضای باغ در بهار و پاییز وجود دارد، مانند کف رودخانه که پر از سنگ‌های قیمتی و طلا شده است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "چون کف سایل تو پر گهر و زر گشته",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "باد تا حشر اشارات و ارادات ترا",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد به‌عنوان یک نیروی طبیعی، تا روز قیامت به اجرای خواسته‌ها و نشانه‌های تو مشغول خواهد بود، و زمان و جهان به خدمت تو در آمده‌اند."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "دهر مأمور شده ، چرخ مسخر گشته ",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "اندرست اسلام کرامات تو بی حد مانده",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اسلام در کرامات تو به حدی بی‌نهایت رسیده که در زمان مقامات تو، مرگ و زوال معنا ندارد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "وندر ایام مقامات تو بی مر گشته",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    }
+  ]
+}

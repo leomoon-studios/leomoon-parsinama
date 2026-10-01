@@ -1,0 +1,165 @@
+{
+  "Id": 63041,
+  "CatId": 1861,
+  "Title": "شمارهٔ ۲۰۵",
+  "FullTitle": "سیف فرغانی » دیوان اشعار » غزلیات » شمارهٔ ۲۰۵",
+  "FullUrl": "/seyf/divan-seyf/ghazalsk/sh205",
+  "RhymeLetters": "ایتواند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف حال عاشقان و عشق می‌پردازد. عاشقان، به رغم رنج‌ها و مشکلاتی که دارند، مانند پادشاهانی هستند که در دل خود عشق را دارند. آن‌ها حزن و اندوه یعقوب و بلای ایوب را تجربه می‌کنند و همه دردی که دارند، منتظر یک درمان و دوای عشق هستند. عشق و امید در دل آن‌ها زنده است و در عین‌ حال، عقل و هوششان تحت تأثیر زیبایی‌های معشوق قرار می‌گیرد. شاعر به سلیمان اشاره می‌کند و می‌گوید که باید از زیر پای موران بگذرد. در نهایت، عاشقان به یک زبان در ملامت یکدیگر صحبت می‌کنند و در عین حال درگیر زیبایی‌های عشق هستند.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتواند",
+      "PlainText": "عاشقانی که مبتلای تواند\r\nپادشاهند چون گدای تواند\r\nحزن یعقوبشان بود زیرا\r\nهر یک ایوب صد بلای تواند\r\nگرچه دارند در درون صد درد\r\nهمه موقوف یک دوای تواند\r\nدل قومی بوصل راضی کن\r\nکه بجان طالب رضای تواند\r\nمرده عشق و زنده امید\r\nزنده ومرده از برای تواند\r\nآفت عقل و هوش اهل نظر\r\nچشم و ابروی دلربای تواند\r\nای سلیمان بدستگاه مکوب\r\nسر موران که زیر پای تواند\r\nیک زبانند در ملامت ما\r\nاین دو رویان که در قفای تواند\r\nعالمی همچو سیف فرغانی\r\nبا چنین حسن مبتلای تواند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاشقانی که مبتلای تواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپادشاهند چون گدای تواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحزن یعقوبشان بود زیرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر یک ایوب صد بلای تواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه دارند در درون صد درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه موقوف یک دوای تواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل قومی بوصل راضی کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بجان طالب رضای تواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرده عشق و زنده امید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنده ومرده از برای تواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفت عقل و هوش اهل نظر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم و ابروی دلربای تواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سلیمان بدستگاه مکوب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر موران که زیر پای تواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک زبانند در ملامت ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین دو رویان که در قفای تواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالمی همچو سیف فرغانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا چنین حسن مبتلای تواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عاشقانی که مبتلای تواند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشقانی که در محبت تو گرفتارند، همانند پادشاهان هستند، حتی اگر ظاهراً مانند گداهای در درگاه تو به نظر برسند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پادشاهند چون گدای تواند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حزن یعقوبشان بود زیرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حزن و اندوهشان مانند حزن یعقوب بود، زیرا هر یک از آن‌ها می‌توانستند همراه خود صدها مصیبت و درد داشته باشند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر یک ایوب صد بلای تواند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گرچه دارند در درون صد درد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه در دل انسان مشکلات و رنج‌های زیادی وجود دارد، همه آن‌ها به یک یا دو درمان خاص بستگی دارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همه موقوف یک دوای تواند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دل قومی بوصل راضی کن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل گروهی را خوشنود کن که تنها به خاطر رضایت و خشنودی آنها به جان خود اهمیت می‌دهند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که بجان طالب رضای تواند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مرده عشق و زنده امید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق مرده است اما امید زنده است؛ پس زندگی و مرگ به خاطر تو معنا پیدا می‌کند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زنده ومرده از برای تواند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "آفت عقل و هوش اهل نظر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آثار زیبا و جذاب چشم و ابروی دلبر می‌تواند سبب از دست رفتن عقل و درک اهل فکر شود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چشم و ابروی دلربای تواند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ای سلیمان بدستگاه مکوب",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای سلیمان، با تمام قدرت و مقام‌ات بر سر این مورچه‌ها نزن، چرا که آن‌ها زیر پای تو هستند و به تو آسیب نمی‌زنند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "سر موران که زیر پای تواند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "یک زبانند در ملامت ما",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دو چهره در سخن گفتن از ما، همگی یک صدا هستند و در واقع به نوعی ما را مورد سرزنش قرار می‌دهند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "این دو رویان که در قفای تواند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "عالمی همچو سیف فرغانی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شخصی مثل سیف فرغانی که اینقدر زیباست، می‌تواند دچار عشق و شیفتگی شود."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "با چنین حسن مبتلای تواند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

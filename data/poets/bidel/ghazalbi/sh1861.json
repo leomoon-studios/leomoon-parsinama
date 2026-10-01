@@ -1,0 +1,210 @@
+{
+  "Id": 43929,
+  "CatId": 1401,
+  "Title": "غزل شمارهٔ ۱۸۶۱",
+  "FullTitle": "بیدل دهلوی » غزلیات » غزل شمارهٔ ۱۸۶۱",
+  "FullUrl": "/bidel/ghazalbi/sh1861",
+  "RhymeLetters": "ازشمع",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: غزل \u0022سوختن\u0022 به تفسیر و بررسی سوز و گدازی می‌پردازد که در وجود عشق و زیبایی نهفته است. شاعر با استفاده از سمبل‌های شمع و پروانه، به مفهوم عشق و دردهای آن می‌پردازد. سوختن شمع نمادی از فداکاری و جدایی است و نغمه‌ای که از آن برمی‌آید، نشان‌دهنده راز و زیبایی‌های نهفته در عشق است. در این شعر، خاموشی و سکوت نیز به عنوان حالتی از عشق و ارتباط عاشقان با یکدیگر به تصویر کشیده شده است. شاعر به طور کلی به جستجوی معنا در این احساسات می‌پردازد و تاکید می‌کند که حقیقت عشق بیشتر در احساسات عمیق و ناپیداست تا در بیان واژه‌ها.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازشمع",
+      "PlainText": "سوختن یک نغمه است از ساز شمع\r\nپرده نتواند نهفتن راز شمع\r\nخود گدازی آبروی دیگر است\r\nمی رسد بر انجمنها ناز شمع\r\nناله ها در دود دل گم کرده ایم\r\nسرمه پیچیده سث بر آواز شمع\r\nعاشقان را مونسی جز درد نیست\r\nسوختن باشد همین دمساز شمع\r\nتا کی ای پروانه بال افشانی ات\r\nپرفشانیهاست با گلباز شمع\r\nختم تدبیر زبان لب بستن است\r\nتا خموشی می رسد پرواز شمع\r\nرونق عشاق عرض نیستی است\r\nسر بریدن می شود پرواز شمع\r\nکیست دریابد زبان بیخودان\r\nنیست جز پرواز رنگ آواز شمع\r\nسعی خود را خود تلافی  کرده ایم\r\nهم سر خویش است پا انداز شمع\r\nمدعای جستجو روشن نشد\r\nپر بلند افتاده است انداز شمع\r\nفکر انجام دگر داریم ما\r\nدیده باشی صورت آغاز شمع\r\nخامشی هم ترجمان حال ماست\r\nبی سخن پیداست بیدل راز شمع",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوختن یک نغمه است از ساز شمع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرده نتواند نهفتن راز شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود گدازی آبروی دیگر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌رسد بر انجمنها ناز شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناله‌ها در دود دل گم کرده‌ایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمه پیچیده‌سث بر آواز شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاشقان را مونسی جز درد نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوختن باشد همین دمساز شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کی ای پروانه بال افشانی‌ات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرفشانیهاست با گلباز شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eختم تدبیر زبان لب بستن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا خموشی می‌رسد پرواز شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرونق عشاق عرض نیستی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر بریدن می‌شود پرواز شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکیست دریابد زبان بیخودان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست جز پرواز رنگ آواز شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعی خود را خود تلافی ‌کرده‌ایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم سر خویش است پا انداز شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدعای جستجو روشن نشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپر بلند افتاده است انداز شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفکر انجام دگر داریم ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیده باشی صورت آغاز شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخامشی هم ترجمان حال ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌سخن پیداست بیدل راز شمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 12
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سوختن یک نغمه است از ساز شمع",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شمع به شباهت به یک ساز می‌سوزد و نغمه‌ای از آن برمی‌خیزد، اما راز درون آن را نمی‌توان پنهان کرد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرده نتواند نهفتن راز شمع",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خود گدازی آبروی دیگر است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: افتخاری که در خود را از دست دادن به دیگران میبخشی، باعث می‌شود که در محافل و جمع‌های مختلف به شکلی درخشان و با وقار ظاهر شوی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "می‌رسد بر انجمنها ناز شمع",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ناله‌ها در دود دل گم کرده‌ایم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در درد و غم خود گم شده‌ایم و ناله‌هایمان در دل این دودی که برپا شده پنهان است. صدای شمع مثل سرمه‌ای پیچیده و زیبا به گوش می‌رسد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سرمه پیچیده‌سث بر آواز شمع",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عاشقان را مونسی جز درد نیست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشقان هیچ همدم و همراهی جز درد و رنج ندارند و تنها چیزهایی که می‌توانند با آن‌ها احساس نزدیکی کنند، عذاب و سوختن است، مثل شمعی که در کنار درد می‌سوزد و می‌سازد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سوختن باشد همین دمساز شمع",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تا کی ای پروانه بال افشانی‌ات",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پروانه، تا کی به دور شمع پرواز می‌کنی و زیبایی‌های خود را به نمایش می‌گذاری؟"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "پرفشانیهاست با گلباز شمع",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ختم تدبیر زبان لب بستن است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تدبیر نهایی، سکوت است؛ زمانی که زبان به خاموشی می‌گراید، خاموشی به وجود می‌آید و شمع به پرواز درمی‌آید."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "تا خموشی می‌رسد پرواز شمع",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "رونق عشاق عرض نیستی است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رونق عشق، به نوعی نشانه‌ای از زندگی و وجود عاشقانه است و در این میان، گاهی باید برای رسیدن به آنچه می‌خواهیم، از چیزهایی عبور کنیم. در این مسیر، شمعی که می‌سوزد نماد روشنایی و عشق است، اما با سوزاندن خود، پرواز می‌کند و به اوج می‌رسد. این به ما یادآوری می‌کند که عشق گاهی با فداکاری و گذشت همراه است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "سر بریدن می‌شود پرواز شمع",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "کیست دریابد زبان بیخودان",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌تواند زبان کسانی که از خود بی‌خود شده‌اند را درک کند، جز اینکه پرواز رنگین صدای شمع را حس کند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "نیست جز پرواز رنگ آواز شمع",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "سعی خود را خود تلافی ‌کرده‌ایم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما تلاش‌های خود را جبران کرده‌ایم، مثل شمعی که برای خود روشن کرده‌ایم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "هم سر خویش است پا انداز شمع",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "مدعای جستجو روشن نشد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خواست و آرزوی جستجو هنوز روشن نشده است، مانند شمعی که شعله‌اش به ارتفاعی بلند بالا رفته است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "پر بلند افتاده است انداز شمع",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "فکر انجام دگر داریم ما",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در فکر تغییر و تحول هستیم، اگر تو هم صورت آغاز این راه را ببینی."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "دیده باشی صورت آغاز شمع",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "خامشی هم ترجمان حال ماست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سکوت هم نشان‌دهنده‌ی وضعیت ماست، حتی بدون کلام هم پیداست. بیدل، راز شمع را می‌داند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "بی‌سخن پیداست بیدل راز شمع",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,2354 @@
+{
+  "Id": 86088,
+  "CatId": 2248,
+  "Title": "شمارهٔ  ۳ - فی مدیحة سید الکائنات و اشرف الموجودات سید المرسلین و خاتم النبیین صلی الله علیه و آله و سلم",
+  "FullTitle": "غروی اصفهانی » دیوان کمپانی » مدایح و مراثی » مدایح و مراثی سید الانبیاء محمد المصطفی صلی الله علیه و آله و سلم » شمارهٔ  ۳ - فی مدیحة سید الکائنات و اشرف الموجودات سید المرسلین و خاتم النبیین صلی الله علیه و آله و سلم",
+  "FullUrl": "/moftagher/divan/madayeh/b1/sh3",
+  "SourceName": "سید محمدرضا شهیم",
+  "SourceUrlSlug": "smrs",
+  "PoemSummary": "هوش مصنوعی: این شعر به مدح و ستایش پیامبر اسلام، حضرت محمد (ص)، پرداخته و ویژگی‌های او را توصیف می‌کند. شاعر با استفاده از زبان پرشور و استعاره‌ها، مقام والا و نقشی که حضرت محمد در خلقت و هدایت بشر دارد را بیان می‌کند. او را مظهر نور، جمال و حقیقت معرفی کرده و می‌گوید که جهان به برکت وجود او به وجود آمده است. شعر به تکرار این نکته می‌پردازد که \u0022اگر تو نبودی، زمین و آسمان نیز خلق نمی‌شدند.\u0022 به طور کلی، این شعر به تمجید از مقام پیامبر و تأثیر عمیق او در عالم هستی و زندگی انسان‌ها می‌پردازد.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "ای خاک ره تو خطۀ خاک\r\nپاکی ز تو دیده عالم پاک\r\nآشفته موی توست انجم\r\nسرگشته کوی توست افلاک\r\nای بر سرت افسر لعمرک\r\nوی زیب برت قبای لولاک\r\nتاج سرت افسر لعمرک\r\nتشریف برت قبای لولاک\r\nزیب سرت افسر لعمرک\r\nدیبای برت قبای لولاک\r\nای رهبر و رهنمای گمراه\r\nوی هادی وادی خطرناک\r\nعالم ز معارف تو واله\r\nتو نغمه سرای ماعرفناک\r\nیا أعظم صوره تجلی\r\nفیها الله ما أدق معناک\r\nدامان جلالت ای شهنشاه\r\nهرگز نفتد به دست ادراک\r\nاین بنده و مدح چون تو شاهی\r\nحاشاک از این مدیحه حاشاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nای مظهر اسم اعظم حق\r\nمجلای اثم و نور مطلق\r\nای نور تو صادر نخستین\r\nوی مصدر هر چه هست مشتق\r\nای عقل عقول و روح ارواح\r\nوی اصل اصول هر محقق\r\nای شمس شموس و نور انوار\r\nوی اعظم نیرات و اشرق\r\nای فاتحۀ کتاب هستی\r\nهستی ز تو یافته است رونق\r\nدر سیر تو ای نبی ختمی\r\nذو الغایه به غایه گشت ملحق\r\nای آیه ای از محامد توست\r\nقرآن مقدس مصدق\r\nوصف تو به شعر در نگنجد\r\nدریا نرود میان زورق\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nای اصل قدیم و عقل اقدم\r\nوی حادث با قدیم توأم\r\nدر رتبه تویی حجاب اقرب\r\nبودی تو نبی و در گل آدم\r\nطغرای صحیفۀ وجودی\r\nهر چند تویی کتاب محکم\r\nبا عزم تو چیست ای خداوند\r\nقدر قدر و قضای مبرم\r\nملک و ملکوت در کف توست\r\nچون خاتمی ای نبی خاتم\r\nاز لطف تو شمه ای ست فردوس\r\nوز قهر تو شعله ای جهنم\r\nقد ملک است در برت راست\r\nپشت فلک است در درت خم\r\nقهم خرد و زبان گویا\r\nدر وصف تو عاجزند و ابکم\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nای صاحب وحی و قلب آگاه\r\nدارای مقام لی مع الله\r\nای محرم بارگاه لاهوت\r\nوی در ملکوت حق شهنشاه\r\nای بر شده از حضیض ناسوت\r\nبر رفرف عز و شوکت و جاه\r\nوانگه ز سرادقات عزت\r\nبگذشتی و ماند امین درگاه\r\nای پایۀ قدر چاکرانت\r\nبالاتر از این بلند خرگاه\r\nاز شرم تو زرد چهرۀ مهر\r\nوز بیم تو دل دو نیم شد ماه\r\nاین بوی بهشت عنبرین است\r\nیا ذکر جمیل تو در افواه\r\nاز نیل تو پای وهم لنگ است\r\nوز ذیل تو دست فهم کوتاه\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nملک و ملکوت از تو پر نور\r\nای در تو عین تجلی طور\r\nبا روی تو چیست بدر انور\r\nبا موی تو چیست لیل دیجور\r\nروی تو ظهور غیب مکنون\r\nموی تو حجاب سر مستور\r\nدر خطۀ ملک استقامت\r\nقد تو به اعتدال مشهور\r\nای از تو به پا نظام عالم\r\nوی بی تو جهان هباء منثور\r\nاول رقم تو لوح محفوظ\r\nرشح قلمت کتاب مسطور\r\nخرگاه تو فوق سقف مرفوع\r\nدرگاه تو رشک بیت معمور\r\nمداحی من ترا چنان است\r\nجز چشمه خور ثنا کند کور\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nای گوهر یقدس و فیض اقدس\r\nوی صبح ازل إذا تنفس\r\nذات تو ز هر بدی منزه\r\nز آلایش نیستی مقدس\r\nخاک در توست عرصه خاک\r\nفرمانبر توست چرخ اطلس\r\nدست من و دامن تو هیهات\r\nعنقا نشود شکار کرکس\r\nطبع من و وصف صورت تو\r\nمعنای دقیق و طفل نورس\r\nمدح تو چنانکه لایق توست\r\nدر عهدۀ خالق تو و بس\r\nدر نعت تو هر بلیغ ابکم\r\nدر وصف تو هر فصیح اخرس\r\nنعت من و شأن تو تعالی\r\nوصف من و قدر تو تقدس\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nای نقطۀ ملتقای قوسین\r\nوی خارج از احاطۀ أین\r\nای واسطۀ وجوب و امکان\r\nوی مبدأ و منتهای کونین\r\nای رابطۀ قدیم و حادث\r\nوی ذات تو جامع الکمالین\r\nای واحد بی نظیر و مانند\r\nکز بهر تو نیست ثانی اثنین\r\nجز تو که نهاده پای رفعت\r\nبر عرش فکان قاب قوسین\r\nغیر از تو که فیض صحبت دوست\r\nدریافت و لا حجاب فی البین\r\nدیدی و شنیدی آنچه را لا\r\nاذن سمعت و لا رأت عین\r\nبا قدر تو وصف من بود نقص\r\nبا شأن تو مدح من بود شین\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nای بدر تمام و نیر تام\r\nبا نور تو نیرات اجرام\r\nدر جنب تو مبدعات لا شیء\r\nبا بود تو کاینات أعدام\r\nای نقش نخست و حرف اول\r\nوی ام کتاب و ام اقلام\r\nای مرکز جملۀ دوایر\r\nآغاز ز توست وز تو انجام\r\nیک نفخه توست هر قدر فیض\r\nوز یک نظر تو هرچه انعام\r\nعالم همه یک تجلی توست\r\nاز صبح ازل گرفته تا شام\r\nای محرم خاص محفل قدس\r\nوی بر همه خلق رحمت عام\r\nمدح تو چنانکه درخور توست\r\nاز ما طمعی بود بسی خام\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nای آینۀ تجلی ذات\r\nمصباح وجود را تو مشکات\r\nای ماه جمال نازنینت\r\nنور الأرضین و السماوات\r\nچون شمس حقیقت تو سر زد\r\nاعیان وجود جمله ذرات\r\nذات تو حقیقه الحقایق\r\nنفس تو هویه الهویات\r\nای نسخۀ عالیات احرف\r\nوی دفتر محکمات آیات\r\nای پایۀ رتبۀ منیعت\r\nبرتر ز مدارج خیالات\r\nوی قامت معنی رفعیت\r\nبیرون ز ملا بس عبارات\r\nدر نعت تو ای عزیز کونین\r\nاین جمله بضاعتی ست مزجاة\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nیا نیر کل مظلم داج\r\nیا هادی کل راشد ناج\r\nدین تو چو شمع عالم افروز\r\nآیین تو چون سراج وهاج\r\nای صدر سریر قاب قوسین\r\nوی بدر منیر اوج معراج\r\nای گشته جواهر حقایق\r\nدر درج حقیقت تو إدراج\r\nدر حلقۀ بندگان کویت\r\nعقل است کمین غلام محتاج\r\nدر منطقۀ بروج قدرت\r\nبرجی ست سماء ذات ابراج\r\nبر فرق سپهر و فرقدانش\r\nخاک در توست دره التاج\r\nبا قدر تو چیست هر دو گیتی\r\nیک قطره کنار بحر مواج\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nای عقل نخست و حق ثانی\r\nذات تو حقیقة المثانی\r\nمرآة وجود چون تواش نیست\r\nیک صورت و یک جهان معانی\r\nای در تو جمال حق نمودار\r\nزیبندۀ تست من رآنی\r\nای طور تجلی الهی\r\nصد همچو کلیم در تو فانی\r\nگر کنه تو را کلیم جوید\r\nطور است و جواب لن ترانی\r\nای منشأ عالم عناصر\r\nوی مبدأ فیض آسمانی\r\nای پادشاه سریر سرمد\r\nوی خسرو ملک جاودانی\r\nاوصاف تو در بیان نگنجد\r\nور هر سر مو شود زبانی\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nیا دافع جیشه الاباطیل\r\nیا دامغ صوله الاضالیل\r\nقرآن تو برده حکم تورات\r\nفرقان تو کرده نسخ انجیل\r\nبر خوان تو ریزه خوار میکال\r\nطفلی است به مکتب تو جبریل\r\nسیمای تو داده داد تکبیر\r\nبالای تو کرده کار تهلیل\r\nای صورت تو برون ز تشبیه\r\nوی معنی تو برون ز تمثیل\r\nذات تو مثال ذات بی مثل\r\nاوصاف تو فوق حد تکمیل\r\nمشکات مقام جمع و اجمال\r\nمرآت مقام فرق و تفصیل\r\nمدح تو و من خیال باطل\r\nوصف تو و من نتیجه تعطیل\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nای اصل اصیل و فرع ممدود\r\nوی جامع علم و دوحۀ جود\r\nای عین عیان و قلب عرفان\r\nوی گنج نهان و سر معبود\r\nای شمع جمال و نور مطلق\r\nوی شاهد بزم غیب مشهود\r\nاین نشیه نه جای جلوه توست\r\nمیعاد شهود و یوم موعود\r\nفرش ره تسیت عرش اعظم\r\nعرش تو بود مقام محمود\r\nیا شافی صدر کل مصدور\r\nمن أعذب منهل و مورود\r\nاز چشمه فیض توست سیراب\r\nدر دار وجود هرچه موجود\r\nمدح تو نه حد ممکنات است\r\nبی حد نشود محاط محدود\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nای فیض مقدس از شوایب\r\nوی نور مهذب از غیاهب\r\nارواح ز فیض تو در أشباح\r\nای مظهر واهب المواهب\r\nآفاق به نور تو منور\r\nای شمس مشارق و مغارب\r\nایجاد تو منتهی المقاصد\r\nإبداع تو غابه المطالب\r\nجل الملک البدیع صنعه\r\nما ادوع فیک من عجایب\r\nیا من بفنایه الرواحل\r\nحلت و انیخت الرکایب\r\nخرگاه تو مطرح الامانی\r\nدرگاه تو معقل الرغایب\r\nبا شأن تو چیست این مدایح\r\nبا قدر تو چیست این مناقب\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خاک ره تو خطۀ خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپاکی ز تو دیده عالم پاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآشفتهٔ موی توست، انجم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرگشتهٔ کوی توست افلاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بر سرت افسر «لعمرک»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی زیب برت قبای لولاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاج سرت افسر لعمرک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتشریف برت قبای لولاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزیب سرت افسر لعمرک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیبای برت قبای لولاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای رهبر و رهنمای گمراه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی هادی وادی خطرناک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم ز معارف تو واله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نغمه‌سرای «ماعرفناک»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا أعظم صوره تجلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفیها الله، ما أدقّ معناک!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدامان جلالت ای شهنشاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز نفتد به دست ادراک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین بنده و مدح چون تو شاهی؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحاشاک از این مدیحه حاشاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn11\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مظهر اسم اعظم حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمجلای اثم و نور مطلق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نور تو صادر نخستین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی مصدر هر چه هست مشتق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عقل عقول و روح ارواح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی اصل اصول هر محقق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شمس شموس و نور انوار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی اعظم نیرات و اشرق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای فاتحۀ کتاب هستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهستی ز تو یافته است رونق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سیر تو ای نبی ختمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذو الغایه به غایه گشت ملحق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آیه‌ای از محامد توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقرآن مقدس مصدق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوصف تو به شعر در نگنجد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریا نرود میان زورق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn20\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای اصل قدیم و عقل اقدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی حادث با قدیم توأم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رتبه توئی حجاب اقرب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبودی تو نبی و در گل آدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطغرای صحیفۀ وجودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چند تویی کتاب محکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا عزم تو چیست ای خداوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقدر قدر و قضای مبرم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک و ملکوت در کف توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون خاتمی ای نبی خاتم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز لطف تو شمه‌ای‌ست فردوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز قهر تو شعله‌ای جهنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقد ملک است در برت راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشت فلک است در درت خم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقهم خرد و زبان گویا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر وصف تو عاجزند و ابکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn29\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای صاحب وحی و قلب آگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدارای مقام «لی مع الله»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای محرم بارگاه لاهوت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی در ملکوت حق شهنشاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بر شده از حضیض ناسوت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر رفرف عز و شوکت و جاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوانگه ز سرادقات عزت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذشتی و ماند امین درگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پایۀ قدر چاکرانت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالاتر از این بلند خرگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز شرم تو زرد چهرۀ مهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز بیم تو دل دو نیم شد ماه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین بوی بهشت عنبرین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا ذکر جمیل تو در افواه؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز نیل تو پای وهم لنگ است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز ذیل تو دست فهم کوتاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn38\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک و ملکوت از تو پر نور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای در تو عین تجلی طور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا روی تو چیست بدر انور؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا موی تو چیست لیل دیجور؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی تو ظهور غیب مکنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموی تو حجاب سر مستور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خطۀ ملک استقامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقد تو به اعتدال مشهور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای از تو به پا نظام عالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی بی تو جهان هباء منثور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاول رقم تو لوح محفوظ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرشح قلمت کتاب مسطور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرگاه تو فوق سقف مرفوع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرگاه تو رشک بیت معمور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمداحی من ترا چنان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز چشمهٔ خور ثنا کند کور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn47\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گوهر یقدس و فیض اقدس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی صبح ازل إذا تنفس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذات تو ز هر بدی منزه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آلایش نیستی مقدس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاک در توست عرصهٔ خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرمانبر توست چرخ اطلس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست من و دامن تو؟ هیهات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعنقا نشود شکار کرکس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطبع من و وصف صورت تو؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعنای دقیق و طفل نورس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدح تو چنانکه لایق توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عهدۀ خالق تو و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر نعت تو هر بلیغ ابکم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر وصف تو هر فصیح اخرس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنعت من و شأن تو؟ تعالی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوصف من و قدر تو؟ تقدس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn56\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نقطۀ ملتقای قوسین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی خارج از احاطۀ أین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای واسطۀ وجوب و امکان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی مبدأ و منتهای کونین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای رابطۀ قدیم و حادث\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی ذات تو جامع الکمالین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای واحد بی نظیر و مانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز بهر تو نیست ثانی اثنین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn61\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز تو که نهاده پای رفعت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر عرش، فکان قاب قوسین؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn62\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر از تو که فیض صحبت دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریافت و لا حجاب فی البین؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn63\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدی و شنیدی آنچه را «لا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاذنُ سمعت و لا رأت عین»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn64\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا قدر تو وصف من بود نقص\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا شأن تو مدح من بود شین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn65\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn66\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بدر تمام و نیّر تام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا نور تو نیّرات اجرام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn67\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جنب تو، مبدعات لا شیء\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا بود تو، کائنات أعدام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn68\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نقش نخست و حرف اول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی ام کتاب و ام اقلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn69\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرکز جملۀ دوائر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآغاز ز توست وز تو انجام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn70\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک نفخهٔ توست هر قدر فیض\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز یک نظر تو هرچه انعام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn71\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم همه یک تجلی توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز صبح ازل گرفته تا شام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn72\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای محرم خاص محفل قدس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی بر همه خلق رحمت عام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn73\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدح تو چنانکه درخور توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ما طمعی بود بسی خام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn74\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn75\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آینۀ تجلی ذات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمصباح وجود را تو مشکات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn76\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ماه جمال نازنینت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنور الأرضین و السماوات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn77\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شمس حقیقت تو سر زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاعیان وجود جمله ذرات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn78\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذات تو حقیقه الحقائق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنفس تو هویه الهویات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn79\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نسخۀ عالیات احرف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی دفتر محکمات آیات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn80\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پایۀ رتبۀ منیعت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرتر ز مدارج خیالات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn81\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوی قامت معنی رفعیت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرون ز ملا بس عبارات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn82\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر نعت تو ای عزیز کونین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین جمله بضاعتی‌ست مزجاة\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn83\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn84\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا نیّر کل مظلم داج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا هادی کل راشد ناج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn85\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدین تو چو شمع عالم‌افروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیین تو چون سراج وهاج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn86\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای صدر سریر قاب قوسین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی بدر منیر اوج معراج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn87\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گشته جواهر حقائق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر درج حقیقت تو إدراج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn88\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حلقۀ بندگان کویت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل است کمین غلام محتاج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn89\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر منطقۀ بروج قدرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرجی‌ست سماء ذات ابراج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn90\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر فرق سپهر و فرقدانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک در توست دره التاج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn91\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا قدر تو چیست هر دو گیتی؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک قطره کنار بحر مواج!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn92\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn93\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عقل نخست و حق ثانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذات تو حقیقة المثانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn94\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرآة وجود، چون تواش نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک صورت و یک جهان معانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn95\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای در تو جمال حق نمودار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیبندۀ تست «من رآنی»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn96\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای طور تجلی الهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد همچو کلیم در تو فانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn97\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کنه تو را کلیم جوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطور است و جواب لن ترانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn98\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای منشأ عالم عناصر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی مبدأ فیض آسمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn99\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پادشاه سریر سرمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی خسرو ملک جاودانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn100\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاوصاف تو در بیان نگنجد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور هر سر مو شود زبانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn101\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn102\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا دافع جیشه الاباطیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا دامغ صوله الاضالیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn103\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقرآن تو برده حکم تورات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرقان تو کرده نسخ انجیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn104\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خوان تو ریزه‌خوار میکال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطفلی است به مکتب تو جبریل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn105\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیمای تو داده داد تکبیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالای تو کرده کار تهلیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn106\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای صورت تو برون ز تشبیه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی معنی تو برون ز تمثیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn107\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذات تو مثال ذات بی‌مثل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاوصاف تو فوق حد تکمیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn108\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشکات مقام جمع و اجمال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرآت مقام فرق و تفصیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn109\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدح تو و من؟ خیال باطل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوصف تو و من؟ نتیجه تعطیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn110\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn111\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای اصل اصیل و فرع ممدود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی جامع علم و دوحۀ جود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn112\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عین عیان و قلب عرفان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی گنج نهان و سر معبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn113\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شمع جمال و نور مطلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی شاهد بزم غیب مشهود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn114\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین نشئه نه جای جلوهٔ توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیعاد، شهود و یوم موعود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn115\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرش ره تسیت عرش اعظم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرش تو بود مقام محمود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn116\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا شافی صدر کل مصدور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن أعذب منهل و مورود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn117\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چشمهٔ فیض توست سیراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دار وجود هرچه موجود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn118\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدح تو نه حد ممکنات است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی حد نشود محاط محدود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn119\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn120\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای فیض مقدس از شوائب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی نور مهذب از غیاهب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn121\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eارواح ز فیض تو در أشباح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای مظهر واهب المواهب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn122\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفاق به نور تو منور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای شمس مشارق و مغارب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn123\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایجاد تو منتهی المقاصد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eإبداع تو غابه المطالب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn124\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجل الملک البدیع صنعه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما ادوع فیک من عجائب!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn125\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا من بفنائه الرواحل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحلت و انیخت الرکائب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn126\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرگاه تو مطرح الامانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرگاه تو معقل الرغائب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn127\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا شأن تو چیست این مدایح؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا قدر تو چیست این مناقب؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn128\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "TarjeeBand",
+      "CoupletsCount": 128
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اک",
+      "PlainText": "ای خاک ره تو خطۀ خاک\r\nپاکی ز تو دیده عالم پاک\r\nآشفته موی توست انجم\r\nسرگشته کوی توست افلاک\r\nای بر سرت افسر لعمرک\r\nوی زیب برت قبای لولاک\r\nتاج سرت افسر لعمرک\r\nتشریف برت قبای لولاک\r\nزیب سرت افسر لعمرک\r\nدیبای برت قبای لولاک\r\nای رهبر و رهنمای گمراه\r\nوی هادی وادی خطرناک\r\nعالم ز معارف تو واله\r\nتو نغمه سرای ماعرفناک\r\nیا أعظم صوره تجلی\r\nفیها الله ما أدق معناک\r\nدامان جلالت ای شهنشاه\r\nهرگز نفتد به دست ادراک\r\nاین بنده و مدح چون تو شاهی\r\nحاشاک از این مدیحه حاشاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خاک ره تو خطۀ خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپاکی ز تو دیده عالم پاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآشفتهٔ موی توست، انجم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرگشتهٔ کوی توست افلاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بر سرت افسر «لعمرک»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی زیب برت قبای لولاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاج سرت افسر لعمرک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتشریف برت قبای لولاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزیب سرت افسر لعمرک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیبای برت قبای لولاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای رهبر و رهنمای گمراه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی هادی وادی خطرناک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم ز معارف تو واله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نغمه‌سرای «ماعرفناک»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا أعظم صوره تجلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفیها الله، ما أدقّ معناک!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدامان جلالت ای شهنشاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز نفتد به دست ادراک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین بنده و مدح چون تو شاهی؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحاشاک از این مدیحه حاشاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 10
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ق",
+      "PlainText": "ای مظهر اسم اعظم حق\r\nمجلای اثم و نور مطلق\r\nای نور تو صادر نخستین\r\nوی مصدر هر چه هست مشتق\r\nای عقل عقول و روح ارواح\r\nوی اصل اصول هر محقق\r\nای شمس شموس و نور انوار\r\nوی اعظم نیرات و اشرق\r\nای فاتحۀ کتاب هستی\r\nهستی ز تو یافته است رونق\r\nدر سیر تو ای نبی ختمی\r\nذو الغایه به غایه گشت ملحق\r\nای آیه ای از محامد توست\r\nقرآن مقدس مصدق\r\nوصف تو به شعر در نگنجد\r\nدریا نرود میان زورق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مظهر اسم اعظم حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمجلای اثم و نور مطلق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نور تو صادر نخستین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی مصدر هر چه هست مشتق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عقل عقول و روح ارواح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی اصل اصول هر محقق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شمس شموس و نور انوار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی اعظم نیرات و اشرق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای فاتحۀ کتاب هستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهستی ز تو یافته است رونق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سیر تو ای نبی ختمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذو الغایه به غایه گشت ملحق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آیه‌ای از محامد توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقرآن مقدس مصدق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوصف تو به شعر در نگنجد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریا نرود میان زورق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 8
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "ای اصل قدیم و عقل اقدم\r\nوی حادث با قدیم توأم\r\nدر رتبه تویی حجاب اقرب\r\nبودی تو نبی و در گل آدم\r\nطغرای صحیفۀ وجودی\r\nهر چند تویی کتاب محکم\r\nبا عزم تو چیست ای خداوند\r\nقدر قدر و قضای مبرم\r\nملک و ملکوت در کف توست\r\nچون خاتمی ای نبی خاتم\r\nاز لطف تو شمه ای ست فردوس\r\nوز قهر تو شعله ای جهنم\r\nقد ملک است در برت راست\r\nپشت فلک است در درت خم\r\nقهم خرد و زبان گویا\r\nدر وصف تو عاجزند و ابکم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای اصل قدیم و عقل اقدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی حادث با قدیم توأم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رتبه توئی حجاب اقرب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبودی تو نبی و در گل آدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطغرای صحیفۀ وجودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چند تویی کتاب محکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا عزم تو چیست ای خداوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقدر قدر و قضای مبرم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک و ملکوت در کف توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون خاتمی ای نبی خاتم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز لطف تو شمه‌ای‌ست فردوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز قهر تو شعله‌ای جهنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقد ملک است در برت راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشت فلک است در درت خم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقهم خرد و زبان گویا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر وصف تو عاجزند و ابکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 8
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "ای صاحب وحی و قلب آگاه\r\nدارای مقام لی مع الله\r\nای محرم بارگاه لاهوت\r\nوی در ملکوت حق شهنشاه\r\nای بر شده از حضیض ناسوت\r\nبر رفرف عز و شوکت و جاه\r\nوانگه ز سرادقات عزت\r\nبگذشتی و ماند امین درگاه\r\nای پایۀ قدر چاکرانت\r\nبالاتر از این بلند خرگاه\r\nاز شرم تو زرد چهرۀ مهر\r\nوز بیم تو دل دو نیم شد ماه\r\nاین بوی بهشت عنبرین است\r\nیا ذکر جمیل تو در افواه\r\nاز نیل تو پای وهم لنگ است\r\nوز ذیل تو دست فهم کوتاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای صاحب وحی و قلب آگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدارای مقام «لی مع الله»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای محرم بارگاه لاهوت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی در ملکوت حق شهنشاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بر شده از حضیض ناسوت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر رفرف عز و شوکت و جاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوانگه ز سرادقات عزت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذشتی و ماند امین درگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پایۀ قدر چاکرانت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالاتر از این بلند خرگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز شرم تو زرد چهرۀ مهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز بیم تو دل دو نیم شد ماه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین بوی بهشت عنبرین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا ذکر جمیل تو در افواه؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز نیل تو پای وهم لنگ است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز ذیل تو دست فهم کوتاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 8
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ور",
+      "PlainText": "ملک و ملکوت از تو پر نور\r\nای در تو عین تجلی طور\r\nبا روی تو چیست بدر انور\r\nبا موی تو چیست لیل دیجور\r\nروی تو ظهور غیب مکنون\r\nموی تو حجاب سر مستور\r\nدر خطۀ ملک استقامت\r\nقد تو به اعتدال مشهور\r\nای از تو به پا نظام عالم\r\nوی بی تو جهان هباء منثور\r\nاول رقم تو لوح محفوظ\r\nرشح قلمت کتاب مسطور\r\nخرگاه تو فوق سقف مرفوع\r\nدرگاه تو رشک بیت معمور\r\nمداحی من ترا چنان است\r\nجز چشمه خور ثنا کند کور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک و ملکوت از تو پر نور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای در تو عین تجلی طور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا روی تو چیست بدر انور؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا موی تو چیست لیل دیجور؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی تو ظهور غیب مکنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموی تو حجاب سر مستور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خطۀ ملک استقامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقد تو به اعتدال مشهور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای از تو به پا نظام عالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی بی تو جهان هباء منثور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاول رقم تو لوح محفوظ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرشح قلمت کتاب مسطور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرگاه تو فوق سقف مرفوع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرگاه تو رشک بیت معمور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمداحی من ترا چنان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز چشمهٔ خور ثنا کند کور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 8
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "س",
+      "PlainText": "ای گوهر یقدس و فیض اقدس\r\nوی صبح ازل إذا تنفس\r\nذات تو ز هر بدی منزه\r\nز آلایش نیستی مقدس\r\nخاک در توست عرصه خاک\r\nفرمانبر توست چرخ اطلس\r\nدست من و دامن تو هیهات\r\nعنقا نشود شکار کرکس\r\nطبع من و وصف صورت تو\r\nمعنای دقیق و طفل نورس\r\nمدح تو چنانکه لایق توست\r\nدر عهدۀ خالق تو و بس\r\nدر نعت تو هر بلیغ ابکم\r\nدر وصف تو هر فصیح اخرس\r\nنعت من و شأن تو تعالی\r\nوصف من و قدر تو تقدس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گوهر یقدس و فیض اقدس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی صبح ازل إذا تنفس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذات تو ز هر بدی منزه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آلایش نیستی مقدس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاک در توست عرصهٔ خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرمانبر توست چرخ اطلس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست من و دامن تو؟ هیهات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعنقا نشود شکار کرکس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطبع من و وصف صورت تو؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعنای دقیق و طفل نورس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدح تو چنانکه لایق توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عهدۀ خالق تو و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر نعت تو هر بلیغ ابکم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر وصف تو هر فصیح اخرس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنعت من و شأن تو؟ تعالی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوصف من و قدر تو؟ تقدس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 8
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "ای نقطۀ ملتقای قوسین\r\nوی خارج از احاطۀ أین\r\nای واسطۀ وجوب و امکان\r\nوی مبدأ و منتهای کونین\r\nای رابطۀ قدیم و حادث\r\nوی ذات تو جامع الکمالین\r\nای واحد بی نظیر و مانند\r\nکز بهر تو نیست ثانی اثنین\r\nجز تو که نهاده پای رفعت\r\nبر عرش فکان قاب قوسین\r\nغیر از تو که فیض صحبت دوست\r\nدریافت و لا حجاب فی البین\r\nدیدی و شنیدی آنچه را لا\r\nاذن سمعت و لا رأت عین\r\nبا قدر تو وصف من بود نقص\r\nبا شأن تو مدح من بود شین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نقطۀ ملتقای قوسین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی خارج از احاطۀ أین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای واسطۀ وجوب و امکان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی مبدأ و منتهای کونین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای رابطۀ قدیم و حادث\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی ذات تو جامع الکمالین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای واحد بی نظیر و مانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز بهر تو نیست ثانی اثنین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز تو که نهاده پای رفعت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر عرش، فکان قاب قوسین؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر از تو که فیض صحبت دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریافت و لا حجاب فی البین؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدی و شنیدی آنچه را «لا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاذنُ سمعت و لا رأت عین»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا قدر تو وصف من بود نقص\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا شأن تو مدح من بود شین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 8
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ام",
+      "PlainText": "ای بدر تمام و نیر تام\r\nبا نور تو نیرات اجرام\r\nدر جنب تو مبدعات لا شیء\r\nبا بود تو کاینات أعدام\r\nای نقش نخست و حرف اول\r\nوی ام کتاب و ام اقلام\r\nای مرکز جملۀ دوایر\r\nآغاز ز توست وز تو انجام\r\nیک نفخه توست هر قدر فیض\r\nوز یک نظر تو هرچه انعام\r\nعالم همه یک تجلی توست\r\nاز صبح ازل گرفته تا شام\r\nای محرم خاص محفل قدس\r\nوی بر همه خلق رحمت عام\r\nمدح تو چنانکه درخور توست\r\nاز ما طمعی بود بسی خام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بدر تمام و نیّر تام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا نور تو نیّرات اجرام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جنب تو، مبدعات لا شیء\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا بود تو، کائنات أعدام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نقش نخست و حرف اول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی ام کتاب و ام اقلام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرکز جملۀ دوائر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآغاز ز توست وز تو انجام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک نفخهٔ توست هر قدر فیض\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز یک نظر تو هرچه انعام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم همه یک تجلی توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز صبح ازل گرفته تا شام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای محرم خاص محفل قدس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی بر همه خلق رحمت عام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدح تو چنانکه درخور توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ما طمعی بود بسی خام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 8
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ات",
+      "PlainText": "ای آینۀ تجلی ذات\r\nمصباح وجود را تو مشکات\r\nای ماه جمال نازنینت\r\nنور الأرضین و السماوات\r\nچون شمس حقیقت تو سر زد\r\nاعیان وجود جمله ذرات\r\nذات تو حقیقه الحقایق\r\nنفس تو هویه الهویات\r\nای نسخۀ عالیات احرف\r\nوی دفتر محکمات آیات\r\nای پایۀ رتبۀ منیعت\r\nبرتر ز مدارج خیالات\r\nوی قامت معنی رفعیت\r\nبیرون ز ملا بس عبارات\r\nدر نعت تو ای عزیز کونین\r\nاین جمله بضاعتی ست مزجاة",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آینۀ تجلی ذات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمصباح وجود را تو مشکات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ماه جمال نازنینت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنور الأرضین و السماوات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شمس حقیقت تو سر زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاعیان وجود جمله ذرات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذات تو حقیقه الحقائق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنفس تو هویه الهویات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نسخۀ عالیات احرف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی دفتر محکمات آیات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پایۀ رتبۀ منیعت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرتر ز مدارج خیالات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوی قامت معنی رفعیت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرون ز ملا بس عبارات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر نعت تو ای عزیز کونین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین جمله بضاعتی‌ست مزجاة\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 8
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اج",
+      "PlainText": "یا نیر کل مظلم داج\r\nیا هادی کل راشد ناج\r\nدین تو چو شمع عالم افروز\r\nآیین تو چون سراج وهاج\r\nای صدر سریر قاب قوسین\r\nوی بدر منیر اوج معراج\r\nای گشته جواهر حقایق\r\nدر درج حقیقت تو إدراج\r\nدر حلقۀ بندگان کویت\r\nعقل است کمین غلام محتاج\r\nدر منطقۀ بروج قدرت\r\nبرجی ست سماء ذات ابراج\r\nبر فرق سپهر و فرقدانش\r\nخاک در توست دره التاج\r\nبا قدر تو چیست هر دو گیتی\r\nیک قطره کنار بحر مواج",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا نیّر کل مظلم داج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا هادی کل راشد ناج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدین تو چو شمع عالم‌افروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیین تو چون سراج وهاج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای صدر سریر قاب قوسین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی بدر منیر اوج معراج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گشته جواهر حقائق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر درج حقیقت تو إدراج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حلقۀ بندگان کویت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل است کمین غلام محتاج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر منطقۀ بروج قدرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرجی‌ست سماء ذات ابراج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر فرق سپهر و فرقدانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک در توست دره التاج\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا قدر تو چیست هر دو گیتی؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک قطره کنار بحر مواج!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 8
+    },
+    {
+      "Index": 11,
+      "Number": 12,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "انی",
+      "PlainText": "ای عقل نخست و حق ثانی\r\nذات تو حقیقة المثانی\r\nمرآة وجود چون تواش نیست\r\nیک صورت و یک جهان معانی\r\nای در تو جمال حق نمودار\r\nزیبندۀ تست من رآنی\r\nای طور تجلی الهی\r\nصد همچو کلیم در تو فانی\r\nگر کنه تو را کلیم جوید\r\nطور است و جواب لن ترانی\r\nای منشأ عالم عناصر\r\nوی مبدأ فیض آسمانی\r\nای پادشاه سریر سرمد\r\nوی خسرو ملک جاودانی\r\nاوصاف تو در بیان نگنجد\r\nور هر سر مو شود زبانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عقل نخست و حق ثانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذات تو حقیقة المثانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرآة وجود، چون تواش نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک صورت و یک جهان معانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای در تو جمال حق نمودار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیبندۀ تست «من رآنی»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای طور تجلی الهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد همچو کلیم در تو فانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کنه تو را کلیم جوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطور است و جواب لن ترانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای منشأ عالم عناصر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی مبدأ فیض آسمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پادشاه سریر سرمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی خسرو ملک جاودانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاوصاف تو در بیان نگنجد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور هر سر مو شود زبانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 8
+    },
+    {
+      "Index": 12,
+      "Number": 13,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "یل",
+      "PlainText": "یا دافع جیشه الاباطیل\r\nیا دامغ صوله الاضالیل\r\nقرآن تو برده حکم تورات\r\nفرقان تو کرده نسخ انجیل\r\nبر خوان تو ریزه خوار میکال\r\nطفلی است به مکتب تو جبریل\r\nسیمای تو داده داد تکبیر\r\nبالای تو کرده کار تهلیل\r\nای صورت تو برون ز تشبیه\r\nوی معنی تو برون ز تمثیل\r\nذات تو مثال ذات بی مثل\r\nاوصاف تو فوق حد تکمیل\r\nمشکات مقام جمع و اجمال\r\nمرآت مقام فرق و تفصیل\r\nمدح تو و من خیال باطل\r\nوصف تو و من نتیجه تعطیل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا دافع جیشه الاباطیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا دامغ صوله الاضالیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقرآن تو برده حکم تورات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرقان تو کرده نسخ انجیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر خوان تو ریزه‌خوار میکال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطفلی است به مکتب تو جبریل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیمای تو داده داد تکبیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالای تو کرده کار تهلیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای صورت تو برون ز تشبیه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی معنی تو برون ز تمثیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذات تو مثال ذات بی‌مثل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاوصاف تو فوق حد تکمیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشکات مقام جمع و اجمال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرآت مقام فرق و تفصیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدح تو و من؟ خیال باطل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوصف تو و من؟ نتیجه تعطیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 8
+    },
+    {
+      "Index": 13,
+      "Number": 14,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ود",
+      "PlainText": "ای اصل اصیل و فرع ممدود\r\nوی جامع علم و دوحۀ جود\r\nای عین عیان و قلب عرفان\r\nوی گنج نهان و سر معبود\r\nای شمع جمال و نور مطلق\r\nوی شاهد بزم غیب مشهود\r\nاین نشیه نه جای جلوه توست\r\nمیعاد شهود و یوم موعود\r\nفرش ره تسیت عرش اعظم\r\nعرش تو بود مقام محمود\r\nیا شافی صدر کل مصدور\r\nمن أعذب منهل و مورود\r\nاز چشمه فیض توست سیراب\r\nدر دار وجود هرچه موجود\r\nمدح تو نه حد ممکنات است\r\nبی حد نشود محاط محدود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای اصل اصیل و فرع ممدود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی جامع علم و دوحۀ جود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عین عیان و قلب عرفان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی گنج نهان و سر معبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شمع جمال و نور مطلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی شاهد بزم غیب مشهود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین نشئه نه جای جلوهٔ توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیعاد، شهود و یوم موعود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرش ره تسیت عرش اعظم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرش تو بود مقام محمود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا شافی صدر کل مصدور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن أعذب منهل و مورود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چشمهٔ فیض توست سیراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دار وجود هرچه موجود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدح تو نه حد ممکنات است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی حد نشود محاط محدود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 8
+    },
+    {
+      "Index": 14,
+      "Number": 15,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ب",
+      "PlainText": "ای فیض مقدس از شوایب\r\nوی نور مهذب از غیاهب\r\nارواح ز فیض تو در أشباح\r\nای مظهر واهب المواهب\r\nآفاق به نور تو منور\r\nای شمس مشارق و مغارب\r\nایجاد تو منتهی المقاصد\r\nإبداع تو غابه المطالب\r\nجل الملک البدیع صنعه\r\nما ادوع فیک من عجایب\r\nیا من بفنایه الرواحل\r\nحلت و انیخت الرکایب\r\nخرگاه تو مطرح الامانی\r\nدرگاه تو معقل الرغایب\r\nبا شأن تو چیست این مدایح\r\nبا قدر تو چیست این مناقب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای فیض مقدس از شوائب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی نور مهذب از غیاهب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eارواح ز فیض تو در أشباح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای مظهر واهب المواهب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفاق به نور تو منور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای شمس مشارق و مغارب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایجاد تو منتهی المقاصد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eإبداع تو غابه المطالب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجل الملک البدیع صنعه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما ادوع فیک من عجائب!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا من بفنائه الرواحل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحلت و انیخت الرکائب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرگاه تو مطرح الامانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرگاه تو معقل الرغائب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا شأن تو چیست این مدایح؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا قدر تو چیست این مناقب؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 8
+    },
+    {
+      "Index": 16,
+      "Number": 17,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "اک",
+      "PlainText": "فرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک\r\nفرموده به شأنت ایزد پاک\r\nلولاک لما خلقت الافلاک",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn7\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn8\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn9\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn10\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn11\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn12\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn13\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn14\u0022\u003E\u003Cp\u003Eفرموده به شأنت ایزد پاک\u003C/p\u003E\r\n\u003Cp\u003Eلولاک لما خلقت الافلاک\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 14
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای خاک ره تو خطۀ خاک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای خاک جایی که تو هستی، سرزمین پاکی است که به خاطر وجود تو، دنیا نیز پاکی و زیبایی را مشاهده می‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پاکی ز تو دیده عالم پاک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آشفتهٔ موی توست، انجم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: تو همانند موسی، درخشان و آشفته‌ای، و ستاره‌ها نیز در مسیر تو سرگردانند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرگشتهٔ کوی توست افلاک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای بر سرت افسر «لعمرک»",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که بر سرت تاج و افسر است، به جان خودت قسم، زیبایی‌ات بر تن لباست می‌درخشد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وی زیب برت قبای لولاک",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تاج سرت افسر لعمرک",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: تاجی که بر سرت است، نشان از احترام و مقام تو دارد و به حق زیبایی و زیبایی پوشش تو را می‌رساند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تشریف برت قبای لولاک",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "زیب سرت افسر لعمرک",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: به زیبایی تو، سر تو مانند تاجی است که به خاطر آن همیشه در دل‌ها جا داری. لباس تو به قدری زیباست که هر کس تو را ببیند، مجذوب می‌شود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دیبای برت قبای لولاک",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ای رهبر و رهنمای گمراه",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای هدایتگر و راهنمای گمراهان، تو راهنمایی در مسیرهای پرخطر هستی."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "وی هادی وادی خطرناک",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "عالم ز معارف تو واله",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: عالم به دانش‌ها و معرفت‌های تو علاقمند است و تو مانند یک خواننده دل‌نشین به نغمه‌سرایی مشغولی که به ما نمی‌شناسی."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "تو نغمه‌سرای «ماعرفناک»",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "یا أعظم صوره تجلی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای بزرگ‌ترین تجلی خدای متعال، چقدر مفاهیم تو دقیق و عمیق‌اند!"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "فیها الله، ما أدقّ معناک!",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "دامان جلالت ای شهنشاه",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: جلال و عظمت تو ای پادشاه هیچ‌گاه در دست فهم و درک قرار نمی‌گیرد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "هرگز نفتد به دست ادراک",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "این بنده و مدح چون تو شاهی؟",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: این بنده و ستایش تو، ای پادشاه، چه ربطی به هم دارند؟ این نوع ستایش را نمی‌پسندم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "حاشاک از این مدیحه حاشاک",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 21,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: خداوند به تو ای لولاک (پیامبر) فرموده است که به خاطر تو آسمان‌ها و کائنات را خلق کرده‌ام."
+    },
+    {
+      "VOrder": 22,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "ای مظهر اسم اعظم حق",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای مظهر بزرگ‌ترین نام خدا، جایی که گناه و نور مطلق در کنار هم قرار گرفته‌اند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "مجلای اثم و نور مطلق",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "ای نور تو صادر نخستین",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای نور، تو آغاز همه چیز هستی و منبع تمام موجودات."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "وی مصدر هر چه هست مشتق",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "ای عقل عقول و روح ارواح",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای عقل بزرگ و روح زندگی، تو اصل و اساس هر دانش و تحقیقی هستی."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "وی اصل اصول هر محقق",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "ای شمس شموس و نور انوار",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای خورشید، ای منبع روشنی و نور، تو بزرگ‌ترین و درخشان‌ترین پرتوها هستی."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "وی اعظم نیرات و اشرق",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "ای فاتحۀ کتاب هستی",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: تو آغاز و سرنوشت زندگی را شکل داده‌ای و همه چیز از وجود تو زنده و پر رونق شده است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "هستی ز تو یافته است رونق",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "در سیر تو ای نبی ختمی",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای پیامبر، تو در مسیری حرکت کردی که به نهایت و کمال رسیدی و به سرانجامی بس والایی پیوستی."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "ذو الغایه به غایه گشت ملحق",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "ای آیه‌ای از محامد توست",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای تو مظهر جمال و زیبایی، همانند آیه‌ای از کتاب مقدس قرآن که همواره تاییدکننده صفات نیک و قابل ستایش توست."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "قرآن مقدس مصدق",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "وصف تو به شعر در نگنجد",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: تو آن‌چنان وصف‌ناپذیری که حتی اشعار هم نمی‌توانند زیبایی‌ات را به درستی منتقل کنند، مثل این‌که دریا نمی‌تواند در یک قایق جا بگیرد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "دریا نرود میان زورق",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 39,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: ای خدای پاک، به مقام تو اشاره شده است که من هیچ‌چیز را جز برای تو نیافریدم."
+    },
+    {
+      "VOrder": 40,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "ای اصل قدیم و عقل اقدم",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تو ریشه‌ای کهن و عقل اولیه‌ای؛ تو با واقعیت‌های جدید در ارتباطی و هماهنگ."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "وی حادث با قدیم توأم",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "در رتبه توئی حجاب اقرب",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در مقام تو، پرده‌ای از نزدیک‌ترین چیزها به وجود آمده، تو پیامبر هستی و در گل آدم وجود داری."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "بودی تو نبی و در گل آدم",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "طغرای صحیفۀ وجودی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: عزیز من، هرچند تویی که در صفحه وجودت حک شده‌ای، اما تو خود یک کتابی هستی که محکم و باارزش است."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "هر چند تویی کتاب محکم",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "با عزم تو چیست ای خداوند",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ای خداوند بزرگ و توانمند، خواسته‌های تو چه تاثیری بر سرنوشت و تقدیر قطعی دارد؟"
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "قدر قدر و قضای مبرم؟",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "ملک و ملکوت در کف توست",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ای پیامبر خاتم، ملک و آسمان و زمین همه در دستان تو هستند مانند یک انگشتر."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "چون خاتمی ای نبی خاتم",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "از لطف تو شمه‌ای‌ست فردوس",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از محبت و مهربانی تو، نشانی از بهشت وجود دارد و از خشم تو، آتش جهنم شعله‌ور می‌شود."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "وز قهر تو شعله‌ای جهنم",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "قد ملک است در برت راست",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: قد تو بلند است و مانند یک پادشاه می‌باشد، و در دلت جایگاه بزرگی دارد که آسمان در برابر تو سر خم کرده است."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "پشت فلک است در درت خم",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "قهم خرد و زبان گویا",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دانش و خرد و قدرت بیان در توصیف تو ناتوان و بی‌صدا هستند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "در وصف تو عاجزند و ابکم",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 57,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: خداوند بزرگ تو را برای هدفی مهم و والا خلق کرده است، چرا که آفرینش جهان و ستارگان به خاطر تو بوده است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "ای صاحب وحی و قلب آگاه",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که وحی را دریافت می‌کنی و قلبی آگاه داری و در جایگاهی ویژه نزد خداوند قرار داری."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "دارای مقام «لی مع الله»",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "ای محرم بارگاه لاهوت",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که به رازهای الهی آگاه هستی، تو در عرصه ملکوت، بزرگ‌ترین مقام را داری."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "وی در ملکوت حق شهنشاه",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "ای بر شده از حضیض ناسوت",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که از پستی‌های دنیوی بلند شده‌ای و به مقام و شکوه و عظمت دست یافته‌ای."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "بر رفرف عز و شوکت و جاه",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "وانگه ز سرادقات عزت",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: پس از عبور از مراحل سخت و دشوار، به مقام والای عزت و بزرگی رسیدی و در این جایگاه، شایسته اعتماد و امانت داری."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "بگذشتی و ماند امین درگاه",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "ای پایۀ قدر چاکرانت",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ای پایه و اساس ارزش و مقام خدمتگزارانت، بالاتر از این بلندی‌ها و طبقه‌هاست."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "بالاتر از این بلند خرگاه",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "از شرم تو زرد چهرۀ مهر",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به خاطر شرم تو، چهرۀ خورشید رنگ باخته و از ترس تو دل ماه به دو نیم شده است."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "وز بیم تو دل دو نیم شد ماه",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "این بوی بهشت عنبرین است",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این عطر دلپذیر که به مشام می‌رسد آیا بوی بهشت است یا یاد زیبای تو که بر زبان‌ها جاری است؟"
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "یا ذکر جمیل تو در افواه؟",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "از نیل تو پای وهم لنگ است",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: از زلال و زیبایی تو، خیالات نادرست ناتوان و ناقص هستند و از زیر سایه تو، درک و فهم انسان‌ها بسیار محدود و ناکافی می‌باشد."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "وز ذیل تو دست فهم کوتاه",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 75,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: خداوند متعال به تو، ای پیغمبر بزرگ، فرموده است که من به خاطر تو آسمان‌ها و افلاک را خلق کرده‌ام."
+    },
+    {
+      "VOrder": 76,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "ملک و ملکوت از تو پر نور",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تو نورانی و پر از درخشش هستی، سرشار از جلوه‌های الهی و عظمت. دوست‌داشتنی و زینت‌بخش هر دو جهان، دنیوی و معنوی."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "ای در تو عین تجلی طور",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "با روی تو چیست بدر انور؟",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: وجود زیبای تو درخشان‌تر از نور ماه است و موهای تو تاریکی شب را هم تحت تاثیر قرار می‌دهد."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "با موی تو چیست لیل دیجور؟",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "روی تو ظهور غیب مکنون",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: چهره تو همچون راز پنهانی است و موهای تو مانند پرده‌ای بر رازهای نهفته‌ات."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "موی تو حجاب سر مستور",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "در خطۀ ملک استقامت",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در سرزمین پادشاهی، قامت تو به زیبایی و تناسب معروف است."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "قد تو به اعتدال مشهور",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "ای از تو به پا نظام عالم",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: ای تو که نظام عالم به وجود تو برقرار است، و بدون تو جهان همچون باد پراکنده و بی‌ثمر است."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "وی بی تو جهان هباء منثور",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "اول رقم تو لوح محفوظ",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تو اولین سرنوشتی هستی که در لوح محفوظ نگاشته شده و قلم تو کتابی را به تصویر می‌کشد."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "رشح قلمت کتاب مسطور",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "خرگاه تو فوق سقف مرفوع",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: محل زندگی تو برتر از هر سقفی است و ورودی‌ات به گونه‌ای است که هر خانه‌ای به آن حسادت می‌کند."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "درگاه تو رشک بیت معمور",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "مداحی من ترا چنان است",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: مداحی من دربارهٔ تو به قدری است که تنها خورشید می‌تواند مانند آن ستایش کند و دیگران از درک آن ناتوانند."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "جز چشمهٔ خور ثنا کند کور",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 93,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: ای پاک خدا به تو اشاره کرده که من به خاطر تو آسمان‌ها و جهان‌ها را خلق کرده‌ام."
+    },
+    {
+      "VOrder": 94,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "ای گوهر یقدس و فیض اقدس",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ای سنگ قیمتی و نور پاک، ای صبحی که از ابتدا شروع به درخشش کرده‌ای."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "وی صبح ازل إذا تنفس",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "ذات تو ز هر بدی منزه",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تو از هر گونه شر و آلودگی پاک و مقدس هستی."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "ز آلایش نیستی مقدس",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "خاک در توست عرصهٔ خاک",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: خاک در وجود توست و زمین تحت سلطه‌ی تو قرار دارد. آسمان و جهان به تو وابسته است."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "فرمانبر توست چرخ اطلس",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "دست من و دامن تو؟ هیهات",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: دست من و دامن تو؟ هرگز این اتفاق نمی‌افتد؛ مثل اینکه پرنده‌ای افسانه‌ای را در دام کرکس بگیریم."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "عنقا نشود شکار کرکس",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "طبع من و وصف صورت تو؟",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: طبع من و توصیف زیبایی تو؟ مانند معنای دقیق و یک کودک تازه به دنیا آمده است."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "معنای دقیق و طفل نورس",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "مدح تو چنانکه لایق توست",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ستایش و تمجید تو، به گونه‌ای که شایسته‌ات باشد، تنها بر عهده خالق تو است و بس."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "در عهدۀ خالق تو و بس",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "در نعت تو هر بلیغ ابکم",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در توصیف تو، سخن‌وری بی‌زبانی نمی‌تواند حق مطلب را ادا کند و حتی گویا‌ترین افراد نیز از وصف تو ناتوانند."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "در وصف تو هر فصیح اخرس",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "نعت من و شأن تو؟ تعالی",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: شایستگی و مقام من با ویژگی‌های تو قابل مقایسه نیست، تو در مرتبه‌ای بالاتر و پاک‌تر از آنی که بتوان به وصف من اشاره کرد."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "وصف من و قدر تو؟ تقدس",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 111,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: ای خداوند مهربان، به شأن تو قسم که برای چه آسمان‌ها و کهکشان‌ها را آفریده‌ای؟"
+    },
+    {
+      "VOrder": 112,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "ای نقطۀ ملتقای قوسین",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای تو که نقطه‌ای از تلاقی دو قوس و فراتر از محدودهٔ \u0022کجاست\u0022 هستی."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "وی خارج از احاطۀ أین",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "ای واسطۀ وجوب و امکان",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که واسطه‌ای بین وجود و امکان هستی و آغاز و پایان جهان‌ها."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "وی مبدأ و منتهای کونین",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "ای رابطۀ قدیم و حادث",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای پیوند دهندهٔ گذشته و حال، تو خود تمام کمالات را در وجودت گنجانده‌ای."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "وی ذات تو جامع الکمالین",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "ای واحد بی نظیر و مانند",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای یکتای بی‌نظیر و بی‌همتا که برای تو مانند و شبیه دیگری وجود ندارد."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "کز بهر تو نیست ثانی اثنین",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "جز تو که نهاده پای رفعت",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: جز تو که به اوج بلندی دست یافته‌ای، چه کسی می‌تواند به نزدیکی پروردگار برسد؟"
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "بر عرش، فکان قاب قوسین؟",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 123,
+      "Position": "Right",
+      "Text": "غیر از تو که فیض صحبت دوست",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: جز تو که از ملاقات دوست بهره‌مند شده و هیچ مانعی در میان نیست؟"
+    },
+    {
+      "VOrder": 124,
+      "Position": "Left",
+      "Text": "دریافت و لا حجاب فی البین؟",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 125,
+      "Position": "Right",
+      "Text": "دیدی و شنیدی آنچه را «لا",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تو چیزهایی را دیده‌ای و شنیده‌ای که نه گوش می‌تواند بشنود و نه چشم می‌تواند ببیند."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Left",
+      "Text": "اذنُ سمعت و لا رأت عین»",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 127,
+      "Position": "Right",
+      "Text": "با قدر تو وصف من بود نقص",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هرچقدر که من بخواهم تو را توصیف کنم، نمی‌توانم به درستی از پسِ آن برآیم، چون شان و مقام تو فراتر از آن است که قابل ستایش باشد."
+    },
+    {
+      "VOrder": 128,
+      "Position": "Left",
+      "Text": "با شأن تو مدح من بود شین",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 129,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: خداوند پاک به شایستگی تو فرمود: ای لولاک، به خاطر تو آسمان‌ها و فلک‌ها را آفریدم."
+    },
+    {
+      "VOrder": 130,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 131,
+      "Position": "Right",
+      "Text": "ای بدر تمام و نیّر تام",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ای ماه کامل و نور درخشان، با روشنایی تو ستاره‌ها روشن می‌شوند."
+    },
+    {
+      "VOrder": 132,
+      "Position": "Left",
+      "Text": "با نور تو نیّرات اجرام",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 133,
+      "Position": "Right",
+      "Text": "در جنب تو، مبدعات لا شیء",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در کنار تو، هیچ چیز وجود ندارد و بدون تو، جهان‌ها شاید از نبودن تشکیل شده باشند."
+    },
+    {
+      "VOrder": 134,
+      "Position": "Left",
+      "Text": "با بود تو، کائنات أعدام",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 135,
+      "Position": "Right",
+      "Text": "ای نقش نخست و حرف اول",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ای تو که نخستین تصویر و اولین حرف هستی، من رمز و راز تو هستم و متن تو را می‌نویسم."
+    },
+    {
+      "VOrder": 136,
+      "Position": "Left",
+      "Text": "وی ام کتاب و ام اقلام",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 137,
+      "Position": "Right",
+      "Text": "ای مرکز جملۀ دوائر",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تو محور تمامی دایره‌ها هستی؛ آغاز هر چیزی از توست و پایان نیز به تو وابسته است."
+    },
+    {
+      "VOrder": 138,
+      "Position": "Left",
+      "Text": "آغاز ز توست وز تو انجام",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 139,
+      "Position": "Right",
+      "Text": "یک نفخهٔ توست هر قدر فیض",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: هر نعمت و فیضی که در دنیا داریم، به خاطر یک وزش روحانی از سوی توست و هر چیزی که از لطف و کرم تو به ما می‌رسد، به خاطر یک نگاه توست."
+    },
+    {
+      "VOrder": 140,
+      "Position": "Left",
+      "Text": "وز یک نظر تو هرچه انعام",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 141,
+      "Position": "Right",
+      "Text": "عالم همه یک تجلی توست",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: جهان تماماً جلوه‌ای از توست که از آغاز آفرینش تا پایان آن ادامه دارد."
+    },
+    {
+      "VOrder": 142,
+      "Position": "Left",
+      "Text": "از صبح ازل گرفته تا شام",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 143,
+      "Position": "Right",
+      "Text": "ای محرم خاص محفل قدس",
+      "CoupletIndex": 71,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در محفل مقدس، به ویژه مورد توجه هستی و بر تمام موجودات رحمت عمومی داری."
+    },
+    {
+      "VOrder": 144,
+      "Position": "Left",
+      "Text": "وی بر همه خلق رحمت عام",
+      "CoupletIndex": 71,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 145,
+      "Position": "Right",
+      "Text": "مدح تو چنانکه درخور توست",
+      "CoupletIndex": 72,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: مدح و ستایش تو به گونه‌ای که شایسته‌ات باشد، برای ما انتظار بیهوده‌ای است."
+    },
+    {
+      "VOrder": 146,
+      "Position": "Left",
+      "Text": "از ما طمعی بود بسی خام",
+      "CoupletIndex": 72,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 147,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 73,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: پروردگار پاک به تو ای لولاک، فرموده است که برای چه به وجود آمده‌ای، چرا که به خاطر تو، آسمان‌ها و افلاک را خلق کرده‌ام."
+    },
+    {
+      "VOrder": 148,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 73,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 149,
+      "Position": "Right",
+      "Text": "ای آینۀ تجلی ذات",
+      "CoupletIndex": 74,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ای آینه‌ای که جلوه‌های وجود را نمایان می‌سازی، تو چراغ‌خانه‌ای هستی که نور وجود را در خود جای داده‌ای."
+    },
+    {
+      "VOrder": 150,
+      "Position": "Left",
+      "Text": "مصباح وجود را تو مشکات",
+      "CoupletIndex": 74,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 151,
+      "Position": "Right",
+      "Text": "ای ماه جمال نازنینت",
+      "CoupletIndex": 75,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ای ماه زیبای نازنین، تو نور زمین و آسمان‌ها هستی."
+    },
+    {
+      "VOrder": 152,
+      "Position": "Left",
+      "Text": "نور الأرضین و السماوات",
+      "CoupletIndex": 75,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 153,
+      "Position": "Right",
+      "Text": "چون شمس حقیقت تو سر زد",
+      "CoupletIndex": 76,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که خورشید حقیقت تو ظهور کرد، تمام موجودات و عناصر هستی روشن شدند و نمایان شدند."
+    },
+    {
+      "VOrder": 154,
+      "Position": "Left",
+      "Text": "اعیان وجود جمله ذرات",
+      "CoupletIndex": 76,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 155,
+      "Position": "Right",
+      "Text": "ذات تو حقیقه الحقائق",
+      "CoupletIndex": 77,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ذات تو بنیادی‌ترین حقیقت‌هاست و نفس تو حقیقت وجود و ماهیت تمامی چیزهاست."
+    },
+    {
+      "VOrder": 156,
+      "Position": "Left",
+      "Text": "نفس تو هویه الهویات",
+      "CoupletIndex": 77,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 157,
+      "Position": "Right",
+      "Text": "ای نسخۀ عالیات احرف",
+      "CoupletIndex": 78,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ای نسخه‌ای از بهترین کتاب‌ها و مجموعه‌ای از آیات ثابت و محکم."
+    },
+    {
+      "VOrder": 158,
+      "Position": "Left",
+      "Text": "وی دفتر محکمات آیات",
+      "CoupletIndex": 78,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 159,
+      "Position": "Right",
+      "Text": "ای پایۀ رتبۀ منیعت",
+      "CoupletIndex": 79,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ای پایه و اساس مقام و جایگاه من، تو برتر از هر درجه و مرتبه‌ای هستی که در خیال می‌توان تصور کرد."
+    },
+    {
+      "VOrder": 160,
+      "Position": "Left",
+      "Text": "برتر ز مدارج خیالات",
+      "CoupletIndex": 79,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 161,
+      "Position": "Right",
+      "Text": "وی قامت معنی رفعیت",
+      "CoupletIndex": 80,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: او به زیبایی و معانی عمیق خود، فراتر از کلمات عادی و محدودیت‌های بیان ظاهر شده است."
+    },
+    {
+      "VOrder": 162,
+      "Position": "Left",
+      "Text": "بیرون ز ملا بس عبارات",
+      "CoupletIndex": 80,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 163,
+      "Position": "Right",
+      "Text": "در نعت تو ای عزیز کونین",
+      "CoupletIndex": 81,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در تو ای عزیز دنیا، هر چه بگویم، فقط اندکی از زیبایی‌های تو را به تصویر می‌کشد."
+    },
+    {
+      "VOrder": 164,
+      "Position": "Left",
+      "Text": "این جمله بضاعتی‌ست مزجاة",
+      "CoupletIndex": 81,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 165,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 82,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: به تو آفرینش داده شده‌ای ای لولاک، به خاطر آنکه آسمان‌ها و کائنات را خلق کرده‌ام."
+    },
+    {
+      "VOrder": 166,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 82,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 167,
+      "Position": "Right",
+      "Text": "یا نیّر کل مظلم داج",
+      "CoupletIndex": 83,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای روشنی‌بخش هر تاریکی و ای هدایت‌کننده هر آدم راستین."
+    },
+    {
+      "VOrder": 168,
+      "Position": "Left",
+      "Text": "یا هادی کل راشد ناج",
+      "CoupletIndex": 83,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 169,
+      "Position": "Right",
+      "Text": "دین تو چو شمع عالم‌افروز",
+      "CoupletIndex": 84,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: مذهب تو مانند شمعی است که دنیا را روشن می‌کند و روش زندگی‌ات مانند چراغی درخشان است."
+    },
+    {
+      "VOrder": 170,
+      "Position": "Left",
+      "Text": "آیین تو چون سراج وهاج",
+      "CoupletIndex": 84,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 171,
+      "Position": "Right",
+      "Text": "ای صدر سریر قاب قوسین",
+      "CoupletIndex": 85,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در بالاترین مقام و جایگاه قرار داری و همچون ماه درخشان هستی که به اوج کمال رسیده‌ای."
+    },
+    {
+      "VOrder": 172,
+      "Position": "Left",
+      "Text": "وی بدر منیر اوج معراج",
+      "CoupletIndex": 85,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 173,
+      "Position": "Right",
+      "Text": "ای گشته جواهر حقائق",
+      "CoupletIndex": 86,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای گوهری که حقایق در وجود تو گنجانده شده است."
+    },
+    {
+      "VOrder": 174,
+      "Position": "Left",
+      "Text": "در درج حقیقت تو إدراج",
+      "CoupletIndex": 86,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 175,
+      "Position": "Right",
+      "Text": "در حلقۀ بندگان کویت",
+      "CoupletIndex": 87,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در میان بندگان تو، عقل در کمین نشسته است و غلامی که به تو نیاز دارد، در حال انتظار است."
+    },
+    {
+      "VOrder": 176,
+      "Position": "Left",
+      "Text": "عقل است کمین غلام محتاج",
+      "CoupletIndex": 87,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 177,
+      "Position": "Right",
+      "Text": "در منطقۀ بروج قدرت",
+      "CoupletIndex": 88,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در یک ناحیه‌ای، نیرویی وجود دارد که به برج‌ها و ویژگی‌های آسمانی آن‌ها مرتبط است."
+    },
+    {
+      "VOrder": 178,
+      "Position": "Left",
+      "Text": "برجی‌ست سماء ذات ابراج",
+      "CoupletIndex": 88,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 179,
+      "Position": "Right",
+      "Text": "بر فرق سپهر و فرقدانش",
+      "CoupletIndex": 89,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: بر روی آسمان و ستاره‌هایش خاک تو قرار دارد، ای دره تاج!"
+    },
+    {
+      "VOrder": 180,
+      "Position": "Left",
+      "Text": "خاک در توست دره التاج",
+      "CoupletIndex": 89,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 181,
+      "Position": "Right",
+      "Text": "با قدر تو چیست هر دو گیتی؟",
+      "CoupletIndex": 90,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ارزش تو در برابر تمام جهان چیست؟ مانند یک قطره در کنار دریای طوفانی!"
+    },
+    {
+      "VOrder": 182,
+      "Position": "Left",
+      "Text": "یک قطره کنار بحر مواج!",
+      "CoupletIndex": 90,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 183,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 91,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: ای خداوند پاک، به خاطر مقام و منزلتت، مرا بر این جهان و آفرینش آسمان‌ها خلق کرده‌ای."
+    },
+    {
+      "VOrder": 184,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 91,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 185,
+      "Position": "Right",
+      "Text": "ای عقل نخست و حق ثانی",
+      "CoupletIndex": 92,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ای عقل، تو اصل و بنیان هستی و حقیقتی که در خود دوگانگی را نیز در بر داری."
+    },
+    {
+      "VOrder": 186,
+      "Position": "Left",
+      "Text": "ذات تو حقیقة المثانی",
+      "CoupletIndex": 92,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 187,
+      "Position": "Right",
+      "Text": "مرآة وجود، چون تواش نیست",
+      "CoupletIndex": 93,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: وجود انسان مانند آینه‌ای است که تنها یک شکل و یک دنیا از معنا را در خود ندارد. در واقع، وجود او می‌تواند تجلی‌های متنوع و معانی مختلفی داشته باشد."
+    },
+    {
+      "VOrder": 188,
+      "Position": "Left",
+      "Text": "یک صورت و یک جهان معانی",
+      "CoupletIndex": 93,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 189,
+      "Position": "Right",
+      "Text": "ای در تو جمال حق نمودار",
+      "CoupletIndex": 94,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تو تجلی زیبای حقیقت هستی که در وجودت جلوه‌گر است."
+    },
+    {
+      "VOrder": 190,
+      "Position": "Left",
+      "Text": "زیبندۀ تست «من رآنی»",
+      "CoupletIndex": 94,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 191,
+      "Position": "Right",
+      "Text": "ای طور تجلی الهی",
+      "CoupletIndex": 95,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ای کوه تجلی خداوندی، تو همچون موسی در تو محو شده‌ای."
+    },
+    {
+      "VOrder": 192,
+      "Position": "Left",
+      "Text": "صد همچو کلیم در تو فانی",
+      "CoupletIndex": 95,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 193,
+      "Position": "Right",
+      "Text": "گر کنه تو را کلیم جوید",
+      "CoupletIndex": 96,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر تو می‌خواهی که مانند کلیم (موسی) در کوه طور (سینا) به من نزدیک شوی، باید بدانی که پاسخ این خواسته، «تو مرا نخواهی دید» است."
+    },
+    {
+      "VOrder": 194,
+      "Position": "Left",
+      "Text": "طور است و جواب لن ترانی",
+      "CoupletIndex": 96,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 195,
+      "Position": "Right",
+      "Text": "ای منشأ عالم عناصر",
+      "CoupletIndex": 97,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ای منبع و سرچشمه‌ی عالم عناصر و مبدأ بخشش‌های آسمانی."
+    },
+    {
+      "VOrder": 196,
+      "Position": "Left",
+      "Text": "وی مبدأ فیض آسمانی",
+      "CoupletIndex": 97,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 197,
+      "Position": "Right",
+      "Text": "ای پادشاه سریر سرمد",
+      "CoupletIndex": 98,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه بزرگ و جاودان، تو فرمانروای سرزمین‌های باستانی و حکومتی همیشگی هستی."
+    },
+    {
+      "VOrder": 198,
+      "Position": "Left",
+      "Text": "وی خسرو ملک جاودانی",
+      "CoupletIndex": 98,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 199,
+      "Position": "Right",
+      "Text": "اوصاف تو در بیان نگنجد",
+      "CoupletIndex": 99,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ظرفیت بیان ویژگی‌های تو فراتر از کلمات است، حتی اگر هر مویی به زبان تبدیل شود."
+    },
+    {
+      "VOrder": 200,
+      "Position": "Left",
+      "Text": "ور هر سر مو شود زبانی",
+      "CoupletIndex": 99,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 201,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 100,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: ای خدایی که ذات پاکت شایسته‌ی بزرگداشت است، برای چه به وجود آورده‌ای آسمان‌ها و ستاره‌ها را؟"
+    },
+    {
+      "VOrder": 202,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 100,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 203,
+      "Position": "Right",
+      "Text": "یا دافع جیشه الاباطیل",
+      "CoupletIndex": 101,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که افکار باطل را دور می‌کنی و گمراهان را به چالش می‌کشانی، به فریاد ما برس."
+    },
+    {
+      "VOrder": 204,
+      "Position": "Left",
+      "Text": "یا دامغ صوله الاضالیل",
+      "CoupletIndex": 101,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 205,
+      "Position": "Right",
+      "Text": "قرآن تو برده حکم تورات",
+      "CoupletIndex": 102,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: قرآن، حکم و دستورات تورات را در بر گرفته و ویژگی‌های آن را به گونه‌ای جایگزین کرده که با انجیل سازگار نیست."
+    },
+    {
+      "VOrder": 206,
+      "Position": "Left",
+      "Text": "فرقان تو کرده نسخ انجیل",
+      "CoupletIndex": 102,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 207,
+      "Position": "Right",
+      "Text": "بر خوان تو ریزه‌خوار میکال",
+      "CoupletIndex": 103,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در سفره تو، بچه‌ای به مانند میکائیل خوشبخت نشسته است و در مدرسه تو، فرشته‌ای مانند جبریل آموزش می‌بیند."
+    },
+    {
+      "VOrder": 208,
+      "Position": "Left",
+      "Text": "طفلی است به مکتب تو جبریل",
+      "CoupletIndex": 103,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 209,
+      "Position": "Right",
+      "Text": "سیمای تو داده داد تکبیر",
+      "CoupletIndex": 104,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: چهره‌ی تو باعث شده که صدا بزنند، و در بالای تو به تسبیح و ستایش پرداخته می‌شود."
+    },
+    {
+      "VOrder": 210,
+      "Position": "Left",
+      "Text": "بالای تو کرده کار تهلیل",
+      "CoupletIndex": 104,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 211,
+      "Position": "Right",
+      "Text": "ای صورت تو برون ز تشبیه",
+      "CoupletIndex": 105,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: تو چهره‌ات از تشبیه خارج است و معنایت از تمثیل فراتر رفته است."
+    },
+    {
+      "VOrder": 212,
+      "Position": "Left",
+      "Text": "وی معنی تو برون ز تمثیل",
+      "CoupletIndex": 105,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 213,
+      "Position": "Right",
+      "Text": "ذات تو مثال ذات بی‌مثل",
+      "CoupletIndex": 106,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: وجود تو به هیچ چیز مشابه نیست و ویژگی‌های تو از تمام کمالات فراتر است."
+    },
+    {
+      "VOrder": 214,
+      "Position": "Left",
+      "Text": "اوصاف تو فوق حد تکمیل",
+      "CoupletIndex": 106,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 215,
+      "Position": "Right",
+      "Text": "مشکات مقام جمع و اجمال",
+      "CoupletIndex": 107,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: مقصد و هدف در مکان‌های جمع و اختصار، مانند مشکات است، در حالی که در مکان‌های تفصیل و جزئیات، مانند آینه، مقام مشخص‌تری وجود دارد."
+    },
+    {
+      "VOrder": 216,
+      "Position": "Left",
+      "Text": "مرآت مقام فرق و تفصیل",
+      "CoupletIndex": 107,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 217,
+      "Position": "Right",
+      "Text": "مدح تو و من؟ خیال باطل",
+      "CoupletIndex": 108,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ستایش تو و من؟ چیزی بی‌اساس است. توصیف ما؟ فقط هدر دادن وقت است."
+    },
+    {
+      "VOrder": 218,
+      "Position": "Left",
+      "Text": "وصف تو و من؟ نتیجه تعطیل",
+      "CoupletIndex": 108,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 219,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 109,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: به تو ای لولاک، که مقام و منزلتت از سوی خداوند پاک اعلام شده، بدان که ای کاش هیچ چیز دیگری جز تو آفریده نمی‌شد."
+    },
+    {
+      "VOrder": 220,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 109,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 221,
+      "Position": "Right",
+      "Text": "ای اصل اصیل و فرع ممدود",
+      "CoupletIndex": 110,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ای وجود بزرگوار و با اصل و نسب، تو همانند درختی هستی که علم و بخشندگی را در خود جمع کرده‌ای."
+    },
+    {
+      "VOrder": 222,
+      "Position": "Left",
+      "Text": "وی جامع علم و دوحۀ جود",
+      "CoupletIndex": 110,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 223,
+      "Position": "Right",
+      "Text": "ای عین عیان و قلب عرفان",
+      "CoupletIndex": 111,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ای نمایشگر روشن و واضح حقیقت، و ای قلب آگاهی و شناخت. تو گنجینه‌ای پنهان و راز محبوب هستی."
+    },
+    {
+      "VOrder": 224,
+      "Position": "Left",
+      "Text": "وی گنج نهان و سر معبود",
+      "CoupletIndex": 111,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 225,
+      "Position": "Right",
+      "Text": "ای شمع جمال و نور مطلق",
+      "CoupletIndex": 112,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ای روشنی‌بخش و مظهر کامل زیبایی، تو شاهدی بر مجالس پنهان و نهان."
+    },
+    {
+      "VOrder": 226,
+      "Position": "Left",
+      "Text": "وی شاهد بزم غیب مشهود",
+      "CoupletIndex": 112,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 227,
+      "Position": "Right",
+      "Text": "این نشئه نه جای جلوهٔ توست",
+      "CoupletIndex": 113,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: این حالت نشئه و سرمستی، محل نمایش و درخشش تو نیست، بلکه مربوط به زمان ملاقات و مشاهده حقیقت و روز انتظار است."
+    },
+    {
+      "VOrder": 228,
+      "Position": "Left",
+      "Text": "میعاد، شهود و یوم موعود",
+      "CoupletIndex": 113,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 229,
+      "Position": "Right",
+      "Text": "فرش ره تسیت عرش اعظم",
+      "CoupletIndex": 114,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: فرش راه تو، جایگاه بالاترین عرش است و تو مقام محمود را دارا هستی."
+    },
+    {
+      "VOrder": 230,
+      "Position": "Left",
+      "Text": "عرش تو بود مقام محمود",
+      "CoupletIndex": 114,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 231,
+      "Position": "Right",
+      "Text": "یا شافی صدر کل مصدور",
+      "CoupletIndex": 115,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ای پروردگار، تو تنها درمان‌دهنده‌ی دل‌های پریشان هستی و از بهترین منبع‌ها و سرچشمه‌ها به ما می‌رسید."
+    },
+    {
+      "VOrder": 232,
+      "Position": "Left",
+      "Text": "من أعذب منهل و مورود",
+      "CoupletIndex": 115,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 233,
+      "Position": "Right",
+      "Text": "از چشمهٔ فیض توست سیراب",
+      "CoupletIndex": 116,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: هر موجودی در دنیا از نعمت و برکت تو سیراب و بهره‌مند است."
+    },
+    {
+      "VOrder": 234,
+      "Position": "Left",
+      "Text": "در دار وجود هرچه موجود",
+      "CoupletIndex": 116,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 235,
+      "Position": "Right",
+      "Text": "مدح تو نه حد ممکنات است",
+      "CoupletIndex": 117,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: ستودن تو فراتر از تمام امکانات است و نمی‌توان آن را در چیزهای محدود گنجاند."
+    },
+    {
+      "VOrder": 236,
+      "Position": "Left",
+      "Text": "بی حد نشود محاط محدود",
+      "CoupletIndex": 117,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 237,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 118,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: ای خداوند بلندمرتبه، به خاطر مقام والای توست که چنین جهانی را آفریدی."
+    },
+    {
+      "VOrder": 238,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 118,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 239,
+      "Position": "Right",
+      "Text": "ای فیض مقدس از شوائب",
+      "CoupletIndex": 119,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: ای فیض مقدس، تو از آلودگی‌ها پاکی و نوری خوش‌نما از تاریکی‌ها به وجود می‌آوری."
+    },
+    {
+      "VOrder": 240,
+      "Position": "Left",
+      "Text": "وی نور مهذب از غیاهب",
+      "CoupletIndex": 119,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 241,
+      "Position": "Right",
+      "Text": "ارواح ز فیض تو در أشباح",
+      "CoupletIndex": 120,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به ظهور و شکوه الهی اشاره می‌شود که روح‌ها از نعمت و فیض او در قالب و ظاهری تجلی یافته‌اند. به نوعی، این بیان نشان‌دهنده هدایت و برکت‌های الهی است که به مخلوقات بخشیده شده است."
+    },
+    {
+      "VOrder": 242,
+      "Position": "Left",
+      "Text": "ای مظهر واهب المواهب",
+      "CoupletIndex": 120,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 243,
+      "Position": "Right",
+      "Text": "آفاق به نور تو منور",
+      "CoupletIndex": 121,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: ای خورشید شرق و غرب، افق‌ها به روشنی تو روشن شده‌اند."
+    },
+    {
+      "VOrder": 244,
+      "Position": "Left",
+      "Text": "ای شمس مشارق و مغارب",
+      "CoupletIndex": 121,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 245,
+      "Position": "Right",
+      "Text": "ایجاد تو منتهی المقاصد",
+      "CoupletIndex": 122,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: آفرینش تو به اوج همه هدف‌ها و خواسته‌ها می‌رسد."
+    },
+    {
+      "VOrder": 246,
+      "Position": "Left",
+      "Text": "إبداع تو غابه المطالب",
+      "CoupletIndex": 122,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 247,
+      "Position": "Right",
+      "Text": "جل الملک البدیع صنعه",
+      "CoupletIndex": 123,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: بهشت زیباست و خالق آن کارهای شگفت‌انگیزی در آن انجام داده است!"
+    },
+    {
+      "VOrder": 248,
+      "Position": "Left",
+      "Text": "ما ادوع فیک من عجائب!",
+      "CoupletIndex": 123,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 249,
+      "Position": "Right",
+      "Text": "یا من بفنائه الرواحل",
+      "CoupletIndex": 124,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، یا در کنار من قرار گرفته‌اید و یا این که اسب‌هایتان در اینجا آرام گرفته‌اند و توقف کرده‌اند."
+    },
+    {
+      "VOrder": 250,
+      "Position": "Left",
+      "Text": "حلت و انیخت الرکائب",
+      "CoupletIndex": 124,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 251,
+      "Position": "Right",
+      "Text": "خرگاه تو مطرح الامانی",
+      "CoupletIndex": 125,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: محل زندگی تو، جایی است که آرزوها مطرح می‌شوند و دروازه‌ات، پناهگاه خواسته‌ها و آرزوهاست."
+    },
+    {
+      "VOrder": 252,
+      "Position": "Left",
+      "Text": "درگاه تو معقل الرغائب",
+      "CoupletIndex": 125,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 253,
+      "Position": "Right",
+      "Text": "با شأن تو چیست این مدایح؟",
+      "CoupletIndex": 126,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: این مدح‌ها و ستایش‌ها با مقام و جایگاه تو چه ارتباطی دارد؟ این افتخارات و خصوصیات تو چه ارزشی در برابر شأن تو دارند؟"
+    },
+    {
+      "VOrder": 254,
+      "Position": "Left",
+      "Text": "با قدر تو چیست این مناقب؟",
+      "CoupletIndex": 126,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 255,
+      "Position": "CenteredVerse1",
+      "Text": "فرموده به شأنت ایزد پاک",
+      "CoupletIndex": 127,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: خداوند پاک به تو ای لولاک، روح و مقام بلندی عطا کرده است، زیرا که به خاطر تو آسمان‌ها و جهان را خلق کرده است."
+    },
+    {
+      "VOrder": 256,
+      "Position": "CenteredVerse2",
+      "Text": "لولاک لما خلقت الافلاک",
+      "CoupletIndex": 127,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    }
+  ]
+}

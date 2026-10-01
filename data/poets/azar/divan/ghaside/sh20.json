@@ -1,0 +1,2160 @@
+{
+  "Id": 118642,
+  "CatId": 2740,
+  "Title": "شمارهٔ ۲۰ - وله قصیده",
+  "FullTitle": "آذر بیگدلی » دیوان اشعار » قصاید » شمارهٔ ۲۰ - وله قصیده",
+  "FullUrl": "/azar/divan/ghaside/sh20",
+  "RhymeLetters": "چکنم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به بررسی وضعیت نابسامان جامعه و انسان‌ها می‌پردازد. شاعر از بی‌وفایی انسان‌ها، خیانت‌ها و ظلم‌هایی که در روابط بشری وجود دارد، سخن می‌گوید. او به تضاد میان نیکی و بدی اشاره می‌کند و از ناکامی‌ها و ناامیدی‌هایی که انسان‌ها با آن مواجهند، می‌نالد. همچنین به تحلیل وضعیت وطن و غم غربت می‌پردازد و دغدغه‌های خود را نسبت به حال و آینده بشریت بیان می‌کند. شاعر احساس تنهایی و بی‌کسی می‌کند و از ناتوانی در تغییر شرایط شکایت دارد. در نهایت، او بر این نکته تأکید دارد که همه‌ی انسان‌ها در برابر یکدیگر احساس مسئولیت دارند، اما درواقع بسیاری از آنان به این وظیفه عمل نمی‌کنند و به منافع فردی خود می‌پردازند.",
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "چکنم",
+      "PlainText": "خوانده بر خوان فلکم هان چکنم\r\nخون دل مایده ی خوان چکنم\r\nمیزبان را همه ابنای زمان\r\nبیکی خوان شده مهمان چکنم\r\nگشته هم کاسه سیه کاسه ی چند\r\nدست در کاسه ی ایشان چکنم\r\nبا چنین خلق که هم خورده نمک\r\nهم شکستند نمکدان چکنم\r\nهم نمک ریخته از بی نمکی\r\nهم طلب داشته تاوان چکنم\r\nنوع خود را همه ی جانوران\r\nهم نشینند جز انسان چکنم\r\nمن که انسان شمرندم ز ایشان\r\nبایدم بود گریزان چکنم\r\nزآنکه این نوع کش انسان خوانند\r\nشده بازیچه ی شیطان چکنم\r\nجستجو ناشده حال همه کس\r\nآشکارا شده پنهان چکنم\r\nحال دونان ز بیان مستغنی است\r\nگشته اشراف چو دونان چکنم\r\nعیب پنهانی ارذال جهان\r\nچون عیان گشت در اعیان چکنم\r\nآهن تفته ز آتش بتر است\r\nبدتر از بد شده نیکان چکنم\r\nسالها شد که برون می ناید\r\nدر ز بحر و گهر از کان چکنم\r\nرنگ از رنگرز مهر ندید\r\nجامه ی لعل بدخشان چکنم\r\nز ابر نیسان دم آبی نچشید\r\nصدف گوهر رخشان چکنم\r\nمی و آب و زر و خاک و گل و خار\r\nشده با هم همه یکسان چکنم\r\nگشته یکرنگ همه خلق جهان\r\nشکوه از این گله از آن چکنم\r\nرفته رفته شده ناکس همه کس\r\nگفتگو با همه نتوان چکنم\r\nمال را به ز جمال و ز کمال\r\nمیشمارند حریفان چکنم\r\nدیده از حسن و دل از عشق نفور\r\nبا چنین مردم نادان چکنم\r\nهر که زر در کف قبطی بیند\r\nگویدش  موسی عمران چکنم\r\nپیرهن پوش چو گرگی نگرد\r\nخواندش یوسف کنعان چکنم\r\nسور در سایه ی ماتم بگریخت\r\nسود شد مایه ی نقصان چکنم\r\nگرد ماتمکده ی خاک نشست\r\nبسیه جامه ی کیوان چکنم\r\nخرقه در نیل فرو برد از گرد\r\nنیلگون قبه ی گردان چکنم\r\nاز میان برده فلک مشعل مهر\r\nتار شد طاق نه ایوان چکنم\r\nنشد از شمع کواکب روشن\r\nیک شب این تیره شبستان چکنم\r\nخانه را کش نفروزند چراغ\r\nنقش خورشید بر ایوان چکنم\r\nنامه را کش ننویسند ز مهر\r\nمهر جمشید بعنوان چکنم\r\nدور جمشید به ضحاک رسید\r\nشد جم اضحوکه ی دوران چکنم\r\nدوش ضحاک فلک را ماران\r\nشد چو تنین شرر افشان چکنم\r\nزهر این مار برآورد دمار\r\nاز بد و نیک جهان هان چکنم\r\nجانگزا زهر جهان سوز مدام\r\nریختش از بن دندان چکنم\r\nبس سر جانور از مغز تهی\r\nشد نشد چاره ی ثعبان چکنم\r\nعنقریب است کزین سم نقیع\r\nیکتن انسان نبرد جان چکنم\r\nعالم از انس تهی گشت و در آن\r\nانس دارند بنی جان چکنم\r\nدهر ویران و در آن ویرانه\r\nدیو رونق ده دیوان چکنم\r\nتیغها آخته دیوان بر هم\r\nبر سر تخت سلیمان چکنم\r\nناامید آل پیمبر ز جهان\r\nکامرانف دوده ی مروان چکنم\r\nگشته هر پیرزنی تیر زنی\r\nچرخش از ناله رجز خوان چکنم\r\nگوی زن گشته و فرموکش گوی\r\nقامت خم شده چوگان چکنم\r\nچرخ را کرده کمان دوکش تیر\r\nسوزنش آمده پیکان چکنم\r\nمعجزش مغفر و آن جامه که دوخت\r\nبهر خفتن شده خفتان چکنم\r\nهر عجوزه زده از معجزه دم\r\nهر سلیطه شده سلطان چکنم\r\nگشته هر ماری و هر موری میر\r\nخاین خانه ی اخوان چکنم\r\nکاه و بیجاده بیک نرخ خرند\r\nفلک آویخته میزان چکنم\r\nچون زحل آنکه بکین شد مایل\r\nبرتری یافت ز اقران چکنم\r\nآنکه چون پیر زنان ساخت بچرخ\r\nداده چرخش سرو سامان چکنم\r\nو آن لییمان که چو مورند ضعیف\r\nدیو را گفته سلیمان چکنم\r\nکوفت کاووس چو کوس اقبال\r\nسر برآورد بطغیان چکنم\r\nناکسان از طمع جیفه ی او\r\nشهره اش کرده به احسان چکنم\r\nاز دو مردار که از تخت آویخت\r\nکرکسش برد بکیوان چکنم\r\nقصه ی عالم ویران گفتم\r\nشرح ویرانی ایران چکنم\r\nجای غولان شده آن دشت که بود\r\nپیش ازین بیشه ی شیران چکنم\r\nشد ببین جای کیان جای کیان\r\nهان بناسازی گیهان چکنم\r\nزابل از زابلیان مانده تهی\r\nگشته با مزبله یکسان چکنم\r\nهر طرف مینگرم ضحاکی\r\nمهد گسترده در ایوان چکنم\r\nبسته پیرامن او دونی چند\r\nصف پی بردن فرمان چکنم\r\nهر چه گوید همه گر هذیان است\r\nکرده بر صدق وی اذعان چکنم\r\nظلمت ظلم سیه کرده جهان\r\nروز و شب ساخته یکسان چکنم\r\nنام تاراج نهادند خراج\r\nگشته ویران دهی ایران چکنم\r\nباز این خارجیان گر ننهند\r\nبی خراج این ده ویران چکنم\r\nهر چه را غیر شمارد دشوار\r\nغیرتم گیردش آسان چکنم\r\nهر چه را خلق گران انگارند\r\nخردش همتم ارزان چکنم\r\nای ضعیفان ز تکاهل بردید\r\nهمه سرها بگریبان چکنم\r\nچاره ی ظلم بود آسان ولیک\r\nضعفتان کرده هراسان چکنم\r\nغیرت ای فوج ابابیل که شد\r\nکعبه از ابرهه ویران چکنم\r\nآذر این سرسبکان را از ضعف\r\nگوش سنگین بود افغان چکنم\r\nآهن سرد چه کوبم نرسد\r\nپتک یک مرد بسندان چکنم\r\nکاوه کز نطع برافراشت درفش\r\nبسته دارد در دکان چکنم\r\nگاو کو دایه ی افریدون بود\r\nناورد شیر به پستان چکنم\r\nخارزاری است عراق از ایران\r\nپیش اگر بود گلستان چکنم\r\nدر عراق از روش اهل نفاق\r\nتل خاکی است صفاهان چکنم\r\nرایت کاوگیان گشت نگون\r\nپیش اگر سود بکیوان چکنم\r\nساحت گلشن فردوس شده است\r\nمنبت خار مغیلان چکنم\r\nبلبلش مرده گلش پژمرده\r\nسنبلش طره پریشان چکنم\r\nزنده رودش که نم از کوثر داشت\r\nبا حمیم آمده یکسان چکنم\r\nباغها گشته نمودار جحیم\r\nقصرها گشته بیابان چکنم\r\nروزها شد که ندید آنجا کس\r\nصبح را با لب خندان چکنم\r\nرفت شبها که کس آنجا نشنید\r\nنغمه ی مرغ سحر خوان چکنم\r\nپاسبان گشته در آن کشور دزد\r\nگرگ آنجا شده چوپان چکنم\r\nهر طرف بال فشان خفاشی\r\nآفتابش شده پنهان چکنم\r\nمردمش چون گله ی گرگ زده\r\nهر طرف گشته گریزان چکنم\r\nشده روی همه بی رنگ دریغ\r\nشده جسم همه بیجان چکنم\r\nهیچ یک را نبود میل وطن\r\nدر غریبی همه حیران چکنم\r\nخاصه من کز همه آزرده ترم\r\nنکنم گر ز غم افغان چکنم\r\nآورم یاد چو از خود بهمه\r\nنکشم گر خط نسیان چکنم\r\nگشته گیتی بخلاف املم\r\nز اولین روز الی الآن چکنم\r\nکان ما کان اگر از کین گردد\r\nپس از این نیز کماکان چکنم\r\nچاره ی غصه بود صبر ولی\r\nصبر کم غصه فراوان چکنم\r\nهم فرو دوخت زمانه دستم\r\nبزه چاک گریبان چکنم\r\nهم برون ریخت ز تنگی صدفم\r\nسی و دو گوهر غلطان چکنم\r\nاز ندامت اگر اکنون خواهم\r\nگیرم انگشت بدندان چکنم\r\nتاجرم لیک متاعی که مراست\r\nبودش روی بنقصان چکنم\r\nطمع محتسبم نیز نداد\r\nرخصت بستن دکان چکنم\r\nمن تنک مایه و کالا کاسد\r\nنفروشم اگر ارزان چکنم\r\nبیژنم در چه توران و ز من\r\nبیخبر خسرو ایران چکنم\r\nزال چرخم چو منیژه ندهد\r\nجرعه ی آب و لب نان چکنم\r\nور دهد هم چو نگیرد دستم\r\nخاتم رستم دستان چکنم\r\nبر من ابنای زمان در رشکند\r\nیوسفم لیک به اخوان چکنم\r\nدر شکست دل من پنداری\r\nبسته با هم همه پیمان چکنم\r\nزال گیتی چو زلیخای من است\r\nدعوی پاکی دامان چکنم\r\nدامن از لوث گناهم پاک است\r\nتهمتم برده بزندان چکنم\r\nخاک غربت شده دامنگیرم\r\nمصر دور است ز کنعان چکنم\r\nگرچه در مصر غریبی دارم\r\nعزت از لطف عزیزان چکنم\r\nنیست فیض وطن اندر غربت\r\nدر قفس ذوق گلستان چکنم\r\nحاش لله همه جا ملک خداست\r\nاز خیال وطن افغان چکنم\r\nهمچو خاقانی اگر تیره بود\r\nکوکبم شکوه ز خاقان چکنم\r\nگیله کافتاده صفاهان ز صفا\r\nیا همه شر شده شروان چکنم\r\nحاش لله همه کس بنده ی اوست\r\nبنده ام شکوه ز سلطان چکنم\r\nهمه را گوش بفرمان وی است\r\nچاره جز بردن فرمان چکنم\r\nقسمتم برد بمیخانه و زد\r\nزاهدم طعنه ی خذلان چکنم\r\nروزی خود بجهان خورد آدم\r\nنامزد گشت بعصیان چکنم\r\nنه غلط وسوسه ی شیطانی\r\nبردش از روضه ی رضوان چکنم\r\nبمن دلشده هم کآدمیم\r\nسلطنت یافته شیطان چکنم\r\nاختر دل سیهم نور نداد\r\nنشد این گبر مسلمان چکنم\r\nسر طاعت چو بخاکم نرسید\r\nچون عجایز مژه گریان چکنم\r\nبیعمل گرچه ندارد سودی\r\nتخم ناکاشته باران چکنم\r\nدیر شد وعده بمنحر چه روم\r\nپیر شد اضحیه قربان چکنم\r\nگاه پیری ز جوانیم چه حظ\r\nدر خزان عیش بهاران چکنم\r\nگل جانپرور فروردینی\r\nنتوان چید در آبان چکنم\r\nچون سکندر اگر از آب حیوة\r\nبی نصیبم مژه گریان چکنم\r\nقسمت این بود که تنها خورد آب\r\nخضر از چشمه ی حیوان چکنم\r\nقسمت رزق چو شد روز ازل\r\nطلب بیش و کم آن چکنم\r\nتوشه با خست منعم چه برم\r\nخوشه با منت دهقان چکنم\r\nگوهر از آز بمخزن چه کشم\r\nدانه از حرص در انبان چکنم\r\nهدیه از کیسه ی مفلس چه خورم\r\nگدیه از کاسه ی سلطان چکنم\r\nچون عسس حلقه بهر در چه زنم\r\nچون مگس سجده بهر خوان چکنم\r\nشب بشب روز بروزم ز فلک\r\nمی رسد مایده کفران چکنم\r\nمن که با خون جگر ساخته ام\r\nهوس نعمت الوان چکنم\r\nجستن چاره ز بیچاره خطاست\r\nاز گدایان طمع نام چکنم\r\nمن که آسودگی جان طلبم\r\nطلب خدمت سلطان چکنم\r\nگر سنمار شدستم باشد\r\nزهر در نعم نعمان چکنم\r\nتن برهنه شکمم گرسنه به\r\nکه برم منت دونان چکنم\r\nلیک بینم اگر آزرده دلی\r\nگرسنه مانده و عریان چکنم\r\nکرد با جود جبلی فقرم\r\nدست چون کوته از احسان چکنم\r\nچه غم از دست تهی لیک ببخل\r\nزندم خصم چو بهتان چکنم\r\nآگه از راز سپهرم از جهل\r\nداندم خصم چو نادان چکنم\r\nگویم اسرار جهان لیک چه سود\r\nدهدم نسبت هذیان چکنم\r\nسخن من که رسیده است بعرش\r\nنرسد چون بسخندان چکنم\r\nنیست مداح کم از خاقانی\r\nنیست ممدوح چو خاقان چکنم\r\nنگنم گر پی آسایش دل\r\nبلبل طبع غزلخوان چکنم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوانده بر خوان فلکم، هان چکنم؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخون دل، مایده ی خوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیزبان را، همه ابنای زمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیکی خوان شده مهمان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشته هم کاسه، سیه کاسه ی چند؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست در کاسه ی ایشان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا چنین خلق، که هم خورده نمک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم شکستند نمکدان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم نمک ریخته از بی نمکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم طلب داشته تاوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوع خود را همه ی جانوران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم نشینند جز انسان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن که انسان شمرندم، ز ایشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبایدم بود گریزان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآنکه این نوع، کش انسان خوانند؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشده بازیچه ی شیطان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجستجو ناشده، حال همه کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآشکارا شده پنهان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحال دونان، ز بیان مستغنی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشته اشراف چو دونان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعیب پنهانی ارذال جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون عیان گشت، در اعیان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآهن تفته، ز آتش بتر است؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدتر از بد شده نیکان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسالها شد که برون می ناید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ز بحر و، گهر از کان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرنگ از رنگرز مهر ندید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجامه ی لعل بدخشان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز ابر نیسان، دم آبی نچشید؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصدف گوهر رخشان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی و آب و زر و خاک و، گل و خار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشده با هم همه یکسان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشته یکرنگ همه خلق جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکوه از این، گله از آن چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفته رفته شده ناکس، همه کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتگو با همه نتوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمال را، به ز جمال و ز کمال؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیشمارند حریفان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیده از حسن و، دل از عشق نفور؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا چنین مردم نادان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که زر در کف قبطی بیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویدش : موسی عمران چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیرهن پوش، چو گرگی نگرد؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواندش یوسف کنعان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسور، در سایه ی ماتم بگریخت؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسود شد مایه ی نقصان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرد ماتمکده ی خاک نشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسیه جامه ی کیوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرقه در نیل فرو برد از گرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیلگون قبه ی گردان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز میان برده فلک مشعل مهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتار شد، طاق نه ایوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشد از شمع کواکب روشن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک شب این تیره شبستان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانه را، کش نفروزند چراغ؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقش خورشید بر ایوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنامه را، کش ننویسند ز مهر؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهر جمشید بعنوان، چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدور جمشید، به ضحاک رسید؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد جم اضحوکه ی دوران چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوش ضحاک فلک را ماران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد چو تنین شرر افشان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزهر این مار، برآورد دمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بد و نیک جهان، هان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانگزا زهر جهان سوز مدام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eریختش از بن دندان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس سر جانور از مغز تهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد، نشد چاره ی ثعبان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعنقریب است، کزین سم نقیع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکتن انسان نبرد جان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم از انس تهی گشت و، در آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eانس دارند بنی جان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدهر ویران و، در آن ویرانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیو رونق ده دیوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیغها آخته دیوان بر هم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر تخت سلیمان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناامید آل پیمبر ز جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامرانف دوده ی مروان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشته هر پیرزنی، تیر زنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرخش، از ناله، رجز خوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوی زن گشته و فرموکش گوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقامت خم شده چوگان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرخ را کرده کمان، دوکش تیر؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوزنش آمده پیکان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعجزش مغفر و آن جامه که دوخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر خفتن، شده خفتان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر عجوزه، زده از معجزه دم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر سلیطه، شده سلطان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشته هر ماری و هر موری میر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاین خانه ی اخوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاه و بیجاده، بیک نرخ خرند؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفلک آویخته میزان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون زحل، آنکه بکین شد مایل؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرتری یافت ز اقران چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه چون پیر زنان ساخت بچرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداده چرخش سرو سامان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو آن لئیمان که چو مورند ضعیف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیو را گفته سلیمان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوفت کاووس چو کوس اقبال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر برآورد بطغیان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناکسان از طمع جیفه ی او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشهره اش کرده به احسان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دو مردار، که از تخت آویخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرکسش برد بکیوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقصه ی عالم ویران گفتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرح ویرانی ایران چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجای غولان شده آن دشت که بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش ازین بیشه ی شیران چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد ببین جای کیان، جای کیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهان بناسازی گیهان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزابل، از زابلیان مانده تهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشته با مزبله یکسان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر طرف مینگرم، ضحاکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهد گسترده در ایوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسته پیرامن او، دونی چند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصف، پی بردن فرمان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چه گوید، همه گر هذیان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرده بر صدق وی اذعان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eظلمت ظلم، سیه کرده جهان؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز و شب ساخته یکسان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn61\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنام تاراج، نهادند خراج؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشته ویران دهی ایران چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn62\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز این خارجیان گر ننهند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی خراج این ده ویران چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn63\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چه را، غیر شمارد دشوار؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغیرتم گیردش آسان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn64\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چه را، خلق گران انگارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخردش همتم ارزان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn65\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ضعیفان، ز تکاهل بردید؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه سرها بگریبان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn66\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچاره ی ظلم، بود آسان، ولیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eضعفتان کرده هراسان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn67\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیرت، ای فوج ابابیل، که شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکعبه از ابرهه ویران چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn68\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآذر، این سرسبکان را از ضعف؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوش سنگین بود، افغان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn69\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآهن سرد چه کوبم؟! نرسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپتک یک مرد بسندان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn70\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاوه، کز نطع برافراشت درفش؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسته دارد در دکان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn71\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاو، کو دایه ی افریدون بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناورد شیر به پستان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn72\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخارزاری است عراق از ایران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش اگر بود گلستان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn73\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عراق، از روش اهل نفاق؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتل خاکی است صفاهان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn74\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرایت کاوگیان گشت نگون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش اگر سود بکیوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn75\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساحت گلشن فردوس شده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنبت خار مغیلان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn76\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلبلش مرده، گلش پژمرده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسنبلش طره پریشان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn77\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنده رودش، که نم از کوثر داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا حمیم آمده یکسان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn78\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباغها گشته نمودار جحیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقصرها گشته بیابان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn79\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزها شد که ندید آنجا کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبح را با لب خندان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn80\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفت شبها که کس آنجا نشنید؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنغمه ی مرغ سحر خوان، چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn81\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپاسبان گشته در آن کشور دزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرگ آنجا شده چوپان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn82\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر طرف بال فشان خفاشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآفتابش شده پنهان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn83\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردمش، چون گله ی گرگ زده؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر طرف گشته گریزان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn84\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشده روی همه بی رنگ، دریغ؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشده جسم همه بیجان، چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn85\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهیچ یک را نبود میل وطن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر غریبی همه حیران چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn86\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاصه من، کز همه آزرده ترم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنکنم گر ز غم افغان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn87\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآورم یاد چو از خود، بهمه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنکشم گر خط نسیان؛ چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn88\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشته گیتی بخلاف املم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اولین روز الی الآن چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn89\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکان ما کان، اگر از کین گردد؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس از این نیز کماکان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn90\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچاره ی غصه، بود صبر؛ ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبر کم، غصه فراوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn91\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم فرو دوخت زمانه دستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبزه چاک گریبان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn92\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم برون ریخت ز تنگی صدفم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسی و دو گوهر غلطان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn93\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ندامت، اگر اکنون خواهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگیرم انگشت بدندان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn94\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاجرم، لیک متاعی که مراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبودش روی بنقصان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn95\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطمع محتسبم، نیز نداد؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرخصت بستن دکان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn96\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن، تنک مایه و، کالا کاسد؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنفروشم اگر ارزان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn97\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیژنم در چه توران و، ز من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیخبر خسرو ایران، چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn98\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزال چرخم، چو منیژه ندهد،\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجرعه ی آب و لب نان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn99\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور دهد، هم، چو نگیرد دستم؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاتم رستم دستان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn100\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر من، ابنای زمان در رشکند؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیوسفم، لیک به اخوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn101\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر شکست دل من پنداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسته با هم همه پیمان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn102\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزال گیتی، چو زلیخای من است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدعوی پاکی دامان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn103\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدامن، از لوث گناهم پاک است؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتهمتم برده بزندان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn104\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاک غربت، شده دامنگیرم؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمصر دور است ز کنعان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn105\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه، در مصر غریبی دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعزت از لطف عزیزان، چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn106\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست فیض وطن اندر غربت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر قفس ذوق گلستان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn107\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاش لله، همه جا ملک خداست؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خیال وطن، افغان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn108\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچو خاقانی اگر تیره بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوکبم، شکوه ز خاقان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn109\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیله، کافتاده صفاهان ز صفا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا همه شر شده شروان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn110\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاش لله، همه کس بنده ی اوست؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنده ام، شکوه ز سلطان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn111\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه را، گوش بفرمان وی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچاره جز بردن فرمان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn112\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقسمتم برد بمیخانه و زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزاهدم طعنه ی خذلان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn113\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزی خود، بجهان خورد آدم؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامزد گشت بعصیان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn114\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه غلط، وسوسه ی شیطانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبردش از روضه ی رضوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn115\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبمن دلشده، هم کآدمیم؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسلطنت یافته شیطان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn116\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاختر دل سیهم، نور نداد؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشد این گبر مسلمان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn117\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر طاعت، چو بخاکم نرسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون عجایز، مژه گریان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn118\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیعمل، گرچه ندارد سودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتخم ناکاشته، باران چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn119\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیر شد، وعده بمنحر چه روم؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیر شد اضحیه، قربان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn120\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه پیری، ز جوانیم چه حظ؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خزان عیش بهاران چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn121\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل جانپرور فروردینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتوان چید در آبان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn122\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سکندر، اگر از آب حیوة\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی نصیبم؛ مژه گریان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn123\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقسمت این بود، که تنها خورد آب؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخضر از چشمه ی حیوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn124\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقسمت رزق چو شد روز ازل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطلب بیش و کم آن چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn125\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتوشه با خست منعم چه برم؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوشه با منت دهقان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn126\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوهر از آز بمخزن چه کشم؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانه از حرص، در انبان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn127\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهدیه، از کیسه ی مفلس، چه خورم؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگدیه، از کاسه ی سلطان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn128\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون عسس، حلقه بهر در چه زنم؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون مگس سجده بهر خوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn129\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب بشب، روز بروزم ز فلک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی رسد مایده، کفران چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn130\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن که، با خون جگر ساخته ام؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهوس نعمت الوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn131\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجستن چاره، ز بیچاره خطاست؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز گدایان طمع نام چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn132\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن که آسودگی جان طلبم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطلب خدمت سلطان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn133\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر سنمار شدستم، باشد؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهر در نعم نعمان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn134\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن برهنه، شکمم گرسنه به؛\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه برم منت دونان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn135\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک بینم اگر آزرده دلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرسنه مانده و عریان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn136\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرد، با جود جبلی، فقرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست چون کوته از احسان، چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn137\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه غم از دست تهی، لیک ببخل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزندم خصم چو بهتان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn138\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآگه از راز سپهرم، از جهل،\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداندم خصم چو نادان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn139\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویم اسرار جهان، لیک چه سود؟!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدهدم نسبت هذیان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn140\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخن من که رسیده است بعرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنرسد چون بسخندان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn141\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست مداح کم از خاقانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست ممدوح چو خاقان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn142\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگنم گر پی آسایش دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلبل طبع غزلخوان چکنم؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 142
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوانده بر خوان فلکم، هان چکنم؟!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر سر سفرهٔ سرنوشت نشسته‌ام، چه کنم؟! باید با درد و رنجی که به دل دارم، سفره را زیبا کنم؟!"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خون دل، مایده ی خوان چکنم؟!",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "میزبان را، همه ابنای زمان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مهمان‌ها از همه جا در این دنیا به خودی خود به میزبانی دعوت شده‌اند، پس من چگونه می‌توانم تنها یک نفر را مهمان کنم؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بیکی خوان شده مهمان چکنم؟!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گشته هم کاسه، سیه کاسه ی چند؛",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چندماهی در کنار هم زندگی کرده‌ایم و در این مدت احساس می‌کنم که همه ما در وضعیت نگران‌کننده‌ای قرار داریم. حالا می‌پرسم که آیا باید به دست در کارهای آن‌ها بزنم و دخل و تصرف کنم؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دست در کاسه ی ایشان چکنم؟!",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "با چنین خلق، که هم خورده نمک",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با این شخصیت‌هایی که نه تنها به من نیکی نکردند، بلکه به من آسیب هم زدند، چه کاری از من ساخته است؟"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هم شکستند نمکدان چکنم؟!",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هم نمک ریخته از بی نمکی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چطور می‌توانم جبران کنم که از کسی که خود نمک را در زندگی‌ام ریخته، انتظار داشته باشد که با بی‌نمکی‌اش، از من طلب طلب کند؟!"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هم طلب داشته تاوان چکنم؟!",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "نوع خود را همه ی جانوران",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه موجودات زنده با هم‌نوعان خودشان دوست و هم‌نشین هستند، اما من چه کنم که انسان‌ها با یکدیگر ارتباط خوبی ندارند؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هم نشینند جز انسان چکنم؟!",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "من که انسان شمرندم، ز ایشان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من که خودم را انسانی متمایز می‌دانم، باید از این افراد دوری کنم یا چه کار باید بکنم؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بایدم بود گریزان چکنم؟!",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "زآنکه این نوع، کش انسان خوانند؛",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون این نوع انسان را بازیچه شیطان می‌دانند، من چه می‌توانم بکنم؟"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "شده بازیچه ی شیطان چکنم؟!",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "جستجو ناشده، حال همه کس",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جستجوی چیزی که پیدا نشده است، حال و وضعیت همه افراد به وضوح مشخص شده است. حالا من باید چه کار کنم که این مسأله را پنهان نگه‌دارم؟"
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "آشکارا شده پنهان چکنم؟!",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "حال دونان، ز بیان مستغنی است",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حال و روز پست‌زنان به قدری مشخص و روشن است که نیازی به توضیح ندارد. حالا که اشراف و بزرگان هم به زندگی پست‌زنان افتاده‌اند، من چه باید بکنم؟"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "گشته اشراف چو دونان چکنم؟!",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "عیب پنهانی ارذال جهان",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر عیب‌های پنهان افراد پست دنیا آشکار شود، من چه باید بگویم و چه عملکردی داشته باشم؟"
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "چون عیان گشت، در اعیان چکنم؟!",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "آهن تفته، ز آتش بتر است؛",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آهن داغ از آتش هم خطرناک‌تر است؛ چطور می‌توانم با کسانی که از بد هم بدتر شده‌اند، برخورد کنم؟"
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "بدتر از بد شده نیکان چکنم؟!",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "سالها شد که برون می ناید",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سال‌هاست که او از دریا بیرون می‌آید و گوهر از معدن می‌جوید، من چه کنم؟!"
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "در ز بحر و، گهر از کان چکنم؟!",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "رنگ از رنگرز مهر ندید",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رنگ از رنگرز محبت نمی‌گیرد، حالا چطور باید پارچه‌ی قرمز بدخشان را تهیه کنم؟!"
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "جامه ی لعل بدخشان چکنم؟!",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "ز ابر نیسان، دم آبی نچشید؛",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از باران بهاری، آبی به دست نیاوردم؛ حالا چطور می‌توانم مروارید درخشان بیافریدم؟"
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "صدف گوهر رخشان چکنم؟!",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "می و آب و زر و خاک و، گل و خار",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می و آب و طلا و خاک، گل و خار همه با هم یکی شده‌اند، چه کار باید بکنم؟!"
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "شده با هم همه یکسان چکنم؟!",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "گشته یکرنگ همه خلق جهان",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه مردم جهان به یک رنگ درآمده‌اند و از این وضعیت ناراضی هستند. من چگونه می‌توانم از این وضعیت شکایت کنم؟"
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "شکوه از این، گله از آن چکنم؟!",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "رفته رفته شده ناکس، همه کس",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به تدریج من از ارزش و اهمیت خود افتاده‌ام، چگونه می‌توانم با همه صحبت کنم وقتی که هیچ کس به من توجه ندارد؟"
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "گفتگو با همه نتوان چکنم؟!",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "مال را، به ز جمال و ز کمال؛",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دارایی را بیشتر از زیبایی و کمال می‌سنجند؛ حالا من چه کاری می‌توانم انجام دهم؟!"
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "میشمارند حریفان چکنم؟!",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "دیده از حسن و، دل از عشق نفور؛",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چگونه می‌توانم با افرادی که فقط به زیبایی نگاه می‌کنند و از عشق بیزارند، رفتار کنم؟"
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "با چنین مردم نادان چکنم؟!",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "هر که زر در کف قبطی بیند",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که پولی را در دست یک قبطی (غیر یهودی) ببیند، به او می‌گوید: من باید چه کار کنم؟!"
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "گویدش : موسی عمران چکنم؟!",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "پیرهن پوش، چو گرگی نگرد؛",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به نوعی اشاره شده است که اگر فردی ظاهری موجه داشته باشد، باید به باطن او نیز توجه کرد. به عبارت دیگر، تنها بر اساس ظواهر نباید قضاوت کرد، زیرا ممکن است درون او چیزی کاملاً متفاوت باشد. در واقع، در این متن بیان می‌شود که صرفاً به ظاهری که شخص ارائه می‌دهد نمی‌توان اعتماد کرد و باید به ماهیت واقعی او نگاه کرد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "خواندش یوسف کنعان چکنم؟!",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "سور، در سایه ی ماتم بگریخت؛",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در سایه ی غم و سوگواری، خوشی و شادابی از بین رفت و حالا نمی‌دانم باید چه کار کنم که این بدبختی بیشتر نشود."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "سود شد مایه ی نقصان چکنم؟!",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "گرد ماتمکده ی خاک نشست",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا که پر از غم و اندوه است، چه باید کرد؟ چگونه می‌توانم لباس شادی و سروری بپوشم؟"
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "بسیه جامه ی کیوان چکنم؟!",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "خرقه در نیل فرو برد از گرد",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خرقه را در آب نیل فرو می‌برم، اما از آن گنبد آبی رنگ چه بگویم؟!"
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "نیلگون قبه ی گردان چکنم؟!",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "از میان برده فلک مشعل مهر",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که آسمان نور محبت را خاموش کرد، من چگونه می‌توانم به سراغ زیبایی‌های دنیا بروم؟"
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "تار شد، طاق نه ایوان چکنم؟!",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "نشد از شمع کواکب روشن",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این شب تاریک که به اندازه کافی روشنایی ندارد، با وجود شمع‌هایی که باید نورانی باشند، چرا نتوانستم یک شب هم از روشنایی ستاره‌ها بهره‌مند شوم؟"
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "یک شب این تیره شبستان چکنم؟!",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "خانه را، کش نفروزند چراغ؛",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در خانه چراغ روشن نشود، چگونه می‌توانم نور خورشید را بر روی ایوان بیندازم؟"
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "نقش خورشید بر ایوان چکنم؟!",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "نامه را، کش ننویسند ز مهر؛",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نامه را بدون امضا نرسانید؛ مهر جمشید به عنوان چه چیزی می‌توانم استفاده کنم؟!"
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "مهر جمشید بعنوان، چکنم؟!",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "دور جمشید، به ضحاک رسید؛",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زمان جمشید، به ضحاک رسید و جمشید به مَزْحَک و مسخرگی دوران تبدیل شد. حالا من چه کاری می‌توانم انجام دهم؟"
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "شد جم اضحوکه ی دوران چکنم؟!",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "دوش ضحاک فلک را ماران",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شب گذشته، آسمان مانند ضحاک، پر از مارها شد و من در این میان با ناله‌ای که شبیه به شعله‌های آتش است، چه کنم؟!"
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "شد چو تنین شرر افشان چکنم؟!",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "زهر این مار، برآورد دمار",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زهر این مار، زندگی و سرنوشت خوب و بد انسان‌ها را نابود کرد. چه کار باید بکنم؟!"
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "از بد و نیک جهان، هان چکنم؟!",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "جانگزا زهر جهان سوز مدام",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درد و رنجی که سهم من شده، مثل زهر است که دائماً به وجودم آسیب می‌زند. حالا من چه کنم که این شُکاف عمیق را از خودم دور کنم؟!"
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "ریختش از بن دندان چکنم؟!",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "بس سر جانور از مغز تهی",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سر حیوان از کمبود فکر و عقل خالی شد، پس چه راهی بمانده برای حل مشکل مار؟!"
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "شد، نشد چاره ی ثعبان چکنم؟!",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "عنقریب است، کزین سم نقیع",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به زودی از این سم جانکاهی که داریم زندگی می‌کنیم، هیچ انسانی نخواهد توانست جان خود را نجات دهد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "یکتن انسان نبرد جان چکنم؟!",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "عالم از انس تهی گشت و، در آن",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا از محبت و دوستی خالی شده است، و در آن محبت فقط انسان‌های دلسوز وجود دارند. من چگونه می‌توانم در این شرایط زندگی کنم؟"
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "انس دارند بنی جان چکنم؟!",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "دهر ویران و، در آن ویرانه",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی پر از نابسامانی و خرابی است، و در این ویرانی، من چه طور می‌توانم شور و نشاط را در دل دیوانگان بوجود آورم؟"
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "دیو رونق ده دیوان چکنم؟!",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "تیغها آخته دیوان بر هم",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شمشیرها کشیده و جنون بر هم در کنار تخت سلیمان چه کنم؟!"
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "بر سر تخت سلیمان چکنم؟!",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "ناامید آل پیمبر ز جهان",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از اینکه نسل پیامبر از دنیا ناامید است، غمگین و متأسفم؛ حال آنکه دودمان مروان چه کنم؟!"
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "کامرانف دوده ی مروان چکنم؟!",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "گشته هر پیرزنی، تیر زنی",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر زن سالخورده‌ای، در چرخش زندگی‌اش، از درد و ناله‌هایی که دارد، می‌خواند که چه باید بکنم؟!"
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "چرخش، از ناله، رجز خوان چکنم؟!",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "گوی زن گشته و فرموکش گوی",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که تو در شرایطی قرار گرفته‌ای که در آن، دور و برت دچار دگرگونی شده و همچنین وضعیت ظاهری و جسمی‌ات تحت تأثیر قرار گرفته است. حالا از خودت می‌پرسی که باید چه اقدامی انجام دهی یا چه کاری را پیش ببری؟"
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "قامت خم شده چوگان چکنم؟!",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "چرخ را کرده کمان، دوکش تیر؛",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرخ به شکل کمان درآمده و تیر آن کشیده شده است؛ آیا حالا می‌توانم سوزن را به پیکان تبدیل کنم؟"
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "سوزنش آمده پیکان چکنم؟!",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "معجزش مغفر و آن جامه که دوخت",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او تاجی بر سر دارد و جامه‌ای که برای خوابیده شدن دوخته شده است، حالا من باید چه کار کنم که بخوابم؟!"
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "بهر خفتن، شده خفتان چکنم؟!",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "هر عجوزه، زده از معجزه دم",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر زن سالخورده‌ای صحبت از معجزه می‌کند و هر کسی که شایسته نیست، خود را به عنوان سلطانی معرفی کرده است. من چه باید بکنم؟!"
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "هر سلیطه، شده سلطان چکنم؟!",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "گشته هر ماری و هر موری میر",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه جا پر از خیانت و فساد شده است، در این وضعیت چه باید کرد؟"
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "خاین خانه ی اخوان چکنم؟!",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "کاه و بیجاده، بیک نرخ خرند؛",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شما می‌فرمایید که علف و رستنی‌ها به یک اندازه قیمت دارند؛ آیا من باید بر افراز ناظر به ترازوی آسمان بروم؟"
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "فلک آویخته میزان چکنم؟!",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "چون زحل، آنکه بکین شد مایل؛",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی زحل به سمت کین و دشمنی تمایل پیدا کند، برتری و superiority بر دیگران به دست می‌آورد. من چه باید بگویم در این مورد؟"
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "برتری یافت ز اقران چکنم؟!",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "آنکه چون پیر زنان ساخت بچرخ",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که مانند پیرزنان رفتار می‌کند و همیشه در حال چرخش است، چگونه می‌توانم او را به سامان و نظم درآورم؟"
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "داده چرخش سرو سامان چکنم؟!",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "و آن لئیمان که چو مورند ضعیف",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: افراد پست و حقیر مانند مورچه‌ها هستند که به دیوان و قوی‌ها می‌گویند: من چه کار کنم؟"
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "دیو را گفته سلیمان چکنم؟!",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "کوفت کاووس چو کوس اقبال",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی کیکاووس به موفقیت و پیروزی دست یافت و سر از شورش برداشت، من چه باید بکنم؟"
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "سر برآورد بطغیان چکنم؟!",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "ناکسان از طمع جیفه ی او",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: افرادی که بی‌ارزش هستند، به خاطر طمع به چیزی ناچیز، نام او را در شهر می‌برند. من باید چه کار کنم؟"
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "شهره اش کرده به احسان چکنم؟!",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "از دو مردار، که از تخت آویخت",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دو جسد که کرکس‌ها از بالای تخت آن‌ها آویزان شده‌اند، چه فایده‌ای می‌توانم برای کیوان بیابم؟"
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "کرکسش برد بکیوان چکنم؟!",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "قصه ی عالم ویران گفتم",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: داستان خراب شدن دنیا را نقل کردم، حالا از ویرانی ایران چه بگویم؟"
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "شرح ویرانی ایران چکنم؟!",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "جای غولان شده آن دشت که بود",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دشت که پیش از این محل زندگی شیران بود، حالا جایگاه غول‌ها شده است. من چه کار باید بکنم؟"
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "پیش ازین بیشه ی شیران چکنم؟!",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "شد ببین جای کیان، جای کیان",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ببین جایی که پادشاهی کیان قرار دارد، آیا من در این دنیا چه بنایی می‌توانم بسازم؟"
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "هان بناسازی گیهان چکنم؟!",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "زابل، از زابلیان مانده تهی",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زابل، که به مردمش زابلیان شناخته می‌شود، به قدری ویران و خراب شده که حالا تفاوتی با زباله‌ها ندارد. چه کار می‌توانم کنم؟!"
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "گشته با مزبله یکسان چکنم؟!",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "هر طرف مینگرم، ضحاکی",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جا که نگاه می‌کنم، ضحاکی در حال گسترش و مسلط شدن است. من باید چه کار کنم؟"
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "مهد گسترده در ایوان چکنم؟!",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "بسته پیرامن او، دونی چند",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اطراف او، محافظان بسیاری هستند، چگونه می‌توانم بفهمم که چه دستوری باید بدهم؟"
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "صف، پی بردن فرمان چکنم؟!",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "هر چه گوید، همه گر هذیان است",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه که می‌گوید، همه‌اش بی‌اساس و خیال‌پردازی است، من چطور می‌توانم به صداقت او اعتراف کنم؟!"
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "کرده بر صدق وی اذعان چکنم؟!",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "ظلمت ظلم، سیه کرده جهان؛",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تاریکی و ظلم دنیا را سیاه کرده است؛ چه کنم که روز و شب به یک اندازه است؟"
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "روز و شب ساخته یکسان چکنم؟!",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "نام تاراج، نهادند خراج؛",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اسم تاراج را گذاشتند خراج؛ اکنون دِه ایران ویران شده، چه کاری می‌توانم انجام دهم؟!"
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "گشته ویران دهی ایران چکنم؟!",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 123,
+      "Position": "Right",
+      "Text": "باز این خارجیان گر ننهند",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر این بیگانگان همچنان به ما خراج ندهند، چه کار کنم با این ده ویران؟"
+    },
+    {
+      "VOrder": 124,
+      "Position": "Left",
+      "Text": "بی خراج این ده ویران چکنم؟!",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 125,
+      "Position": "Right",
+      "Text": "هر چه را، غیر شمارد دشوار؛",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که برای دیگران سخت به نظر می‌رسد، برای من به‌راحتی قابل انجام است. اما در این حالت، جای تأسف دارد که این احساس غیورانه من باعث مشکلاتی می‌شود. چه کار باید بکنم؟"
+    },
+    {
+      "VOrder": 126,
+      "Position": "Left",
+      "Text": "غیرتم گیردش آسان چکنم؟!",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 127,
+      "Position": "Right",
+      "Text": "هر چه را، خلق گران انگارند",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که برای مردم با ارزش و مهم به نظر می‌رسد، برای من ارزش چندانی ندارد. من چرا باید به آن‌ها ارج بگذارم؟"
+    },
+    {
+      "VOrder": 128,
+      "Position": "Left",
+      "Text": "خردش همتم ارزان چکنم؟!",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 129,
+      "Position": "Right",
+      "Text": "ای ضعیفان، ز تکاهل بردید؛",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسانی که ضعیف هستید، از سست‌عنصری و بی‌توجهی دست بردارید؛ آیا می‌خواهم همه را به حالتی بی‌چاره و گریان درآورم؟"
+    },
+    {
+      "VOrder": 130,
+      "Position": "Left",
+      "Text": "همه سرها بگریبان چکنم؟!",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 131,
+      "Position": "Right",
+      "Text": "چاره ی ظلم، بود آسان، ولیک",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: راهی برای رفع ظلم وجود دارد و این کار آسان است، اما ضعف و ترس افراد ضعیف مانع از آن شده است. چه باید کرد؟"
+    },
+    {
+      "VOrder": 132,
+      "Position": "Left",
+      "Text": "ضعفتان کرده هراسان چکنم؟!",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 133,
+      "Position": "Right",
+      "Text": "غیرت، ای فوج ابابیل، که شد",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غیرت، ای گروه پرنده‌های ابابیل، من چه باید بکنم وقتی که کعبه بر اثر حمله ابرهه نابود می‌شود؟"
+    },
+    {
+      "VOrder": 134,
+      "Position": "Left",
+      "Text": "کعبه از ابرهه ویران چکنم؟!",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 135,
+      "Position": "Right",
+      "Text": "آذر، این سرسبکان را از ضعف؛",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آذر، این سرسبزها به خاطر ناتوانی من، گوش‌های سنگین خود را بر افکار من می‌بندند. چه صدایی باید بزنم تا شنیده شوم؟"
+    },
+    {
+      "VOrder": 136,
+      "Position": "Left",
+      "Text": "گوش سنگین بود، افغان چکنم؟!",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 137,
+      "Position": "Right",
+      "Text": "آهن سرد چه کوبم؟! نرسد",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چگونه می‌توانم به آهن سرد ضربه بزنم؟! ابزاری که به اندازه یک مرد قوی نیست، چه فایده‌ای دارد؟!"
+    },
+    {
+      "VOrder": 138,
+      "Position": "Left",
+      "Text": "پتک یک مرد بسندان چکنم؟!",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 139,
+      "Position": "Right",
+      "Text": "کاوه، کز نطع برافراشت درفش؛",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کاوه، با بلند کردن پرچم، نشان از مقاومت و انقلاب دارد؛ اما من در این وضعیت چه کار باید بکنم؟"
+    },
+    {
+      "VOrder": 140,
+      "Position": "Left",
+      "Text": "بسته دارد در دکان چکنم؟!",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 141,
+      "Position": "Right",
+      "Text": "گاو، کو دایه ی افریدون بود",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاو، که پرورش‌دهنده افریدون بود، چطور می‌توانم شیر را از پستانش بدوشم؟!"
+    },
+    {
+      "VOrder": 142,
+      "Position": "Left",
+      "Text": "ناورد شیر به پستان چکنم؟!",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 143,
+      "Position": "Right",
+      "Text": "خارزاری است عراق از ایران",
+      "CoupletIndex": 71,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عراق مانند مزارع پوشیده از خار است و اگر از ایران گلستان وجود داشته باشد، چه کار می‌توانم کنم؟"
+    },
+    {
+      "VOrder": 144,
+      "Position": "Left",
+      "Text": "پیش اگر بود گلستان چکنم؟!",
+      "CoupletIndex": 71,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 145,
+      "Position": "Right",
+      "Text": "در عراق، از روش اهل نفاق؛",
+      "CoupletIndex": 72,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در عراق، به دلیل رفتار دوگانه و نفاق برخی افراد، آیا می‌توانم به راحتی و آسودگی در صفاهان زندگی کنم یا نه؟"
+    },
+    {
+      "VOrder": 146,
+      "Position": "Left",
+      "Text": "تل خاکی است صفاهان چکنم؟!",
+      "CoupletIndex": 72,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 147,
+      "Position": "Right",
+      "Text": "رایت کاوگیان گشت نگون",
+      "CoupletIndex": 73,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در پی راهی بروم که به شکست منتهی شود، چه نفعی از آسمان و ستارگان برای من خواهد بود؟"
+    },
+    {
+      "VOrder": 148,
+      "Position": "Left",
+      "Text": "پیش اگر سود بکیوان چکنم؟!",
+      "CoupletIndex": 73,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 149,
+      "Position": "Right",
+      "Text": "ساحت گلشن فردوس شده است",
+      "CoupletIndex": 74,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: راحتی و زیبایی بهشت مانند باغی زیباست، اما من در این میان با مشکلات و دردسرهای زندگی مواجه هستم. آیا باید با این وضعیت کنار بیایم؟"
+    },
+    {
+      "VOrder": 150,
+      "Position": "Left",
+      "Text": "منبت خار مغیلان چکنم؟!",
+      "CoupletIndex": 74,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 151,
+      "Position": "Right",
+      "Text": "بلبلش مرده، گلش پژمرده",
+      "CoupletIndex": 75,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای که همیشه سپید و شاداب بود، حالا مرده است، گلش هم شکسته و پژمرده شده و سنبلش هم به هم ریخته و نامنظم است. حالا چه کار باید بکنم؟!"
+    },
+    {
+      "VOrder": 152,
+      "Position": "Left",
+      "Text": "سنبلش طره پریشان چکنم؟!",
+      "CoupletIndex": 75,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 153,
+      "Position": "Right",
+      "Text": "زنده رودش، که نم از کوثر داشت",
+      "CoupletIndex": 76,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دریاچه‌اش، که به برکت آب گوارای بهشتی پرآب شده، حالا با آب داغ و کثیف آمده و من چه باید بکنم؟!"
+    },
+    {
+      "VOrder": 154,
+      "Position": "Left",
+      "Text": "با حمیم آمده یکسان چکنم؟!",
+      "CoupletIndex": 76,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 155,
+      "Position": "Right",
+      "Text": "باغها گشته نمودار جحیم",
+      "CoupletIndex": 77,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باغ‌ها به شکل جهنم درآمده‌اند و کاخ‌ها تبدیل به بیابان شده‌اند. چه کنم؟"
+    },
+    {
+      "VOrder": 156,
+      "Position": "Left",
+      "Text": "قصرها گشته بیابان چکنم؟!",
+      "CoupletIndex": 77,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 157,
+      "Position": "Right",
+      "Text": "روزها شد که ندید آنجا کس",
+      "CoupletIndex": 78,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزهاست که کسی را در آنجا ندیدم که صبح را با لبخندش به من خوش آمد بگوید."
+    },
+    {
+      "VOrder": 158,
+      "Position": "Left",
+      "Text": "صبح را با لب خندان چکنم؟!",
+      "CoupletIndex": 78,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 159,
+      "Position": "Right",
+      "Text": "رفت شبها که کس آنجا نشنید؛",
+      "CoupletIndex": 79,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم بگویم که شب‌ها در تنهایی و سکوت، صدای دل‌انگیز مرغ سحر را نمی‌شنوم، حال چه باید بکنم؟"
+    },
+    {
+      "VOrder": 160,
+      "Position": "Left",
+      "Text": "نغمه ی مرغ سحر خوان، چکنم؟!",
+      "CoupletIndex": 79,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 161,
+      "Position": "Right",
+      "Text": "پاسبان گشته در آن کشور دزد",
+      "CoupletIndex": 80,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آن کشور، کسی که باید از دارایی‌ها و امنیت مردم محافظت کند، خود تبدیل به دزد و از اراذل و اوباش شده است. در این وضعیت، چه باید کرد و چگونه می‌توان کمک کرد؟"
+    },
+    {
+      "VOrder": 162,
+      "Position": "Left",
+      "Text": "گرگ آنجا شده چوپان چکنم؟!",
+      "CoupletIndex": 80,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 163,
+      "Position": "Right",
+      "Text": "هر طرف بال فشان خفاشی",
+      "CoupletIndex": 81,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر سو، خفاشی با بال‌هایش به پرواز در آمده و نور خورشید را پنهان کرده است. چه کاری باید انجام دهم؟"
+    },
+    {
+      "VOrder": 164,
+      "Position": "Left",
+      "Text": "آفتابش شده پنهان چکنم؟!",
+      "CoupletIndex": 81,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 165,
+      "Position": "Right",
+      "Text": "مردمش، چون گله ی گرگ زده؛",
+      "CoupletIndex": 82,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم مانند گله‌ای از گرگ‌ها به هر سو فراری هستند؛ من چه کار کنم؟"
+    },
+    {
+      "VOrder": 166,
+      "Position": "Left",
+      "Text": "هر طرف گشته گریزان چکنم؟!",
+      "CoupletIndex": 82,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 167,
+      "Position": "Right",
+      "Text": "شده روی همه بی رنگ، دریغ؛",
+      "CoupletIndex": 83,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه چیز در اشکال و رنگ‌های مختلفی که قبلاً داشته، از بین رفته و حالا بی‌روح و بی‌احساس شده است. من چه کار باید بکنم؟!"
+    },
+    {
+      "VOrder": 168,
+      "Position": "Left",
+      "Text": "شده جسم همه بیجان، چکنم؟!",
+      "CoupletIndex": 83,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 169,
+      "Position": "Right",
+      "Text": "هیچ یک را نبود میل وطن",
+      "CoupletIndex": 84,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌یک از آنها در تبعید و دوری از وطن اشتیاقی به جایی که از آن آمده‌اند ندارد، من هم در این حال حیران و سردرگم هستم که چه کار کنم؟"
+    },
+    {
+      "VOrder": 170,
+      "Position": "Left",
+      "Text": "در غریبی همه حیران چکنم؟!",
+      "CoupletIndex": 84,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 171,
+      "Position": "Right",
+      "Text": "خاصه من، کز همه آزرده ترم",
+      "CoupletIndex": 85,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر اینکه از همه بیشتر آزرده‌ام، اگر از غم گریه کنم، نباید مانع من شوید؟"
+    },
+    {
+      "VOrder": 172,
+      "Position": "Left",
+      "Text": "نکنم گر ز غم افغان چکنم؟!",
+      "CoupletIndex": 85,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 173,
+      "Position": "Right",
+      "Text": "آورم یاد چو از خود، بهمه",
+      "CoupletIndex": 86,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که به یاد خودم می‌آورم، اگر فراموشی به سراغم بیاید، چه کنم؟!"
+    },
+    {
+      "VOrder": 174,
+      "Position": "Left",
+      "Text": "نکشم گر خط نسیان؛ چکنم؟!",
+      "CoupletIndex": 86,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 175,
+      "Position": "Right",
+      "Text": "گشته گیتی بخلاف املم",
+      "CoupletIndex": 87,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی و دنیا بر خلاف آرزوها و امیدهایم پیش رفته است، از اولین روز تا الان، چه کار می‌توانم بکنم؟"
+    },
+    {
+      "VOrder": 176,
+      "Position": "Left",
+      "Text": "ز اولین روز الی الآن چکنم؟!",
+      "CoupletIndex": 87,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 177,
+      "Position": "Right",
+      "Text": "کان ما کان، اگر از کین گردد؛",
+      "CoupletIndex": 88,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه که بوده، اگر دلی خالی از کینه شود؛ پس از این هم چطور باید رفتار کنم؟"
+    },
+    {
+      "VOrder": 178,
+      "Position": "Left",
+      "Text": "پس از این نیز کماکان چکنم؟!",
+      "CoupletIndex": 88,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 179,
+      "Position": "Right",
+      "Text": "چاره ی غصه، بود صبر؛ ولی",
+      "CoupletIndex": 89,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صبر باید برای رفع غم و اندوه باشد، اما وقتی صبر کم است و غم و اندوه زیاد، چه باید کرد؟"
+    },
+    {
+      "VOrder": 180,
+      "Position": "Left",
+      "Text": "صبر کم، غصه فراوان چکنم؟!",
+      "CoupletIndex": 89,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 181,
+      "Position": "Right",
+      "Text": "هم فرو دوخت زمانه دستم",
+      "CoupletIndex": 90,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانه مرا در چنگ خود گرفته است، حالا چه کنم؟ آیا باید به نادانی خود ادامه دهم یا در برابر این وضعیت چیزی بگویم؟"
+    },
+    {
+      "VOrder": 182,
+      "Position": "Left",
+      "Text": "بزه چاک گریبان چکنم؟!",
+      "CoupletIndex": 90,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 183,
+      "Position": "Right",
+      "Text": "هم برون ریخت ز تنگی صدفم",
+      "CoupletIndex": 91,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از درد و تنگی درون صدف خود، سی و دو گوهر گرانبها را به بیرون ریختم. حالا چه کاری می‌توانم انجام دهم؟"
+    },
+    {
+      "VOrder": 184,
+      "Position": "Left",
+      "Text": "سی و دو گوهر غلطان چکنم؟!",
+      "CoupletIndex": 91,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 185,
+      "Position": "Right",
+      "Text": "از ندامت، اگر اکنون خواهم",
+      "CoupletIndex": 92,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر حالا از افسوس خود بخواهم چیزی بگویم، چه فایده‌ای دارد؟"
+    },
+    {
+      "VOrder": 186,
+      "Position": "Left",
+      "Text": "گیرم انگشت بدندان چکنم؟!",
+      "CoupletIndex": 92,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 187,
+      "Position": "Right",
+      "Text": "تاجرم، لیک متاعی که مراست",
+      "CoupletIndex": 93,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من بازرگانی هستم، اما کالایی که در دست دارم ناقص و آسیب‌دیده است. چه کار می‌توانم بکنم؟"
+    },
+    {
+      "VOrder": 188,
+      "Position": "Left",
+      "Text": "بودش روی بنقصان چکنم؟!",
+      "CoupletIndex": 93,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 189,
+      "Position": "Right",
+      "Text": "طمع محتسبم، نیز نداد؛",
+      "CoupletIndex": 94,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به امید اجازه دادن محتسب، هنوز موفق به بسته شدن دکانم نشدم؛ حالا چه باید بکنم؟"
+    },
+    {
+      "VOrder": 190,
+      "Position": "Left",
+      "Text": "رخصت بستن دکان چکنم؟!",
+      "CoupletIndex": 94,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 191,
+      "Position": "Right",
+      "Text": "من، تنک مایه و، کالا کاسد؛",
+      "CoupletIndex": 95,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من شخصی کم‌مایه و بی‌ارزش هستم؛ اگر چیزی برای فروش نداشته باشم، آیا به خاطر کم بودن قیمت هم باز هم آن را نفروشم؟!"
+    },
+    {
+      "VOrder": 192,
+      "Position": "Left",
+      "Text": "نفروشم اگر ارزان چکنم؟!",
+      "CoupletIndex": 95,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 193,
+      "Position": "Right",
+      "Text": "بیژنم در چه توران و، ز من",
+      "CoupletIndex": 96,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در چه حال و روزی هستم و در کجا به سر می‌برم، در حالی که خسرو ایران از من بی‌خبر است، چه باید بکنم؟!"
+    },
+    {
+      "VOrder": 194,
+      "Position": "Left",
+      "Text": "بیخبر خسرو ایران، چکنم؟!",
+      "CoupletIndex": 96,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 195,
+      "Position": "Right",
+      "Text": "زال چرخم، چو منیژه ندهد،",
+      "CoupletIndex": 97,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مانند زال هستم و اگر منیژه به من جرعه‌ای آب و لقمه‌ای نان ندهد، چه کنم؟"
+    },
+    {
+      "VOrder": 196,
+      "Position": "Left",
+      "Text": "جرعه ی آب و لب نان چکنم؟!",
+      "CoupletIndex": 97,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 197,
+      "Position": "Right",
+      "Text": "ور دهد، هم، چو نگیرد دستم؛",
+      "CoupletIndex": 98,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر او (عشق یا معشوق) مرا نگیرد و دستم را در دست نگیرد، آیا من می‌توانم به قدرت رستم برسم و کار بزرگی انجام دهم؟"
+    },
+    {
+      "VOrder": 198,
+      "Position": "Left",
+      "Text": "خاتم رستم دستان چکنم؟!",
+      "CoupletIndex": 98,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 199,
+      "Position": "Right",
+      "Text": "بر من، ابنای زمان در رشکند؛",
+      "CoupletIndex": 99,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در میان مردم زمان خودم برجسته‌ام؛ مانند یوسف هستم، اما چگونه می‌توانم به برادرانم رنجی وارد کنم؟"
+    },
+    {
+      "VOrder": 200,
+      "Position": "Left",
+      "Text": "یوسفم، لیک به اخوان چکنم؟!",
+      "CoupletIndex": 99,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 201,
+      "Position": "Right",
+      "Text": "در شکست دل من پنداری",
+      "CoupletIndex": 100,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که دل من در حال شکست است و در این وضعیت، آیا می‌توانم با همه کسانی که با من ارتباط دارند، پیمان تازه‌ای ببندم؟"
+    },
+    {
+      "VOrder": 202,
+      "Position": "Left",
+      "Text": "بسته با هم همه پیمان چکنم؟!",
+      "CoupletIndex": 100,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 203,
+      "Position": "Right",
+      "Text": "زال گیتی، چو زلیخای من است",
+      "CoupletIndex": 101,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به زالِ بزرگ‌مقام، که هم‌چون زلیخای من است، چگونه می‌توانم ادعای پاکدامنی کنم؟!"
+    },
+    {
+      "VOrder": 204,
+      "Position": "Left",
+      "Text": "دعوی پاکی دامان چکنم؟!",
+      "CoupletIndex": 101,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 205,
+      "Position": "Right",
+      "Text": "دامن، از لوث گناهم پاک است؛",
+      "CoupletIndex": 102,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دامن من از گناهان پاک است؛ پس چرا باید به دروغ به کسی اتهام بزنم و او را محبوس کنم؟"
+    },
+    {
+      "VOrder": 206,
+      "Position": "Left",
+      "Text": "تهمتم برده بزندان چکنم؟!",
+      "CoupletIndex": 102,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 207,
+      "Position": "Right",
+      "Text": "خاک غربت، شده دامنگیرم؛",
+      "CoupletIndex": 103,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خاک غریبتی که در آن زندگی می‌کنم، دلم را به درد آورده است؛ آیا می‌توانم از این دوری و فاصله با سرزمین عزیزم، کنعان، فکری کنم؟"
+    },
+    {
+      "VOrder": 208,
+      "Position": "Left",
+      "Text": "مصر دور است ز کنعان چکنم؟!",
+      "CoupletIndex": 103,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 209,
+      "Position": "Right",
+      "Text": "گرچه، در مصر غریبی دارم",
+      "CoupletIndex": 104,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه در سرزمین مصر غریبه هستم، اما به خاطر محبت عزیزانم عزت و احترام دارم. چه کار می‌توانم بکنم؟"
+    },
+    {
+      "VOrder": 210,
+      "Position": "Left",
+      "Text": "عزت از لطف عزیزان، چکنم؟!",
+      "CoupletIndex": 104,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 211,
+      "Position": "Right",
+      "Text": "نیست فیض وطن اندر غربت",
+      "CoupletIndex": 105,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دوری از وطن، بهره‌ای از خوشی و زیبایی ندارم. در این شرایط که در یک قفس محصور هستم، چگونه می‌توانم به لذت‌های طبیعت و گلستان بیندیشم؟"
+    },
+    {
+      "VOrder": 212,
+      "Position": "Left",
+      "Text": "در قفس ذوق گلستان چکنم؟!",
+      "CoupletIndex": 105,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 213,
+      "Position": "Right",
+      "Text": "حاش لله، همه جا ملک خداست؛",
+      "CoupletIndex": 106,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خدا پناه می‌برم، زیرا همه جا ملک خداست؛ پس من درباره وطن چه نگرانی داشته باشم؟"
+    },
+    {
+      "VOrder": 214,
+      "Position": "Left",
+      "Text": "از خیال وطن، افغان چکنم؟!",
+      "CoupletIndex": 106,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 215,
+      "Position": "Right",
+      "Text": "همچو خاقانی اگر تیره بود",
+      "CoupletIndex": 107,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شبیه خاقانی ستاره‌ام تاریک باشد، از چه بابت از خاقان شکایت کنم؟"
+    },
+    {
+      "VOrder": 216,
+      "Position": "Left",
+      "Text": "کوکبم، شکوه ز خاقان چکنم؟!",
+      "CoupletIndex": 107,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 217,
+      "Position": "Right",
+      "Text": "گیله، کافتاده صفاهان ز صفا",
+      "CoupletIndex": 108,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا صفاهان از صفا افتاده است یا اینکه همه چیز در شروان به هم ریخته و پریشان شده است؟"
+    },
+    {
+      "VOrder": 218,
+      "Position": "Left",
+      "Text": "یا همه شر شده شروان چکنم؟!",
+      "CoupletIndex": 108,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 219,
+      "Position": "Right",
+      "Text": "حاش لله، همه کس بنده ی اوست؛",
+      "CoupletIndex": 109,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند، پناه بر او، همهٔ انسان‌ها بندگی او را پذیرفته‌اند؛ حالا که من نیز بنده‌اش هستم، چه شکایتی از سلطان می‌توانم داشته باشم؟"
+    },
+    {
+      "VOrder": 220,
+      "Position": "Left",
+      "Text": "بنده ام، شکوه ز سلطان چکنم؟!",
+      "CoupletIndex": 109,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 221,
+      "Position": "Right",
+      "Text": "همه را، گوش بفرمان وی است",
+      "CoupletIndex": 110,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه تحت تأثیر او هستند و هیچ راهی جز اطاعت از او ندارم، پس چه می‌توانم بکنم؟"
+    },
+    {
+      "VOrder": 222,
+      "Position": "Left",
+      "Text": "چاره جز بردن فرمان چکنم؟!",
+      "CoupletIndex": 110,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 223,
+      "Position": "Right",
+      "Text": "قسمتم برد بمیخانه و زد",
+      "CoupletIndex": 111,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشبختی‌ام این بود که به میخانه رفتم و از طرف زاهد به من کنایه‌ای از ناامیدی زده شد. حالا چه باید بکنم؟"
+    },
+    {
+      "VOrder": 224,
+      "Position": "Left",
+      "Text": "زاهدم طعنه ی خذلان چکنم؟!",
+      "CoupletIndex": 111,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 225,
+      "Position": "Right",
+      "Text": "روزی خود، بجهان خورد آدم؛",
+      "CoupletIndex": 112,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزی، انسان به دنیا آمد و به گناه و مخالفت با خدا آلوده شد؛ حالا من چه باید کنم؟!"
+    },
+    {
+      "VOrder": 226,
+      "Position": "Left",
+      "Text": "نامزد گشت بعصیان چکنم؟!",
+      "CoupletIndex": 112,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 227,
+      "Position": "Right",
+      "Text": "نه غلط، وسوسه ی شیطانی",
+      "CoupletIndex": 113,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت شاعر به این موضوع اشاره می‌کند که شیطان با وسوسه‌های خود انسان را از نعمت‌های بهشتی و زندگانی نیکو دور می‌کند. او از خود می‌پرسد که چه اقدامی باید انجام دهد تا این وسوسه را از بین ببرد و دوباره به وضعیتی خوشایند و آرامش‌بخش بازگردد."
+    },
+    {
+      "VOrder": 228,
+      "Position": "Left",
+      "Text": "بردش از روضه ی رضوان چکنم؟!",
+      "CoupletIndex": 113,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 229,
+      "Position": "Right",
+      "Text": "بمن دلشده، هم کآدمیم؛",
+      "CoupletIndex": 114,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من سرشار از عشق و محبت است، اما در عین حال با آنکه انسانم، تحت تأثیر وسوسه‌های شیطانی قرار گرفته‌ام. چه باید بکنم؟"
+    },
+    {
+      "VOrder": 230,
+      "Position": "Left",
+      "Text": "سلطنت یافته شیطان چکنم؟!",
+      "CoupletIndex": 114,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 231,
+      "Position": "Right",
+      "Text": "اختر دل سیهم، نور نداد؛",
+      "CoupletIndex": 115,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به ستاره دل سیاه خود نوری نمی‌بینم؛ حالا چه کار کنم تا این بی‌دین مسلمان شود؟"
+    },
+    {
+      "VOrder": 232,
+      "Position": "Left",
+      "Text": "نشد این گبر مسلمان چکنم؟!",
+      "CoupletIndex": 115,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 233,
+      "Position": "Right",
+      "Text": "سر طاعت، چو بخاکم نرسید",
+      "CoupletIndex": 116,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سر تسلیم به خاک نرسانم، مانند پیرزنان، با چشمان گریان چه کنم؟"
+    },
+    {
+      "VOrder": 234,
+      "Position": "Left",
+      "Text": "چون عجایز، مژه گریان چکنم؟!",
+      "CoupletIndex": 116,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 235,
+      "Position": "Right",
+      "Text": "بیعمل، گرچه ندارد سودی",
+      "CoupletIndex": 117,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کاری انجام ندهم، حتی اگر باران هم ببارد، چه فایده‌ای خواهد داشت؟ بدون کاشتن، انتظار محصول غیرممکن است."
+    },
+    {
+      "VOrder": 236,
+      "Position": "Left",
+      "Text": "تخم ناکاشته، باران چکنم؟!",
+      "CoupletIndex": 117,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 237,
+      "Position": "Right",
+      "Text": "دیر شد، وعده بمنحر چه روم؟!",
+      "CoupletIndex": 118,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمان گذشته است، چه کار می‌توانم بکنم؟! قربانی‌ام پیر شده، چه باید بکنم؟!"
+    },
+    {
+      "VOrder": 238,
+      "Position": "Left",
+      "Text": "پیر شد اضحیه، قربان چکنم؟!",
+      "CoupletIndex": 118,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 239,
+      "Position": "Right",
+      "Text": "گاه پیری، ز جوانیم چه حظ؟!",
+      "CoupletIndex": 119,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برخی اوقات در دوران پیری، چه نفعی از جوانی‌ام می‌برم؟ آیا می‌توانم در فصل پاییز زندگی‌ام، از لذت‌های بهار بهره‌مند شوم؟"
+    },
+    {
+      "VOrder": 240,
+      "Position": "Left",
+      "Text": "در خزان عیش بهاران چکنم؟!",
+      "CoupletIndex": 119,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 241,
+      "Position": "Right",
+      "Text": "گل جانپرور فروردینی",
+      "CoupletIndex": 120,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گلهایی که زندگی‌بخش و سرسبز در فروردین به بار می‌آیند، نمی‌توان در آبان چید. این تصویر نشان‌دهنده این است که زمان و فصل رویش و شکوفایی طبیعت، متفاوت است و نمی‌توان زیبایی و ثمره بهار را در فصل پاییز یافت."
+    },
+    {
+      "VOrder": 242,
+      "Position": "Left",
+      "Text": "نتوان چید در آبان چکنم؟!",
+      "CoupletIndex": 120,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 243,
+      "Position": "Right",
+      "Text": "چون سکندر، اگر از آب حیوة",
+      "CoupletIndex": 121,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مانند سکندر به آب حیات دسترسی نداشته باشم، چرا باید اشک بریزم؟"
+    },
+    {
+      "VOrder": 244,
+      "Position": "Left",
+      "Text": "بی نصیبم؛ مژه گریان چکنم؟!",
+      "CoupletIndex": 121,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 245,
+      "Position": "Right",
+      "Text": "قسمت این بود، که تنها خورد آب؛",
+      "CoupletIndex": 122,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرنوشت اینگونه رقم خورده که تنها خضر از چشمه حیات نوشید. آیا من هم می‌توانم از این چشمه بنوشم؟"
+    },
+    {
+      "VOrder": 246,
+      "Position": "Left",
+      "Text": "خضر از چشمه ی حیوان چکنم؟!",
+      "CoupletIndex": 122,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 247,
+      "Position": "Right",
+      "Text": "قسمت رزق چو شد روز ازل",
+      "CoupletIndex": 123,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی روز ازل قسمت و رزق هر کس مشخص شده، من چه کار می‌توانم بکنم که بیشتر یا کمتر از آن را طلب کنم؟"
+    },
+    {
+      "VOrder": 248,
+      "Position": "Left",
+      "Text": "طلب بیش و کم آن چکنم؟!",
+      "CoupletIndex": 123,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 249,
+      "Position": "Right",
+      "Text": "توشه با خست منعم چه برم؟!",
+      "CoupletIndex": 124,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با خست و سختی چه چیزی می‌توانم بردارم؟ با منت و سخت‌گیری دیگران چه کاری می‌توانم انجام دهم؟"
+    },
+    {
+      "VOrder": 250,
+      "Position": "Left",
+      "Text": "خوشه با منت دهقان چکنم؟!",
+      "CoupletIndex": 124,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 251,
+      "Position": "Right",
+      "Text": "گوهر از آز بمخزن چه کشم؟!",
+      "CoupletIndex": 125,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من چه نیازی به استخراج جواهر از کانی‌ها دارم؟! چرا باید از روی حرص، دانه‌ها را در انبارم جمع آوری کنم؟!"
+    },
+    {
+      "VOrder": 252,
+      "Position": "Left",
+      "Text": "دانه از حرص، در انبان چکنم؟!",
+      "CoupletIndex": 125,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 253,
+      "Position": "Right",
+      "Text": "هدیه، از کیسه ی مفلس، چه خورم؟!",
+      "CoupletIndex": 126,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هدیه‌ای که از دست کسی که چیزی ندارد می‌آید، ارزش خاصی ندارد. همچنین، کمکی که از سوی کسی که همه‌چیز در اختیار دارد برسد نیز احساس گدایی و محتاجی به همراه دارد."
+    },
+    {
+      "VOrder": 254,
+      "Position": "Left",
+      "Text": "گدیه، از کاسه ی سلطان چکنم؟!",
+      "CoupletIndex": 126,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 255,
+      "Position": "Right",
+      "Text": "چون عسس، حلقه بهر در چه زنم؟!",
+      "CoupletIndex": 127,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا باید بیهوده دور در بچرخم؟ چرا باید مانند مگس دور سفره دیگران بچرخم و خود را کوچک کنم؟"
+    },
+    {
+      "VOrder": 256,
+      "Position": "Left",
+      "Text": "چون مگس سجده بهر خوان چکنم؟!",
+      "CoupletIndex": 127,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 257,
+      "Position": "Right",
+      "Text": "شب بشب، روز بروزم ز فلک",
+      "CoupletIndex": 128,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر شب و هر روز، از آسمان نعمت‌هایی به من می‌رسد. آیا باید این نعمت‌ها را نادیده بگیرم و ناسپاسی کنم؟"
+    },
+    {
+      "VOrder": 258,
+      "Position": "Left",
+      "Text": "می رسد مایده، کفران چکنم؟!",
+      "CoupletIndex": 128,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 259,
+      "Position": "Right",
+      "Text": "من که، با خون جگر ساخته ام؛",
+      "CoupletIndex": 129,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من که با درد و رنج زیادی زندگی کرده‌ام، دیگر چطور می‌توانم به دنبال لذت‌ها و نعمت‌های مختلف باشم؟"
+    },
+    {
+      "VOrder": 260,
+      "Position": "Left",
+      "Text": "هوس نعمت الوان چکنم؟!",
+      "CoupletIndex": 129,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 261,
+      "Position": "Right",
+      "Text": "جستن چاره، ز بیچاره خطاست؛",
+      "CoupletIndex": 130,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنبال راه حل بودن برای شخص بی‌چاره اشتباه است؛ از گدایان چه توقعی می‌توان داشت؟"
+    },
+    {
+      "VOrder": 262,
+      "Position": "Left",
+      "Text": "از گدایان طمع نام چکنم؟!",
+      "CoupletIndex": 130,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 263,
+      "Position": "Right",
+      "Text": "من که آسودگی جان طلبم",
+      "CoupletIndex": 131,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من که در پی آرامش روح و جان خود هستم، چه نیازی به خدمتگزاری به پادشاه دارم؟"
+    },
+    {
+      "VOrder": 264,
+      "Position": "Left",
+      "Text": "طلب خدمت سلطان چکنم؟!",
+      "CoupletIndex": 131,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 265,
+      "Position": "Right",
+      "Text": "گر سنمار شدستم، باشد؛",
+      "CoupletIndex": 132,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به جای سنمار (معماری که در افسانه‌ها به خاطر فراموشی به دیوار یک کاخ بسته شد) قرار بگیرم، اشکالی ندارد؛ اما آیا می‌توانم زهر را در نعمت‌های نعمان بریزم؟!"
+    },
+    {
+      "VOrder": 266,
+      "Position": "Left",
+      "Text": "زهر در نعم نعمان چکنم؟!",
+      "CoupletIndex": 132,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 267,
+      "Position": "Right",
+      "Text": "تن برهنه، شکمم گرسنه به؛",
+      "CoupletIndex": 133,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من برهنه و گرسنه‌ام؛ حالا چه بگویم و از چه کسانی کمک بخواهم؟"
+    },
+    {
+      "VOrder": 268,
+      "Position": "Left",
+      "Text": "که برم منت دونان چکنم؟!",
+      "CoupletIndex": 133,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 269,
+      "Position": "Right",
+      "Text": "لیک بینم اگر آزرده دلی",
+      "CoupletIndex": 134,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما می‌بینم که اگر کسی دلش آزرده و گرسنه و بی‌پوشش باشد، چطور می‌توانم بی‌توجه بمانم؟"
+    },
+    {
+      "VOrder": 270,
+      "Position": "Left",
+      "Text": "گرسنه مانده و عریان چکنم؟!",
+      "CoupletIndex": 134,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 271,
+      "Position": "Right",
+      "Text": "کرد، با جود جبلی، فقرم",
+      "CoupletIndex": 135,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با لطف و سخاوتی که کوه‌ها دارند، من در فقر و نیازم و دستم به کمک دیگران نمی‌رسد، پس چه باید بکنم؟"
+    },
+    {
+      "VOrder": 272,
+      "Position": "Left",
+      "Text": "دست چون کوته از احسان، چکنم؟!",
+      "CoupletIndex": 135,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 273,
+      "Position": "Right",
+      "Text": "چه غم از دست تهی، لیک ببخل",
+      "CoupletIndex": 136,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غمی از کمبود ندارم، اما چرا باید به بخیل‌ها حسد ورزم، وقتی که به آنها تهمت می‌زنم؟"
+    },
+    {
+      "VOrder": 274,
+      "Position": "Left",
+      "Text": "زندم خصم چو بهتان چکنم؟!",
+      "CoupletIndex": 136,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 275,
+      "Position": "Right",
+      "Text": "آگه از راز سپهرم، از جهل،",
+      "CoupletIndex": 137,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از راز آسمان و دنیا آگاه باشم، نمی‌دانم با دشمنی که نادان است، چگونه باید رفتار کنم؟"
+    },
+    {
+      "VOrder": 276,
+      "Position": "Left",
+      "Text": "داندم خصم چو نادان چکنم؟!",
+      "CoupletIndex": 137,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 277,
+      "Position": "Right",
+      "Text": "گویم اسرار جهان، لیک چه سود؟!",
+      "CoupletIndex": 138,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویم رازهای جهان را بگویم، اما چه فایده‌ای دارد؟ اگر در مورد آن صحبت کنم، ممکن است به من به عنوان یک دیوانه نگاه کنند."
+    },
+    {
+      "VOrder": 278,
+      "Position": "Left",
+      "Text": "دهدم نسبت هذیان چکنم؟!",
+      "CoupletIndex": 138,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 279,
+      "Position": "Right",
+      "Text": "سخن من که رسیده است بعرش",
+      "CoupletIndex": 139,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن من به جایی نخواهد رسید و تأثیری نخواهد داشت، اگر نتوانم با خوش‌رویی و لبخند آن را بیان کنم."
+    },
+    {
+      "VOrder": 280,
+      "Position": "Left",
+      "Text": "نرسد چون بسخندان چکنم؟!",
+      "CoupletIndex": 139,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 281,
+      "Position": "Right",
+      "Text": "نیست مداح کم از خاقانی",
+      "CoupletIndex": 140,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مداحی برای کسی که به اندازه خاقانی بزرگ نیست، چه فایده‌ای دارد؟ وقتی خود خاقانی هم قابل ستایش نیست، چه باید کرد؟"
+    },
+    {
+      "VOrder": 282,
+      "Position": "Left",
+      "Text": "نیست ممدوح چو خاقان چکنم؟!",
+      "CoupletIndex": 140,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 283,
+      "Position": "Right",
+      "Text": "نگنم گر پی آسایش دل",
+      "CoupletIndex": 141,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر برای آرامش دل تلاش نکنم، پس چه کسی مثل بلبل غزل‌ها را خواهد سرود؟"
+    },
+    {
+      "VOrder": 284,
+      "Position": "Left",
+      "Text": "بلبل طبع غزلخوان چکنم؟!",
+      "CoupletIndex": 141,
+      "SectionIndex1": 0
+    }
+  ]
+}

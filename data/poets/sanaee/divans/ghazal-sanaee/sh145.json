@@ -1,0 +1,225 @@
+{
+  "Id": 12249,
+  "CatId": 190,
+  "Title": "شمارهٔ  ۱۴۵",
+  "FullTitle": "سنایی » دیوان اشعار » غزلیات » شمارهٔ  ۱۴۵",
+  "FullUrl": "/sanaee/divans/ghazal-sanaee/sh145",
+  "RhymeLetters": "اردهد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره جذابیت و معنویت کوی خرابات (محل میخانه و شادی) است. شاعر بیان می‌کند که تنها در این مکان است که انسانی وفادار و دوست می‌تواند به او محبت کند و به او وعده دیدار دهد. او به تضاد بین هشیاری و مستی می‌پردازد و اشاره می‌کند که افراد در خرابات از قید و بندهای دنیوی خلاص می‌شوند. در نهایت، شاعر به کسانی که از خرابات دوری می‌کنند و به زهد و ورع روی می‌آورند، توصیه می‌کند که نترسند و به قدر و منزلت خداوند توجه داشته باشند.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اردهد",
+      "PlainText": "هر که در کوی خرابات مرا بار دهد\r\nبه کمال و کرمش جان من اقرار دهد\r\nبار در کوی خرابات مرا هیچ کسی\r\nندهد ور دهد آن یار وفادار دهد\r\nدر خرابات بود یار من و من شب و روز\r\nبه سر کوی همی گردم تا بار دهد\r\nای خوشا کوی خرابات که پیوسته در او\r\nمر مرا دوست همی وعده دیدار دهد\r\nهر که او حال خرابات بداند به درست\r\nهر چه دارد همه در حال به بازار دهد\r\nدر خرابات نبینی که ز مستی همه سال\r\nراهب دیر ترا کشتی و زنار دهد\r\nآنکه چون باشد هشیار به فرزند عزیز\r\nدرمی سیم به صد زاری دشخوار دهد\r\nهر دو عالم را چون مست شود از دل و جان\r\nبه بهای قدح می دهد و خوار دهد\r\nآنکه بیرون خرابات به قطمیر و نقیر\r\nچون در آید به خرابات به قنطار دهد\r\nآنکه نانی همه آفاق بود در چشمش\r\nدر خرابات به می جبه و دستار دهد\r\nآنکه او کیسه ز طرار نگهدارد چون\r\nبه خرابات شود کیسه به طرار دهد\r\nای تو کز کوی خرابات نداری گذری\r\nزان سناییت همی پند به مقدار دهد\r\nتو برو زاویه زهد نگهدار و مترس\r\nکه خداوند سزا را به سزاوار دهد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که در کوی خرابات مرا بار دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کمال و کرمش جان من اقرار دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبار در کوی خرابات مرا هیچ کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندهد ور دهد آن یار وفادار دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خرابات بود یار من و من شب و روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سر کوی همی گردم تا بار دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خوشا کوی خرابات که پیوسته در او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر مرا دوست همی وعدهٔ دیدار دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که او حال خرابات بداند به درست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چه دارد همه در حال به بازار دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خرابات نبینی که ز مستی همه سال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراهب دیر ترا کُشتی و زُنّار دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه چون باشد هشیار به فرزند عزیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدِرمی سیم به صد زاری دشخوار دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دو عالم را چون مست شود از دل و جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه بهای قدح می دهد و خوار دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه بیرون خرابات به قطمیر و نقیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون در آید به خرابات به قنطار دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه نانی همه آفاق بود در چشمش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خرابات به می جبه و دستار دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه او کیسه ز طرار نگهدارد چون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خرابات شود کیسه به طرار دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تو کز کوی خرابات نداری گذری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان سناییت همی پند به مقدار دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو برو زاویهٔ زهد نگهدار و مترس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خداوند سزا را به سزاوار دهد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 13
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر که در کوی خرابات مرا بار دهد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در محله‌ی خراباتی‌ها به من محبت کند و با بزرگواری‌اش مرا شاد کند، جانم به خوبی از او قدردانی می‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به کمال و کرمش جان من اقرار دهد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بار در کوی خرابات مرا هیچ کسی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در محله خراباتی‌ها هیچ کس به من کمک نمی‌کند، اما اگر کمکی باشد، تنها آن دوست وفادارم است که این کار را انجام می‌دهد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ندهد ور دهد آن یار وفادار دهد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در خرابات بود یار من و من شب و روز",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یار من در مکان‌های پر از ناهنجاری و خوش‌گذرانی بود و من پیوسته شب و روز در خیابان او می‌چرخم تا بتوانم به او دسترسی پیدا کنم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به سر کوی همی گردم تا بار دهد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای خوشا کوی خرابات که پیوسته در او",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال آن محل خرابات که همیشه دوست من در آنجا به من وعده دیدار می‌دهد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مر مرا دوست همی وعدهٔ دیدار دهد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هر که او حال خرابات بداند به درست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از حال و هوای خراباتی و سرور عاری از نگرانی آگاه باشد، می‌فهمد که هر آنچه دارد، باید در موقعیت‌های درست و به جا به بزار زندگی عرضه کند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر چه دارد همه در حال به بازار دهد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "در خرابات نبینی که ز مستی همه سال",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در میخانه نمی‌بیند که از مستی، سال‌ها راهب دینی را به کشتن می‌دهد و زنجیرش می‌کند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "راهب دیر ترا کُشتی و زُنّار دهد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "آنکه چون باشد هشیار به فرزند عزیز",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که بیدار و آگاه باشد، برای فرزند عزیزش حتی یک درهم نقره را با صد زحمت و تلاشی دشوار خواهد داد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "دِرمی سیم به صد زاری دشخوار دهد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "هر دو عالم را چون مست شود از دل و جان",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر دو جهان را بر اثر مستی و شادمانی به سادگی و بهای نوشیدن یک جام از دل و جان می‌دهد و در این حالت خود را بی‌ارزش می‌کند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "به بهای قدح می دهد و خوار دهد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "آنکه بیرون خرابات به قطمیر و نقیر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از دور و در جستجوی خوشی و لذت به جایی بیاید، وقتی وارد آن محیط شود، ارزش و اصل خود را پیدا می‌کند و در آنجا به معنای واقعی به غنای روحی و معنوی دست می‌یابد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "چون در آید به خرابات به قنطار دهد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "آنکه نانی همه آفاق بود در چشمش",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که در همه جا به عنوان نان‌آور شناخته می‌شود، در نظرش حتی در خانه‌ی خراب و بی‌سر و سامان، با می و نوشیدنی پذیرایی می‌شود و لباس‌های فاخر می‌پوشد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "در خرابات به می جبه و دستار دهد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "آنکه او کیسه ز طرار نگهدارد چون",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که کیسه‌اش را از طمع و وسوسه‌ها حفظ می‌کند، وقتی به میخانه می‌رود، دیگر نگه‌دار آن کیسه نمی‌شود و آن را به دست دیگران می‌سپارد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "به خرابات شود کیسه به طرار دهد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "ای تو کز کوی خرابات نداری گذری",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای تو که از کوچه‌های خراباتی عبور نکرده‌ای، از آن نور درخشان تو پندی به اندازه می‌گیرم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "زان سناییت همی پند به مقدار دهد",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "تو برو زاویهٔ زهد نگهدار و مترس",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو برو در جایی که زهد و پرهیزگاری را حفظ کنی و نترس، زیرا خداوند هرکسی را سزاوار آنچه که شایسته‌اش است، پاداش می‌دهد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "که خداوند سزا را به سزاوار دهد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "Id": 125575,
+  "CatId": 2109,
+  "Title": "شمارهٔ  ۴۰",
+  "FullTitle": "صامت بروجردی » کتاب المواد و التاریخ » شمارهٔ  ۴۰",
+  "FullUrl": "/samet/mavad-vat-tarikh/sh40",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات می‌گوید اگر یک لقمه نان به صد تومان هم برسد، هرگز دعا نمی‌کند که قیمت آن پایین بیاید. او معتقد است که بنده باید در پی بندگی و عبادت باشد و اینکه روزی‌دهنده (رزاق) خداست و قیمت روزی او چه ارزان و چه گران، اهمیت ندارد.",
+  "Sections": [
+    {
+      "Index": 58,
+      "Number": 58,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "گر لقمه نان شود به یکصد تومان\r\nهرگز نکنم دعا که گردد ارزان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر لقمه نان شود به یکصد تومان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز نکنم دعا که گردد ارزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 59,
+      "Number": 59,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "بنده به سراغ بندگی باید رفت\r\nرزاق خدا بود چه ارزان چه گران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنده به سراغ بندگی باید رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرزاق خدا بود چه ارزان چه گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 103,
+      "Number": 103,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "گر لقمه نان شود به یکصد تومان\r\nهرگز نکنم دعا که گردد ارزان\r\nبنده به سراغ بندگی باید رفت\r\nرزاق خدا بود چه ارزان چه گران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر لقمه نان شود به یکصد تومان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز نکنم دعا که گردد ارزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنده به سراغ بندگی باید رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرزاق خدا بود چه ارزان چه گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر لقمه نان شود به یکصد تومان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 103,
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: اگر قیمت نان به صد تومان برسد، هرگز دعا نمی‌کنم که ارزان‌تر شود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هرگز نکنم دعا که گردد ارزان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 103,
+      "SectionIndex2": 58
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنده به سراغ بندگی باید رفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 103,
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: انسان باید به انجام وظایف خود به عنوان بنده خدا توجه کند و به یاد داشته باشد که روزی و رزق او در دست خداوند است، چه آن روزی کم باشد و چه زیاد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "رزاق خدا بود چه ارزان چه گران",
+      "CoupletIndex": 1,
+      "SectionIndex1": 103,
+      "SectionIndex2": 59
+    }
+  ]
+}

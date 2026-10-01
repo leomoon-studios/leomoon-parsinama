@@ -1,0 +1,60 @@
+{
+  "Id": 59629,
+  "CatId": 1855,
+  "Title": "شمارهٔ ۳۲۱",
+  "FullTitle": "صائب » دیوان اشعار » متفرقات » شمارهٔ ۳۲۱",
+  "FullUrl": "/saeb/divan-saeb/motefarreghat/sh321",
+  "RhymeLetters": "ندارد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، نویسنده به احساس درد و ناامیدی اشاره می‌کند. او می‌گوید که ناملایمات و بدبختی از چشمانش سرازیر است و تلخی زندگی از لبانش جاری می‌شود. همچنین اشاره می‌کند که افراد بی‌خبر و آسوده از زندگی، از خطرات بی‌خبرند و در نهایت، باران غم و اندوه بر سرش می‌بارد.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رمامیبارد",
+      "PlainText": "شوربختی ز دو چشم تر ما می بارد\r\nتلخکامی ز لب ساغر ما می بارد\r\nاز دم تیغ تو آسوده دلان محرومند\r\nاین رگ ابر همین بر سر ما می بارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوربختی ز دو چشم تر ما می بارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتلخکامی ز لب ساغر ما می بارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دم تیغ تو آسوده دلان محرومند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین رگ ابر همین بر سر ما می بارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شوربختی ز دو چشم تر ما می بارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محنت و غم از چشمان گریان ما جاری است و ناامیدی و تلخی از لبان ما emanates می‌شود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تلخکامی ز لب ساغر ما می بارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دم تیغ تو آسوده دلان محرومند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت بیانگر این است که افرادی که به دلایل مختلف آرامش و آسایش دارند، از خطرات و تهدیداتی که ممکن است از جانب تو به وجود بیاید، بی‌بهره‌اند. همچنین، اشاره به این دارد که احساسات و نگرانی‌ها مانند بارش باران در زندگی ما وجود دارد و هیچ کس نمی‌تواند از آن در امان بماند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این رگ ابر همین بر سر ما می بارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

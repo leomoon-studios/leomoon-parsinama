@@ -1,0 +1,840 @@
+{
+  "Id": 120456,
+  "CatId": 2777,
+  "Title": "شمارهٔ ۴۳",
+  "FullTitle": "مجد همگر » دیوان اشعار » قصاید » شمارهٔ ۴۳",
+  "FullUrl": "/hamgar/divan/ghaside/sh43",
+  "RhymeLetters": "ن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر زیبا، شاعر به وصف صبحگاه و جلوه‌های زیبایی طبیعت پرداخته است. با دمیدن صبح، عطر چمن و زیبایی گل‌ها به فضا می‌پیوندد و یک بته‌سمن در دل چمن می‌رقصد. شاعر تصاویر جالبی از گل‌ها و گلابی‌های خوشبو خلق می‌کند و از زیبایی‌های عاشقانه و لحظات دلنشین یاد می‌کند. \n\nشاعر همچنین به دیدار معشوق و احساس شادی و سرور ناشی از آن اشاره دارد و از نوشیدن شراب عشق و بوسه‌های معشوق می‌گوید. در این میان، او به شخصیت‌های بزرگ تاریخ اسلام و فضائل آنها اشاره می‌کند و دعا می‌کند تا این شخصیت‌ها همواره در تاریخ باقی بمانند. \n\nشاعر در نهایت از محبت و عشق خود به معشوق سخن می‌گوید و آرزو می‌کند که این محبت جاودانه بماند و او و نسل‌های آینده از برکات این عشق بهره‌مند شوند. این شعر به شیوه‌ای زیبا و شاعرانه احساسات عمیق انسانی را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ن",
+      "PlainText": "سپیده دم چو دمیدن گرفت بوی چمن\r\nهوا ز ژاله گهر بست بر عذار سمن\r\nبت سمن بر سیماب سینه سرو آسا\r\nبه کف چمانه درآمد چمان چمان به چمن\r\nچکان چکان خویش از گل زناز بر قرطه\r\nکشان کشان سر زلف دراز در دامن\r\nنماز برد بر قامتش چو راهب سرو\r\nسجود کرد بر عارضش سمن چو شمن\r\nربود خوب ز نرگس به نرگس پر خواب\r\nشکست پشت بنفشه به زلف پر ز شکن\r\nنشست و ناله ز مرغان صبحخیز بخاست\r\nگشاد چهره و گل پاره کرد پیراهن\r\nرقیب را و رهی را چو حلقه بر در ماند\r\nدرآمد از در شادی و آنگهی با من\r\nز روی لطف بپیوست همچو می با جام\r\nز راه مهر بر آمیخت همچو جان با تن\r\nمرا ز شادی آن آهوی ختن از دل\r\nدمی به کام بر آمد چو بوی مشک ختن\r\nهزار گوهر شهوار چشم گوهر بار\r\nفشاند در قدم آن نگار سیم ذقن\r\nدو بوسه داد مرا از پی سه جام شراب\r\nیکی امید فزای و دوم خمار شکن\r\nو گرچه داد مرا خوش بشارتی که شدم\r\nبه جان و دل رهی آن زبان وکام و دهن\r\nبشارتی به امید و امان اهل زمان\r\nبه یمن موکب و فرقدوم صدر ز من\r\nخجسته سایه و خورشید پایه شمس الدین\r\nکه آفتاب زمین است وسایه ذوالمن\r\nگزیده سامان آن خواجه حمیده سیر\r\nفریضه فرمان آن صاحب ستوده سنن\r\nبه نفس پاک ولی و به جود عام علی\r\nبه نام شهره حسین و به خلق خوب حسن\r\nبه نور رای چو افکند سایه بر ملکت\r\nزمانه گفت زهی آفتاب سایه فکن\r\nکفش صحایف آمال را زند ترقین\r\nدلش وظایف ارزاق را کند روشن\r\nایا شبیه تو نادیده دهر صافی فهم\r\nو یا نظیر تو نازاده چرخ صایب ظن\r\nاگر تجللی نور دلت فتد بر طور\r\nاساس طور شود همچو سرمه در هاون\r\nز نظم ملک فلک ذهنت ار براندیشد\r\nنجوم نقش شود مجتمع چو نقش پرن\r\nو گر ز تفرقه و رنج خاطری که مباد\r\nنظر کنی سوی این خنگ سرکش توسن\r\nز بیم فکرت تو دسته گل پروین\r\nبسان نعش ز هم بگسلد در این گلشن\r\nچو ابر دست تو باران جود درگیرد\r\nبسا که گرید و نالد سحاب در بهمن\r\nخدنگ غیرت کف تو چون روان گردد\r\nمحیط ژرف شود چون قدیر در جوشن\r\nبه جرم کیوان زان نسبت است آهن را\r\nکه کرد وقف سراپای دشمنت آهن\r\nبه کلک فتوی ازان دست می برد بر جیس\r\nکه حکم سفک کند تا نماندت دشمن\r\nبه قصد خصم تو بهرام چون کمین گیرد\r\nکجا برآرد سر بدسگالت از مکمن\r\nاگر نه پیروی ذات تو کند خورشید\r\nچراغ چرخ شود بی فتیله و روغن\r\nمغنی سومین طارم ارنه بر کامت\r\nدمی زند شود آواز مزمرش شیون\r\nوگرنه تیر کمان قد شود به خدمت تو\r\nقدر بدوزد کلک و کفش به تیر محن\r\nمه ار جوی ز هوای تو کم کند در دل\r\nقضا به آتش نکبت بسوزدش خرمن\r\nجهان پناها آب لطافت سخنت\r\nز روی لوح دل من بشست گرد حزن\r\nچو تر و تازه به پرسش درآمدی تر شد\r\nزبان بنده به آزادی تو چون سوسن\r\nبه فرق قدر تو بر فکر من به قدر نثار\r\nهزار در ثمین ریخت بی قبول ثمن\r\nبدان خدای که صباغ صنعش از دل خاک\r\nبه رنگ مختلف آرد نتایج معدن\r\nکه یک لطیفه ز درج درت به لفظ قبول\r\nمرا به آید از صد خزانه در عدن\r\nز بس که دیدم رنج و عنا ز جور لیام\r\nز بس که خوردم جام جفا ز دست فتن\r\nسرم ملول شد از جستن دنا ودنی\r\nدلم نفور شد از دیدن دیار و سکن\r\nاز آن ز شاهی مرغان ملول شد سیمرغ\r\nکه یافت فرق خروس لییم با گرزن\r\nگذاشت طوطی و طاووس و باز را و همای\r\nز ننگ صبحت خفاش و بوم و زاغ وزغن\r\nهزار جوهر کان پیش نهمتم یک جو\r\nهزار جان بر سیمرغ همتم ارزن\r\nفرشته ییست مرا در دماغ صایب فکر\r\nکه روح پاک همی بخشدم به جای سخن\r\nنزول آن به دل وجان تیره ممکن نیست\r\nچه مرد اهلی جبریل باشد اهریمن\r\nکجا به نفس بهیمی در آید این معنی\r\nکه نفس ناطقه در شرح آن بود الکن\r\nکجا به راستی این سخن رسد کژدان\r\nکجا معارضی این نمط کند کودن\r\nمسافریست لطیف و غریب گفته من\r\nولی به چاه عنا در چو یوسف و بیژن\r\nسخن سخیف و رکیک آن بود که در پستی\r\nوطن به دامن صاحب سخن کند موطن\r\nچهار ربع زمین نظم ونثر من دارد\r\nز مصر تا به ختا و ز روم تابه ختن\r\nحکیم جوهر باقی رسد معانی را\r\nز پارس جوهر من تحفه بر سوی مسکن\r\nشهان سلغری از عشق طرز من در خاک\r\nبه دست واقعه بر خود همی درند کفن\r\nبقای ذات تو جاوید باد تا باشی\r\nهزار نسل مرا چون پدر به پاداشن\r\nسر حبیب ترا تاج فخر بر تارک\r\nتن عدوی ترا تیغ قهر بر گردن\r\nسرای جاه ترا از شرف ستون سما\r\nنهال عمر ترا از بقا غصون و غصن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپیده دم چو دمیدن گرفت بوی چمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهوا ز ژاله گهر بست بر عذار سمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبت سمن بر سیماب سینه سرو آسا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کف چمانه درآمد چمان چمان به چمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچکان چکان خویش از گل زناز بر قرطه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکشان کشان سر زلف دراز در دامن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنماز برد بر قامتش چو راهب سرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسجود کرد بر عارضش سمن چو شمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eربود خوب ز نرگس به نرگس پر خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکست پشت بنفشه به زلف پر ز شکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشست و ناله ز مرغان صبحخیز بخاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشاد چهره و گل پاره کرد پیراهن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرقیب را و رهی را چو حلقه بر در ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرآمد از در شادی و آنگهی با من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز روی لطف بپیوست همچو می با جام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز راه مهر بر آمیخت همچو جان با تن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا ز شادی آن آهوی ختن از دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدمی به کام بر آمد چو بوی مشک ختن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهزار گوهر شهوار چشم گوهر بار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفشاند در قدم آن نگار سیم ذقن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو بوسه داد مرا از پی سه جام شراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی امید فزای و دوم خمار شکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو گرچه داد مرا خوش بشارتی که شدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جان و دل رهی آن زبان وکام و دهن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبشارتی به امید و امان اهل زمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه یمن موکب و فرقدوم صدر ز من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخجسته سایه و خورشید پایه شمس الدین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آفتاب زمین است وسایه ذوالمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگزیده سامان آن خواجه حمیده سیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفریضه فرمان آن صاحب ستوده سنن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نفس پاک ولی و به جود عام علی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نام شهره حسین و به خلق خوب حسن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نور رای چو افکند سایه بر ملکت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزمانه گفت زهی آفتاب سایه فکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکفش صحایف آمال را زند ترقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلش وظایف ارزاق را کند روشن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایا شبیه تو نادیده دهر صافی فهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو یا نظیر تو نازاده چرخ صائب ظن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر تجللی نور دلت فتد بر طور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاساس طور شود همچو سرمه در هاون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز نظم ملک فلک ذهنت ار براندیشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنجوم نقش شود مجتمع چو نقش پرن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو گر ز تفرقه و رنج خاطری که مباد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنظر کنی سوی این خنگ سرکش توسن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بیم فکرت تو دسته گل پروین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسان نعش ز هم بگسلد در این گلشن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو ابر دست تو باران جود درگیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسا که گرید و نالد سحاب در بهمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدنگ غیرت کف تو چون روان گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمحیط ژرف شود چون قدیر در جوشن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه جرم کیوان زان نسبت است آهن را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه کرد وقف سراپای دشمنت آهن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کلک فتوی ازان دست می برد بر جیس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه حکم سفک کند تا نماندت دشمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه قصد خصم تو بهرام چون کمین گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجا برآرد سر بدسگالت از مکمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر نه پیروی ذات تو کند خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچراغ چرخ شود بی فتیله و روغن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمغنی سومین طارم ارنه بر کامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدمی زند شود آواز مزمرش شیون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگرنه تیر کمان قد شود به خدمت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقدر بدوزد کلک و کفش به تیر محن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمه ار جوی ز هوای تو کم کند در دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقضا به آتش نکبت بسوزدش خرمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان پناها آب لطافت سخنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز روی لوح دل من بشست گرد حزن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو تر و تازه به پرسش درآمدی تر شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزبان بنده به آزادی تو چون سوسن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه فرق قدر تو بر فکر من به قدر نثار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار در ثمین ریخت بی قبول ثمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدان خدای که صباغ صنعش از دل خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه رنگ مختلف آرد نتایج معدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه یک لطیفه ز درج درت به لفظ قبول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا به آید از صد خزانه در عدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بس که دیدم رنج و عنا ز جور لئام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بس که خوردم جام جفا ز دست فتن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرم ملول شد از جستن دنا ودنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلم نفور شد از دیدن دیار و سکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن ز شاهی مرغان ملول شد سیمرغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه یافت فرق خروس لئیم با گرزن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگذاشت طوطی و طاووس و باز را و همای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز ننگ صبحت خفاش و بوم و زاغ وزغن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهزار جوهر کان پیش نهمتم یک جو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار جان بر سیمرغ همتم ارزن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرشته ئیست مرا در دماغ صائب فکر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه روح پاک همی بخشدم به جای سخن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنزول آن به دل وجان تیره ممکن نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه مرد اهلی جبریل باشد اهریمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجا به نفس بهیمی در آید این معنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نفس ناطقه در شرح آن بود الکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجا به راستی این سخن رسد کژدان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجا معارضی این نمط کند کودن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمسافریست لطیف و غریب گفته من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی به چاه عنا در چو یوسف و بیژن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخن سخیف و رکیک آن بود که در پستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوطن به دامن صاحب سخن کند موطن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچهار ربع زمین نظم ونثر من دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز مصر تا به ختا و ز روم تابه ختن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحکیم جوهر باقی رسد معانی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز پارس جوهر من تحفه بر سوی مسکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشهان سلغری از عشق طرز من در خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دست واقعه بر خود همی درند کفن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبقای ذات تو جاوید باد تا باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار نسل مرا چون پدر به پاداشن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر حبیب ترا تاج فخر بر تارک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتن عدوی ترا تیغ قهر بر گردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرای جاه ترا از شرف ستون سما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنهال عمر ترا از بقا غصون و غصن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 54
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سپیده دم چو دمیدن گرفت بوی چمن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که سپیده دم آغاز به روشن شدن کرد، بوی چمن در هوا پیچید و قطره‌های شبنم مانند مروارید بر صورت گل سمن نشسته بود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "هوا ز ژاله گهر بست بر عذار سمن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بت سمن بر سیماب سینه سرو آسا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره زیبا و دلربا بر سینه‌ای لطیف و نرم مانند سیماب است، گویی به آرامی و با ناز در میان گل‌ها قدم می‌زند و زیبایی‌اش را به رخ می‌کشد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به کف چمانه درآمد چمان چمان به چمن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چکان چکان خویش از گل زناز بر قرطه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باران باریدن و چکیدن، وقتی که گل‌های زناز بر روی زمین ریخته می‌شوند، به آرامی و با احتیاط، موهای بلندش را در دامنش به حرکت درمی‌آورد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کشان کشان سر زلف دراز در دامن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نماز برد بر قامتش چو راهب سرو",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نماز بر قامت او چون عبادت یک راهب است و او به خاطر زیبایی‌اش مانند درخت سمن سر به سجده آورده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سجود کرد بر عارضش سمن چو شمن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ربود خوب ز نرگس به نرگس پر خواب",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی چشم‌نواز و دل‌ربای نرگس، خواب‌آلودگی خاصی را به تصویر می‌کشد، همچنان که زلف‌های پر از پیچ و تاب بنفشه، بستر شادی و حسرت را به هم می‌زند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شکست پشت بنفشه به زلف پر ز شکن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "نشست و ناله ز مرغان صبحخیز بخاست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او نشسته و از آواز پرندگان سحرگاهی متاثر شده است، با خوشحالی چهره‌اش را گشاده و لباسی که بر تن دارد را مانند گل چیده شده‌ای پاره می‌کند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "گشاد چهره و گل پاره کرد پیراهن",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "رقیب را و رهی را چو حلقه بر در ماند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رقیب و راه، همچون حلقه‌ای بر در باقی ماندند، اما شادی از در وارد شد و سپس با من همراه شد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "درآمد از در شادی و آنگهی با من",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ز روی لطف بپیوست همچو می با جام",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر لطف و محبت، همچون شراب که در جام می‌نشیند، او با مهربانی به پیوستگی درآمد و مانند روح که با بدن متحد است، در دل و جان من نشست."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ز راه مهر بر آمیخت همچو جان با تن",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "مرا ز شادی آن آهوی ختن از دل",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر شادی آن آهوی ختن، لحظه‌ای در دل من خوشی ایجاد شد، مانند بوی خوش مشک ختن که خوشایند است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "دمی به کام بر آمد چو بوی مشک ختن",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "هزار گوهر شهوار چشم گوهر بار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هزار جواهر و زیبایی به چشم آن معشوق می‌تابد و در برابر او، این زیبایی‌ها همچون جواهراتی در پای آن محبوب قرار می‌گیرند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "فشاند در قدم آن نگار سیم ذقن",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "دو بوسه داد مرا از پی سه جام شراب",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دو بوسه به من داد؛ یکی پس از نوشیدن سه جام شراب. یکی از آن بوسه‌ها به من امید و انرژی تازه‌ای داد و دیگری خمار و کسالت مرا برطرف کرد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "یکی امید فزای و دوم خمار شکن",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "و گرچه داد مرا خوش بشارتی که شدم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه خوشحالی زیادی به من رسیده که به عشق و علاقه‌ام راه یافته‌ام، اما زبان و کلام من همچنان در بیان این احساسات ناتوان است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "به جان و دل رهی آن زبان وکام و دهن",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "بشارتی به امید و امان اهل زمان",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خبر خوشی به اهل زمان داده شده است، به خاطر وجود مهمانی و نورانی که از من تابیده می‌شود."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "به یمن موکب و فرقدوم صدر ز من",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "خجسته سایه و خورشید پایه شمس الدین",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سایه خوش‌یمن و خورشید پایدار شمس‌الدین، که مانند آفتاب بر زمین می‌تابد و سایه ذوالمن را به همراه دارد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "که آفتاب زمین است وسایه ذوالمن",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "گزیده سامان آن خواجه حمیده سیر",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف ویژگی‌ها و مقام یک شخصیت محترم اشاره دارد که در مسیر زندگی‌اش به اصول و ارزش‌های الهی و فرهنگی پایبند بوده است. او از دستورات و فریضه‌های مذهبی پیروی کرده و در رفتار و کردار خود، مورد ستایش و احترام دیگران قرار گرفته است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "فریضه فرمان آن صاحب ستوده سنن",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "به نفس پاک ولی و به جود عام علی",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نفس پاک و خالص علی و بخشندگی او باعث شده که نام حسین در دنیا معروف شود و خوبی‌های حسن نیز بر همگان آشکار باشد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "به نام شهره حسین و به خلق خوب حسن",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "به نور رای چو افکند سایه بر ملکت",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که نور خرد بر سرزمین حاکمیت افکنده شد، زمانه گفت: چه خوش است که سایه‌ای بر این نور بیفتد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "زمانه گفت زهی آفتاب سایه فکن",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "کفش صحایف آمال را زند ترقین",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کنید که آرزوهایش را به قدم‌های قوی و مطمئن به جلو می‌برد و نیازهای زندگی‌اش را نیز به روشنی مشخص می‌سازد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "دلش وظایف ارزاق را کند روشن",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "ایا شبیه تو نادیده دهر صافی فهم",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا در این دنیا کسی مانند تو با فهم روشن و صاف وجود دارد؟ یا آیا می‌توان به کسی مثل تو که در برابر چرخ زمان، بی‌نقص و بی‌نظیر است، پیدا کرد؟"
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "و یا نظیر تو نازاده چرخ صائب ظن",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "اگر تجللی نور دلت فتد بر طور",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نور محبت و ایثار در دل تو بتابد، مانند سرمه‌ای خواهد شد که در هاون کوبیده می‌شود و به زیبایی و شفافیت می‌رسد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "اساس طور شود همچو سرمه در هاون",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "ز نظم ملک فلک ذهنت ار براندیشد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ذهن تو به نظم و ترتیب آسمان فکر کند، ستاره‌ها به گونه‌ای در کنار هم قرار می‌گیرند که مثل نقش و نگارهای زیبا به چشم می‌آیند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "نجوم نقش شود مجتمع چو نقش پرن",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "و گر ز تفرقه و رنج خاطری که مباد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از جدایی و ناراحتی نگران هستی، به این اسب سرکش و ناآرام ننگر."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "نظر کنی سوی این خنگ سرکش توسن",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "ز بیم فکرت تو دسته گل پروین",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر نگرانی و فکر تو، گل‌های زیبا مانند جسدی در این باغ از هم جدا می‌شوند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "بسان نعش ز هم بگسلد در این گلشن",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "چو ابر دست تو باران جود درگیرد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی دست تو مانند ابری باشد که باران generosity را به همراه دارد، ممکن است که ابرها در بهمن گریان و نالان شوند."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "بسا که گرید و نالد سحاب در بهمن",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "خدنگ غیرت کف تو چون روان گردد",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی کسی با غیرت و شجاعت خود از چیزی دفاع کند، مانند این است که پرچم آن ارزش‌ها را در دست دارد و در این مسیر، محیط اطرافش به گونه‌ای تغییر می‌کند که عمیق و با قدرت می‌شود، درست مانند اینکه قدرت و بزرگی در وجودش نمایان شود."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "محیط ژرف شود چون قدیر در جوشن",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "به جرم کیوان زان نسبت است آهن را",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر جرم کیوان ارتباطی که با آهن دارد، آهن را برای تمام وجود دشمنّت وقف کرده است."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "که کرد وقف سراپای دشمنت آهن",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "به کلک فتوی ازان دست می برد بر جیس",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با قلم خود حکمی صادر می‌کند که بر اساس آن، اگر کسی دشمن باشد، باید از بین برود تا دیگر وجودش مزاحمتی ایجاد نکند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "که حکم سفک کند تا نماندت دشمن",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "به قصد خصم تو بهرام چون کمین گیرد",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر نیت دشمن، بهرام در کمین می‌نشیند. پس کجا می‌تواند سر بدخواهی تو را از مخفیگاهش بیرون آورد؟"
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "کجا برآرد سر بدسگالت از مکمن",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "اگر نه پیروی ذات تو کند خورشید",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خورشید به ویژگی‌های تو پیروی نکند، پس چراغ دنیای آسمان بدون فتیله و روغن خواهد بود."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "چراغ چرخ شود بی فتیله و روغن",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "مغنی سومین طارم ارنه بر کامت",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خواننده‌ای در مقام سوم بر نیاید، پس آوازش به جای خوشی، به شعری اندوهین بدل می‌شود."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "دمی زند شود آواز مزمرش شیون",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "وگرنه تیر کمان قد شود به خدمت تو",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نباشی، کمان و تیر از خدمت تو بی‌نصیب می‌مانند و قلم و کفش، چنان تاخته می‌شوند که گویی در تیرکمانی نه‌چندان خوب گرفتار شده‌اند."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "قدر بدوزد کلک و کفش به تیر محن",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "مه ار جوی ز هوای تو کم کند در دل",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرماه از عشق تو کم شود، دل که تقدیرش چنین است، در آتش بدبختی خواهد سوخت."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "قضا به آتش نکبت بسوزدش خرمن",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "جهان پناها آب لطافت سخنت",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا پناهی است، و کلام شیرین تو گویی که غبار اندوه را از دل من پاک کرده است، انگار با آب لطافتی که در خود دارد، روی دل مرا شسته است."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "ز روی لوح دل من بشست گرد حزن",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "چو تر و تازه به پرسش درآمدی تر شد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی تو با طراوت و شادابی صحبت شروع کردی، زبان من هم به خاطر آزادی تو شکوفا و روان شد، مانند گلی که تازه باز شده است."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "زبان بنده به آزادی تو چون سوسن",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "به فرق قدر تو بر فکر من به قدر نثار",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر اهمیت و ارزشت، فکر من به اندازه پر کردن هزار ظرف گران‌بها از چیزهای باارزش است، اما این بخشش و نثار من، قابل قبول و بی‌نیاز از پاداش نیست."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "هزار در ثمین ریخت بی قبول ثمن",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "بدان خدای که صباغ صنعش از دل خاک",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدان خدایی که هنرمندی‌اش از عمق زمین رنگ‌های گوناگونی را برای محصولات معدن می‌آفریند."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "به رنگ مختلف آرد نتایج معدن",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "که یک لطیفه ز درج درت به لفظ قبول",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک نکته زیبا از وجود تو به زبان می‌آید که از صدها گنجینه در بهشت هم برایم ارزشمندتر است."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "مرا به آید از صد خزانه در عدن",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "ز بس که دیدم رنج و عنا ز جور لئام",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر درد و زحماتی که از نادرستی و زشتی انسان‌ها کشیده‌ام و به خاطر تلخی‌هایی که از رفتار فریبنده دیگران چشیده‌ام، به شدت خسته و آزرده‌خاطر هستم."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "ز بس که خوردم جام جفا ز دست فتن",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "سرم ملول شد از جستن دنا ودنی",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرم از تلاش و کوشش برای رسیدن به آرزوهایم خسته شده، و دلم از دیدن مردم و شهرهای مختلف بیزار است."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "دلم نفور شد از دیدن دیار و سکن",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "از آن ز شاهی مرغان ملول شد سیمرغ",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سیمرغ، پرنده‌ای افسانه‌ای از تیره‌مرغ‌ها، به خاطر تفاوتی که میان ارزش و مقام خودش و یک خروس حقیر مشاهده کرد، از مقام سلطنت و زندگی با شکوهش خسته و ناراحت شد."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "که یافت فرق خروس لئیم با گرزن",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "گذاشت طوطی و طاووس و باز را و همای",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: طوطی و طاووس و باز را کنار گذاشت و در عوض به خاطر ننگ خود، خفاش و بوم و زاغ و وزغ را انتخاب کرد."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "ز ننگ صبحت خفاش و بوم و زاغ وزغن",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "هزار جوهر کان پیش نهمتم یک جو",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، شاعر به ارزش و عظمت تلاش و همت خود اشاره می‌کند. او می‌گوید که همه‌ی گنجینه‌های گرانبها و توانایی‌هایی که دارد، در برابر اهداف بلندش چیزی نیست. به عبارتی، هرچقدر هم که سرمایه و قوای مادی یا معنوی داشته باشد، باز هم برای رسیدن به آرزوهای بزرگ و والا، تنها به یک درصد از آن‌ها نیاز دارد. در واقع، او از این می‌گوید که همت و اراده‌ی قوی‌تر از هر چیزی است و به انسان قدرت می‌دهد تا به اوج‌ها برسد."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "هزار جان بر سیمرغ همتم ارزن",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "فرشته ئیست مرا در دماغ صائب فکر",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرشته‌ای در ذهن من وجود دارد که به من الهام می‌دهد و باعث می‌شود که روح پاک خود را به جای کلمات بیان کنم."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "که روح پاک همی بخشدم به جای سخن",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "نزول آن به دل وجان تیره ممکن نیست",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که درک و دریافت نیکی و روشنایی برای کسی که در دل و جانش تاریکی و بدی وجود دارد، ممکن نیست. حتی اگر آن فرد به ظاهر انسانی بزرگ و نیکو باشد، اما اگر در درونش اهریمنی وجود داشته باشد، نمی‌تواند آن روشنایی را دریافت کند."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "چه مرد اهلی جبریل باشد اهریمن",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "کجا به نفس بهیمی در آید این معنی",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که چگونه می‌توان این مفهوم را به بیان آورد در حالی که نفس ناطقه (عقل و درک انسان) در توضیح آن ناتوان و خاموش است."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "که نفس ناطقه در شرح آن بود الکن",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "کجا به راستی این سخن رسد کژدان",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این سخن را کجا می‌توان گفت که شخص نادانی با کج‌فهمی بتواند در برابر آن چیزی بگوید یا انتقاد کند؟"
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "کجا معارضی این نمط کند کودن",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "مسافریست لطیف و غریب گفته من",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مسافری زیبا و نامانوس را توصیف کرده‌اند، که برخلاف ظاهرش، در دل چاه حوادث و مشکلات گرفتار است، مانند یوسف و بیژن که هر کدام در شرایط سختی قرار داشتند."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "ولی به چاه عنا در چو یوسف و بیژن",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "سخن سخیف و رکیک آن بود که در پستی",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن بی‌ارزش و زشت این است که کسی در برابر خودخواهی و پستی وطن، به شخصیت سخنور بی‌احترامی کند و او را به بهانه‌های بی‌محتوا خوار کند."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "وطن به دامن صاحب سخن کند موطن",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "چهار ربع زمین نظم ونثر من دارد",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام نقاط دنیا از مصر تا ختن و از روم تا ختا به نظم و نثر من مربوط می‌شود."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "ز مصر تا به ختا و ز روم تابه ختن",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "حکیم جوهر باقی رسد معانی را",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حکیم، معناهای پایدار را از جوهر ارزشمند خود به عنوان هدیه‌ای به سوی منزل خود می‌فرستد."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "ز پارس جوهر من تحفه بر سوی مسکن",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "شهان سلغری از عشق طرز من در خاک",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سلطنت‌های سلغری به عشق من توجه دارند و من در خاک به سر می‌برم؛ سرنوشت، کفن من را به دست خود گرفته است."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "به دست واقعه بر خود همی درند کفن",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "بقای ذات تو جاوید باد تا باشی",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امیدوارم که وجود تو همیشه پایدار بماند تا اینکه هزار نسل بعد از من، تو را همچون پدرم به یاد داشته باشند و از تو تقدیر کنند."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "هزار نسل مرا چون پدر به پاداشن",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "سر حبیب ترا تاج فخر بر تارک",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به طور کلی به این معناست که بر روی سر دوستت، نشانه‌ای از افتخار قرار دارد و بر گردن دشمن تو، نشانی از قدرت و قهر. به عبارت دیگر، این گفته به رابطه‌ی بین دوست و دشمن و تفاوت وضعیت آنان اشاره دارد."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "تن عدوی ترا تیغ قهر بر گردن",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "سرای جاه ترا از شرف ستون سما",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خانه‌ی تو به اندازه‌ی والای آسمان باعظمت است و عمر تو همچون شاخه‌هایی از درخت بقا و پایداری خواهد بود."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "نهال عمر ترا از بقا غصون و غصن",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,1217 @@
+{
+  "Id": 18166,
+  "CatId": 256,
+  "Title": "بخش ۱۹ - در صفت علم",
+  "FullTitle": "اوحدی مراغه‌ای » جام جم » بخش ۱۹ - در صفت علم",
+  "FullUrl": "/ouhadi/jaamejam/sh19",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره اهمیت علم و دانش در زندگی انسان‌هاست. شاعر به بیان این نکته می‌پردازد که علم چراغ راه انسان است و بدون آن، انسان مانند موجودی بی‌روح و ناآگاه خواهد بود. او می‌گوید که علم موجب بیداری و بینایی است و فرد عالم می‌تواند به کشف و درک بهتر جهان بپردازد.\n\nشاعر علم را به عنوان آب حیات معرفی می‌کند و یادآور می‌شود که تنها با علم می‌توان به نجات و کمال رسید. علم و دانش قدرتی است که انسان را از جهل دور کرده و به او جرأت و قوت می‌دهد. آگاهی و علم همچون چراغی در تاریکی، راه را روشن می‌کند و انسان را به پیش می‌برد.\n\nدر نهایت، شاعر تأکید می‌کند که علم را نمی‌توان از عقل جدا کرد و این دو در یک راستا قرار دارند. او به خواننده می‌آموزد که علم همچون گوهری ارزشمند است که با گذشت زمان کهنه نمی‌شود و همواره مفید و تازه باقی می‌ماند.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "علم بالست مرغ جانت را\r\nبر سپهر او برد روانت را\r\nعلم دل را به جای جان باشد\r\nسر بی علم بدگمان باشد\r\nدل بی علم چشم بی نورست\r\nمرد نادان ز مردمی دورست\r\nعلم علم بر برین بالا\r\nتا برو چون علم شوی والا\r\nمبر از پای علم و دانش پی\r\nتا به قیوم در رسی و به حی\r\nعلم عقلست و نفس علم خدای\r\nبیش ازین بیخودی مکن به خود آی\r\nزانچه بر جان نبشت در بوتات\r\nشاخ علمست و میوه معلومات\r\nنیست آب حیات جز دانش\r\nنیست باب نجات جز دانش\r\nهر که این آب خورد باقی ماند\r\nچشم او در جمال ساقی ماند\r\nمدد روح کن به دانش و دین\r\nتا شوی همنشین روح امین\r\nدین به دانش بلند نام شود\r\nدین با علم کی تمام شود\r\nنور علمست و علم پرتو عقل\r\nروشنست این سخن چه حاجت نقل\r\nعلم داری مشو به راه ذلیل\r\nعلم بس راه را چراغ و دلیل\r\nچون چراغ و دلیل و پرسیدن\r\nهست در شب چراست ترسید\r\nعلم نورست و جهل تاریکی\r\nعلم راهت برد به باریکی\r\nدانشست آب زندگانی مرد\r\nخنک آن کآب زندگانی خورد\r\nدر پی کشف این و آن رفتن\r\nجز به دانش کجا توان رفتن\r\nنفس بیشه است و گربزی شیرش\r\nعقل بازو و علم شمشیرش\r\nعلم خود را مکن ز عقل جدا\r\nتا بدانی که کیست عقل و خدا\r\nتن به دانش سرشته باید کرد\r\nدل به دانش فرشته باید کرد\r\nعلم روی ترا به راه آرد\r\nبا چراغت به پیشگاه آرد\r\nعلم اگر قالبیست ور جانیست\r\nهر چه دانی تو به ز نادانیست\r\nتن بی روح چیست مشتی گرد\r\nروح بی علم چیست بادی سرد\r\nجهل خوابست و علم بیداری\r\nزان نهانی وزین پدیداری\r\nجان داننده گر چه دمسازست\r\nبا بدن بر فلک به پروازست\r\nراز چرخ و فلک بدین دوری\r\nنه هم از علم یافت مشهوری\r\nعلم کشتی کند بر آب روان\r\nوانکه کشتی کند به علم توان\r\nچون تو با علم آشنا گشتی\r\nبگذری زآب نیز بی کشتی\r\nسگ دانا ز گاو نادان به\r\nبه هنر در گذشت شهر از ده\r\nشود از جهل مرد کاهل و سست\r\nدانش او را دلیر سازد و چست\r\nگردش قبه چنین پرکار\r\nنه به علمست پس به چیست بیار\r\nاین همه کار و حرفت و پیشه\r\nنه هم از دانشست و اندیشه\r\nجهل و کوریت سر به چاه کشد\r\nعلم و بینندگی به ماه کشد\r\nدل شود گر به علم بیننده\r\nراه جوید به آفریننده\r\nچون به علمش یقین درست شود\r\nدر عمل نامدار و چست شود\r\nمرد بی علم جفت غم بهتر\r\nدیگ بی گوشت بی کلم بهتر\r\nجوش جاهل چو آتش و خاشاک\r\nبر دمد لیک زود گردد خاک\r\nعلم دیوانه بی خلل نبود\r\nزانکه دیوانه را عمل نبود\r\nعلما راست رتبتی در جاه\r\nکه نگردد به رستخیز تباه\r\nعلم را دزد برد نتواند\r\nبه اجل نیز مرد نتواند\r\nنه به میل زمان خراب شود\r\nنه به سیل زمین در آب شود\r\nجوهر علم همچو زر باشد\r\nکه چو شد کهنه تازه تر باشد\r\nنفس را علم مستفاد کند\r\nعلم ازین بیشتر چه داد کند\r\nآنچه در علم بیش می باید\r\nدانش ذات خویش می باید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم بالست مرغ جانت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سپهر او برد روانت را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم دل را به جای جان باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر بی‌علم بدگمان باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل بی‌علم چشم بی‌نورست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرد نادان ز مردمی دورست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم علم بر برین بالا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا برو چون علم شوی والا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمبر از پای علم و دانش پی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به قیوم در رسی و به حی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم عقلست و نفس علم خدای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیش ازین بیخودی مکن به خود آی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانچه بر جان نبشت در بوتات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاخ علمست و میوه معلومات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست آب حیات جز دانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست باب نجات جز دانش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که این آب خورد باقی ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم او در جمال ساقی ماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدد روح کن به دانش و دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا شوی همنشین روح امین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدین به دانش بلند نام شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدینِ با علم کی تمام شود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنور علمست و علم پرتو عقل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروشنست این سخن چه حاجت نقل؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم داری مشو به راه ذلیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعلم بس راه را چراغ و دلیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون چراغ و دلیل و پرسیدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست، در شب چراست ترسید؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم نورست و جهل تاریکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعلم راهت برد به باریکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانشست آب زندگانی مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخنک آن کآب زندگانی خورد!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پی کشف این و آن رفتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز به دانش کجا توان رفتن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنفس بیشه است و گربزی شیرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل بازو و علم شمشیرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم خود را مکن ز عقل جدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بدانی که کیست عقل و خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن به دانش سرشته باید کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل به دانش فرشته باید کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم روی ترا به راه آرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا چراغت به پیشگاه آرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم اگر قالبیست ور جانیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چه دانی تو به ز نادانیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن بی‌روح چیست؟ مشتی گرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروح بی‌علم چیست؟ بادی سرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهل خوابست و علم بیداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان نهانی وزین پدیداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان داننده گر چه دمسازست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا بدن بر فلک به پروازست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراز چرخ و فلک بدین دوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه هم از علم یافت مشهوری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم کشتی کند بر آب روان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانکه کشتی کند به علم توان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تو با علم آشنا گشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذری زآب نیز بی کشتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسگ دانا ز گاو نادان به\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هنر در گذشت شهر از ده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشود از جهل مرد کاهل و سست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانش او را دلیر سازد و چست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردش قبهٔ چنین پرکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه به علمست، پس به چیست؟ بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین همه کار و حرفت و پیشه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه هم از دانشست و اندیشه؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهل و کوریت سر به چاه کشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعلم و بینندگی به ماه کشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل شود گر به علم بیننده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراه جوید به آفریننده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون به علمش یقین درست شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عمل نامدار و چست شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرد بی‌علم جفت غم بهتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیگ بی‌گوشت بی‌کلم بهتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوش جاهل چو آتش و خاشاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دمد، لیک زود گردد خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم دیوانه بی‌خلل نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه دیوانه را عمل نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلما راست رتبتی در جاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نگردد به رستخیز تباه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم را دزد برد؟ نتواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه اجل نیز مرد؟ نتواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه به میل زمان خراب شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه به سیل زمین در آب شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوهر علم همچو زر باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چو شد کهنه تازه‌تر باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنفس را علم مستفاد کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعلم ازین بیشتر چه داد کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچه در علم بیش می‌باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانش ذات خویش می‌باید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 44
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انترا",
+      "PlainText": "علم بالست مرغ جانت را\r\nبر سپهر او برد روانت را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم بالست مرغ جانت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سپهر او برد روانت را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انباشد",
+      "PlainText": "علم دل را به جای جان باشد\r\nسر بی علم بدگمان باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم دل را به جای جان باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر بی‌علم بدگمان باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ورست",
+      "PlainText": "دل بی علم چشم بی نورست\r\nمرد نادان ز مردمی دورست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل بی‌علم چشم بی‌نورست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرد نادان ز مردمی دورست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "الا",
+      "PlainText": "علم علم بر برین بالا\r\nتا برو چون علم شوی والا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم علم بر برین بالا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا برو چون علم شوی والا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ی",
+      "PlainText": "مبر از پای علم و دانش پی\r\nتا به قیوم در رسی و به حی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمبر از پای علم و دانش پی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به قیوم در رسی و به حی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دای",
+      "PlainText": "علم عقلست و نفس علم خدای\r\nبیش ازین بیخودی مکن به خود آی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم عقلست و نفس علم خدای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیش ازین بیخودی مکن به خود آی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ات",
+      "PlainText": "زانچه بر جان نبشت در بوتات\r\nشاخ علمست و میوه معلومات",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانچه بر جان نبشت در بوتات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاخ علمست و میوه معلومات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اتجزدانش",
+      "PlainText": "نیست آب حیات جز دانش\r\nنیست باب نجات جز دانش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست آب حیات جز دانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست باب نجات جز دانش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اقیماند",
+      "PlainText": "هر که این آب خورد باقی ماند\r\nچشم او در جمال ساقی ماند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که این آب خورد باقی ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم او در جمال ساقی ماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "مدد روح کن به دانش و دین\r\nتا شوی همنشین روح امین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدد روح کن به دانش و دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا شوی همنشین روح امین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "امشود",
+      "PlainText": "دین به دانش بلند نام شود\r\nدین با علم کی تمام شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدین به دانش بلند نام شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدینِ با علم کی تمام شود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "قل",
+      "PlainText": "نور علمست و علم پرتو عقل\r\nروشنست این سخن چه حاجت نقل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنور علمست و علم پرتو عقل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروشنست این سخن چه حاجت نقل؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ذلیل",
+      "PlainText": "علم داری مشو به راه ذلیل\r\nعلم بس راه را چراغ و دلیل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم داری مشو به راه ذلیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعلم بس راه را چراغ و دلیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "چون چراغ و دلیل و پرسیدن\r\nهست در شب چراست ترسید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون چراغ و دلیل و پرسیدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست، در شب چراست ترسید؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اریکی",
+      "PlainText": "علم نورست و جهل تاریکی\r\nعلم راهت برد به باریکی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم نورست و جهل تاریکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعلم راهت برد به باریکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "دانشست آب زندگانی مرد\r\nخنک آن کآب زندگانی خورد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانشست آب زندگانی مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخنک آن کآب زندگانی خورد!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وانرفتن",
+      "PlainText": "در پی کشف این و آن رفتن\r\nجز به دانش کجا توان رفتن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پی کشف این و آن رفتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز به دانش کجا توان رفتن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "شیرش",
+      "PlainText": "نفس بیشه است و گربزی شیرش\r\nعقل بازو و علم شمشیرش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنفس بیشه است و گربزی شیرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل بازو و علم شمشیرش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دا",
+      "PlainText": "علم خود را مکن ز عقل جدا\r\nتا بدانی که کیست عقل و خدا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم خود را مکن ز عقل جدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بدانی که کیست عقل و خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رشتهبایدکرد",
+      "PlainText": "تن به دانش سرشته باید کرد\r\nدل به دانش فرشته باید کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن به دانش سرشته باید کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل به دانش فرشته باید کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اهارد",
+      "PlainText": "علم روی ترا به راه آرد\r\nبا چراغت به پیشگاه آرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم روی ترا به راه آرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا چراغت به پیشگاه آرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انیست",
+      "PlainText": "علم اگر قالبیست ور جانیست\r\nهر چه دانی تو به ز نادانیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم اگر قالبیست ور جانیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چه دانی تو به ز نادانیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "تن بی روح چیست مشتی گرد\r\nروح بی علم چیست بادی سرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن بی‌روح چیست؟ مشتی گرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروح بی‌علم چیست؟ بادی سرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یداری",
+      "PlainText": "جهل خوابست و علم بیداری\r\nزان نهانی وزین پدیداری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهل خوابست و علم بیداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان نهانی وزین پدیداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ازست",
+      "PlainText": "جان داننده گر چه دمسازست\r\nبا بدن بر فلک به پروازست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان داننده گر چه دمسازست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا بدن بر فلک به پروازست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وری",
+      "PlainText": "راز چرخ و فلک بدین دوری\r\nنه هم از علم یافت مشهوری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراز چرخ و فلک بدین دوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه هم از علم یافت مشهوری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وان",
+      "PlainText": "علم کشتی کند بر آب روان\r\nوانکه کشتی کند به علم توان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم کشتی کند بر آب روان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانکه کشتی کند به علم توان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 29,
+      "Number": 29,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "شتی",
+      "PlainText": "چون تو با علم آشنا گشتی\r\nبگذری زآب نیز بی کشتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تو با علم آشنا گشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذری زآب نیز بی کشتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 30,
+      "Number": 30,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "سگ دانا ز گاو نادان به\r\nبه هنر در گذشت شهر از ده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسگ دانا ز گاو نادان به\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هنر در گذشت شهر از ده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 31,
+      "Number": 31,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ست",
+      "PlainText": "شود از جهل مرد کاهل و سست\r\nدانش او را دلیر سازد و چست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشود از جهل مرد کاهل و سست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانش او را دلیر سازد و چست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 32,
+      "Number": 32,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "گردش قبه چنین پرکار\r\nنه به علمست پس به چیست بیار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردش قبهٔ چنین پرکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه به علمست، پس به چیست؟ بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 33,
+      "Number": 33,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یشه",
+      "PlainText": "این همه کار و حرفت و پیشه\r\nنه هم از دانشست و اندیشه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین همه کار و حرفت و پیشه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه هم از دانشست و اندیشه؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 34,
+      "Number": 34,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اهکشد",
+      "PlainText": "جهل و کوریت سر به چاه کشد\r\nعلم و بینندگی به ماه کشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهل و کوریت سر به چاه کشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعلم و بینندگی به ماه کشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 35,
+      "Number": 35,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یننده",
+      "PlainText": "دل شود گر به علم بیننده\r\nراه جوید به آفریننده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل شود گر به علم بیننده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراه جوید به آفریننده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 36,
+      "Number": 36,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ستشود",
+      "PlainText": "چون به علمش یقین درست شود\r\nدر عمل نامدار و چست شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون به علمش یقین درست شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عمل نامدار و چست شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 37,
+      "Number": 37,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مبهتر",
+      "PlainText": "مرد بی علم جفت غم بهتر\r\nدیگ بی گوشت بی کلم بهتر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرد بی‌علم جفت غم بهتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیگ بی‌گوشت بی‌کلم بهتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 38,
+      "Number": 38,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اک",
+      "PlainText": "جوش جاهل چو آتش و خاشاک\r\nبر دمد لیک زود گردد خاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوش جاهل چو آتش و خاشاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دمد، لیک زود گردد خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 39,
+      "Number": 39,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لنبود",
+      "PlainText": "علم دیوانه بی خلل نبود\r\nزانکه دیوانه را عمل نبود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم دیوانه بی‌خلل نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه دیوانه را عمل نبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 40,
+      "Number": 40,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "علما راست رتبتی در جاه\r\nکه نگردد به رستخیز تباه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلما راست رتبتی در جاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نگردد به رستخیز تباه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 41,
+      "Number": 41,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ردنتواند",
+      "PlainText": "علم را دزد برد نتواند\r\nبه اجل نیز مرد نتواند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم را دزد برد؟ نتواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه اجل نیز مرد؟ نتواند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 42,
+      "Number": 42,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رابشود",
+      "PlainText": "نه به میل زمان خراب شود\r\nنه به سیل زمین در آب شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه به میل زمان خراب شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه به سیل زمین در آب شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 43,
+      "Number": 43,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رباشد",
+      "PlainText": "جوهر علم همچو زر باشد\r\nکه چو شد کهنه تازه تر باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوهر علم همچو زر باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چو شد کهنه تازه‌تر باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 44,
+      "Number": 44,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ادکند",
+      "PlainText": "نفس را علم مستفاد کند\r\nعلم ازین بیشتر چه داد کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنفس را علم مستفاد کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعلم ازین بیشتر چه داد کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 45,
+      "Number": 45,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یشمیباید",
+      "PlainText": "آنچه در علم بیش می باید\r\nدانش ذات خویش می باید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچه در علم بیش می‌باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانش ذات خویش می‌باید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "علم بالست مرغ جانت را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دانش، مانند بالی برای روح توست که آن را به آسمان می‌برد و جانت را به اوج می‌رساند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر سپهر او برد روانت را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "علم دل را به جای جان باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دانش و علم باعث روشنی و آرامش دل می‌شود و جایگزین جان واقعی انسان می‌گردد، در حالی که فردی که بی‌علم است، دچار تردید و ناامیدی می‌شود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سر بی‌علم بدگمان باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دل بی‌علم چشم بی‌نورست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دل بدون دانش مانند چشمی است که نور ندارد. انسان نادان از اجتماع و هم‌نوعان خود دور است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مرد نادان ز مردمی دورست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "علم علم بر برین بالا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: علم، مانند یک سطوح بلند است که تو باید به آن دسترسی پیدا کنی؛ وقتی به مقام علم برسی، مقام والایی نیز خواهی یافت."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا برو چون علم شوی والا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مبر از پای علم و دانش پی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: از پایه‌های علم و دانش دور نشو، زیرا ممکن است به استقامت و زندگی بی‌نهایت برسید."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا به قیوم در رسی و به حی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "علم عقلست و نفس علم خدای",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: علم، همان عقل است و جان، خود را با علم خدا درگیر ببین. بیش از این، خود را فراموش نکن و به وجود خود توجه کن."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بیش ازین بیخودی مکن به خود آی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "زانچه بر جان نبشت در بوتات",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: آنچه که بر روح و جان انسان نوشته شده، شاخ و برگ علم و دانش است که مانند میوه‌ای از اطلاعات و آگاهی‌ها به بار می‌آید."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "شاخ علمست و میوه معلومات",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "نیست آب حیات جز دانش",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: تنها منبع حیات و بقا، دانش و علم است و هیچ راهی به رستگاری و نجات جز دانش وجود ندارد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "نیست باب نجات جز دانش",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "هر که این آب خورد باقی ماند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از این آب بنوشد، همیشه در چشمش زیبایی و جمال ساقی باقی می‌ماند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "چشم او در جمال ساقی ماند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "مدد روح کن به دانش و دین",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از علم و دین کمک بگیر تا بتوانی همقدم با روح پاک و راستین شوی."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "تا شوی همنشین روح امین",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "دین به دانش بلند نام شود",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: با دانش و علم، دین ارزش و اعتبار پیدا می‌کند. دین نمی‌تواند فقط با اطلاعات محدود یا بدون علم کامل به پیش برود و به کمال برسد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "دینِ با علم کی تمام شود؟",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "نور علمست و علم پرتو عقل",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: نور علم، همچون نوری است که راه را روشن می‌کند و علم، روشنایی عقل را به همراه دارد. این گفته به‌قدری واضح و روشن است که نیازی به نقل آن نیست."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "روشنست این سخن چه حاجت نقل؟",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "علم داری مشو به راه ذلیل",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر به دانش و علم دست یافته‌ای، اجازه نده که به خاطر آن خودت را در موقعیت‌های حقیر و ذلیل قرار دهی. علم باید برای راهنمایی و روشنایی در زندگی‌ات باشد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "علم بس راه را چراغ و دلیل",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "چون چراغ و دلیل و پرسیدن",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: چرا در شب که چراغ و نشانه‌ها و امکان پرسیدن وجود دارد، باید ترسید؟"
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "هست، در شب چراست ترسید؟",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "علم نورست و جهل تاریکی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: علم مانند نوری است که انسان را در مسیر درست هدایت می‌کند و جهل همانند تاریکی است که راه را می‌بندد. علم شما را به شناخت عمیق‌تر و فهم بهتر می‌رساند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "علم راهت برد به باریکی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "دانشست آب زندگانی مرد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: دانش، مانند آب زندگی بخش است و کسی که از آن بهره‌مند شود، زندگی خوش و سرشار از آرامش خواهد داشت."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "خنک آن کآب زندگانی خورد!",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "در پی کشف این و آن رفتن",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در پی فهم و شناخت موضوعات مختلف، جز با کسب علم و دانش، نمی‌توان به کجا رفت یا پیشرفت کرد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "جز به دانش کجا توان رفتن؟",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "نفس بیشه است و گربزی شیرش",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: نفس مانند جنگل و بیشه‌ای است و اگر بخواهی در آن زندگی کنی، باید از قدرت عقل و علم به عنوان ابزارهای لازم استفاده کنی. عقل مانند دستان تو و علم مانند شمشیری هستند که به تو در این مسیر کمک می‌کنند."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "عقل بازو و علم شمشیرش",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "علم خود را مکن ز عقل جدا",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: علم خود را از عقل جدا نکن، تا بفهمی که عقل و خدا چه هستند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "تا بدانی که کیست عقل و خدا",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "تن به دانش سرشته باید کرد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: باید جسم خود را با دانش آشنا کرد و دل را به زیبایی‌های دانش واگذار کرد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "دل به دانش فرشته باید کرد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "علم روی ترا به راه آرد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: دانش و آگاهی همچون چراغی در مسیر زندگی به شما کمک می‌کند تا به درستی پیش بروید و به هدف‌های بزرگتری دست یابید."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "با چراغت به پیشگاه آرد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "علم اگر قالبیست ور جانیست",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: دانش اگر شکلی دارد و روحی در آن نهفته است، هر چه تو بدانی، به مراتب بهتر از نادانی است."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "هر چه دانی تو به ز نادانیست",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "تن بی‌روح چیست؟ مشتی گرد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: چیزی که فاقد روح و زندگی است، مانند یک توده‌ خاک و بی‌فایده به نظر می‌رسد؛ و روحی که بدون دانش و آگاهی باشد، همانند باد سردی است که هیچ کارایی ندارد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "روح بی‌علم چیست؟ بادی سرد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "جهل خوابست و علم بیداری",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: جهل مانند خواب است و علم شبیه به بیداری. این، پنهان و ناپیداست و آن، روشن و واضح."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "زان نهانی وزین پدیداری",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "جان داننده گر چه دمسازست",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: روح خردمند اگرچه با بدن در ارتباط است، اما همچنان در حال پرواز و صعود به آسمان‌هاست."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "با بدن بر فلک به پروازست",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "راز چرخ و فلک بدین دوری",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: آیا کسی از علم و دانش، رازهای گردش زمان را که در این دورانی به این اندازه دور و نامشخص است، فهمیده است؟"
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "نه هم از علم یافت مشهوری؟",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "علم کشتی کند بر آب روان",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: علم مانند یک کشتی است که در آب‌های متلاطم و روان حرکت می‌کند. کسی که با علم و دانش به این کشتی مسلط است، می‌تواند با موفقیت در این آب‌ها حرکت کند و از چالش‌ها عبور کند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "وانکه کشتی کند به علم توان",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "چون تو با علم آشنا گشتی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: زمانی که با دانش و آگاهی آشنا شدی، می‌توانی به راحتی از مشکلات و چالش‌ها عبور کنی، مانند اینکه بتوانی از روی آب عبور کنی بدون نیاز به قایق."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "بگذری زآب نیز بی کشتی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "سگ دانا ز گاو نادان به",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: سگ هوشمند به خاطر هنر و توانایی‌اش از گاو نادان جلوتر می‌افتد و این باعث می‌شود که شهر از ده بهتر دیده شود."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "به هنر در گذشت شهر از ده",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "شود از جهل مرد کاهل و سست",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: از نادانی فرد بی‌عمل و سست، دانایی می‌تواند او را شجاع و پرتلاش کند."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "دانش او را دلیر سازد و چست",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "گردش قبهٔ چنین پرکار",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: این آسمان پر از ستاره و حرکاتش نتیجهٔ علم و دانش نیست، پس پس چرا این‌گونه است؟ بیا و توضیح بده."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "نه به علمست، پس به چیست؟ بیار",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "این همه کار و حرفت و پیشه",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: آیا همه این کارها و بحث‌ها و شغل تو تنها ناشی از دانش و فکر تو نیست؟"
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "نه هم از دانشست و اندیشه؟",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "جهل و کوریت سر به چاه کشد",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: نادانی و بی‌خبری انسان را به مکان‌های خطرناک و تاریک می‌کشاند، اما دانش و آگاهی او را به سوی نور و روشنی هدایت می‌کند."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "علم و بینندگی به ماه کشد",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "دل شود گر به علم بیننده",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: اگر دل در جستجوی علم باشد، به سوی خالق خود راه پیدا می‌کند."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "راه جوید به آفریننده",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "چون به علمش یقین درست شود",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: وقتی که در علم خود به یقین و اعتماد واقعی برسد، در عمل هم موفق و سرشناس خواهد شد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "در عمل نامدار و چست شود",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 36
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "مرد بی‌علم جفت غم بهتر",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: مردی که علم و دانش ندارد، بهتر است که غم و اندوه را تحمل کند تا اینکه در کنار او غذایی وجود داشته باشد که هیچ مواد مغذی نداشته باشد و بی‌ارزش باشد."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "دیگ بی‌گوشت بی‌کلم بهتر",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 37
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "جوش جاهل چو آتش و خاشاک",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: خشم و هیاهوی جاهل مانند آتش است که به راحتی شعله‌ور می‌شود، اما این حالت زودگذر است و در نهایت به خاموشی و سکون می‌انجامد."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "بر دمد، لیک زود گردد خاک",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 38
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "علم دیوانه بی‌خلل نبود",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: علم بدون عمل و کاربرد، ارزش چندانی ندارد؛ زیرا اگر کسی فقط در نظر و دانایی باشد و اقدام نکند، هیچ تأثیری در زندگی یا پیشرفت نخواهد داشت."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "زانکه دیوانه را عمل نبود",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 39
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "علما راست رتبتی در جاه",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: دانشمندان مقام و مرتبه‌ای دارند که در روز قیامت دچار عذاب و زوال نمی‌شوند."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "که نگردد به رستخیز تباه",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 40
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "علم را دزد برد؟ نتواند",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: علم و دانش را نمی‌توان از انسان گرفت، حتی اگر به مرگ هم نزدیک شود، باز هم نمی‌تواند آن را از دست بدهد."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "به اجل نیز مرد؟ نتواند",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 41
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "نه به میل زمان خراب شود",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: زمان نمی‌تواند آنچه را که هست خراب کند و زمین نیز نمی‌تواند او را در آب غرق کند."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "نه به سیل زمین در آب شود",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 42
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "جوهر علم همچو زر باشد",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: علم و دانش مانند طلاست؛ هرچه زمان بگذرد و کهنه‌تر شود، ارزش و سودمندی‌اش بیشتر می‌گردد."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "که چو شد کهنه تازه‌تر باشد",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 43
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "نفس را علم مستفاد کند",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: آیا نفس می‌تواند از دانش بهره‌برداری کند، وقتی که این دانش از این بیشتر به او داده نشده است؟"
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "علم ازین بیشتر چه داد کند؟",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 44
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "آنچه در علم بیش می‌باید",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: آنچه در دانش اهمیت بیشتری دارد، شناخت و درک ذات و ماهیت خود آدمی است."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "دانش ذات خویش می‌باید",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 45
+    }
+  ]
+}

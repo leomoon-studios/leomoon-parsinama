@@ -1,0 +1,175 @@
+{
+  "Id": 127632,
+  "CatId": 2932,
+  "Title": "شمارهٔ ۱۴۳",
+  "FullTitle": "خواجوی کرمانی » دیوان اشعار » صنایع الکمال » سفریات » غزلیات » شمارهٔ ۱۴۳",
+  "FullUrl": "/khajoo/divan/sk/safar/ghazal/sh143",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره احساسات شاعر در مورد فراق و دلتنگی برای دوستان و معشوقه‌اش است. شاعر از نسیم باد صبا و بویی که از بوستان می‌آید صحبت می‌کند و این بو برایش یادآور دوستان و لحظات خوش است. اشک‌هایش از دل پرخون او جاری می‌شود و نمی‌تواند درد فراق را به خوبی توصیف کند. او همچنین به فکر ارسال پیامی به کرمان میفتد و اشک‌هایش مانند نهر جاری می‌شود تا خبر یار مهربانش را دریافت کند. شاعر احساس می‌کند که محبت و زیبایی معشوقش برای او مانند آب حیات است و در آرزوی نزدیکی به او است. در پایان، شاعر به این نکته اشاره می‌کند که سفر خواجو (معشوقش) موجب ناراحتی و دل‌تنگی او شده است.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اناید",
+      "PlainText": "نسیم باد صبا چون ز بوستان آید\r\nمرا ز نکهت او بوی دوستان آید\r\nبرون دود زره دیده اشک گرم روم\r\nز بسکه از دل پر خون من بجان آید\r\nقلم چه شرح دهد زانک داستان فراق\r\nنه ممکنست که یک شمه در بیان آید\r\nاگر بجانب کرمان روان کنم پیکی\r\nهم آب دیده که در دم بسر دوان آید\r\nبرون رود ز درونم روان باستقبال\r\nچو بانگ دمدمه ی کوس کاروان آید\r\nچو خونیان بدود اشک و دامنم گیرد\r\nکه باش تا خبر یار مهربان آید\r\nسرم بباد رود گر چو شمع از سر سوز\r\nحدیث آتش دل بر سر زبان آید\r\nدر آرزوی کنار تو از میان بروم\r\nگهی که وصف میان تو در میان آید\r\nبدین صفت که تویی آب زندگانی را\r\nز شوق لعل لبت آب در دهان آید\r\nسفر گزیدی و آگه نبودی ای خواجو\r\nکه سیر جان شود آنکو بسیرجان آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنسیم باد صبا چون ز بوستان آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا ز نکهت او بوی دوستان آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرون دود زره دیده اشک گرم روم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بسکه از دل پر خون من بجان آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقلم چه شرح دهد زانک داستان فراق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه ممکنست که یک شمه در بیان آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر بجانب کرمان روان کنم پیکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم آب دیده که در دم بسر دوان آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرون رود ز درونم روان باستقبال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بانگ دمدمه ی کوس کاروان آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو خونیان بدود اشک و دامنم گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه باش تا خبر یار مهربان آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرم بباد رود گر چو شمع از سر سوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحدیث آتش دل بر سر زبان آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آرزوی کنار تو از میان بروم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهی که وصف میان تو در میان آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدین صفت که توئی آب زندگانی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز شوق لعل لبت آب در دهان آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسفر گزیدی و آگه نبودی ای خواجو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سیر جان شود آنکو بسیرجان آید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نسیم باد صبا چون ز بوستان آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نسیم ملایم صبحگاهی وقتی از باغ می‌گذرد، بوی خوشی به همراه دارد که یادآور دوستان من است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا ز نکهت او بوی دوستان آید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برون دود زره دیده اشک گرم روم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دود و غبار از چشمانم بیرون می‌آید و اشک‌های داغ بر روی صورتم می‌ریزد، زیرا دل پر از اندوه و درد من به شدت به جانم فشار می‌آورد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز بسکه از دل پر خون من بجان آید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "قلم چه شرح دهد زانک داستان فراق",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قلم چه بگوید در مورد قصه‌ی جدایی، زیرا بیان کردن حتی کمی از آن هم ممکن نیست."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نه ممکنست که یک شمه در بیان آید",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اگر بجانب کرمان روان کنم پیکی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نامه‌ای به کرمان بفرستم، پیامبری را با خود می‌برم که بتواند در لحظه به خوبی و سریع حرکت کند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هم آب دیده که در دم بسر دوان آید",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "برون رود ز درونم روان باستقبال",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نفس من به بیرون می‌رود و به استقبال می‌رود، مانند صدای زنگ کاروان که نزدیک می‌شود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چو بانگ دمدمه ی کوس کاروان آید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چو خونیان بدود اشک و دامنم گیرد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی اشک‌ها به سرعت می‌ریزد و دامنم را می‌گیرد، می‌گویم صبر کن تا خبر از یار مهربان بیاید."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که باش تا خبر یار مهربان آید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "سرم بباد رود گر چو شمع از سر سوز",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سرم در باد برود، مانند شمعی که در آتش ذوب می‌شود، سخن از آتش دل و سوز و گداز وجودم بر زبانم جاری خواهد شد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "حدیث آتش دل بر سر زبان آید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "در آرزوی کنار تو از میان بروم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آرزوی این هستم که وقتی کنار تو هستم، از دل و جان خود بروم و دیگر به وجودم فکر نکنم، زیرا هر وقت از تو سخن به میان می‌آید، تمام وجودم غرق در احساسات می‌شود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "گهی که وصف میان تو در میان آید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بدین صفت که توئی آب زندگانی را",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر ویژگی‌هایی که تو داری، آب زندگی به شوق لب‌های زیبایت در دهانم حس می‌شود."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "ز شوق لعل لبت آب در دهان آید",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "سفر گزیدی و آگه نبودی ای خواجو",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خواجو، تو که سفر کردی و خبر نداشتی، بدان که تنها کسی که با دل و احساس به دیدار سفر می‌رود، می‌تواند به درک عمیق و سیر جان دست یابد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "که سیر جان شود آنکو بسیرجان آید",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "Id": 62388,
+  "CatId": 1858,
+  "Title": "شمارهٔ ۱۸۰۶",
+  "FullTitle": "امیرخسرو دهلوی » دیوان اشعار » غزلیات » شمارهٔ ۱۸۰۶",
+  "FullUrl": "/khosro/gozide/ghazalamkh/sh1806",
+  "RhymeLetters": "رنداری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به معشوقه‌ای می‌پردازد که به او رحمت و محبت ندارد و از بی‌توجهی او رنج می‌برد. او احساس می‌کند که دلش را معشوقه برده و اگر بخواهد این موضوع را بیان کند، معشوقه به او باور نخواهد کرد. شاعر در ادامه می‌گوید که نباید فقط به ظاهر نگاه کرد و باید به عمق وجود انسان‌ها توجه کرد. همچنین به خود می‌آورد که نگاهی به وضعیت خود بیندازد و سعی کند از محدودیت‌هایش رهایی یابد. او از معشوقه می‌خواهد فراموش نکند که آدمی با کجی‌ها و نقاط ضعفش نیز وجود دارد و در آخر به گوش دادن به داستان خسرو اشاره می‌کند، تا زیبایی‌های عمیق عشق را درک کند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رنداری",
+      "PlainText": "ز رحمت چشم بر چاکر نداری\r\nنداری رحمت ای کافر نداری\r\nدلم بردی و خوشتر آنکه گر من\r\nبگویم بیدلم باور نداری\r\nمگو در من مبین در دیگران بین\r\nکه مثل خویش در کشور نداری\r\nبه پشت پای خود بنگر که وقت است\r\nاز این آیینه بهتر نداری\r\nکله را کج منه چندین بر آن سر\r\nکه تا با ما کجی در سر نداری\r\nبخور خون دل و دیده مکن ای آب\r\nنه خون من که خواب و خور نداری\r\nچودل برداشتن اندیشه ات بود\r\nچرا سنگی به کشتن برنداری\r\nحدیث خسرو اندر گوش می کن\r\nز بهر گوش اگر گوهر نداری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز رحمت چشم بر چاکر نداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنداری رحمت، ای کافر، نداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلم بردی و خوشتر آنکه گر من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگویم بیدلم، باور نداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگو در من مبین، در دیگران بین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مثل خویش در کشور نداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پشت پای خود بنگر که وقت است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز این آیینه بهتر نداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکله را کج منه چندین بر آن سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تا با ما کجی در سر نداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخور خون دل و دیده مکن، ای آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه خون من که خواب و خور نداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچودل برداشتن اندیشه ات بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا سنگی به کشتن برنداری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدیث خسرو اندر گوش می کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بهر گوش اگر گوهر نداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز رحمت چشم بر چاکر نداری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از محبت و رحمت، تو که به خدمتگزار خود توجهی نداری، ای کافر، هیچ رحمت و لطفی در تو نیست."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نداری رحمت، ای کافر، نداری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلم بردی و خوشتر آنکه گر من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من را از من گرفتی و جالب‌تر این است که اگر من بگویم که بی‌دل شده‌ام، باور نمی‌کنی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگویم بیدلم، باور نداری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مگو در من مبین، در دیگران بین",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگو به من نگاه نکن، بلکه به دیگران نگاه کن؛ زیرا در سرزمین خودت کسی مانند من پیدا نمی‌شود."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که مثل خویش در کشور نداری",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به پشت پای خود بنگر که وقت است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به آنچه که خودت انجام داده‌ای و به گذشته‌ات دقت کن، زیرا در این لحظه چیز دیگری بهتر از آنچه که در دست داری، وجود ندارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از این آیینه بهتر نداری",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کله را کج منه چندین بر آن سر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سر خود را کج نگذار، چون به خاطر کج‌روی‌هایت با ما کج برخورد نکن."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که تا با ما کجی در سر نداری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بخور خون دل و دیده مکن، ای آب",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به مفهوم این است که به جای اینکه به درد و رنج من توجه کنی، بهتر است از آن اجتناب کنی. مانند آبی که حیات ندارد و نتواند چیزی را بخورد یا بخوابد، تو نیز نباید درگیر احساسات من شوی. تشبیه به خون دل و درد و رنج نشان‌دهنده عمق و تلخی احساسات است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نه خون من که خواب و خور نداری",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چودل برداشتن اندیشه ات بود",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر قرار است فکری از ذهنت را کنار بگذاری، چرا باید بار سنگینی را بر دوش خودت بگذاری و آن را تحمل کنی؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چرا سنگی به کشتن برنداری؟",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "حدیث خسرو اندر گوش می کن",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در داستان‌ها و حکایت‌های قدیمی، داستان عشق خسرو و شیرین بسیار مشهور است. اگر تو هم علاقمند به شنیدن این قصه هستی، حتماً باید از آن لذت ببری، ولی اگر ارزش و زیبایی این داستان را درک نمی‌کنی، ممکن است از شنیدن آن بهره‌ای نبرئی."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ز بهر گوش اگر گوهر نداری",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ]
+}

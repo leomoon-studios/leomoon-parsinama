@@ -1,0 +1,60 @@
+{
+  "Id": 31268,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۸۱۰",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۸۱۰",
+  "FullUrl": "/moulavi/shams/robaeesh/sh1810",
+  "RhymeLetters": "انمکردی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از احساس عمیق خود نسبت به عشق سخن می‌گوید. او به حالت بی‌نام و نشانی اشاره دارد که عشق در او به وجود آورده است و به نوعی از دست رفتن خود و بی‌هدفی در زندگی اشاره می‌کند. شاعر می‌گوید که عشق او را بی‌قرار کرده و به جایی نمی‌تواند برود، چرا که از خود بی‌خبر و دچار سردرگمی شده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمکردی",
+      "PlainText": "بی نام و نشان چون دل و جانم کردی\r\nبی کف چو طرب دست زنانم کردی\r\nگفتم به کجا روم که جان را جانیست\r\nبی جا و روان همچو روانم کردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌نام و نشان چون دل و جانم کردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌کف چو طرب دست زنانم کردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم به کجا روم که جان را جانیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌جا و روان همچو روانم کردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بی‌نام و نشان چون دل و جانم کردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بی‌خبر و بدون نشانه مانند دل و جانم کردی، و بی‌حالت و بی‌خبر از شادی به حالت طرب و جشن آورده‌ای."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی‌کف چو طرب دست زنانم کردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم به کجا روم که جان را جانیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم به کجا بروم که بی‌جایی برای جان وجود ندارد، و تو با رفتار خود جان مرا به درد و رنج انداختی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی‌جا و روان همچو روانم کردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

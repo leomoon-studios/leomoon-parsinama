@@ -1,0 +1,180 @@
+{
+  "Id": 9865,
+  "CatId": 120,
+  "Title": "غزل شمارهٔ  ۵۴۳",
+  "FullTitle": "سعدی » دیوان اشعار » غزلیات » غزل شمارهٔ  ۵۴۳",
+  "FullUrl": "/saadi/divan/ghazals/sh543",
+  "RhymeLetters": "ری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساسات عمیق دلتنگی و longing پرداخته و به معشوقی می‌پردازد که دور است ولی در دل حاضر است. شاعر از برق، مرغ، و ماه‌روی غایب می‌خواهد که پیغامی از او به معشوق برسانند. او اشاره می‌کند که دل‌تنگی و دوری چقدر سخت و آزاردهنده است و از معشوق می‌خواهد که یا به او دل دهد یا خود را از دل او بیرون ببرد. در نهایت، شاعر به پرسش درباره هویت خود اشاره می‌کند و از عشق و دوستی سخن می‌گوید.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "ای برق اگر به گوشه آن بام بگذری\r\nآنجا که باد زهره ندارد خبر بری\r\nای مرغ اگر پری به سر کوی آن صنم\r\nپیغام دوستان برسانی بدان پری\r\nآن مشتری خصال گر از ما حکایتی\r\nپرسد جواب ده که به جانند مشتری\r\nگو تشنگان بادیه را جان به لب رسید\r\nتو خفته در کجاوه به خواب خوش اندری\r\nای ماهروی حاضر غایب که پیش دل\r\nیک روز نگذرد که تو صد بار نگذری\r\nدانی چه می رود به سر ما ز دست تو\r\nتا خود به پای خویش بیایی و بنگری\r\nبازآی کز صبوری و دوری بسوختیم\r\nای غایب از نظر که به معنی برابری\r\nیا دل به ما دهی چو دل ما به دست توست\r\nیا مهر خویشتن ز دل ما به در بری\r\nتا خود برون پرده حکایت کجا رسد\r\nچون از درون پرده چنین پرده می دری\r\nسعدی تو کیستی که دم دوستی زنی\r\nدعوی بندگی کن و اقرار چاکری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای برق اگر به گوشه آن بام بگذری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنجا که باد زهره ندارد خبر بری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرغ اگر پری به سر کوی آن صنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیغام دوستان برسانی بدان پری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن مشتری خصال گر از ما حکایتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرسد جواب ده که به جانند مشتری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگو تشنگان بادیه را جان به لب رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو خفته در کجاوه به خواب خوش اندری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ماهروی حاضر غایب که پیش دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک روز نگذرد که تو صد بار نگذری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانی چه می‌رود به سر ما ز دست تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا خود به پای خویش بیایی و بنگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازآی کز صبوری و دوری بسوختیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای غایب از نظر که به معنی برابری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا دل به ما دهی چو دل ما به دست توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا مهر خویشتن ز دل ما به در بری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا خود برون پرده حکایت کجا رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون از درون پرده چنین پرده می‌دری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعدی تو کیستی که دم دوستی زنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدعوی بندگی کن و اقرار چاکری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای برق اگر به گوشه آن بام بگذری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آذرخش اگر به گوشه آن سقف عبور کنی، آنجا که باد نمی‌تواند با خود خبری بیاورد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آنجا که باد زهره ندارد خبر بری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای مرغ اگر پری به سر کوی آن صنم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پرنده، اگر بالی داری که به خیابان آن معشوق برسی، پیام دوستان را به او برسان."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پیغام دوستان برسانی بدان پری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آن مشتری خصال گر از ما حکایتی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آن شخص خوب و دوست‌داشتنی درباره ما سوالی بپرسد، باید طوری پاسخ دهیم که انگار داریم با جان و دل صحبت می‌کنیم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پرسد جواب ده که به جانند مشتری",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گو تشنگان بادیه را جان به لب رسید",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای تشنگان بیابان به ته دل رسیده‌اند، ولی تو در کجاوه به راحتی خوابیده‌ای."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تو خفته در کجاوه به خواب خوش اندری",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ای ماهروی حاضر غایب که پیش دل",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ماهروی زیبا، که همیشه حاضر و غایب هستی، در دل من روزی نمی‌گذرد که تو در افکارم نگذری صد بار."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یک روز نگذرد که تو صد بار نگذری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دانی چه می‌رود به سر ما ز دست تو",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌دانی چه بلایی بر سر ما می‌آید به خاطر تو؟ تا زمانی که خودت به زمین بیایی و اوضاع را تماشا کنی."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "تا خود به پای خویش بیایی و بنگری",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بازآی کز صبوری و دوری بسوختیم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بازگرد تا ما دوباره زندگی را از سر بگیریم، ای کسی که از دیدگان پنهانی، ما در دوری و صبوری سوخته‌ایم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "ای غایب از نظر که به معنی برابری",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "یا دل به ما دهی چو دل ما به دست توست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، یا باید به ما محبت کنی چون دل ما در دستان توست، یا باید عشق خود را از دل ما بیرون ببری."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "یا مهر خویشتن ز دل ما به در بری",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "تا خود برون پرده حکایت کجا رسد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که حقیقت از درون وجودت بیرون نیاید، داستانی که برای خود می‌سازی به کجا می‌تواند برود؟ وقتی از عمق وجودت چنین واقعیتی را می‌شکنی و به بیرون می‌آوری، دیگر هیچ چیز نمی‌تواند تو را محدود کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "چون از درون پرده چنین پرده می‌دری",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "سعدی تو کیستی که دم دوستی زنی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سعدی، تو کی هستی که در مورد دوستی حرف می‌زنی و در عین حال، ادعای بندگی و خدمت‌گذاری می‌کنی؟"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "دعوی بندگی کن و اقرار چاکری",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ]
+}

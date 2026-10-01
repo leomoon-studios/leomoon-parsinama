@@ -1,0 +1,645 @@
+{
+  "Id": 14062,
+  "CatId": 214,
+  "Title": "قصیدهٔ شمارهٔ ۱۷۳",
+  "FullTitle": "ناصرخسرو » دیوان اشعار » قصاید » قصیدهٔ شمارهٔ ۱۷۳",
+  "FullUrl": "/naserkhosro/divann/ghaside-naser/sh173",
+  "RhymeLetters": "ون",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن به بررسی مفهوم شرافت و زندگی انسان می‌پردازد. نویسنده از تن و جسم صحبت می‌کند و این نکته را بیان می‌کند که شرافت واقعی به ویژگی‌های درونی انسان بستگی دارد نه به ظاهر و نسل. او تأکید می‌کند که انسان باید علم و دانایی را پرورش دهد و از طریق پرورش جان خود به شرافت و بزرگی دست یابد.\n\nنویسنده به مقایسه دیو و فرشته می‌پردازد و می‌گوید که انسان می‌تواند بین خوبی و بدی انتخاب کند و این انتخاب او را به سمت شرافت یا پستی می‌برد. او به اهمیت توبه و دوری از کارهای بد اشاره می‌کند و بر این باور است که حقیقت زندگی در جاودانگی روح نهفته است نه در جسم مادی.\n\nهمچنین، سخن گفتن و علم‌آموزی به عنوان ابزارهایی معرفی می‌شود که انسان را به تعالی می‌رسانند. نویسنده با آوردن مثال‌های مختلف، تأکید می‌کند که انسان باید همواره در پی علم و دین باشد تا به درک و شرافت واقعی دست یابد. در نهایت، متوجه می‌شویم که شرافت واقعی به درون و روح انسان مربوط می‌شود و نه به ظواهر و مادیات.",
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ون",
+      "PlainText": "ای تن تیره اگر شریفی اگر دون\r\nنبسه گردونی و نبیره گردون\r\nنیست به نسبت بس افتخار که هرگز\r\nنبسه گردون دون نبود مگر دون\r\nآنکه شریف است همچو دون نه به ترکیب\r\nاز رگ و موی است و استخوان و پی و خون\r\nگر تو شریفی و بهتری تو ز خویشان\r\nچونکه بری سوی خویش خویش شبیخون\r\nبلکه به جان است نه به تن شرف مرد\r\nنیست جسدها همه مگر گل مسنون\r\nتن صدف است ای پسر به دین و به دانش\r\nجانت بپرور درو چو لؤلؤ مکنون\r\nاهرون از علم شد سمر به جهان در\r\nگر تو بیاموزی ای پسر تویی اهرون\r\nنیک و بد و دیوی و فریشتگی را\r\nسوی خردمند هست مایه و قانون\r\nمادر دیوان یکی فریشته بوده است\r\nفعل بدش کرد زشت و فاسق و ملعون\r\nراه تو زی خیر و شر هر دو گشاده است\r\nخواهی ایدون گرای و خواهی ایدون\r\nدیو و فرشته به خاک و آب درون شد\r\nدیو مغیلان شد و فریشته زیتون\r\nداد کن ار نام نیک خواهی ازیراک\r\nنامور از داد گشت شهره فریدون\r\nهزل ز کس مشنو و مگوی ازیراک\r\nعقل تو را دشمن است هزل چو هپیون\r\nچند بنالی که بد شده است زمانه\r\nعیب تنت بر زمانه برفگنی چون\r\nهرگز کی گفت این زمانه که بد کن\r\nمفتون چونی به قول عامه مفتون\r\nتو شده ای دیگر این زمانه همان است\r\nکی شود ای بی خرد زمانه دگرگون\r\nدل به یقین ای پسر خزینه دین است\r\nچشم تو چون روزن است و گوش چو پرهون\r\nگوهر دین چون در این خزینه نهادی\r\nروزن و پرهون رو تو سخت کن اکنون\r\nروزن و پرهون چو بسته گشت خیانت\r\nراه نیابد بسوی گوهر مخزون\r\nمنگر سوی حرام و جز حق مشنو\r\nتا نبرد دیو دزد سوی تو آهون\r\nتوبه کن از هر بدی به تربیت دین\r\nجانت چو پیراهن است و توبه چو صابون\r\nزنده به آبند زندگان که چنین گفت\r\nایزد سبحان بی چگونه و بی چون\r\nهرکه مر این آب را ندید در این آب\r\nتشنه چو هاروت ماند غرقه چو ذوالنون\r\nزنده نباشد حقیقت آنکه بمیرد\r\nگرچه به خاک اندرون نباشد مدفون\r\nزنده ز ما ای پسر نه این تن خاکی است\r\nسوی پیامبر نه نیز سوی فلاطون\r\nبلکه ز ما زنده و شریف و سخن گوی\r\nنیست مگر جان بر خجسته و میمون\r\nزنده به آب خدای خواهی گشتن\r\nنه تو به جیحون مرده و نه به سیحون\r\nهر که بدین آب مرده زنده شد او را\r\nزنده نخواند مگر که جاهل و مجنون\r\nمردم اگر ز آب مرده زنده بماندی\r\nخلق نمردی هگرز بر لب جیحون\r\nآب خدای آنکه مرده زنده بدو کرد\r\nآن پسر بی پدر برادر شمعون\r\nدر دهن پاک خویش داشت مر آن را\r\nوز دهنش جز به دم نیامد بیرون\r\nاصل سخنها دم است سوی خردمند\r\nمعنی باشد سخن به دم شده معجون\r\nگر به فسون زنده کرد مرده مسیحا\r\nجز سخن خوب نیست سوی من افسون\r\nبنگر نیکو تو از پی سخن ادریس\r\nچون به مکان العلی رسید ز هامون\r\nگر تو بیاموزی ای پسر سخن خوب\r\nخوار شود پیش تو خزانه قارون\r\nگرچه عزیز است زر زرت ندهد میر\r\nچون سخنت خوب و خوش نیامد و موزون\r\nگفته دانا چو ماه نو به فزون است\r\nگفته نادان چنان کهن شده عرجون\r\nفضل طبرخون نیافت سنجد هرگز\r\nگرچه ز دیدن چو سنجد است طبرخون\r\nفضل سخن کی شناسد آنکه نداند\r\nفضل اساس و امام و حجت و ماذون\r\nطبع تو ای حجت خراسان در زهد\r\nدر همی درکشد به رشته همیدون\r\nچون دلت از بلخ شد به یمگان خرسند\r\nپس چه فریدون به سوی تو چه فریغون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تن تیره اگر شریفی اگر دون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبسهٔ گردونی و نبیرهٔ گردون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست به نسبت بس افتخار که هرگز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبسهٔ گردونِ دون نبود مگر دون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه شریف است همچو دون نه به ترکیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رگ و موی است و استخوان و پی و خون؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر تو شریفی و بهتری تو ز خویشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچونکه بری سوی خویشِ خویش شبیخون؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلکه به جان است، نه به تن، شرفِ مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست جسدها همه مگر گِل مسنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن صدف است ای پسر، به دین و به دانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانت بپرور درو چو لؤلؤ مکنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاهرون از علم شد سمر به جهان در\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر تو بیاموزی، ای پسر، توئی اهرون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیک و بد و دیوی و فریشتگی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی خردمند هست مایه و قانون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمادر دیوان یکی فریشته بوده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفعل بدش کرد زشت و فاسق و ملعون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراه تو زی خیر و شرّ هر دو گشاده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهی ایدون گرای و خواهی ایدون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیو و فرشته به خاک و آب درون شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیو مغیلان شد و فریشته زیتون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداد کن ار نام نیک خواهی ازیراک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامور از داد گشت شهره فریدون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهزل ز کس مشنو و مگوی ازیراک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل تو را دشمن است هزل، چو هپیون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچند بنالی که بد شده‌است زمانه؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعیب تنت بر زمانه برفگنی چون؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز کی گفت این زمانه که «بد کن»؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمفتون چونی به قول عامهٔ مفتون؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو شده‌ای دیگر، این زمانه همان است،\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی شود ای بی‌خرد زمانه دگرگون؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل به یقین ای پسر خزینهٔ دین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم تو چون روزن است و گوش چو پرهون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوهر دین چون در این خزینه نهادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزن و پرهون رو تو سخت کن اکنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزن و پرهون چو بسته گشت، خیانت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراه نیابد بسوی گوهر مخزون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنگر سوی حرام و جز حق مشنو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا نبرد دیو دزد سوی تو آهون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتوبه کن از هر بدی به تربیت دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانت چو پیراهن است و توبه چو صابون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنده به آبند زندگان که چنین گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایزد سبحان بی‌چگونه و بی‌چون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکه مر این آب را ندید، در این آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتشنه چو هاروت ماند غرقه چو ذوالنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنده نباشد حقیقت آنکه بمیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه به خاک اندرون نباشد مدفون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنده ز ما ای پسر نه این تن خاکی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی پیامبر، نه نیز سوی فلاطون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلکه ز ما زنده و شریف و سخن گوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست مگر جان بر خجسته و میمون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنده به آب خدای خواهی گشتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه تو به جیحون مرده و نه به سیحون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که بدین آب مرده زنده شد، او را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنده نخواند مگر که جاهل و مجنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردم اگر ز آب مرده زنده بماندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخلق نمردی هگرز بر لب جیحون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب خدای آنکه مرده زنده بدو کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن پسر بی‌پدر برادر شمعون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دهن پاک خویش داشت مر آن را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز دهنش جز به دم نیامد بیرون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاصل سخنها دم است سوی خردمند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعنی، باشد سخن به دم شده معجون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر به فسون زنده کرد مرده مسیحا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز سخن خوب نیست سوی من، افسون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنگر نیکو تو، از پی سخن، ادریس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون به مکان‌العلی رسید ز هامون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر تو بیاموزی ای پسر سخن خوب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوار شود پیش تو خزانهٔ قارون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه عزیز است زر زرت ندهد میر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون سخنت خوب و خوش نیامد و موزون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتهٔ دانا چو ماه نو به فزون است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتهٔ نادان چنان کهن شده عرجون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفضل طبرخون نیافت سنجد هرگز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه ز دیدن چو سنجد است طبرخون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفضل سخن کی شناسد آنکه نداند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفضل اساس و امام و حجت و ماذون؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطبع تو ای حجت خراسان در زهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدُرّ همی درکشد به رشته همیدون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون دلت از بلخ شد به یمگان خرسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس چه فریدون به سوی تو چه فریغون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 41
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای تن تیره اگر شریفی اگر دون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای بدن تیره، اگر تو نیکو و شریف هستی، نباید خود را به سرنوشت و قضا و قدر وامی‌گذاشتی و فرزند آن سرنوشت می‌شوی."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نبسهٔ گردونی و نبیرهٔ گردون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیست به نسبت بس افتخار که هرگز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ افتخاری برتر از این نیست که هرگز کسی از طبقه پایین، به خاطر موقعیت خود در عرصه زندگی، به دیگران افتخار نکرده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نبسهٔ گردونِ دون نبود مگر دون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آنکه شریف است همچو دون نه به ترکیب",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شخص با ارزش و محترم، تنها به خاطر داشتن ترکیب ظاهری از رگ و موی بدن نیست؛ ویژگی‌های او به عمق وجودش و شخصیتش برمی‌گردد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از رگ و موی است و استخوان و پی و خون؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر تو شریفی و بهتری تو ز خویشان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو انسان شریفی هستی و از دیگران بهتر، پس چرا به خانواده‌ات خیانت می‌کنی و به آنها آسیب می‌زنی؟"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چونکه بری سوی خویشِ خویش شبیخون؟",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بلکه به جان است، نه به تن، شرفِ مرد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اصل شرف و شخصیت در وجود فرد به روح و جان اوست، نه به جسم و ظاهرش. جسم آدمی می‌تواند مثل اجساد دیگر باشد، اما آنچه انسانیت و ارزش او را تعیین می‌کند، عمق روح و اخلاق اوست."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نیست جسدها همه مگر گِل مسنون",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "تن صدف است ای پسر، به دین و به دانش",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پسر، بدن تو مانند صدف است؛ پس به ایمان و دانش خود جانت را در آن پرورش ده. مانند مرواریدی که درون صدف پنهان است، نباید خود را بی‌ارزش نشان دهی."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "جانت بپرور درو چو لؤلؤ مکنون",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "اهرون از علم شد سمر به جهان در",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اهرون به خاطر علم و دانشش در دنیا مشهور شد. اگر تو هم یاد بگیری، ای پسر، مثل اهرون درخشان خواهی شد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "گر تو بیاموزی، ای پسر، توئی اهرون",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "نیک و بد و دیوی و فریشتگی را",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیک و بد، وجود دیو و فرشته، همگی برای انسان خردمند دارای اصول و قوانینی هستند که او را راهنمایی می‌کنند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "سوی خردمند هست مایه و قانون",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "مادر دیوان یکی فریشته بوده است",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مادر دیوان یک فرشته بوده، اما رفتار زشت و ناپسند او باعث شده که به سرنوشت بدی دچار شود."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "فعل بدش کرد زشت و فاسق و ملعون",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "راه تو زی خیر و شرّ هر دو گشاده است",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: راه تو برای خیر و شر هر دو باز است؛ اگر بخواهی می‌توانی به سوی خیر بروی و اگر بخواهی به سمت شر."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "خواهی ایدون گرای و خواهی ایدون",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "دیو و فرشته به خاک و آب درون شد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیو و فرشته در عالم ماده شکل گرفتند، دیو به شکل موجودی زشت و ناپسند درآمد و فرشته به شکل موجودی پاک و نیکو، مانند درخت زیتون."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "دیو مغیلان شد و فریشته زیتون",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "داد کن ار نام نیک خواهی ازیراک",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی نام نیک داشته باشی، باید به دیگران کمک کنی، زیرا از طریق داد و کمک به مردم است که فریدون به شهرت رسید."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "نامور از داد گشت شهره فریدون",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "هزل ز کس مشنو و مگوی ازیراک",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از کسی حرف بی‌خود نزن، و از تو هم کسی را به حماقت نکش. عقل تو با بی‌خودی دشمن است، مانند حسادت."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "عقل تو را دشمن است هزل، چو هپیون",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "چند بنالی که بد شده‌است زمانه؟",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چند بار برای بدی‌های دنیا شکایت می‌کنی؟ اشکال وجود خودت را به گردن زمانه نگذار."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "عیب تنت بر زمانه برفگنی چون؟",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "هرگز کی گفت این زمانه که «بد کن»؟",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز کسی نگفته است که این زمانه بدی می‌کند. چرا تو به حرف مردم توجه می‌کنی و خودت را به چنگال این افکار می‌سپاری؟"
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "مفتون چونی به قول عامهٔ مفتون؟",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "تو شده‌ای دیگر، این زمانه همان است،",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو تغییر کرده‌ای، اما این زمانه همانند گذشته باقی مانده است. کی می‌خواهی زمانه‌ای متفاوت و بهتر پیش بیاید، ای کسی که درک درستی از اوضاع نداری؟"
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "کی شود ای بی‌خرد زمانه دگرگون؟",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "دل به یقین ای پسر خزینهٔ دین است",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به یقین دل تو گنجینه‌ای از دین و ایمان است. چشمانت مانند روزنه‌ای هستند که نور را به درون می‌آورند و گوشت مانند زنگاری است که صداها را می‌شنود."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "چشم تو چون روزن است و گوش چو پرهون",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "گوهر دین چون در این خزینه نهادی",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیکی و ارزش‌های دینی را در دل خود نگه‌دار، و در این دوران سخت، با عزم و اراده‌ای قوی به پیش برو."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "روزن و پرهون رو تو سخت کن اکنون",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "روزن و پرهون چو بسته گشت، خیانت",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی درها و راه‌های ورودی بسته شود، خیانت و نیرنگ نمی‌تواند به گنجینه‌های باارزش دست یابد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "راه نیابد بسوی گوهر مخزون",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "منگر سوی حرام و جز حق مشنو",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به چیزی که حرام است نگاه نکن و جز حق را نشنو تا شیطان دزد تو را فریب ندهد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "تا نبرد دیو دزد سوی تو آهون",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "توبه کن از هر بدی به تربیت دین",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از هر کار ناپسند دست بکش و به اصلاح روح و روان خود بپرداز، چراکه روح تو همچون پیراهنی است که نیاز به پاکیزگی دارد و توبه مانند صابونی است که آن را تمیز می‌کند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "جانت چو پیراهن است و توبه چو صابون",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "زنده به آبند زندگان که چنین گفت",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگان با آب زنده‌اند، چرا که خداوند بزرگ این را به‌گونه‌ای بدون قید و شرط بیان کرده است."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "ایزد سبحان بی‌چگونه و بی‌چون",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "هرکه مر این آب را ندید، در این آب",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که این آب را نبیند، مانند هاروت، که تشنه می‌ماند، غرق در حسرت و درگیری‌های دنیوی خواهد بود، مانند ذوالنون."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "تشنه چو هاروت ماند غرقه چو ذوالنون",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "زنده نباشد حقیقت آنکه بمیرد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حقیقت هر چیزی که بمیرد زنده نیست، حتی اگر به خاک هم سپرده نشود."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "گرچه به خاک اندرون نباشد مدفون",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "زنده ز ما ای پسر نه این تن خاکی است",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که حقیقت و وجود انسانی فراتر از این جسم مادی و خاکی است. ما باید به روح و معنای عمیق‌تری نگاه کنیم، نه اینکه خود را محدود به دنیا و آموزه‌های صرفاً مادی کنیم. در واقع، ما باید به سوی پیامبران و آرمان‌های بزرگ و نه به سمت فلسفه‌های محدود بشری حرکت کنیم."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "سوی پیامبر، نه نیز سوی فلاطون",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "بلکه ز ما زنده و شریف و سخن گوی",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در بین ما، تنها کسی که زنده، با احترام و توانمند در سخن گفتن است، کسی است که روحش شاد و نیکبخت باشد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "نیست مگر جان بر خجسته و میمون",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "زنده به آب خدای خواهی گشتن",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی به خدا نزدیک شوی و زنده‌ات کند، نه به آب جیحون و نه به سیحون نیازی نداری."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "نه تو به جیحون مرده و نه به سیحون",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "هر که بدین آب مرده زنده شد، او را",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که با این آب مرده زنده شود، نمی‌توان او را زنده نامید جز اینکه جاهل و دیوانه باشد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "زنده نخواند مگر که جاهل و مجنون",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "مردم اگر ز آب مرده زنده بماندی",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مردم می‌توانستند از آب مرده زنده شوند، دیگر هیچ‌کس نمی‌مرد، حتی اگر بر لب جیحون باشند."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "خلق نمردی هگرز بر لب جیحون",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "آب خدای آنکه مرده زنده بدو کرد",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب مایه حیات است و می‌تواند مرده‌ها را زنده کند. این جمله به شخصی اشاره دارد که پسر یتیمی است و همچنین به برادر شخصی به نام شمعون اشاره شده است."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "آن پسر بی‌پدر برادر شمعون",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "در دهن پاک خویش داشت مر آن را",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او در دهن پاک خود آن را نگه داشت و از دهنش چیزی جز نفس بیرون نیامد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "وز دهنش جز به دم نیامد بیرون",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "اصل سخنها دم است سوی خردمند",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن اصلی و درست، به عملکرد عقل و خرد بستگی دارد. وقتی که فردی دانا به سخن می‌گوید، کلامش مانند یک معجون ارزشمند است که از ترکیب فکر و تجربه به وجود آمده است."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "معنی، باشد سخن به دم شده معجون",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "گر به فسون زنده کرد مرده مسیحا",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه مسیحا با جادو مرده را زنده کرد، اما برای من هیچ چیزی جز سخن زیبا و دلنشین وجود ندارد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "جز سخن خوب نیست سوی من، افسون",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "بنگر نیکو تو، از پی سخن، ادریس",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بنگر که ادریس چگونه با تلاش و علم خود به مرتبه بلند و والایی رسید. از آنجا که او از دیاری دور و با دانش و کوشش خود به این مقام دست یافت، این را در نظر داشته باش که چقدر مهم است که ما نیز در پی سخن و دانش باشیم."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "چون به مکان‌العلی رسید ز هامون",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "گر تو بیاموزی ای پسر سخن خوب",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو یاد بگیری، ای پسر، دانشی که به دست می‌آوری بسیار ارزشمندتر از ثروت قارون خواهد بود."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "خوار شود پیش تو خزانهٔ قارون",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "گرچه عزیز است زر زرت ندهد میر",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند طلا ارزشمند است، اما در برابر سخن خوب و موزون، چیزی از آن نمی‌تواند خریداری شود."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "چون سخنت خوب و خوش نیامد و موزون",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "گفتهٔ دانا چو ماه نو به فزون است",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفته‌های حکیمانه و دانا با ارزش و نو هستند، مانند ماه نو که در آسمان تازه و زیبا می‌درخشد. اما سخنان نادان به گونه‌ای قدیمی و بی‌ارزش شده‌اند که مانند عود سوخته و بی‌رنگ است."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "گفتهٔ نادان چنان کهن شده عرجون",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "فضل طبرخون نیافت سنجد هرگز",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که فضل و حسنش کم است، هرگز به مقام و ارزش سنجد (یک میوه با خاصیت) نخواهد رسید، گرچه از نظر ظاهر و جلوه، شبیه سنجد باشد."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "گرچه ز دیدن چو سنجد است طبرخون",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "فضل سخن کی شناسد آنکه نداند",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که اهمیت و ارزش سخن را نمی‌داند، چگونه می‌تواند فضل و برتری آن را بشناسد، در حالی که این برتری به اساس و رهبری و مجوز مرتبط است؟"
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "فضل اساس و امام و حجت و ماذون؟",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "طبع تو ای حجت خراسان در زهد",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای حجت خراسان، تو با طبع زاهدانه‌ات در زهد و پارسایی به خوبی درک می‌کنی و آن را به رشته‌ای از حکمت و علم پیوند می‌زنی."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "دُرّ همی درکشد به رشته همیدون",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "چون دلت از بلخ شد به یمگان خرسند",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی قلبت از بلخ (روستای بلخ) به یمگان (منطقه‌ای در افغانستان) خوشحال شد، دیگر چه فرقی می‌کند فریدون (پادشاه افسانه‌ای) به سمت تو بیاید یا فریغون (شخصیتی دیگر)؟"
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "پس چه فریدون به سوی تو چه فریغون",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    }
+  ]
+}

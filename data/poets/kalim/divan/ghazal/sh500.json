@@ -1,0 +1,176 @@
+{
+  "Id": 90575,
+  "CatId": 2376,
+  "Title": "غزل شمارهٔ  ۵۰۰",
+  "FullTitle": "کلیم » دیوان اشعار » غزلیات » غزل شمارهٔ  ۵۰۰",
+  "FullUrl": "/kalim/divan/ghazal/sh500",
+  "RhymeLetters": "ابندم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره عشق و درد و آرزوهای عاشقانه سخن می‌گوید. شاعر از تلاش برای درمان دردهای عاطفی‌اش می‌گوید و بیان می‌کند که با وجود سختی‌ها، عشق همچنان ادامه دارد. او به زیبایی‌ها و معشوقش اشاره می‌کند و احساساتی چون انتظار و فراق را توصیف می‌کند. در نهایت، شاعر به ناامیدی از یافتن راه‌حل برای مشکلاتش و عدم توانایی در بیان خواسته‌هایش اشاره می‌کند. این شعر تصویری از بحران‌ها و زیبایی‌های عشق را به تصویر می‌کشد.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابندم",
+      "PlainText": "بچاک سینه نه مرهم پی دوا بندم\r\nره فرار به صبر گریزپا بندم\r\nنبسته است کس از چاره راه برغم عشق\r\nبروی سیل چه سود ار در سرا بندم\r\nدر آن چمن که گل وصل دسته بندد غیر\r\nمرا بس اینکه نگه را به پشت پا بندم\r\nبروز عید چو قربان کنی حریفانرا\r\nمرا بگوی که دست ترا حنا بندم\r\nشمار هر سر موی تو گر دلم باشد\r\nهمه بموی میان تو دلربا بندم\r\nبیک نگاهم از آن چشم فتنه جو بنواز\r\nکه دست فتنه افلاک بر قفا بندم\r\nبهم به پیچم تار دل و رگ جان را\r\nکه صید معنی وحشی بمدعا بندم\r\nسفر ز جور تو ناچار شد مگر یکچند\r\nز خاک غربت مرهم بزخمها بندم\r\nبروز عید هوس گر کنم خودآرایی\r\nبخویش زیور از نقش بوریا بندم\r\nکلیم نیست گشایش چو با کلید طلب\r\nچو قفل بسته لب از حرف مدعا بندم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبچاک سینه نه مرهم پی دوا بندم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eره فرار به صبر گریزپا بندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبسته است کس از چاره راه برغم عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبروی سیل چه سود ار در سرا بندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آن چمن که گل وصل دسته بندد غیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا بس اینکه نگه را به پشت پا بندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبروز عید چو قربان کنی حریفانرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا بگوی که دست ترا حنا بندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمار هر سر موی تو گر دلم باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه بموی میان تو دلربا بندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیک نگاهم از آن چشم فتنه جو بنواز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دست فتنه افلاک بر قفا بندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهم به پیچم تار دل و رگ جان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه صید معنی وحشی بمدعا بندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسفر ز جور تو ناچار شد مگر یکچند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز خاک غربت مرهم بزخمها بندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبروز عید هوس گر کنم خودآرائی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبخویش زیور از نقش بوریا بندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکلیم نیست گشایش چو با کلید طلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو قفل بسته لب از حرف مدعا بندم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بچاک سینه نه مرهم پی دوا بندم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل‌تنگی‌ام را نه با دارو درمان می‌کنم و نه به صبر و شکیبایی می‌خواهم از آن فرار کنم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ره فرار به صبر گریزپا بندم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نبسته است کس از چاره راه برغم عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نتوانسته از چاره‌ی عشق خود را براند و اگر می‌خواهم در برابر سیل عشق خود را ببندم، این کار چه فایده‌ای دارد؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بروی سیل چه سود ار در سرا بندم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در آن چمن که گل وصل دسته بندد غیر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آن باغی که گل‌های عشق به هم می‌پیوندند، هیچ چیز دیگری برای من مهم نیست جز اینکه نگاه کسی را از خودم دور کنم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مرا بس اینکه نگه را به پشت پا بندم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بروز عید چو قربان کنی حریفانرا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی روز عید فرامی‌رسد و تو دوستانت را قربانی می‌کنی، به من بگو که من دستت را با حنا تزئین کنم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مرا بگوی که دست ترا حنا بندم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "شمار هر سر موی تو گر دلم باشد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر هر یک از موهایت شماره‌ای داشته باشد، من همه‌ی دل خود را به زیبایی موهای تو می‌بندم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "همه بموی میان تو دلربا بندم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بیک نگاهم از آن چشم فتنه جو بنواز",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به یک نگاه از تو نیاز دارم تا از شر فتنه‌ها و مشکلات دور شوم و بتوانم بر تمامی چالش‌ها غلبه کنم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که دست فتنه افلاک بر قفا بندم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بهم به پیچم تار دل و رگ جان را",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به هم می‌پیچم رشته‌های احساس و جانم را تا بتوانم به غایت معنای ناپیدا و آزاد را به دام کشم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که صید معنی وحشی بمدعا بندم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "سفر ز جور تو ناچار شد مگر یکچند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مجبور شدم به سفر بروم به خاطر ظلم و ستم تو، اما می‌خواهم مدتی در خاک غربت بمانم تا زخم‌هایم را التیام دهم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ز خاک غربت مرهم بزخمها بندم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بروز عید هوس گر کنم خودآرائی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز عید، اگر به زیبا کردن خود فکر کنم، به خودم می‌گویم که باید از نقش‌های ساده و باطراوت بگذرم و خود را با زینت‌های خاصی بیارایم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "بخویش زیور از نقش بوریا بندم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "کلیم نیست گشایش چو با کلید طلب",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گشایش و راه‌حل در زندگی به وسیله تلاش و خواسته‌های ما به دست می‌آید؛ در صورتی که در تلاش برای بیان احساسات و خواسته‌هایمان، خود را محدود کرده‌ایم و نمی‌توانیم به راحتی درباره آن‌ها صحبت کنیم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "چو قفل بسته لب از حرف مدعا بندم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ]
+}

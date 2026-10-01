@@ -1,0 +1,150 @@
+{
+  "Id": 55502,
+  "CatId": 1852,
+  "Title": "غزل شمارهٔ ۳۳۰۴",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۳۰۴",
+  "FullUrl": "/saeb/divan-saeb/ghazalkasa/sh3304",
+  "RhymeLetters": "ابردارد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساس عمیق نویسنده در مورد عشق و خواسته‌ها اشاره دارد. شاعر از کسی می‌خواهد که آثار حجاب و مانع را از بین ببرد و به او نزدیک‌تر شود. او همچنین از درد و رنج ناشی از جدایی سخن می‌گوید و بیان می‌کند که چگونه دلش پر از خواسته‌ها و آرزوهای غیر قابل دستیابی است. در این میان، مضمون تشنگی و بی‌صبر بودن برای رسیدن به معشوق نیز به وضوح دیده می‌شود. به طور کلی، شعر نمایانگر وفاداری، حسرت و امید در دل عاشق است.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابردارد",
+      "PlainText": "می کجا مهر حجاب از لب ما بردارد\r\nنه حباب است که هر موج ز جا بردارد\r\nرشته گوهر سیراب شود مژگانش\r\nهرکه خار از ره این آبله پا بردارد\r\nدل صد پاره اگر همرهی ما نکند\r\nکیست در راه طلب توشه ما بردارد\r\nدر بیابان طلب تشنه جگر بسیارست\r\nبه که هر آبله ای آب جدا بردارد\r\nاز مه عید جوانی دل ما صاف نشد\r\nمگر این زنگ ز دل قد دوتا بردارد\r\nآنقدر دور مشو از نظر ای صبح امید\r\nکه دل خونشده دستی به دعا بردارد\r\nمنفعل رفت ازین غمکده سیلاب برون\r\nکیست این گرد ملال از دل ما بردارد\r\nمی کند ساده زمین را ز عمارت صایب\r\nابر اگر آب ز چشم تر ما بردارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی کجا مهر حجاب از لب ما بردارد؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه حباب است که هر موج ز جا بردارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرشته گوهر سیراب شود مژگانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرکه خار از ره این آبله پا بردارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل صد پاره اگر همرهی ما نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکیست در راه طلب توشه ما بردارد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بیابان طلب تشنه جگر بسیارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه که هر آبله ای آب جدا بردارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مه عید جوانی دل ما صاف نشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر این زنگ ز دل قد دوتا بردارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنقدر دور مشو از نظر ای صبح امید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دل خونشده دستی به دعا بردارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنفعل رفت ازین غمکده سیلاب برون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکیست این گرد ملال از دل ما بردارد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی کند ساده زمین را ز عمارت صائب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابر اگر آب ز چشم تر ما بردارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می کجا مهر حجاب از لب ما بردارد؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کجا می‌توانیم انتظار داشته باشیم که عشق از لب ما پرده بردارد؟ این احساس به سادگی قابل تغییر نیست که هر باد یا تغییر سطحی آن را از بین ببرد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه حباب است که هر موج ز جا بردارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رشته گوهر سیراب شود مژگانش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از مشکلات و موانع این مسیر کنار برود، می‌تواند به ثروت و زیبایی دست یابد و دلش را از نگرانی‌ها پر کند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هرکه خار از ره این آبله پا بردارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دل صد پاره اگر همرهی ما نکند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دل من هم هزار پاره باشد، اگر کسی در مسیر خواسته‌ام به من کمک نکند، پس چه کسی می‌تواند در راه طلب، چیزی برای ما فراهم کند؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کیست در راه طلب توشه ما بردارد؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در بیابان طلب تشنه جگر بسیارست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در بیابان کسانی که به دنبال آب هستند، خیلی از درد و رنج می‌کشند. بهتر است هر کسی در پی آب و رفع تشنگی، بدون توجه به رنج‌های دیگران، به دنبال سرچشمه‌ای واقعی باشد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "به که هر آبله ای آب جدا بردارد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از مه عید جوانی دل ما صاف نشد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل ما هیچ‌گاه از زیبایی و طراوت جوانی پاک نشد، مگر این‌که بار سنگین و خاطرات گذشته از دل‌مان کنار برود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مگر این زنگ ز دل قد دوتا بردارد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "آنقدر دور مشو از نظر ای صبح امید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چنان دور نشو از چشم و نگاه ما ای صبح امید که دل خونین ما چیزی برای دعا کردن نداشته باشد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که دل خونشده دستی به دعا بردارد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "منفعل رفت ازین غمکده سیلاب برون",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سیلابی از این جای غمگین رفته، حالا چه کسی می‌تواند این غم و اندوه را از دل ما بزداید؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "کیست این گرد ملال از دل ما بردارد؟",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "می کند ساده زمین را ز عمارت صائب",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ابر به سادگی نقشی از زمین را از بین می‌برد، چنان که اگر باران از چشم‌های ما بریزد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ابر اگر آب ز چشم تر ما بردارد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ]
+}

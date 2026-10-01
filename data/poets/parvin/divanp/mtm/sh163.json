@@ -1,0 +1,1094 @@
+{
+  "Id": 10947,
+  "CatId": 150,
+  "Title": "شمارهٔ  ۱۶۳ - یاد یاران",
+  "FullTitle": "پروین اعتصامی » دیوان اشعار » مثنویات، تمثیلات و مقطعات » شمارهٔ  ۱۶۳ - یاد یاران",
+  "FullUrl": "/parvin/divanp/mtm/sh163",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به یک مومیایی اشاره می‌کند که در سکوت و انزوای خود به تأمل و تردید نشسته است. او از راز و رمزهای زندگی و گذشته‌اش می‌پرسد و به یاد روزهای شاد و پر نشاطش می‌افتد که همچون پرندگانی آزاد در طبیعت پرواز می‌کرد. حالا اما، این مومیایی در گوشه‌ای از دنیای بی‌تحرک رو به فراموشی رفته و به میزان زمان و تغییرات زندگی دیگران، هیچ واکنشی ندارد. شعر به تصویری از گذشت زمان و ناپایداری دنیا و انسان‌ها اشاره دارد، تا جایی که همگان به خاک سپرده شده‌اند و تنها مومیایی باقی مانده است. در انتها، شاعر از احساسات و نگرانی‌های عمیق این موجود سیاه صحبت می‌کند و از او می‌خواهد تا از تجربیات و درس‌های گذشته‌اش سخن بگوید، در حالی که خود را در اوج سکوت و تنهایی می‌یابد.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "ای جسم سیاه مومیایی\r\nکو آنهمه عجب و خودنمایی\r\nبا حال سکوت و بهت چونی\r\nدر عالم انزوا چرایی\r\nآژنگ ز رخ نمیکنی دور\r\nز ابروی گره نمیگشایی\r\nمعلوم نشد به فکر و پرسش\r\nاین راز که شاه یا گدایی\r\nگر گمره و آزمند بودی\r\nامروز چه شد که پارسایی\r\nبا ما و نه در میان مایی\r\nوقتی ز غرور و شوق و شادی\r\nپا بر سر چرخ می نهادی\r\nبودی چو پرندگان سبکروح\r\nدر گلشن و کوهسار و وادی\r\nآن روز چه رسم و راه بودت\r\nامروز نه سفله ای نه رادی\r\nپیکان قضا بسر خلیدت\r\nچون شد که ز پا نیوفتادی\r\nصد قرن گذشته و تو تنها\r\nدر گوشه دخمه ایستادی\r\nگویی که ز سنگ خاره زادی\r\nکردی ز کدام جام می نوش\r\nکاین گونه شدی نژند و مدهوش\r\nبر رهگذر که دوختی چشم\r\nایام ترا چه گفت در گوش\r\nبند تو که بر گشود از پای\r\nبار تو که برگرفت از دوش\r\nدر عالم نیستی چه دیدی\r\nکاینسان متحیری و خاموش\r\nدست چه کسی بدست بودت\r\nاز بهر که باز کردی آغوش\r\nدیری است که گشته ای فراموش\r\nشاید که سمند مهر راندی\r\nنانی بگرسنه ای رساندی\r\nآفت زده حوادثی را\r\nاز ورطه عجز وارهاندی\r\nاز دامن غرقه ای گرفتی\r\nتا دامن ساحلش کشاندی\r\nهر قصه که گفتنی است گفتی\r\nهر نامه که خواندنیست خواندی\r\nپهلوی شکستگان نشستی\r\nاز پای فتاده را نشاندی\r\nفرجام چرا ز کار ماندی\r\nگویی بتو داده اند سوگند\r\nکاین راز نهان کنی به لبخند\r\nاین دست که گشته است پر چین\r\nبودست چو شاخه ای برومند\r\nکردست هزار مشکل آسان\r\nبستست هزار عهد و پیوند\r\nبنموده به گمرهی ره راست\r\nبگشوده ز پای بنده ای بند\r\nشاید که به بزمگاه فرعون\r\nبگرفته و داده ساغری چند\r\nکو دولت آن جهان خداوند\r\nزان دم که تو خفته ای درین غار\r\nگردنده سپهر گشته بسیار\r\nبس پاک دلان و نیک کاران\r\nآلوده شدند و زشت کردار\r\nبس جنگ به آشتی بدل شد\r\nبس صلح و صفا که گشت پیکار\r\nبس زنگ که پاک شد به صیقل\r\nبس آینه را گرفت زنگار\r\nبس باز و تذرو را تبه کرد\r\nشاهین عدم بچنگ و منقار\r\nای یار سخن بگوی با یار\r\nای مرده و کرده زندگانی\r\nای زنده مرده هیچ دانی\r\nبس پادشهان و سرافرازان\r\nبردند بخاک حکمرانی\r\nبس رمز ز دفتر سلیمان\r\nخواندند به دیو رایگانی\r\nبگذشت چه قرنها چه ایام\r\nگه باغم و گه بشادمانی\r\nبس کاخ بلند پایه شد پست\r\nاما تو بجای همچنانی\r\nبر قلعه مرگ مرزبانی\r\nشداد نماند در شماری\r\nبا کار قضا نکرد کاری\r\nنمرود و بلند برج بابل\r\nشد خاک و برفت با غباری\r\nمانا که ترا دلی پریشان\r\nدر سینه تپیده روزگاری\r\nدر راه تو اوفتاده سنگی\r\nدر پای تو در شکسته خاری\r\nدزدیده بچهره سیاهت\r\nغلتیده سرشک انتظاری\r\nدر رهگذر عزیز یاری\r\n\r\n\r\nشاید که ترا بروی زانو\r\nجا داشته کودکی سخنگو\r\nروزیش کشیده ای بدامن\r\nگاهیش نشانده ای به پهلو\r\nگه گریه و گاه خنده کرده\r\nبوسیده گهت و سر گهی رو\r\nیکبار نهاده دل به بازی\r\nیک لحظه ترا گرفته بازو\r\nگامی زده با تو کودکانه\r\nپرسیده ز شهر و برج و بارو\r\nدر پای تو هیچ مانده نیرو\r\nگرد از رخ جان پاک رفتی\r\nوین نکته ز غافلان نهفتی\r\nاندرز گذشتگان شنیدی\r\nحرفی ز گذشته ها نگفتی\r\nاز فتنه و گیر و دار طاقی\r\nبا عبرت و بمی و بهت جفتی\r\nداد و ستد زمانه چون بود\r\nای دوست چه دادی و گرفتی\r\nاینجا اثری ز رفتگان نیست\r\nچون شد که تو ماندی و نرفتی\r\nچشم تو نگاه کرد و خفتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای جسم سیاه مومیائی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو آنهمه عجب و خودنمائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا حال سکوت و بهت، چونی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عالم انزوا چرائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآژنگ ز رخ نمیکنی دور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز ابروی، گره نمیگشائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعلوم نشد به فکر و پرسش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین راز که شاه یا گدائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر گمره و آزمند بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز چه شد که پارسائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eبا ما و نه در میان مائی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقتی ز غرور و شوق و شادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپا بر سر چرخ می‌نهادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبودی چو پرندگان، سبکروح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر گلشن و کوهسار و وادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن روز، چه رسم و راه بودت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز، نه سفله‌ای، نه رادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیکان قضا بسر خلیدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شد که ز پا نیوفتادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد قرن گذشته و تو تنها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر گوشهٔ دخمه ایستادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn12\u0022\u003E\u003Cp\u003Eگوئی که ز سنگ خاره زادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردی ز کدام جام می نوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین گونه شدی نژند و مدهوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر رهگذر که، دوختی چشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایام، ترا چه گفت در گوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبند تو، که بر گشود از پای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبار تو، که برگرفت از دوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عالم نیستی، چه دیدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاینسان متحیری و خاموش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست چه کسی، بدست بودت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بهر که، باز کردی آغوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn18\u0022\u003E\u003Cp\u003Eدیری است که گشته‌ای فراموش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاید که سمند مهر راندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنانی بگرسنه‌ای رساندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفت زدهٔ حوادثی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ورطهٔ عجز وارهاندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دامن غرقه‌ای گرفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دامن ساحلش کشاندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر قصه که گفتنی است، گفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر نامه که خواندنیست خواندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپهلوی شکستگان نشستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز پای فتاده را نشاندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn24\u0022\u003E\u003Cp\u003Eفرجام، چرا ز کار ماندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوئی بتو داده‌اند سوگند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین راز، نهان کنی به لبخند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین دست که گشته است پر چین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبودست چو شاخه‌ای برومند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردست هزار مشکل آسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبستست هزار عهد و پیوند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنموده به گمرهی، ره راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگشوده ز پای بنده‌ای، بند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاید که به بزمگاه فرعون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگرفته و داده ساغری چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn30\u0022\u003E\u003Cp\u003Eکو دولت آن جهان خداوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان دم که تو خفته‌ای درین غار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردنده سپهر، گشته بسیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس پاک دلان و نیک کاران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآلوده شدند و زشت کردار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس جنگ، به آشتی بدل شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس صلح و صفا که گشت پیکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس زنگ که پاک شد به صیقل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس آینه را گرفت زنگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس باز و تذرو را تبه کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاهین عدم، بچنگ و منقار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn36\u0022\u003E\u003Cp\u003Eای یار، سخن بگوی با یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرده و کرده زندگانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای زندهٔ مرده، هیچ دانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس پادشهان و سرافرازان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبردند بخاک، حکمرانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس رمز ز دفتر سلیمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواندند به دیو، رایگانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگذشت چه قرنها، چه ایام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه باغم و گه بشادمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس کاخ بلند پایه، شد پست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما تو بجای، همچنانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn42\u0022\u003E\u003Cp\u003Eبر قلعهٔ مرگ، مرزبانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشداد نماند در شماری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا کار قضا نکرد کاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمرود و بلند برج بابل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد خاک و برفت با غباری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمانا که ترا دلی پریشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سینه تپیده روزگاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر راه تو، اوفتاده سنگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پای تو، در شکسته خاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدزدیده، بچهرهٔ سیاهت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغلتیده سرشک انتظاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn48\u0022\u003E\u003Cp\u003Eدر رهگذر عزیز یاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاید که ترا بروی زانو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجا داشته کودکی سخنگو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزیش کشیده‌ای بدامن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهیش نشانده‌ای به پهلو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه گریه و گاه خنده کرده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوسیده گهت و سر گهی رو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکبار، نهاده دل به بازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک لحظه، ترا گرفته بازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگامی زده با تو کودکانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرسیده ز شهر و برج و بارو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn55\u0022\u003E\u003Cp\u003Eدر پای تو، هیچ مانده نیرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرد از رخ جان پاک رفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین نکته ز غافلان نهفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندرز گذشتگان شنیدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرفی ز گذشته‌ها نگفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز فتنه و گیر و دار، طاقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا عبرت و بمی و بهت، جفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداد و ستد زمانه چون بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای دوست، چه دادی و گرفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاینجا اثری ز رفتگان نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شد که تو ماندی و نرفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn61\u0022\u003E\u003Cp\u003Eچشم تو نگاه کرد و خفتی\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 60
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ایی",
+      "PlainText": "ای جسم سیاه مومیایی\r\nکو آنهمه عجب و خودنمایی\r\nبا حال سکوت و بهت چونی\r\nدر عالم انزوا چرایی\r\nآژنگ ز رخ نمیکنی دور\r\nز ابروی گره نمیگشایی\r\nمعلوم نشد به فکر و پرسش\r\nاین راز که شاه یا گدایی\r\nگر گمره و آزمند بودی\r\nامروز چه شد که پارسایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای جسم سیاه مومیائی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو آنهمه عجب و خودنمائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا حال سکوت و بهت، چونی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عالم انزوا چرائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآژنگ ز رخ نمیکنی دور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز ابروی، گره نمیگشائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعلوم نشد به فکر و پرسش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین راز که شاه یا گدائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر گمره و آزمند بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز چه شد که پارسائی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ادی",
+      "PlainText": "وقتی ز غرور و شوق و شادی\r\nپا بر سر چرخ می نهادی\r\nبودی چو پرندگان سبکروح\r\nدر گلشن و کوهسار و وادی\r\nآن روز چه رسم و راه بودت\r\nامروز نه سفله ای نه رادی\r\nپیکان قضا بسر خلیدت\r\nچون شد که ز پا نیوفتادی\r\nصد قرن گذشته و تو تنها\r\nدر گوشه دخمه ایستادی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقتی ز غرور و شوق و شادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپا بر سر چرخ می‌نهادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبودی چو پرندگان، سبکروح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر گلشن و کوهسار و وادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن روز، چه رسم و راه بودت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز، نه سفله‌ای، نه رادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیکان قضا بسر خلیدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شد که ز پا نیوفتادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد قرن گذشته و تو تنها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر گوشهٔ دخمه ایستادی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "وش",
+      "PlainText": "کردی ز کدام جام می نوش\r\nکاین گونه شدی نژند و مدهوش\r\nبر رهگذر که دوختی چشم\r\nایام ترا چه گفت در گوش\r\nبند تو که بر گشود از پای\r\nبار تو که برگرفت از دوش\r\nدر عالم نیستی چه دیدی\r\nکاینسان متحیری و خاموش\r\nدست چه کسی بدست بودت\r\nاز بهر که باز کردی آغوش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردی ز کدام جام می نوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین گونه شدی نژند و مدهوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر رهگذر که، دوختی چشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایام، ترا چه گفت در گوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبند تو، که بر گشود از پای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبار تو، که برگرفت از دوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عالم نیستی، چه دیدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاینسان متحیری و خاموش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست چه کسی، بدست بودت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بهر که، باز کردی آغوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اندی",
+      "PlainText": "شاید که سمند مهر راندی\r\nنانی بگرسنه ای رساندی\r\nآفت زده حوادثی را\r\nاز ورطه عجز وارهاندی\r\nاز دامن غرقه ای گرفتی\r\nتا دامن ساحلش کشاندی\r\nهر قصه که گفتنی است گفتی\r\nهر نامه که خواندنیست خواندی\r\nپهلوی شکستگان نشستی\r\nاز پای فتاده را نشاندی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاید که سمند مهر راندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنانی بگرسنه‌ای رساندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفت زدهٔ حوادثی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ورطهٔ عجز وارهاندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دامن غرقه‌ای گرفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دامن ساحلش کشاندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر قصه که گفتنی است، گفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر نامه که خواندنیست خواندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپهلوی شکستگان نشستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز پای فتاده را نشاندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ند",
+      "PlainText": "گویی بتو داده اند سوگند\r\nکاین راز نهان کنی به لبخند\r\nاین دست که گشته است پر چین\r\nبودست چو شاخه ای برومند\r\nکردست هزار مشکل آسان\r\nبستست هزار عهد و پیوند\r\nبنموده به گمرهی ره راست\r\nبگشوده ز پای بنده ای بند\r\nشاید که به بزمگاه فرعون\r\nبگرفته و داده ساغری چند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوئی بتو داده‌اند سوگند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین راز، نهان کنی به لبخند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین دست که گشته است پر چین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبودست چو شاخه‌ای برومند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردست هزار مشکل آسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبستست هزار عهد و پیوند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنموده به گمرهی، ره راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگشوده ز پای بنده‌ای، بند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاید که به بزمگاه فرعون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگرفته و داده ساغری چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "زان دم که تو خفته ای درین غار\r\nگردنده سپهر گشته بسیار\r\nبس پاک دلان و نیک کاران\r\nآلوده شدند و زشت کردار\r\nبس جنگ به آشتی بدل شد\r\nبس صلح و صفا که گشت پیکار\r\nبس زنگ که پاک شد به صیقل\r\nبس آینه را گرفت زنگار\r\nبس باز و تذرو را تبه کرد\r\nشاهین عدم بچنگ و منقار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان دم که تو خفته‌ای درین غار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردنده سپهر، گشته بسیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس پاک دلان و نیک کاران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآلوده شدند و زشت کردار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس جنگ، به آشتی بدل شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس صلح و صفا که گشت پیکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس زنگ که پاک شد به صیقل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس آینه را گرفت زنگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس باز و تذرو را تبه کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاهین عدم، بچنگ و منقار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "انی",
+      "PlainText": "ای مرده و کرده زندگانی\r\nای زنده مرده هیچ دانی\r\nبس پادشهان و سرافرازان\r\nبردند بخاک حکمرانی\r\nبس رمز ز دفتر سلیمان\r\nخواندند به دیو رایگانی\r\nبگذشت چه قرنها چه ایام\r\nگه باغم و گه بشادمانی\r\nبس کاخ بلند پایه شد پست\r\nاما تو بجای همچنانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرده و کرده زندگانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای زندهٔ مرده، هیچ دانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس پادشهان و سرافرازان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبردند بخاک، حکمرانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس رمز ز دفتر سلیمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواندند به دیو، رایگانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگذشت چه قرنها، چه ایام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه باغم و گه بشادمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس کاخ بلند پایه، شد پست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما تو بجای، همچنانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اری",
+      "PlainText": "شداد نماند در شماری\r\nبا کار قضا نکرد کاری\r\nنمرود و بلند برج بابل\r\nشد خاک و برفت با غباری\r\nمانا که ترا دلی پریشان\r\nدر سینه تپیده روزگاری\r\nدر راه تو اوفتاده سنگی\r\nدر پای تو در شکسته خاری\r\nدزدیده بچهره سیاهت\r\nغلتیده سرشک انتظاری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشداد نماند در شماری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا کار قضا نکرد کاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمرود و بلند برج بابل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد خاک و برفت با غباری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمانا که ترا دلی پریشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سینه تپیده روزگاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر راه تو، اوفتاده سنگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پای تو، در شکسته خاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدزدیده، بچهرهٔ سیاهت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغلتیده سرشک انتظاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "شاید که ترا بروی زانو\r\nجا داشته کودکی سخنگو\r\nروزیش کشیده ای بدامن\r\nگاهیش نشانده ای به پهلو\r\nگه گریه و گاه خنده کرده\r\nبوسیده گهت و سر گهی رو\r\nیکبار نهاده دل به بازی\r\nیک لحظه ترا گرفته بازو\r\nگامی زده با تو کودکانه\r\nپرسیده ز شهر و برج و بارو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاید که ترا بروی زانو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجا داشته کودکی سخنگو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزیش کشیده‌ای بدامن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهیش نشانده‌ای به پهلو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه گریه و گاه خنده کرده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوسیده گهت و سر گهی رو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکبار، نهاده دل به بازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک لحظه، ترا گرفته بازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگامی زده با تو کودکانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرسیده ز شهر و برج و بارو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "فتی",
+      "PlainText": "گرد از رخ جان پاک رفتی\r\nوین نکته ز غافلان نهفتی\r\nاندرز گذشتگان شنیدی\r\nحرفی ز گذشته ها نگفتی\r\nاز فتنه و گیر و دار طاقی\r\nبا عبرت و بمی و بهت جفتی\r\nداد و ستد زمانه چون بود\r\nای دوست چه دادی و گرفتی\r\nاینجا اثری ز رفتگان نیست\r\nچون شد که تو ماندی و نرفتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرد از رخ جان پاک رفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین نکته ز غافلان نهفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندرز گذشتگان شنیدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرفی ز گذشته‌ها نگفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز فتنه و گیر و دار، طاقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا عبرت و بمی و بهت، جفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداد و ستد زمانه چون بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای دوست، چه دادی و گرفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاینجا اثری ز رفتگان نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شد که تو ماندی و نرفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 12,
+      "Number": 13,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "با ما و نه در میان مایی\r\nگویی که ز سنگ خاره زادی\r\nدیری است که گشته ای فراموش\r\nفرجام چرا ز کار ماندی\r\nکو دولت آن جهان خداوند\r\nای یار سخن بگوی با یار\r\nبر قلعه مرگ مرزبانی\r\nدر رهگذر عزیز یاری\r\nدر پای تو هیچ مانده نیرو\r\nچشم تو نگاه کرد و خفتی",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبا ما و نه در میان مائی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eگوئی که ز سنگ خاره زادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eدیری است که گشته‌ای فراموش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eفرجام، چرا ز کار ماندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eکو دولت آن جهان خداوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eای یار، سخن بگوی با یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn7\u0022\u003E\u003Cp\u003Eبر قلعهٔ مرگ، مرزبانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn8\u0022\u003E\u003Cp\u003Eدر رهگذر عزیز یاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn9\u0022\u003E\u003Cp\u003Eدر پای تو، هیچ مانده نیرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn10\u0022\u003E\u003Cp\u003Eچشم تو نگاه کرد و خفتی\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای جسم سیاه مومیائی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای بدن سیاه مومیایی، کجا هستی با آن همه شگفتی و خودنمایی؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کو آنهمه عجب و خودنمائی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با حال سکوت و بهت، چونی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: با حالت سکوت و حیرت، چرا در دنیای تنهایی سر می‌زنی؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در عالم انزوا چرائی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آژنگ ز رخ نمیکنی دور",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: چهره‌ات را نمی‌نمایانی و از ابرویی که داری، هیچ گره‌ای را نمی‌گشائی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز ابروی، گره نمیگشائی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "معلوم نشد به فکر و پرسش",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این موضوع اشاره دارد که هیچ‌کس نتوانسته به درستی بفهمد که آیا کسی که در نظر گرفته می‌شود، فردی مانند شاه است یا یک گدای ساده. به عبارتی، تفاوت بین مقام و موقعیت‌ها در ظاهر و واقعیت پنهان شده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این راز که شاه یا گدائی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر گمره و آزمند بودی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: اگر در گذشته گمراه و طمع‌کار بودی، امروز چه شده است که به پارسایی و دیانت رسیده‌ای؟"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "امروز چه شد که پارسائی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 11,
+      "Position": "CenteredVerse1",
+      "Text": "با ما و نه در میان مائی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: با ما باشید و نه اینکه فقط در میان ما قرار داشته باشید."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Right",
+      "Text": "وقتی ز غرور و شوق و شادی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: وقتی با احساس سرشار از غرور و خوشحالی، بر فراز زندگی قدم برمی‌دارد."
+    },
+    {
+      "VOrder": 13,
+      "Position": "Left",
+      "Text": "پا بر سر چرخ می‌نهادی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 14,
+      "Position": "Right",
+      "Text": "بودی چو پرندگان، سبکروح",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: شبیه پرندگان بودی، آزاد و خوش‌روح در باغ‌ها، کوه‌ها و دره‌ها."
+    },
+    {
+      "VOrder": 15,
+      "Position": "Left",
+      "Text": "در گلشن و کوهسار و وادی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 16,
+      "Position": "Right",
+      "Text": "آن روز، چه رسم و راه بودت",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: آن روز که در رفتار و کردار تو، رسم خاصی وجود داشت، امروز دیگر نه به انسان‌های پستی وابسته‌ای، نه به کسانی که ارزشی ندارند."
+    },
+    {
+      "VOrder": 17,
+      "Position": "Left",
+      "Text": "امروز، نه سفله‌ای، نه رادی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 18,
+      "Position": "Right",
+      "Text": "پیکان قضا بسر خلیدت",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: چگونه شد که تیر تقدیر به تو اصابت کرد اما تو بر زمین نیفتادی؟"
+    },
+    {
+      "VOrder": 19,
+      "Position": "Left",
+      "Text": "چون شد که ز پا نیوفتادی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 20,
+      "Position": "Right",
+      "Text": "صد قرن گذشته و تو تنها",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: صد قرن گذشته و تو همچنان در یک مکان دورافتاده و تاریک مانده‌ای."
+    },
+    {
+      "VOrder": 21,
+      "Position": "Left",
+      "Text": "در گوشهٔ دخمه ایستادی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 22,
+      "Position": "CenteredVerse1",
+      "Text": "گوئی که ز سنگ خاره زادی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که تو از سنگ سخت و بی‌رحم به دنیا آمده‌ای."
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "کردی ز کدام جام می نوش",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از کدام جام شراب نوشیده‌ای که این‌گونه غمگین و گیج شده‌ای؟"
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "کاین گونه شدی نژند و مدهوش",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "بر رهگذر که، دوختی چشم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ای روزگار، وقتی که به رهگذر نگاه کردی و به او چشم دوختی، چه چیزی را در گوش او whispered؟"
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "ایام، ترا چه گفت در گوش",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "بند تو، که بر گشود از پای",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: کسی که زنجیر تو را باز کرد و بار سنگین تو را از دوش تو برداشت، فقط اوست که تو را از بند رهایی می‌دهد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "بار تو، که برگرفت از دوش",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "در عالم نیستی، چه دیدی",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در دنیای عدم، چه چیزی را مشاهده کردی که این افراد در شگفتی و سکوت به سر می‌برند؟"
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "کاینسان متحیری و خاموش",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "دست چه کسی، بدست بودت",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این بیت به بیان این مفهوم می‌پردازد که شخص از چه کسی یا چیزی حمایت و پشتیبانی گرفته که توانسته است به استقبال دیگری بیاید و آغوش خود را باز کند. این احساس می‌تواند به نوعی نشان‌دهنده اعتماد و نزدیکی باشد که فرد نسبت به دیگری دارد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "از بهر که، باز کردی آغوش",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 33,
+      "Position": "CenteredVerse1",
+      "Text": "دیری است که گشته‌ای فراموش",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: مدت زیادی است که تو را فراموش کرده‌ام."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Right",
+      "Text": "شاید که سمند مهر راندی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: شاید توانسته‌ای اسب خود را برانید و نانی به گرسنگی برسانی."
+    },
+    {
+      "VOrder": 35,
+      "Position": "Left",
+      "Text": "نانی بگرسنه‌ای رساندی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 36,
+      "Position": "Right",
+      "Text": "آفت زدهٔ حوادثی را",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تو توانسته‌ای فردی را که دچاره مشکلات و ناکامی‌ها شده از غرق شدن در عجز و ناتوانی نجات دهی."
+    },
+    {
+      "VOrder": 37,
+      "Position": "Left",
+      "Text": "از ورطهٔ عجز وارهاندی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 38,
+      "Position": "Right",
+      "Text": "از دامن غرقه‌ای گرفتی",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تو از دامن دریا به ساحل رسیدی و آن را به خودت کشاندی."
+    },
+    {
+      "VOrder": 39,
+      "Position": "Left",
+      "Text": "تا دامن ساحلش کشاندی",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 40,
+      "Position": "Right",
+      "Text": "هر قصه که گفتنی است، گفتی",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هر داستانی که قابلیت بیان دارد، تو بیان کردی و هر نامه‌ای که قابلیت خواندن دارد، تو خواندی."
+    },
+    {
+      "VOrder": 41,
+      "Position": "Left",
+      "Text": "هر نامه که خواندنیست خواندی",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 42,
+      "Position": "Right",
+      "Text": "پهلوی شکستگان نشستی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در کنار افرادی که شکست خورده‌اند نشستی و به کسی که از پا افتاده است، آرامشی دادی."
+    },
+    {
+      "VOrder": 43,
+      "Position": "Left",
+      "Text": "از پای فتاده را نشاندی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 44,
+      "Position": "CenteredVerse1",
+      "Text": "فرجام، چرا ز کار ماندی",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، چرا از کار و کوشش بازماندی؟"
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "گوئی بتو داده‌اند سوگند",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: گویی به تو قسم داده‌اند که این راز را با لبخند پنهان کنی."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "کاین راز، نهان کنی به لبخند",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "این دست که گشته است پر چین",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: این دست که اکنون پر از چروک و چین شده، شبیه به شاخه‌ای است که درختی بلند و سرسبز باشد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "بودست چو شاخه‌ای برومند",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "کردست هزار مشکل آسان",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: او هزار مشکل را حل کرده و هزاران عهد و پیوند را برقرار ساخته است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "بستست هزار عهد و پیوند",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "بنموده به گمرهی، ره راست",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به توجیه به گمراهی، راه صحیحی به پای یک بنده باز شده است."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "بگشوده ز پای بنده‌ای، بند",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "شاید که به بزمگاه فرعون",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شاید در مجلس مهمانی فرعون، چند جام شراب را در دست گرفته و به کسی داده باشد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "بگرفته و داده ساغری چند",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 55,
+      "Position": "CenteredVerse1",
+      "Text": "کو دولت آن جهان خداوند",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: خوشبختی و نعمت زندگی در دست خداوند است."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Right",
+      "Text": "زان دم که تو خفته‌ای درین غار",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: از زمانی که تو در این غار تاریک خوابیده‌ای، دنیا و زمان دچار تغییرات زیادی شده‌اند."
+    },
+    {
+      "VOrder": 57,
+      "Position": "Left",
+      "Text": "گردنده سپهر، گشته بسیار",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 58,
+      "Position": "Right",
+      "Text": "بس پاک دلان و نیک کاران",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تعداد زیادی از انسان‌های باصفا و نیکوکار دچار آلودگی شدند و کسانی که کردار زشت دارند بیشتر از اینها شدند."
+    },
+    {
+      "VOrder": 59,
+      "Position": "Left",
+      "Text": "آلوده شدند و زشت کردار",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 60,
+      "Position": "Right",
+      "Text": "بس جنگ، به آشتی بدل شد",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: دیگر جنگ‌ها به صلح تبدیل شد و اینقدر آرامش و دوستی ایجاد شد که درگیری‌ها به پایان رسید."
+    },
+    {
+      "VOrder": 61,
+      "Position": "Left",
+      "Text": "بس صلح و صفا که گشت پیکار",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 62,
+      "Position": "Right",
+      "Text": "بس زنگ که پاک شد به صیقل",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: بعد از مدت‌ها که زنگارها از روی آینه پاک شدند، حالا آینه دوباره نور و روشنی خود را به دست آورده است."
+    },
+    {
+      "VOrder": 63,
+      "Position": "Left",
+      "Text": "بس آینه را گرفت زنگار",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 64,
+      "Position": "Right",
+      "Text": "بس باز و تذرو را تبه کرد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: شاهین وجود پرندگان را با چنگال و نوکش نابود کرد و آن‌ها را به یاد عدم انداخت."
+    },
+    {
+      "VOrder": 65,
+      "Position": "Left",
+      "Text": "شاهین عدم، بچنگ و منقار",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 66,
+      "Position": "CenteredVerse1",
+      "Text": "ای یار، سخن بگوی با یار",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، با یار خود سخن بگوی."
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "ای مرده و کرده زندگانی",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که مرده و زندگی را تمام کرده‌ای، ای کسی که در حال زندگی، مرده‌ای، آیا چیزی می‌دانی؟"
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "ای زندهٔ مرده، هیچ دانی",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "بس پادشهان و سرافرازان",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از پادشاهان و افراد برجسته به خاک سپرده شده‌اند و حکمرانی‌ آنها به پایان رسیده است."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "بردند بخاک، حکمرانی",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "بس رمز ز دفتر سلیمان",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره شده است که بسیاری از رازها و اسرار را از نوشته‌های سلیمان خوانده‌اند و این موضوع به‌طور رایگان و بدون هزینه‌ای برای دیوان و چیزهای دیگر بیان شده است. این تعبیر می‌تواند به نوعی نشان‌دهنده این باشد که دانش و حکمت سلیمان در دسترس همه قرار دارد."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "خواندند به دیو، رایگانی",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "بگذشت چه قرنها، چه ایام",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: سال‌ها و زمان‌های زیادی گذشته است، برخی اوقات در حزن و غم بوده‌ام و برخی دیگر در شادی و خوشحالی."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "گه باغم و گه بشادمانی",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "بس کاخ بلند پایه، شد پست",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از کاخ‌های بلند و بزرگ، به زیر آمده‌اند، اما تو همچنان در جایگاه خود ثابت و استوار باقی مانده‌ای."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "اما تو بجای، همچنانی",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 77,
+      "Position": "CenteredVerse1",
+      "Text": "بر قلعهٔ مرگ، مرزبانی",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در دژی که مرگ در آن قرار دارد، کسی به نگهبانی ایستاده است."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Right",
+      "Text": "شداد نماند در شماری",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: شداد، که یکی از قدرتمندان و ستمگران تاریخ است، نتوانست در برابر سرنوشت دوام بیاورد و در نهایت با کارهایش نتوانست مانع از وقوع تقدیر شود."
+    },
+    {
+      "VOrder": 79,
+      "Position": "Left",
+      "Text": "با کار قضا نکرد کاری",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 80,
+      "Position": "Right",
+      "Text": "نمرود و بلند برج بابل",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نمرود و برج بلند بابل روزی در اوج خود بودند، اما سرانجام به خاک تبدیل شدند و با گذر زمان فراموش شدند."
+    },
+    {
+      "VOrder": 81,
+      "Position": "Left",
+      "Text": "شد خاک و برفت با غباری",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 82,
+      "Position": "Right",
+      "Text": "مانا که ترا دلی پریشان",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معنی است که تو در دل خود احساساتی ناپایدار و نگران داری که در طول زمان لحظه به لحظه تپیده و زندگی‌ات را تحت تأثیر قرار داده است."
+    },
+    {
+      "VOrder": 83,
+      "Position": "Left",
+      "Text": "در سینه تپیده روزگاری",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 84,
+      "Position": "Right",
+      "Text": "در راه تو، اوفتاده سنگی",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در مسیر تو، مانعی وجود دارد؛ سنگی که در راهت افتاده و خارهایی که می‌توانند به تو آسیب برسانند."
+    },
+    {
+      "VOrder": 85,
+      "Position": "Left",
+      "Text": "در پای تو، در شکسته خاری",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 86,
+      "Position": "Right",
+      "Text": "دزدیده، بچهرهٔ سیاهت",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: چشم انتظار تو با چهره‌ای غمگین و اشک‌هایی از سر ناامیدی به سر می‌برد."
+    },
+    {
+      "VOrder": 87,
+      "Position": "Left",
+      "Text": "غلتیده سرشک انتظاری",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 88,
+      "Position": "CenteredVerse1",
+      "Text": "در رهگذر عزیز یاری",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در مسیر کسی که برایم عزیز است، یار و همراهی وجود دارد."
+    },
+    {
+      "VOrder": 89,
+      "Position": "Paragraph",
+      "Text": "",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 90,
+      "Position": "Paragraph",
+      "Text": "",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "شاید که ترا بروی زانو",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: شاید بر روی زانویم جایی برای تو باشد، مانند یک کودک صحبت کننده."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "جا داشته کودکی سخنگو",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "روزیش کشیده‌ای بدامن",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: تو روزی را به دامن او کشانده‌ای و آن را در کنار او قرار داده‌ای."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "گاهیش نشانده‌ای به پهلو",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "گه گریه و گاه خنده کرده",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: گاهی گریه کرده‌ام و گاهی هم خندیده‌ام؛ گاه تو را بوسیده‌ام و گاه سرم را پایین انداخته‌ام."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "بوسیده گهت و سر گهی رو",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "یکبار، نهاده دل به بازی",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: یک بار دل را به بازی سپردم و برای یک لحظه تو را در آغوش گرفتم."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "یک لحظه، ترا گرفته بازو",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "گامی زده با تو کودکانه",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: با تو گام‌هایی برداشته‌ام و به شیوه‌ای کودکانه درباره شهر و برج‌ها و دژها سؤال کرده‌ام."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "پرسیده ز شهر و برج و بارو",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 101,
+      "Position": "CenteredVerse1",
+      "Text": "در پای تو، هیچ مانده نیرو",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در برابر تو، دیگر هیچ نیرویی برایم باقی نمانده است."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Right",
+      "Text": "گرد از رخ جان پاک رفتی",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تو با رفتن از این دنیای پاک و روشن، گرد غفلت را از چهره‌ات دور کردی و این نکته را از چشم بی‌خبران پنهان نگه داشتی."
+    },
+    {
+      "VOrder": 103,
+      "Position": "Left",
+      "Text": "وین نکته ز غافلان نهفتی",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 104,
+      "Position": "Right",
+      "Text": "اندرز گذشتگان شنیدی",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: حرف‌های گذشتگان را شنیدی، اما چیزی از تجربیات گذشته را یاد نگرفتی."
+    },
+    {
+      "VOrder": 105,
+      "Position": "Left",
+      "Text": "حرفی ز گذشته‌ها نگفتی",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 106,
+      "Position": "Right",
+      "Text": "از فتنه و گیر و دار، طاقی",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در میان آشفتگی‌ها و مشکلات، به یک تجربه و درس عبرت تلنگر می‌زنیم تا با آرامش به زندگی ادامه دهیم."
+    },
+    {
+      "VOrder": 107,
+      "Position": "Left",
+      "Text": "با عبرت و بمی و بهت، جفتی",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 108,
+      "Position": "Right",
+      "Text": "داد و ستد زمانه چون بود",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: دوست عزیز، در زندگی و در تعاملات با دیگران چه چیزی را به دست آوردی و چه چیزی را از دست دادی، به یاد داشته باش."
+    },
+    {
+      "VOrder": 109,
+      "Position": "Left",
+      "Text": "ای دوست، چه دادی و گرفتی",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 110,
+      "Position": "Right",
+      "Text": "اینجا اثری ز رفتگان نیست",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در اینجا نشانه‌ای از کسانی که رفته‌اند وجود ندارد، چطور ممکن است که تو اینجا مانده‌ای و نرفته‌ای؟"
+    },
+    {
+      "VOrder": 111,
+      "Position": "Left",
+      "Text": "چون شد که تو ماندی و نرفتی",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 112,
+      "Position": "CenteredVerse1",
+      "Text": "چشم تو نگاه کرد و خفتی",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: چشم تو به من نگریست و من در خواب فرو رفتم."
+    }
+  ]
+}

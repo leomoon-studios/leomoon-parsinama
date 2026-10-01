@@ -1,0 +1,180 @@
+{
+  "Id": 50997,
+  "CatId": 1828,
+  "Title": "غزل شمارهٔ ۵",
+  "FullTitle": "باباافضل کاشانی » غزلیات » غزل شمارهٔ ۵",
+  "FullUrl": "/babaafzal/ghazalba/sh5",
+  "RhymeLetters": "ابرم",
+  "SourceName": "الف. رسته",
+  "SourceUrlSlug": "raste",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به نوعی سرگردانی و سردرگمی در رابطه با معشوق خود اشاره دارد. او از جستجو و تلاش برای یافتن راهی به سوی معشوق سخن می‌گوید و ابراز می‌کند که در این مسیر دچار گمگشتی است. شاعر احساس می‌کند که نه تنها در جستجوی معشوق، بلکه در درک خود نیز دچار بلاتکلیفی و سردرگمی است. به رغم آگاهی‌اش از وجود معشوق در دل، نمی‌تواند راهی برای بیان این احساسات پیدا کند. همچنین، او به این نکته اشاره می‌کند که جدا از معشوق، وجودش را نمی‌یابد و در نهایت به بیان این اندیشه می‌پردازد که نام و هویت انسان‌ها بی‌معنا و بی‌اهمیت است در برابر عشق و نزدیکی به معشوق.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابرم",
+      "PlainText": "سرگشته وار بر تو گمان خطا برم\r\nبی آنکه هیچ راه به چون و چرا برم\r\nاز جان و از تنم نتوانم به شرح گفت\r\nکاندر رهت ز هر دو چه مایه بلا برم\r\nمن رخت بینوایی تن بر کجا نهم\r\nمن جان زینهاری خود را کجا برم\r\nدانم که در دلی و جدا نیست دل ز تو\r\nلیکن به دل چگونه بگو ره فرا برم\r\nدل نیز گم شده ست و ندانم کنون که من\r\nبی دل به نزد تو نبرم راه یا برم\r\nگویند راه بردی از او باز ده نشان\r\nآری دهم نشانی از آن لیک تا برم\r\nدر جستنم همیشه که در جست وجوی تو\r\nره زی بقا اگر نبرم زی فنا برم\r\nمن بی تو نیستم من و خود را نیابم ایچ\r\nگر بر زمین بدارم اگر بر هوا برم\r\nمگذار نزد خویشم اگر هیچ زین سپس\r\nمن نام ما و من به صواب و خطا برم\r\nما از کجا و من ز کجا ما و من تویی\r\nبیهوده چند نام من و نام ما برم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرگشته وار بر تو گمان خطا برم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی آنکه هیچ راه به چون و چرا برم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جان و از تنم نتوانم به شرح گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر رهت، ز هر دو، چه مایه بلا برم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن رخت بینوایی تن بر کجا نهم؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن جان زینهاری خود را کجا برم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانم که در دلی و جدا نیست دل ز تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیکن به دل چگونه، بگو، ره فرا برم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل نیز گم شده‌ست و ندانم کنون که من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی دل به نزد تو نبرم راه، یا برم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند راه بردی از او، باز ده نشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری دهم نشانی از آن، لیک تا برم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جستنم همیشه؛ که در جست‌وجوی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eره زی بقا اگر نبرم، زی فنا برم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بی تو نیستم، من و خود را نیابم ایچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر بر زمین بدارم، اگر بر هوا برم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگذار نزد خویشم اگر هیچ زین سپس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن نام ما و من به صواب و خطا برم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما از کجا و من ز کجا؟ ما و من تویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیهوده چند نام من و نام ما برم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرگشته وار بر تو گمان خطا برم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خود را به حالتی سردرگم می‌یابم و بی‌گمان به تو فکر می‌کنم، بدون اینکه راهی برای سوال کردن یا توضیحی برای خودم پیدا کنم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی آنکه هیچ راه به چون و چرا برم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از جان و از تنم نتوانم به شرح گفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از جان و تنم نمی‌توانم به خوبی توضیح دهم که در مسیر تو، چه مقدار رنج از هر دو آزاد می‌شوم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کاندر رهت، ز هر دو، چه مایه بلا برم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "من رخت بینوایی تن بر کجا نهم؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من لباس فقر و نادانی را کجا بپوشم؟ کیستی خود را در این حال آشفته کجا ببرم؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "من جان زینهاری خود را کجا برم؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دانم که در دلی و جدا نیست دل ز تو",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌دانم که در دل تو جا داری و دل من از تو جدا نیست، اما بگو چطور می‌توانم با دل خودم به تو برسم؟"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "لیکن به دل چگونه، بگو، ره فرا برم؟",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دل نیز گم شده‌ست و ندانم کنون که من",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من هم گم شده و حالا نمی‌دانم که آیا بدون دل می‌توانم به سوی تو بروم یا نه."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بی دل به نزد تو نبرم راه، یا برم؟",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گویند راه بردی از او، باز ده نشان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که تو از او نشانی گرفتی، حالا اگر بخواهی، می‌توانی نشانی به او نشان دهی، اما من تا زمانی که نروم، نمی‌توانم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "آری دهم نشانی از آن، لیک تا برم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "در جستنم همیشه؛ که در جست‌وجوی تو",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همیشه در جستجوی تو هستم؛ چرا که اگر در راه تو به بقای جاودانی نرسم، لااقل به فنا و نابودی خواهم رفت."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "ره زی بقا اگر نبرم، زی فنا برم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "من بی تو نیستم، من و خود را نیابم ایچ",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من بدون تو وجود ندارم، حتی اگر من را بر زمین بگذارند یا در آسمان ببرند، نمی‌توانم خودم را پیدا کنم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "گر بر زمین بدارم، اگر بر هوا برم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "مگذار نزد خویشم اگر هیچ زین سپس",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر هیچ مشکلی در ارتباط با خویشانم ندارید، پس به من اجازه ندهید که نام ما و هویتم را به درستی یا نادرستی ببرم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "من نام ما و من به صواب و خطا برم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ما از کجا و من ز کجا؟ ما و من تویی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از کجا شروع کرده‌ایم و تو از کجا؟ چرا ما و تو باید خود را با نام‌های متفاوتی خطاب کنیم؟ این تقسیم‌بندی‌ها چه معنایی دارند؟"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "بیهوده چند نام من و نام ما برم؟",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ]
+}

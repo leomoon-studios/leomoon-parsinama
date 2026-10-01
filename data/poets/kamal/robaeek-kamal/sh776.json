@@ -1,0 +1,60 @@
+{
+  "Id": 72513,
+  "CatId": 2061,
+  "Title": "شمارهٔ ۷۷۶",
+  "FullTitle": "کمال‌الدین اسماعیل » رباعیات » شمارهٔ ۷۷۶",
+  "FullUrl": "/kamal/robaeek-kamal/sh776",
+  "RhymeLetters": "ای",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده از سختی‌های دل و احساساتی که به خاطر عشق و غم معشوقش تجربه می‌کند، صحبت می‌کند. او به ناتوانی خود در برابر این احساسات اشاره می‌کند و می‌گوید که جانش مانند شمعی در حال خاموشی است و غم معشوق به او فشار می‌آورد. به طور کلی، این سرود تجلی دلتنگی و رنج ناشی از عشق است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ای",
+      "PlainText": "شد در سر کار این دل کار افزای\r\nصبر و خرد و هر چه مرا بدبر جای\r\nجانی بسر آمدست چون شمع مرا\r\nوان تیز ز دست غم تو بر سر پای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد در سر کار این دل کار افزای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبر و خرد و هر چه مرا بدبر جای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانی بسر آمدست چون شمع مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان تیز ز دست غم تو بر سر پای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شد در سر کار این دل کار افزای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دل من، با کار و فعالیتش باعث شده صبر و خرد من بیشتر شود و هر آنچه که مرا در موقعیت‌های بد قرار داده، خودش را به نمایش گذاشته است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صبر و خرد و هر چه مرا بدبر جای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جانی بسر آمدست چون شمع مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح و جانم به پایان رسیده مانند شمعی که خاموش شده و غم تو مانند ضربه‌ای تند بر سر و پای من فرود می‌آید."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وان تیز ز دست غم تو بر سر پای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

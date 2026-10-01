@@ -1,0 +1,650 @@
+{
+  "Id": 62302,
+  "CatId": 1858,
+  "Title": "شمارهٔ ۱۷۲۰",
+  "FullTitle": "امیرخسرو دهلوی » دیوان اشعار » غزلیات » شمارهٔ ۱۷۲۰",
+  "FullUrl": "/khosro/gozide/ghazalamkh/sh1720",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به وصف عید و حال و هوای خوش آن می‌پردازد. او توصیفاتی از شب عید، سرمستی مستان و شکوفایی طبیعت دارد. در این ایام، همه جا پر از شادی و گلاب و می‌باشد و خوبان در کوی خمار گرد هم آمده‌اند. همچنین، زیبایی‌های شب و صبح را با تصاویری نظیر چشمه، گل و خورشید توصیف می‌کند. از طرفی، حالت شگفتی و سرمستی در همراهی با مصرف نوشیدنی‌ها و لذت‌های زندگی را برجسته می‌کند. شاعر به وضوح احساسات عمیق و شاداب انسان‌ها را در این ایام خاص بیان می‌کند، جایی که عقل و دل هر دو به عشق و سرور مشغول‌اند. این ترکیب از زیبایی، نشاط و عشق در عید، نماد زندگی و سرمستی انسان‌هاست.",
+  "Metre": {
+    "Id": 16,
+    "Rhythm": "مستفعلن مستفعلن مستفعلن مستفعلن (رجز مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارامده",
+      "PlainText": "عید است خوبان نیم شب در کوی خمار آمده\r\nسرمست گشته صبحدم غلتان به بازار آمده\r\nعید آمد از چرخ برین پر شادمانی بین زمین\r\nمه را چو زرین جام بین از بهر خمار آمده\r\nبا ظلمت شب شکل مه چون ناخن شیر سیه\r\nآهوی مشرق رو به ره افتاده افسار آمده\r\nاینک سپیده کرد اثر در صبح عیدی کن نظر\r\nوز می رخ مستان نگر چون برگ گلنار آمده\r\nچشمه که آب آرد برون دیدی به کهسار اندرون\r\nبین چشمه آتش که چون بیرون ز کهسار آمده\r\nاز دهرهای بی سکون چون سلخ شد مه بین که چون\r\nپهلوگه سلخش که چون بی هیچ آزار آمده\r\nباز از لطافت سر به سر کرده لبان نغزتر\r\nهر یک بر آیین دگر خونریز و خونخوار آمده\r\nگویی که ابر اندر فلک پیلی ست آن بی هیچ شک\r\nوان پیل را زرین کجک بر سر نگونسار آمده\r\nانگشترین بی نگین وز بهر آن انگشترین\r\nچندین هزار انگشت بین هر سو پدیدار آمده\r\nهر کس به کف کرده ملی هر دل شکفته چون گلی\r\nوز کوس هر سو غلغلی در چرخ دوار آمده\r\nشب کس نخفته خواب را خوبان گلاب ناب را\r\nنقل و می و جلاب را هر سو خریدار آمده\r\nخوش خوش گلاب مشکبو گشته روان از چار سو\r\nزو خانه و بازار و کو چون صحن گلزار آمده\r\nشب مار دودانگیز دان صبح از دمش خنده زنان\r\nگویی که ضحاکی ست آن اندر دم مار آمده\r\nخورشید تیغ آتشین زنگار چرخش همنشین\r\nآن تیغ را بر چرخ بین روشن ز زنگار آمده\r\nدر خانه هر خورشیدوش گلگونه تر کرده خوش\r\nآن تیغ را بر بر چرخ بین روشن ز زنگار آمده\r\nدر خانه هر خورشیدوش گلگونه تر کرده خوش\r\nمژگان چو تیر نیم کش لبها چو سوفار آمده\r\nدر عید گه گشته روان هر سوی چون پیر و جوان\r\nهم عقل برده هم روان دل دزد و طرار آمده\r\nرانده براق صفت شکن در عیدگه شاه ز من\r\nبسته به گردش آن چمن چون شه به پیکار آمده\r\nعالم گرفته نور خور ور کس درو کرده نظر\r\nعطش دماغش را نگر از تاب انوار آمده\r\nبرتافته جعد سیه وز ناز کج کرده کله\r\nوز روی ایشان عیدگه یغما و خونخوار آمده\r\nجوشان به مرکب گرم رو در دیده میدان کرده نو\r\nدر هر رکابش نوبه نو گنبدگری کار آمده\r\nمیخواره را امروز بین غرق شراب شکرین\r\nموری ست اندر انگبین گویی گرفتار آمده\r\nچنگ از نوای ارغنون از بس که جانی کرده خون\r\nتن تن کنان جانی برون از زیر هر تار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعید است خوبان نیم شب در کوی خمار آمده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمست گشته صبحدم، غلتان به بازار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعید آمد از چرخ برین، پر شادمانی بین زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمه را چو زرین جام بین از بهر خمار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا ظلمت شب شکل مه چون ناخن شیر سیه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآهوی مشرق رو به ره افتاده افسار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاینک سپیده کرد اثر، در صبح عیدی کن نظر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز می رخ مستان نگر چون برگ گلنار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمه که آب آرد برون دیدی به کهسار اندرون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبین چشمه آتش که چون بیرون ز کهسار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دهرهای بی سکون چون سلخ شد مه بین که چون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپهلوگه سلخش که چون بی هیچ آزار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز از لطافت سر به سر کرده لبان نغزتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر یک بر آیین دگر خونریز و خونخوار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی که ابر اندر فلک پیلی ست آن بی هیچ شک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان پیل را زرین کجک بر سر نگونسار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانگشترین بی نگین وز بهر آن انگشترین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندین هزار انگشت بین هر سو پدیدار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس به کف کرده ملی، هر دل شکفته چون گلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز کوس هر سو غلغلی در چرخ دوار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب کس نخفته خواب را، خوبان گلاب ناب را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقل و می و جلاب را هر سو خریدار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش خوش گلاب مشکبو گشته روان از چار سو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزو خانه و بازار و کو چون صحن گلزار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب مار دودانگیز دان، صبح از دمش خنده زنان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که ضحاکی ست آن اندر دم مار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید تیغ آتشین زنگار چرخش همنشین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن تیغ را بر چرخ بین روشن ز زنگار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خانه هر خورشیدوش گلگونه تر کرده خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن تیغ را بر بر چرخ بین روشن ز زنگار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خانه هر خورشیدوش گلگونه تر کرده خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمژگان چو تیر نیم کش، لبها چو سوفار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عید گه گشته روان هر سوی چون پیر و جوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم عقل برده هم روان دل دزد و طرار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرانده براق صفت شکن در عیدگه شاه ز من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسته به گردش آن چمن، چون شه به پیکار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم گرفته نور خور، ور کس درو کرده نظر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعطش دماغش را نگر از تاب انوار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرتافته جعد سیه، وز ناز کج کرده کله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز روی ایشان عیدگه یغما و خونخوار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوشان به مرکب گرم رو، در دیده میدان کرده نو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر هر رکابش نوبه نو گنبدگری کار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیخواره را امروز بین غرق شراب شکرین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموری ست اندر انگبین گویی گرفتار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنگ از نوای ارغنون از بس که جانی کرده خون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتن تن کنان جانی برون از زیر هر تار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 23
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ارامده",
+      "PlainText": "عید است خوبان نیم شب در کوی خمار آمده\r\nسرمست گشته صبحدم غلتان به بازار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعید است خوبان نیم شب در کوی خمار آمده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمست گشته صبحدم، غلتان به بازار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "عید آمد از چرخ برین پر شادمانی بین زمین\r\nمه را چو زرین جام بین از بهر خمار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعید آمد از چرخ برین، پر شادمانی بین زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمه را چو زرین جام بین از بهر خمار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "با ظلمت شب شکل مه چون ناخن شیر سیه\r\nآهوی مشرق رو به ره افتاده افسار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا ظلمت شب شکل مه چون ناخن شیر سیه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآهوی مشرق رو به ره افتاده افسار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "اینک سپیده کرد اثر در صبح عیدی کن نظر\r\nوز می رخ مستان نگر چون برگ گلنار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاینک سپیده کرد اثر، در صبح عیدی کن نظر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز می رخ مستان نگر چون برگ گلنار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "چشمه که آب آرد برون دیدی به کهسار اندرون\r\nبین چشمه آتش که چون بیرون ز کهسار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمه که آب آرد برون دیدی به کهسار اندرون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبین چشمه آتش که چون بیرون ز کهسار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "از دهرهای بی سکون چون سلخ شد مه بین که چون\r\nپهلوگه سلخش که چون بی هیچ آزار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دهرهای بی سکون چون سلخ شد مه بین که چون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپهلوگه سلخش که چون بی هیچ آزار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "باز از لطافت سر به سر کرده لبان نغزتر\r\nهر یک بر آیین دگر خونریز و خونخوار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز از لطافت سر به سر کرده لبان نغزتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر یک بر آیین دگر خونریز و خونخوار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "گویی که ابر اندر فلک پیلی ست آن بی هیچ شک\r\nوان پیل را زرین کجک بر سر نگونسار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی که ابر اندر فلک پیلی ست آن بی هیچ شک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان پیل را زرین کجک بر سر نگونسار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "انگشترین بی نگین وز بهر آن انگشترین\r\nچندین هزار انگشت بین هر سو پدیدار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانگشترین بی نگین وز بهر آن انگشترین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندین هزار انگشت بین هر سو پدیدار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "هر کس به کف کرده ملی هر دل شکفته چون گلی\r\nوز کوس هر سو غلغلی در چرخ دوار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس به کف کرده ملی، هر دل شکفته چون گلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز کوس هر سو غلغلی در چرخ دوار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "شب کس نخفته خواب را خوبان گلاب ناب را\r\nنقل و می و جلاب را هر سو خریدار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب کس نخفته خواب را، خوبان گلاب ناب را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقل و می و جلاب را هر سو خریدار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "خوش خوش گلاب مشکبو گشته روان از چار سو\r\nزو خانه و بازار و کو چون صحن گلزار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش خوش گلاب مشکبو گشته روان از چار سو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزو خانه و بازار و کو چون صحن گلزار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "شب مار دودانگیز دان صبح از دمش خنده زنان\r\nگویی که ضحاکی ست آن اندر دم مار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب مار دودانگیز دان، صبح از دمش خنده زنان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی که ضحاکی ست آن اندر دم مار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "خورشید تیغ آتشین زنگار چرخش همنشین\r\nآن تیغ را بر چرخ بین روشن ز زنگار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید تیغ آتشین زنگار چرخش همنشین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن تیغ را بر چرخ بین روشن ز زنگار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انتیغرابربرچرخبینروشنززنگارامده",
+      "PlainText": "در خانه هر خورشیدوش گلگونه تر کرده خوش\r\nآن تیغ را بر بر چرخ بین روشن ز زنگار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خانه هر خورشیدوش گلگونه تر کرده خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن تیغ را بر بر چرخ بین روشن ز زنگار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "در خانه هر خورشیدوش گلگونه تر کرده خوش\r\nمژگان چو تیر نیم کش لبها چو سوفار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خانه هر خورشیدوش گلگونه تر کرده خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمژگان چو تیر نیم کش، لبها چو سوفار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "در عید گه گشته روان هر سوی چون پیر و جوان\r\nهم عقل برده هم روان دل دزد و طرار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عید گه گشته روان هر سوی چون پیر و جوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم عقل برده هم روان دل دزد و طرار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "رانده براق صفت شکن در عیدگه شاه ز من\r\nبسته به گردش آن چمن چون شه به پیکار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرانده براق صفت شکن در عیدگه شاه ز من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسته به گردش آن چمن، چون شه به پیکار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "عالم گرفته نور خور ور کس درو کرده نظر\r\nعطش دماغش را نگر از تاب انوار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم گرفته نور خور، ور کس درو کرده نظر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعطش دماغش را نگر از تاب انوار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "برتافته جعد سیه وز ناز کج کرده کله\r\nوز روی ایشان عیدگه یغما و خونخوار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرتافته جعد سیه، وز ناز کج کرده کله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز روی ایشان عیدگه یغما و خونخوار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "جوشان به مرکب گرم رو در دیده میدان کرده نو\r\nدر هر رکابش نوبه نو گنبدگری کار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوشان به مرکب گرم رو، در دیده میدان کرده نو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر هر رکابش نوبه نو گنبدگری کار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "میخواره را امروز بین غرق شراب شکرین\r\nموری ست اندر انگبین گویی گرفتار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیخواره را امروز بین غرق شراب شکرین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموری ست اندر انگبین گویی گرفتار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "چنگ از نوای ارغنون از بس که جانی کرده خون\r\nتن تن کنان جانی برون از زیر هر تار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنگ از نوای ارغنون از بس که جانی کرده خون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتن تن کنان جانی برون از زیر هر تار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عید است خوبان نیم شب در کوی خمار آمده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: عید فرا رسیده و نیروی جوانی و زیبایی در نیمه شب به فروشگاه‌های شادابی و سرمستی آمده‌اند. در سپیده دم، آنها در حالی که مست و شاداب هستند، به بازار می‌پیچند و در این مکان شلوغ می‌چرخند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سرمست گشته صبحدم، غلتان به بازار آمده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عید آمد از چرخ برین، پر شادمانی بین زمین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: عید فرا رسیده و از آسمان شادی را به زمین آورده است. زمین را مانند جامی طلایی از خوشحالی مشاهده کن که به خاطر سرمستی و لذت، پر از نشاط شده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مه را چو زرین جام بین از بهر خمار آمده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با ظلمت شب شکل مه چون ناخن شیر سیه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در تاریکی شب، نور ماه مانند ناخن شیر سیاه است که در شرق، آهو به سمت راه حرکت کرده و افسار آن به دست گرفته شده است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آهوی مشرق رو به ره افتاده افسار آمده",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اینک سپیده کرد اثر، در صبح عیدی کن نظر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به زودی صبح روشن خواهد شد. در این روز عید، به زیبایی‌ها توجه کن و به چهره نوشیدنی‌نوشان نگاه کن که مانند برگ‌های گل نارنجی آمده‌اند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "وز می رخ مستان نگر چون برگ گلنار آمده",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چشمه که آب آرد برون دیدی به کهسار اندرون",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: وقتی چشمه‌ای را می‌بینی که آب زلالی از آن جاری می‌شود، به یاد داشته باش که در دل کوه، چشمه دیگری وجود دارد که آتشین است و وقتی از دل کوه بیرون می‌آید، حال و هوای متفاوتی دارد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بین چشمه آتش که چون بیرون ز کهسار آمده",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "از دهرهای بی سکون چون سلخ شد مه بین که چون",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دوران‌های ناآرام به پایان می‌رسند، مانند اینکه آخر ماه است، باید دید که این پایان چگونه است و اگر بدون هیچ آسیبی به سر آمده باشد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "پهلوگه سلخش که چون بی هیچ آزار آمده",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "باز از لطافت سر به سر کرده لبان نغزتر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: دوباره از لطافت مواد و زیبایی لبان، هر یک شیوه‌ای متفاوت و زیبا به خود گرفته‌اند، اما در عین حال با خونسردی و بی رحمی خاصی ظاهر شده‌اند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "هر یک بر آیین دگر خونریز و خونخوار آمده",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "گویی که ابر اندر فلک پیلی ست آن بی هیچ شک",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که در آسمان ابر بزرگی مانند فیل وجود دارد و بدون هیچ تردیدی، این فیل با تاجی طلایی بر سرش به سمت پایین مِیل کرده است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "وان پیل را زرین کجک بر سر نگونسار آمده",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "انگشترین بی نگین وز بهر آن انگشترین",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: انگشتر بی نگین به معنای این است که هرچند انگشتر زیبا نیست، اما به خاطر آن، هزاران انگشت در هر طرف دیده می‌شوند. به عبارت دیگر، گاه صورت ظاهری یک چیز چندان مهم نیست و ارزش واقعی را می‌توان در چیزهای دیگر جستجو کرد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "چندین هزار انگشت بین هر سو پدیدار آمده",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "هر کس به کف کرده ملی، هر دل شکفته چون گلی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در دستانش مال و ثروتی دارد، هر دل شاد و سرزنده‌ای مانند گل است و از هر سوی صدا و سر و صدایی در زندگی به گوش می‌رسد که نشان‌دهنده شادی و جنب و جوش است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "وز کوس هر سو غلغلی در چرخ دوار آمده",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "شب کس نخفته خواب را، خوبان گلاب ناب را",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در شب، هیچ‌کس نمی‌خوابد و خوبان از گلاب ناب صحبت می‌کنند. در این زمان، همه جا افرادی هستند که خواهان شراب و خوشگوارند."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "نقل و می و جلاب را هر سو خریدار آمده",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "خوش خوش گلاب مشکبو گشته روان از چار سو",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: عطر دل‌انگیز گل و مشک در هوا پخش شده و از هر سو به گوش می‌رسد که مردم از خانه‌ها، بازارها و کوچه‌ها همچون گلستانی شاداب و زیبا به این فضا آمده‌اند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "زو خانه و بازار و کو چون صحن گلزار آمده",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "شب مار دودانگیز دان، صبح از دمش خنده زنان",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در شب، مار پر از دود دانی به نظر می‌رسد و صبح که دمش را بیرون می‌آورد، به نظر می‌آید که این دم خنده‌دار است، گویی ضحاکی که در آن دم مار پنهان شده است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "گویی که ضحاکی ست آن اندر دم مار آمده",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "خورشید تیغ آتشین زنگار چرخش همنشین",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: خورشید مانند تیغی آتشین در آسمان می‌درخشد و در این حرکتش، درخشش آن تیغ را بر چرخ (افق) مشاهده می‌کنیم که از زنگار پاک شده و روشن است."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "آن تیغ را بر چرخ بین روشن ز زنگار آمده",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "در خانه هر خورشیدوش گلگونه تر کرده خوش",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در خانه هر خورشید، زیبایی بیشتری به آن تیغ بخشیده و چرخ را که از زنگار پاک شده، روشن‌تر کرده است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "آن تیغ را بر بر چرخ بین روشن ز زنگار آمده",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "در خانه هر خورشیدوش گلگونه تر کرده خوش",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در هر خانه‌ای که خورشید درخشان‌تر می‌تابد و گل‌ها زیباتر می‌شوند، چشمان پرمهر و زیبا مانند تیر کمان کشیده، لب‌ها نیز به نرمی و زیبایی شبیه ساز توت فرنگی هستند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "مژگان چو تیر نیم کش، لبها چو سوفار آمده",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "در عید گه گشته روان هر سوی چون پیر و جوان",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: در روز عید، همه جا پر از شادی و سرور است. همه، چه بزرگ و چه کوچک، با دل‌های شاد و عقل‌های روشن به جشن و خوشی پرداخته‌اند. دل‌ها پر از شوق و آرزو است و افراد با حالتی خوش به دور هم جمع شده‌اند."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "هم عقل برده هم روان دل دزد و طرار آمده",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "رانده براق صفت شکن در عیدگه شاه ز من",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: براق (که به ظرافت و زیبایی معروف است) به خاطر جشن شاه از من دور شده و در چمن به دور می‌چرخد. مثل اینکه شاه به جنگ آمده است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "بسته به گردش آن چمن، چون شه به پیکار آمده",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "عالم گرفته نور خور، ور کس درو کرده نظر",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: جهان از نور خورشید محروم شده است و اگر کسی در این عالم نگاه کند، تشنگی در درونش حس می‌شود؛ چرا که از تابش انوار برانگیخته شده است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "عطش دماغش را نگر از تاب انوار آمده",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "برتافته جعد سیه، وز ناز کج کرده کله",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: موهای سیاه و فر او به زیبایی گیسو شده و از ناز و زیبایی‌اش سرش را به طور کج نگه داشته است. چهره‌اش همچون یک عید برای دزدان و خون‌آشامان است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "وز روی ایشان عیدگه یغما و خونخوار آمده",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "جوشان به مرکب گرم رو، در دیده میدان کرده نو",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: سوار بر اسب داغ باید به جلو حرکت کنی، در عرصه نبرد چشمانت را همیشه باز نگه‌دار. هر گام که برمی‌داری، نوید شروعی تازه را به همراه دارد و هنرمندی در کار است که در مسیر تو قرار گرفته."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "در هر رکابش نوبه نو گنبدگری کار آمده",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "میخواره را امروز بین غرق شراب شکرین",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: امروز می‌‌بینی که یک آدم میخواره در حال لذت بردن از شراب شیرین است، مثل اینکه موری در روغن عسل افتاده و به دام افتاده!"
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "موری ست اندر انگبین گویی گرفتار آمده",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "چنگ از نوای ارغنون از بس که جانی کرده خون",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: چنگ از صدای موسیقی به قدری شورانگیز است که روح انسان را به وجد می‌آورد و با هر نوا، جان از تن رهایی می‌یابد. هر تار این ساز، صدای جانداری را به بیرون می‌آورد و زندگی را به تصویر می‌کشد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "تن تن کنان جانی برون از زیر هر تار آمده",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24
+    }
+  ]
+}

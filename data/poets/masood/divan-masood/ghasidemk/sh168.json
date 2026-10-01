@@ -1,0 +1,623 @@
+{
+  "Id": 63718,
+  "CatId": 1863,
+  "Title": "شمارهٔ ۱۶۸ - ستایش سیف الدوله محمود",
+  "FullTitle": "مسعود سعد سلمان » دیوان اشعار » قصاید » شمارهٔ ۱۶۸ - ستایش سیف الدوله محمود",
+  "FullUrl": "/masood/divan-masood/ghasidemk/sh168",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر از شب‌های طولانی و تاریک که به هنگام فراق معشوق می‌گذرد، سخن می‌گوید و احساس ناامیدی و نیاز را به تصویر می‌کشد. او شب را مانند چنبره‌ای می‌بیند که در آن گرفتار است و در تضاد با روشنایی روز، آرزو و امیدش را گم کرده است. عشق او را در وضعیتی گیج‌کننده قرار داده تا جایی که نمی‌تواند میان فراز و نشیب عشقش تمایز قائل شود. \n\nبا اشاره به نیکویی‌های زندگی و لزوم شاد زیستن، شاعر به خواننده یادآوری می‌کند که در برابر مشکلات زندگی باید با شجاعت و نرمی برخورد کرد و نباید خود را تحت تأثیر ناملایمات قرار داد. او از قدرت و بزرگی \u0022خسرو\u0022 و عدل و دولت او می‌گوید و آرزو می‌کند که زندگی همواره پر از شادی و نشاط باشد، با تأکید بر اهمیت محافل شاد و هنرهای نمایشی مانند موسیقی و رقص. \n\nبه طور کلی، شعر دعوت به شاد زیستن و هنر را در زمانی که عشق و زندگی دستخوش چالش است، می‌کند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "شبی چو روز فراق بتان سیاه و دراز\r\nدرازتر ز امید و سیاه تر ز نیاز\r\nز دور چرخ فرو ایستاده چنبر چرخ\r\nشبم چو چنبر بسته در آخرش آغاز\r\nبرآمده ز صحیفه فلک چو شب انجم\r\nچو روز در دل گیتی فرو شده آواز\r\nمن و جهان متحیر ز یکدگر هر دو\r\nپدید و پنهان گشته مرا و او را راز\r\nمرا ز رفتن معشوق دیده لؤلؤ ریز\r\nورا ز آمدن شب سپهر لؤلؤ ساز\r\nچه چاره سازم کز عشق آن نگار دلم\r\nز شادمانی فردست و با غمان انباز\r\nفراز عشق مرا در نشیبی افکندست\r\nکه باز می نشناسم نشیب را ز فراز\r\nدلا چه داری انده به شاد کامی زی\r\nبتاب غم چه گدازی به ناز و لهو گزار\r\nاگر سپهر بگردد ز حال خود تو مگرد\r\nوگر زمانه نسازد تو با زمانه بساز\r\nکسی چه دارد غم کش بود خداوندی\r\nبسان خسرو محمود شاه بنده نواز\r\nخدایگان جهان سیف دولت آنکه برو\r\nدر سعادت شد بر جهان دولت باز\r\nبسوخت خانه ظلم و بکند خانه کفر\r\nبرید بیخ نیاز و درید جامه آز\r\nکند چو گرم کند باره عقاب صفت\r\nعقاب مرگی گردد سنان او پرواز\r\nبرند بی شک هر روز خسروان بزرگ\r\nبه پیش خانه او چون به پیش کعبه نماز\r\nگذشت سوی حجاز آفتاب کینه او\r\nاز آن همیشه بود تافته زمین حجاز\r\nبه خواب دیدست اهواز تیغ او زان رو\r\nز تب تهی نبود هیچ بقعه اهواز\r\nندید یارد دشمن سپاه او را روی\r\nاز آنکه بر وی کوته شود بقای دراز\r\nکجا تواند دیدن گوزن طلعت شیر\r\nچگونه یارد دیدن کوزن چهره باز\r\nخدایگانا شادی فزای و رامش کن\r\nنبید بستان از دست دلبران طراز\r\nمباد زین ده خالی خجسته مجلس تو\r\nهمیشه تا به جهان در حقیقتست و مجاز\r\nز نزهت و طرب و عز و شادکامی و لهو\r\nز چنگ و بربط و نای و کمانچه و بگماز\r\nبه شاد کامی در عز بیکرانه بزی\r\nبه کامرانی در ملک جاودانه بتاز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی چو روز فراق بتان سیاه و دراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرازتر ز امید و سیاه تر ز نیاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دور چرخ فرو ایستاده چنبر چرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشبم چو چنبر بسته در آخرش آغاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرآمده ز صحیفه فلک چو شب انجم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو روز در دل گیتی فرو شده آواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن و جهان متحیر ز یکدگر هر دو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپدید و پنهان گشته مرا و او را راز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا ز رفتن معشوق دیده لؤلؤ ریز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورا ز آمدن شب سپهر لؤلؤ ساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه چاره سازم کز عشق آن نگار دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز شادمانی فردست و با غمان انباز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفراز عشق مرا در نشیبی افکندست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه باز می نشناسم نشیب را ز فراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلا چه داری انده به شاد کامی زی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبتاب غم چه گدازی به ناز و لهو گزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر سپهر بگردد ز حال خود تو مگرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگر زمانه نسازد تو با زمانه بساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکسی چه دارد غم کش بود خداوندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسان خسرو محمود شاه بنده نواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدایگان جهان سیف دولت آنکه برو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سعادت شد بر جهان دولت باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسوخت خانه ظلم و بکند خانه کفر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرید بیخ نیاز و درید جامه آز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکند چو گرم کند باره عقاب صفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقاب مرگی گردد سنان او پرواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرند بی شک هر روز خسروان بزرگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه پیش خانه او چون به پیش کعبه نماز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگذشت سوی حجاز آفتاب کینه او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آن همیشه بود تافته زمین حجاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خواب دیدست اهواز تیغ او زان رو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز تب تهی نبود هیچ بقعه اهواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندید یارد دشمن سپاه او را روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آنکه بر وی کوته شود بقای دراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجا تواند دیدن گوزن طلعت شیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچگونه یارد دیدن کوزن چهره باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدایگانا شادی فزای و رامش کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبید بستان از دست دلبران طراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمباد زین ده خالی خجسته مجلس تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه تا به جهان در حقیقتست و مجاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز نزهت و طرب و عز و شادکامی و لهو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز چنگ و بربط و نای و کمانچه و بگماز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه شاد کامی در عز بیکرانه بزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کامرانی در ملک جاودانه بتاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 22
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "از",
+      "PlainText": "شبی چو روز فراق بتان سیاه و دراز\r\nدرازتر ز امید و سیاه تر ز نیاز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی چو روز فراق بتان سیاه و دراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرازتر ز امید و سیاه تر ز نیاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "ز دور چرخ فرو ایستاده چنبر چرخ\r\nشبم چو چنبر بسته در آخرش آغاز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دور چرخ فرو ایستاده چنبر چرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشبم چو چنبر بسته در آخرش آغاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "برآمده ز صحیفه فلک چو شب انجم\r\nچو روز در دل گیتی فرو شده آواز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرآمده ز صحیفه فلک چو شب انجم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو روز در دل گیتی فرو شده آواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "من و جهان متحیر ز یکدگر هر دو\r\nپدید و پنهان گشته مرا و او را راز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن و جهان متحیر ز یکدگر هر دو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپدید و پنهان گشته مرا و او را راز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یز",
+      "PlainText": "مرا ز رفتن معشوق دیده لؤلؤ ریز\r\nورا ز آمدن شب سپهر لؤلؤ ساز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا ز رفتن معشوق دیده لؤلؤ ریز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورا ز آمدن شب سپهر لؤلؤ ساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "چه چاره سازم کز عشق آن نگار دلم\r\nز شادمانی فردست و با غمان انباز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه چاره سازم کز عشق آن نگار دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز شادمانی فردست و با غمان انباز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "فراز عشق مرا در نشیبی افکندست\r\nکه باز می نشناسم نشیب را ز فراز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفراز عشق مرا در نشیبی افکندست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه باز می نشناسم نشیب را ز فراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "دلا چه داری انده به شاد کامی زی\r\nبتاب غم چه گدازی به ناز و لهو گزار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلا چه داری انده به شاد کامی زی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبتاب غم چه گدازی به ناز و لهو گزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "اگر سپهر بگردد ز حال خود تو مگرد\r\nوگر زمانه نسازد تو با زمانه بساز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر سپهر بگردد ز حال خود تو مگرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگر زمانه نسازد تو با زمانه بساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "کسی چه دارد غم کش بود خداوندی\r\nبسان خسرو محمود شاه بنده نواز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکسی چه دارد غم کش بود خداوندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسان خسرو محمود شاه بنده نواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "خدایگان جهان سیف دولت آنکه برو\r\nدر سعادت شد بر جهان دولت باز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدایگان جهان سیف دولت آنکه برو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سعادت شد بر جهان دولت باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "بسوخت خانه ظلم و بکند خانه کفر\r\nبرید بیخ نیاز و درید جامه آز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسوخت خانه ظلم و بکند خانه کفر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرید بیخ نیاز و درید جامه آز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "کند چو گرم کند باره عقاب صفت\r\nعقاب مرگی گردد سنان او پرواز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکند چو گرم کند باره عقاب صفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقاب مرگی گردد سنان او پرواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "برند بی شک هر روز خسروان بزرگ\r\nبه پیش خانه او چون به پیش کعبه نماز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرند بی شک هر روز خسروان بزرگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه پیش خانه او چون به پیش کعبه نماز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "گذشت سوی حجاز آفتاب کینه او\r\nاز آن همیشه بود تافته زمین حجاز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگذشت سوی حجاز آفتاب کینه او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آن همیشه بود تافته زمین حجاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "به خواب دیدست اهواز تیغ او زان رو\r\nز تب تهی نبود هیچ بقعه اهواز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خواب دیدست اهواز تیغ او زان رو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز تب تهی نبود هیچ بقعه اهواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "ندید یارد دشمن سپاه او را روی\r\nاز آنکه بر وی کوته شود بقای دراز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندید یارد دشمن سپاه او را روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آنکه بر وی کوته شود بقای دراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "کجا تواند دیدن گوزن طلعت شیر\r\nچگونه یارد دیدن کوزن چهره باز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجا تواند دیدن گوزن طلعت شیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچگونه یارد دیدن کوزن چهره باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "خدایگانا شادی فزای و رامش کن\r\nنبید بستان از دست دلبران طراز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدایگانا شادی فزای و رامش کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبید بستان از دست دلبران طراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "مباد زین ده خالی خجسته مجلس تو\r\nهمیشه تا به جهان در حقیقتست و مجاز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمباد زین ده خالی خجسته مجلس تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه تا به جهان در حقیقتست و مجاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "ز نزهت و طرب و عز و شادکامی و لهو\r\nز چنگ و بربط و نای و کمانچه و بگماز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز نزهت و طرب و عز و شادکامی و لهو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز چنگ و بربط و نای و کمانچه و بگماز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ز",
+      "PlainText": "به شاد کامی در عز بیکرانه بزی\r\nبه کامرانی در ملک جاودانه بتاز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه شاد کامی در عز بیکرانه بزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کامرانی در ملک جاودانه بتاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شبی چو روز فراق بتان سیاه و دراز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: یک شب طولانی و تاریک را می‌بینم که همچون روز، به سختی و بی‌امیدی می‌گذرد. این شب نه تنها از نظر طول، بلکه در ناامیدی و نیاز نیز سنگین‌تر است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "درازتر ز امید و سیاه تر ز نیاز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز دور چرخ فرو ایستاده چنبر چرخ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از دور دست، حرکت چرخ فلک متوقف شده و من در درگیری شب همچون حلقه‌ای بسته احساس می‌کنم که در انتهای آن، دوباره شروعی وجود دارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شبم چو چنبر بسته در آخرش آغاز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "برآمده ز صحیفه فلک چو شب انجم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: از آسمان ستاره‌ها در شب و در روز، صدایی در دل زمین آغاز شده است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چو روز در دل گیتی فرو شده آواز",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "من و جهان متحیر ز یکدگر هر دو",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: من و جهان هر دو در حیرت از یکدیگر هستیم؛ ما هر دو به نوعی آشکار و پنهان شده‌ایم و بین من و او راز و رمزهایی وجود دارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پدید و پنهان گشته مرا و او را راز",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مرا ز رفتن معشوق دیده لؤلؤ ریز",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: شکوه معشوقم همچون درخشش لؤلؤ دیده‌ام را پر کرده و آمدن شب نیز همچون ساختن لؤلؤی جدید، زیبایی خاصی دارد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ورا ز آمدن شب سپهر لؤلؤ ساز",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چه چاره سازم کز عشق آن نگار دلم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: چه کار کنم که عشق آن معشوق دل‌آزارم، باعث خوشحالی در آینده‌ام خواهد بود و هم‌اکنون با غم‌هایم در کنارم است؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ز شادمانی فردست و با غمان انباز",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "فراز عشق مرا در نشیبی افکندست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: عشق چنان من را به پایین کشانده که دیگر نمی‌توانم تفاوتی بین اوج و پایین بودن احساس کنم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که باز می نشناسم نشیب را ز فراز",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "دلا چه داری انده به شاد کامی زی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: ای دل، چرا غمگینی؟ به خوشحالی بپرداز! چرا با غم خود را آزار می‌دهی؟ به لذت و شادی بپرداز و از زندگی لذت ببر."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "بتاب غم چه گدازی به ناز و لهو گزار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "اگر سپهر بگردد ز حال خود تو مگرد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر آسمان یا وضعیت دنیا تغییر کند، تو نگران نباش و تحت تأثیر قرار نگیر. اگر زمانه به خواسته‌های تو پاسخ نمی‌دهد، تو باید خودت را با شرایط جدید سازگار کنی."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "وگر زمانه نسازد تو با زمانه بساز",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "کسی چه دارد غم کش بود خداوندی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که غم و اندوهی دارد، چگونه می‌تواند غمگین باشد در حالی که خداوندی مانند خسرو محمود شاه وجود دارد که بندگانش را نوازش می‌کند؟"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "بسان خسرو محمود شاه بنده نواز",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "خدایگان جهان سیف دولت آنکه برو",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: خداوندی که به فرمانروایی دنیا شهرت دارد، آن کسی است که با رحمتش موجب سعادت و خوشبختی در جهان شده است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "در سعادت شد بر جهان دولت باز",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "بسوخت خانه ظلم و بکند خانه کفر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: خانه ظلم و کفر نابود شد و نیاز و طمع از بین رفت، گویی که رخت و لباس آرزوها را پاره کردند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "برید بیخ نیاز و درید جامه آز",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "کند چو گرم کند باره عقاب صفت",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: وقتی که پرنده‌ای همانند عقاب به شدت هوشیار و پرانرژی می‌شود، در نهایت قدرت و سرعتش، ممکن است به خطر بیفتد و مرگ او را تهدید کند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "عقاب مرگی گردد سنان او پرواز",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "برند بی شک هر روز خسروان بزرگ",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: بدون تردید، هر روز مردان بزرگ و قدرتمند به حضور او می‌آیند، مانند کسانی که به سوی کعبه برای نماز می‌روند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "به پیش خانه او چون به پیش کعبه نماز",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "گذشت سوی حجاز آفتاب کینه او",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: خورشید که همیشه روشن و پرجنب و جوش است، از سرزمین حجاز (مکه و مدینه) عبور کرد و کینه و دشمنی او همیشه در دل باقی مانده است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "از آن همیشه بود تافته زمین حجاز",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "به خواب دیدست اهواز تیغ او زان رو",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: در خواب، تیزی و برندگی شمشیر او را در اهواز دید. به همین دلیل، جایی در اهواز نمانده بود که از شدت گرما خالی از تب و حرارت باشد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "ز تب تهی نبود هیچ بقعه اهواز",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "ندید یارد دشمن سپاه او را روی",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: دشمن سپاه او را نمی‌بیند، زیرا از این می‌ترسد که اگر به او نزدیک شود، عمرش کوتاه خواهد شد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "از آنکه بر وی کوته شود بقای دراز",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "کجا تواند دیدن گوزن طلعت شیر",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: کجا می‌توان گوزنی را دید که چهره‌اش چون شیر باشد؟ چگونه می‌توان به دیدن زیبایی کوزنی با چهره‌ای باز و زیبا دست یافت؟"
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "چگونه یارد دیدن کوزن چهره باز",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "خدایگانا شادی فزای و رامش کن",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: ای خداوند، شادی را افزون کن و دل را آرام کن، باده‌ای که از دستان دلبران مهربان می‌ریزد، بگردان."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "نبید بستان از دست دلبران طراز",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "مباد زین ده خالی خجسته مجلس تو",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: هیچ وقت این مکان را از خوشی و جشن خالی نگذار، زیرا حقیقت و واقعیت در جهان همیشه در حال جلوه‌گری هستند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "همیشه تا به جهان در حقیقتست و مجاز",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "ز نزهت و طرب و عز و شادکامی و لهو",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: از لذت و شادی و افتخار و خوشحالی و سرگرمی، از سازها و نوازندگی با چنگ و بربط و نی و کمانچه و دیگر آلات موسیقی."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "ز چنگ و بربط و نای و کمانچه و بگماز",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "به شاد کامی در عز بیکرانه بزی",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: برای رسیدن به شادی و خوشبختی در زندگی، باید با شجاعت و تلاش در مسیر موفقیت و جاودانگی گام برداری."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "به کامرانی در ملک جاودانه بتاز",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "Id": 52856,
+  "CatId": 1852,
+  "Title": "غزل شمارهٔ ۶۵۹",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۶۵۹",
+  "FullUrl": "/saeb/divan-saeb/ghazalkasa/sh659",
+  "RhymeLetters": "الهما",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساسات عمیق و دردناک عشق اشاره دارد. شاعر از تجربه‌های شخصی و زخم‌های عاطفی خود سخن می‌گوید و تأکید می‌کند که درد و شوق عشق، بخشی از وجود اوست. او به زیبایی‌های عشق و ناتوانی در مقابله با غم و اندوه نیز اشاره دارد، و می‌گوید که هر که از نوشته‌های او بگذرد، به دنیای دل‌سوخته و مجروح او پی خواهد برد. در نهایت، شاعر به ناامیدی خود در برابر سرنوشت و دنیای بیرونی اشاره می‌کند و می‌گوید که عشق واقعی، دلی نرم و پذیرنده می‌طلبد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الهما",
+      "PlainText": "حدیث خام مجویید در رساله ما\r\nبه مهر داغ رسیده است برگ لاله ما\r\nچو جام لاله می ما چکیده داغ است\r\nکراست زهره که بر لب نهد پیاله ما\r\nچو جامه حرم کعبه می نهد بر چشم\r\nبه دست هر که فتد فردی از رساله ما\r\nبه داغ سینه مجروح ما مبین زنهار\r\nکه خنده در دهن کبک سوخت لاله ما\r\nچو لاله با جگر گرم عشق می بازیم\r\nز داغ خویش بود عنبرین کلاله ما\r\nز رزق ما فلک سفله باز می گیرد\r\nدرین بساط اگر رم خورد غزاله ما\r\nمکن ز خلوت آغوش ما تهی پهلو\r\nکه مه تمام شود در حصار هاله ما\r\nعبث به سینه ما داغ می نهد گردون\r\nکه چون سپند جهد مهر از قباله ما\r\nبه داغ عشق ملایم نمی شود صایب\r\nدلی که نرم نگردد ز آه و ناله ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدیث خام مجویید در رساله ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه مهر داغ رسیده است برگ لاله ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو جام لاله، می ما چکیده داغ است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکراست زهره که بر لب نهد پیاله ما؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو جامه حرم کعبه می نهد بر چشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دست هر که فتد فردی از رساله ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه داغ سینه مجروح ما مبین زنهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خنده در دهن کبک سوخت لاله ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو لاله با جگر گرم عشق می بازیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز داغ خویش بود عنبرین کلاله ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز رزق ما فلک سفله باز می گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرین بساط اگر رم خورد غزاله ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمکن ز خلوت آغوش ما تهی پهلو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مه تمام شود در حصار هاله ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعبث به سینه ما داغ می نهد گردون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چون سپند جهد مهر از قباله ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه داغ عشق ملایم نمی شود صائب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلی که نرم نگردد ز آه و ناله ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حدیث خام مجویید در رساله ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در صحبت‌های ما به دنبال حرف‌های ناپخته و بی‌اساس نباشید، چرا که احساسات عمیق و سرخوشی‌های واقعی در متن ما وجود دارد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به مهر داغ رسیده است برگ لاله ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو جام لاله، می ما چکیده داغ است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همچون لیوانی که پر از شراب لاله‌گون است و داغ بر برمی‌دارد، چه کسی است که جرأت کند پیاله ما را بر لب بگذارد؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کراست زهره که بر لب نهد پیاله ما؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو جامه حرم کعبه می نهد بر چشم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که به رساله ما دسترسی پیدا کند، مانند کسی است که لباس حرم کعبه را بر چشم دارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به دست هر که فتد فردی از رساله ما",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به داغ سینه مجروح ما مبین زنهار",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به درد و رنج عمیق ما توجه نکن، زیرا خنده‌ و شادی بر دل ما مانند کبکی است که در آتش سوخته و دیگر نمی‌تواند خوشحالی کند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که خنده در دهن کبک سوخت لاله ما",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چو لاله با جگر گرم عشق می بازیم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما مانند لاله‌ای هستیم که با عشق جان‌سوز خود می‌سوزیم و از داغ و اندوه خود، عطر خوشی تولید می‌کنیم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز داغ خویش بود عنبرین کلاله ما",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ز رزق ما فلک سفله باز می گیرد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فلک در این دنیا از سفره‌ی ما چیزهایی را می‌گیرد، اگر در این بازی، حیوانی رم کند، غزال ما (پرافتخار ما) نیز آسیب می‌بیند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "درین بساط اگر رم خورد غزاله ما",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "مکن ز خلوت آغوش ما تهی پهلو",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از آغوش ما بیرون بروی، لحظه‌ای به تنهایی نرو، زیرا در این خلوت و intimacy، مانند ماهی که در حلقه‌ای از نور قرار دارد، زیبایی تو تمام خواهد شد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که مه تمام شود در حصار هاله ما",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "عبث به سینه ما داغ می نهد گردون",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا بی‌دلیل به دل ما غم و درد می‌آورد، در حالی که مانند آتش، عشق و محبت باید از سرنوشت ما بیرون برود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "که چون سپند جهد مهر از قباله ما",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "به داغ عشق ملایم نمی شود صائب",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل‌هایی که به عشق داغ خورده‌اند، هرگز آرام نمی‌شوند، چرا که آن‌ها تحت تاثیر گریه و ناله‌های ما نرم و آسیب‌پذیر نمی‌گردند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "دلی که نرم نگردد ز آه و ناله ما",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

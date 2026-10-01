@@ -1,0 +1,240 @@
+{
+  "Id": 100154,
+  "CatId": 2527,
+  "Title": "شمارهٔ  ۶۵۶",
+  "FullTitle": "آشفتهٔ شیرازی » غزلیات » شمارهٔ  ۶۵۶",
+  "FullUrl": "/ashofte/ghazal/sh656",
+  "RhymeLetters": "ل",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره احساسات عاشقانه و درد فراق است. شاعر از شب فراق و دوری معشوق صحبت می‌کند و به یاد وصال شیرین گذشته‌اش می‌افتد. او اذعان می‌کند که تنها شاهد عشق او دو چشم معشوقش هستند که دل او را با غمزه‌هایشان می‌آزارد. شاعر به تصویر زیبایی از عشق و درد آن پرداخته و از جوانمردی و سخاوت دل عاشقانه‌ای که در او وجود دارد، صحبت می‌کند. او به سوز و تشنگی عاشقانه‌اش و همچنین به بلاهای عشق اشاره می‌کند و در نهایت آرزو دارد که شاید بتواند یک لحظه در کنار مستان و میخانه به فراموشی غم‌هایش بپردازد. شاعر به عشق و وابستگی شدیدش به معشوق تأکید می‌کند و عدم توانایی در ترک عشقش را ناممکن می‌شمارد.",
+  "Metre": {
+    "Id": 2,
+    "Rhythm": "مفاعیلن مفاعیلن مفاعیلن مفاعیلن (هزج مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ال",
+      "PlainText": "شب فراق درآمد برفت روز وصال\r\nچو نیست پیکر مطبوع ما و شخص خیال\r\nبدیده سرمه توان کرد خاکپای جمال\r\nاگر که لیلی ما پرده برکشد زجمال\r\nنبود فرصت بدگو میانه من و دوست\r\nدریغ و درد که در دستش اوفتاد مجال\r\nگواه نیست مرا جز دو چشم فتانش\r\nکه ریخت خون دل من بغمزه قتال\r\nزهی زملت ترکان که خون مردم را\r\nچو شیر مادر بر خویشتن کنند حلال\r\nفسون آهوی تو صید کرده شیردلان\r\nعجب که شیر بافسون رود بدام غزال\r\nتو خضری و خبر از سوز تشنگانت نیست\r\nکه ماهیان نشناسند قدر آب زلال\r\nبحکم عقل کجا ترک عشق بتوان گفت\r\nکه ترک عشق تو گفتن تصوریست محال\r\nعجب مدار که من زنده مانده ام در هجر\r\nکه زندگانی عاشق بود امید وصال\r\nملولم از غم دوران دهر ایساقی\r\nمگر زذکر تو شویم زسینه زنگ ملال\r\nگرت بکوی مغان نیست راهی آشفته\r\nدمی بحلقه مستان شبی درآی و بنال\r\nکه شاید از کرم عام پیر میخانه\r\nببخشد از خم خاصت ایاغ مالامال\r\nعلی ولی خدا سای می توحید\r\nکه عقل را بنهد عشق او بپای عقال\r\nبچشم خویش ملایک کشیده نعلینش\r\nکه رفت خاک رهش روح قدس با پر و بال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب فراق درآمد برفت روز وصال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو نیست پیکر مطبوع ما و شخص خیال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدیده سرمه توان کرد خاکپای جمال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر که لیلی ما پرده برکشد زجمال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبود فرصت بدگو میانه من و دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریغ و درد که در دستش اوفتاد مجال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگواه نیست مرا جز دو چشم فتانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ریخت خون دل من بغمزه قتال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزهی زملت ترکان که خون مردم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو شیر مادر بر خویشتن کنند حلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفسون آهوی تو صید کرده شیردلان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعجب که شیر بافسون رود بدام غزال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو خضری و خبر از سوز تشنگانت نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ماهیان نشناسند قدر آب زلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبحکم عقل کجا ترک عشق بتوان گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ترک عشق تو گفتن تصوریست محال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعجب مدار که من زنده مانده ام در هجر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه زندگانی عاشق بود امید وصال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملولم از غم دوران دهر ایساقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر زذکر تو شویم زسینه زنگ ملال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرت بکوی مغان نیست راهی آشفته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدمی بحلقه مستان شبی درآی و بنال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه شاید از کرم عام پیر میخانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eببخشد از خم خاصت ایاغ مالامال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلی ولی خدا سای می توحید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عقل را بنهد عشق او بپای عقال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبچشم خویش ملایک کشیده نعلینش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه رفت خاک رهش روح قدس با پر و بال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 14
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب فراق درآمد برفت روز وصال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شب جدایی فرا رسید و روز دیدار رفت. چه زمانی که وجود دلخواه ما و خیال ما دیگر نیست."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو نیست پیکر مطبوع ما و شخص خیال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بدیده سرمه توان کرد خاکپای جمال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر لیلی ما پرده از زیبایی‌اش بردارد، می‌توان با سرمه چشم‌ها، خاک پای او را زیبا و با ارزش کرد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر که لیلی ما پرده برکشد زجمال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نبود فرصت بدگو میانه من و دوست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرصت برای بدگویی به دوست از دست رفت و افسوس که آن فرد، نتوانست به من نزدیک شود و صحبت کند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دریغ و درد که در دستش اوفتاد مجال",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گواه نیست مرا جز دو چشم فتانش",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها دو چشم جذاب او هستند که بر راز دل شکسته‌ام گواهی می‌دهند، چون با نگاهی طعنه‌آمیز دل مرا به درد آوردند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که ریخت خون دل من بغمزه قتال",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "زهی زملت ترکان که خون مردم را",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه خوب است که ملت ترک، خون مردم را به راحتی و مانند شیر مادر برای خود حلال می‌دانند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چو شیر مادر بر خویشتن کنند حلال",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "فسون آهوی تو صید کرده شیردلان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آهوی زیبای تو تحت تأثیر جاذبه‌اش، شکار دلیران شده است. عجیب است که شیر هم با جاذبه‌اش به دام غزال می‌افتد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "عجب که شیر بافسون رود بدام غزال",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "تو خضری و خبر از سوز تشنگانت نیست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در چشمه‌ی حیات هستی و از دل‌دردها و تشنگی‌های ما بی‌خبری، در حالی که ماهی‌ها ارزش آب زلال را درک می‌کنند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که ماهیان نشناسند قدر آب زلال",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "بحکم عقل کجا ترک عشق بتوان گفت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با عقل و منطق، چطور می‌توان گفت که عشق را رها کنیم؟ زیرا بیان اینکه عاشقت را کنار بگذاریم، چیزی است که قابل تصور نیست."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "که ترک عشق تو گفتن تصوریست محال",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "عجب مدار که من زنده مانده ام در هجر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تعجب نکن که من در این جدایی هنوز زنده هستم، زیرا زندگی عاشق به امید رسیدن به معشوق معنا پیدا می‌کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "که زندگانی عاشق بود امید وصال",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ملولم از غم دوران دهر ایساقی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از غم و اندوه روزگار خسته‌ام، اما امیدوارم با یاد تو این دل پر از زنگ و غم را آرام کنم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "مگر زذکر تو شویم زسینه زنگ ملال",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "گرت بکوی مغان نیست راهی آشفته",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به محفل مغان راهی نداری، در یک شب آشفته به جمع مستان بپیوند و از دل خود شکایت کن."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "دمی بحلقه مستان شبی درآی و بنال",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "که شاید از کرم عام پیر میخانه",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید به لطف و کرم آن پیر میخانه، از خم خاص تو به تو بخشش کند و پر کند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "ببخشد از خم خاصت ایاغ مالامال",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "علی ولی خدا سای می توحید",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علی، ولی خدا، در سایه توحید قرار دارد، به گونه‌ای که عشق او عقل را در بند می‌آورد و آن را زیر فرمان خود می‌کشد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "که عقل را بنهد عشق او بپای عقال",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "بچشم خویش ملایک کشیده نعلینش",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با چشمان خودم دیده‌ام که ملائک نعلین او را بر می‌کشند، چون که روح‌القدس با پر و بالش بر خاک راه او پرواز می‌کند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "که رفت خاک رهش روح قدس با پر و بال",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "Id": 62386,
+  "CatId": 1858,
+  "Title": "شمارهٔ ۱۸۰۴",
+  "FullTitle": "امیرخسرو دهلوی » دیوان اشعار » غزلیات » شمارهٔ ۱۸۰۴",
+  "FullUrl": "/khosro/gozide/ghazalamkh/sh1804",
+  "RhymeLetters": "اننکردی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر درد و ناراحتی شاعر از دوری و بی‌توجهی معشوق است. شاعر از معشوق شکایت می‌کند که باوجود دیدن درد او، هیچ کمکی نکرده و به احساساتش اهمیتی نداده است. او به شدت از هجران معشوق رنج می‌برد و تنهایی و دشواری‌هایش را توصیف می‌کند. شاعر از معشوق می‌خواهد تا به یادش باشد و به آرزوهایش توجه کند، اما معشوق در این زمینه بی‌اعتنا بوده است. در نهایت، شاعر ناامیدی و درد خود را به تصویر می‌کشد و از بی‌وفایی معشوق گله می‌کند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اننکردی",
+      "PlainText": "چه کردم کآخرم فرمان نکردی\r\nبدیدی دردم و درمان نکردی\r\nز هجران تو کفری هست بر من\r\nشب کفر مرا ایمان نکردی\r\nبه دشواری برآمد جانم از تن\r\nببردی جان من آسان نکردی\r\nچه جانها کان به وجه بوسه تو\r\nبرفت و نرخ را ازان نکردی\r\nبه گریه خواستم وصلت در این ملک\r\nگدای خویش را سلطان نکردی\r\nبه کویت آرزومندان نمودند\r\nنگاهی جانب ایشان نکردی\r\nترا گفتم که یک روزی مرا باش\r\nبرفتی از من و فرمان نکردی\r\nدلم بردی و گفتی خواهمت داد\r\nچو رفتی پیش یاد آن نکردی\r\nندیدی عیش خسرو تلخ هرگز\r\nبه حلوای لبش مهمان نکردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه کردم کآخرم فرمان نکردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدیدی دردم و درمان نکردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز هجران تو کفری هست بر من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب کفر مرا ایمان نکردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دشواری برآمد جانم از تن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eببردی جان من، آسان نکردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه جانها کان به وجه بوسه تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرفت و نرخ را ازان نکردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گریه خواستم وصلت در این ملک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگدای خویش را سلطان نکردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کویت آرزومندان نمودند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگاهی جانب ایشان نکردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترا گفتم که یک روزی مرا باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرفتی از من و فرمان نکردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلم بردی و گفتی خواهمت داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو رفتی، پیش یاد آن نکردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندیدی عیش خسرو تلخ هرگز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه حلوای لبش مهمان نکردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه کردم کآخرم فرمان نکردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من چه کرده‌ام که در نهایت، تو به من فرمان ندادستی؟ درد من را دیدی اما برای درمان آن کاری نکردی."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بدیدی دردم و درمان نکردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز هجران تو کفری هست بر من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وجود نازنینت در نبودت به من احساس بی‌ایمانی می‌دهد و تلاش‌هایم برای ایمان آوردن بی‌نتیجه می‌ماند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شب کفر مرا ایمان نکردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به دشواری برآمد جانم از تن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جانم به سختی از جسمم جدا شد و تو، ای جان من، این کار را برایم آسان نکردی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ببردی جان من، آسان نکردی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چه جانها کان به وجه بوسه تو",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از جان‌ها به خاطر بوسه‌ای که تو به آن‌ها دادی، از بین رفتند و تو هیچ تغییر قیمتی در آن‌ها ایجاد نکردی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "برفت و نرخ را ازان نکردی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به گریه خواستم وصلت در این ملک",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای رسیدن به تو در این سرزمین، به گریه و زاری پرداختم، اما تو به خواسته‌ام پاسخ نگفتی و گدای عشق خود را به مقام سلطانی نرساندی."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گدای خویش را سلطان نکردی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "به کویت آرزومندان نمودند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آرزو مندان به کوی تو نگاهی کردند، اما تو به سمت آن‌ها نگاهی نینداختی."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نگاهی جانب ایشان نکردی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ترا گفتم که یک روزی مرا باش",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به تو گفتم که روزی به من بپیوندی، اما تو از من رفتی و هیچ دستوری به من ندادی."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "برفتی از من و فرمان نکردی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "دلم بردی و گفتی خواهمت داد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل مرا بردی و گفتی به تو خواهم داد، اما وقتی که رفتی، به یاد آن گفتگو نیفتادی."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "چو رفتی، پیش یاد آن نکردی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ندیدی عیش خسرو تلخ هرگز",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز خوشی‌های خسرو را با شیرینی لبش شریک نشدی و به او اهمیت ندادی."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "به حلوای لبش مهمان نکردی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

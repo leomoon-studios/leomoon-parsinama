@@ -1,0 +1,100 @@
+{
+  "Id": 136140,
+  "CatId": 3087,
+  "Title": "شمارهٔ ۴۵",
+  "FullTitle": "میلی » دیوان اشعار » غزلیات » شمارهٔ ۴۵",
+  "FullUrl": "/meyli/divan/ghazal/sh45",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات عمیق و تلخ شاعر نسبت به یک معشوق می‌پردازد. شاعر پرسش‌هایی را مطرح می‌کند که چرا معشوق با این همه قهر و ستم، هنوز او را آزار می‌دهد و نمی‌آید تا از رنج‌هایش کاسته شود. او به طعنه می‌گوید که اگر معشوق قصد آسیب به او را ندارد، پس این همه قهر و کینه برای چیست؟ در نهایت، شاعر به این نتیجه می‌رسد که تمام دردها و رنج‌ها از نگاه و غمزه‌های معشوق نشأت می‌گیرد.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "هربهرچیست",
+      "PlainText": "گر نیست فکر قتل منت قهر بهر چیست\r\nبادام تلخ چشم تو پر زهر بهر چیست\r\nبیداد غمزه تو هلاک مرا بس است\r\nجور زمانه و ستم دهر بهر چیست\r\nبا صد ستم کنون که مرا آزموده ای\r\nهر دم غضب برای چه و قهر بهر چیست\r\nاو در پی هلاک من و خلق در عجب\r\nکاین صید خون گرفته درین شهر بهر چیست\r\nگر بهر تلخکامی میلی نیامدی\r\nدر دست غمزه ات قدح زهر بهر چیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نیست فکر قتل منت، قهر بهر چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبادام تلخ چشم تو پر زهر بهر چیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیداد غمزه تو هلاک مرا بس است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجور زمانه و ستم دهر بهر چیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا صد ستم کنون که مرا آزموده‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دم غضب برای چه و قهر بهر چیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو در پی هلاک من و خلق در عجب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین صید خون گرفته درین شهر بهر چیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بهر تلخکامی میلی نیامدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دست غمزه‌ات، قدح زهر بهر چیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر نیست فکر قتل منت، قهر بهر چیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فکر کشتن عشق و غم تو در سر ندارم، پس برای چه باید به خاطر ناملایمات و تلخی چشمانت ناراحت و عصبانی شوم؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بادام تلخ چشم تو پر زهر بهر چیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیداد غمزه تو هلاک مرا بس است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درد و رنجی که از نگاه فریبندهٔ تو دارم، برای من کافی است. دیگر تحمل ظلم زمانه و ستم‌های روزگار را ندارم، اینها چه فایده‌ای دارند؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جور زمانه و ستم دهر بهر چیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با صد ستم کنون که مرا آزموده‌ای",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو که با ظلم و ستم من را آزمایش کرده‌ای، پس چرا هر لحظه به خشم می‌آیی و برای چه به قهر و غضب رو می‌آوری؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هر دم غضب برای چه و قهر بهر چیست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "او در پی هلاک من و خلق در عجب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او متوجه شده که دشمنش در تلاش است تا او را نابود کند، و در عجب است که چرا این شکار خونی در این شهر وجود دارد و هدفش چیست."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کاین صید خون گرفته درین شهر بهر چیست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر بهر تلخکامی میلی نیامدی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به خاطر تلخی و ناکامی به من نزدیک نشده‌ای، پس چرا با نگاه فریبنده‌ات مرا به نوشیدن زهر دعوت می‌کنی؟"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در دست غمزه‌ات، قدح زهر بهر چیست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    }
+  ]
+}

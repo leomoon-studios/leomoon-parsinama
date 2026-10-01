@@ -1,0 +1,60 @@
+{
+  "Id": 94056,
+  "CatId": 2431,
+  "Title": "شمارهٔ ۲۹۰",
+  "FullTitle": "ابن یمین » دیوان اشعار » رباعیات » شمارهٔ ۲۹۰",
+  "FullUrl": "/ebneyamin/divan/robaee/sh290",
+  "RhymeLetters": "ندهحسد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شعری، شاعر به حسد و تبعات آن اشاره دارد. او می‌گوید وقتی که انسان‌های بزرگ و توانمند به یکدیگر حسد می‌ورزند، این حسد در دل انسان‌های دیگر اثر می‌گذارد. شاعر سپس بیان می‌کند که این نوع حسد از دید خرد و عقل پسندیده نیست، چرا که حسد می‌تواند به زوال و نابودی انسان‌ها منجر شود، حتی اگر آنها در ظاهر به موفقیت‌ها و برتری‌هایی دست یافته باشند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندهحسد",
+      "PlainText": "وقتیکه یلان برند بر کنده حسد\r\nوازاد بدل بر نهد از بنده حسد\r\nحقا که پسندیده بود نزد خرد\r\nبر دولت مرده گر برد زنده حسد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقتیکه یلان برند بر کنده حسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوازاد بدل بر نهد از بنده حسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحقا که پسندیده بود نزد خرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دولت مرده گر برد زنده حسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وقتیکه یلان برند بر کنده حسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دلیران بر کینه حسد غلبه می‌کنند و از آن رها می‌گردند، این حسد از قلب بندگان دور می‌شود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وازاد بدل بر نهد از بنده حسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حقا که پسندیده بود نزد خرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به راستی، خوب است که نزد افراد بافرهنگ، بر مردانی که در مقام و قدرت هستند، حسد ورزیده شود اگر این حسد از زنده‌ای باشد که شایسته‌تر است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر دولت مرده گر برد زنده حسد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

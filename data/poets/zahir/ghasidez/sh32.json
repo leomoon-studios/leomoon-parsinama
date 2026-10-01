@@ -1,0 +1,540 @@
+{
+  "Id": 73418,
+  "CatId": 2071,
+  "Title": "شمارهٔ ۳۲",
+  "FullTitle": "ظهیر فاریابی » قصاید » شمارهٔ ۳۲",
+  "FullUrl": "/zahir/ghasidez/sh32",
+  "RhymeLetters": "اربگشاید",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر با محوریت عشق و امید به وصال معشوق نوشته شده است. شاعر در آن به پیچیدگی‌ها و دشواری‌های شعور و عشق اشاره می‌کند و بیان می‌کند که چگونه خاطرات و زیبایی معشوق می‌تواند دل را شاد کند و حتی در ناامیدی، امید به وصال ایجاد نماید. او به زیبایی و تاثیر عمیق نگاه و مژگان معشوق اشاره می‌کند و از آن به عنوان وسیله‌ای برای گشودن دل و جان یاد می‌کند. همچنین در این شعر به مفهوم جاودانگی هنر و قدرت پادشاهان و جنگجویان اشاره شده و نقش آن‌ها در تسهیل در مسیر زندگی و عشق بیان گردیده است. در نهایت، شعر به قدرت عشق و زیبایی‌هایی که نیاز به احساسات و توجه دارد، پایان می‌ابد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اربگشاید",
+      "PlainText": "به حلقه ای که سر زلف یار بگشاید\r\nزمانه را و مرا هر دو کار بگشاید\r\nز دست رفتم و دستم نرفت در زلفش\r\nکزان گره گرهی یادگار بگشاید\r\nچو وصل او در امید در جهان بر بست\r\nچه سود از آنک در انتظار بگشاید \r\nبه نا امیدی وصلش امیدوار شدم\r\nکه هر چه بسته شود استوار بگشاید\r\nبه عمر خویش دمی زنده وان زمان مرده\r\nکه من کناره کنم او کنار بگشاید\r\nمرا که صحبت آن تازه گلبن آید یاد\r\nزخار هر مژه صد لاله زار بگشاید\r\nنگر که تیز بدان کرد نوک مژگان را\r\nکه خون از ین مژه اشکبار بگشاید\r\nز خون من چه گشاید و لیک از محنش\r\nبس آب دیده که در هر دیار بگشاید\r\nخزینه خواست زمن کم وجوه یک جو نیست\r\nمگر ز غیب دری کردگار بگشاید\r\nغرض عنایت بخت ست کاندرین سختی\r\nحصول این غرض از شهریار بگشاید\r\nخدایگان سکندر هنر مظفر دین\r\nکه سهمش از جگر یخ شرار بگشاید\r\nجهانگشای قزل ارسلان دریا دل\r\nکه خاتمش ز سلیمان شعار بگشاید\r\nپناه ملک شهنشه اتابک اعظم\r\nکه چشم فتح به چون او سوار بگشاید\r\nشهنشهی که به هنگان قهر اگر خواهد\r\nز هفت قلعه گردون حصار بگشاید\r\nتهمتنی که چو در راه دین قبا بندد\r\nکمر ز قیصر زنار دار بگشاید\r\nدر آن مصاف که تدبیر او طلایه کند\r\nبه یمن و یسر یمین ویسار بگشاید\r\nبرین دو رومی و زنگی گر اعتماد کند\r\nز روم تا به در زنگبار بگشاید\r\nبه سنت اسد الله دو نیم گردد خصم\r\nدر آن مصاف که او ذوالفقار بگشاید\r\nچنان رود ز سنان خون دشمنش در رزم\r\nکه بول سوخته خون از زهار بگشاید\r\nنسیم او که صدف را به آب دندان کشت\r\nزلال خضر ز دندان مار بگشاید\r\nاگر بخواهد رایش به گاه کینه و قهر\r\nاز آسمان به مدارا مدار بگشاید\r\nدر آن رصد که کند ارتفاع طالع او\r\nهزار سعد میان بسته بار بگشاید\r\nگرش یکی سر موی از قرار بر گردد\r\nولایت از فلک بیقرار بگشاید\r\nو گرنه از پی سنجیدن رضاش بود\r\nفلک ز برج ترازو عیار بگشاید\r\nزهی بهشت صبوحی که جرعه جامت\r\nز مستی سر دنیا خمار بگشاید\r\nاگر نه سکته حیرت بود حسودت را\r\nز یک خلاف تو صد زینهار بگشاید\r\nوگر مثل چو غباری شود مخالف تو\r\nشکنجه های تو خون از غبار بگشاید\r\nنمای گلبن قدر تو در قبول زکات\r\nهزار پنجه ز دست چنار بگشاید\r\nبه خلق بر چو ببستی در ضرورت را\r\nخدای بر تو در اختیار بگشاید\r\nیکی نفس به من ار لطفت التفات کند\r\nعلاقه نظر روزگار بگشاید\r\nزبان زهره فریبم به سحر هاروتی\r\nز زهره یاره زمه گوشوار بگشاید\r\nاگر ز بزم تو دورم بقای بزم تو باد\r\nکه گر ببندد یک در هزار بگشاید\r\nبه قدر آنک به وقت شمار دست بهار\r\nعقیقهای گل از عقد خار بگشاید\r\nسیاقت عددی باد حد عمرت را\r\nکه عقد های شمار از شمار بگشاید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه حلقه ای که سر زلف یار بگشاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزمانه را و مرا هر دو کار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دست رفتم و دستم نرفت در زلفش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکزان گره گرهی یادگار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو وصل او در امید در جهان بر بست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه سود از آنک در انتظار بگشاید ؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نا امیدی وصلش امیدوار شدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هر چه بسته شود استوار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه عمر خویش دمی زنده وان زمان مرده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه من کناره کنم او کنار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا که صحبت آن تازه گلبن آید یاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزخار هر مژه صد لاله زار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگر که تیز بدان کرد نوک مژگان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خون از ین مژه اشکبار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز خون من چه گشاید و لیک از محنش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس آب دیده که در هر دیار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخزینه خواست زمن کم وجوه یک جو نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر ز غیب دری کردگار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغرض عنایت بخت ست کاندرین سختی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحصول این غرض از شهریار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدایگان سکندر هنر مظفر دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سهمش از جگر یخ شرار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهانگشای قزل ارسلان دریا دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خاتمش ز سلیمان شعار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپناه ملک شهنشه اتابک اعظم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چشم فتح به چون او سوار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشهنشهی که به هنگان قهر اگر خواهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز هفت قلعه گردون حصار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتهمتنی که چو در راه دین قبا بندد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکمر ز قیصر زنار دار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آن مصاف که تدبیر او طلایه کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه یُمن و یُسر، یمین ویسار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرین دو رومی و زنگی گر اعتماد کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز روم تا به در زنگبار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سنت اسد الله دو نیم گردد خصم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آن مصاف که او ذوالفقار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان رود ز سنان خون دشمنش در رزم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بول سوخته خون از زهار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنسیم او که صدف را به آب دندان کشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلال خضر ز دندان مار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر بخواهد رایش به گاه کینه و قهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آسمان به مدارا مدار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آن رصد که کند ارتفاع طالع او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار سعد میان بسته بار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرش یکی سر موی از قرار بر گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولایت از فلک بیقرار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو گرنه از پی سنجیدن رضاش بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفلک ز برج ترازو عیار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزهی بهشت صبوحی که جرعه جامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز مستی سر دنیا خمار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر نه سکته حیرت بود حسودت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز یک خلاف تو صد زینهار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر مثل چو غباری شود مخالف تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکنجه های تو خون از غبار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمای گلبن قدر تو در قبول زکات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار پنجه ز دست چنار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خلق بر چو ببستی در ضرورت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخدای بر تو در اختیار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی نفس به من ار لطفت التفات کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعلاقه نظر روزگار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبان زهره فریبم به سحر هاروتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز زهره یاره زمه گوشوار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر ز بزم تو دورم بقای بزم تو باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه گر ببندد یک در هزار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه قدر آنک به وقت شمار دست بهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقیقهای گل از عقد خار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیاقت عددی باد حدّ عمرت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عقد های شمار از شمار بگشاید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 34
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به حلقه ای که سر زلف یار بگشاید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر زمانه‌ای که حلقه‌ی زلف محبوب را باز کند، نه تنها به او کمک می‌کند تا مسائلش را حل کند، بلکه من هم به واسطه‌ی آن، به آرامش و نجات می‌رسم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زمانه را و مرا هر دو کار بگشاید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز دست رفتم و دستم نرفت در زلفش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دست من رفته و هرچه دارم از دستم دور شده، ولی هنوز دستم به زلف او درگیر است، زیرا آن گره‌های او هر کدام یادآور خاطراتی هستند که نمی‌توانم فراموش کنم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کزان گره گرهی یادگار بگشاید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو وصل او در امید در جهان بر بست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که امید به وصال او در این دنیا بسته شده است، چه فایده دارد که در انتظار بمانیم؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چه سود از آنک در انتظار بگشاید ؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به نا امیدی وصلش امیدوار شدم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دوستی که از او ناامید شده بودم، دوباره امیدوار شدم، زیرا متوجه شدم هر چیزی که محکم بسته شود، در نهایت باز خواهد شد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که هر چه بسته شود استوار بگشاید",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به عمر خویش دمی زنده وان زمان مرده",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در طول عمرم، اگر لحظه‌ای زنده باشم، زمانی که دیگران به خاطره‌ها می‌پیوندند و از زندگی دور می‌شوند، من می‌توانم آن خاطرات را باز کنم و دوباره زندگی ببخشم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که من کناره کنم او کنار بگشاید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "مرا که صحبت آن تازه گلبن آید یاد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که یاد آن گلستان تازه به یادم می‌آید، هر یک از مژه‌هایم مثل یک دشت پر از لاله می‌شود و حس زیبایی را در دل من ایجاد می‌کند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "زخار هر مژه صد لاله زار بگشاید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "نگر که تیز بدان کرد نوک مژگان را",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگاه کن که چگونه نوک مژگانش به شدت تیز است که می‌تواند باعث شود خون از اشک چشمانش بریزد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که خون از ین مژه اشکبار بگشاید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ز خون من چه گشاید و لیک از محنش",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خون من چه بهره‌ای می‌برد و اما از چهره‌اش چنان اشکی می‌ریزد که در هر جایی جاری می‌شود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "بس آب دیده که در هر دیار بگشاید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "خزینه خواست زمن کم وجوه یک جو نیست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من خواستم که از خزانه خود چیزی به تو بدهم، اما حتی یک جو هم ندارم. مگر آنکه خداوند از غیب دری برایم بگشاید."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "مگر ز غیب دری کردگار بگشاید",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "غرض عنایت بخت ست کاندرین سختی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هدف از لطف و عنایت بخت این است که در این مشکلات، دستیابی به این هدف از سوی پادشاه آسان شود."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "حصول این غرض از شهریار بگشاید",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "خدایگان سکندر هنر مظفر دین",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به توصیف ویژگی‌های خاص سکندر می‌پردازد، او را به عنوان یک شخصیت برجسته و هنرمند معرفی می‌کند که قدرت و شکوهی بی‌نظیر دارد. به نظر می‌رسد که او قادر است با وجود سختی‌ها و چالش‌ها، از دل خشم و ناراحتی، تحولی مثبت ایجاد کند و جانی دوباره به زندگی ببخشد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "که سهمش از جگر یخ شرار بگشاید",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "جهانگشای قزل ارسلان دریا دل",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قزل ارسلان، مظهر شجاعت و دلیری است که می‌تواند دریاها را فتح کند و نماد او، انگشتر سلیمان است که به او قدرت و مقام می‌دهد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "که خاتمش ز سلیمان شعار بگشاید",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "پناه ملک شهنشه اتابک اعظم",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پناهگاه ملک و فرمانروایی بزرگ و باعظمت است که چشم پیروزی به مانند او سواره نظام را گشوده است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "که چشم فتح به چون او سوار بگشاید",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "شهنشهی که به هنگان قهر اگر خواهد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاهی که در زمان خشمش، اگر بخواهد، می‌تواند دیوار هفت قلعه آسمان را بشکافد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "ز هفت قلعه گردون حصار بگشاید",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "تهمتنی که چو در راه دین قبا بندد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اتهامی به من زده‌اند که وقتی در راه دین می‌روم، کسی که لباس سلطنت و سرپرستی بر تن دارد، دین را رها می‌کند و به آرزوهای دنیوی روی می‌آورد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "کمر ز قیصر زنار دار بگشاید",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "در آن مصاف که تدبیر او طلایه کند",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آن نبردی که تدبیر او پیشتاز باشد و با خوشی و آسانی همراه باشد، راست و چپ او به پیشروی خواهند پرداخت."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "به یُمن و یُسر، یمین ویسار بگشاید",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "برین دو رومی و زنگی گر اعتماد کند",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بر روی دو شخص رومی و زنگی اعتماد کند، می‌تواند از روم به در زنگبار دسترسی پیدا کند."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "ز روم تا به در زنگبار بگشاید",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "به سنت اسد الله دو نیم گردد خصم",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نبردی، دشمن به خاطر سنت و روش اسدالله (علی علیه‌السلام) دوپاره می‌شود، به زمانی که او شمشیرش ذوالفقار را در دست می‌گیرد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "در آن مصاف که او ذوالفقار بگشاید",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "چنان رود ز سنان خون دشمنش در رزم",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در میدان نبرد، به‌قدری خون دشمن از تیرهای شمشیرش جاری می‌شود که حتى خون سوخته از زخم‌ها به زمین می‌ریزد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "که بول سوخته خون از زهار بگشاید",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "نسیم او که صدف را به آب دندان کشت",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد ملایم او که صدف را به آب گوارا می‌برد، از دندان مار، زلال خضر را آزاد می‌کند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "زلال خضر ز دندان مار بگشاید",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "اگر بخواهد رایش به گاه کینه و قهر",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهد در زمان خشم و دشمنی، رنجش را رها کند و با آرامش به تعامل بپردازد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "از آسمان به مدارا مدار بگشاید",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "در آن رصد که کند ارتفاع طالع او",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که در آن مکان خاص، ستاره‌ی او به اوج خود برسد، به گونه‌ای است که هزاران نیکبختی و سعادت در میان او قرار گرفته و مسیر خوشبختی را پیش رویش باز می‌کند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "هزار سعد میان بسته بار بگشاید",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "گرش یکی سر موی از قرار بر گردد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تنها یک تار موی او به حالت برگردد، سرزمینش از کیهان آشفته خواهد شد و گشوده می‌شود."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "ولایت از فلک بیقرار بگشاید",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "و گرنه از پی سنجیدن رضاش بود",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چنین نباشد، آسمان به دنبال ارزیابی رضا، از جایگاه خود در آینده اقدام خواهد کرد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "فلک ز برج ترازو عیار بگشاید",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "زهی بهشت صبوحی که جرعه جامت",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آه! چه بهشت زیبایی است در صبحی که یک جرعه از جام تو می‌تواند سر دنیا را از مستی بیدار کند و غم و خالی بودن را از بین ببرد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "ز مستی سر دنیا خمار بگشاید",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "اگر نه سکته حیرت بود حسودت را",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شگفتی و حیرت وجود نداشت، حسودی‌ها به خاطر یک اشتباه تو، صد بار تو را مورد انتقاد قرار می‌داد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "ز یک خلاف تو صد زینهار بگشاید",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "وگر مثل چو غباری شود مخالف تو",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی مانند غباری شود که در مقابل تو قرار دارد، عذاب‌های تو می‌تواند او را از سردرگمی و بی‌پناهی خارج کند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "شکنجه های تو خون از غبار بگشاید",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "نمای گلبن قدر تو در قبول زکات",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شکوه و زیبایی گلستان تو به قدری است که اگر زکات قبول کنی، هزار شاخه از درخت چنار برایت گشوده خواهد شد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "هزار پنجه ز دست چنار بگشاید",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "به خلق بر چو ببستی در ضرورت را",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به بندگی و نیاز مردم می‌پردازی و با آنها مهربان می‌شوی، خداوند درهای خیر و برکت را به روی تو می‌گشاید و به تو اختیار می‌دهد."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "خدای بر تو در اختیار بگشاید",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "یکی نفس به من ار لطفت التفات کند",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تنها یک بار مرا با لطف و توجه خود بنگری، روابط روزگار برایم گشوده خواهد شد."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "علاقه نظر روزگار بگشاید",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "زبان زهره فریبم به سحر هاروتی",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زبان زیبا و فریبنده‌ام را مانند جادوگری شگفت‌انگیز به کار می‌برم تا دل‌ها را تسخیر کنم، چون گوشواره‌ای که جواهراتش درخشان و دل‌نواز است."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "ز زهره یاره زمه گوشوار بگشاید",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "اگر ز بزم تو دورم بقای بزم تو باد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر من از جشن و مهمانی تو دور باشم، باشد که این جشن برای همیشه برقرار باشد؛ زیرا اگر یک در به روی من بسته شود، هزار در دیگر به رویم گشوده خواهد شد."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "که گر ببندد یک در هزار بگشاید",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "به قدر آنک به وقت شمار دست بهار",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به اندازه‌ای که بهار در زمان مناسب، گل‌ها را از چنگ خارها رهایی می‌بخشد، زیبایی و ارزش آن‌ها نیز نمایان خواهد شد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "عقیقهای گل از عقد خار بگشاید",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "سیاقت عددی باد حدّ عمرت را",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرنوشت عددی خود را بشناس، زیرا زمان عمر تو به اندازه‌ی شمارش لحظه‌ها و روزها به پایان می‌رسد."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "که عقد های شمار از شمار بگشاید",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    }
+  ]
+}

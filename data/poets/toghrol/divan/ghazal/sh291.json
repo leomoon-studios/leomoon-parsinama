@@ -1,0 +1,180 @@
+{
+  "Id": 119979,
+  "CatId": 2760,
+  "Title": "شمارهٔ ۲۹۱ - عبدالاقدر",
+  "FullTitle": "طغرل احراری » دیوان اشعار » غزلیات » شمارهٔ ۲۹۱ - عبدالاقدر",
+  "FullUrl": "/toghrol/divan/ghazal/sh291",
+  "RhymeLetters": "ری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره زیبایی و جذابیت خاصی است که معشوق دارد. شاعر از زیبایی چهره و زلف‌های او به نحوی توصیف می‌کند که دیگران را به حیرت و اندیشه وامی‌دارد. معشوق به قدری دلربا و خوش‌اندام است که حتی اجرام آسمانی نیز به خاطر او حسرت می‌خورند. شاعر از احساسات شدید خود نسبت به معشوق می‌گوید و ابراز می‌کند که هیچ شاعری نمی‌تواند به خوبی از زیبایی او بگوید و در این موضوع احساس ننگ دارد. در کل، شعر به بیان احساسی عمیق و شگفتی از زیبایی معشوق می‌پردازد.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "عارضت خورشید اوج دلبری\r\nصورتت رشک بتان آزری\r\nبرهمن بیند اگر زلف تو را\r\nکافرم گر نگذرد از کافری\r\nدر شب زلفت دلم ره گم کند\r\nصبح رخسارت نماید رهبری\r\nافتد آشوبی به صحرای ختن\r\nگر دهی بر باد زلف عنبری\r\nلمعه روی تو را بیند اگر\r\nمه نشیند در مقام اختری\r\nاز فلک آید به سودای رخت\r\nبر زمین خورشید و ماه و مشتری\r\nقاف تا قاف جهان نام تو رفت\r\nکس نآرد بر زبان نام پری\r\nدر چمن سرو ار ببیند قامتت\r\nسر فرود آرد برای چاکری\r\nراه و رفتار و روش گم می کند\r\nاز خرام و ناز تو کبک دری\r\nسفلگان طغرل به شعر آغشته اند\r\nننگ می آید مرا از شاعری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعارضت خورشید اوج دلبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصورتت رشک بتان آزری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرهمن بیند اگر زلف تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکافرم گر نگذرد از کافری!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر شب زلفت دلم ره گم کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبح رخسارت نماید رهبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافتد آشوبی به صحرای ختن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر دهی بر باد زلف عنبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلمعه روی تو را بیند اگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمه نشیند در مقام اختری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز فلک آید به سودای رخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر زمین خورشید و ماه و مشتری!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقاف تا قاف جهان نام تو رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نآرد بر زبان نام پری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر چمن سرو ار ببیند قامتت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر فرود آرد برای چاکری!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراه و رفتار و روش گم می‌کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خرام و ناز تو کبک دری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسفلگان طغرل به شعر آغشته‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eننگ می‌آید مرا از شاعری!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عارضت خورشید اوج دلبری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره‌ات همچون خورشید در اوج زیبایی است و زیبایی‌ات به قدری خیره‌کننده است که بت‌های زیبایی به تو غبطه می‌خورند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صورتت رشک بتان آزری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برهمن بیند اگر زلف تو را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر برهمن (نماد دانایی و عرفان) زلف تو را ببیند، حتی اگر کافر هم باشم، حاضر نیستم از کفر و نافرمانی بگذرم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کافرم گر نگذرد از کافری!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در شب زلفت دلم ره گم کند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در شب تار زلف‌های تو، دل من راه خود را گم می‌کند و صبح که چهره زیبایت را می‌دیدم، آن را به عنوان راهنمایی می‌پندارم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صبح رخسارت نماید رهبری",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "افتد آشوبی به صحرای ختن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در دشت ختن، هیاهویی به پا شود، این به خاطر آن خواهد بود که تو با وزش موهای خوشبوی خود، همه چیز را به هم می‌ریزی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گر دهی بر باد زلف عنبری",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "لمعه روی تو را بیند اگر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ماه در آسمان به سمت مقام ستاره‌ای که تو هستی بنشیند، زیبایی چهره‌ات را خواهد دید."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مه نشیند در مقام اختری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "از فلک آید به سودای رخت",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آسمان بر اثر عشق تو، خورشید و ماه و سیاره مشتری به زمین می‌آیند!"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بر زمین خورشید و ماه و مشتری!",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "قاف تا قاف جهان نام تو رفت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در تمام دنیای بزرگ فقط نام تو مطرح است و هیچ‌کس نام پری را بر زبان نمی‌آورد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "کس نآرد بر زبان نام پری",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "در چمن سرو ار ببیند قامتت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در چمن، سرو زیبایی قامت تو را ببیند، سرش را به احترام تو خم می‌کند و به تو خدمت خواهد کرد!"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "سر فرود آرد برای چاکری!",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "راه و رفتار و روش گم می‌کند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از زیبایی و ناز و راه رفتن تو، کبک دری هم گیج و سردرگم می‌شود و نمی‌داند چه‌کار کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "از خرام و ناز تو کبک دری",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "سفلگان طغرل به شعر آغشته‌اند",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: افراد پست و بی‌ارزش در دنیای شعر و ادبیات نفوذ کرده‌اند و این وضعیت باعث شرمندگی من از این‌که خود را شاعری بدانم، می‌شود!"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "ننگ می‌آید مرا از شاعری!",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ]
+}

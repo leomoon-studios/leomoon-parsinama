@@ -1,0 +1,161 @@
+{
+  "Id": 123864,
+  "CatId": 2838,
+  "Title": "شمارهٔ ۱۵۲",
+  "FullTitle": "واعظ قزوینی » دیوان اشعار » غزلیات » شمارهٔ ۱۵۲",
+  "FullUrl": "/vaez/divan/ghazal/sh152",
+  "RhymeLetters": "اناست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف زیبایی و عشق می‌پردازد و به تشریح حال و هوای زندگی اجتماعی و روابط بین افراد می‌پردازد. شاعر به تشبیه‌های زیبایی از قبیل «آب و جاروب خانه عاشق» و «سبزه گلشن محبت» استفاده کرده تا نشان دهد که عشق و محبت می‌تواند محیطی دل‌انگیز و سرشار از زندگی ایجاد کند. او تأکید می‌کند که زندگی اجتماعی باید به دور از زنجیر و محدودیت باشد و از تنهایی و درون‌گرایی به سمت شادابی و ارتباط با دیگران حرکت کند. در نهایت، شاعر به این نکته اشاره می‌کند که پیری بر زیبایی و شادابی تأثیری ندارد و انسان باید همواره با روحیه‌ای فعال و امیدوار زندگی کند.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اناست",
+      "PlainText": "قالیت گرنه کار کرمان است\r\nزینت خانه سفره نان است\r\nآب و جاروب خانه عاشق\r\nمژه تر سرشک ریزان است\r\nنیست باغی بدلگشایی خلق\r\nگل این باغ روی خندان است\r\nسبزه گلشن محبت را\r\nروی گرم آفتاب تابان است\r\nخلق زنجیرسان چو بافت بهم\r\nمیهمانخانه نیست زندان است\r\nفرح آرد نهفتگی از خلق\r\nپسته در زیر پوست خندان است\r\nمدعا عرض گشت گریه کجاست\r\nکشته شد تخم وقت باران است\r\nنیست چین بر رخ تو از پیری\r\nبر وجود تو خط بطلان است\r\nگوش بر ناله یی نمی بیند\r\nورنه واعظ هزاردستان است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقالیت، گرنه کار کرمان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزینت خانه سفره نان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب و جاروب خانه عاشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمژه تر، سرشک ریزان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست باغی بدلگشایی خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل این باغ، روی خندان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسبزه گلشن محبت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروی گرم آفتاب تابان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلق زنجیرسان چو بافت بهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیهمانخانه نیست زندان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرح آرد نهفتگی از خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپسته در زیر پوست خندان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدعا عرض گشت، گریه کجاست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکشته شد تخم، وقت باران است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست چین بر رخ تو از پیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر وجود تو خط بطلان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوش بر ناله یی نمی بیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه واعظ هزاردستان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "قالیت، گرنه کار کرمان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر اینطور نمی‌گفتی، پس زیبایی کار کرمان است و زینت خانه سفره نان است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زینت خانه سفره نان است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آب و جاروب خانه عاشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در خانه‌ی عاشق، آب و جارو و نظافت در حال انجام است و چشمان او پر از اشک و غم است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مژه تر، سرشک ریزان است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نیست باغی بدلگشایی خلق",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان شده که در این باغ، هیچ گل و گیاهی نمی‌تواند بر زیبایی و سرخوشی چهره‌ی خوشحال انسان‌ها غلبه کند. به عبارت دیگر، شادی و خوشی انسان‌ها از هر نوع زیبایی طبیعی مهم‌تر و برجسته‌تر است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گل این باغ، روی خندان است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سبزه گلشن محبت را",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سبزه و گل‌های یک باغ به عشق و دوستی وابسته‌اند و این زیبایی‌ها در زیر تابش خورشید گرم و پرنور رشد می‌کنند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "روی گرم آفتاب تابان است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خلق زنجیرسان چو بافت بهم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: افراد مثل زنجیر به هم متصل شده‌اند و این ارتباطشان به نوعی محدودیت ایجاد کرده است. اینجا جایی برای خوش‌گذرانی و مهمانی نیست، بلکه به نظر می‌رسد مانند زندانی است که انسان‌ها در آن محصورند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "میهمانخانه نیست زندان است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "فرح آرد نهفتگی از خلق",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشحالی و شادابی ناشی از پنهان‌کاری دیگران است، مانند دانه پسته‌ای که در زیر پوست خود لبخند می‌زند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "پسته در زیر پوست خندان است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "مدعا عرض گشت، گریه کجاست؟",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدعا بیان شد، اما جایی برای گریه نیست؛ چرا که در زمان باران، دانه‌ای که کاشته شده، از بین رفته است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "کشته شد تخم، وقت باران است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "نیست چین بر رخ تو از پیری",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر روی چهره‌ات آثار پیری دیده نمی‌شود و این نشان می‌دهد که وجود تو از زمان خودش جلوتر است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "بر وجود تو خط بطلان است",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گوش بر ناله یی نمی بیند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به ناله‌ها و دردها گوش ندهد، در واقع نمی‌بیند که در پس این ناله‌ها چه حقیقت‌هایی نهفته است. در واقع، می‌توان گفت که واعظانی با هزاران نکته و سخن در این دنیا وجود دارند، ولی اغلب درک عمیق‌تری از مسائل ندارند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "ورنه واعظ هزاردستان است",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

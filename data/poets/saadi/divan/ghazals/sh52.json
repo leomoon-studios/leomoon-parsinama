@@ -1,0 +1,824 @@
+{
+  "Id": 9374,
+  "CatId": 120,
+  "Title": "غزل شمارهٔ  ۵۲",
+  "FullTitle": "سعدی » دیوان اشعار » غزلیات » غزل شمارهٔ  ۵۲",
+  "FullUrl": "/saadi/divan/ghazals/sh52",
+  "RhymeLetters": "اباست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "سعدی به جای قالب غزل از نوعی مسمّط استفاده کرده است. بند اول از لحاظ قافیه مثل غزل است، اما از بند دوم به بعد، سه مصراع اول به یک قافیه و تمامی مصراع‌های چهارم از نظر قافیه تابع قافیه بند اول هستند. -\u00A0منبع: شرح غزل‌های سعدی",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اباست",
+      "PlainText": "آن ماه دو هفته در نقاب است\r\nیا حوری دست در خضاب است\r\nوان وسمه بر ابروان دلبند\r\nیا قوس قزح بر آفتاب است\r\nسیلاب ز سر گذشت یارا\r\nز اندازه به در مبر جفا را\r\nبازآی که از غم تو ما را\r\nچشمی و هزار چشمه آب است\r\nتندی و جفا و زشت خویی\r\nهرچند که می کنی نکویی\r\nفرمان برمت به هر چه گویی\r\nجان بر لب و چشم بر خطاب است\r\nای روی تو از بهشت بابی\r\nدل بر نمک لبت کبابی\r\nگفتم بزنم بر آتش آبی\r\nوین آتش دل نه جای آب است\r\nصبر از تو کسی نیاورد تاب\r\nچشمم ز غمت نمی برد خواب\r\nشک نیست که بر ممر سیلاب\r\nچندان که بنا کنی خراب است\r\nای شهره شهر و فتنه خیل\r\nفی منظرک النهار و اللیل\r\nهر کاو نکند به صورتت میل\r\nدر صورت آدمی دواب است\r\nای داروی دلپذیر دردم\r\nاقرار به بندگیت کردم\r\nدانی که من از تو برنگردم\r\nچندان که خطا کنی صواب است\r\nگرچه تو امیر و ما اسیریم\r\nگرچه تو بزرگ و ما حقیریم\r\nگرچه تو غنی و ما فقیریم\r\nدلداری دوستان ثواب است\r\nای سرو روان و گلبن نو\r\nمه پیکر آفتاب پرتو\r\nبستان و بده بگوی و بشنو\r\nشب های چنین نه وقت خواب است\r\nامشب شب خلوت است تا روز\r\nای طالع سعد و بخت فیروز\r\nشمعی به میان ما برافروز\r\nیا شمع مکن که ماهتاب است\r\nساقی قدحی قلندری وار\r\nدر ده به معاشران هشیار\r\nدیوانه به حال خویش بگذار\r\nکاین مستی ما نه از شراب است\r\nباد است غرور زندگانی\r\nبرق است لوامع جوانی\r\nدریاب دمی که می توانی\r\nبشتاب که عمر در شتاب است\r\nاین گرسنه گرگ بی ترحم\r\nخود سیر نمی شود ز مردم\r\nابنای زمان مثال گندم\r\nوین دور فلک چو آسیاب است\r\nسعدی تو نه مرد وصل اویی\r\nتا لاف زنی و قرب جویی\r\nای تشنه به خیره چند پویی\r\nکاین ره که تو می روی سراب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن ماه دو هفته در نقاب است؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا حوریِ دست در خضاب است؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eوان وسمه بر ابروان دلبند\u003C/p\u003E\r\n\u003Cp\u003Eیا قوس قزح بر آفتاب است؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیلاب ز سر گذشت یارا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اندازه به در مبر جفا را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eبازآی که از غم تو ما را\u003C/p\u003E\r\n\u003Cp\u003Eچشمی و هزار چشمه آب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتندی و جفا و زشت‌خویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچند که می‌کنی نکویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eفرمان برمت به هر چه گویی\u003C/p\u003E\r\n\u003Cp\u003Eجان بر لب و چشم بر خطاب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای روی تو از بهشت بابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل بر نمک لبت کبابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn8\u0022\u003E\u003Cp\u003Eگفتم بزنم بر آتش آبی\u003C/p\u003E\r\n\u003Cp\u003Eوین آتش دل نه جای آب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبر از تو کسی نیاورَد تاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمم ز غمت نمی‌برد خواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn10\u0022\u003E\u003Cp\u003Eشک نیست که بر مَمَرِّ سیلاب\u003C/p\u003E\r\n\u003Cp\u003Eچندان که بنا کنی خراب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شهرهٔ شهر و فتنهٔ خیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفی منظرک النّهارُ و اللّیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn12\u0022\u003E\u003Cp\u003Eهر کاو نکند به صورتت میل\u003C/p\u003E\r\n\u003Cp\u003Eدر صورت آدمی دَواب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای داروی دلپذیر دردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاقرار به بندگیت کردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn14\u0022\u003E\u003Cp\u003Eدانی که من از تو برنگردم\u003C/p\u003E\r\n\u003Cp\u003Eچندان که خطا کنی صواب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه تو امیر و ما اسیریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه تو بزرگ و ما حقیریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn16\u0022\u003E\u003Cp\u003Eگرچه تو غنی و ما فقیریم\u003C/p\u003E\r\n\u003Cp\u003Eدلداری دوستان ثواب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سرو روان و گلبن نو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمه پیکرِ آفتاب‌پرتو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn18\u0022\u003E\u003Cp\u003Eبستان و بده؛ بگوی و بشنو\u003C/p\u003E\r\n\u003Cp\u003Eشب‌های چنین نه وقت خواب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب شب خلوت است تا روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای طالعِ سعد و بخت فیروز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn20\u0022\u003E\u003Cp\u003Eشمعی به میان ما برافروز\u003C/p\u003E\r\n\u003Cp\u003Eیا شمع مکن که ماهتاب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی قدحی قلندری‌وار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ده به معاشرانِ هشیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn22\u0022\u003E\u003Cp\u003Eدیوانه به حال خویش بگذار\u003C/p\u003E\r\n\u003Cp\u003Eکاین مستی ما نه از شراب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد است غرور زندگانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرق است لَوامِعِ جوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn24\u0022\u003E\u003Cp\u003Eدریاب دمی که می‌توانی\u003C/p\u003E\r\n\u003Cp\u003Eبشتاب که عمر در شتاب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین گُرسِنه‌گرگِ بی‌ترحم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود سیر نمی‌شود ز مردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn26\u0022\u003E\u003Cp\u003Eابنای زمان مثال گندم\u003C/p\u003E\r\n\u003Cp\u003Eوین دور فلک چو آسیاب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعدی تو نه مرد وصل اویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا لاف زنی و قرب جویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn28\u0022\u003E\u003Cp\u003Eای تشنه به خیره چند پویی\u003C/p\u003E\r\n\u003Cp\u003Eکاین ره که تو می‌روی سراب است\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 28
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اباست",
+      "PlainText": "آن ماه دو هفته در نقاب است\r\nیا حوری دست در خضاب است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن ماه دو هفته در نقاب است؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا حوریِ دست در خضاب است؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ارا",
+      "PlainText": "سیلاب ز سر گذشت یارا\r\nز اندازه به در مبر جفا را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیلاب ز سر گذشت یارا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اندازه به در مبر جفا را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ویی",
+      "PlainText": "تندی و جفا و زشت خویی\r\nهرچند که می کنی نکویی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتندی و جفا و زشت‌خویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچند که می‌کنی نکویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "بابی",
+      "PlainText": "ای روی تو از بهشت بابی\r\nدل بر نمک لبت کبابی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای روی تو از بهشت بابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل بر نمک لبت کبابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "صبر از تو کسی نیاورد تاب\r\nچشمم ز غمت نمی برد خواب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبر از تو کسی نیاورَد تاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمم ز غمت نمی‌برد خواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "یل",
+      "PlainText": "ای شهره شهر و فتنه خیل\r\nفی منظرک النهار و اللیل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شهرهٔ شهر و فتنهٔ خیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفی منظرک النّهارُ و اللّیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ردم",
+      "PlainText": "ای داروی دلپذیر دردم\r\nاقرار به بندگیت کردم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای داروی دلپذیر دردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاقرار به بندگیت کردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "یریم",
+      "PlainText": "گرچه تو امیر و ما اسیریم\r\nگرچه تو بزرگ و ما حقیریم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه تو امیر و ما اسیریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه تو بزرگ و ما حقیریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "و",
+      "PlainText": "ای سرو روان و گلبن نو\r\nمه پیکر آفتاب پرتو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای سرو روان و گلبن نو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمه پیکرِ آفتاب‌پرتو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اروز",
+      "PlainText": "امشب شب خلوت است تا روز\r\nای طالع سعد و بخت فیروز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامشب شب خلوت است تا روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای طالعِ سعد و بخت فیروز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 12,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "ساقی قدحی قلندری وار\r\nدر ده به معاشران هشیار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی قدحی قلندری‌وار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ده به معاشرانِ هشیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 13,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "انی",
+      "PlainText": "باد است غرور زندگانی\r\nبرق است لوامع جوانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد است غرور زندگانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرق است لَوامِعِ جوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 14,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "این گرسنه گرگ بی ترحم\r\nخود سیر نمی شود ز مردم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین گُرسِنه‌گرگِ بی‌ترحم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود سیر نمی‌شود ز مردم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 15,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ویی",
+      "PlainText": "سعدی تو نه مرد وصل اویی\r\nتا لاف زنی و قرب جویی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعدی تو نه مرد وصل اویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا لاف زنی و قرب جویی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 17,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "اباست",
+      "PlainText": "وان وسمه بر ابروان دلبند\r\nیا قوس قزح بر آفتاب است\r\nبازآی که از غم تو ما را\r\nچشمی و هزار چشمه آب است\r\nفرمان برمت به هر چه گویی\r\nجان بر لب و چشم بر خطاب است\r\nگفتم بزنم بر آتش آبی\r\nوین آتش دل نه جای آب است\r\nشک نیست که بر ممر سیلاب\r\nچندان که بنا کنی خراب است\r\nهر کاو نکند به صورتت میل\r\nدر صورت آدمی دواب است\r\nدانی که من از تو برنگردم\r\nچندان که خطا کنی صواب است\r\nگرچه تو غنی و ما فقیریم\r\nدلداری دوستان ثواب است\r\nبستان و بده بگوی و بشنو\r\nشب های چنین نه وقت خواب است\r\nشمعی به میان ما برافروز\r\nیا شمع مکن که ماهتاب است\r\nدیوانه به حال خویش بگذار\r\nکاین مستی ما نه از شراب است\r\nدریاب دمی که می توانی\r\nبشتاب که عمر در شتاب است\r\nابنای زمان مثال گندم\r\nوین دور فلک چو آسیاب است\r\nای تشنه به خیره چند پویی\r\nکاین ره که تو می روی سراب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eوان وسمه بر ابروان دلبند\u003C/p\u003E\r\n\u003Cp\u003Eیا قوس قزح بر آفتاب است؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eبازآی که از غم تو ما را\u003C/p\u003E\r\n\u003Cp\u003Eچشمی و هزار چشمه آب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eفرمان برمت به هر چه گویی\u003C/p\u003E\r\n\u003Cp\u003Eجان بر لب و چشم بر خطاب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eگفتم بزنم بر آتش آبی\u003C/p\u003E\r\n\u003Cp\u003Eوین آتش دل نه جای آب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eشک نیست که بر مَمَرِّ سیلاب\u003C/p\u003E\r\n\u003Cp\u003Eچندان که بنا کنی خراب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eهر کاو نکند به صورتت میل\u003C/p\u003E\r\n\u003Cp\u003Eدر صورت آدمی دَواب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn7\u0022\u003E\u003Cp\u003Eدانی که من از تو برنگردم\u003C/p\u003E\r\n\u003Cp\u003Eچندان که خطا کنی صواب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn8\u0022\u003E\u003Cp\u003Eگرچه تو غنی و ما فقیریم\u003C/p\u003E\r\n\u003Cp\u003Eدلداری دوستان ثواب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn9\u0022\u003E\u003Cp\u003Eبستان و بده؛ بگوی و بشنو\u003C/p\u003E\r\n\u003Cp\u003Eشب‌های چنین نه وقت خواب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn10\u0022\u003E\u003Cp\u003Eشمعی به میان ما برافروز\u003C/p\u003E\r\n\u003Cp\u003Eیا شمع مکن که ماهتاب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn11\u0022\u003E\u003Cp\u003Eدیوانه به حال خویش بگذار\u003C/p\u003E\r\n\u003Cp\u003Eکاین مستی ما نه از شراب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn12\u0022\u003E\u003Cp\u003Eدریاب دمی که می‌توانی\u003C/p\u003E\r\n\u003Cp\u003Eبشتاب که عمر در شتاب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn13\u0022\u003E\u003Cp\u003Eابنای زمان مثال گندم\u003C/p\u003E\r\n\u003Cp\u003Eوین دور فلک چو آسیاب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn14\u0022\u003E\u003Cp\u003Eای تشنه به خیره چند پویی\u003C/p\u003E\r\n\u003Cp\u003Eکاین ره که تو می‌روی سراب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 14
+    },
+    {
+      "Index": 17,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "یاقوسقزحبرافتاباست",
+      "PlainText": "وان وسمه بر ابروان دلبند\r\nیا قوس قزح بر آفتاب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eوان وسمه بر ابروان دلبند\u003C/p\u003E\r\n\u003Cp\u003Eیا قوس قزح بر آفتاب است؟\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "چشمیوهزارچشمهاباست",
+      "PlainText": "بازآی که از غم تو ما را\r\nچشمی و هزار چشمه آب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبازآی که از غم تو ما را\u003C/p\u003E\r\n\u003Cp\u003Eچشمی و هزار چشمه آب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "جانبرلبوچشمبرخطاباست",
+      "PlainText": "فرمان برمت به هر چه گویی\r\nجان بر لب و چشم بر خطاب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eفرمان برمت به هر چه گویی\u003C/p\u003E\r\n\u003Cp\u003Eجان بر لب و چشم بر خطاب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "ویناتشدلنهجایاباست",
+      "PlainText": "گفتم بزنم بر آتش آبی\r\nوین آتش دل نه جای آب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eگفتم بزنم بر آتش آبی\u003C/p\u003E\r\n\u003Cp\u003Eوین آتش دل نه جای آب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "چندانکهبناکنیخراباست",
+      "PlainText": "شک نیست که بر ممر سیلاب\r\nچندان که بنا کنی خراب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eشک نیست که بر مَمَرِّ سیلاب\u003C/p\u003E\r\n\u003Cp\u003Eچندان که بنا کنی خراب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "درصورتادمیدواباست",
+      "PlainText": "هر کاو نکند به صورتت میل\r\nدر صورت آدمی دواب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eهر کاو نکند به صورتت میل\u003C/p\u003E\r\n\u003Cp\u003Eدر صورت آدمی دَواب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "چندانکهخطاکنیصواباست",
+      "PlainText": "دانی که من از تو برنگردم\r\nچندان که خطا کنی صواب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدانی که من از تو برنگردم\u003C/p\u003E\r\n\u003Cp\u003Eچندان که خطا کنی صواب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "دلداریدوستانثواباست",
+      "PlainText": "گرچه تو غنی و ما فقیریم\r\nدلداری دوستان ثواب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eگرچه تو غنی و ما فقیریم\u003C/p\u003E\r\n\u003Cp\u003Eدلداری دوستان ثواب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 25,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "شبهایچنیننهوقتخواباست",
+      "PlainText": "بستان و بده بگوی و بشنو\r\nشب های چنین نه وقت خواب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبستان و بده؛ بگوی و بشنو\u003C/p\u003E\r\n\u003Cp\u003Eشب‌های چنین نه وقت خواب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 26,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "یاشمعمکنکهماهتاباست",
+      "PlainText": "شمعی به میان ما برافروز\r\nیا شمع مکن که ماهتاب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eشمعی به میان ما برافروز\u003C/p\u003E\r\n\u003Cp\u003Eیا شمع مکن که ماهتاب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 27,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "کاینمستیمانهازشراباست",
+      "PlainText": "دیوانه به حال خویش بگذار\r\nکاین مستی ما نه از شراب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدیوانه به حال خویش بگذار\u003C/p\u003E\r\n\u003Cp\u003Eکاین مستی ما نه از شراب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 28,
+      "Number": 29,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "بشتابکهعمردرشتاباست",
+      "PlainText": "دریاب دمی که می توانی\r\nبشتاب که عمر در شتاب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eدریاب دمی که می‌توانی\u003C/p\u003E\r\n\u003Cp\u003Eبشتاب که عمر در شتاب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 29,
+      "Number": 30,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "ویندورفلکچواسیاباست",
+      "PlainText": "ابنای زمان مثال گندم\r\nوین دور فلک چو آسیاب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eابنای زمان مثال گندم\u003C/p\u003E\r\n\u003Cp\u003Eوین دور فلک چو آسیاب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 30,
+      "Number": 31,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "کاینرهکهتومیرویسراباست",
+      "PlainText": "ای تشنه به خیره چند پویی\r\nکاین ره که تو می روی سراب است",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eای تشنه به خیره چند پویی\u003C/p\u003E\r\n\u003Cp\u003Eکاین ره که تو می‌روی سراب است\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آن ماه دو هفته در نقاب است؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "ماه دو هفته: ماه تمام، بدر/ نقاب: برقع و روی‌بند زنان/ حوری: جمعِ احوَر و حورا، امروزه در زبان فارسی مفرد است، زیبارویی که موی و چشمی سیاه و پوستی سفید دارد و یا زیبا‌چشمی که سیاهی چشمان او کاملا سیاه و سفیدی آن کاملاً سفید باشد./خضاب: رنگ کردن با حنا و گلگونه / سعدی به جای قالب غزل از نوعی مسمّط استفاده کرده است. بند اول از لحاظ قافیه مثل غزل است، اما از بند دوم به بعد، سه مصراع اول به یک قافیه و تمامی مصراع‌های چهارم از نظر قافیه تابع قافیه بند اول هستند. / این بیت دارای آرایهٔ تجاهل‌العارف است. / معنی: آیا آن یار است یا ماه شب چهارده که در نقاب پنهان شده است؟! یا حوری بهشتی است که انگشتان خود را رنگین (حنا) کرده است؟! - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "یا حوریِ دست در خضاب است؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "CenteredVerse1",
+      "Text": "وان وسمه بر ابروان دلبند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 17,
+      "CoupletSummary": "وسمه: \u0022رنگ سیاه است که زنان با آن ابرو را رنگ کنند، رُستنی‌ای باشد که زنان آن را در آب جوشانند و ابرو را بدان رنگ کنند و بعضی گفته‌اند برگ نیل است، چه به عربی ورق‌النیل می‌گویند و بعضی گویند نوعی از حناست و آن را حنای سیاه می‌گویند و جمعی گفته‌اند سنگی است که آن را به آب می‌سایند و بر ابرو می‌مالند، سیاه می‌کند.\u0022( لغت‌نامه) / قوس قزح: کمان رنگین که در هوا ظاهر شود و آن را کمان رستم و کمان شیطان گویند و قزح نام فرشته موکل بر ابر و نام شیطان است. (لغت‌نامه) / تناسب: قوس قزح، آفتاب / استعارهٔ مصرّحه: آفتاب (صورت تابان معشوق) / معنی: آن چیزی که ابروان دلبند یار را آراسته، وسمه است؟! یا قوس قزحی است که در کنار آفتاب قرار دارد؟! - منبع: شرح غزل‌های سعدی\u00A0"
+    },
+    {
+      "VOrder": 4,
+      "Position": "CenteredVerse2",
+      "Text": "یا قوس قزح بر آفتاب است؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 17
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سیلاب ز سر گذشت یارا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "معنی: ای دوست، سیلاب غم تو ما را در خود غرقه ساخته است، پس بر غرقهٔ در این سیلاب بیش از حد ستم مکن. -\u00A0منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ز اندازه به در مبر جفا را",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 7,
+      "Position": "CenteredVerse1",
+      "Text": "بازآی که از غم تو ما را",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 18,
+      "CoupletSummary": "جناس زاید: چشم، چشمه / معنی: برگرد که در اندوه تو چشم ما به اندازهٔ هزار چشمه، آب جاری ساخته است. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 8,
+      "Position": "CenteredVerse2",
+      "Text": "چشمی و هزار چشمه آب است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 18
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تندی و جفا و زشت‌خویی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "معنی: هرقدر که بر خشم و ستم و تندخویی خویش بیفزایی، باز هم زیبا و خوبی. -\u00A0منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هرچند که می‌کنی نکویی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 11,
+      "Position": "CenteredVerse1",
+      "Text": "فرمان برمت به هر چه گویی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 19,
+      "CoupletSummary": "فرمان بردن: اطاعت کردن، رام شدن / خطاب: رویاروی سخن گفتن، گفتاری درشت و عتاب‌آمیز. / کنایه: جان بر لب بودن (به مرگ نزدیک شدن و بی‌تاب و قرار گشتن). چشم بر چیزی بودن (منتظر بودن). / معنی: به هرچه فرمان دهی، فرمانبرداری می‌کنم، با آنکه جان بر لب رسیده و مشرف به مرگ هستم، اما چشم به فرمان تو دوخته‌ام. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 12,
+      "Position": "CenteredVerse2",
+      "Text": "جان بر لب و چشم بر خطاب است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 19
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ای روی تو از بهشت بابی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "تشبیه: لب به نمک (اضافهٔ تشبیهی). روی به بابی از بهشت مانند شده است. / کنایه: کباب بودن دل (به شور و هیجان آمدن، دچار سوز و گداز شدن) / ایهام تناسب: بین واژهٔ \u0022کباب\u0022 در معنای معروفش که در اینجا مراد نیست با \u0022نمک\u0022 / معنی: ای کسی که چهره‌ات به‌سان بابی از باب‌های فردوس است، دل من برای ملاحت لبان تو هلاک و سوخته است. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "دل بر نمک لبت کبابی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 15,
+      "Position": "CenteredVerse1",
+      "Text": "گفتم بزنم بر آتش آبی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 20,
+      "CoupletSummary": "\u00A0کنایه: آب بر آتش زدن (فرو نشاندن، تسکین و آرامش دادن). آتش دل (غم و اندوه و سوز و گداز دل) / تضاد: آتش، آب / معنی: بر این پندار بودم که سوز درون را با آب فرو نشانم، اما این آتش دل حتی با آب هم فرو نمی‌نشیند. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 16,
+      "Position": "CenteredVerse2",
+      "Text": "وین آتش دل نه جای آب است",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 20
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "صبر از تو کسی نیاورَد تاب",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "\u00A0تاب آوردن: تحمل کردن / تشبیه مرکب تمثیلی: بیت نهم مشبه، بیت دهم مشبّه‌به / معنی: در فراق تو کسی تاب شکیبایی ندارد و چشمان من از دست اندوهت به خواب نمی‌رود. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "چشمم ز غمت نمی‌برد خواب",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 19,
+      "Position": "CenteredVerse1",
+      "Text": "شک نیست که بر مَمَرِّ سیلاب",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 21,
+      "CoupletSummary": "مَمَر: گذرگاه و محل عبور. / تضاد: بنا، خراب / معنی: و اینکه هرچه تلاش می‌کنم، خواب ممکن نمی‌شود، مثل آن است که کسی بر گذرگاه سیل بنایی بسازد. قطعاً چنین بنایی بر پای نمی‌ماند. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 20,
+      "Position": "CenteredVerse2",
+      "Text": "چندان که بنا کنی خراب است",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 21
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "ای شهرهٔ شهر و فتنهٔ خیل",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "خیل: قبیله، گروه / نهار: روز / لیل: شب / جناس زاید و ناقص: شهره، شهر / تضاد: نهار، لیل / استعارهٔ مصرحه: نهار و لیل (صورت و گیسوان) / معنی: ای کسی که در شهر پرآوازه‌ای و مردم بسیاری را برآشفته‌ای، روز و شب (صورت و گیسوان) را می‌توان در چهره‌ات دید. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "فی منظرک النّهارُ و اللّیل",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 23,
+      "Position": "CenteredVerse1",
+      "Text": "هر کاو نکند به صورتت میل",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 22,
+      "CoupletSummary": "دواب: جمعِ دابه، چهارپایان / تضاد: آدمی، دواب / معنی: هرکسی که به چهرهٔ زیبایت میل و گرایش نداشته باشد، چهارپایی است که به صورت انسان در‌آمده است. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 24,
+      "Position": "CenteredVerse2",
+      "Text": "در صورت آدمی دَواب است",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 22
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "ای داروی دلپذیر دردم",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "تضاد: دارو، درد / معنی: ای کسی که برای درمان دردم در حکم دارویی شفابخش هستی، اعتراف می‌کنم که بنده و غلام توام. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "اقرار به بندگیت کردم",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 27,
+      "Position": "CenteredVerse1",
+      "Text": "دانی که من از تو برنگردم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 23,
+      "CoupletSummary": "تضاد: خطا، صواب / معنی: تو آگاهی که من از تو بر‌نمی‌گردم، هر قدر که در این باب به راه خطا روی، من آن را درست و صواب تلقی خواهم کرد. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 28,
+      "Position": "CenteredVerse2",
+      "Text": "چندان که خطا کنی صواب است",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 23
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "گرچه تو امیر و ما اسیریم",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "جناس لاحق و تضاد: امیر، اسیر/ تضاد: بزرگ، حقیر / معنی: اگرچه تو فرمانروا و ما اسیر تو هستیم و با وجود آنکه بزرگی ما در برابر تو ناچیز است. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "گرچه تو بزرگ و ما حقیریم",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 31,
+      "Position": "CenteredVerse1",
+      "Text": "گرچه تو غنی و ما فقیریم",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 24,
+      "CoupletSummary": "تضاد: غنی، فقیر/ کنایه: دلداری (تسلّی و غمخواری) / معنی: و اگرچه تو ثروتمند و ما بی‌چیزیم، امّا دلجویی از دوستان و دلداری دادن به آنان ثواب دارد. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 32,
+      "Position": "CenteredVerse2",
+      "Text": "دلداری دوستان ثواب است",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 24
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "ای سرو روان و گلبن نو",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "\u00A0گل‌بن: بوته و درخت گل / استعارهٔ مصرحه: سرو روان، گل‌بن نو (معشوق خرامان و زیبا) / کنایه: مه‌پیکر، آفتاب‌پرتو (معشوق زیبا) / تشبیه (صفت تشبیهی): مه‌پیکر و آفتاب‌پرتو. / معنی: ای معشوق بلندقامت و زیبا، ای آنکه پیکرت مانند ماه است و پرتو روی تو مثل پرتو خورشید. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "مه پیکرِ آفتاب‌پرتو",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 35,
+      "Position": "CenteredVerse1",
+      "Text": "بستان و بده؛ بگوی و بشنو",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 25,
+      "CoupletSummary": "معنی: با عاشق به گفت‌و‌شنود و دادوستدی عاشقانه بپرداز، زیرا در شب‌های عشق‌ورزی نباید خفت. -\u00A0منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 36,
+      "Position": "CenteredVerse2",
+      "Text": "شب‌های چنین نه وقت خواب است",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 25
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "امشب شب خلوت است تا روز",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "طالع سعد: نیک و مبارک / بخت: اقبال و سعادت / تضاد: شب، روز /\u00A0 استعارهٔ مکنیه: طالع سعد، بخت فیروز (به قرینهٔ مورد خطاب واقع شدن) / معنی: امشب تا صبح، شب خلوت‌گزینی با معشوق است، پس ای طالع سعد و ای بخت فیروز من - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "ای طالعِ سعد و بخت فیروز",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 39,
+      "Position": "CenteredVerse1",
+      "Text": "شمعی به میان ما برافروز",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 26,
+      "CoupletSummary": "\u00A0آرایهٔ رجوع: از حکم مصراع اول به منظور نکتهٔ ظریف مصراع دوم که تشبیه چهرهٔ یار به مهتاب است، برگشته است. / معنی: شمعی در میان ما دو دلداده برافروزید، یا نه، به دلیل وجود چهرهٔ منوّر دوست نیازی به روشن کردن شمع نیست. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 40,
+      "Position": "CenteredVerse2",
+      "Text": "یا شمع مکن که ماهتاب است",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 26
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "ساقی قدحی قلندری‌وار",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "قدح: جام و پیالهٔ شراب / قلندری‌وار: مانند قلندر و قلندری به معنی شوریدگی و لاابالی‌گری و بی‌قیدی است./ معاشران: همنشینان و دوستان یکرنگ / معنی: ای ساقی، بی‌پروا و با شوریدگی و لاابالی‌گری قدحی شراب به همنشینان هوشیار بنوشان. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "در ده به معاشرانِ هشیار",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 43,
+      "Position": "CenteredVerse1",
+      "Text": "دیوانه به حال خویش بگذار",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 27,
+      "CoupletSummary": "معنی: ولی دیوانه و سرمست عشق را به حال خود رها کن، زیرا مستی دیوانهٔ عشق بر اثر شراب‌نوشی نیست. -\u00A0منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 44,
+      "Position": "CenteredVerse2",
+      "Text": "کاین مستی ما نه از شراب است",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 27
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "باد است غرور زندگانی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "غرور: فریب و تکبر، آراستن / لوامع: جمع لامعه، پرتوها و درخشش‌ها / کنایه: باد بودن (هیچ بودن). برق بودن (تند و سریع بودن). / تشبیه: غرور زندگانی به باد و لوامع جوانی به برق مانند شده است. / معنی: فریفتگی به زندگی همچون‌ باد است که به سرعت می‌گذرد و درخشش ایام شباب و جوانی به‌سان صاعقه پرنور و زودگذر است. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "برق است لَوامِعِ جوانی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 47,
+      "Position": "CenteredVerse1",
+      "Text": "دریاب دمی که می‌توانی",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 28,
+      "CoupletSummary": "معنی: پس در آن لحظه‌ای که توانایی داری، عمر را دریاب و برای لذت برگرفتن از آن فرصت را از دست مده، زیرا عمر به شتاب سپری می‌شود. -\u00A0منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 48,
+      "Position": "CenteredVerse2",
+      "Text": "بشتاب که عمر در شتاب است",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 28
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "این گُرسِنه‌گرگِ بی‌ترحم",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "استعارهٔ مصرحه: گرگ (روزگار و اجل) / معنی: این دوران گرگ‌صفت با بی‌رحمی تمام مردم را می‌درد و از خوردن آنان‌ سیر نمی‌شود. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "خود سیر نمی‌شود ز مردم",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 51,
+      "Position": "CenteredVerse1",
+      "Text": "ابنای زمان مثال گندم",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 29,
+      "CoupletSummary": "ابنا: جمع ابن، پسران، فرزندان/ دور فلک به آسیاب مانند شده است. / معنی: مردم روزگار در برابر اجل مثل گندم هستند و گردش روزگار همانند آسیاب است که آنان را در میانهٔ سنگ‌های زیرین و زبرین خود خرد می‌کند. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 52,
+      "Position": "CenteredVerse2",
+      "Text": "وین دور فلک چو آسیاب است",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 29
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "سعدی تو نه مرد وصل اویی",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "کنایه: مردِ کسی یا چیزی بودن (حریف و درخور کسی یا چیزی بودن) / تشبیه مرکب تمثیلی: بیت بیست و هفتم مشبه، بیت بیست و هشتم مشبّه‌به. / معنی: ای سعدی، تا زمانی که لاف می‌زنی و خواهان نزدیکی با او هستی، مردِ رسیدن به او نیستی. - منبع: شرح غزل‌های سعدی"
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "تا لاف زنی و قرب جویی",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 55,
+      "Position": "CenteredVerse1",
+      "Text": "ای تشنه به خیره چند پویی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 30,
+      "CoupletSummary": "خیره: حیران و سرگشته / پوییدن: رفتن / سراب: زمینی که بر اثر تابش خورشید به نظر آب بیاید. / معنی: تو همانند تشنه‌ای هستی که باید آب به دست آورد، اما این راهی که تو برگزیده‌ای، به آب نه، بلکه به سراب می‌رسد. - منبع:\u00A0شرح غزل‌های سعدی / دکتر محمدرضا برزگر خالقی /دکتر تورج عقدایی\u00A0"
+    },
+    {
+      "VOrder": 56,
+      "Position": "CenteredVerse2",
+      "Text": "کاین ره که تو می‌روی سراب است",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "SectionIndex3": 30
+    }
+  ]
+}

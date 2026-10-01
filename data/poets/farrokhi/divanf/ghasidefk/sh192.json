@@ -1,0 +1,690 @@
+{
+  "Id": 62771,
+  "CatId": 1859,
+  "Title": "شمارهٔ ۱۹۲ - در لغز آتش سده و مدح سلطان محمود گوید",
+  "FullTitle": "فرخی سیستانی » دیوان اشعار » قصاید » شمارهٔ ۱۹۲ - در لغز آتش سده و مدح سلطان محمود گوید",
+  "FullUrl": "/farrokhi/divanf/ghasidefk/sh192",
+  "RhymeLetters": "انی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به وصف یک گوهر قیمتی می‌پردازد که ویژگی‌های خاص و نادری دارد. این گوهر که به زیبایی گل‌های بوستان توصیف شده، نه تنها ظاهری زیبا، بلکه باطنی پرمحتوا و تاریخی نیز دارد. شاعر از تناقضات وجود این گوهر می‌گوید؛ گاهی سرخ و گاهی زرد است، و به رغم لطافتش، قدرت و قدرت مندی زندگان و خالقان را به یاد می‌آورد. همچنین در توصیف شاهی بزرگ و سخی به نام \u0022میر محمود غازی\u0022 که به پیروزی و تعدیل خوبی و بدی در جهان پرداخته است، او را نه تنها قدرتی در جهان بلکه شخصیتی نمونه در مهربانی و کرامت توصیف می‌کند. در نهایت، شاعر بر اهمیت و زیبایی‌های فصل‌های بهار و پاییز تأکید می‌کند و با تحسین بر روی پیروزی و کامیابی در زندگی، فضایی آرامش‌بخش خلق می‌کند.",
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انی",
+      "PlainText": "یکی گوهری چون گل بوستانی\r\nنه زر وبه دیدار چون زرکانی\r\nبه کوه اندرون مانده دیرگاهی\r\nبه سنگ اندرون زاده باستانی\r\nگهی لعل چون باده ارغوانی\r\nگهی زرد چون بیرم زعفرانی\r\nلطیفی بر آمیخته با با کثافت\r\nیقینی برابر شده با گمانی\r\nنه گاه بسودن مر اورا نمایش\r\nنه گاه گرایش مرا وراگرانی\r\nهم او خلق را مایه زورمندی\r\nهم او زنده را مایه زندگانی\r\nازو قوت فعل بری و بحری\r\nازو حرکت طبع انسی و جانی\r\nغم عاشقی ناچشیده و لیکن\r\nخروشنده چون عاشق از ناتوانی\r\nچو زرین درختی همه برگ و بارش\r\nز گوگرد سرخ و عقیق یمانی\r\nچو از کهربا قبه برکشیده\r\nزده برسرش رایت کاویانی\r\nعجب گوهرست این گهر گر بجویی\r\nمراو را نکو وصف کردن ندانی\r\nنشان دو فصل اندر و باز یابی\r\nیکی نو بهاری یکی مهرگانی\r\nز اجزای او لاله مرغزاری\r\nز آتار او نرگس بوستانی\r\nبه عرض شبه گوهری سرخ یابی\r\nاز و چون کند با تو بازارگانی\r\nکناری گهر بر سر تو فشاند\r\nچومشتی شبه بر سر او فشانی\r\nایا گوهری کز نمایش جهان را\r\nگهی ساده سودی و گاهی زیانی\r\nنه سنگی و سنگ از تو ناچیز گردد\r\nمگر خنجر شهریار جهانی\r\nیمین دول میر محمودغازی\r\nامین ملل شاه زاولستانی\r\nشهی خسروی شهریاری امیری\r\nکه بدعت ز شمشیر اوگشت فانی\r\nملک فره و ملکتش بیکرانه\r\nجهان خسرو و سیرتش خسروانی\r\nنه چون اوملک خلق دیده به گیتی\r\nنه چون او سخی خلق داده نشانی\r\nهمه میل او سوی ایزد پرستی\r\nهمه شغل او جستن آنجهانی\r\nسپه برده اندردل کافرستان\r\nخطر کرده در روزگار جوانی\r\nز هندوستان اصل کفر و ضلالت\r\nبریده به شمشیر هندوستانی\r\nنهاده که هند برخوان هندو\r\nچو دشت کتر برسرخوان خانی\r\nزهی خسروی کز بزرگی و مردی\r\nمیان همه خسروان داستانی\r\nترا زین سپس جز فرشته نخوانم\r\nازیرا که تو آدمی را نمانی\r\nبه بزم اندرون آفتاب منیری\r\nبه رزم اندرون اژدهای دمانی\r\nترا رزمگه بزمگاهست شاها\r\nخروش سواران سرود اغانی\r\nاز این روی جز جنگ جستن نخواهی\r\nبه جنگ اندرون جزمبارز نرانی\r\nبه هر حرب کردن جهانی گشایی\r\nبه هر حمله بردن حصاری ستانی\r\nز بادسواران تو گرد گردد\r\nزمینی که لشکر بدو بگذرانی\r\nبخندد اجل چون تو خنجر بر آری\r\nبجنبد جهان چون تو لشکر برانی\r\nترا پاسبان گرد لشکر نباید\r\nکه شمشیر تو خود کند پاسبانی\r\nندارد خطر پیش توکوه آهن\r\nکه آهن گدازی وآهن کمانی\r\nجهان را ز کفر و ز بدعت بشستی\r\nبه پیروزی و دولت آسمانی\r\nنپاید بسی تابه بغداد و بصره\r\nغلامی به صدر امارت نشانی\r\nاگر چه ز نوشیروان در گذشتی\r\nبه انصاف دادن چو نوشیروانی\r\nکریمی چو شاخیستاو را تو باری\r\nسخاوت چو جسمیست اورا تو جانی\r\nهمی تا کند بلبل اندر بهاران\r\nبه باغ اندرون روزو شب باغبانی\r\nبه بزم اندرون دلفروز تو بادا\r\nبه دو فصل دو مایه شادمانی\r\nبه وقت بهار اسپر غم بهاری\r\nبه وقت خزانی عصیر خزانی\r\nتو بادی جهان داور داد گستر\r\nتو بادی جهان خسرو جاودانی\r\nچنین صد هزاران سده بگذرانی\r\nبه پیروزی و دولت و کامرانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی گوهری چون گل بوستانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه زر وبه دیدار چون زرکانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کوه اندرون مانده دیرگاهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سنگ اندرون زاده باستانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگهی لعل چون باده ارغوانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهی زرد چون بیرم زعفرانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلطیفی بر آمیخته با با کثافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیقینی برابر شده با گمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه گاه بسودن مر اورا نمایش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه گاه گرایش مرا وراگرانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم او خلق را مایه زورمندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم او زنده را مایه زندگانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازو قوت فعل بری و بحری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازو حرکت طبع انسی و جانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم عاشقی ناچشیده و لیکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخروشنده چون عاشق از ناتوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو زرین درختی همه برگ و بارش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز گوگرد سرخ و عقیق یمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو از کهربا قبه برکشیده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزده برسرش رایت کاویانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعجب گوهرست این گهر گر بجویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمراو را نکو وصف کردن ندانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشان دو فصل اندر و باز یابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی نو بهاری یکی مهرگانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز اجزای او لاله مرغزاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آتار او نرگس بوستانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه عرض شبه گوهری سرخ یابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز و چون کند با تو بازارگانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکناری گهر بر سر تو فشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچومشتی شبه بر سر او فشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایا گوهری کز نمایش جهان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهی ساده سودی و گاهی زیانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه سنگی و سنگ از تو ناچیز گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر خنجر شهریار جهانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیمین دول میر محمودغازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامین ملل شاه زاولستانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشهی خسروی شهریاری امیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بدعت ز شمشیر اوگشت فانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک فره و ملکتش بیکرانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان خسرو و سیرتش خسروانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه چون اوملک خلق دیده به گیتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه چون او سخی خلق داده نشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه میل او سوی ایزد پرستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه شغل او جستن آنجهانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپه برده اندردل کافرستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخطر کرده در روزگار جوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز هندوستان اصل کفر و ضلالت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبریده به شمشیر هندوستانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنهاده که هند برخوان هندو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو دشت کتر برسرخوان خانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزهی خسروی کز بزرگی و مردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیان همه خسروان داستانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترا زین سپس جز فرشته نخوانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازیرا که تو آدمی را نمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بزم اندرون آفتاب منیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه رزم اندرون اژدهای دمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترا رزمگه بزمگاهست شاها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخروش سواران سرود اغانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز این روی جز جنگ جستن نخواهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جنگ اندرون جزمبارز نرانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر حرب کردن جهانی گشایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هر حمله بردن حصاری ستانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بادسواران تو گرد گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزمینی که لشکر بدو بگذرانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخندد اجل چون تو خنجر بر آری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبجنبد جهان چون تو لشکر برانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترا پاسبان گرد لشکر نباید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شمشیر تو خود کند پاسبانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندارد خطر پیش توکوه آهن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آهن گدازی وآهن کمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان را ز کفر و ز بدعت بشستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه پیروزی و دولت آسمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنپاید بسی تابه بغداد و بصره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغلامی به صدر امارت نشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه ز نوشیروان در گذشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه انصاف دادن چو نوشیروانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکریمی چو شاخیست،او را تو باری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخاوت چو جسمیست، اورا تو جانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی تا کند بلبل اندر بهاران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه باغ اندرون روزو شب باغبانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بزم اندرون دلفروز تو بادا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دو فصل دو مایه شادمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه وقت بهار اسپر غم بهاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه وقت خزانی عصیر خزانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو بادی جهان داور داد گستر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو بادی جهان خسرو جاودانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین صد هزاران سده بگذرانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه پیروزی و دولت و کامرانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 44
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یکی گوهری چون گل بوستانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی از جواهرات ارزشمند مانند گل در باغ، نه طلا است و نه با طلا قابل مقایسه، بلکه زیبایی و ارزشش در دیدارش مانند رنگ یک گل درخشان است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه زر وبه دیدار چون زرکانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به کوه اندرون مانده دیرگاهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سال‌هاست که در دل کوه محبوس شده و بر روی سنگی کهن شکل گرفته است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به سنگ اندرون زاده باستانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گهی لعل چون باده ارغوانی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی لعل مانند شراب قرمز است و گاهی زرد مانند زعفران."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گهی زرد چون بیرم زعفرانی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "لطیفی بر آمیخته با با کثافت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک لطافت و زیبایی به‌همراه آلودگی و کثیفی، به گونه‌ای در هم تنیده شده که حس و حال قابل اعتماد و روشنی را به ذهن می‌آورد، مانند تردید و گمان که بسیاری از اوقات در زندگی وجود دارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یقینی برابر شده با گمانی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نه گاه بسودن مر اورا نمایش",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به نوعی به رابطه بین دو شخص اشاره دارد. گاه او از نظر احساسی به من تمایل دارد و گاه دیگر، من به او کشش پیدا می‌کنم. در واقع، این روابط ممکن است گاهی یک‌طرفه و گاهی دوطرفه باشد و احساسات بین آنها در حال تغییر است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نه گاه گرایش مرا وراگرانی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "هم او خلق را مایه زورمندی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او هم منبع قدرت برای خلق است و هم نیروی حیات برای زنده‌ها."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هم او زنده را مایه زندگانی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ازو قوت فعل بری و بحری",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از او قدرت انجام کار به وجود می‌آید و دریاها به وسیله او به حرکت درمی‌آیند. از او طبیعت‌های انسانی و روحی به فعالیت می‌افتند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "ازو حرکت طبع انسی و جانی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "غم عاشقی ناچشیده و لیکن",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم عاشقی که تجربه نکرده‌ام، اما صدایش به قدری بلند و رساست که همچون عاشق از ناتوانی به گوش می‌رسد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "خروشنده چون عاشق از ناتوانی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "چو زرین درختی همه برگ و بارش",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند درختی با طلا که تمام برگ‌ها و میوه‌هایش از گوگرد سرخ و عقیق یمانی است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "ز گوگرد سرخ و عقیق یمانی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "چو از کهربا قبه برکشیده",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که گنبدی از کهربا بر افراشته شده و پرچم کاویانی بر فراز آن برافراشته است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "زده برسرش رایت کاویانی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "عجب گوهرست این گهر گر بجویی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این گوهری که در جستجوی آنی، بسیار شگفت‌انگیز و ارزشمند است. اگر نتوانی آن را به خوبی توصیف کنی، نشان‌دهنده‌ای از کمبود توانایی در توصیف زیبایی‌هاست."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "مراو را نکو وصف کردن ندانی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "نشان دو فصل اندر و باز یابی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به بررسی دو فصل مختلف اشاره شده است. یکی از این فصل‌ها بهار است که نمایانگر زندگی و نو شدن است، و دیگری مهرگان یا پاییز است که به تغییر و تحولات طبیعی اشاره دارد. به طور کلی، می‌توان گفت که در این متن، به وجود دو دوره متفاوت در طبیعت و تغییرات آن پرداخته می‌شود."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "یکی نو بهاری یکی مهرگانی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "ز اجزای او لاله مرغزاری",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از بخش‌های وجود او لاله‌ای در دشت می‌روید و از آثار او نرگسی در باغ‌ها شکوفا می‌شود."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "ز آتار او نرگس بوستانی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "به عرض شبه گوهری سرخ یابی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به شکل یک جواهری سرخ می‌روید و تو را به یاد می‌آورد، سپس چگونه می‌تواند با تو معامله کند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "از و چون کند با تو بازارگانی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "کناری گهر بر سر تو فشاند",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر جواهری را بر سر تو بریزند، مانند این است که در یک شب زیبا ستاره‌ای بر سر او بپاشند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "چومشتی شبه بر سر او فشانی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "ایا گوهری کز نمایش جهان را",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا جواهری هست که گاهی در این دنیا سودی ساده به ما برساند و گاهی به ما آسیب وارد کند؟"
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "گهی ساده سودی و گاهی زیانی",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "نه سنگی و سنگ از تو ناچیز گردد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان می‌شود که تو حتی اگر سنگی باشی، ارزش و اهمیت تو تنها با وجود یک خنجر از یک پادشاه جهانی معنا پیدا می‌کند. به عبارت دیگر، قدرت و مقام یک فرد می‌تواند به دیگران ارزش و اهمیت بخشد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "مگر خنجر شهریار جهانی",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "یمین دول میر محمودغازی",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پادشاه محمود غازی، به عنوان حامی و محافظ ملت‌ها، از سوی مردم زاولستان شناخته می‌شود."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "امین ملل شاه زاولستانی",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "شهی خسروی شهریاری امیری",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امیری بزرگ و باعظمت که سلطنت او باعث شد تا بسیاری از ناپاکی‌ها و بدعت‌ها از بین بروند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "که بدعت ز شمشیر اوگشت فانی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "ملک فره و ملکتش بیکرانه",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پادشاهی و اقتدار او بی‌نهایت است و سیرت و شخصیت او شبیه به شخصیت پادشاهان بزرگ و باشکوه است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "جهان خسرو و سیرتش خسروانی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "نه چون اوملک خلق دیده به گیتی",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت بیانگر این است که هیچ‌کس در دنیا مانند آن شخصی که دارای صفات نیکو و سخاوت است وجود ندارد و او به‌سان دیگران نیست. در واقع، او ویژگی‌های خاصی دارد که او را از دیگران متمایز می‌کند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "نه چون او سخی خلق داده نشانی",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "همه میل او سوی ایزد پرستی",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام تمایلات و خواسته‌های او به سوی پرستش خداوند است و تمام تلاش‌های او در جستجوی نعمت‌های آن جهانی سپری می‌شود."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "همه شغل او جستن آنجهانی",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "سپه برده اندردل کافرستان",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جوانی با شجاعت و دلیرانه در سرزمین کافران دست به کار شده و چالش‌ها را پذیرفته است."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "خطر کرده در روزگار جوانی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "ز هندوستان اصل کفر و ضلالت",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کفر و گمراهی از سرزمین هندوستان برچیده شده است، به دست شمشیر هندی‌ها."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "بریده به شمشیر هندوستانی",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "نهاده که هند برخوان هندو",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به زیبایی به حالتی اشاره شده که هند در میهمانی و پذیرایی مانند دشت وسیعی می‌تابد، مانند زمین‌های سرسبز که بر سر سفره گسترده شده است. این تصویر بیانگر شکوه و بزرگی مهمانی و زیبایی آن است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "چو دشت کتر برسرخوان خانی",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "زهی خسروی کز بزرگی و مردی",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به تعریف و ستایش شخصیتی بزرگ و با شخصیت اشاره دارد که در میان دیگر فرمانروایان و شخصیت‌های مهم، به خاطر ویژگی‌های برجسته‌اش شناخته شده و داستان‌های زیادی درباره‌اش گفته می‌شود. این فرد به عنوان نماد عظمت و مردانگی در نظر گرفته می‌شود."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "میان همه خسروان داستانی",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "ترا زین سپس جز فرشته نخوانم",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از این پس تو را جز فرشته نمی‌دانم، زیرا تو دیگر مانند انسان‌ها باقی نمانده‌ای."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "ازیرا که تو آدمی را نمانی",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "به بزم اندرون آفتاب منیری",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در میهمانی، من مانند آفتاب درخشان و در میدان جنگ، همچون اژدهایی قدرتمند و خطرناک هستم."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "به رزم اندرون اژدهای دمانی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "ترا رزمگه بزمگاهست شاها",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای جانان، میدان نبرد تو همانند میخانه‌ای است که در آن صدای سواران و نغمه‌های شاداب بلند است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "خروش سواران سرود اغانی",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "از این روی جز جنگ جستن نخواهی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به همین خاطر اگر به دنبال نبرد هستی، نیازی نیست که در دل جنگ، رزم‌آور دیگری را تهدید کنی."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "به جنگ اندرون جزمبارز نرانی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "به هر حرب کردن جهانی گشایی",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با هر اقدام و تلاش، می‌توان دنیایی را به دست آورد و با هر حمله، می‌توان دژی را تسخیر کرد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "به هر حمله بردن حصاری ستانی",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "ز بادسواران تو گرد گردد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سواران تو بر روی زمین حرکت کنند، آن سرزمین به گرد و خاک خواهد افتاد."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "زمینی که لشکر بدو بگذرانی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "بخندد اجل چون تو خنجر بر آری",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که تو با خنجر خود حمله کنی، مرگ هم می‌خندد و وقتی تو لشکری را به حرکت درآوری، دنیا نیز به جنب و جوش در می‌آید."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "بجنبد جهان چون تو لشکر برانی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "ترا پاسبان گرد لشکر نباید",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نباید اجازه بدهی که شمشیر تو به جای تو محافظت کند، بلکه خودت باید پاسبان لشکرت باشی."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "که شمشیر تو خود کند پاسبانی",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "ندارد خطر پیش توکوه آهن",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ خطری برای تو وجود ندارد، زیرا تو به قدری قوی و ماهر هستی که می‌توانی آهن را ذوب کنی و از آن کمان بسازی."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "که آهن گدازی وآهن کمانی",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "جهان را ز کفر و ز بدعت بشستی",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان را از ناپاکی‌ها و افکار نادرست پاک می‌کنیم و به برکتی از پیروزی و حکومتی آسمانی دست می‌یابیم."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "به پیروزی و دولت آسمانی",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "نپاید بسی تابه بغداد و بصره",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدت زیادی نمی‌گذرد که غل و زنجیرها در بغداد و بصره به پا می‌شود و کسی در مقام رهبری و ریاست می‌نشیند."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "غلامی به صدر امارت نشانی",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "اگر چه ز نوشیروان در گذشتی",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه از نوشیروان گذر کرده‌ای، اما به انصاف عمل کن و مانند او رفتار کن."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "به انصاف دادن چو نوشیروانی",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "کریمی چو شاخیست،او را تو باری",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کریم مثل شاخه‌ای است که ثمر می‌دهد، و سخاوت مثل جسمی است که او را زنده و پویا می‌کند."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "سخاوت چو جسمیست، اورا تو جانی",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "همی تا کند بلبل اندر بهاران",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بلبل در بهار به طور مداوم در باغ می‌خواند و باغبان در طول روز و شب به مراقبت از باغ مشغول است."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "به باغ اندرون روزو شب باغبانی",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "به بزم اندرون دلفروز تو بادا",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به مهمانی و جشن دل‌انگیز تو، بادا که دو فصل شادی و خوشی را همراه داشته باشد."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "به دو فصل دو مایه شادمانی",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "به وقت بهار اسپر غم بهاری",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در بهار، غم‌ها حالت پراکنده و ملایمی دارند، اما در پاییز، این غم‌ها به شدت و انبوهی محسوس می‌شوند."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "به وقت خزانی عصیر خزانی",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "تو بادی جهان داور داد گستر",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو همچون بادی هستی که عدالت را در دنیا برقرار می‌کنی و همچنین مانند خسرو جاودانی هستی که در دنیا سلطنت می‌کنی."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "تو بادی جهان خسرو جاودانی",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "چنین صد هزاران سده بگذرانی",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو بتوانی به مدت صد هزار سال زندگی کنی و در این مدت به موفقیت، ثروت و خوشبختی دست پیدا کنی، بسیار شایسته و ستودنی است."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "به پیروزی و دولت و کامرانی",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    }
+  ]
+}

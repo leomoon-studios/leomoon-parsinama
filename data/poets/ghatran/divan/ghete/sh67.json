@@ -1,0 +1,146 @@
+{
+  "Id": 115504,
+  "CatId": 2684,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "قطران تبریزی » دیوان اشعار » مقطعات » شمارهٔ ۶۷",
+  "FullUrl": "/ghatran/divan/ghete/sh67",
+  "RhymeLetters": "ر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف و ستایش ماه آذر و جشن‌های مربوط به آن می‌پردازد. شاعر از بوی خوش می و شادی در این ماه سخن می‌گوید و همچنین به قدرت و شجاعت اشاره می‌کند. او دشمنان را به چالش می‌کشد و بر وفاداری و دوستی تأکید می‌کند. در نهایت، شاعر از قدرتمندی، هوش و زیبایی سخن می‌گوید و آرزو می‌کند که در غیاب خودش، دیگران توانمند و دانا شوند و از زندگی لذت ببرند.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "آذر فرو زو می خور شاها بماه آذر\r\nآیین ماه آذر بوی می است و آذر\r\nباد ابد رد مانده دشمنت چون کمانه\r\nبگذار شادمانه صدا ور مزدو آذر\r\nیک بخشش تو کردن بار دویست گردون\r\nایمن بزی ز گردون همچون پسر ز مادر\r\nهم بدسگال مالی هم بدسگال مالی\r\nهم با سخا همالی هم باوفا برادر\r\nتو بت جهان برهمن تو باد و خصم خرمن\r\nاز هیبت تو دشمن جوشن دهد بچادر\r\nروی عدوت پرچین وز خونش کرده پرچین\r\nاز تیغ تو شه چین لرزنده و توایدر\r\nدوری ز بند و دستان با رای و هوش دستان\r\nبا زور پور دستان با فر و یال نوذر\r\nگر خلق بی توانی دانا شود تو آنی\r\nبگذار تا توانی گیتی بناز و بگذار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآذر فرو زو می خور شاها بماه آذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیین ماه آذر بوی می است و آذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد ابد رد مانده دشمنت چون کمانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذار شادمانه صدا ور مزدو آذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک بخشش تو کردن بار دویست گردون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایمن بزی ز گردون همچون پسر ز مادر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم بدسگال مالی هم بدسگال مالی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم با سخا همالی هم باوفا برادر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو بت جهان برهمن تو باد و خصم خرمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هیبت تو دشمن جوشن دهد بچادر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی عدوت پرچین وز خونش کرده پرچین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تیغ تو شه چین لرزنده و توایدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوری ز بند و دستان با رای و هوش دستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا زور پور دستان با فر و یال نوذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خلق بی توانی دانا شود تو آنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذار تا توانی گیتی بناز و بگذار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آذر فرو زو می خور شاها بماه آذر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آذرماه، ای شاه، باده بنوش؛ چون این ماه به خود زیبایی و خوشبوئی دارد. بوی خوش باده در آذرماه به مشام می‌رسد و حالتی دلپذیر را به ارمغان می‌آورد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیین ماه آذر بوی می است و آذر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "باد ابد رد مانده دشمنت چون کمانه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هوای ابدی دشمن تو مانند کمانه در نظر بگذار، با شادی و نشاط صدا کن و به آتش بکش."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگذار شادمانه صدا ور مزدو آذر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یک بخشش تو کردن بار دویست گردون",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی از مراحل بزرگ زندگی، بخشش و عطا کردن به دیگران است. این عمل می‌تواند انسان را از مشکلات و سختی‌ها به آرامش برساند، مانند بچه‌ای که در آغوش مادرش احساس امنیت می‌کند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ایمن بزی ز گردون همچون پسر ز مادر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هم بدسگال مالی هم بدسگال مالی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شخصی که هم در بدی و هم در مالی تنگدست است، اما با سخاوت و وفاداری همچون برادری است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هم با سخا همالی هم باوفا برادر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تو بت جهان برهمن تو باد و خصم خرمن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو زیباترین موجود در دنیا هستی و به خاطر عظمت تو، دشمنان از تو می‌ترسند و به خودشان جرأت نمی‌دهند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از هیبت تو دشمن جوشن دهد بچادر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "روی عدوت پرچین وز خونش کرده پرچین",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو با تیغ خود بر دشمنان چنان تسلط یافته‌ای که بر دشت، دیواری از خون آن‌ها به وجود آمده و این دیوار به خاطر قدرت تو لرزان و هراسان است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از تیغ تو شه چین لرزنده و توایدر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دوری ز بند و دستان با رای و هوش دستان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوری از بند و زنجیر با بهره‌گیری از فهم و هوش، و همچنین با قدرت و نیروی جسمانی فرزندان، و با شکوه و عظمت نام نوذر."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "با زور پور دستان با فر و یال نوذر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "گر خلق بی توانی دانا شود تو آنی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مردم از نبود تو آگاهی پیدا کنند، آن زمان تو بگذار که هرچه می‌توانی دنیا را زیبا جلوه بدهی و درخشان کنی."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "بگذار تا توانی گیتی بناز و بگذار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ]
+}

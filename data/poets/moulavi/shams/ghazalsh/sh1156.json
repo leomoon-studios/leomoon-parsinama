@@ -1,0 +1,210 @@
+{
+  "Id": 3780,
+  "CatId": 99,
+  "Title": "غزل شمارهٔ ۱۱۵۶",
+  "FullTitle": "مولانا » دیوان شمس » غزلیات » غزل شمارهٔ ۱۱۵۶",
+  "FullUrl": "/moulavi/shams/ghazalsh/sh1156",
+  "RhymeLetters": "ار",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به عشق و شور و هیجان آن اشاره دارد. شاعر از مطرب می‌خواهد که با نواختن ساز، دل عاشقان را به حرکت درآورد و آتش عشق را در وجود مؤمنان و بی‌مؤمنان روشن کند. او می‌گوید که عشق نباید کم رنگ شود و لازم است پرده‌های مصلحت کنار برود تا به عشق واقعی نگریسته شود. شاعر به تصویر کودکانه‌ای اشاره می‌کند که شیر مادر را می‌خواهد و نشان می‌دهد که عشق، جز خیال معشوق، چیزی دیگری نیست و هر چه غیر از آن، بی‌اهمیت است. او از مطرب می‌خواهد که زخم‌های دلش را بیان کند و نام معشوق را به یاد آورد تا دلی که به خاطر عشق آشفته شده، آرامشی بیابد. در پایان، شاعر نام شمس تبریز را به عنوان معشوق خود می‌برد و او را به عنوان منبع درد و شوق خود معرفی می‌کند. این شعر به تلاشی برای درک عشق و تحمیل آن بر دل‌ها می‌پردازد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "مطرب عاشقان بجنبان تار\r\nبزن آتش به مؤمن و کفار\r\nمصلحت نیست عشق را خمشی\r\nپرده از روی مصلحت بردار\r\nتا بنگریست طفل گهواره\r\nکی دهد شیر مادر غمخوار\r\nهر چه غیر خیال معشوقست\r\nخار عشقست اگر بود گلزار\r\nمطربا چون رسی به شرح دلم\r\nپای در خون نهاده ای هش دار\r\nپای آهسته نه که تا نجهد\r\nچکه ای خون دل به هر دیوار\r\nمطربا زخم های دل می بین\r\nتا ندانند خویشتن خوش دار\r\nمطربا نام بر ز معشوقی\r\nکز دل ما ببرد صبر و قرار\r\nمن چه گفتم کجا بماند دلی\r\nگر دلم کوه بود رفت از کار\r\nنام او گوی و نام من کم کن\r\nتا لقب گویمت نکوگفتار\r\nچون ز رفتار او سخن گویم\r\nدل کجا می رود زهی رفتار\r\nشمس تبریز عیسی عهدی\r\nهست در عهد تو چنین بیمار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمطربِ عاشقان بجنبان تار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبزن آتش به مؤمن و کفار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصلحت نیست عشق را خمشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرده از روی مصلحت بردار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بنگریست طفل گهواره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی دهد شیر مادر غمخوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چه غیرِ خیالِ معشوقست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخارِ عشقست اگر بود گلزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمطربا چون رسی به شرح دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپای در خون نهاده‌ای هش دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپای آهسته نِه که تا نجهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچکه‌ای خونِ دل به هر دیوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمطربا زخم‌های دل می‌بین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ندانند خویشتن خوش‌دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمطربا نام بر ز معشوقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز دلِ ما ببرد صبر و قرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن چه گفتم کجا بماند دلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر دلم کوه بود رفت از کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنام او گوی و نام من کم کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا لقب گویمت نکوگفتار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ز رفتار او سخن گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل کجا می‌رود زهی رفتار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمس تبریز عیسی عهدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست در عهد تو چنین بیمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 12
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مطربِ عاشقان بجنبان تار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوانندهٔ عاشقان، ساز را به حرکت درآور و با نواهایت، عشق و شور را در دل مؤمنان و کافران شعله‌ور کن."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بزن آتش به مؤمن و کفار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مصلحت نیست عشق را خمشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق به مصلحت و ملاحظه‌ها چندان نمی‌سازد، بهتر است که موانع را کنار بگذاریم و اجازه دهیم عشق به‌طور کامل و آزادانه دیده شود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پرده از روی مصلحت بردار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا بنگریست طفل گهواره",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که کودک به دنیا می‌آید و در گهواره است، مادرش در تلاش است تا او را از غم و ناراحتی دور کند و شیر به او بدهد. این نشان‌دهنده محبت و مراقبت مادرانه است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کی دهد شیر مادر غمخوار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر چه غیرِ خیالِ معشوقست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که غیر از تصور محبوب باشد، به نوعی در عشق زحمت و دشواری است، حتی اگر در ظاهر شبیه باغ گل باشد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خارِ عشقست اگر بود گلزار",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مطربا چون رسی به شرح دلم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای نوازنده، وقتی به خواسته‌های دل من می‌رسی، مراقب باش که پای خود را در خون من نگذاری."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "پای در خون نهاده‌ای هش دار",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "پای آهسته نِه که تا نجهد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آهسته قدم بردار تا مبادا قطره‌ای از دل‌نگرانی‌ات بر هر دیواری بریزد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چکه‌ای خونِ دل به هر دیوار",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "مطربا زخم‌های دل می‌بین",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای نوازنده، جراحات و دردهای دل را ببین تا دیگران از حال خویش بی‌خبر باشند و در آرامش زندگی کنند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "تا ندانند خویشتن خوش‌دار",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "مطربا نام بر ز معشوقی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای مطرب، نام معشوقی را بگو که آرامش و صبر را از دل ما گرفته است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "کز دلِ ما ببرد صبر و قرار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "من چه گفتم کجا بماند دلی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من چه بگویم که دلی اگر داشتیم، حالا دیگر هیچ از آن باقی نمانده است؛ حتی اگر دلم مانند کوهی استوار بود، دیگر از درد و غم کاری از آن ساخته نیست."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "گر دلم کوه بود رفت از کار",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "نام او گوی و نام من کم کن",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نام او را بلند بگو و نام من را کم بگو تا بتو دوستم را خوش‌زبان بنامم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "تا لقب گویمت نکوگفتار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "چون ز رفتار او سخن گویم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی از منش و رفتار او صحبت می‌کنم، دلم به کجا می‌رود! چه رفتار زیبایی دارد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "دل کجا می‌رود زهی رفتار",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "شمس تبریز عیسی عهدی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شمس تبریز به مانند عیسی است که در زمان تو دچار بیماری شده است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "هست در عهد تو چنین بیمار",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    }
+  ]
+}

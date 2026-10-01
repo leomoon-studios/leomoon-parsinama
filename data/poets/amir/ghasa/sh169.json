@@ -1,0 +1,915 @@
+{
+  "Id": 69644,
+  "CatId": 2039,
+  "Title": "شمارهٔ ۱۶۹",
+  "FullTitle": "امیر معزی » قصاید » شمارهٔ ۱۶۹",
+  "FullUrl": "/amir/ghasa/sh169",
+  "RhymeLetters": "ر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این متن به توصیف چهره و شخصیت فردی خاص اشاره دارد که به زیبایی و لطافت گل‌ها تشبیه شده است. او از همه چیز ممتازتر و گرامی‌تر است و همیشه در او نشانه‌های شادابی و طراوت دیده می‌شود. شاعر به‌ایراد صفاتی چون علم، عدل و سخاوت به این فرد می‌پردازد و او را به عنوان یک رهبر بزرگ و نیکوکار معرفی می‌کند. همچنین ویژگی‌های مثبت او مانند قدرت و حشمتی که بر دشمنانش دارد، و مهربانی و دوستی که در بین دوستانش ایجاد می‌کند، نیز مورد تأکید قرار گرفته است. در نهایت، شاعر زندگی و حکمت او را فراتر از همتایانش در تاریخ می‌داند و برکات و توانمندی‌های او را ستایش می‌کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "هرکس  که دید چهره آن ترک سیمبر\r\nاز گلستان باغ نخواهد گلی ببر\r\nزیراکه هست چهره او چون گلی بدیع\r\nاندر لطافت از همه گلها بدیع تر\r\nچون  گل شود شکفته روزی بپژمرد\r\nوین گل علی الدوام بود آبدار و تر\r\nگل را کنند با شکر آمیخته به قند\r\nوین  گل ز طبع خویشتن آرد همی شکر\r\nگل را کنند خوار و برو برنهند پای\r\nوین  گل بود همیشه گرامی چو چشم سر\r\nگل را ز نور شمس و قمر تازگی بود\r\nوین  گل به نور هست به از شمس و از قمر\r\nهرگز گلی نبود و نباشد بدین صفت\r\nپیوند او ز عنبر و دیبای شوشتر\r\nاز سیم خام بیخش و از عود خام شاخ\r\nاز آفتاب برگش و از ماهتاب بر\r\nبر طرف او همه شبه و لعل در میان\r\nدر زیر او همه سمن و مشک بر زبر\r\nبرچین او ز سنبل مشکین دلفریب\r\nگلزار او ز مجلس دستور دادگر\r\nعادل نظام ملک زمین سرور زمین\r\nعالم قوام دین هدی سید بشر\r\nشایسته  بوالمحاسن  کا حسان او شدست\r\nدر روضه معالی عالی یکی شجر\r\nهرگز چنان شجر نبود نیز در جهان\r\nکان را ز شکر و مدح بود سایه و ثمر\r\nدر شرق و غرب صدر وزارت به او سپرد\r\nسلطان شرق و غرب و خداوند بحر و بر\r\nگر حکم او به سان درختی شود بلند\r\nاصلش بود به خاور و فرعش به باختر\r\nپرواز اگر برابر قد رش کند عقاب\r\nگیرد ستارگان فلک را به زیر پر\r\nاز علم اگر شدست علی در جهان علم\r\nوز عدل اگر شدست عمر در جهان سمر\r\nدادست گاه علم خلافت بدو علی\r\nدادست گاه عدل نیابت بدو عمر\r\nآثار او به سان ستاره است یک به یک\r\nالفاظ او چو گوهر پاک است سربه سر\r\nگویی مگر تصرف او را مسخرند\r\nاندر فلک ستاره و اندر صدف گهر\r\nگاه قیاس دانش او بگذرد ز حد\r\nوقت شمار بخشش او بگذر زمر\r\nتا پیش خلق دنیا عدلش سپر بود\r\nفضل خدای عرش بود پیش او سپر\r\nبا عدل او عجب نبود گر به دشت و کوه\r\nآیند گرگ و میش به هم سوی آبخور\r\nبا رای او عجب نبود گر ز آسمان\r\nآیند پیش تخت شهنشاه ماه و خور\r\nهست از ظفر همیشه نفر سوی درگهش\r\nیک دم زدن همی ز نفرنگسلد نفر\r\nبا هیبت و سیاست او دشمنانش را\r\nاز طبع و از دماغ برفته است شور و سر\r\nوز همت و سخاوت او دوستانش را\r\nدردست و دستگاه فزودست زور و زر\r\nاز بوی دوستیش بنازد همی روان\r\nوز تف دشمنیش بسوزد همی جگر\r\nناری است کین اوکه معانیش را همی\r\nدیده  پر از دخان کند و دل پر از شرر\r\nبدخواه او سفر به رهی کرد دیرباز\r\nهرگز امید نیست که باز آید از سفر\r\nاو را ستای و قصه دور فلک مگوی\r\nاو را پرست وانْده کار جهان مخور\r\nکاو ساکن است اگر چه فلک هست بی قرار\r\nکاو کامل است اگرچه جهان هست مختصر\r\nای زیرکلک تو زختن تا به قیروان\r\nوی زیر حکم تو ز حلت تا به کاشغر\r\nای کدخدای پادشهی کز فتوح اوست\r\nمشرق پر از عجایب و مغرب پر از عبر\r\nتا صورت بدیع تو ایزد نیافرید\r\nدولت نشد مصور در عالم صور\r\nتا کلک تو به زر ننگارید روی روز\r\nاندر جهان نبود شب فتنه را سحر\r\nشاه جهان به ملک سلیمان دیگرست\r\nدر ملک او به علم تویی آصف دگر\r\nوهم تو در شکستن خصمان زیادت است\r\nاز دستبرد رستم و افسون زال زر\r\nآتش ز خشم توبه حجر در نهفته شد\r\nواب از لطافت تو روان گشت از حجر\r\nاز مهر تو رسید به سوی جنان نشان\r\nوزکین تو رسید به سوی سقر خبر\r\nرضوان گرفت صورت مهر تو در جنان\r\nمالک گرفت پیکرکین تو در سقر\r\nآن کاو خطر نکرد و تورا گشت نیکخواه\r\nفرزانه وار خویشتن افکند در خطر\r\nدر بیشه خلاف توگر ژرف بنگرند\r\nبیچاره تر ز آهوی ماده است شیر نر\r\nهرکو زفر همی بگشاید ز نقص تو\r\nدست فلک همه کندش خاک در زفر\r\nنام تورا سزدکه ظفر بندگی کند\r\nکز رای تو فراشته شد رایت ظفر\r\nباقی بود به چون تو خلف  حشمت سلف\r\nعالی بود به چون تو پسر دولت پدر\r\nفرخنده آن سلف  که مر او را تویی خلف\r\nتا زنده آن پدرکه مر او را تویی پسر\r\nبا همت تو چرخ بسیط است چون ثری\r\nبا خاطر تو بحر محیط است چون شمر\r\nجود تو چون هواست که نتوان ازو شکیب\r\nخشم تو چون قضاست که نتوان ازو حذر\r\nباغ مدیح را نعم توست چون صبا\r\nکشت امید راکرم توست چون مطر\r\nگر حاجب تو پوشد پیکار را زره\r\nور چاوش تو بندد پرخاش را کمر\r\nآن مرغ را به تیر به زیر آرد از هوا\r\nوین رنگ را به تیغ فرود آرد از کمر\r\nتا هفت را همیشه مسیرست در بروج\r\nتا هفت را همیشه مدارست بر مدر\r\nشش چیز باد بهر تو همواره زین دو هفت\r\nاقبال و عز و دولت و جاه و جمال و فر\r\nاز بخت بندگان تورا ناز بی نیاز\r\nوز دهر چاکران تورا نفع بی ضرر\r\nدایم گشاده چشم در اقبال تو قضا\r\nدایم نهاده گوش بر آواز تو قدر\r\nگوشی که نه به جان سخن توکند سماع\r\nچشمی که نه ز دل به سوی تو کند نظر\r\nاز حادثات گیتی آن چشم باد کور\r\nوز نایبات گردون آن گوش باد کر\r\nبر تو خجسته موسم قربان و روز عید\r\nدر روز عید جشن بهارت خجسته تر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکس ‌که دید چهرهٔ آن ترک سیمبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز گُلسِتان باغ نخواهد گلی ببر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزیراکه هست چهرهٔ او چون‌گلی بدیع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر لطافت از همه گلها بدیع‌تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون‌ گل شود شکفته روزی بپژمرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین‌گل علی‌الدوام بود آبدار و تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل را کنند با شکر آمیخته به قند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین ‌گل ز طبع خویشتن آرد همی شکر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل را کنند خوار و برو برنهند پای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین ‌گل بود همیشه گرامی چو چشم سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل را ز نور شمس و قمر تازگی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین‌ گل به نور هست به از شمس و از قمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز گلی نبود و نباشد بدین صفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیوند او ز عنبر و دیبای شوشتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سیم خام بیخش و از عود خام شاخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آفتاب برگش و از ماهتاب بر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر طرف او همه شبه و لعل در میان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر زیر او همه سَمَن و مشک بر زبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرچین او ز سنبل مشکین دلفریب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگلزار او ز مجلسِ دستور دادگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعادل نظام ملک زمین سرور زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالم قوام دین هدی سید بشر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشایسته‌ بوالمحاسن‌ کا‌حسان او شدست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر روضهٔ معالی عالی یکی شجر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرگز چنان شجر نَبُوَد نیز در جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکان را ز شکر و مدح بود سایه و ثمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر شرق و غرب صدر وزارت به او سپرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسلطان شرق و غرب و خداوند بحر و بر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر حکم او به سان درختی شود بلند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاصلش بود به خاور و فرعش به باختر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرواز اگر برابر قَد‌رش کند عقاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگیرد ستارگان فلک را به زیر پر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز علم اگر شدست علی در جهان عَلَم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز عدل اگر شدست عمر در جهان سمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدادست‌گاه علم خلافت بدو علی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدادست گاه عدل نیابت بدو عمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآثار او به‌سان ستاره است یک به یک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eالفاظ او چو گوهر پاک است سربه‌سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی مگر تصرف او را مسخرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر فلک ستاره و اندر صدف گهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه قیاس دانش او بگذرد ز حد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوقت شمار بخشش او بگذر زمَرّ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا پیش خلق دنیا عدلش سپر بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفضل خدای عرش بود پیش او سپر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا عدل او عجب نبود گر به دشت و کوه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیند گرگ و میش به هم سوی آبخور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا رای او عجب نبود گر ز آسمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیند پیش تخت شهنشاه ماه و خور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست از ظفر همیشه نفر سوی درگهش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک دم زدن همی ز نفرنگسلد نفر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هیبت و سیاست او دشمنانش را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز طبع و از دِماغ برفته است شور و سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز همت و سخاوت او دوستانش را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردست و دستگاه فزودست زور و زر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بوی دوستیش بنازد همی روان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز تَفِّ دشمنیش بسوزد همی جگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناری است‌کین اوکه معانیش را همی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیده ‌پر از دُخان کند و دل پر از شرر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدخواه او سفر به‌رهی کرد دیرباز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز امید نیست‌که باز آید از سفر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو را ستای و قصهٔ دور فلک مگوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو را پرست وَانْدُه کار جهان مَخَور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاو ساکن است اگر چه فلک هست بی‌قرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاو کامل است اگرچه جهان هست مختصر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای زیرکلک تو زختن تا به قیروان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی زیر حکم تو ز حِلّت تا به‌کاشغر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کدخدای پادشهی کز فتوح اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشرق پر از عجایب و مغرب پر از عِبَر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا صورت بدیع تو ایزد نیافرید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدولت نشد مُصَوَّر در عالم صُور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کلک تو به زر ننگارید روی روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر جهان نبود شب فتنه را سحر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه جهان به ملک سلیمان دیگرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ملک او به علم تویی آصَف دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوهم تو در شکستن خصمان زیادت است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دستبرد رستم و افسونِ زالِ زر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآتش ز خشم توبه حجر در نهفته شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواب از لطافت تو روان‌گشت از حجر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مهر تو رسید به سوی جنان نشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوزکین تو رسید به سوی سقر خبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرضوان گرفت صورت مهر تو در جنان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمالک‌گرفت پیکرکین تو در سقر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کاو خطر نکرد و تورا گشت نیکخواه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرزانه‌وار خویشتن افکند در خطر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بیشهٔ خلاف توگر ژرف بنگرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیچاره‌تر ز آهوی ماده است شیر نر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکو زَِفَر همی بگشاید ز نقص تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست فلک همه‌کندش خاک در زفر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنام تورا سزدکه ظفر بندگی کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز رای تو فراشته شد رایت ظفر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباقی بود به چون تو خَلَف ‌حِشمتِ سَلَف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالی بود به چون تو پسر دولت پدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرخنده آن سَلَف ‌که مر او را تویی خلف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا زنده آن پدرکه مر او را تویی پسر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا همت تو چرخ بسیط است چون ثری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خاطر تو بحر محیط است چون شَمَر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجود تو چون هواست که نتوان ازو شکیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخشم تو چون قضاست که نتوان ازو حذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباغ مدیح را نعم توست چون صبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکشت امید راکرم توست چون مطر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر حاجب تو پوشد پیکار را زره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور چاوش تو بندد پرخاش را کمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن مرغ را به تیر به زیر آرد از هوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین رنگ را به تیغ فرود آرد از کمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا هفت را همیشه مسیرست در بروج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا هفت را همیشه مدارست بر مدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشش چیز باد بهر تو همواره زین دو هفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاقبال و عز و دولت و جاه و جمال و فر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بخت بندگان تورا ناز بی‌نیاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز دهر چاکران تورا نفع بی‌ضرر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدایم گشاده چشم در اقبال تو قضا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدایم نهاده گوش بر آواز تو قدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوشی‌که نه به جان سخن توکند سماع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمی‌که نه ز دل به سوی تو کند نظر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز حادثات گیتی آن چشم باد کور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز نائبات گردون آن گوش باد کر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر تو خجسته موسم قربان و روز عید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر روز عید جشن بهارت خجسته تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 59
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هرکس ‌که دید چهرهٔ آن ترک سیمبر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که چهرهٔ زیبای آن دختر ترک را ببیند، دیگر از باغ گل هیچ‌گونه گلی نخواهد چید."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از گُلسِتان باغ نخواهد گلی ببر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زیراکه هست چهرهٔ او چون‌گلی بدیع",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیرا چهره‌اش به زیبایی گل است و در لطافت، از همه گل‌ها زیباتر و منحصر به فردتر می‌باشد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اندر لطافت از همه گلها بدیع‌تر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون‌ گل شود شکفته روزی بپژمرد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که گل روزی می‌شکفد و پژمرده می‌شود، اما گل علی‌الدوام همیشه تازه و آب‌دار است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وین‌گل علی‌الدوام بود آبدار و تر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گل را کنند با شکر آمیخته به قند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل را با شکر و قند ترکیب می‌کنند و این گل به طور طبیعی از خود شیرینی و خوشمزگی را به ارمغان می‌آورد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "وین ‌گل ز طبع خویشتن آرد همی شکر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گل را کنند خوار و برو برنهند پای",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل را بی‌ارزش می‌کنند و بر روی آن پا می‌گذارند، اما این گل همیشه برای چشم دل ارزشمند و گرانبهاست."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "وین ‌گل بود همیشه گرامی چو چشم سر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گل را ز نور شمس و قمر تازگی بود",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این گل به تازگی و زیبایی خود مدیون نور خورشید و ماه است، اما نور وجودی که به این گل حیات و درخشش می‌دهد، فراتر از نور خورشید و ماه است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "وین‌ گل به نور هست به از شمس و از قمر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "هرگز گلی نبود و نباشد بدین صفت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ گلی مانند او وجود ندارد و نخواهد داشت، چرا که زیبایی و ویژگی‌های او همچون عطر خوش عنبر و نرمی پارچه‌های دیبا از شوشتر است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "پیوند او ز عنبر و دیبای شوشتر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "از سیم خام بیخش و از عود خام شاخ",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از سیم خام، بی‌نهایت مایه و از چوب عود، خوشبویی می‌گیرد. همچنین از آفتاب، برگ و از ماهتاب، نور می‌گیرد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "از آفتاب برگش و از ماهتاب بر",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بر طرف او همه شبه و لعل در میان",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اطراف او همه زیبایی‌ها و جواهرات وجود دارد و در زیر او همه عطرها و خوشبوکننده‌ها به چشم می‌خورد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "در زیر او همه سَمَن و مشک بر زبر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "برچین او ز سنبل مشکین دلفریب",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لطفاً زیبایی و جذابیت دختران را از گل‌های خوشبو و خوش‌رنگ ببر و به مجلس داور بیاور."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "گلزار او ز مجلسِ دستور دادگر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "عادل نظام ملک زمین سرور زمین",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به ستایش یک فرد یا مقام اشاره دارد که به عنوان حاکم عادل و نگهبان نظام زمین و دین شناخته می‌شود. او سرور مردم و راهنمای بشریت است و به قوام دین کمک می‌کند. در واقع، این شخص به عنوان رهبری نمونه تلقی می‌شود که وظیفه‌اش حمایت از عدالت و هدایت مردم است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "عالم قوام دین هدی سید بشر",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "شایسته‌ بوالمحاسن‌ کا‌حسان او شدست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی‌ها و خوبی‌های او در باغ والایی به اوج رسیده و همچون درختی بلند و برتر در میان گل‌ها و نعمت‌ها به چشم می‌آید."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "در روضهٔ معالی عالی یکی شجر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "هرگز چنان شجر نَبُوَد نیز در جهان",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ درختی در دنیا وجود ندارد که هم سایه‌اش خوش‌عطر و هم میوه‌اش شیرین باشد، مگر اینکه از ستایش و نعمت دیگران بهره‌مند شده باشد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "کان را ز شکر و مدح بود سایه و ثمر",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "در شرق و غرب صدر وزارت به او سپرد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سلطان شرق و غرب، با قدرتی عظیم، صدر وزارت را به او واگذار کرده است، همان‌طور که خداوند بر دریا و خشکی حکومت دارد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "سلطان شرق و غرب و خداوند بحر و بر",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "گر حکم او به سان درختی شود بلند",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فرمان او مانند درختی بلند شود، ریشه‌اش به شرق و شاخه‌هایش به غرب خواهد بود."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "اصلش بود به خاور و فرعش به باختر",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "پرواز اگر برابر قَد‌رش کند عقاب",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر عقاب به اندازه قد خودش پرواز کند، می‌تواند ست stars آسمان را زیر بال‌هایش بگیرد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "گیرد ستارگان فلک را به زیر پر",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "از علم اگر شدست علی در جهان عَلَم",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر علی به خاطر دانشش در جهان سرشناسی یافته، عمر نیز به دلیل عدالتش در جهان شناخته شده است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "وز عدل اگر شدست عمر در جهان سمر",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "دادست‌گاه علم خلافت بدو علی",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علم خلافت به علی عطا شده و جایگاه او در عدالت، به عمر سپرده شده است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "دادست گاه عدل نیابت بدو عمر",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "آثار او به‌سان ستاره است یک به یک",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آثار او مانند ستاره‌هایی در آسمان درخشان هستند و کلماتش همچون جواهرهای خالص و ارزشمند به شمار می‌آیند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "الفاظ او چو گوهر پاک است سربه‌سر",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "گویی مگر تصرف او را مسخرند",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که قدرت و تسلط او بر همه چیز، حتی ستاره‌ها در آسمان و مرواریدها در صدف‌ها، مشهود است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "اندر فلک ستاره و اندر صدف گهر",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "گاه قیاس دانش او بگذرد ز حد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی دانش او به حدی می‌رسد که فراتر از زمان می‌شود، و بخشش او از حد و مرزها فراتر می‌رود."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "وقت شمار بخشش او بگذر زمَرّ",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "تا پیش خلق دنیا عدلش سپر بود",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عدالت خداوند در برابر انسان‌ها مانند سپری است که از ظلم و ستم محافظت می‌کند، و این نعمت و فضل الهی باعث می‌شود که در دنیا، انسان‌ها به صورت عادلانه رفتار کنند و از بدی‌ها در امان باشند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "فضل خدای عرش بود پیش او سپر",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "با عدل او عجب نبود گر به دشت و کوه",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با عدالت او، شگفتی نیست اگر در دشت و کوه، گرگ و میش به سمت منبع آب بیایند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "آیند گرگ و میش به هم سوی آبخور",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "با رای او عجب نبود گر ز آسمان",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با حکم و اراده او تعجبی ندارد اگر ماه و خورشید از آسمان فرود آیند و در برابر تخت پادشاه بایستند."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "آیند پیش تخت شهنشاه ماه و خور",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "هست از ظفر همیشه نفر سوی درگهش",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همیشه به پیروزی، نفر به سوی درگاه او می‌رود و تنها یک لحظه از آن دور نمی‌شود."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "یک دم زدن همی ز نفرنگسلد نفر",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "با هیبت و سیاست او دشمنانش را",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با قدرت و تدبیر او، دشمنانش از احساس و فکر خود خارج شده‌اند و در حالت آشفتگی به سر می‌برند."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "از طبع و از دِماغ برفته است شور و سر",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "وز همت و سخاوت او دوستانش را",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او به خاطر همت و سخاوتش، به دوستانش قدرت و ثروت بیشتری عطا کرده است."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "دردست و دستگاه فزودست زور و زر",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "از بوی دوستیش بنازد همی روان",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از عطر دوستی او جانم شاد می‌شود و از کینه‌های دشمنی‌اش دلم می‌سوزد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "وز تَفِّ دشمنیش بسوزد همی جگر",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "ناری است‌کین اوکه معانیش را همی",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشقی است که وقتی معانی و زیبایی‌هایش را می‌بینی، مانند آتش دل را پر از سوز و حرارت می‌کند و باعث می‌شود احساس تنگی و ناراحتی کنی."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "دیده ‌پر از دُخان کند و دل پر از شرر",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "بدخواه او سفر به‌رهی کرد دیرباز",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدخواه او به سفر رفته و دیگر برنگشته است و هیچ امیدی نیست که او از این سفر برگردد."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "هرگز امید نیست‌که باز آید از سفر",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "او را ستای و قصهٔ دور فلک مگوی",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او را تحسین کن و از داستان‌های دراز و پیچیده دنیا سخن مگو. به ستایش او بپرداز و نگران کارهای دنیا و مشکلات آن نباش."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "او را پرست وَانْدُه کار جهان مَخَور",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "کاو ساکن است اگر چه فلک هست بی‌قرار",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در درون خود آرامش دارد، حتی اگر دنیا در حال تغییر و ناپایداری باشد، همچنان ثابت و مطمئن باقی می‌ماند. او به کمال رسیده است، هرچند که دنیا به نظر کوچک و محدود می‌آید."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "کاو کامل است اگرچه جهان هست مختصر",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "ای زیرکلک تو زختن تا به قیروان",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو که در تشخیص و تدبیر ماهری، از دل این دنیا به درستی و با قدرت خود تا دورترین نقاط می‌رسی. "
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "وی زیر حکم تو ز حِلّت تا به‌کاشغر",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "ای کدخدای پادشهی کز فتوح اوست",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای فرمانروای بزرگ، تو که به خاطر فتح و پیروزی‌هات، شرق سرشار از شگفتی‌ها و غرب پر از عبرت‌هاست."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "مشرق پر از عجایب و مغرب پر از عِبَر",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "تا صورت بدیع تو ایزد نیافرید",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قبل از آنکه خداوند چهره زیبا و تازه تو را بیافریند، هیچ شکوه و زیبایی در عالم وجود نداشت."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "دولت نشد مُصَوَّر در عالم صُور",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "تا کلک تو به زر ننگارید روی روز",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که خط تو زیبایی‌های جهان را به طلا ننگارد، در این دنیا شبی وجود ندارد که فتنه‌اش برطرف نشود."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "اندر جهان نبود شب فتنه را سحر",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "شاه جهان به ملک سلیمان دیگرست",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به این معناست که در عالم هستی، اقتدار و سلطنت در دست خداوند است، اما در دنیای مادی و اداری، علم و دانش تو موجب قدرت و پیشرفت می‌شود. به عبارت دیگر، مانند آصف که وزیر سلیمان بود و با دانش خود بر امور حکومت تسلط داشت، تو نیز با علم و آگاهی‌ات می‌توانی در جامعه تأثیرگذار باشی."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "در ملک او به علم تویی آصَف دگر",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "وهم تو در شکستن خصمان زیادت است",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: توهّم تو در شکست دادن دشمنانت بیشتر از قدرت رستم و جادوی زال است."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "از دستبرد رستم و افسونِ زالِ زر",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "آتش ز خشم توبه حجر در نهفته شد",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خشم و خشمگینی مانند آتش، سنگی سخت را نرم کرده و تغییر می‌دهد، در حالی که لطافت و عشق تو مانند آب، سنگ را نرم‌تر و روان می‌کند."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "واب از لطافت تو روان‌گشت از حجر",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "از مهر تو رسید به سوی جنان نشان",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و محبت تو باعث شد که به بهشت نزدیک شوم و نشانه‌هایی از وجود تو مرا به سمت جهنم راهنمایی کرد."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "وزکین تو رسید به سوی سقر خبر",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "رضوان گرفت صورت مهر تو در جنان",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آنجایی که خوشنود خداوند به زیبایی چهره تو در بهشت است، در عوض، ملک‌الموت در جهنم با چهره‌ای زشت به لقاء تو می‌آید."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "مالک‌گرفت پیکرکین تو در سقر",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "آن کاو خطر نکرد و تورا گشت نیکخواه",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که در خطر کردن تردید نکرد و به نیکی خواستار تو بود، مانند یک انسان معقول و خردمند خود را در معرض خطر قرار داد."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "فرزانه‌وار خویشتن افکند در خطر",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "در بیشهٔ خلاف توگر ژرف بنگرند",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در جنگلی به دقت نگاه کنیم، خواهیم دید که شیر نر، از نظر حال و روز، بدتر از آهوی ماده است."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "بیچاره‌تر ز آهوی ماده است شیر نر",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "هرکو زَِفَر همی بگشاید ز نقص تو",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به خاطر تو از غصه و اندوه نجات یابد، دست تقدیر او را به خاک می‌سپارد."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "دست فلک همه‌کندش خاک در زفر",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "نام تورا سزدکه ظفر بندگی کند",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نام تو شایسته است که به خاطر پیروزی در فرمانروایی تو بلند شود، چون پرچم پیروزی از اندیشه تو برافراشته شده است."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "کز رای تو فراشته شد رایت ظفر",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "باقی بود به چون تو خَلَف ‌حِشمتِ سَلَف",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شما مانند نسل گذشته بسیار شایسته و با افتخار هستید، و به همین دلیل به عنوان پسر این پدر بزرگوار شناخته می‌شوید."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "عالی بود به چون تو پسر دولت پدر",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "فرخنده آن سَلَف ‌که مر او را تویی خلف",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال آن نیاکان که تو نسل بعدی آن‌ها هستی، چون پدر تو همچنان زنده است در وجود تو."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "تا زنده آن پدرکه مر او را تویی پسر",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "با همت تو چرخ بسیط است چون ثری",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با تلاش و اراده تو، جهان ساده و آرام است مانند ستاره‌ای در آسمان. همچنین، در اثر حضور و تفکر تو، دریا وسیع و بی‌پایان مانند شخصیتی بزرگ و با عظمت است."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "با خاطر تو بحر محیط است چون شَمَر",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "جود تو چون هواست که نتوان ازو شکیب",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بخشش و generosity تو مانند هواست، که نمی‌توان از آن دوری کرد. و خشم تو مانند تقدیر است، که نمی‌توان از آن پرهیز کرد."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "خشم تو چون قضاست که نتوان ازو حذر",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "باغ مدیح را نعم توست چون صبا",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باغ ستایش، لطف تو را دارد مانند نسیم، و کشت امید من به برکت تو مانند باران است."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "کشت امید راکرم توست چون مطر",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "گر حاجب تو پوشد پیکار را زره",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نگهبان تو در برابر دشمنان زره بپوشد و در صورت لزوم برای شجاعت تو، پیشروی‌ها و تقابل‌ها را با قوت و جدیت انجام دهد، در واقع تو را در میدان جنگ یاری خواهد کرد."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "ور چاوش تو بندد پرخاش را کمر",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "آن مرغ را به تیر به زیر آرد از هوا",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن پرنده را با تیر از آسمان به زمین می‌آورد و این رنگ را با شمشیر از کمر پایین می‌آورد."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "وین رنگ را به تیغ فرود آرد از کمر",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "تا هفت را همیشه مسیرست در بروج",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که تا عدد هفت، همواره یک مسیر وجود دارد و همچنین در مدار مشخصی قرار دارد. به عبارت دیگر، می‌توان گفت که این عدد در حرکت خود همواره در یک روند مشخص و ثابت باقی می‌ماند."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "تا هفت را همیشه مدارست بر مدر",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "شش چیز باد بهر تو همواره زین دو هفت",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شش چیز برای تو همیشه فراهم است: دو تا از آنها خوش شانسی و عزت، و چهار تا دیگرشان شامل دولت، مقام، زیبایی و فضیلت."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "اقبال و عز و دولت و جاه و جمال و فر",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "از بخت بندگان تورا ناز بی‌نیاز",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بندگان تو از نعمت‌های تو بی‌نیاز شده‌اند و در این دنیا، خدمتگزارانت تنها از تو بهره‌مند شده و هیچ ضرری نمی‌برند."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "وز دهر چاکران تورا نفع بی‌ضرر",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "دایم گشاده چشم در اقبال تو قضا",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در تمام لحظات، چشمم به انتظار کامیابی تو باز است و همیشه گوشم به شنیدن صدای تو فر است."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "دایم نهاده گوش بر آواز تو قدر",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "گوشی‌که نه به جان سخن توکند سماع",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گوشی که به حرف‌های تو گوش ندهد و چشمی که با عشق به تو نگاه نکند، بی‌فایده است."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "چشمی‌که نه ز دل به سوی تو کند نظر",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "از حادثات گیتی آن چشم باد کور",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حوادث و اتفاقات دنیا آن‌قدر زیاد و پیچیده هستند که چشم انسان نمی‌تواند همه آن‌ها را ببیند و گوش او هم نمی‌تواند همه صداها و ناهنجاری‌ها را بشنود."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "وز نائبات گردون آن گوش باد کر",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "بر تو خجسته موسم قربان و روز عید",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای تو ای گرامی، فصل قربانی و روز عید خوش آمده است و در این روز جشن بهار، خوشحالی بیشتری را برای تو به ارمغان آورده است."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "در روز عید جشن بهارت خجسته تر",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0
+    }
+  ]
+}

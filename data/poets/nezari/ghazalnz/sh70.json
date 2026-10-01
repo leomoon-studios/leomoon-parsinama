@@ -1,0 +1,315 @@
+{
+  "Id": 70295,
+  "CatId": 2046,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "حکیم نزاری » غزلیات » شمارهٔ ۷۰",
+  "FullUrl": "/nezari/ghazalnz/sh70",
+  "RhymeLetters": "اب",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به نقد محتسب و زاهدان می‌پردازد که به ظاهر پیرو دین و اخلاق هستند اما در باطن خود دچار تردید و فسادند. وی به آدینه مستی اشاره می‌کند که بدون ترس از عواقب با خویش به صداقت رفتار می‌کند. شاعر تأکید می‌کند که حقیقت عشق و زندگی در خرابات و میخانه‌هاست، نه در تظاهر به دینداری و زهد. او به زاهدان می‌گوید که بهشت و جحیم را باید در زندگیشان بیابند و به عشق و آزادگی رو کنند. در پایان بر این نکته تأکید می‌ورزد که کسانی که در عشق حقیقی پا گذاشته‌اند، از نظر او برتر و منزه هستند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "آدینه مست مرا دید محتسب خراب\r\nمی آمدم برون ز خرابات مست بی نقاب\r\nآغاز کرد بی هده گفتن کی ای فلان\r\nاز چون تویی خطاست چنین کار ناصواب\r\nآدینه چون به مجلس واعظ نیامدی\r\nنشنیدی از خطیب که چون می کند خطاب\r\nای فارغ از بهشت نمی بایدت نعیم\r\nوی غافل از جحیم نمی ترسی از عقاب\r\nگفتم که احتساب خراباتیان که کرد\r\nهرگز که دید کوی خرابات و احتساب\r\nگر راست بشنوی ز خراباتیان بسی\r\nراغب تری به شرب سر از راستی متاب\r\nبر من چه اعتراض کنی دفع خویش کن\r\nکز خود برون نرفته به زهدت چه احتساب\r\nاینک بهشت اگر به قضا داده ای رضا\r\nوینک جحیم اگر طمعی داری از شراب\r\nاز مجلسی چه می کنم اینجا که می کنند\r\nهر دم روایتی درگر از آیت عذاب\r\nمن در بهشت مجلس اصحاب می خورم\r\nبر بانگ چنگ و ضرب دف و نغمه ی رباب\r\nآن جا نه جای تست نه میخانه راه تو\r\nزهاد را پدید بود مرجع ومآب\r\nآن ها که سر به دنیی و دین درنیاورند\r\nحلاج وار طوق ندانند از طناب\r\nکردند اعتصام به حبل الله و زدند\r\nدست وفا به دامان اولاد بوتراب\r\nبی بال مانده ای نتوانی پرید از آنک\r\nناممکن است جلوه ی طاووس از غراب\r\nمثل تو پاک تن نبد آن قوم پاکباز\r\nگنجشک را رسد که کند پنجه با عقاب\r\nایشان منزه اند و تو موقوف نام وننگ\r\nای گاو لاغری مفگن خر در این خلاب\r\nمنگر به عاشقان به حقارت که می کنند\r\nشیران نر زه معرکه ی عشق اجتناب\r\nافسرده را چه غم که نزاری در آتش است\r\nای دست گیر هان که ز سر درگذشت آب\r\nیارب تو آگهی که محب ولایتم\r\nروز جزا به قدر محبان دهم ثواب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآدینه مست مرا دید محتسب خراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی آمدم برون ز خرابات مست بی نقاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآغاز کرد بی هده گفتن کی ای فلان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز چون تویی خطاست چنین کار ناصواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآدینه چون به مجلس واعظ نیامدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشنیدی از خطیب که چون می کند خطاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای فارغ از بهشت نمی بایدت نعیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی غافل از جحیم نمی ترسی از عقاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که احتساب خراباتیان که کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز که دید کوی خرابات و احتساب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر راست بشنوی ز خراباتیان بسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراغب تری به شرب سر از راستی متاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر من چه اعتراض کنی دفع خویش کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز خود برون نرفته به زهدت چه احتساب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاینک بهشت اگر به قضا داده ای رضا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوینک جحیم اگر طمعی داری از شراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مجلسی چه می کنم اینجا که می کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دم روایتی درگر از آیت عذاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن در بهشتِ مجلسِ اصحاب می خورم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر بانگ چنگ و ضرب دف و نغمه ی رباب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن جا نه جای تست نه میخانه راه تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهّاد را پدید بود مرجع ومآب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن ها که سر به دنیی و دین درنیاورند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحلاج وار طوق ندانند از طناب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردند اعتصام به حبل الله و زدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست وفا به دامان اولاد بوتراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی بال مانده ای نتوانی پرید از آنک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناممکن است جلوه ی طاووس از غراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمثل تو پاک تن نبد آن قوم پاکباز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنجشک را رسد که کند پنجه با عقاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایشان منزّه اند و تو موقوف نام وننگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای گاو لاغری مفگن خر در این خلاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنگر به عاشقان به حقارت که می کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشیران نر زه معرکه ی عشق اجتناب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافسرده را چه غم که نزاری در آتش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای دست گیر هان که ز سر درگذشت آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارب تو آگهی که محبّ ولایتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز جزا به قدر محبان دهم ثواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 19
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آدینه مست مرا دید محتسب خراب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز جمعه، نگهبان شهر مرا دید که حالت مستی داشتم و در حال خروج از میخانه بودم، در حالی که نوشیدنی‌ام را پنهان نکرده بودم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "می آمدم برون ز خرابات مست بی نقاب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آغاز کرد بی هده گفتن کی ای فلان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شروع کرد به گفتن که ای فلان، از چنین حالی که تو داری، کار نادرستی انجام می‌دهی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از چون تویی خطاست چنین کار ناصواب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آدینه چون به مجلس واعظ نیامدی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روز جمعه که به مجلس سخنران نرفتی، نشنیدی او چه چیزی به مردم می‌گوید و چگونه صحبت می‌کند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نشنیدی از خطیب که چون می کند خطاب",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای فارغ از بهشت نمی بایدت نعیم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که از بهشت بی‌نیاز هستی، نباید به نعمت‌های آن فکر کنی و ای کسی که از عذاب جهنم غافل هستی، چرا از مجازات و عقوبت نمی‌ترسی؟"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "وی غافل از جحیم نمی ترسی از عقاب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گفتم که احتساب خراباتیان که کرد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم که کسی هرگز نمی‌تواند حساب و کتاب آدم‌های بیکار و مست را نگه دارد، چون وقتی به کوی خراباتی‌ها نگاه کند، هیچ چیز مشخصی پیدا نخواهد کرد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هرگز که دید کوی خرابات و احتساب",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گر راست بشنوی ز خراباتیان بسی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به سخنان اهل خرابات خوب گوش کنی، متوجه خواهی شد که از راستگویی و صداقت بسیار بیشتر به نوشیدن و لذت بردن از چیزهای خوشایند تمایل داری."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "راغب تری به شرب سر از راستی متاب",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بر من چه اعتراض کنی دفع خویش کن",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا بر من خرده می‌گیری؟ ابتدا خودت را اصلاح کن. زیرا تو که هنوز از خودت خارج نشده‌ای، چه فایده‌ای از زهد و پرهیزگاری‌ات دارد؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "کز خود برون نرفته به زهدت چه احتساب",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "اینک بهشت اگر به قضا داده ای رضا",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به بهشت راضی هستی و آن را تقدیر می‌دانی، پس به جهنم هم فکر نکن و طمعی به آن نداشته باش."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "وینک جحیم اگر طمعی داری از شراب",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "از مجلسی چه می کنم اینجا که می کنند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان می‌شود که در این مجلس چه کاری از دست من برمی‌آید، در حالی که هر لحظه راویان داستانی جدید از عذاب و سختی‌ها می‌گویند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "هر دم روایتی درگر از آیت عذاب",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "من در بهشتِ مجلسِ اصحاب می خورم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در محفل دوستان، در میان زحمت و شادی، با صدای موسیقی چنگ و دف و نغمه‌های رباب، زندگی می‌کنم و لذت می‌برم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "بر بانگ چنگ و ضرب دف و نغمه ی رباب",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "آن جا نه جای تست نه میخانه راه تو",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این مکان نه برای تو و نه برای میخانه است، بلکه راه تو به زهد می‌رسد که منبع و مقصود است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "زهّاد را پدید بود مرجع ومآب",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "آن ها که سر به دنیی و دین درنیاورند",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: افرادی که از دنیا و دین به راحتی گذر نمی‌کنند، مانند حلاج نمی‌دانند که گردن‌بند از طناب است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "حلاج وار طوق ندانند از طناب",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "کردند اعتصام به حبل الله و زدند",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به راه راست و الهی چنگ زدند و با وفاداری به فرزندان بوتراب (علی بن ابی‌طالب)، دست یاری دراز کردند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "دست وفا به دامان اولاد بوتراب",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "بی بال مانده ای نتوانی پرید از آنک",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو هیچگاه نمی‌توانی مانند طاووس زیبا و با شکوه پرواز کنی، زیرا همین طور که بدون بال مانده‌ای، این کار برای تو ممکن نیست."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "ناممکن است جلوه ی طاووس از غراب",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "مثل تو پاک تن نبد آن قوم پاکباز",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس در آن جمع پاکباز، به پاکی و خلوص تو نیست. مانند این است که یک گنجشک بخواهد با عقابی نبرد کند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "گنجشک را رسد که کند پنجه با عقاب",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "ایشان منزّه اند و تو موقوف نام وننگ",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن‌ها از هر عیب و نقصی پاک و بی‌نقصند، و تو تنها به نام و ننگ خود فکر می‌کنی. ای گاو لاغر، چرا در این وضعیت ضعیف خود به گمراهی می‌پردازی؟"
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "ای گاو لاغری مفگن خر در این خلاب",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "منگر به عاشقان به حقارت که می کنند",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگاه نکن به عاشقانی که در چشم تو بی‌ارزش و حقیرند؛ زیرا شیران نر در میدان عشق هرگز از چالش دوری نمی‌کنند."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "شیران نر زه معرکه ی عشق اجتناب",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "افسرده را چه غم که نزاری در آتش است",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دلگیر و غمگین چه نگرانی دارد وقتی که نزار در آتش است؟ ای آن که کمک می‌کنی، بدان که آب از سرش گذشته است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "ای دست گیر هان که ز سر درگذشت آب",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "یارب تو آگهی که محبّ ولایتم",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خدای بزرگ، تو می‌دانی که من از دوستان و محبان ولایت توام و در روز قیامت، به اندازه‌ی محبت‌هایی که به این ولایت دارم، پاداش می‌گیرم."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "روز جزا به قدر محبان دهم ثواب",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    }
+  ]
+}

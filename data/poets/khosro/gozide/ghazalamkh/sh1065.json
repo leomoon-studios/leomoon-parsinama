@@ -1,0 +1,135 @@
+{
+  "Id": 61647,
+  "CatId": 1858,
+  "Title": "شمارهٔ ۱۰۶۵",
+  "FullTitle": "امیرخسرو دهلوی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۶۵",
+  "FullUrl": "/khosro/gozide/ghazalamkh/sh1065",
+  "RhymeLetters": "ایتیبرسد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات عمیق شاعر درباره عشق و عاشقی می‌پردازد. شاعر از فتنه‌ها و حوادثی که به وجود می‌آید صحبت می‌کند و می‌گوید که هر فتنه‌ای با محبوبش در ارتباط است. همچنین به این نکته اشاره می‌کند که پرسش‌ها و سختی‌هایی که در دلش وجود دارد، ممکن است تنها با عنایت محبوبش حل شود. او از دردها و غم‌هایش به صبح رستخیز و ظهور امیدهای تازه می‌پردازد و به زیبا بودن لحظه‌های ملاقات با محبوب خود اشاره می‌کند. در نهایت، شاعر امیدوار است که از جانب دوستش لطف و عنایتی برسد که موجب تسکین دلش شود.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتیبرسد",
+      "PlainText": "حدیث حسن تو زین پس کفایتی برسد\r\nکه فتنه ای ز تو در هر ولایتی برسد\r\nشود به فتوی خط تو خون حسن مباح\r\nاگر به روی تو بر گل روایتی برسد\r\nدلت بگفت کسی از ستم نیاید باز\r\nمگر ز غیب مر او را هدایتی برسد\r\nز بیم با تو حدیثی نمی توانم گفت\r\nکه از من و تو به هر کس حکایتی برسد\r\nاگر مرا نرسد با تو راز خود گفتن\r\nترا اگر کنی ای جان عنایتی برسد\r\nز آه من به جهان صبح رستخیز دمید\r\nبود که شام غمت را نهایتی برسد\r\nچو غنچه پای به دامان صبح کش خسرو\r\nز دوست بو که نسیم عنایتی برسد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدیث حسن تو زین پس کفایتی برسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه فتنه ای ز تو در هر ولایتی برسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشود به فتوی خط تو خون حسن مباح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر به روی تو بر گل روایتی برسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلت بگفت کسی از ستم نیاید باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر ز غیب مر او را هدایتی برسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بیم با تو حدیثی نمی توانم گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از من و تو به هر کس حکایتی برسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر مرا نرسد با تو راز خود گفتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترا، اگر کنی، ای جان، عنایتی برسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آه من به جهان صبح رستخیز دمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود که شام غمت را نهایتی برسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو غنچه پای به دامان صبح کش، خسرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز دوست بو که نسیم عنایتی برسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حدیث حسن تو زین پس کفایتی برسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از این به بعد، سخن زیبای تو به قدری قوی و معتبر خواهد بود که هر جایی از آن، مشکلات و فتنه‌ای به وجود آید."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که فتنه ای ز تو در هر ولایتی برسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شود به فتوی خط تو خون حسن مباح",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خط تو را بخواهیم، پس خون حسن حلال می‌شود، چرا که اگر بر روی تو داستانی از گل روایت شود، جانم را فدای تو می‌کنم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر به روی تو بر گل روایتی برسد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دلت بگفت کسی از ستم نیاید باز",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل به من گفت که هیچ ستمگری دوباره باز نمی‌گردد مگر اینکه از سوی غیب، راهنمایی به او برسد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مگر ز غیب مر او را هدایتی برسد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز بیم با تو حدیثی نمی توانم گفت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ترس اینکه صحبت‌هایی که بین ماست به دیگران منتقل شود، نمی‌توانم چیزی بگویم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که از من و تو به هر کس حکایتی برسد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "اگر مرا نرسد با تو راز خود گفتن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نتوانم با تو از رازهایم سخن بگویم، تو اگر با لطف و محبت با من صحبت کنی، حتماً تاثیر خوبی خواهد داشت."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ترا، اگر کنی، ای جان، عنایتی برسد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ز آه من به جهان صبح رستخیز دمید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دلیل ناله‌ها و غم‌های من، صبح روز قیامت در جهان روشن شد، زیرا شام اندوهت نهایتی خواهد داشت."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بود که شام غمت را نهایتی برسد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چو غنچه پای به دامان صبح کش، خسرو",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به آرامی و با لطافت، مانند غنچه‌ای که به صبح نزدیک می‌شود، باید به دوستی گوش بسپاری، زیرا نسیم محبت و لطفی از سوی دوست خواهد وزید."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "ز دوست بو که نسیم عنایتی برسد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

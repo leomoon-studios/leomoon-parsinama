@@ -1,0 +1,1175 @@
+{
+  "Id": 65313,
+  "CatId": 1884,
+  "Title": "شمارهٔ ۱۰ - در مدح ملک اتسز",
+  "FullTitle": "وطواط » ترجیعات » شمارهٔ ۱۰ - در مدح ملک اتسز",
+  "FullUrl": "/vatvat/tarv/sh10",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به وصف دشواری‌ها و غم‌های عشق می‌پردازد و به محبوب خود، که خود را \u0022نصرة دین\u0022 و \u0022ملک کشور پنجم\u0022 می‌نامد، ندا می‌دهد. او از درد جدایی و ناکامی در عشق می‌نالد و بیان می‌کند که بدون وجود این محبوب، زندگی بی‌معناست. شاعر همچنین به عظمت و شأن این شخصیت اشاره می‌کند و اذعان دارد که بدون او، اسلام آسایش نخواهد داشت. در ادامه، او جایگاه والای محبوبش را در زندگی خود تشریح کرده و بیان می‌کند که تازه‌گی و زندگانی‌اش به او وابسته است. شعر در نهایت بر اهمیت محبوب و نقش او در زندگی مردم تأکید دارد و می‌گوید که دستاوردهای بزرگ بشر، مدیون وجود اوست.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "ای چاه ز نخدان  دلم از راه فگندی \r\nوآنگاه بصد شعبده در چاه فگندی \r\nدر سلسله عشق کشیدی دلم  ای ماه \r\nتا سلسله غالیه بر ماه فگندی \r\nبا راحت و با رامش و با لهو تنم را \r\nدر ناله و در نوحه و در آه فگندی\r\nوز عیش سحرگاه و شبانگاهی ما را \r\nدر آه سحر گاه و شبانگاه فگندی\r\nخود را و مرا بیهده از خوی بد خویش \r\nاندر دهن حاشیه شاه فگندی\r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nای با غم تو جان من آرام گرفته \r\nچون مرغ مرا هجر تو در دام گرفته \r\nدر زاویه عشق تو افگنده مرا چرخ \r\nو اندوه توام گرد در و بام گرفته\r\nبی روی چو صبح تو و بی موی چو شامت\r\nصبحم ز عنا تیرگی شام گرفته\r\nمن سوخته در آتش هجران جمالت\r\nتو با دگران جام می خام گرفته\r\nمن رفته بیاد تو علی رغم عدو نیز\r\nدر منزل خوارزمشهی جام گرفته\r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nکار تو اگر فتنه و بیداد نبودی \r\nکار دل من ناله و فریاد نبودی\r\nاشکم نشدی لاله نعمان ز غم تو\r\nگر بر رخ تو سوسن آزاد نبودی\r\nآن سلسلها زلف تو بر مه ننهادی\r\nگر در بر تو آهن و فولاد نبودی\r\nبر فرق مرا خاک نبودی ز فراقت\r\nگر قاعده وصل تو بر باد نبودی\r\nدر عشق توام جمله فراموش شدی عیش\r\nگر مدح خداوند مرا یاد نبودی\r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nشاهی که افاضل ز کفش مال نهادند\r\nدر نعمت او دیده آمال نهادند\r\nآنان که مه و سال شمردند رسومش\r\nپیرایه تاریخ مه و سال نهادند\r\nاز طبع و دلش کارگزاران طبیعت\r\nرسم کرم و سنت افضال نهادند\r\nبر طلعت او سورت تأیید نبشتند\r\nدر طالع او صورت اقبال نهادند\r\nهر چان صفت و سدادست  مرو را\r\nیکباره در اقوال و در افعال نهادند\r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nشاها علم شرع پیمبر بتو دادند\r\nسرمایه و پیرایه حیدر بتو دادند\r\nکردند بحق تعبیه لشکر اسلام\r\nو آنگاه زمام همه لشکر بتو دادند\r\nچون مصلحت خامه و خنجر ز تو دیدند\r\nاز کل بشر خامه و خنجر بتو دادند\r\nهر جاه و سرافرازی و مفخر که جهان داشت\r\nآن جاه و سرافرازی و مفخر بتو دادند\r\nامروز تویی همچو سکندر بمعالی\r\nگویی همه میراث سکندر بتو دادند\r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nبی جاه تو آسایش اسلام نباشد\r\nبی ملک تو آرایش ایام نباشد\r\nافلاک چه گوید که ترا خاک نبوسد\r\nایام که باشد که ترا رام نباشد\r\nجز دست تو هنگام سخا نیست بگیتی\r\nدستی که بجز صورت انعام نباشد\r\nجز پای تو هنگام وغا نیست بعالم\r\nپایی که بجز پایه اقدام نباشد\r\nای گشته باسیاف و باقلام یگانه\r\nکس چون تو با سیاف و باقلام نباشد\r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nای شاه  جز از تو بهنر طاق ندیدند\r\nجز حضرت تو کعبه آفاق ندیدند \r\nاصناف خلایق  که همه طالب رزقند \r\nجز کف ترا ضامن ارزاق ندیدند\r\nآنان  که باخلاق نکو نام گرفتند \r\nوالله که چو اخلاق تو اخلاق ندیدند \r\nقومی  که نشستند باعناق تهور\r\nجز تیغ ترا ضارب اعناق ندیدند\r\nخود را همه جز سلسله و حلقه و بندت\r\nاعدای تو بر ساعد و بر ساق ندیدند \r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nای شاه  بجز خدمت تو کار ندارم \r\nجز مدح تو با خاطر خود یار ندارم \r\nدر سایه زنهار تو یک ذره مخافت\r\nاز حادثه عالم غدار ندارم\r\nنازی  که نه از تست بجز رنج ندانم \r\nفخری  که نه از تست بجز عار ندارم\r\nبسیار بها گشته ام از فضل و در آفاق \r\nجز جود تو امروز خریدار ندارم \r\nبازار معالیت روا باد  که از خلق \r\nمن بنده بجز نزد تو بازار ندارم\r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nبی صدر تو  ای شاه  سر افراز نبودم\r\nمسعود بانجام و بآغاز نبودم\r\nبی خدمت تو سایه اقبال ندیدم \r\nبی مدحت تو مایه اعجاز ندیدم \r\nبا زر شده ام از تو و بی جاه تو عمری \r\nجز همچو زر اندر دهن گاز نبودم\r\nتا تربیت جود تو بر بنده نیفتاد \r\nزین گونه هنرورز و سخن ساز نبودم\r\nنازی  که مرا وعده  نه از صدر تو کردند \r\nحقا که بدل قایل آن ناز نبودم\r\nآن باز شریفم  که زبس نخوت و همت\r\nجز گرد جناب تو بپرواز نبودم\r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nای شاه  جز از تو بجهان شاه مبادا \r\nاحداث جهان را بر تو راه مبادا \r\nبادا بجهان جاه تو  تا وقت مروت \r\nاموال جهان را بر تو جاه مبادا\r\nدرگاه تو شد عرصه آفاق و بشاهی \r\nمعمور جزین عرصه و درگاه مبادا\r\nدستی  که درازست فلک را بسعادت\r\nاز گوشه فتراک تو کوتاه مبادا\r\nتا روز قضا جز بمرا تو در آفاق \r\nاحوال بد اندیش و نکو خواه مبادا\r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چاه ز نخدان ، دلم از راه فگندی \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآنگاه بصد شعبده در چاه فگندی \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سلسلهٔ عشق کشیدی دلم ، ای ماه \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا سلسلهٔ غالیه بر ماه فگندی \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا راحت و با رامش و با لهو تنم را \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ناله و در نوحه و در آه فگندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز عیش سحرگاه و شبانگاهی ما را \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آه سحر گاه و شبانگاه فگندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود را و مرا بیهده از خوی بد خویش \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر دهن حاشیهٔ شاه فگندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای با غم تو جان من آرام گرفته \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون مرغ مرا هجر تو در دام گرفته \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر زاویهٔ عشق تو افگنده مرا چرخ \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو اندوه توام گرد در و بام گرفته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی روی چو صبح تو و بی موی چو شامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبحم ز عنا تیرگی شام گرفته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن سوخته در آتش هجران جمالت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو با دگران جام می خام گرفته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن رفته بیاد تو علی رغم عدو نیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر منزل خوارزمشهی جام گرفته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn12\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکار تو اگر فتنه و بیداد نبودی \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار دل من ناله و فریاد نبودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشکم نشدی لالهٔ نعمان ز غم تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر بر رخ تو سوسن آزاد نبودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن سلسلها زلف تو بر مه ننهادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر در بر تو آهن و فولاد نبودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر فرق مرا خاک نبودی ز فراقت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر قاعدهٔ وصل تو بر باد نبودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق توام جمله فراموش شدی عیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر مدح خداوند مرا یاد نبودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn18\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهی که افاضل ز کفش مال نهادند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر نعمت او دیدهٔ آمال نهادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان که مه و سال شمردند رسومش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیرایهٔ تاریخ مه و سال نهادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز طبع و دلش کارگزاران طبیعت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرسم کرم و سنت افضال نهادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر طلعت او سورت تأیید نبشتند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر طالع او صورت اقبال نهادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چان صفت و سدادست ، مرو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکباره در اقوال و در افعال نهادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn24\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها، علم شرع پیمبر بتو دادند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمایه و پیرایهٔ حیدر بتو دادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردند بحق تعبیهٔ لشکر اسلام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آنگاه زمام همه لشکر بتو دادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مصلحت خامه و خنجر ز تو دیدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز کل بشر خامه و خنجر بتو دادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر جاه و سرافرازی و مفخر، که جهان داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن جاه و سرافرازی و مفخر بتو دادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز تویی همچو سکندر بمعالی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی همه میراث سکندر بتو دادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn30\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی جاه تو آسایش اسلام نباشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی ملک تو آرایش ایام نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافلاک چه گوید؟ که ترا خاک نبوسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایام که باشد؟ که ترا رام نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز دست تو هنگام سخا نیست بگیتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدستی که بجز صورت انعام نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز پای تو هنگام وغا نیست بعالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپایی که بجز پایهٔ اقدام نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گشته باسیاف و باقلام یگانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس چون تو با سیاف و باقلام نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn36\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه ، جز از تو بهنر طاق ندیدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز حضرت تو کعبهٔ آفاق ندیدند \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاصناف خلایق ، که همه طالب رزقند \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز کف ترا ضامن ارزاق ندیدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان ، که باخلاق نکو نام گرفتند \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوالله که چو اخلاق تو اخلاق ندیدند \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقومی ، که نشستند باعناق تهور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز تیغ ترا ضارب اعناق ندیدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود را همه جز سلسله و حلقه و بندت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاعدای تو بر ساعد و بر ساق ندیدند \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn42\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه ، بجز خدمت تو کار ندارم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز مدح تو با خاطر خود یار ندارم \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سایهٔ زنهار تو یک ذره مخافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حادثهٔ عالم غدار ندارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنازی ، که نه از تست بجز رنج ندانم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفخری ، که نه از تست بجز عار ندارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسیار بها گشته ام از فضل و در آفاق \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز جود تو امروز خریدار ندارم \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازار معالیت روا باد ، که از خلق \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بنده بجز نزد تو بازار ندارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn48\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی صدر تو ، ای شاه ، سر افراز نبودم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمسعود بانجام و بآغاز نبودم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی خدمت تو سایهٔ اقبال ندیدم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی مدحت تو مایهٔ اعجاز ندیدم \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا زر شده ام از تو و بی جاه تو عمری \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز همچو زر اندر دهن گاز نبودم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا تربیت جود تو بر بنده نیفتاد \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین گونه هنرورز و سخن ساز نبودم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنازی ، که مرا وعده ، نه از صدر تو کردند \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحقا که بدل قایل آن ناز نبودم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن باز شریفم ، که زبس نخوت و همت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز گرد جناب تو بپرواز نبودم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn55\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه ، جز از تو بجهان شاه مبادا \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاحداث جهان را بر تو راه مبادا \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبادا بجهان جاه تو ، تا وقت مروت \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاموال جهان را بر تو جاه مبادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرگاه تو شد عرصهٔ آفاق و بشاهی \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعمور جزین عرصه و درگاه مبادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدستی ، که درازست فلک را بسعادت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز گوشهٔ فتراک تو کوتاه مبادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا روز قضا جز بمرا تو در آفاق \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاحوال بد اندیش و نکو خواه مبادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn61\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "TarjeeBand",
+      "CoupletsCount": 61
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اهفگندی",
+      "PlainText": "ای چاه ز نخدان  دلم از راه فگندی \r\nوآنگاه بصد شعبده در چاه فگندی \r\nدر سلسله عشق کشیدی دلم  ای ماه \r\nتا سلسله غالیه بر ماه فگندی \r\nبا راحت و با رامش و با لهو تنم را \r\nدر ناله و در نوحه و در آه فگندی\r\nوز عیش سحرگاه و شبانگاهی ما را \r\nدر آه سحر گاه و شبانگاه فگندی\r\nخود را و مرا بیهده از خوی بد خویش \r\nاندر دهن حاشیه شاه فگندی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چاه ز نخدان ، دلم از راه فگندی \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآنگاه بصد شعبده در چاه فگندی \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سلسلهٔ عشق کشیدی دلم ، ای ماه \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا سلسلهٔ غالیه بر ماه فگندی \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا راحت و با رامش و با لهو تنم را \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ناله و در نوحه و در آه فگندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز عیش سحرگاه و شبانگاهی ما را \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آه سحر گاه و شبانگاه فگندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود را و مرا بیهده از خوی بد خویش \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر دهن حاشیهٔ شاه فگندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "امگرفته",
+      "PlainText": "ای با غم تو جان من آرام گرفته \r\nچون مرغ مرا هجر تو در دام گرفته \r\nدر زاویه عشق تو افگنده مرا چرخ \r\nو اندوه توام گرد در و بام گرفته\r\nبی روی چو صبح تو و بی موی چو شامت\r\nصبحم ز عنا تیرگی شام گرفته\r\nمن سوخته در آتش هجران جمالت\r\nتو با دگران جام می خام گرفته\r\nمن رفته بیاد تو علی رغم عدو نیز\r\nدر منزل خوارزمشهی جام گرفته",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای با غم تو جان من آرام گرفته \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون مرغ مرا هجر تو در دام گرفته \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر زاویهٔ عشق تو افگنده مرا چرخ \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو اندوه توام گرد در و بام گرفته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی روی چو صبح تو و بی موی چو شامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبحم ز عنا تیرگی شام گرفته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن سوخته در آتش هجران جمالت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو با دگران جام می خام گرفته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن رفته بیاد تو علی رغم عدو نیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر منزل خوارزمشهی جام گرفته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ادنبودی",
+      "PlainText": "کار تو اگر فتنه و بیداد نبودی \r\nکار دل من ناله و فریاد نبودی\r\nاشکم نشدی لاله نعمان ز غم تو\r\nگر بر رخ تو سوسن آزاد نبودی\r\nآن سلسلها زلف تو بر مه ننهادی\r\nگر در بر تو آهن و فولاد نبودی\r\nبر فرق مرا خاک نبودی ز فراقت\r\nگر قاعده وصل تو بر باد نبودی\r\nدر عشق توام جمله فراموش شدی عیش\r\nگر مدح خداوند مرا یاد نبودی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکار تو اگر فتنه و بیداد نبودی \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار دل من ناله و فریاد نبودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشکم نشدی لالهٔ نعمان ز غم تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر بر رخ تو سوسن آزاد نبودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن سلسلها زلف تو بر مه ننهادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر در بر تو آهن و فولاد نبودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر فرق مرا خاک نبودی ز فراقت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر قاعدهٔ وصل تو بر باد نبودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق توام جمله فراموش شدی عیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر مدح خداوند مرا یاد نبودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "النهادند",
+      "PlainText": "شاهی که افاضل ز کفش مال نهادند\r\nدر نعمت او دیده آمال نهادند\r\nآنان که مه و سال شمردند رسومش\r\nپیرایه تاریخ مه و سال نهادند\r\nاز طبع و دلش کارگزاران طبیعت\r\nرسم کرم و سنت افضال نهادند\r\nبر طلعت او سورت تأیید نبشتند\r\nدر طالع او صورت اقبال نهادند\r\nهر چان صفت و سدادست  مرو را\r\nیکباره در اقوال و در افعال نهادند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهی که افاضل ز کفش مال نهادند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر نعمت او دیدهٔ آمال نهادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان که مه و سال شمردند رسومش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیرایهٔ تاریخ مه و سال نهادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز طبع و دلش کارگزاران طبیعت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرسم کرم و سنت افضال نهادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر طلعت او سورت تأیید نبشتند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر طالع او صورت اقبال نهادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چان صفت و سدادست ، مرو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکباره در اقوال و در افعال نهادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ربتودادند",
+      "PlainText": "شاها علم شرع پیمبر بتو دادند\r\nسرمایه و پیرایه حیدر بتو دادند\r\nکردند بحق تعبیه لشکر اسلام\r\nو آنگاه زمام همه لشکر بتو دادند\r\nچون مصلحت خامه و خنجر ز تو دیدند\r\nاز کل بشر خامه و خنجر بتو دادند\r\nهر جاه و سرافرازی و مفخر که جهان داشت\r\nآن جاه و سرافرازی و مفخر بتو دادند\r\nامروز تویی همچو سکندر بمعالی\r\nگویی همه میراث سکندر بتو دادند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها، علم شرع پیمبر بتو دادند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمایه و پیرایهٔ حیدر بتو دادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردند بحق تعبیهٔ لشکر اسلام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آنگاه زمام همه لشکر بتو دادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مصلحت خامه و خنجر ز تو دیدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز کل بشر خامه و خنجر بتو دادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر جاه و سرافرازی و مفخر، که جهان داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن جاه و سرافرازی و مفخر بتو دادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز تویی همچو سکندر بمعالی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی همه میراث سکندر بتو دادند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "امنباشد",
+      "PlainText": "بی جاه تو آسایش اسلام نباشد\r\nبی ملک تو آرایش ایام نباشد\r\nافلاک چه گوید که ترا خاک نبوسد\r\nایام که باشد که ترا رام نباشد\r\nجز دست تو هنگام سخا نیست بگیتی\r\nدستی که بجز صورت انعام نباشد\r\nجز پای تو هنگام وغا نیست بعالم\r\nپایی که بجز پایه اقدام نباشد\r\nای گشته باسیاف و باقلام یگانه\r\nکس چون تو با سیاف و باقلام نباشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی جاه تو آسایش اسلام نباشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی ملک تو آرایش ایام نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافلاک چه گوید؟ که ترا خاک نبوسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایام که باشد؟ که ترا رام نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز دست تو هنگام سخا نیست بگیتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدستی که بجز صورت انعام نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز پای تو هنگام وغا نیست بعالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپایی که بجز پایهٔ اقدام نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گشته باسیاف و باقلام یگانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس چون تو با سیاف و باقلام نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اقندیدند",
+      "PlainText": "ای شاه  جز از تو بهنر طاق ندیدند\r\nجز حضرت تو کعبه آفاق ندیدند \r\nاصناف خلایق  که همه طالب رزقند \r\nجز کف ترا ضامن ارزاق ندیدند\r\nآنان  که باخلاق نکو نام گرفتند \r\nوالله که چو اخلاق تو اخلاق ندیدند \r\nقومی  که نشستند باعناق تهور\r\nجز تیغ ترا ضارب اعناق ندیدند\r\nخود را همه جز سلسله و حلقه و بندت\r\nاعدای تو بر ساعد و بر ساق ندیدند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه ، جز از تو بهنر طاق ندیدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز حضرت تو کعبهٔ آفاق ندیدند \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاصناف خلایق ، که همه طالب رزقند \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز کف ترا ضامن ارزاق ندیدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان ، که باخلاق نکو نام گرفتند \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوالله که چو اخلاق تو اخلاق ندیدند \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقومی ، که نشستند باعناق تهور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز تیغ ترا ضارب اعناق ندیدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود را همه جز سلسله و حلقه و بندت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاعدای تو بر ساعد و بر ساق ندیدند \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ارندارم",
+      "PlainText": "ای شاه  بجز خدمت تو کار ندارم \r\nجز مدح تو با خاطر خود یار ندارم \r\nدر سایه زنهار تو یک ذره مخافت\r\nاز حادثه عالم غدار ندارم\r\nنازی  که نه از تست بجز رنج ندانم \r\nفخری  که نه از تست بجز عار ندارم\r\nبسیار بها گشته ام از فضل و در آفاق \r\nجز جود تو امروز خریدار ندارم \r\nبازار معالیت روا باد  که از خلق \r\nمن بنده بجز نزد تو بازار ندارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه ، بجز خدمت تو کار ندارم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز مدح تو با خاطر خود یار ندارم \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سایهٔ زنهار تو یک ذره مخافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حادثهٔ عالم غدار ندارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنازی ، که نه از تست بجز رنج ندانم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفخری ، که نه از تست بجز عار ندارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسیار بها گشته ام از فضل و در آفاق \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز جود تو امروز خریدار ندارم \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبازار معالیت روا باد ، که از خلق \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بنده بجز نزد تو بازار ندارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "دم",
+      "PlainText": "بی صدر تو  ای شاه  سر افراز نبودم\r\nمسعود بانجام و بآغاز نبودم\r\nبی خدمت تو سایه اقبال ندیدم \r\nبی مدحت تو مایه اعجاز ندیدم \r\nبا زر شده ام از تو و بی جاه تو عمری \r\nجز همچو زر اندر دهن گاز نبودم\r\nتا تربیت جود تو بر بنده نیفتاد \r\nزین گونه هنرورز و سخن ساز نبودم\r\nنازی  که مرا وعده  نه از صدر تو کردند \r\nحقا که بدل قایل آن ناز نبودم\r\nآن باز شریفم  که زبس نخوت و همت\r\nجز گرد جناب تو بپرواز نبودم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی صدر تو ، ای شاه ، سر افراز نبودم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمسعود بانجام و بآغاز نبودم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی خدمت تو سایهٔ اقبال ندیدم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی مدحت تو مایهٔ اعجاز ندیدم \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا زر شده ام از تو و بی جاه تو عمری \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز همچو زر اندر دهن گاز نبودم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا تربیت جود تو بر بنده نیفتاد \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین گونه هنرورز و سخن ساز نبودم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنازی ، که مرا وعده ، نه از صدر تو کردند \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحقا که بدل قایل آن ناز نبودم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن باز شریفم ، که زبس نخوت و همت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز گرد جناب تو بپرواز نبودم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 6
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اهمبادا",
+      "PlainText": "ای شاه  جز از تو بجهان شاه مبادا \r\nاحداث جهان را بر تو راه مبادا \r\nبادا بجهان جاه تو  تا وقت مروت \r\nاموال جهان را بر تو جاه مبادا\r\nدرگاه تو شد عرصه آفاق و بشاهی \r\nمعمور جزین عرصه و درگاه مبادا\r\nدستی  که درازست فلک را بسعادت\r\nاز گوشه فتراک تو کوتاه مبادا\r\nتا روز قضا جز بمرا تو در آفاق \r\nاحوال بد اندیش و نکو خواه مبادا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه ، جز از تو بجهان شاه مبادا \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاحداث جهان را بر تو راه مبادا \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبادا بجهان جاه تو ، تا وقت مروت \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاموال جهان را بر تو جاه مبادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرگاه تو شد عرصهٔ آفاق و بشاهی \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعمور جزین عرصه و درگاه مبادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدستی ، که درازست فلک را بسعادت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز گوشهٔ فتراک تو کوتاه مبادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا روز قضا جز بمرا تو در آفاق \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاحوال بد اندیش و نکو خواه مبادا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 12,
+      "Number": 13,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "نجم",
+      "PlainText": "آن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم \r\nآن نصرة دین  آن ملک کشور پنجم \r\nخاک قدم او شده تاج سر انجم",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn7\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn8\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn9\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn10\u0022\u003E\u003Cp\u003Eآن نصرة دین ، آن ملک کشور پنجم \u003C/p\u003E\r\n\u003Cp\u003Eخاک قدم او شده تاج سر انجم \u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای چاه ز نخدان ، دلم از راه فگندی ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای چاه، از طرف تو دلم را به باد می‌دانی و سپس به هزاران ترفند مرا به درون خود می‌کشی."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وآنگاه بصد شعبده در چاه فگندی ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در سلسلهٔ عشق کشیدی دلم ، ای ماه ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای ماه، تو در مدار عشق دل من را به خود مشغول کرده‌ای، تا جایی که مانند گردنبند زیبایی درخشان، زیبایی‌ات را در آسمان پخش کنی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا سلسلهٔ غالیه بر ماه فگندی ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با راحت و با رامش و با لهو تنم را ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: با خوشی و آرامش و لذت، جسم مرا در اندوه و گریه و ناله رها کردی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در ناله و در نوحه و در آه فگندی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "وز عیش سحرگاه و شبانگاهی ما را ",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ما را در لحظات صبح زود و شبانگاه با خوشی‌ها و شادی‌هایت مشغول کردی و غم و اندوه را از ما دور کردی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در آه سحر گاه و شبانگاه فگندی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خود را و مرا بیهده از خوی بد خویش ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: تو و من بدون اینکه ضرورتی داشته باشد، به خاطر ویژگی‌های بد خودمان در نظر دیگران، به‌ویژه در نزد مقامات، بدنام می‌شویم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اندر دهن حاشیهٔ شاه فگندی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 11,
+      "Position": "CenteredVerse1",
+      "Text": "آن نصرة دین ، آن ملک کشور پنجم ",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: آن یاری‌کننده دین، آن پادشاه سرزمین پنجم، خاک پای او به مانند تاجی بر سر ستارگان قرار گرفته است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "CenteredVerse2",
+      "Text": "خاک قدم او شده تاج سر انجم ",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ای با غم تو جان من آرام گرفته ",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، با وجود غم تو، جانم آرامش یافته است. اما مثل مرغی هستم که عشق تو مرا در دام خود گرفتار کرده است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چون مرغ مرا هجر تو در دام گرفته ",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "در زاویهٔ عشق تو افگنده مرا چرخ ",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در گوشه‌ای از عشق تو، چرخش زندگی مرا گیرا کرده و غم تو هم مانند گنبد و دیوار مرا احاطه کرده است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "و اندوه توام گرد در و بام گرفته",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بی روی چو صبح تو و بی موی چو شامت",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: بدون روی تو مانند صبح بی‌نور و بدون مو مانند شام است. صبح من در تیرگی شام غرق شده است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "صبحم ز عنا تیرگی شام گرفته",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "من سوخته در آتش هجران جمالت",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر دوری از زیبایی تو، در آتش عشق سوخته‌ام و دیگران مشغول نوشیدن شراب هستند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "تو با دگران جام می خام گرفته",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "من رفته بیاد تو علی رغم عدو نیز",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: من به یاد تو رفته‌ام و حتی با وجود دشمنان نیز در خانه خوارزم، جام شادی را در دست گرفته‌ام."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "در منزل خوارزمشهی جام گرفته",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 23,
+      "Position": "CenteredVerse1",
+      "Text": "آن نصرة دین ، آن ملک کشور پنجم ",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: این شعر به ستایش شخصیتی بزرگ و حامی دین اشاره دارد که از عظمت و مقام والایی برخوردار است. او به عنوان یک پادشاه و راهنما، در سرنوشت و سعادت کشور و مردمش تأثیرگذار است. قدم‌های او به قدری ارزشمند و باعظمت است که به تمام آسمان‌ها و ستارگان احترام می‌گذارد و آنها را تحت تأثیر قرار می‌دهد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "CenteredVerse2",
+      "Text": "خاک قدم او شده تاج سر انجم ",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "کار تو اگر فتنه و بیداد نبودی ",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر تو باعث فتنه و ظلم نمی‌شدی، دل من این‌قدر ناله و فریاد نمی‌کرد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "کار دل من ناله و فریاد نبودی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "اشکم نشدی لالهٔ نعمان ز غم تو",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر اشک‌هایم به اندازهٔ زیبایی لالهٔ نعمان از غم تو نمی‌ریزد، پس اگر بر چهرهٔ تو سوسن آزاد نمی‌بود، چه بر سر دل من می‌آمد؟"
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "گر بر رخ تو سوسن آزاد نبودی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "آن سلسلها زلف تو بر مه ننهادی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر زلف‌های تو را بر چهره ماه نمی‌نوشتم، به این خاطر بود که در آغوش تو آهن و فولاد نبود."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "گر در بر تو آهن و فولاد نبودی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "بر فرق مرا خاک نبودی ز فراقت",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر در اثر جدایی تو، خاکی بر سرم نمی‌نشست، به این دلیل بود که قاعدهٔ وصل تو بر باد نمی‌رفت."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "گر قاعدهٔ وصل تو بر باد نبودی",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "در عشق توام جمله فراموش شدی عیش",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در عشق تو تمام خوشی‌ها و لذت‌ها از یادم رفته است، اگر هم مدحی از خداوند به زبان می‌آوردم، تو را فراموش نمی‌کردم."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "گر مدح خداوند مرا یاد نبودی",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 35,
+      "Position": "CenteredVerse1",
+      "Text": "آن نصرة دین ، آن ملک کشور پنجم ",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: دینی که یاری می‌شود، آن ملک سرزمین پنجم است و خاک پای او مانند تاجی بر سر ستارگان قرار گرفته است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "CenteredVerse2",
+      "Text": "خاک قدم او شده تاج سر انجم ",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "شاهی که افاضل ز کفش مال نهادند",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: شاهی که افراد فرهیخته و برجسته به خاطر نعمت‌هایش به او احترام می‌گذارند و آرزوها و آرمان‌های خود را در زندگی زیر سایه او می‌بینند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "در نعمت او دیدهٔ آمال نهادند",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "آنان که مه و سال شمردند رسومش",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: آنها که به محاسبه و تعیین زمان پرداختند، آداب و سنن خود را به عنوان نشانه‌هایی از تاریخ قرار دادند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "پیرایهٔ تاریخ مه و سال نهادند",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "از طبع و دلش کارگزاران طبیعت",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: از روح و احساسش، عوامل طبیعت، روش مهربانی و سنت‌های نیکو را برقرار کردند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "رسم کرم و سنت افضال نهادند",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "بر طلعت او سورت تأیید نبشتند",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: بر چهره او نشانی از تأیید و خوشبختی نوشته شده و در سرنوشت او چهره‌ای از سعادتمندی قرار داده‌اند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "در طالع او صورت اقبال نهادند",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "هر چان صفت و سدادست ، مرو را",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هر چه که در وجود انسان هست، چه در سخنان و چه در رفتارهایش، به هم پیوسته و یکسان است."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "یکباره در اقوال و در افعال نهادند",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 47,
+      "Position": "CenteredVerse1",
+      "Text": "آن نصرة دین ، آن ملک کشور پنجم ",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: آن حامی دین و آن پادشاهی که به عنوان کشوری برتر شناخته می‌شود، خاک زیر قدم‌های او به مقام و ارزش بالایی دست یافته و مانند تاجی بر سر ستاره‌ها قرار گرفته است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "CenteredVerse2",
+      "Text": "خاک قدم او شده تاج سر انجم ",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "شاها، علم شرع پیمبر بتو دادند",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: ای شاه، دانش و احکام دین پیامبر را به تو بخشیدند و صفات و ویژگی‌های بزرگ حیدر (علی) را نیز به تو هدیه کردند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "سرمایه و پیرایهٔ حیدر بتو دادند",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "کردند بحق تعبیهٔ لشکر اسلام",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: آنان به حق، لشکر اسلام را آماده کردند و سپس فرماندهی همه آن لشکر را به تو سپردند."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "و آنگاه زمام همه لشکر بتو دادند",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "چون مصلحت خامه و خنجر ز تو دیدند",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: زمانی که افراد درک کردند که تو چه مصلحتی را برای قلم و خنجر داشتی، از میان تمام مردم این دو را به تو سپردند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "از کل بشر خامه و خنجر بتو دادند",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "هر جاه و سرافرازی و مفخر، که جهان داشت",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: هر گونه مقام و عزت و افتخاری که در جهان بود، آن را به تو بخشیدند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "آن جاه و سرافرازی و مفخر بتو دادند",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "امروز تویی همچو سکندر بمعالی",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: امروز تو مانند سکندر هستی و گویا همه‌ی میراث سکندر به تو داده شده است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "گویی همه میراث سکندر بتو دادند",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 59,
+      "Position": "CenteredVerse1",
+      "Text": "آن نصرة دین ، آن ملک کشور پنجم ",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: این بیت به شخصیت برجسته و مهمی اشاره دارد که به حمایت از دین و کشور می‌پردازد. در اینجا، خاکی که زیر پاهای اوست، نماد عظمت و ارزش اوست و به نوعی او را به عنوان قله‌ای در میان ستاره‌ها توصیف می‌کند. به عبارت دیگر، این فرد نه تنها به دین کمک می‌کند بلکه در سطحی عالی و والاتر قرار دارد که دیگران را تحت تاثیر قرار می‌دهد."
+    },
+    {
+      "VOrder": 60,
+      "Position": "CenteredVerse2",
+      "Text": "خاک قدم او شده تاج سر انجم ",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "بی جاه تو آسایش اسلام نباشد",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: بدون مقام و رهبری تو، آسایش و آرامش در اسلام وجود ندارد و بدون حکومت و سلطنت تو، زندگی و خوشی‌ها در روزها برقرار نخواهد بود."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "بی ملک تو آرایش ایام نباشد",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "افلاک چه گوید؟ که ترا خاک نبوسد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: چه سخنی از آسمان‌ها می‌توان شنید وقتی که این زمین تو را در آغوش نمی‌کشد؟ چه روزگاری خواهد بود که تو در برابر مشکلات تسلیم نشوی؟"
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "ایام که باشد؟ که ترا رام نباشد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "جز دست تو هنگام سخا نیست بگیتی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: جز دست تو، در تمام جهان، دست دیگری نیست که فقط به خاطر بخشش و انعام داده شده باشد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "دستی که بجز صورت انعام نباشد",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "جز پای تو هنگام وغا نیست بعالم",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در میدان نبرد، جز پای تو هیچ چیز دیگری وجود ندارد و هیچ پای دیگری به استحکام و استقامت پاهایی که در اقدام است، نخواهد بود."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "پایی که بجز پایهٔ اقدام نباشد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "ای گشته باسیاف و باقلام یگانه",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تو تنها کسی هستی که مانند تو در کنار سیاف و باقلام وجود ندارد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "کس چون تو با سیاف و باقلام نباشد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 71,
+      "Position": "CenteredVerse1",
+      "Text": "آن نصرة دین ، آن ملک کشور پنجم ",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: شخصی که در حمایت از دین و مذهب کوشا است، در حالی که در مقام رهبری و مدیریتی برتر قرار دارد، به قدری مقام و منزلت پیدا کرده که مقام او برترین در میان ستاره‌ها و آسمان‌ها محسوب می‌شود."
+    },
+    {
+      "VOrder": 72,
+      "Position": "CenteredVerse2",
+      "Text": "خاک قدم او شده تاج سر انجم ",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "ای شاه ، جز از تو بهنر طاق ندیدند",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، جز تو کسی طاقی بهتر از اینجا ندید و جز حضور تو کسی کعبهٔ جهان را نمی‌شناسد."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "جز حضرت تو کعبهٔ آفاق ندیدند ",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "اصناف خلایق ، که همه طالب رزقند ",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تمام اقشار مردم که همگی در جستجوی روزی هستند، جز کسی که تنها به دست تو به روزی مطمئن رسیده‌اند."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "جز کف ترا ضامن ارزاق ندیدند",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "آنان ، که باخلاق نکو نام گرفتند ",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: افرادی که به خاطر رفتار خوبشان مشهور شده‌اند، سوگند یاد می‌کنم که هیچ‌گاه اخلاقی مانند اخلاق تو را مشاهده نکرده‌اند."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "والله که چو اخلاق تو اخلاق ندیدند ",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "قومی ، که نشستند باعناق تهور",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: گروهی که با شجاعت و جسارت نشسته‌اند، جز شمشیر تو چیزی را برای ضربه زدن به گردن‌ها نمی‌بینند."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "جز تیغ ترا ضارب اعناق ندیدند",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "خود را همه جز سلسله و حلقه و بندت",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: همه افرادی که تو را می‌بینند، فقط تو را به عنوان بخشی از زنجیر و قیود خودشان می‌شناسند و جز این، چیزی از تو نمی‌بینند."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "اعدای تو بر ساعد و بر ساق ندیدند ",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 83,
+      "Position": "CenteredVerse1",
+      "Text": "آن نصرة دین ، آن ملک کشور پنجم ",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: این عبارت به اهمیت و مقام بلند شخصیتی اشاره دارد که نقش اساسی در حمایت از دین دارد. او مانند تاجی بر سر ستارگان است و به گونه‌ای ارزشمند و کلیدی در کشور و سرزمین به حساب می‌آید. در واقع، این فرد نماد عظمت و قوت در راستای محافظت از اصول و ارزش‌های الهی است."
+    },
+    {
+      "VOrder": 84,
+      "Position": "CenteredVerse2",
+      "Text": "خاک قدم او شده تاج سر انجم ",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "ای شاه ، بجز خدمت تو کار ندارم ",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، به جز خدمت به شما کار دیگری ندارم و جز ستایش شما در دل، هیچ یاری برای خود نمی‌شناسم."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "جز مدح تو با خاطر خود یار ندارم ",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "در سایهٔ زنهار تو یک ذره مخافت",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در کنار حمایت و محافظت تو، هیچ واهمه‌ای از حوادث و اتفاقات خطرناک دنیا ندارم."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "از حادثهٔ عالم غدار ندارم",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "نازی ، که نه از تست بجز رنج ندانم ",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: زیبایی تو باعث رنج من است و من جز این چیزی از تو نمی‌دانم. افتخار من هم به توست و جز نیاز به تو عاری دیگری ندارم."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "فخری ، که نه از تست بجز عار ندارم",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "بسیار بها گشته ام از فضل و در آفاق ",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر لطف و کرم تو قدر و منزلت زیادی پیدا کرده‌ام، اما در دنیا امروز هیچ‌کس نمی‌تواند بهای من را بدهد جز خود تو."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "جز جود تو امروز خریدار ندارم ",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "بازار معالیت روا باد ، که از خلق ",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: بازار معاملات تو همیشه برقرار باشد، چون من جز نزد تو راهی برای ارتباط با دیگران ندارم."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "من بنده بجز نزد تو بازار ندارم",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 95,
+      "Position": "CenteredVerse1",
+      "Text": "آن نصرة دین ، آن ملک کشور پنجم ",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: کمک‌کننده دین و پشتیبان آن، که در واقع دسیسه‌هایش و نیکویی‌هایش، مانند تاجی بر سر آسمان‌هاست، زمین و خاک برای او ارزشمند و مایه فخر است."
+    },
+    {
+      "VOrder": 96,
+      "Position": "CenteredVerse2",
+      "Text": "خاک قدم او شده تاج سر انجم ",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "بی صدر تو ، ای شاه ، سر افراز نبودم",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: اگر تو نبودی، ای پادشاه، من نه به افتخاری دست می‌یافتم و نه در آغاز زندگی‌ام چیزی بود."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "مسعود بانجام و بآغاز نبودم",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "بی خدمت تو سایهٔ اقبال ندیدم ",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در زندگی‌ام هیچ وقت برکت و خوش شانسی را در absence of your service ندیدم و بدون ستایش تو، هیچ چیزی را که شگفت‌آور باشد تجربه نکردم."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "بی مدحت تو مایهٔ اعجاز ندیدم ",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "با زر شده ام از تو و بی جاه تو عمری ",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من با ثروت تو به جایی رسیده‌ام و بدون مقام تو، تنها قادر به بیان صحبت‌هایی سطحی و بی‌ارزش بوده‌ام."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "جز همچو زر اندر دهن گاز نبودم",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "تا تربیت جود تو بر بنده نیفتاد ",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: تا هنگامی که تاثیرات نیکو و تربیت تو بر من نبود، من به این شکل هنرمند و سخن‌ساز نشده بودم."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "زین گونه هنرورز و سخن ساز نبودم",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "نازی ، که مرا وعده ، نه از صدر تو کردند ",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، وعده‌ای که به من داده شد، نه از جایگاه بلندی که داری است. حقیقت این است که لایق آن ناز و کرشمه نیستم."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "حقا که بدل قایل آن ناز نبودم",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "آن باز شریفم ، که زبس نخوت و همت",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من آن پرنده باعزت هستم که به خاطر خود خواهی و اراده‌ام، جز به دور گرد تو پرواز نکردم."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "جز گرد جناب تو بپرواز نبودم",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 109,
+      "Position": "CenteredVerse1",
+      "Text": "آن نصرة دین ، آن ملک کشور پنجم ",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: کمک‌کننده دین، آن پادشاه سرزمین پنجم، خاک پای او به عنوان تاج سر ستاره‌ها تبدیل شده است."
+    },
+    {
+      "VOrder": 110,
+      "Position": "CenteredVerse2",
+      "Text": "خاک قدم او شده تاج سر انجم ",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "ای شاه ، جز از تو بجهان شاه مبادا ",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای شاه، هیچ کس جز تو را شایسته سلطنت و رهبری نمی‌دانم. برای ساختن و برپاداشتن این جهان، هیچ راهی جز راه تو وجود ندارد."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "احداث جهان را بر تو راه مبادا ",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "بادا بجهان جاه تو ، تا وقت مروت ",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا برای تو مقام و جایگاهی باشد، تا زمانی که مهربانی و انسانیت بر دنیای تو سایه بزند، انسانیت و ثروت دنیا باید بر تو تاثیر نگذارد."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "اموال جهان را بر تو جاه مبادا",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "درگاه تو شد عرصهٔ آفاق و بشاهی ",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: درگاه تو به جایی تبدیل شده که همه‌جا را پوشش می‌دهد و دیگر هیچ مکانی نمی‌تواند مانند اینجا و درگاه تو شایسته باشد."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "معمور جزین عرصه و درگاه مبادا",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "دستی ، که درازست فلک را بسعادت",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هر دستی که بخواهد به سرنوشت آسمان‌ها دست دراز کند، بهتر است آن را به خاطر خوشبختی‌ات از دلمشغولی‌های کوچک دور کند."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "از گوشهٔ فتراک تو کوتاه مبادا",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "تا روز قضا جز بمرا تو در آفاق ",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که سرنوشت مشخص نشده، مبادا برای من در عالم به بدی یا خوبی فکر کنی."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "احوال بد اندیش و نکو خواه مبادا",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 121,
+      "Position": "CenteredVerse1",
+      "Text": "آن نصرة دین ، آن ملک کشور پنجم ",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: نصرت دین و پادشاهی از سرزمین پنجم، باعث شده که خاک زیر پای او، مانند تاجی بر سر ستارگان درخشان باشد."
+    },
+    {
+      "VOrder": 122,
+      "Position": "CenteredVerse2",
+      "Text": "خاک قدم او شده تاج سر انجم ",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    }
+  ]
+}

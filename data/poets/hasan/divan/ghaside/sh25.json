@@ -1,0 +1,540 @@
+{
+  "Id": 116236,
+  "CatId": 2696,
+  "Title": "شمارهٔ ۲۵ - در مدح سید اجل ذخرالدین ابوالقاسم زید بن حسن گوید",
+  "FullTitle": "سید حسن غزنوی » دیوان اشعار » قصاید » شمارهٔ ۲۵ - در مدح سید اجل ذخرالدین ابوالقاسم زید بن حسن گوید",
+  "FullUrl": "/hasan/divan/ghaside/sh25",
+  "RhymeLetters": "ارسد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره عشق و درد جدایی است و احساسات عمیق شاعر را نسبت به معشوقش بیان می‌کند. شاعر از نرسیدن به وصال و رنج کشیدن به خاطر دوری می‌گوید و به زیبایی‌های معشوق و تاثیر او بر زندگی‌اش اشاره می‌کند. او از آلام دل و آرزوی وصال سخن می‌گوید و به این نکته می‌رسد که عشق واقعی با درد و رنج همراه است. با ذکر ویژگی‌های معشوق و مقایسه او با زیبایی‌های طبیعت، شاعر سعی در بیان جایگاه والای معشوق دارد. در نهایت، او از معشوق می‌خواهد که بر جفاهایش بیفکند و کمی به او رحم کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارسد",
+      "PlainText": "جانا حدیث عشق چه گویی کجا رسد\r\nآیا بود که نوبت وصلت به ما رسد\r\nتا من کیم که صافی وصلت کنم طمع\r\nاینم نه بس که دردی دردت به ما رسد\r\nخاک درت به دیده رسد بی گزاف نیست\r\nهرگز چنان سزا به چنین ناسزا رسد\r\nرنجت به دل رسید دریغ ای صنم دریغ\r\nرنج تو جز به جان عزیزم چرا رسد\r\nالحق رسید آنچه رسید از هوا به من\r\nآری به مردم آنچه رسد از هوا رسد\r\nپشتم دو تا شده ست و همم نیست روی آنک\r\nدستم یکی بدان سر زلف دو تا رسد\r\nرویم چو کهربا شد و هر ساعتم ز جزع\r\nوه شاخ بسد است که بر کهربا رسد\r\nجانم چو شمع در شب هجران به لب رسید\r\nچون نیست روز وصل تو بگذار تا رسد\r\nگر صد هزار پاره کنند این دل مرا\r\nهر پاره را ز رنج تو دردی جدا رسد\r\nبیگانه گر هزار بود آشنا یکی\r\nتیرت به اتفاق بر آن آشنا رسد\r\nملکی است خدمت تو و خلقیش منتظر\r\nاین کار دولت است کنون تا کرا رسد\r\nبشنو حدیث من که بسی قصهای زار\r\nاز عاجزان به بارگه پادشا رسد\r\nیا جهد کن که جان ز تن مانده بگسلد\r\nیا سعی کن که دل به من خسته وا رسد\r\nدست از جفا بدار و بیندیش زانکه زود\r\nرنج دل جفای من اندر جفا رسد\r\nترسم خجل شوی که صدای جفای تو\r\nاز ما به سید اجل مجتبا رسد\r\nفرخنده فخر دولت و دین زید بن حسن\r\nکز لفظ او به گوش اهل مرحبا رسد\r\nدامن زرشک سنبل و گل در چند صبا رسد\r\nگر بوی خلق او به مشام صبا رسد\r\nسر در نشیب خدمتش آرد سوی زمین\r\nهر روز کافتاب بوسط السما رسد\r\nای آنکه چشم انجم روشن شود اگر\r\nاز خاکپای تو به فلک توتیا رسد\r\nاز باغ خلد بخشش و بخشایشت گلست\r\nهر دم نسیم آن به عطا و خطا رسد\r\nاز شرم گفت آب شده بر زمین فتد\r\nهر ابر آتشی که به اوج سما رسد\r\nباشد سپید کاری ابر سیه گلیم\r\nدر عهد چون توییش چه لاف سخا رسد\r\nخورشید زرد روی چنان کز جفا شده است\r\nکورا در این زمانه حدیث عطا رسد\r\nآوازه ای ز موج کفت در فلک فتاد\r\nآید خروش اب چو بر آسیا رسد\r\nتو بس بلند قدری و من بس بلند شعر\r\nدر چون تویی هر آینه چونین ثنا رسد\r\nنی نی بدان محل که تو صاحب رسیده ای\r\nگو فی المثل دو اسبه بود کی دعا رسد\r\nبر نو عروس مدح تو بستم عزیز دار\r\nپیرایه ای که از صدف مرتضا رسد\r\nدر دست نام نیک تو دادم بزرگ دار\r\nنو باوه ای که از چمن مصطفا رسد\r\nجان و دلی کشیدم در عقد گوهرتر\r\nکارزد به جان و دل چو به وقت بها رسد\r\nمعذور دار و عیب مگیر و قبول کن\r\nاین تحفه چون بصدر بزرگت فرا رسد\r\nدر نوبتی که اهل کرم چون تویی بود\r\nپیدا بود که همت ما تا کجا رسد\r\nچندانکه مدح خواند بلبل به تهنیت\r\nچون گل به تاج و تخت و کلاه و قبا رسد\r\nپاینده باش تا ز گل و بلبل طرب\r\nدایم به چشم و گوش تو برگ و نوا رسد\r\nفرزند نیک بخت عزیز تو تاج دین\r\nدر عهد تو به دولت بی منتها رسد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانا حدیث عشق چه گویی کجا رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیا بود که نوبت وصلت به ما رسد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا من کیم که صافی وصلت کنم طمع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاینم نه بس که دُردیِ دَردت به ما رسد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاک درت به دیده رسد بی گزاف نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز چنان سزا به چنین ناسزا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرنجت به دل رسید دریغ ای صنم دریغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرنج تو جز به جان عزیزم چرا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالحق رسید آنچه رسید، از هوا به من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری به مردم آنچه رسد، از هوا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپشتم دو تا شده‌ست و همم نیست روی آنک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدستم یکی بدان سر زلف دو تا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرویم چو کهربا شد و هر ساعتم ز جزع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوه شاخ بسد است که بر کهربا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانم چو شمع در شب هجران به لب رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نیست روز وصل تو، بگذار تا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر صد هزار پاره کنند این دل مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر پاره را ز رنج تو دردی جدا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیگانه گر هزار بود آشنا یکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیرت به اتفاق بر آن آشنا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملکی است خدمت تو و خلقیش منتظر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین کار دولت است کنون تا کرا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبشنو حدیث من که بسی قصهای زار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عاجزان به بارگه پادشا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا جهد کن که جان ز تن مانده بگسلد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا سعی کن که دل به من خسته وا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست از جفا بدار و بیندیش زانکه زود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرنج دل جفای من اندر جفا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسم خجل شوی که صدای جفای تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ما به سید اجل مجتبا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرخنده فخر دولت و دین زید بن حسن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز لفظ او به گوش اهل مرحبا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدامن زرشک سنبل و گل در چند صبا رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر بوی خلق او به مشام صبا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر در نشیب خدمتش آرد سوی زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر روز کافتاب بوسط السما رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه چشم انجم روشن شود اگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خاکپای تو به فلک توتیا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز باغ خلد بخشش و بخشایشت گلست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دم نسیم آن به عطا و خطا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز شرم گفت آب شده بر زمین فتد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر ابر آتشی که به اوج سما رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباشد سپید کاری ابر سیه گلیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عهد چون توئیش چه لاف سخا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشید زرد روی چنان کز جفا شده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکورا در این زمانه حدیث عطا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآوازه ای ز موج کفت در فلک فتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآید خروش اب چو بر آسیا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو بس بلند قدری و من بس بلند شعر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر چون توئی هر آینه چونین ثنا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی نی بدان محل که تو صاحب رسیده ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگو فی المثل دو اسبه بود کی دعا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر نو عروس مدح تو بستم عزیز دار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیرایه ای که از صدف مرتضا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دست نام نیک تو دادم بزرگ دار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنو باوه ای که از چمن مصطفا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان و دلی کشیدم در عقد گوهرتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکارزد به جان و دل چو به وقت بها رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعذور دار و عیب مگیر و قبول کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین تحفه چون بصدر بزرگت فرا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر نوبتی که اهل کرم چون توئی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیدا بود که همت ما تا کجا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندانکه مدح خواند بلبل به تهنیت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون گل به تاج و تخت و کلاه و قبا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپاینده باش تا ز گل و بلبل طرب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدایم به چشم و گوش تو برگ و نوا رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرزند نیک بخت عزیز تو تاج دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عهد تو به دولت بی منتها رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 34
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جانا حدیث عشق چه گویی کجا رسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، درباره عشق چه بگویم؟ آیا روزی خواهد آمد که به ما هم فرصتی برای وصل و دیدار داده شود؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آیا بود که نوبت وصلت به ما رسد؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا من کیم که صافی وصلت کنم طمع",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من چه کسی هستم که بتوانم با عشق تو به وصال برسم؟ آرزویی دیگر در سر ندارم، تنها امیدوارم که درد و رنج تو به من برسد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اینم نه بس که دُردیِ دَردت به ما رسد؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خاک درت به دیده رسد بی گزاف نیست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که خاک پای تو در چشم من به‌راستی ارزشمند است و این احساس بی‌دلیلی نیست، زیرا این محبت و ارادت به تو کاملاً شایسته است، حتی اگر دیگران نسبت به تو ناپسند باشند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هرگز چنان سزا به چنین ناسزا رسد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رنجت به دل رسید دریغ ای صنم دریغ",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، غم و رنج تو به قلبم نفوذ کرده و افسوس که رنجی جز برای جان من وجود ندارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "رنج تو جز به جان عزیزم چرا رسد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "الحق رسید آنچه رسید، از هوا به من",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به حقیقت، آنچه باید به من برسد، از آسمان خواهد بود و آنچه برای مردم است، نیز از همین آسمان به آن‌ها خواهد رسید."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آری به مردم آنچه رسد، از هوا رسد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "پشتم دو تا شده‌ست و همم نیست روی آنک",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من احساس تنهایی می‌کنم و کسی در کنارم نیست که دستم را بگیرد؛ فقط یک آرزو دارم که به آن شخصی که دلم به سویش می‌تپد، نزدیک شوم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "دستم یکی بدان سر زلف دو تا رسد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "رویم چو کهربا شد و هر ساعتم ز جزع",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روی من به رنگ کهربا تبدیل شده و هر لحظه از درد و اندوه به شدت نگرانم. درختی که به بالای کهربا می‌رسد، نشان‌دهنده‌ی تلخی و ناراحتی‌ام است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "وه شاخ بسد است که بر کهربا رسد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "جانم چو شمع در شب هجران به لب رسید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل شب جدایی، جانم همچون شمعی در حال سوختن است و به پایان رسیده. از آنجا که روزی برای رسیدن به تو وجود ندارد، بگذار که این وضع ادامه داشته باشد تا زمانی که دوباره به هم برسیم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "چون نیست روز وصل تو، بگذار تا رسد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گر صد هزار پاره کنند این دل مرا",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر صد هزار بار هم دل من را پاره کنند، هر تکه آن به تنهایی از درد و رنج تو رنج می‌برد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "هر پاره را ز رنج تو دردی جدا رسد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "بیگانه گر هزار بود آشنا یکی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر هزاران بیگانه وجود داشته باشد، یک آشنا می‌تواند با یک تیر به اتفاق به آن آشنا برسد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "تیرت به اتفاق بر آن آشنا رسد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "ملکی است خدمت تو و خلقیش منتظر",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این ملک به تو خدمت می‌کند و مخلوقش در انتظار انجام کارهای خوب است. اکنون ببین که این نعمت به کدامیک خواهد رسید."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "این کار دولت است کنون تا کرا رسد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "بشنو حدیث من که بسی قصهای زار",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حرف‌های من را بشنو که داستان‌های زیادی از بی‌چاره‌ها به درگاه پادشاه می‌رسد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "از عاجزان به بارگه پادشا رسد",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "یا جهد کن که جان ز تن مانده بگسلد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یا تلاش کن که جان تو از این بدن جدا شود، یا سعی کن که قلبت به من، که بی‌نهایت خسته‌ام، برسد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "یا سعی کن که دل به من خسته وا رسد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "دست از جفا بدار و بیندیش زانکه زود",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از بدی کردن دست بردار و فکر کن که زودتر از آنچه تصور کنی، رنج دل من از این بدی به خودت خواهد رسید."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "رنج دل جفای من اندر جفا رسد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "ترسم خجل شوی که صدای جفای تو",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگرانم که با رفتار ناپسند تو، صدای گلایه‌مان به خداوند برسد و موجب شرم تو شود."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "از ما به سید اجل مجتبا رسد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "فرخنده فخر دولت و دین زید بن حسن",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زید بن حسن، که موجب افتخار دولت و دین است، با سخنانش می‌تواند توجه همه را به خوبی جلب کند و صدای او در دل مردم با شوق و استقبال طنین‌انداز می‌شود."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "کز لفظ او به گوش اهل مرحبا رسد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "دامن زرشک سنبل و گل در چند صبا رسد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بوی دل‌فریب او به نسیم صبح برسد، آیا دامن زرشک، سنبل و گل به ما می‌رسد؟"
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "گر بوی خلق او به مشام صبا رسد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "سر در نشیب خدمتش آرد سوی زمین",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر روز خورشید به سوی زمین می‌آید و در نشیب خدمت او سر فرود می‌آورد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "هر روز کافتاب بوسط السما رسد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "ای آنکه چشم انجم روشن شود اگر",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که چشم ستاره‌ها به خاطر تو روشن می‌شود، اگر خاک پای تو به آسمان برسد، آنجا مانند شیشه‌ای می‌درخشد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "از خاکپای تو به فلک توتیا رسد",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "از باغ خلد بخشش و بخشایشت گلست",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر لحظه از باغ نعمت‌ها و مهربانی‌ها، گل‌هایی می‌رویند که نسیم آنها به ما الطاف و خطاها را هدیه می‌دهد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "هر دم نسیم آن به عطا و خطا رسد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "از شرم گفت آب شده بر زمین فتد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که وقتی آتشی به اوج آسمان برسد، حتی ابرها از شرم ریزش می‌کنند و آب می‌شوند و بر زمین می‌افتند. به نوعی، این بیانگر قدرت و تأثیر آتش است که می‌تواند هر چیزی را تحت تأثیر قرار دهد و باعث شرمندگی ابرها شود."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "هر ابر آتشی که به اوج سما رسد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "باشد سپید کاری ابر سیه گلیم",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان می‌شود که اگر کارهای نیک و دستاوردهای خوب مانند ابرهای سیاهی که در آسمان می‌گذرانند، ناپایدار و زودگذر باشند، پس در چنین وضعیتی چه دلیل و توجیهی برای bragging درباره بخشی از سخاوت و سخاوت‌مندی وجود دارد؟ به نوعی اشاره به ناپایداری و بی‌ارزشی امکانات و ویژگی‌ها در زمان‌های سخت دارد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "در عهد چون توئیش چه لاف سخا رسد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "خورشید زرد روی چنان کز جفا شده است",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید با روی زرد به گونه‌ای است که از ظلم و ستم دچار کوری شده و در این زمان، داستان بخشش و عطا به گوش می‌رسد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "کورا در این زمانه حدیث عطا رسد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "آوازه ای ز موج کفت در فلک فتاد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زخشش و صدای امواج در آسمان بلند می‌شود و هنگامی‌که آب به آسايشگاه می‌رسد، پژواکی به‌وجود می‌آید."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "آید خروش اب چو بر آسیا رسد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "تو بس بلند قدری و من بس بلند شعر",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو چنان بزرگ‌مرتبه‌ای و من نیز در سرودن شعر ظرفیت بالایی دارم. در چنین حضوری، هر بار که تو هستی، شایسته‌ی این ستایش خواهد بود."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "در چون توئی هر آینه چونین ثنا رسد",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "نی نی بدان محل که تو صاحب رسیده ای",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به معنای این بیت می‌توان گفت: \u0022به این مکان نرو که تو در آنجا به مقام بلندی دست یافته‌ای. مانند این است که دواسب را با هم به دوش بگیری، آیا دعا و درخواست تو به هدف می‌رسد؟\u0022"
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "گو فی المثل دو اسبه بود کی دعا رسد",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "بر نو عروس مدح تو بستم عزیز دار",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای عروس نو، شعر تمجیدی را ترتیب دادم، عزیزم. این شعر، زینتی است که از صدفی بزرگ و ارزشمند به نام مرتضی به دست آمده است."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "پیرایه ای که از صدف مرتضا رسد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "در دست نام نیک تو دادم بزرگ دار",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نام نیک تو را در دست دارم و به بزرگ‌زادگان سپردم، تا مانند گل‌هایی که از چمن مصطفی می‌رویند، پرورش یابند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "نو باوه ای که از چمن مصطفا رسد",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "جان و دلی کشیدم در عقد گوهرتر",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر چیزی ارزشمند و گرانقدر، تمام وجودم را صرف کردم و وقتی زمان آن برسد، از جان و دل برایش تلاش می‌کنم."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "کارزد به جان و دل چو به وقت بها رسد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "معذور دار و عیب مگیر و قبول کن",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر وجود عیوب و نقص‌ها، عذرخواهی کن و از آن‌ها نگذری. این هدیه را با دل‌گشاده بپذیر وقتی به تو تقدیم می‌شود."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "این تحفه چون بصدر بزرگت فرا رسد",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "در نوبتی که اهل کرم چون توئی بود",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که کسی مانند تو با فطرت نیکو و سخاوتمند وجود داشته باشد، مشخص است که تلاش و آرمان ما چقدر می‌تواند بالا باشد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "پیدا بود که همت ما تا کجا رسد",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "چندانکه مدح خواند بلبل به تهنیت",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چقدر که بلبل در ستایش و مدح سخن بگوید، در نهایت مانند گل به مقام و جایگاهی برتر دست خواهد یافت."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "چون گل به تاج و تخت و کلاه و قبا رسد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "پاینده باش تا ز گل و بلبل طرب",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همواره شاد و پایدار باش تا زیبایی‌های گل و نغمه‌های بلبل همواره به چشمان و گوش‌هایت برسد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "دایم به چشم و گوش تو برگ و نوا رسد",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "فرزند نیک بخت عزیز تو تاج دین",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرزند خوشبخت تو، عزیزم، نشان‌دهنده‌ی دین است و در دوران تو به موفقیت‌های بزرگ و بی‌پایان دست خواهد یافت."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "در عهد تو به دولت بی منتها رسد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    }
+  ]
+}

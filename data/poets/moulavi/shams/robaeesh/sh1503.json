@@ -1,0 +1,60 @@
+{
+  "Id": 30961,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۵۰۳",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۵۰۳",
+  "FullUrl": "/moulavi/shams/robaeesh/sh1503",
+  "RhymeLetters": "سن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر از محبوب می‌خواهد که او را به خاطر زیبایی‌اش سرزنش نکند، زیرا او دزد نیست و دستش را بر روی سن مبندد. محبوب هم در پاسخ می‌پرسد که تو کجایی، و تأکید می‌کند که به راستی به حالت زوال می‌رسی چون به او نزدیک‌تر نمی‌شوی.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سن",
+      "PlainText": "گفتم مکن ای روت حسن خوت حسن\r\nمن دزد نی ام مبند دستم به ر سن\r\nگفتا که کجایی تو هنوز ای همه فن\r\nحقا که چنان شوی که کبرت ستسن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم مکن ای روت حسن خوت حسن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن دزد نی ام مبند دستم به ر سن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتا که کجائی تو هنوز ای همه فن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحقا که چنان شوی که کبرت ستسن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گفتم مکن ای روت حسن خوت حسن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم ای عشق، زیبایی تو چنان است که زیبایی من را نمی‌دزدی. دستم را بر سن نگذار که نمی‌خواهم مورد توجه قرار گیرم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من دزد نی ام مبند دستم به ر سن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتا که کجائی تو هنوز ای همه فن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او گفت: کجایی تو هنوز، ای کسی که در تمام فنون مهارت داری. به راستی که اگر اینطور ادامه دهی، به زودی همانند کبریتی خواهی شد که به سادگی خاموش می‌شود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حقا که چنان شوی که کبرت ستسن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

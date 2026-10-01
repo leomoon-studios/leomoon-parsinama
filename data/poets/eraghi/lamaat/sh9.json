@@ -1,0 +1,454 @@
+{
+  "Id": 89490,
+  "CatId": 2330,
+  "Title": "لمعۀ هفتم",
+  "FullTitle": "عراقی » لمعات » لمعۀ هفتم",
+  "FullUrl": "/eraghi/lamaat/sh9",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: عشق در واقع Essence همه چیز است و بدون آن، وجود نمی‌یابد. عشق، ذاتی است که نمی‌تواند از بین برود، بلکه فقط از یک محبوب به محبوب دیگری منتقل می‌شود. هرچه را دوست داریم، در واقع به دلیل محبت به وجود آمده است و بدون این محبت، دوستی دیگری وجود ندارد. زیبایی و جمال موجودات نیز در حقیقت از جمال مطلق برمی‌خیزد و عشق به آن زیبایی‌ها در حقیقت عشق به خود وجود و جمالی است که در درونشان نهفته است. هر عاشق در آینه محبوب خود، در حقیقت به جمال خود می‌نگرد و بی‌خبر از آن است. بنابراین، در نهایت، همه عشق‌ها به خودی خود بازمی‌گردند و هر موجودی در آینه دیگری، خود را می‌بیند. در این فرآیند، ما درک‌های متفاوتی از عشق داریم، ولی در اصل همه یک حقیقت واحد داریم که همان عشق و جمال مطلق است.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ماالحبالاللحبیبالاول",
+      "PlainText": "نقل فیوادک حیث شیت من الهوی\r\nما الحب الا للحبیب الاول",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنقل فئوادک حیث شئت من الهوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما الحب الا للحبیب الاول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "جمیعهملکقددانواومافطنوا",
+      "PlainText": "فکل مغریب محبوبی دین له\r\nجمیعهم لک قددانواو ما فطنوا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفکل مغریب محبوبی دین له\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمیعهم لک قددانواو ما فطنوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "Language": "ar",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ة",
+      "PlainText": "فکل ملیح حسنه من جمالها\r\nمعارله بل حسن کل ملیحة",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفکل ملیح حسنه من جمالها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعارله، بل حسن کل ملیحة\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "Language": "ar",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "د",
+      "PlainText": "آن را که بخود وجود نبود\r\nاو را ز کجا جمال باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن را که بخود وجود نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو را ز کجا جمال باشد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ا",
+      "PlainText": "فکل مغریب محبوبی دین له\r\nجمیعهم لک قددانواو ما فطنوا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفکل مغریب محبوبی دین له\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمیعهم لک قددانواو ما فطنوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ت",
+      "PlainText": "میل خلق جمله عالم تا ابد\r\nگر شناسند واگر نه سوی تو است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیل خلق جمله عالم تا ابد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر شناسند واگر نه سوی تو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دایمابرجمالخودنگران",
+      "PlainText": "مرد عشق تو هم تویی که تویی\r\nدایما بر جمال خود نگران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرد عشق تو هم توئی، که توئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدایماً بر جمال خود نگران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "درهمهافاقگردشنیست",
+      "PlainText": "این چنین عاشقی که می شنوی\r\nدر همه آفاق گردش نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین چنین عاشقی که می‌شنوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر همه آفاق گردش نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ت",
+      "PlainText": "جز ترا چون دوست نتوان داشتن\r\nدوستی دیگران بر بوی تو است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز ترا چون دوست نتوان داشتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوستی دیگران بر بوی تو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "کانجاکهشیرعشقاستانسانچهکاردارد",
+      "PlainText": "دعوی عشق مطلق مشنو ز نسل انسان\r\nکانجاکه شیر عشق است انسان چه کار دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدعوی عشق مطلق مشنو ز نسل انسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکانجاکه شیر عشق است انسان چه کار دارد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "جامیستجهاننمایچوندرنگری",
+      "PlainText": "تو دیده بدست آر که هر ذره ز خاک\r\nجامیست جهان نمای  چون در نگری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو دیده بدست آر، که هر ذره ز خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجامیست جهان نمای،‌ چون در نگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انکیشود",
+      "PlainText": "هر گدایی مرد سلطان کی شود\r\nپشه ای آخر سلیمان کی شود\r\nنی عجب این است کان مرد گدا\r\nچون که سلطان است سلطان کی شود\r\nبوالعجب کاریست بس نادر رهی\r\nکاین چو عین او بود آن کی شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر گدائی مرد سلطان کی شود؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشه‌ای آخر سلیمان کی شود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی عجب این است کان مرد گدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون که سلطان است، سلطان کی شود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوالعجب کاریست،‌بس نادر رهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین چو عین او بود، آن کی شود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویتواست",
+      "PlainText": "میل خلق جمله عالم تا ابد\r\nگر شناسند واگر نه سوی تو است\r\nجز ترا چون دوست نتوان داشتن\r\nدوستی دیگران بر بوی تو است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیل خلق جمله عالم تا ابد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر شناسند واگر نه سوی تو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز ترا چون دوست نتوان داشتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوستی دیگران بر بوی تو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "عشق در همه ساریست، ناگزیر جمله اشیاءاست و کیف تنکر العشق و مافی الوجود الاهو، ولولاالحب ماظهر ماظهر، فبالحب ظهر الحب سارفیه،‌بل هو الحب کله، ذات محب و عشق او محال است که مرتفع شود، بلکه تعلق او نقل شود، از محبوبی به محبوبی",
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق در همه جا جریان دارد و جزو اجتناب‌ناپذیر هر چیز است. تمام هستی مملو از عشق است و اگر عشق نبود، هیچ چیزی به وجود نمی‌آمد. عشق باعث ظهور همه چیزهاست و خود عشق نیز پایه و اساس همه چیز است. همچنین اگرچه ذات محب و عشق او نمی‌تواند از بین برود، اما فقط می‌تواند از یک محبوب به محبوب دیگری منتقل شود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Comment",
+      "Text": "شعر"
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نقل فئوادک حیث شئت من الهوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل خود را هر جا که می‌خواهی در عشق به گردش درآور. زیرا عشق جز برای محبوب نخستین نیست."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ما الحب الا للحبیب الاول",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Paragraph",
+      "Text": "هر کرا دوست داری او رادوست داشته باشی، و بهرچه روی آوری،‌روی بدو آورده باشی، واگر ندانی.",
+      "CoupletIndex": 2,
+      "CoupletSummary": "هوش مصنوعی: هر کسی را که دوست داری، او را هم دوست داشته باش. هر جا که می‌روی و هر چیزی که انجام می‌دهی، به او توجه کن. و اگر نمی‌دانی، مهم نیست."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Comment",
+      "Text": "شعر"
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "فکل مغریب محبوبی دین له",
+      "CoupletIndex": 3,
+      "SectionIndex1": 1,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هر غریبه‌ای که محبوبی دارد، به خاطر او به همه چیز عشق می‌ورزد و به دور او گرد آمده‌اند، اما از حال و شرایطشان بی‌خبرند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "جمیعهم لک قددانواو ما فطنوا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 1,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 9,
+      "Position": "Comment",
+      "Text": "قطعه"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Right",
+      "Text": "میل خلق جمله عالم تا ابد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 9,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر انسان‌ها همه چیز را بشناسند یا نه، همه خواسته‌ها و تمایلاتشان به سوی توست و در نهایت به تو منتهی می‌شود."
+    },
+    {
+      "VOrder": 11,
+      "Position": "Left",
+      "Text": "گر شناسند واگر نه سوی تو است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 9,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 12,
+      "Position": "Right",
+      "Text": "جز ترا چون دوست نتوان داشتن",
+      "CoupletIndex": 5,
+      "SectionIndex1": 9,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: جز تو نمی‌توان دوست دیگری داشت، چون دوستی دیگران هم به خاطر بوی تو و زیبایی توست."
+    },
+    {
+      "VOrder": 13,
+      "Position": "Left",
+      "Text": "دوستی دیگران بر بوی تو است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 9,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 14,
+      "Position": "Paragraph",
+      "Text": "غیر او را نشاید که دوست دارند، بلکه محال است، زیرا که هرچه را دوست دارند، بعد از محبت ذاتی که موجبش معلوم نبود، یا بهرحسن باشد، یا بهر احسان، و این هر دو غیر او را نیست.",
+      "CoupletIndex": 6,
+      "CoupletSummary": "هوش مصنوعی: دوستی با کسی جز او ممکن نیست، زیرا هر چیزی را که دوست داریم، قبل از اینکه عشق ذاتی‌اش مشخص باشد، یا به خاطر خوبی‌اش است، یا به خاطر نیکی‌اش. و این دو ویژگی در غیر او وجود ندارد."
+    },
+    {
+      "VOrder": 15,
+      "Position": "Comment",
+      "Text": "شعر"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Right",
+      "Text": "فکل ملیح حسنه من جمالها",
+      "CoupletIndex": 7,
+      "SectionIndex1": 2,
+      "CoupletSummary": "هوش مصنوعی: هر زیبایی که ویژگی‌های نیکوی خود را از زیبایی‌های دیگر بگیرد، به طوری که زیبایی هر یک از آنها در یکدیگر متجلی شود."
+    },
+    {
+      "VOrder": 17,
+      "Position": "Left",
+      "Text": "معارله، بل حسن کل ملیحة",
+      "CoupletIndex": 7,
+      "SectionIndex1": 2
+    },
+    {
+      "VOrder": 18,
+      "Position": "Paragraph",
+      "Text": "الاآنست که پس پردۀ اسباب و چهرۀ احباب محتجب است، نظر مجنون هرچند بر جمال لیلی است، اما لیلی آینه‌ای بیش نیست و لهذا قال: می عشق و عف و کتم و مات، مات شهیدا نظر مجنون در حسن لیلی بر جمالی است که جز آن جمال همه قبیح است و اگرچه مجنون نداند. ان الله جمیل: غیر او را نشاید که جمال باشد.",
+      "CoupletIndex": 8,
+      "CoupletSummary": "هوش مصنوعی: در این متن گفته شده که در پس پرده‌ها و در چهره‌ی دوستان، چیزهایی پنهان است. نگاه مجنون به زیبایی لیلی است، ولی در واقع لیلی فقط یک آینه است. به همین دلیل اشاره شده که عشق و عفت و رازنگهداری باعث مرگ او شده و او همچون یک شهید در نظر مجنون می‌ماند. مجنون به زیبایی لیلی نگاه می‌کند که تنها زیبایی واقعی است و هر زیبایی دیگر از نظر او زشت به حساب می‌آید، هرچند او خود از این مسأله آگاه نیست. همچنین اشاره شده که خداوند زیباست و هیچ چیز دیگر نمی‌تواند به زیبایی او باشد."
+    },
+    {
+      "VOrder": 19,
+      "Position": "Comment",
+      "Text": "بیت"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Right",
+      "Text": "آن را که بخود وجود نبود",
+      "CoupletIndex": 9,
+      "SectionIndex1": 3,
+      "CoupletSummary": "هوش مصنوعی: کسی که وجود حقیقی ندارد، چگونه می‌تواند زیبایی یا جمال داشته باشد؟"
+    },
+    {
+      "VOrder": 21,
+      "Position": "Left",
+      "Text": "او را ز کجا جمال باشد؟",
+      "CoupletIndex": 9,
+      "SectionIndex1": 3
+    },
+    {
+      "VOrder": 22,
+      "Position": "Paragraph",
+      "Text": "و هو یحب الجمال جمال محبوب بذات خود است، اوست که بچشم مجنون نظر بجمال خود کند در حسن لیلی،‌ و بدو خود را دوست می‌دارد.",
+      "CoupletIndex": 10,
+      "CoupletSummary": "هوش مصنوعی: او به زیبایی عشق می‌ورزد و زیبایی محبوبش را به خودی خود می‌پسندد. اوست که به چشم مجنون، زیبایی خود را در حسن لیلی می‌بیند و به این ترتیب، خودش را نیز دوست دارد."
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "مرد عشق تو هم توئی، که توئی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 4,
+      "CoupletSummary": "هوش مصنوعی: عاشق تو همان خود تو هستی، چرا که دائماً به زیبایی‌ات فکر می‌کنی."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "دایماً بر جمال خود نگران",
+      "CoupletIndex": 11,
+      "SectionIndex1": 4
+    },
+    {
+      "VOrder": 25,
+      "Position": "Paragraph",
+      "Text": "پس بر مجنون که نظرش در آینه دوست بر جمال مطلق بود قلم انکار نرود که نظر در آینه حسن لیلی بر جمال مطلق آید.",
+      "CoupletIndex": 12,
+      "CoupletSummary": "هوش مصنوعی: بنابراین، بر مجنون که نگاهش به آینه دوست افکنده و زیبایی مطلق را می‌بیند، نمی‌توان خرده گرفت، زیرا نگاه او به آینه زیبایی لیلی، او را به سمت جمال مطلق هدایت می‌کند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Comment",
+      "Text": "بیت"
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "این چنین عاشقی که می‌شنوی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 5,
+      "CoupletSummary": "هوش مصنوعی: عاشقی مانند او که درباره‌اش می‌شنوی، در همه جا وجود ندارد و نمی‌توان او را هر جا پیدا کرد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "در همه آفاق گردش نیست",
+      "CoupletIndex": 13,
+      "SectionIndex1": 5
+    },
+    {
+      "VOrder": 29,
+      "Position": "Paragraph",
+      "Text": "٭٭٭",
+      "CoupletIndex": 14
+    },
+    {
+      "VOrder": 30,
+      "Position": "Right",
+      "Text": "دعوی عشق مطلق مشنو ز نسل انسان",
+      "CoupletIndex": 15,
+      "SectionIndex1": 6,
+      "CoupletSummary": "هوش مصنوعی: ادعای عشق بی‌حد و مرز را از انسان نشنو، چون انسان در حقیقت درگیر عشق عمیق و قوی است و ارتباطش با این عشق چیزی فراتر از صرفاً ادعاست."
+    },
+    {
+      "VOrder": 31,
+      "Position": "Left",
+      "Text": "کانجاکه شیر عشق است انسان چه کار دارد؟",
+      "CoupletIndex": 15,
+      "SectionIndex1": 6
+    },
+    {
+      "VOrder": 32,
+      "Position": "Paragraph",
+      "Text": "هرچه بینی جمال اوست،‌ پس همه جمیل باشد،‌ لاجرم همه را دوست دارد، و چون درنگری خود را دوست داشته باشد، هر عاشقی که بینی جز خود را دوست ندارد، زیرا که در آینه ز روی معشوقی جز خود را نبیند، لاجرم جز خود را دوست نگیرد. المؤمن مرآة المؤمن،‌ و الله المؤمن. بیان این همه می‌گوید.",
+      "CoupletIndex": 16,
+      "CoupletSummary": "هوش مصنوعی: هر چه زیبایی او را ببینی، پس همه چیز زیبا خواهد بود و به همین خاطر همه را دوست دارد. وقتی به خود نگاه کند، خود را دوست دارد و هر عاشق دیگری که می‌بینی، جز خود را دوست ندارد. زیرا در آینه‌ای که از روی محبوبش می‌بیند، جز خود را نمی‌بیند و بنابراین نمی‌تواند کسی جز خود را دوست داشته باشد. مؤمن، آینه مؤمن است و خدا نیز مؤمن است. این همه بیانگر همین حقیقت است."
+    },
+    {
+      "VOrder": 33,
+      "Position": "Comment",
+      "Text": "بیت"
+    },
+    {
+      "VOrder": 34,
+      "Position": "Right",
+      "Text": "تو دیده بدست آر، که هر ذره ز خاک",
+      "CoupletIndex": 17,
+      "SectionIndex1": 7,
+      "CoupletSummary": "هوش مصنوعی: به چشمان خود بیاموز که هر ذره از خاک، نمایی از جهان است؛ وقتی به آن نگاه می‌کنی، دنیایی بزرگ در آن نهفته است."
+    },
+    {
+      "VOrder": 35,
+      "Position": "Left",
+      "Text": "جامیست جهان نمای،‌ چون در نگری",
+      "CoupletIndex": 17,
+      "SectionIndex1": 7
+    },
+    {
+      "VOrder": 36,
+      "Position": "Paragraph",
+      "Text": "اینکه بینی که محب در آینۀ ذات خود صورت محبوب بیند، آن محبوب باشد که صورت خود را در آینۀ محب می‌بیند زیرا که شهود محب ببصر بود، و بصر او بمقتضای: کنت سمعه و بصره ویده و لسانه، عین محبوب است،‌پس هرچند عاشق بیند و داند و گوید و شنود، همه عین محبوب آمد. فانما نحن به وله، و لباس محب و محبوب و طالب و مطلوب و مستمع و سمیع و مطاع و مطیع از روی ظهور همه یکی آمد، اما فهم هر کس کجا رسد؟",
+      "CoupletIndex": 18,
+      "CoupletSummary": "هوش مصنوعی: محبت به این معناست که وقتی یک عاشق در آینه‌ی وجود خود، تصویر محبوبش را می‌بیند، آن محبوب نیز تصویر خودش را در آینه‌ی عاشق می‌بیند. زیرا درک و احساس عاشق از طریق نگاه او به وجود محبوبش شکل می‌گیرد. با توجه به اینکه ذات محبوب در تمام حواس عاشق وجود دارد، هر چه عاشق می‌بیند، می‌شنود و می‌گوید، همه تجلیات محبوب است. به این ترتیب، عشق و وجود عاشق و محبوب در نهایت به یک حقیقت تبدیل می‌شوند، هرچند که درک و فهم هر کس از این حقیقت متفاوت است."
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "هر گدائی مرد سلطان کی شود؟",
+      "CoupletIndex": 19,
+      "SectionIndex1": 8,
+      "CoupletSummary": "هوش مصنوعی: هر گدایی هرگز نمی‌تواند به مقام سلطانی برسد. در واقع، هیچ موجودی مانند پشه نمی‌تواند به عظمت سلیمان تبدیل شود."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "پشه‌ای آخر سلیمان کی شود؟",
+      "CoupletIndex": 19,
+      "SectionIndex1": 8
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "نی عجب این است کان مرد گدا",
+      "CoupletIndex": 20,
+      "SectionIndex1": 8,
+      "CoupletSummary": "هوش مصنوعی: تعجبی نیست اگر مردی گدا شود، چرا که آیا فردی که بی‌پول است، می‌تواند به مقام سلطانی برسد؟"
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "چون که سلطان است، سلطان کی شود؟",
+      "CoupletIndex": 20,
+      "SectionIndex1": 8
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "بوالعجب کاریست،‌بس نادر رهی",
+      "CoupletIndex": 21,
+      "SectionIndex1": 8,
+      "CoupletSummary": "هوش مصنوعی: این یک کار شگفت انگیز و نادر است که اگر چیزی مانند او وجود دارد، آن چه زمانی خواهد بود؟"
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "کاین چو عین او بود، آن کی شود؟",
+      "CoupletIndex": 21,
+      "SectionIndex1": 8
+    }
+  ]
+}

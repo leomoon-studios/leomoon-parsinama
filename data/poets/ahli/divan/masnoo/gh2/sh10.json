@@ -1,0 +1,713 @@
+{
+  "Id": 105539,
+  "CatId": 2556,
+  "Title": "بخش ۱۰ - دایره تدویر",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » قصاید مصنوع » قصیدهٔ دوم در مدح سلطان یعقوب » بخش ۱۰ - دایره تدویر",
+  "FullUrl": "/ahli/divan/masnoo/gh2/sh10",
+  "RhymeLetters": "ر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن به بررسی و تحلیل چندین بیت شعر از نظر وزن، قافیه و صنایع ادبی می‌پردازد. شاعر به زوایای گوناگون هنر شعر و ساختار آن می‌نگرد و با اشاره به مفاهیم عمیق انسانی و شعری، بر اهمیت ایجاد معنا و تأثیر احساسات در شعر تأکید می‌کند. او همچنین به ذکر نام و ویژگی‌های خاص بعضی از اشعار و وزنان آن‌ها می‌پردازد و ضمن تشریح صنایع بلاغی، نگاهی به چالش‌ها و لذات سرودن شعر دارد. در کل، متن ترکیبی از تحلیل فنی و احساسات شاعرانه است که عمق و زیبایی شعر را مورد توجه قرار می‌دهد.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "ایا شهی که بجان اهلیت گهر افشاند\r\nنشاید آنکه کند کس دریغ ازو دینار\r\nرهی بر تو که دریای پر دری آمد\r\nکه تا دهانش پر از در کنی و سیم نثار\r\nاهلی که فشاتد بر تو در پر\r\nشاید که کنی دهانش پر در",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایا شهی که بجان اهلیت گهر افشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاید آنکه کند کس دریغ ازو دینار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرهی بر تو که دریای پر دری آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تا دهانش پر از در کنی و سیم نثار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eاهلی که فشاتد بر تو در پر\u003C/p\u003E\r\n\u003Cp\u003Eشاید که کنی دهانش پر در\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "ایا شهی که بجان اهلیت گهر افشاند\r\nنشاید آنکه کند کس دریغ ازو دینار\r\nرهی بر تو که دریای پر دری آمد\r\nکه تا دهانش پر از در کنی و سیم نثار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایا شهی که بجان اهلیت گهر افشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاید آنکه کند کس دریغ ازو دینار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرهی بر تو که دریای پر دری آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تا دهانش پر از در کنی و سیم نثار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "بسوخت غیرو چو من نامده ازان منصور\r\nکه در طریق سخن شاعرم روش هموار\r\nسوخت غیر و چو من نامده منصور\r\nدر طریق سخن شاعر مشهور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسوخت غیرو چو من نامده ازان منصور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در طریق سخن شاعرم روش هموار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eسوخت غیر و چو من نامده منصور\u003C/p\u003E\r\n\u003Cp\u003Eدر طریق سخن شاعر مشهور\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "بسوخت غیرو چو من نامده ازان منصور\r\nکه در طریق سخن شاعرم روش هموار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسوخت غیرو چو من نامده ازان منصور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در طریق سخن شاعرم روش هموار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "اگر چه شد دل واله براه زیر و زبر\r\nچهاز نوش یکی دید جانم از آزار\r\nلطیف خلقی کایم نیاورم انده\r\nاگر نیابم من بخت شد ضرر در کار\r\nاگر چه واله ازو لطف خلق من مانده\r\nچه دید جانم از آزار گر نشد در کار\r\nشد دل بره آرزویی کای یاور\r\nاز نوش یکی یابم من بخت ضرر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه شد دل واله براه زیر و زبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچهاز نوش یکی دید جانم از آزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلطیف خلقی کایم نیاورم انده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر نیابم من بخت شد ضرر در کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eاگر چه واله ازو لطف خلق من مانده\u003C/p\u003E\r\n\u003Cp\u003Eچه دید جانم از آزار گر نشد در کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eشد دل بره آرزویی کای یاور\u003C/p\u003E\r\n\u003Cp\u003Eاز نوش یکی یابم من بخت ضرر\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "اگر چه شد دل واله براه زیر و زبر\r\nچهاز نوش یکی دید جانم از آزار\r\nلطیف خلقی کایم نیاورم انده\r\nاگر نیابم من بخت شد ضرر در کار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه شد دل واله براه زیر و زبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچهاز نوش یکی دید جانم از آزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلطیف خلقی کایم نیاورم انده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر نیابم من بخت شد ضرر در کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "شد دل بره آرزویی کای یاور\r\nاز نوش یکی یابم من بخت ضرر\r\nدل راز یکی آرزویی امن حضر\r\nشد بهروی ایوان شکیبم ابتر\r\nعنایت ازلم بود نامزد در شعر\r\nکه شد تمام بقانون فکرت این معیار\r\nاز آن لقب شده قانون فکرتش الحق\r\nکه سال هجرت ازین نام آوری بشمار\r\nبود نامش از آن قانون فکرت\r\nکه شد قانون فکرت سال هجرت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد دل بره آرزویی کای یاور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نوش یکی یابم من بخت ضرر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل راز یکی آرزویی امن حضر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد بهروی ایوان شکیبم ابتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعنایت ازلم بود نامزد در شعر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شد تمام بقانون فکرت این معیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن لقب شده قانون فکرتش الحق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سال هجرت ازین نام آوری بشمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eبود نامش از آن قانون فکرت\u003C/p\u003E\r\n\u003Cp\u003Eکه شد قانون فکرت سال هجرت\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "اهلی که فشاتد بر تو در پر\r\nشاید که کنی دهانش پر در",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eاهلی که فشاتد بر تو در پر\u003C/p\u003E\r\n\u003Cp\u003Eشاید که کنی دهانش پر در\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ور",
+      "PlainText": "سوخت غیر و چو من نامده منصور\r\nدر طریق سخن شاعر مشهور",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eسوخت غیر و چو من نامده منصور\u003C/p\u003E\r\n\u003Cp\u003Eدر طریق سخن شاعر مشهور\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "شد دل بره آرزویی کای یاور\r\nاز نوش یکی یابم من بخت ضرر\r\nدل راز یکی آرزویی امن حضر\r\nشد بهروی ایوان شکیبم ابتر\r\nعنایت ازلم بود نامزد در شعر\r\nکه شد تمام بقانون فکرت این معیار\r\nاز آن لقب شده قانون فکرتش الحق\r\nکه سال هجرت ازین نام آوری بشمار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد دل بره آرزویی کای یاور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نوش یکی یابم من بخت ضرر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل راز یکی آرزویی امن حضر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد بهروی ایوان شکیبم ابتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعنایت ازلم بود نامزد در شعر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شد تمام بقانون فکرت این معیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن لقب شده قانون فکرتش الحق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سال هجرت ازین نام آوری بشمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "لب از ثنای تو در گفتن دعا پوید\r\nهمیشه تا که جهان باشد و فلک دوار\r\nمدام ملک ترا باد و شه نشان باشی\r\nجهان پناه تو باشی و شاه گیتی دار\r\nتا بود ملک شه نشان باشی\r\nتا جهان باد در جهان باشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب از ثنای تو در گفتن دعا پوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه تا که جهان باشد و فلک دوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدام ملک ترا باد و شه نشان باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان پناه تو باشی و شاه گیتی دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eتا بود ملک شه نشان باشی\u003C/p\u003E\r\n\u003Cp\u003Eتا جهان باد در جهان باشی\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "لب از ثنای تو در گفتن دعا پوید\r\nهمیشه تا که جهان باشد و فلک دوار\r\nمدام ملک ترا باد و شه نشان باشی\r\nجهان پناه تو باشی و شاه گیتی دار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب از ثنای تو در گفتن دعا پوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه تا که جهان باشد و فلک دوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدام ملک ترا باد و شه نشان باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان پناه تو باشی و شاه گیتی دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "یقین که خالی و پر باشد و بود یارب\r\nهمیشه پر کفت از سیم و خالی از اغیار\r\nنگاه تا دم یوم الحسیب دار جهان\r\nبپای و دشمن از افسردگی بخاک سپار\r\nخالی و پر باد یارب تا دم یوم الحسیب\r\nپرکفت از سیم و خالی پای دشمن از رکیب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین که خالی و پر باشد و بود یارب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه پر کفت از سیم و خالی از اغیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگاه تا دم یوم الحسیب دار جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبپای و دشمن از افسردگی بخاک سپار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eخالی و پر باد یارب تا دم یوم الحسیب\u003C/p\u003E\r\n\u003Cp\u003Eپرکفت از سیم و خالی پای دشمن از رکیب\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "اگر چه واله ازو لطف خلق من مانده\r\nچه دید جانم از آزار گر نشد در کار\r\nشد دل بره آرزویی کای یاور\r\nاز نوش یکی یابم من بخت ضرر",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eاگر چه واله ازو لطف خلق من مانده\u003C/p\u003E\r\n\u003Cp\u003Eچه دید جانم از آزار گر نشد در کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eشد دل بره آرزویی کای یاور\u003C/p\u003E\r\n\u003Cp\u003Eاز نوش یکی یابم من بخت ضرر\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "رت",
+      "PlainText": "بود نامش از آن قانون فکرت\r\nکه شد قانون فکرت سال هجرت",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eبود نامش از آن قانون فکرت\u003C/p\u003E\r\n\u003Cp\u003Eکه شد قانون فکرت سال هجرت\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "یقین که خالی و پر باشد و بود یارب\r\nهمیشه پر کفت از سیم و خالی از اغیار\r\nنگاه تا دم یوم الحسیب دار جهان\r\nبپای و دشمن از افسردگی بخاک سپار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین که خالی و پر باشد و بود یارب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه پر کفت از سیم و خالی از اغیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگاه تا دم یوم الحسیب دار جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبپای و دشمن از افسردگی بخاک سپار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "انباشی",
+      "PlainText": "تا بود ملک شه نشان باشی\r\nتا جهان باد در جهان باشی",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eتا بود ملک شه نشان باشی\u003C/p\u003E\r\n\u003Cp\u003Eتا جهان باد در جهان باشی\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "یب",
+      "PlainText": "خالی و پر باد یارب تا دم یوم الحسیب\r\nپرکفت از سیم و خالی پای دشمن از رکیب",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eخالی و پر باد یارب تا دم یوم الحسیب\u003C/p\u003E\r\n\u003Cp\u003Eپرکفت از سیم و خالی پای دشمن از رکیب\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ایا شهی که بجان اهلیت گهر افشاند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: آیا شایسته است که کسی از شهری که به جان و دلش ثروت می‌بخشد، حتی دیناری دریغ کند؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نشاید آنکه کند کس دریغ ازو دینار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رهی بر تو که دریای پر دری آمد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: شخصی را می‌بینیم که شگفت‌زده و با شور و شوق به طرف دریای عمیق و پر از گنجینه می‌رود، که حتی می‌توان دهان آن را پر از جواهر و نقره کند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که تا دهانش پر از در کنی و سیم نثار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "CenteredVerse1",
+      "Text": "اهلی که فشاتد بر تو در پر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر به تو فشاری وارد شود، شاید بتوانی او را وادار کنی که دهانش را پر کند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "CenteredVerse2",
+      "Text": "شاید که کنی دهانش پر در",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 7,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفعول مفاعلن فعولن",
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: تقطیع در اینجا به شکلی از تقسیم‌بندی یا ساختار موزون اشاره دارد که با استفاده از الگوهای خاصی مانند \u0022مفاعلن\u0022 و \u0022فعولن\u0022 تشکیل می‌شود. این الگوها در شعر و نمودهای موسیقایی مورد استفاده قرار می‌گیرند و به ایجاد ریتم و وزن در آثار ادبی کمک می‌کنند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Paragraph",
+      "Text": "قافیه: ذوقافیتین، مکرر- متواتر",
+      "CoupletIndex": 4,
+      "CoupletSummary": "هوش مصنوعی: ذوقافیتین به معنای قافیه‌هایی است که به طور مکرر و متواتر تکرار می‌شوند."
+    },
+    {
+      "VOrder": 9,
+      "Position": "Paragraph",
+      "Text": "بحر: هزج مسدس اخرب",
+      "CoupletIndex": 5,
+      "CoupletSummary": "هوش مصنوعی: بحر هزج مسدس اخرب، نوعی قافیه و وزن شعری است که در آن چهار مصراع با وزن خاصی ساخته می‌شوند. در این نوع شعر، هر مصراع به صورت هزج، یعنی دارای وزن خاصی است که در آن یک هجای کوتاه و یک هجای بلند وجود دارد. این ساختار به شعرا امکان می‌دهد تا احساسات و معانی عمیق خود را به شیوه‌ای موزون و دلنواز بیان کنند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Paragraph",
+      "Text": "صنعت: حسن طلب",
+      "CoupletIndex": 6,
+      "CoupletSummary": "هوش مصنوعی: صنعت: حسن طلب"
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بسوخت غیرو چو من نامده ازان منصور",
+      "CoupletIndex": 7,
+      "SectionIndex1": 1,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: جایگاه من در شعر و سخن به قدری روشن و هموار است که هیچ کس دیگری مانند من به این مقام نرسیده است. من همچنان با تمام وجود در این راه پیش می‌روم و کسی به اندازه من این اشتیاق را ندارد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که در طریق سخن شاعرم روش هموار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 1,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 13,
+      "Position": "CenteredVerse1",
+      "Text": "سوخت غیر و چو من نامده منصور",
+      "CoupletIndex": 8,
+      "SectionIndex1": 1,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: غیر از من، کسی که مثل منصور در این راه سخن نمی‌گوید، وجود ندارد و همه در آتش احساسات خود می‌سوزند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "CenteredVerse2",
+      "Text": "در طریق سخن شاعر مشهور",
+      "CoupletIndex": 8,
+      "SectionIndex1": 1,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 15,
+      "Position": "Paragraph",
+      "Text": "تقطیع: فاعلات مفاعیل مفاعیل",
+      "CoupletIndex": 9,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به معنای تجزیه و تفکیک وزن شعر یا نواخت‌های موسیقی است. در این روش، فاعلات و مفاعیل به عنوان واحدهای اصلی در نظر گرفته می‌شوند که هر یک نمایانگر الگوهای خاصی هستند و به شعر یا موسیقی律 و نظم می‌بخشند. به عبارت دیگر، این فرایند به تحلیل ریتم و ساختار صنایع ادبی کمک می‌کند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Paragraph",
+      "Text": "قافیه: مردف بردف مفرد",
+      "CoupletIndex": 10,
+      "CoupletSummary": "هوش مصنوعی: قافیه عبارت است از شباهت صوتی در انتهای کلمات، که معمولاً در شعر و موسیقی برای ایجاد آهنگ و زیبایی در کلام به کار می‌رود. قافیه‌های مردف به قافیه‌هایی گفته می‌شود که علاوه بر قافیه اصلی، کلماتی دارند که قبل از آن قرار می‌گیرند و به نوعی آن‌ها را همراهی می‌کنند. در حالی که قافیه‌های مفرد تنها به یک کلمه محدود می‌شوند و هیچ کلمه اضافه‌ای قبل یا بعد از آن وجود ندارد."
+    },
+    {
+      "VOrder": 17,
+      "Position": "Paragraph",
+      "Text": "بحر: مشاکل مکفوف مقصور",
+      "CoupletIndex": 11,
+      "CoupletSummary": "هوش مصنوعی: بحر: مشکلاتی که به طور مشخص و محدود وجود دارند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Paragraph",
+      "Text": "صنعت: تفسیر خفی",
+      "CoupletIndex": 12,
+      "CoupletSummary": "هوش مصنوعی: صنعت: تفسیر پنهان"
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "اگر چه شد دل واله براه زیر و زبر",
+      "CoupletIndex": 13,
+      "SectionIndex1": 2,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هرچند که دل من دچار آشفتگی و ناآرامی شده است، اما وقتی نوشیدنی شیرینی را دیدم، جانم از این آزار رهایی یافت."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "چهاز نوش یکی دید جانم از آزار",
+      "CoupletIndex": 13,
+      "SectionIndex1": 2,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "لطیف خلقی کایم نیاورم انده",
+      "CoupletIndex": 14,
+      "SectionIndex1": 2,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: من با رفیق خوبی که دارم، غم و اندوهی نمی‌آورم. اگر شانس به من روی نیاورد، کلا در کارهای من آسیب به وجود می‌آید."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "اگر نیابم من بخت شد ضرر در کار",
+      "CoupletIndex": 14,
+      "SectionIndex1": 2,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 23,
+      "Position": "CenteredVerse1",
+      "Text": "اگر چه واله ازو لطف خلق من مانده",
+      "CoupletIndex": 15,
+      "SectionIndex1": 2,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگرچه قلب من از محبت او پر است، اما چرا باید رنج ببینم اگر در این مسیر کاری انجام نشود؟"
+    },
+    {
+      "VOrder": 24,
+      "Position": "CenteredVerse2",
+      "Text": "چه دید جانم از آزار گر نشد در کار",
+      "CoupletIndex": 15,
+      "SectionIndex1": 2,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 25,
+      "Position": "CenteredVerse1",
+      "Text": "شد دل بره آرزویی کای یاور",
+      "CoupletIndex": 16,
+      "SectionIndex1": 2,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: دل من پر از آرزو شده است و ای یاور، من از نوش (مرتبه‌ای از خوشبختی) چیزی می‌خواهم که بخت و اقبال من را نِکُشد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "CenteredVerse2",
+      "Text": "از نوش یکی یابم من بخت ضرر",
+      "CoupletIndex": 16,
+      "SectionIndex1": 2,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 27,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفاعلن فعلاتن مفاعلن فعلات",
+      "CoupletIndex": 17,
+      "CoupletSummary": "هوش مصنوعی: تقطیع یک روش برای تقسیم بندی شعر به واحدهای کوچکتر است که در آن الگوهای وزنی مشخصی مورد استفاده قرار می‌گیرند. در اینجا، به الگوی وزنی مفاعیلن و فعلات اشاره شده است که به شکل خاصی در شعر عربی و فارسی به کار می‌روند. این الگوها به شاعران کمک می‌کنند تا ریتم و هارمونی شعر را ایجاد کنند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Paragraph",
+      "Text": "قافیه:",
+      "CoupletIndex": 18
+    },
+    {
+      "VOrder": 29,
+      "Position": "Paragraph",
+      "Text": "بحر: مجتث مخبون",
+      "CoupletIndex": 19,
+      "CoupletSummary": "هوش مصنوعی: بحر: مجتث مخبون نوعی الوزن شعری است که شامل چندین مؤلفه و معیار خاص خود می‌باشد. در این نوع شعر، الگوی هجایی خاصی وجود دارد که به شاعر اجازه می‌دهد از ترکیب‌ها و شکل‌های مختلف برای بیان احساسات و مضامین خود استفاده کند. این فنون و قواعد، به شعر زیبایی و دلنشینی بیشتری می‌بخشند و به شاعر کمک می‌کنند تا پیام خود را به شیوه‌ای تاثیرگذار و مؤثر منتقل کند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Paragraph",
+      "Text": "صنعت:",
+      "CoupletIndex": 20
+    },
+    {
+      "VOrder": 31,
+      "Position": "Paragraph",
+      "Text": "این بیت در بحر مجتث مخبون گفته شده و مجتث مخبون محذوف از حروف سیاهی آن دو بیت سابق جمع آمد و از سرخی بیت دیگر جمع آمد در وزن رباعی و از آن یک بیت دیگر جمع آمد و جمعا متضمن یکرباعی است بدینصورت:",
+      "CoupletIndex": 21,
+      "CoupletSummary": "هوش مصنوعی: این بیت در قالب شعری خاص به نام مجتث مخبون سروده شده است. مجتث مخبون از ترکیب و حذف حروف خاص دو بیت قبلی شکل گرفته و همچنین با وزن یک رباعی و یک بیت دیگر ترکیب شده است. در نتیجه، در مجموع یک رباعی را تشکیل می‌دهد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Right",
+      "Text": "شد دل بره آرزویی کای یاور",
+      "CoupletIndex": 22,
+      "SectionIndex1": 3,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دل من به آرزویی گرفتار شده است؛ ای یاور، کاش من هم از این نوش خوشبختی بهره‌مند شوم!"
+    },
+    {
+      "VOrder": 33,
+      "Position": "Left",
+      "Text": "از نوش یکی یابم من بخت ضرر",
+      "CoupletIndex": 22,
+      "SectionIndex1": 3,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 34,
+      "Position": "Right",
+      "Text": "دل راز یکی آرزویی امن حضر",
+      "CoupletIndex": 23,
+      "SectionIndex1": 3,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دل در انتظار یک آرزو و امید است که به آرامش برسد، و اکنون بر درگاه صبر ایستاده‌ام، بی‌ثمر و ناکام."
+    },
+    {
+      "VOrder": 35,
+      "Position": "Left",
+      "Text": "شد بهروی ایوان شکیبم ابتر",
+      "CoupletIndex": 23,
+      "SectionIndex1": 3,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 36,
+      "Position": "Right",
+      "Text": "عنایت ازلم بود نامزد در شعر",
+      "CoupletIndex": 24,
+      "SectionIndex1": 3,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این شعر به این معناست که محبت و توجهی که به شعر و ادبیات می‌شود، از ابتدا و به صورت طبیعی وجود داشته است. همچنین، این عشق و توجه باعث شده تا معیار و قوانینی برای تفکر و استعداد در این رشته مشخص شود و تمام تلاش‌ها و تلاش‌های شاعرانه تحت تأثیر این اصل قرار گیرد."
+    },
+    {
+      "VOrder": 37,
+      "Position": "Left",
+      "Text": "که شد تمام بقانون فکرت این معیار",
+      "CoupletIndex": 24,
+      "SectionIndex1": 3,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 38,
+      "Position": "Right",
+      "Text": "از آن لقب شده قانون فکرتش الحق",
+      "CoupletIndex": 25,
+      "SectionIndex1": 3,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که این فرد به قدری در اندیشه و تفکر خود عمیق و قانون‌مدار است که می‌توانیم سال هجرت او را با نامی که به او داده‌اند، به حساب بیاوریم. به عبارتی، کیفیت و اهمیت تفکرات او به اندازه‌ای است که می‌توان آن را به عنوان نقطه عطفی در زندگی‌اش در نظر گرفت."
+    },
+    {
+      "VOrder": 39,
+      "Position": "Left",
+      "Text": "که سال هجرت ازین نام آوری بشمار",
+      "CoupletIndex": 25,
+      "SectionIndex1": 3,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 40,
+      "Position": "CenteredVerse1",
+      "Text": "بود نامش از آن قانون فکرت",
+      "CoupletIndex": 26,
+      "SectionIndex1": 3,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: نام او به خاطر قانونی که از فکرش نشأت گرفته، به قانونی تبدیل شد که در سال هجرت به وجود آمد."
+    },
+    {
+      "VOrder": 41,
+      "Position": "CenteredVerse2",
+      "Text": "که شد قانون فکرت سال هجرت",
+      "CoupletIndex": 26,
+      "SectionIndex1": 3,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 42,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفاعیلن مفاعیلن فعولن",
+      "CoupletIndex": 27,
+      "CoupletSummary": "هوش مصنوعی: تقطیع شعری که به صورت \u0022مفاعیلن مفاعیلن فعولن\u0022 بیان شده است، به نوعی از وزن شاعرانه اشاره دارد که در آن تعداد هجاها و نوعشان به طور خاصی تنظیم شده‌اند. این ساختار به شاعران کمک می‌کند تا احساسات و معانی را به صورت موزون و دلنشین منتقل کنند."
+    },
+    {
+      "VOrder": 43,
+      "Position": "Paragraph",
+      "Text": "قافیه: مقید مجرد",
+      "CoupletIndex": 28,
+      "CoupletSummary": "هوش مصنوعی: قافیه: مختص به حیثیت خالص و ساده."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Paragraph",
+      "Text": "بحر: هزج مسدس محذوف",
+      "CoupletIndex": 29,
+      "CoupletSummary": "هوش مصنوعی: بحر هزج مسدس محذوف نوعی قافیه در شعر فارسی است که دارای شش نسخه خود است، اما در این نوع قافیه، بخشی از قالب آن حذف شده است. این ویژگی باعث می‌شود که به شعر خاصیت و ضرباهنگ متفاوتی بدهد."
+    },
+    {
+      "VOrder": 45,
+      "Position": "Paragraph",
+      "Text": "صنعت: تاریخ و اسم قصیده",
+      "CoupletIndex": 30,
+      "CoupletSummary": "هوش مصنوعی: صنعت به معنای حرفه یا کار تخصصی است که در آن افراد مهارت و دانش خاصی دارند. تاریخ به معنی سابقه یا روند زمانی اتفاقات و رویدادهاست. قصیده نیز به یک نوع شعر اشاره دارد که معمولاً دارای وزن و قافیه مشخصی است و معمولاً به موضوعات خاصی پرداخته می‌شود."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Right",
+      "Text": "لب از ثنای تو در گفتن دعا پوید",
+      "CoupletIndex": 31,
+      "SectionIndex1": 4,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: لب‌های من همیشه به ستایش و دعا برای تو مشغول هستند، تا زمانی که دنیا و آسمان در حال گردش باشند."
+    },
+    {
+      "VOrder": 47,
+      "Position": "Left",
+      "Text": "همیشه تا که جهان باشد و فلک دوار",
+      "CoupletIndex": 31,
+      "SectionIndex1": 4,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 48,
+      "Position": "Right",
+      "Text": "مدام ملک ترا باد و شه نشان باشی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 4,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: همواره صاحب ملک و دارای مقام باشی، و جهان در پناه تو قرار گیرد و تو شاهی بر دنیای خود."
+    },
+    {
+      "VOrder": 49,
+      "Position": "Left",
+      "Text": "جهان پناه تو باشی و شاه گیتی دار",
+      "CoupletIndex": 32,
+      "SectionIndex1": 4,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 50,
+      "Position": "CenteredVerse1",
+      "Text": "تا بود ملک شه نشان باشی",
+      "CoupletIndex": 33,
+      "SectionIndex1": 4,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که سلطنت شاه وجود دارد، تو هم باید در دنیا به نشانه و علامتی از آن سلطنت باشی. در واقع، همچنان که جهان پابرجاست، تو نیز باید در این جهان حضوری پررنگ داشته باشی."
+    },
+    {
+      "VOrder": 51,
+      "Position": "CenteredVerse2",
+      "Text": "تا جهان باد در جهان باشی",
+      "CoupletIndex": 33,
+      "SectionIndex1": 4,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 52,
+      "Position": "Paragraph",
+      "Text": "تقطیع: فاعلاتن مفاعلن فعلن",
+      "CoupletIndex": 34,
+      "CoupletSummary": "هوش مصنوعی: تقطیع نوعی تقسیم‌بندی در شعر است که به شناسایی و تنظیم وزن شعر کمک می‌کند. در اینجا به فرم‌های مشخصی از وزن شعر اشاره شده که شامل \u0022فاعلاتن\u0022، \u0022مفاعلن\u0022 و \u0022فعلن\u0022 است. این الگوها معمولاً در ساختار وزن شعر کلاسیک و سنتی به کار می‌روند."
+    },
+    {
+      "VOrder": 53,
+      "Position": "Paragraph",
+      "Text": "قافیه: موصول",
+      "CoupletIndex": 35
+    },
+    {
+      "VOrder": 54,
+      "Position": "Paragraph",
+      "Text": "بحر: خفیف مخبون محذوف",
+      "CoupletIndex": 36,
+      "CoupletSummary": "هوش مصنوعی: بحر به معنای یک نوع الگوی شعری است که شامل وزن و آهنگی خاص می‌شود. خفیف به معنی آرام و ملایم است، مخبون نشان‌دهنده حالتی پر از احساس و عاطفه است و محذوف به معنای حذف شده یا غیرقابل مشاهده است."
+    },
+    {
+      "VOrder": 55,
+      "Position": "Paragraph",
+      "Text": "صنعت: تضمین",
+      "CoupletIndex": 37,
+      "CoupletSummary": "هوش مصنوعی: صنعت تضمین به معنای اطمینان و تأمین امنیت در ارائه خدمات و محصولات است. این صنعت به بررسی و ارزیابی خطرات احتمالی می‌پردازد و اقدامات لازم را برای کاهش این خطرات به کار می‌گیرد. هدف اصلی این صنعت ایجاد اعتماد و اطمینان در مشتریان و کاربران است تا بتوانند با خیال راحت از خدمات و محصولات استفاده کنند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Right",
+      "Text": "یقین که خالی و پر باشد و بود یارب",
+      "CoupletIndex": 38,
+      "SectionIndex1": 5,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به طور قطع، چیزی نمی‌تواند همزمان پر و خالی باشد. ای خدا، همیشه دلت پر از خوشی و نعمت باشد و از نفسانیات و خواسته‌های دیگران خالی بماند."
+    },
+    {
+      "VOrder": 57,
+      "Position": "Left",
+      "Text": "همیشه پر کفت از سیم و خالی از اغیار",
+      "CoupletIndex": 38,
+      "SectionIndex1": 5,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 58,
+      "Position": "Right",
+      "Text": "نگاه تا دم یوم الحسیب دار جهان",
+      "CoupletIndex": 39,
+      "SectionIndex1": 5,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به لحظه‌ای که حساب و کتاب اعمال انسان‌ها انجام می‌شود، باید نظاره‌گر زندگی‌ات باشی و بر دشمنی‌ها و احساسات منفی غلبه کنی و آنها را از خود دور کنی."
+    },
+    {
+      "VOrder": 59,
+      "Position": "Left",
+      "Text": "بپای و دشمن از افسردگی بخاک سپار",
+      "CoupletIndex": 39,
+      "SectionIndex1": 5,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 60,
+      "Position": "CenteredVerse1",
+      "Text": "خالی و پر باد یارب تا دم یوم الحسیب",
+      "CoupletIndex": 40,
+      "SectionIndex1": 5,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: خدایا، تا روز حساب، دل من را پر از نور و امید کن و دشمنانم را از کمک و یاری خالی گردان."
+    },
+    {
+      "VOrder": 61,
+      "Position": "CenteredVerse2",
+      "Text": "پرکفت از سیم و خالی پای دشمن از رکیب",
+      "CoupletIndex": 40,
+      "SectionIndex1": 5,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 62,
+      "Position": "Paragraph",
+      "Text": "تقطیع: فاعلاتن فاعلاتن فاعلاتن فاعلات",
+      "CoupletIndex": 41,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به معنای تقسیم و ترتیب ضربات یا وزن‌های شعری است. در اینجا، الگویی مشخص از وزن شعر با استفاده از هجاها ارائه شده که به صورت \u0022فاعلَتن فاعَلاتن فاعَلاتن فاعَلات\u0022 نمایان شده است. این الگو به شاعران کمک می‌کند تا شعر خود را بر اساس این قاعده منظم کنند و به ریتم خاصی دست پیدا کنند."
+    },
+    {
+      "VOrder": 63,
+      "Position": "Paragraph",
+      "Text": "قافیه: اماله",
+      "CoupletIndex": 42,
+      "CoupletSummary": "هوش مصنوعی: قافیه: اماله \n\nمعنی: در ادبیات و شعر، قافیه به تکرار صداها و الگوهای خاصی در انتهای ابیات اشاره دارد. اماله به معنای کشیده کردن و طولانی کردن برخی حروف و صداها در برخی از لهجه‌ها یا زبان‌ها می‌باشد. در نتیجه، ارتباط این دو مفهوم می‌تواند به ایجاد هماهنگی و زیبایی در شعر بیانجامد."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Paragraph",
+      "Text": "بحر: رمل مثمن مقصور",
+      "CoupletIndex": 43,
+      "CoupletSummary": "هوش مصنوعی: بحر: بیابان یا دشت وسیع با شکل هندسی منظم و محصور."
+    },
+    {
+      "VOrder": 65,
+      "Position": "Paragraph",
+      "Text": "صنعت: تفسیر جلی",
+      "CoupletIndex": 44,
+      "CoupletSummary": "هوش مصنوعی: این صنعت به توضیح و تحلیل اطلاعات مرتبط با موضوعات مختلف می‌پردازد و به دنبال ارائه بینش‌ها و معانی عمیق‌تری است. هدف این تفسیر، روشن کردن جنبه‌های مختلف موضوع و کمک به درک بهتر آن‌ها است. در واقع، این فرآیند می‌تواند شامل بررسی جزئیات، شناسایی الگوها و ارتباطات، و ارائه توضیحات مفهومی باشد."
+    }
+  ]
+}

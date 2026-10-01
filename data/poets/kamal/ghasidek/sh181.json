@@ -1,0 +1,540 @@
+{
+  "Id": 72783,
+  "CatId": 2062,
+  "Title": "شمارهٔ ۱۸۰ - وله ایضاً یمدحه ببلد النّشابور",
+  "FullTitle": "کمال‌الدین اسماعیل » قصاید » شمارهٔ ۱۸۰ - وله ایضاً یمدحه ببلد النّشابور",
+  "FullUrl": "/kamal/ghasidek/sh181",
+  "RhymeLetters": "اری",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: شعر به تمجید و ستایش از پادشاه و مقام او در راستای دین و عدالت پرداخته است. شاعر از ویژگی‌های پادشاه، از جمله generosity (سخاوتمندی) و قدرت او در برآوردن نیازهای مردم سخن می‌گوید. او همچنین به این نکته اشاره می‌کند که پادشاه به مانند خورشیدی است که نورش بر همه تابیده و همه در سایه‌ی لطفش قرار دارند. \n\nشاعر به احساس ضعف و نیازمندی خود و دیگران اشاره می‌کند و درخواست رحمت و کمک از پادشاه را دارد. او بیان می‌کند که با وجود مشکلاتی که در زندگی دارند، از پادشاه توقع دعا و یاری دارد و بر این باور است که پادشاه با کرم خود می‌تواند گناهان و نواقص مردم را ببخشد.\n\nدر نهایت، شاعر برای مردم نیشابور آرزوی خوشبختی و کامیابی در سایه‌ی وجود پادشاه را می‌کند. به طور کلی، شعر ترکیبی از ستایش، درخواست یاری و ابراز نیازمندی‌های مردم به پادشاه است.",
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اری",
+      "PlainText": "جهان کرم پادشاه شریعت\r\nکه هستت بر اقلیم دین شهر یاری\r\nتو آن سرفرازی که فیض بنانت\r\nبریزد همی آب ابر بهاری\r\nتو آنی که روی قدرت توانی\r\nکه پیشانی شیر گردون بخاری\r\nتو آن فیض بخشی که در روز جودت\r\nچو کان گشت دریا زبس خاکساری\r\nفلک از سر صدق تو صبگاهی\r\nکند در هوایت چو من جان سپاری\r\nمزاج صبازان سبب روح بخش است\r\nکه کردست با خلقت آمیزگاری\r\nدرختان لطف ترا میوه آبی\r\nنهنگان خشم ترا معده ناری\r\nقضا کی شدی ضامن رزق مردم \r\nاگر نه کفت را گرفتی بیاری\r\nگشایش زجود تو می یابد ارنی\r\nعروق امل را ببندد مجاری\r\nبگاورسۀ مشک بر صفحۀ سیم\r\nکند کلک تو هر زمان خرده کاری\r\nبقای ابد را به محشر همانا\r\nبمسمار مهرت بود استواری\r\nخور تیغ زن گرچه هرشب زبأست\r\nدرین خاک توده گزیند تواری\r\nضمیر تو هر روز گیسو کشانش\r\nببازار گیتی برآرد بخواری\r\nوقار ترا کوه می خوانم انصاف\r\nازین بیشتر چون بود بردباری\r\nبسیلاب انعام تو شسته گردد\r\nز روی جهان وصمت خاکساری\r\nقضا را بس است این قدر شغل کورا\r\nبدیوان حکمت بود پیشکاری\r\nکسی را که یک ذره در سایه گیری\r\nزخورشید تابان سرش برگذاری\r\nسوی مهر اگر بنگرد تیز کینت\r\nچو سایه بخاک اندر افتد بزاری\r\nتو سلطان سیار کان وجودی\r\nچو خورشید ازین روی لندر مداری\r\nبقدر و بزرگی علی رغم دشمن\r\nبحمدالله امروز هریک هزاری\r\nفلک رفعتا  پیش صدر توام هیچ\r\nزبان سخن نیست از شرمساری\r\nدرین چند روز از جفا آن کشیدم\r\nکه گر برشمارم تو باور نداری\r\nچه از خاصۀ خود چه از خویش و پیوند\r\nچه از شرمساری  چه از سوگواری\r\nهمانا که اندر ازل کار ما را\r\nقرار افتادست بر بی قراری\r\nکسی را که تیره شود آب دولت\r\nزآب حیاتش بود ناگواری\r\nسزاوار آنی و در خورد اینم\r\nکه بر ما و بر عجز ما رحمت آری\r\nاز آن می نماییم بر جرم اقدام\r\nکه عفوت زما می کند خواستاری\r\nغریب و پراکنده و مستمندیم\r\nتبه حال و حیران زبد روزگاری\r\nنباشد ترا ضایع از کردکارت\r\nاگر بی کسان را کنی دستیاری\r\nحقوق قدیمی ما خود رها کن\r\nنه هستیم آخر ترا زینهاری\r\nچو هرکس رسیدند از دولت تو\r\nباسب و ستور و مهد و عماری\r\nاگر خسته یی را زشوق رکابت\r\nکند فی المثل آرزوی سواری\r\nتوقع چنانست کز من دعا گوی\r\nبحکم کرم این گنه در گذاری\r\nبر اهل نیشابور فرخنده بادا\r\nقدوم تو در دولت کامکاری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان کرم پادشاه شریعت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هستت بر اقلیم دین شهر یاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو آن سرفرازی که فیض بنانت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبریزد همی آب ابر بهاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو آنی که روی قدرت توانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه پیشانی شیر گردون بخاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو آن فیض بخشی که در روز جودت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو کان گشت دریا زبس خاکساری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلک از سر صدق تو صبگاهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکند در هوایت چو من جان سپاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزاج صبازان سبب روح بخش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه کردست با خلقت آمیزگاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرختان لطف ترا میوه آبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنهنگان خشم ترا معده ناری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقضا کی شدی ضامن رزق مردم ؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر نه کفت را گرفتی بیاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشایش زجود تو می یابد ارنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعروق امل را ببندد مجاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگاورسۀ مشک بر صفحۀ سیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکند کلک تو هر زمان خرده کاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبقای ابد را به محشر همانا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبمسمار مهرت بود استواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخور تیغ زن گرچه هرشب زبأست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرین خاک توده گزیند تواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eضمیر تو هر روز گیسو کشانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eببازار گیتی برآرد بخواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقار ترا کوه می خوانم انصاف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازین بیشتر چون بود بردباری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسیلاب انعام تو شسته گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز روی جهان وصمت خاکساری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقضا را بس است این قدر شغل کورا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدیوان حکمت بود پیشکاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکسی را که یک ذرّه در سایه گیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزخورشید تابان سرش برگذاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوی مهر اگر بنگرد تیز کینت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو سایه بخاک اندر افتد بزاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو سلطان سیّار کان وجودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو خورشید ازین روی لندر مداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبقدر و بزرگی علی رغم دشمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحمدالله امروز هریک هزاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلک رفعتا ! پیش صدر توام هیچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزبان سخن نیست از شرمساری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرین چند روز از جفا آن کشیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه گر برشمارم تو باور نداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه از خاصۀ خود، چه از خویش و پیوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه از شرمساری ، چه از سوگواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمانا که اندر ازل کار ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقرار افتادست بر بی قراری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکسی را که تیره شود آب دولت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآب حیاتش بود ناگواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسزاوار آنی و در خورد اینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر ما و بر عجز ما رحمت آری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن می نمائیم بر جرم اقدام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عفوت زما می کند خواستاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغریب و پراکنده و مستمندیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتبه حال و حیران زبد روزگاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنباشد ترا ضایع از کردکارت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر بی کسان را کنی دستیاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحقوق قدیمیِ ما خود رها کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه هستیم آخر ترا زینهاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو هرکس رسیدند از دولت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباسب و ستور و مهد و عماری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر خسته یی را زشوق رکابت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکند فی المثل آرزوی سواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتوقّع چنانست کز من دعا گوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحکم کرم این گنه در گذاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر اهل نیشابور فرخنده بادا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقدوم تو در دولت کامکاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 34
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان کرم پادشاه شریعت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان همچون کرمی است که پادشاه شریعت است و تو بر سرزمین دین در شهر یاری قرار داری."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که هستت بر اقلیم دین شهر یاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو آن سرفرازی که فیض بنانت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو آن کسی هستی که با نعمت‌های خود، همچون باران بهاری، برکات و فیض‌ها را می‌پاشی و زندگی را سرشار از خوشی و رونق می‌کنی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بریزد همی آب ابر بهاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تو آنی که روی قدرت توانی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو همان کسی هستی که قدرت تو مانند قدرت شیر بر آسمان است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که پیشانی شیر گردون بخاری",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تو آن فیض بخشی که در روز جودت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو بخشنده‌ای که در روز بخشش، مانند دریایی به وسعت خاکساری و فروتنی، فیض و نعمت می‌پاشی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چو کان گشت دریا زبس خاکساری",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "فلک از سر صدق تو صبگاهی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان به خاطر صداقت تو هر صبح در عشق تو به تپش در می‌آید، زمانی که تو جانت را فدای عشق کنی."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کند در هوایت چو من جان سپاری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "مزاج صبازان سبب روح بخش است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: طبیعت خوش‌دل‌ها باعث آرامش روح انسان می‌شود و این ترکیب در خلقت آنها وجود دارد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که کردست با خلقت آمیزگاری",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "درختان لطف ترا میوه آبی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درختان برای تو میوه‌ای خوشمزه دارند و نیروی خشم تو همچون هیولاهایی در دریا عمل می‌کند و این خشم می‌تواند به آتش تبدیل شود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "نهنگان خشم ترا معده ناری",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "قضا کی شدی ضامن رزق مردم ؟",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو چطور مسئول تامین رزق مردم شدی؟ مگر نه اینکه تنها با کمک و یاری دیگران می‌توانی به این کار بپردازی؟"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "اگر نه کفت را گرفتی بیاری",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گشایش زجود تو می یابد ارنی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیت اشاره دارد به این که گشایش و رهایی از طریق خلوص و عبادت تو حاصل می‌شود، به طوری که در این حالت، مشکلات و راه‌های بسته به زندگی فرد باز می‌شود. در واقع، لطف و رحمت الهی باعث می‌شود تا فرد بتواند بر موانع و چالش‌ها غلبه کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "عروق امل را ببندد مجاری",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "بگاورسۀ مشک بر صفحۀ سیم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مشک بر روی صفحه نقره‌ای می‌نشیند و قلم تو هر لحظه چیزهای ریز و زیبایی را به تصویر می‌کشد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "کند کلک تو هر زمان خرده کاری",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "بقای ابد را به محشر همانا",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوام و پایداری ابدی به خاطر عشق توست که مانند میخی محکم در قلبم نشسته است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "بمسمار مهرت بود استواری",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "خور تیغ زن گرچه هرشب زبأست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید هر شب تیره و تار است، اما در این خاک هنوز باید برگزید و انتخاب کرد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "درین خاک توده گزیند تواری",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "ضمیر تو هر روز گیسو کشانش",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ضمیر تو هر روز با آرایش و زیبایی خود را به نمایش می‌گذارد و در دنیا خود را به دیگران معرفی می‌کند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "ببازار گیتی برآرد بخواری",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "وقار ترا کوه می خوانم انصاف",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من تو را به قدرت و استحکام کوه تشبیه می‌کنم، چون میزان صبر و بردباری تو از انصاف بیشتر است."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "ازین بیشتر چون بود بردباری",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "بسیلاب انعام تو شسته گردد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با بارش رحمت تو، دنیا از آلودگی پاک خواهد شد و خاموشی و فروتنی بر آن حاکم خواهد گردید."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "ز روی جهان وصمت خاکساری",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "قضا را بس است این قدر شغل کورا",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرنوشت، به قدر کافی برای این کار عجیب کافی است؛ این شغل، به نوعی پیش از این، در دیوان حکمت، مسئولیت داشته است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "بدیوان حکمت بود پیشکاری",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "کسی را که یک ذرّه در سایه گیری",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که تنها یک لحظه هم زیر سایه خورشید درخشان می‌رود، ارزش و مقام او را بالا می‌برد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "زخورشید تابان سرش برگذاری",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "سوی مهر اگر بنگرد تیز کینت",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به سوی عشق توجه کنی، کینه‌ات مانند سایه‌ای بر زمین می‌افتد و به تدریج کمرنگ می‌شود."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "چو سایه بخاک اندر افتد بزاری",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "تو سلطان سیّار کان وجودی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو پادشاه جهان هستی هستی، مانند خورشید که در مدار خود می‌چرخد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "چو خورشید ازین روی لندر مداری",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "بقدر و بزرگی علی رغم دشمن",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به اندازه و با عظمت علی، با وجود دشمنان، امروز هر کسی هزار بار شکرگزاری می‌کند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "بحمدالله امروز هریک هزاری",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "فلک رفعتا ! پیش صدر توام هیچ",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای فلک بلند، در حضور تو هیچ زبانی نمی‌تواند سخن بگوید، چرا که از شرم چنان عجز و ناتوانی دارم."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "زبان سخن نیست از شرمساری",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "درین چند روز از جفا آن کشیدم",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این چند روز از بی‌مهری و سختی‌هایی که متحمل شده‌ام، به قدری بوده که اگر بخواهم تمام آنها را بگویم، تو هرگز نمی‌پذیری."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "که گر برشمارم تو باور نداری",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "چه از خاصۀ خود، چه از خویش و پیوند",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به عکس‌العمل‌ها و احساسات خود چه در ارتباط با دیگران و خانواده و چه به خاطر احساس شرم یا اندوه اشاره می‌کند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "چه از شرمساری ، چه از سوگواری",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "همانا که اندر ازل کار ما را",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ابتدا مشخص شده بود که سرنوشت ما در ناآرامی رقم خورده است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "قرار افتادست بر بی قراری",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "کسی را که تیره شود آب دولت",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که به خاطر مشکلات اقتصادی و تنگدستی دچار سختی می‌شود، در حقیقت از زندگی شیرین و سرشار از vitality خود دور شده است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "زآب حیاتش بود ناگواری",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "سزاوار آنی و در خورد اینم",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شایسته و مناسب حال ما این است که بر ما رحمت و لطفی نازل کنی و بر ضعف و ناتوانی‌مان رحم کنی."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "که بر ما و بر عجز ما رحمت آری",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "از آن می نمائیم بر جرم اقدام",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به خاطر گناهی که مرتکب شده‌ایم، اقدام به اصلاح و پشیمانی می‌کنیم، زیرا او که بخشنده و رحمان است، خواهان عفو ماست."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "که عفوت زما می کند خواستاری",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "غریب و پراکنده و مستمندیم",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما بی‌کسی و دور از هم هستیم، در شرایطی سخت و گیج و سرگردان به سر می‌بریم، از درد و رنج زمانه رنج می‌کشیم."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "تبه حال و حیران زبد روزگاری",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "نباشد ترا ضایع از کردکارت",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در کارهای خود از روی نادانی به کسانی که یاری نمی‌کنند، کمک کنی، نباید دلسرد یا ناامید شوی."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "اگر بی کسان را کنی دستیاری",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "حقوق قدیمیِ ما خود رها کن",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حق و حقوق قدیمی‌مان را کنار بگذار، چون ما در نهایت تو را به خوبی خواهیم نگه داشت."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "نه هستیم آخر ترا زینهاری",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "چو هرکس رسیدند از دولت تو",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس به ظواهر زندگی و امکانات زندگی تو دسترسی پیدا کرد، در واقع به نعمت‌های تو و شرایط آسایش و راحتی آن نائل شده است."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "باسب و ستور و مهد و عماری",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "اگر خسته یی را زشوق رکابت",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی خسته باشد و به خاطر عشق به سوارکاری، انگیزه ای در او ایجاد شود، انگار که آرزوی سواری او را به جلو می راند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "کند فی المثل آرزوی سواری",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "توقّع چنانست کز من دعا گوی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انتظار می‌رود که به خاطر بزرگواری‌ات، از گناهان من بگذری و دعای من را بپذیری."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "بحکم کرم این گنه در گذاری",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "بر اهل نیشابور فرخنده بادا",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای مردم نیشابور، آمدن تو در زمان خوشبختی و موفقیت، مایه شادی و خوشحالی است."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "قدوم تو در دولت کامکاری",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    }
+  ]
+}

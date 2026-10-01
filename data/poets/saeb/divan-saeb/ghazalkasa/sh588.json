@@ -1,0 +1,180 @@
+{
+  "Id": 52785,
+  "CatId": 1852,
+  "Title": "غزل شمارهٔ ۵۸۸",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۸۸",
+  "FullUrl": "/saeb/divan-saeb/ghazalkasa/sh588",
+  "RhymeLetters": "سمارا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این غزل درباره درد و رنج عشق و وابستگی به آن است. شاعر به توصیف حالتی می‌پردازد که در آن عشق او را از دیگران جدا کرده و به نوعی در قفس احساساتش گرفتار شده است. او به احساس خفگی و خاموشی در برابر عشق اشاره می‌کند و می‌گوید که اگرچه در وضعیت نامناسبی به سر می‌برد، اما عشق و امیدش به زندگی همچنان در او زنده است. همچنین بر این نکته تاکید می‌کند که آرزوهایش به خاطر عشق، او را به سمت شخص خاصی می‌کشاند و در عین حال، از پیچیدگی‌های عشق و اثرات آن بر حال و روزش سخن می‌گوید. شاعر از یأس و ناامیدی، و در عین حال از زیبایی و ذوقی که عشق در زندگی‌اش می‌آفریند، سخن می‌گوید.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سمارا",
+      "PlainText": "نداد عشق گریبان به دست کس ما را\r\nگرفت این می پر زور چون عسس ما را\r\nاگر چه سگ به مرس می کشند صیادان\r\nکشیده است سگ نفس در مرس ما را\r\nتمام روز ازان همچو شمع خاموشیم\r\nکه خرج آه سحر می شود نفس ما را\r\nفغان که منزل دور و دراز وادی عشق\r\nنکرد دل تهی از ناله چون جرس ما را\r\nخراب حالی ما لشکری نمی خواهد\r\nبس است آمدن و رفتن نفس ما را\r\nترا که پای گلی هست می به ساغر کن\r\nکه زهد خشک کشیده است در قفس ما را\r\nبه گرد خاطر ما آرزو نمی گردید\r\nلب تو ریخت به دل رنگ صد هوس ما را\r\nاگر چه در قفس افتاده ایم از گلزار\r\nز گل نمی گسلد رشته نفس ما را\r\nشکسته بال و پرانیم جای آن دارد\r\nکه باغبان کند از چوب گل قفس ما را\r\nغریب گشت چنان فکرهای ما صایب\r\nکه نیست چشم به تحسین هیچ کس ما را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنداد عشق گریبان به دست کس ما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرفت این می پر زور، چون عسس ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه سگ به مرس می کشند صیادان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکشیده است سگ نفس در مرس ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتمام روز ازان همچو شمع، خاموشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خرج آه سحر می شود نفس ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفغان که منزل دور و دراز وادی عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنکرد دل تهی از ناله چون جرس ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخراب حالی ما لشکری نمی خواهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس است آمدن و رفتن نفس ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترا که پای گلی هست، می به ساغر کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه زهد خشک کشیده است در قفس ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گرد خاطر ما آرزو نمی گردید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلب تو ریخت به دل رنگ صد هوس ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه در قفس افتاده ایم از گلزار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز گل نمی گسلد رشته نفس ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکسته بال و پرانیم، جای آن دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه باغبان کند از چوب گل قفس ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغریب گشت چنان فکرهای ما صائب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نیست چشم به تحسین هیچ کس ما را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نداد عشق گریبان به دست کس ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق هیچ‌کس را در کنترل خودش نگرفت، اما این شراب قوی ما را به زنجیر کشید، مانند یک نگهبان که ما را در اختیار دارد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرفت این می پر زور، چون عسس ما را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اگر چه سگ به مرس می کشند صیادان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "\u00A0اگرچه صیادان سگ را با قلاده میکشند، اما نفسِ همچون سگ؛ ما را به بند کشیده است (بر گردن ما قلاده آویخته است)."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کشیده است سگ نفس در مرس ما را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تمام روز ازان همچو شمع، خاموشیم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما تمام روز مانند شمع ساکت و بی‌صدا هستیم، زیرا نفس ما برای آه کشیدن در صبح به پایان می‌رسد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که خرج آه سحر می شود نفس ما را",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "فغان که منزل دور و دراز وادی عشق",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آه که سفر به وادی عشق چقدر طولانی و دشوار است، دل ما که از ناله خالی است، مانند ناقوس، ما را به درد می‌آورد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نکرد دل تهی از ناله چون جرس ما را",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خراب حالی ما لشکری نمی خواهد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حال خراب ما نیازی به لشکر ندارد، همین که نفس ما بیاید و برود کافی است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بس است آمدن و رفتن نفس ما را",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ترا که پای گلی هست، می به ساغر کن",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو که مانند گل زیبا و لطیفی، باید مرا در ساغری پر از شراب قرار دهی، چون زهد و عبادت سخت و خشک، ما را در قفس و محدودیت نگه داشته است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که زهد خشک کشیده است در قفس ما را",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "به گرد خاطر ما آرزو نمی گردید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آرزوهای ما به گرد خاطرمان جمع نمی‌شود، لب‌های تو رنگی به دل ما می‌زنند که پر از هوس و خواسته است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "لب تو ریخت به دل رنگ صد هوس ما را",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "اگر چه در قفس افتاده ایم از گلزار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه در قفس و محدودیت هستیم، اما عشق و زیبایی که در دل داریم از ما جدا نمی‌شود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ز گل نمی گسلد رشته نفس ما را",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "شکسته بال و پرانیم، جای آن دارد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به شدت آسیب دیده و ناتوان شده‌ایم و این وضع ما جای آن دارد که باغبان برای ما از چوب، قفسی بسازد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "که باغبان کند از چوب گل قفس ما را",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "غریب گشت چنان فکرهای ما صائب",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فکرهای ما به قدری متفاوت و خاص شده‌اند که دیگر انتظار تحسین و تشویق از هیچ کسی را نداریم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "که نیست چشم به تحسین هیچ کس ما را",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ]
+}

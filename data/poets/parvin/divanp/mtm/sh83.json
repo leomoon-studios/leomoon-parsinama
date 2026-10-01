@@ -1,0 +1,330 @@
+{
+  "Id": 10867,
+  "CatId": 150,
+  "Title": "شمارهٔ  ۸۳ - سیه روی",
+  "FullTitle": "پروین اعتصامی » دیوان اشعار » مثنویات، تمثیلات و مقطعات » شمارهٔ  ۸۳ - سیه روی",
+  "FullUrl": "/parvin/divanp/mtm/sh83",
+  "RhymeLetters": "ربودی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، تعابیری از دنیای تیره و ظلمت مطبخ و وضعیت دل‌خراش و دردناک دو موجود، تابه و دیگ، به تصویر کشیده شده است. تابه به دیگ می‌گوید که چطور در این شرایط به تنهایی زجر کشیده و از درد و رنج خود بی‌خبر بوده است. او به سیاهی و بدبختی خود اشاره کرده و می‌گوید هیچ گاه از زخم‌ها و سختی‌ها رهایی نیافته و همیشه در رنج بوده است. \n\nدیگ نیز به تابه جواب می‌دهد که هر دو در آن شرایط، لایق ستم و بدبختی هستند و هر دو در یک مسیر حرکت می‌کنند. او می‌گوید که اگر فکر بهتری داشت، وضعیت بهتری نیز می‌داشت. در نهایت، فراموش‌نشدنی‌ترین لحظه‌ها را در اوج مصیبت و دشواری، در کنار یکدیگر می‌گذرانند و در نهایت به یکنواختی و همنوایی در رنج خود پی می‌برند. \n\nاین شعر نشان‌دهنده نگرش عمیق فلسفی به زندگی و ملالت انسان‌ها در دنیای ظالم و تاریک است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ربودی",
+      "PlainText": "بکنج مطبخ تاریک تابه گفت به دیگ\r\nکه از ملال نمردی چه خیره سر بودی\r\nز دوده پشت تو مانند قیر گشته سیاه\r\nز عیب خویش تو مسکین چه بیخبر بودی\r\nهمی به تیرگی خود فزودی از پستی\r\nسیاه روز و سیه کار و بد گهر بودی\r\nتمام عمر درین کارگاه زحمت و رنج\r\nنشسته بودی و بیمزد کارگر بودی\r\nگهی ز عجز جفای شرار میبردی\r\nگهی ز جهل  گرفتار شور و شر بودی\r\nدمی ز آتش و آبت  ستم رسید و بلا\r\nدمی ندیم دم و دود و خشک و تر بودی\r\nنه لحظه ای ز هجوم حوادث آسودی\r\nنه هیچ با خبر از شب نه از سحر بودی\r\nستیزه گر فلک ای تیره بخت با تو ستیز\r\nنمینمود تو خود گر ستیزه گر بودی\r\nزمانه سوخت ترا پاک و هیچ دم نزدی\r\nهمیشه خسته و پیوسته رنجبر بودی\r\nبه پیش چون تو سیه روی بد دلم که فکند\r\nچه بودی ار که مرا قدرت سفر بودی\r\nندید چشم تو رنگی دگر به جز سیهی\r\nرواست گر که بگوییم بی بصر بودی\r\nدرین بساط سیه گر نمیگشودی رخت\r\nچو ما سفید و نکو رای و نامور بودی\r\nجواب داد که ما هر دو در خور ستمیم\r\nتو نیز همچو من ایدوست بیهنر بودی\r\nجفای آتش و هیزم نه بهر من تنهاست\r\nتو نیز لایق خاکستر و شرر بودی\r\nمن و تو سالک یک مقصدیم در معنی\r\nتو نیز رهرو این کهنه رهگذر بودی\r\nاگر ز فکر تو میزاد رای نیک تری\r\nبفکر روزی ازین روز نیکتر بودی\r\nمگر بیاد نداری که دوش وقت سحر\r\nمیان شعله جانسوز تا کمر بودی\r\nنمی نشستی اگر نزد ما درین مطبخ\r\nمبرهن است که در مطبخ دگر بودی\r\nنظر به عجب در آلودگان نیمکردی\r\nبدامن سیه خود گرت نظر بودی\r\nمن از سیاهی خود بس ملول میگشتم\r\nاگر تو تیره دل از من سپیدتر بودی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبکنج مطبخ تاریک، تابه گفت به دیگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از ملال نمردی، چه خیره سر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دوده، پشت تو مانند قیر گشته سیاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز عیب خویش، تو مسکین چه بیخبر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی به تیرگی خود فزودی از پستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیاه روز و سیه کار و بد گهر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتمام عمر، درین کارگاه زحمت و رنج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشسته بودی و بیمزد کارگر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگهی ز عجز، جفای شرار میبردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهی ز جهل ، گرفتار شور و شر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدمی ز آتش و آبت ، ستم رسید و بلا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدمی ندیم دم و دود و خشک و تر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه لحظه‌ای ز هجوم حوادث آسودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه هیچ با خبر از شب، نه از سحر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eستیزه‌گر فلک، ای تیره‌بخت، با تو ستیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنمینمود تو خود گر ستیزه‌گر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزمانه سوخت ترا پاک و هیچ دم نزدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه خسته و پیوسته رنجبر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پیش چون تو سیه روی بد دلم که فکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه بودی، ار که مرا قدرت سفر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندید چشم تو رنگی دگر به جز سیهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرواست گر که بگوئیم بی بصر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرین بساط سیه، گر نمیگشودی رخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو ما، سفید و نکو رای و نامور بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجواب داد که ما هر دو در خور ستمیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نیز همچو من، ایدوست، بیهنر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجفای آتش و هیزم، نه بهر من تنهاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نیز لایق خاکستر و شرر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن و تو سالک یک مقصدیم در معنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نیز رهرو این کهنه رهگذر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر ز فکر تو میزاد، رای نیک‌تری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبفکر روزی ازین روز نیکتر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر بیاد نداری که دوش، وقت سحر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیان شعلهٔ جانسوز، تا کمر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمی‌نشستی اگر نزد ما درین مطبخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمبرهن است که در مطبخ دگر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظر به عجب، در آلودگان نیمکردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدامن سیه خود، گرت نظر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن از سیاهی خود، بس ملول میگشتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر تو تیره‌دل، از من سپیدتر بودی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 20
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بکنج مطبخ تاریک، تابه گفت به دیگ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در گوشه‌ی آشپزخانه‌ی تاریک، تابه به دیگ گفت که تو از دل‌زدگی نمرده‌ای، چقدر نادان و بی‌خود بودی!"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که از ملال نمردی، چه خیره سر بودی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز دوده، پشت تو مانند قیر گشته سیاه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پشت تو به خاطر گناهانی که مرتکب شده‌ای، مثل قیر سیاه شده است. تو که نمی‌دانی چه اشتباهاتی کرده‌ای، چقدر بی‌خبر هستی از عیوب خود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز عیب خویش، تو مسکین چه بیخبر بودی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "همی به تیرگی خود فزودی از پستی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو به واسطه تاریکی خود، هر روز بیشتر درگیر مشکلات و روزهای سیاه می‌شوی و نتیجه‌ی بدی از این وضعیت به‌دست می‌آوری."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سیاه روز و سیه کار و بد گهر بودی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تمام عمر، درین کارگاه زحمت و رنج",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام عمر در این محیط سخت و پرمشقت مشغول کار بوده‌ای و هیچ پاداشی دریافت نکرده‌ای."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نشسته بودی و بیمزد کارگر بودی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گهی ز عجز، جفای شرار میبردی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی از روی ناتوانی، به دیگران ظلم می‌کردی و گاهی به خاطر نادانی، در هیجان و شور و شوق گرفتار می‌شدی."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گهی ز جهل ، گرفتار شور و شر بودی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دمی ز آتش و آبت ، ستم رسید و بلا",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در یک لحظه از آتش و آب تو، ظلم و مصیبت به ما رسید. لحظه‌ای نداشتیم و در نهایت، از دود و خشکی و رطوبت هم خبری نبود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "دمی ندیم دم و دود و خشک و تر بودی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "نه لحظه‌ای ز هجوم حوادث آسودی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه در هیچ لحظه‌ای از حمله و فشار حوادث آرامش داشتی و نه از شب و نه از صبح اطلاعی داشتی."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "نه هیچ با خبر از شب، نه از سحر بودی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ستیزه‌گر فلک، ای تیره‌بخت، با تو ستیز",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای انسان بدشانس، اگر آسمان با تو دشمنی نمی‌کرد، این به این خاطر بود که خودت درگیر جنگ و ستیز نبودی."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "نمینمود تو خود گر ستیزه‌گر بودی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "زمانه سوخت ترا پاک و هیچ دم نزدی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانه به تو آسیب رسانده، اما تو هرگز اعتراضی نکردی. تو همیشه خسته و در تلاش بودی و به سختی زندگی را ادامه می‌دادی."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "همیشه خسته و پیوسته رنجبر بودی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "به پیش چون تو سیه روی بد دلم که فکند",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مقابل تو که چهره‌ای تاریک و غم‌انگیز داری، دل من به چه حالتی درآمده است. اگر قدرت سفر و دوری از تو را داشتم، وضعیت من چه می‌شد؟"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "چه بودی، ار که مرا قدرت سفر بودی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "ندید چشم تو رنگی دگر به جز سیهی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم تو هیچ رنگی جز سیاهی را نمی‌تواند ببیند، بنابراین اگر بگوییم که تو نابینا بوده‌ای، چندان هم نادرست نیست."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "رواست گر که بگوئیم بی بصر بودی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "درین بساط سیه، گر نمیگشودی رخت",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در این دنیا تیره و تار، مثل ما لباس خود را بر نمی‌کَند، تو نیز می‌توانستی با نیک سیرتی و نام نیک، درخشنده و مشهور باشی."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "چو ما، سفید و نکو رای و نامور بودی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "جواب داد که ما هر دو در خور ستمیم",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او پاسخ داد که ما هر دو شایسته ظلم هستیم و تو هم مانند من، بی‌هنر و ناتوان بودی."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "تو نیز همچو من، ایدوست، بیهنر بودی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "جفای آتش و هیزم، نه بهر من تنهاست",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آتش و هیزم فقط به من آسیب نمی‌زنند، تو هم شایسته‌ی خاکستر و شعله می‌باشی."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "تو نیز لایق خاکستر و شرر بودی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "من و تو سالک یک مقصدیم در معنی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من و تو در یک مسیر معنوی حرکت می‌کنیم و تو نیز در گذشته‌ی خود، راهی مانند من را طی کرده‌ای."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "تو نیز رهرو این کهنه رهگذر بودی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "اگر ز فکر تو میزاد، رای نیک‌تری",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از فکر تو به وجود آمده، باید می‌داشتیم که فکر بهتری از این روزهای خوب می‌توانست داشته باشد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "بفکر روزی ازین روز نیکتر بودی",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "مگر بیاد نداری که دوش، وقت سحر",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا یادت هست که دیشب در اوایل صبح، وقتی در آتش شوق و عشق بودند، تا کمر در آن فرو رفته بودی؟"
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "میان شعلهٔ جانسوز، تا کمر بودی",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "نمی‌نشستی اگر نزد ما درین مطبخ",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در این آشپزخانه نشسته‌ای، پس معلوم است که در آشپزخانه دیگری نبوده‌ای."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "مبرهن است که در مطبخ دگر بودی",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "نظر به عجب، در آلودگان نیمکردی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به زیبایی و شگفتی نگاه کردی، اما به کسانی که در گناه غوطه‌ورند، ننگریستی؛ اگر نگاه می‌کردی به دامن سیاه خودت، چه می‌دیدی؟"
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "بدامن سیه خود، گرت نظر بودی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "من از سیاهی خود، بس ملول میگشتم",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو هم مثل من غمگین و دل‌تیره بودی، من از تیرگی و سیاهی خودم بسیار ناراحت می‌شدم."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "اگر تو تیره‌دل، از من سپیدتر بودی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    }
+  ]
+}

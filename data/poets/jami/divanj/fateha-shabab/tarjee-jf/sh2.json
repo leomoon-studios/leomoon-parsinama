@@ -1,0 +1,1838 @@
+{
+  "Id": 79617,
+  "CatId": 2131,
+  "Title": "شمارهٔ ۲ - کرده در اینجا بیان معرفت صوفیان",
+  "FullTitle": "جامی » دیوان اشعار » فاتحة الشباب » ترجیعات » شمارهٔ ۲ - کرده در اینجا بیان معرفت صوفیان",
+  "FullUrl": "/jami/divanj/fateha-shabab/tarjee-jf/sh2",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به تمایل و عشق عارف به معشوق الهی اشاره دارد. شاعر در وصف حال مستی و شوق از عشق صحبت می‌کند و تأکید می‌کند که معشوق، ساقی باده عشق است که جان عاشقان را شاداب می‌کند. او به زیبایی معشوق اشاره کرده و می‌گوید که در وجود او هیچ کاستی نیست و همه چیز در او برابر و یکسان است. شاعر همچنین به پیوند عشق و جنون اشاره کرده و از تظاهر و زهد بی‌معنا انتقاد می‌کند. او در نهایت بر این باور است که تنها در عشق حقیقی می‌توان به حقیقت رسید و از بندهای دنیا رهایی یافت. \n\nدر کل، شعر به عمیق‌ترین احساسات عاشقانه و جستجوی اتحاد با معشوق می‌پردازد، با نگاهی به الهیات و فلسفه عشق.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "صبحدم باده شبانه زدیم\r\nساغر عیش جاودانه زدیم\r\nگرچه خم گشت قد ما چو کمان\r\nتیر اقبال بر نشانه زدیم\r\nجانب ما زمانه کج نگریست\r\nخاک در دیده زمانه زدیم\r\nکشتی عقل و وهم بشکستیم\r\nغوطه در بحر بیکرانه زدیم\r\nمست و بیخود ز کنج کاشانه\r\nنقب سوی شرابخانه زدیم\r\nوز حریم شرابخانه علم\r\nبر سر کوی آن یگانه زدیم\r\nبهر یک جرعه می ز ساغر او\r\nسر خدمت بر آستانه زدیم\r\nکرده عزم بهانه ز آتش شوق\r\nشعله در خرمن بهانه زدیم\r\nساغر از دور عارضش کردیم\r\nباده خوردیم و این ترانه زدیم\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nهمه عالم خیال می بینم\r\nپرتو آن جمال می بینم\r\nدفتر مجمل و مفصل کون\r\nنسخه آن کمال می بینم\r\nهر کجا دانه ای ست یا دامی\r\nنقش آن خط و خال می بینم\r\nعارفان را ز لعل نوشینش\r\nغرق آب زلال می بینم\r\nمنکران را ز جعد مشکینش\r\nدر کمند وبال می بینم\r\nقوت جانم مباد جز می عشق\r\nتوبه زین می محال می بینم\r\nمی به فتوی شرع گشت حرام\r\nوز کف او حلال می بینم\r\nگرچه پیش لب شکربارش\r\nطوطی نطق لال می بینم\r\nسخنی غیر ازین نمی گویم\r\nتا سخن را مجال می بینم\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nحبذا اوستاد چابک دست\r\nکه پس پرده خیال نشست\r\nرشته جنبش و سکون همه\r\nدر خم حلقه ارادت بست\r\nآن یکی در سکون جاویدان\r\nوان دگر در تحرک پیوست\r\nکنه ذاتش نگنجد اندر عقل\r\nتیر حکمش نباید اندر شست\r\nهرچه ما دوختیم او بدرید\r\nوانچه ما ساختیم او بشکست\r\nغیر او هرچه در جهان بینی\r\nنیست دان گرچه می نماید هست\r\nکی برد ره درون پرده کسی\r\nکز تماشای نقش پرده نرست\r\nپرده از روی کار او بردار\r\nبیش ازین نقش پرده را مپرست\r\nدرکش از جام حسن او می عشق\r\nپیش رویش بنال عاشق و مست\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nشاهد عشق از نشیمن بود\r\nزد سراپرده در سرای وجود\r\nسرمه در چشم خوابناک کشید\r\nحلقه از جعد تابدار گشود\r\nبر مه از عقد زلف سلسله بست\r\nبر گل از خط سبز غالیه سود\r\nطره را صید بیدلان آموخت\r\nغمزه را قتل عاشقان فرمود\r\nساخت آن را به پرسشی خرسند\r\nکرد این را به بوسه ای خوشنود\r\nهر که را هرچه بود دربایست\r\nنه ازان کاست ذره ای نه فزود\r\nساقی بزم گشت و می درداد\r\nهوشم از سر به جرعه ای بربود\r\nآنچنان بیخودم ازان جرعه\r\nکه ندارم مجال گفت و شنود\r\nاز زبان منش به نغمه چنگ\r\nگو بگو مطرب این خجسته سرود\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nنقطه را از تصرف اوهام\r\nطول گشت آشکار و خط شد نام\r\nحرکت کرد خط به جانب عرض\r\nیافت از وی وجود سطح نظام\r\nسطح بر سمت سمک جنبش یافت\r\nامتدادات جسم گشت تمام\r\nجسم هم از تنوع اشکال\r\nوصف کثرت گرفت و شد اجسام\r\nاعتبارات وهم را بگذار\r\nتا چو اول نمایدت انجام\r\nنقطه بین در تقلبات شیون\r\nچند بر خط و سطح و جسم آرام\r\nساقیا در ده آن شراب کهن\r\nکه حباب ویست ساغر و جام\r\nآفتاب رخت دریغ بود\r\nدر حجاب ظلام و ظل غمام\r\nپرده بردار و بیخودم گردان\r\nتا ببیند عیان چه خاص و چه عام\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nآن کجا شد که عرصه امکان\r\nبود در ظلمت عدم پنهان\r\nهمه گلهای باغ او یکرنگ\r\nهمه اوراق شاخ او یکسان\r\nسبزه او موافق سنبل\r\nلاله او معانق ریحان\r\nنه در او اعتدال باد بهار\r\nنه در او انحراف طبع خزان\r\nناگهان آفتاب صبح وجود\r\nگشت از مشرق ازل تابان\r\nهر کس از بود خویش یافت خبر\r\nهر کس از نام خویش یافت نشان\r\nآن یکی در کمال این واله\r\nوین دگر در جمال آن حیران\r\nمی پرستان بزم وحدت را\r\nروی جان در نظاره جانان\r\nهمه را خوش بدید لطیفه ضمیر\r\nهمه را تر بدین ترانه زبان\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nای به سر برده عمر در تک و دو\r\nیار نزدیک توست دور مرو\r\nهر که تخم دویی و دوری کاشت\r\nبر همان برگرفت وقت درو\r\nخوشه گندم از محالات است\r\nچون فشاندی به خاک دانه جو\r\nگر مقامات عشق نیست تو را\r\nبه مقالات عاشقان بگرو\r\nجامه زهد کن به جام بدل\r\nخرقه زرق نه به باده گرو\r\nآن می ناب جو که جرعه اوست\r\nجام جمشید و کاس کیخسرو\r\nور فتد بر تو پرتو ساقی\r\nخویش را محو کن در آن پرتو\r\nپیش رویش بیفت سجده کنان\r\nکان کماندار ابرویت مه نو\r\nرخت بست از میان حجاب دویی\r\nخود بگو این حدیث و خود بشنو\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nوه که بازم گلی ز نو بشکفت\r\nیار چون غنچه روی خود بنهفت\r\nپرده زلف پیش روی کشید\r\nحال من همچو موی خود آشفت\r\nگر کنم گریه نیست جای عتاب\r\nور کنم ناله نیست جای شگفت\r\nسیل اشکم چنین که زد ره خواب\r\nبعد ازین چشم من نخواهد خفت\r\nبرو ای اشک و عذرخواهی را\r\nغرقه خون به خاک پاش بیفت\r\nمستی جام و شوق دیدارش\r\nاز دل من غبار هستی رفت\r\nبه دو کونش خریده ام نتوان\r\nدامن او ز دست دادن مفت\r\nمی روم مست بر سر کویش\r\nدلی از صبر طاق و با غم جفت\r\nگر کشد پوست غیرتش ز سرم\r\nپیش او پوست کرده خواهم گفت\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nفهم بس قاصر است و نفس جهول\r\nطبع بس سرکش است و عمر عجول\r\nآه ازین گفت و گوی اگر نشود\r\nسر مقصود ازان قرین به حصول\r\nبگذر از لاف عقل و فضل که هست\r\nعقل اینجا عقیله فضل فضول\r\nراه وحدت به پای عشق سپر\r\nکه بود علم ازین عمل معزول\r\nدر حریم فنا نشین و بشوی\r\nدل ز اندیشه خروج و دخول\r\nروشن آیینه ای به دست آور\r\nکه ز زنگ هوا بود مصقول\r\nواندر آن آینه به چشم شهود\r\nخالی از وهم اتحاد و حلول\r\nطلعت دوست بین و دم درکش\r\nشاد بنشین به بزمگاه وصول\r\nکشف این راز کن به نغمه شوق\r\nچون نهد جانب تو سمع قبول\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nجامی این زهد و خودنمایی چند\r\nزهد دام است و خود نمایی بند\r\nدام بگسل به دوست گیر آرام\r\nبند بشکن به عشق جو پیوند\r\nره چنان رو که برنباید گشت\r\nدل بر آن نه که برنباید کند\r\nصید آن شو که می کشد زلفش\r\nگردن سرکشان به خم کمند\r\nجان فشان بهر آن که می بخشد\r\nکشته را جان ز لعل شکرخند\r\nهر بلایی کزو رسد بپذیر\r\nهر جفایی که او کند بپسند\r\nهمه ذرات مست باده اوست\r\nتو به بویی چه گشته ای خرسند\r\nچند بیهوده بادپیمایی\r\nباده پیما به روی او یک چند\r\nچون شوی مست باده وصلش\r\nبسرا این نوا به بانگ بلند\r\nکه می عشق را تویی ساقی\r\nکأسه شمس وجهک الباقی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبحدم باده شبانه زدیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساغر عیش جاودانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه خم گشت قد ما چو کمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیر اقبال بر نشانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانب ما زمانه کج نگریست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک در دیده زمانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشتی عقل و وهم بشکستیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغوطه در بحر بیکرانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست و بیخود ز کنج کاشانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقب سوی شرابخانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز حریم شرابخانه علم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر کوی آن یگانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر یک جرعه می ز ساغر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر خدمت بر آستانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرده عزم بهانه ز آتش شوق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشعله در خرمن بهانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساغر از دور عارضش کردیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباده خوردیم و این ترانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn10\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه عالم خیال می بینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرتو آن جمال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدفتر مجمل و مفصل کون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنسخه آن کمال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کجا دانه‌ای ست یا دامی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقش آن خط و خال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعارفان را ز لعل نوشینش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغرق آب زلال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنکران را ز جعد مشکینش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کمند وبال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقوت جانم مباد جز می عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتوبه زین می محال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی به فتوی شرع گشت حرام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز کف او حلال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه پیش لب شکربارش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطوطی نطق لال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخنی غیر ازین نمی گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا سخن را مجال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn20\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحبذا اوستاد چابک دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه پس پرده خیال نشست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرشته جنبش و سکون همه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خم حلقه ارادت بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن یکی در سکون جاویدان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان دگر در تحرک پیوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنه ذاتش نگنجد اندر عقل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیر حکمش نباید اندر شست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچه ما دوختیم او بدرید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانچه ما ساختیم او بشکست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر او هرچه در جهان بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست دان گرچه می‌نماید هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی برد ره درون پرده کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز تماشای نقش پرده نرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده از روی کار او بردار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیش ازین نقش پرده را مپرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرکش از جام حسن او می عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش رویش بنال عاشق و مست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn30\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهد عشق از نشیمن بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزد سراپرده در سرای وجود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرمه در چشم خوابناک کشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحلقه از جعد تابدار گشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر مه از عقد زلف سلسله بست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر گل از خط سبز غالیه سود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطره را صید بیدلان آموخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغمزه را قتل عاشقان فرمود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساخت آن را به پرسشی خرسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد این را به بوسه ای خوشنود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که را هرچه بود دربایست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه ازان کاست ذره ای نه فزود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی بزم گشت و می درداد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهوشم از سر به جرعه ای بربود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچنان بیخودم ازان جرعه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ندارم مجال گفت و شنود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز زبان منش به نغمه چنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگو بگو مطرب این خجسته سرود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn40\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنقطه را از تصرف اوهام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطول گشت آشکار و خط شد نام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحرکت کرد خط به جانب عرض\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیافت از وی وجود سطح نظام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسطح بر سمت سمک جنبش یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامتدادات جسم گشت تمام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجسم هم از تنوع اشکال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوصف کثرت گرفت و شد اجسام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاعتبارات وهم را بگذار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چو اول نمایدت انجام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنقطه بین در تقلبات شئون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند بر خط و سطح و جسم آرام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقیا در ده آن شراب کهن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه حباب ویست ساغر و جام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفتاب رخت دریغ بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حجاب ظلام و ظل غمام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده بردار و بیخودم گردان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ببیند عیان چه خاص و چه عام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn50\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کجا شد که عرصه امکان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود در ظلمت عدم پنهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه گلهای باغ او یکرنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه اوراق شاخ او یکسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسبزه او موافق سنبل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاله او معانق ریحان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه در او اعتدال باد بهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه در او انحراف طبع خزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناگهان آفتاب صبح وجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشت از مشرق ازل تابان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس از بود خویش یافت خبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کس از نام خویش یافت نشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن یکی در کمال این واله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین دگر در جمال آن حیران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی پرستان بزم وحدت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروی جان در نظاره جانان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه را خوش بدید لطیفه ضمیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه را تر بدین ترانه زبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn60\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn61\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای به سر برده عمر در تک و دو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار نزدیک توست دور مرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn62\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که تخم دویی و دوری کاشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر همان برگرفت وقت درو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn63\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوشه گندم از محالات است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون فشاندی به خاک دانه جو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn64\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر مقامات عشق نیست تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه مقالات عاشقان بگرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn65\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجامه زهد کن به جام بدل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرقه زرق نه به باده گرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn66\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن می ناب جو که جرعه اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجام جمشید و کاس کیخسرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn67\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور فتد بر تو پرتو ساقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویش را محو کن در آن پرتو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn68\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش رویش بیفت سجده کنان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکان کماندار ابرویت مه نو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn69\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخت بست از میان حجاب دویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود بگو این حدیث و خود بشنو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn70\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn71\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوه که بازم گلی ز نو بشکفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار چون غنچه روی خود بنهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn72\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده زلف پیش روی کشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحال من همچو موی خود آشفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn73\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کنم گریه نیست جای عتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور کنم ناله نیست جای شگفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn74\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیل اشکم چنین که زد ره خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبعد ازین چشم من نخواهد خفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn75\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرو ای اشک و عذرخواهی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغرقه خون به خاک پاش بیفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn76\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمستی جام و شوق دیدارش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دل من غبار هستی رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn77\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دو کونش خریده ام نتوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدامن او ز دست دادن مفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn78\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی روم مست بر سر کویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلی از صبر طاق و با غم جفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn79\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کشد پوست غیرتش ز سرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش او پوست کرده خواهم گفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn80\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn81\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفهم بس قاصر است و نفس جهول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطبع بس سرکش است و عمر عجول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn82\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه ازین گفت و گوی اگر نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر مقصود ازان قرین به حصول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn83\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگذر از لاف عقل و فضل که هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل اینجا عقیله فضل فضول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn84\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراه وحدت به پای عشق سپر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بود علم ازین عمل معزول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn85\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حریم فنا نشین و بشوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل ز اندیشه خروج و دخول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn86\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروشن آیینه ای به دست آور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ز زنگ هوا بود مصقول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn87\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eواندر آن آینه به چشم شهود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخالی از وهم اتحاد و حلول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn88\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطلعت دوست بین و دم درکش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاد بنشین به بزمگاه وصول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn89\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشف این راز کن به نغمه شوق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نهد جانب تو سمع قبول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn90\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn91\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجامی این زهد و خودنمایی چند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهد دام است و خود نمایی بند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn92\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدام بگسل به دوست گیر آرام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبند بشکن به عشق جو پیوند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn93\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eره چنان رو که برنباید گشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل بر آن نه که برنباید کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn94\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصید آن شو که می کشد زلفش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردن سرکشان به خم کمند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn95\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان فشان بهر آن که می بخشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکشته را جان ز لعل شکرخند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn96\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر بلایی کزو رسد بپذیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر جفایی که او کند بپسند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn97\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه ذرات مست باده اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو به بویی چه گشته ای خرسند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn98\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچند بیهوده بادپیمایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباده پیما به روی او یک چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn99\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شوی مست باده وصلش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسرا این نوا به بانگ بلند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn100\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکأسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "TarjeeBand",
+      "CoupletsCount": 100
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "انهزدیم",
+      "PlainText": "صبحدم باده شبانه زدیم\r\nساغر عیش جاودانه زدیم\r\nگرچه خم گشت قد ما چو کمان\r\nتیر اقبال بر نشانه زدیم\r\nجانب ما زمانه کج نگریست\r\nخاک در دیده زمانه زدیم\r\nکشتی عقل و وهم بشکستیم\r\nغوطه در بحر بیکرانه زدیم\r\nمست و بیخود ز کنج کاشانه\r\nنقب سوی شرابخانه زدیم\r\nوز حریم شرابخانه علم\r\nبر سر کوی آن یگانه زدیم\r\nبهر یک جرعه می ز ساغر او\r\nسر خدمت بر آستانه زدیم\r\nکرده عزم بهانه ز آتش شوق\r\nشعله در خرمن بهانه زدیم\r\nساغر از دور عارضش کردیم\r\nباده خوردیم و این ترانه زدیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبحدم باده شبانه زدیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساغر عیش جاودانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه خم گشت قد ما چو کمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیر اقبال بر نشانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانب ما زمانه کج نگریست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک در دیده زمانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشتی عقل و وهم بشکستیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغوطه در بحر بیکرانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست و بیخود ز کنج کاشانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقب سوی شرابخانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز حریم شرابخانه علم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر کوی آن یگانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر یک جرعه می ز ساغر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر خدمت بر آستانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرده عزم بهانه ز آتش شوق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشعله در خرمن بهانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساغر از دور عارضش کردیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباده خوردیم و این ترانه زدیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 9
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "المیبینم",
+      "PlainText": "همه عالم خیال می بینم\r\nپرتو آن جمال می بینم\r\nدفتر مجمل و مفصل کون\r\nنسخه آن کمال می بینم\r\nهر کجا دانه ای ست یا دامی\r\nنقش آن خط و خال می بینم\r\nعارفان را ز لعل نوشینش\r\nغرق آب زلال می بینم\r\nمنکران را ز جعد مشکینش\r\nدر کمند وبال می بینم\r\nقوت جانم مباد جز می عشق\r\nتوبه زین می محال می بینم\r\nمی به فتوی شرع گشت حرام\r\nوز کف او حلال می بینم\r\nگرچه پیش لب شکربارش\r\nطوطی نطق لال می بینم\r\nسخنی غیر ازین نمی گویم\r\nتا سخن را مجال می بینم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه عالم خیال می بینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرتو آن جمال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدفتر مجمل و مفصل کون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنسخه آن کمال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کجا دانه‌ای ست یا دامی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقش آن خط و خال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعارفان را ز لعل نوشینش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغرق آب زلال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنکران را ز جعد مشکینش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کمند وبال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقوت جانم مباد جز می عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتوبه زین می محال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی به فتوی شرع گشت حرام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز کف او حلال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه پیش لب شکربارش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطوطی نطق لال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخنی غیر ازین نمی گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا سخن را مجال می بینم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 9
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ست",
+      "PlainText": "حبذا اوستاد چابک دست\r\nکه پس پرده خیال نشست\r\nرشته جنبش و سکون همه\r\nدر خم حلقه ارادت بست\r\nآن یکی در سکون جاویدان\r\nوان دگر در تحرک پیوست\r\nکنه ذاتش نگنجد اندر عقل\r\nتیر حکمش نباید اندر شست\r\nهرچه ما دوختیم او بدرید\r\nوانچه ما ساختیم او بشکست\r\nغیر او هرچه در جهان بینی\r\nنیست دان گرچه می نماید هست\r\nکی برد ره درون پرده کسی\r\nکز تماشای نقش پرده نرست\r\nپرده از روی کار او بردار\r\nبیش ازین نقش پرده را مپرست\r\nدرکش از جام حسن او می عشق\r\nپیش رویش بنال عاشق و مست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحبذا اوستاد چابک دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه پس پرده خیال نشست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرشته جنبش و سکون همه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خم حلقه ارادت بست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن یکی در سکون جاویدان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان دگر در تحرک پیوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنه ذاتش نگنجد اندر عقل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیر حکمش نباید اندر شست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچه ما دوختیم او بدرید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانچه ما ساختیم او بشکست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر او هرچه در جهان بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست دان گرچه می‌نماید هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی برد ره درون پرده کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز تماشای نقش پرده نرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده از روی کار او بردار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیش ازین نقش پرده را مپرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرکش از جام حسن او می عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش رویش بنال عاشق و مست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 9
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ود",
+      "PlainText": "شاهد عشق از نشیمن بود\r\nزد سراپرده در سرای وجود\r\nسرمه در چشم خوابناک کشید\r\nحلقه از جعد تابدار گشود\r\nبر مه از عقد زلف سلسله بست\r\nبر گل از خط سبز غالیه سود\r\nطره را صید بیدلان آموخت\r\nغمزه را قتل عاشقان فرمود\r\nساخت آن را به پرسشی خرسند\r\nکرد این را به بوسه ای خوشنود\r\nهر که را هرچه بود دربایست\r\nنه ازان کاست ذره ای نه فزود\r\nساقی بزم گشت و می درداد\r\nهوشم از سر به جرعه ای بربود\r\nآنچنان بیخودم ازان جرعه\r\nکه ندارم مجال گفت و شنود\r\nاز زبان منش به نغمه چنگ\r\nگو بگو مطرب این خجسته سرود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهد عشق از نشیمن بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزد سراپرده در سرای وجود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرمه در چشم خوابناک کشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحلقه از جعد تابدار گشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر مه از عقد زلف سلسله بست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر گل از خط سبز غالیه سود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطره را صید بیدلان آموخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغمزه را قتل عاشقان فرمود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساخت آن را به پرسشی خرسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد این را به بوسه ای خوشنود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که را هرچه بود دربایست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه ازان کاست ذره ای نه فزود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی بزم گشت و می درداد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهوشم از سر به جرعه ای بربود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچنان بیخودم ازان جرعه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ندارم مجال گفت و شنود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز زبان منش به نغمه چنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگو بگو مطرب این خجسته سرود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 9
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ام",
+      "PlainText": "نقطه را از تصرف اوهام\r\nطول گشت آشکار و خط شد نام\r\nحرکت کرد خط به جانب عرض\r\nیافت از وی وجود سطح نظام\r\nسطح بر سمت سمک جنبش یافت\r\nامتدادات جسم گشت تمام\r\nجسم هم از تنوع اشکال\r\nوصف کثرت گرفت و شد اجسام\r\nاعتبارات وهم را بگذار\r\nتا چو اول نمایدت انجام\r\nنقطه بین در تقلبات شیون\r\nچند بر خط و سطح و جسم آرام\r\nساقیا در ده آن شراب کهن\r\nکه حباب ویست ساغر و جام\r\nآفتاب رخت دریغ بود\r\nدر حجاب ظلام و ظل غمام\r\nپرده بردار و بیخودم گردان\r\nتا ببیند عیان چه خاص و چه عام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنقطه را از تصرف اوهام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطول گشت آشکار و خط شد نام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحرکت کرد خط به جانب عرض\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیافت از وی وجود سطح نظام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسطح بر سمت سمک جنبش یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامتدادات جسم گشت تمام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجسم هم از تنوع اشکال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوصف کثرت گرفت و شد اجسام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاعتبارات وهم را بگذار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چو اول نمایدت انجام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنقطه بین در تقلبات شئون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند بر خط و سطح و جسم آرام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقیا در ده آن شراب کهن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه حباب ویست ساغر و جام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفتاب رخت دریغ بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حجاب ظلام و ظل غمام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده بردار و بیخودم گردان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ببیند عیان چه خاص و چه عام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 9
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "آن کجا شد که عرصه امکان\r\nبود در ظلمت عدم پنهان\r\nهمه گلهای باغ او یکرنگ\r\nهمه اوراق شاخ او یکسان\r\nسبزه او موافق سنبل\r\nلاله او معانق ریحان\r\nنه در او اعتدال باد بهار\r\nنه در او انحراف طبع خزان\r\nناگهان آفتاب صبح وجود\r\nگشت از مشرق ازل تابان\r\nهر کس از بود خویش یافت خبر\r\nهر کس از نام خویش یافت نشان\r\nآن یکی در کمال این واله\r\nوین دگر در جمال آن حیران\r\nمی پرستان بزم وحدت را\r\nروی جان در نظاره جانان\r\nهمه را خوش بدید لطیفه ضمیر\r\nهمه را تر بدین ترانه زبان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کجا شد که عرصه امکان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود در ظلمت عدم پنهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه گلهای باغ او یکرنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه اوراق شاخ او یکسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسبزه او موافق سنبل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاله او معانق ریحان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه در او اعتدال باد بهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه در او انحراف طبع خزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناگهان آفتاب صبح وجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشت از مشرق ازل تابان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس از بود خویش یافت خبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کس از نام خویش یافت نشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن یکی در کمال این واله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین دگر در جمال آن حیران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی پرستان بزم وحدت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروی جان در نظاره جانان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه را خوش بدید لطیفه ضمیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه را تر بدین ترانه زبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 9
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "و",
+      "PlainText": "ای به سر برده عمر در تک و دو\r\nیار نزدیک توست دور مرو\r\nهر که تخم دویی و دوری کاشت\r\nبر همان برگرفت وقت درو\r\nخوشه گندم از محالات است\r\nچون فشاندی به خاک دانه جو\r\nگر مقامات عشق نیست تو را\r\nبه مقالات عاشقان بگرو\r\nجامه زهد کن به جام بدل\r\nخرقه زرق نه به باده گرو\r\nآن می ناب جو که جرعه اوست\r\nجام جمشید و کاس کیخسرو\r\nور فتد بر تو پرتو ساقی\r\nخویش را محو کن در آن پرتو\r\nپیش رویش بیفت سجده کنان\r\nکان کماندار ابرویت مه نو\r\nرخت بست از میان حجاب دویی\r\nخود بگو این حدیث و خود بشنو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای به سر برده عمر در تک و دو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار نزدیک توست دور مرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که تخم دویی و دوری کاشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر همان برگرفت وقت درو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوشه گندم از محالات است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون فشاندی به خاک دانه جو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر مقامات عشق نیست تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه مقالات عاشقان بگرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجامه زهد کن به جام بدل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرقه زرق نه به باده گرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن می ناب جو که جرعه اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجام جمشید و کاس کیخسرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور فتد بر تو پرتو ساقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویش را محو کن در آن پرتو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش رویش بیفت سجده کنان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکان کماندار ابرویت مه نو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخت بست از میان حجاب دویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود بگو این حدیث و خود بشنو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 9
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "فت",
+      "PlainText": "وه که بازم گلی ز نو بشکفت\r\nیار چون غنچه روی خود بنهفت\r\nپرده زلف پیش روی کشید\r\nحال من همچو موی خود آشفت\r\nگر کنم گریه نیست جای عتاب\r\nور کنم ناله نیست جای شگفت\r\nسیل اشکم چنین که زد ره خواب\r\nبعد ازین چشم من نخواهد خفت\r\nبرو ای اشک و عذرخواهی را\r\nغرقه خون به خاک پاش بیفت\r\nمستی جام و شوق دیدارش\r\nاز دل من غبار هستی رفت\r\nبه دو کونش خریده ام نتوان\r\nدامن او ز دست دادن مفت\r\nمی روم مست بر سر کویش\r\nدلی از صبر طاق و با غم جفت\r\nگر کشد پوست غیرتش ز سرم\r\nپیش او پوست کرده خواهم گفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوه که بازم گلی ز نو بشکفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار چون غنچه روی خود بنهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده زلف پیش روی کشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحال من همچو موی خود آشفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کنم گریه نیست جای عتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور کنم ناله نیست جای شگفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیل اشکم چنین که زد ره خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبعد ازین چشم من نخواهد خفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرو ای اشک و عذرخواهی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغرقه خون به خاک پاش بیفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمستی جام و شوق دیدارش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دل من غبار هستی رفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دو کونش خریده ام نتوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدامن او ز دست دادن مفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی روم مست بر سر کویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلی از صبر طاق و با غم جفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کشد پوست غیرتش ز سرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش او پوست کرده خواهم گفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 9
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ول",
+      "PlainText": "فهم بس قاصر است و نفس جهول\r\nطبع بس سرکش است و عمر عجول\r\nآه ازین گفت و گوی اگر نشود\r\nسر مقصود ازان قرین به حصول\r\nبگذر از لاف عقل و فضل که هست\r\nعقل اینجا عقیله فضل فضول\r\nراه وحدت به پای عشق سپر\r\nکه بود علم ازین عمل معزول\r\nدر حریم فنا نشین و بشوی\r\nدل ز اندیشه خروج و دخول\r\nروشن آیینه ای به دست آور\r\nکه ز زنگ هوا بود مصقول\r\nواندر آن آینه به چشم شهود\r\nخالی از وهم اتحاد و حلول\r\nطلعت دوست بین و دم درکش\r\nشاد بنشین به بزمگاه وصول\r\nکشف این راز کن به نغمه شوق\r\nچون نهد جانب تو سمع قبول",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفهم بس قاصر است و نفس جهول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطبع بس سرکش است و عمر عجول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه ازین گفت و گوی اگر نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر مقصود ازان قرین به حصول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگذر از لاف عقل و فضل که هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل اینجا عقیله فضل فضول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراه وحدت به پای عشق سپر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بود علم ازین عمل معزول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حریم فنا نشین و بشوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل ز اندیشه خروج و دخول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروشن آیینه ای به دست آور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ز زنگ هوا بود مصقول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eواندر آن آینه به چشم شهود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخالی از وهم اتحاد و حلول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطلعت دوست بین و دم درکش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاد بنشین به بزمگاه وصول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشف این راز کن به نغمه شوق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نهد جانب تو سمع قبول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 9
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ند",
+      "PlainText": "جامی این زهد و خودنمایی چند\r\nزهد دام است و خود نمایی بند\r\nدام بگسل به دوست گیر آرام\r\nبند بشکن به عشق جو پیوند\r\nره چنان رو که برنباید گشت\r\nدل بر آن نه که برنباید کند\r\nصید آن شو که می کشد زلفش\r\nگردن سرکشان به خم کمند\r\nجان فشان بهر آن که می بخشد\r\nکشته را جان ز لعل شکرخند\r\nهر بلایی کزو رسد بپذیر\r\nهر جفایی که او کند بپسند\r\nهمه ذرات مست باده اوست\r\nتو به بویی چه گشته ای خرسند\r\nچند بیهوده بادپیمایی\r\nباده پیما به روی او یک چند\r\nچون شوی مست باده وصلش\r\nبسرا این نوا به بانگ بلند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجامی این زهد و خودنمایی چند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهد دام است و خود نمایی بند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدام بگسل به دوست گیر آرام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبند بشکن به عشق جو پیوند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eره چنان رو که برنباید گشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل بر آن نه که برنباید کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصید آن شو که می کشد زلفش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردن سرکشان به خم کمند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان فشان بهر آن که می بخشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکشته را جان ز لعل شکرخند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر بلایی کزو رسد بپذیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر جفایی که او کند بپسند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه ذرات مست باده اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو به بویی چه گشته ای خرسند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچند بیهوده بادپیمایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباده پیما به روی او یک چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شوی مست باده وصلش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسرا این نوا به بانگ بلند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 9
+    },
+    {
+      "Index": 12,
+      "Number": 13,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "اقی",
+      "PlainText": "که می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nکه می عشق را تویی ساقی\r\nکاسه شمس وجهک الباقی\r\nکه می عشق را تویی ساقی\r\nکأسه شمس وجهک الباقی",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn7\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn8\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn9\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکاسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn10\u0022\u003E\u003Cp\u003Eکه می عشق را تویی ساقی\u003C/p\u003E\r\n\u003Cp\u003Eکأسه شمس وجهک الباقی\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبحدم باده شبانه زدیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: صبح زود به یاد شب گذشته، پیاله‌ای نوشیدیم و لحظات خوشی را تجربه کردیم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ساغر عیش جاودانه زدیم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گرچه خم گشت قد ما چو کمان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: هرچند که قد ما به حالت خمیده‌ای درآمده و مانند کمان شده، اما موفقیت ما به هدف خود رسیده و نشانه‌گیری کرده‌ایم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تیر اقبال بر نشانه زدیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جانب ما زمانه کج نگریست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ما به خاطر نگاهی نادرست که دنیا به ما دارد، خود را به خاک و ذلت انداخته‌ایم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خاک در دیده زمانه زدیم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کشتی عقل و وهم بشکستیم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ما کشتی عقل و خیال را شکستیم و در دریای بی‌کران فرو رفتیم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "غوطه در بحر بیکرانه زدیم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مست و بیخود ز کنج کاشانه",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: بی‌خبر و شاداب از گوشه‌ی خانه، به سمت میخانه رفتیم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نقب سوی شرابخانه زدیم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "وز حریم شرابخانه علم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: از حریم شراب‌خانه، با دانش بر سر کوی آن یگانه رفتیم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بر سر کوی آن یگانه زدیم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بهر یک جرعه می ز ساغر او",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: برای نوشیدن یک جرعه از می، سر را به علامت احترام بر درگاه او گذاشتیم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "سر خدمت بر آستانه زدیم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "کرده عزم بهانه ز آتش شوق",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: با انگیزه‌ای قوی و اشتیاقی سوزان، تصمیم گرفتیم که بهانه‌ای ایجاد کنیم و به آتش حس شوق، در انبوهی از امید و آرزوها نفوذ کنیم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "شعله در خرمن بهانه زدیم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ساغر از دور عارضش کردیم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ما از دور زیبایی او را نگاه کردیم، میگساری کردیم و این شعر را سرودیم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "باده خوردیم و این ترانه زدیم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 19,
+      "Position": "CenteredVerse1",
+      "Text": "که می عشق را تویی ساقی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، تو عشق را بر دوشی داری و جمال تو باقی است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "CenteredVerse2",
+      "Text": "کاسه شمس وجهک الباقی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "همه عالم خیال می بینم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: من در تمام جهان، فقط تصویر زیبایی او را می‌بینم و همه چیز را با نور و جذبه آن چهره می‌شناسم."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "پرتو آن جمال می بینم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "دفتر مجمل و مفصل کون",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به این معنی اشاره شده است که کائنات و تمام جزئیات آن، همچون کتابی هستند که نشان‌دهنده کمال و زیبایی در آفرینش می‌باشند. این جهان، با تمام ویژگی‌ها و جزئیاتش، نمایانگر مرتبه‌ای از کمال است که قابل درک و مشاهده است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "نسخه آن کمال می بینم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "هر کجا دانه‌ای ست یا دامی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: هر جا که نشانه‌ای از خیر و برکت یا مشکلی می‌بینم، اثر آن را در چهره افراد می‌شناسم."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "نقش آن خط و خال می بینم",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "عارفان را ز لعل نوشینش",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: عارفان را می‌بینم که در آب زلال غرق شده‌اند و آن را به خاطر لعل شیرینش می‌نوشند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "غرق آب زلال می بینم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "منکران را ز جعد مشکینش",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: من افرادی را که به زیبایی موهای تیره او منکر هستند، در دام عذاب و دردسر می‌بینم."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "در کمند وبال می بینم",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "قوت جانم مباد جز می عشق",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: قوت و نیروی روح من فقط از عشق و محبت به دست می‌آید و هیچ‌گاه از عشق و حقیقت آن دست نخواهم کشید، زیرا این شراب عشق برای من غیرقابل ترک کردن است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "توبه زین می محال می بینم",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "می به فتوی شرع گشت حرام",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: شرع می‌گوید نوشیدن شراب حرام است، اما من از دست او می‌بینم که شراب حلال است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "وز کف او حلال می بینم",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "گرچه پیش لب شکربارش",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: هرچند که شیرینی گفتار او مرا مسحور کرده، اما مانند طوطی‌ای که نمی‌تواند سخن بگوید، من زبانم بند آمده است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "طوطی نطق لال می بینم",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "سخنی غیر ازین نمی گویم",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: من هیچ حرف دیگری نمی‌زنم تا وقتی که صحبت کردن برایم امکان‌پذیر است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "تا سخن را مجال می بینم",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 39,
+      "Position": "CenteredVerse1",
+      "Text": "که می عشق را تویی ساقی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، تو هستی که عشق را در دست داری و همچنان که شمس، نور و زیبایی را به نمایش می‌گذارد، تو نیز باعث باقی ماندن عشق و زیبایی در دل‌ها می‌شوی."
+    },
+    {
+      "VOrder": 40,
+      "Position": "CenteredVerse2",
+      "Text": "کاسه شمس وجهک الباقی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "حبذا اوستاد چابک دست",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: چه خوب است استاد ماهر و زبردستی که در پس پرده‌ی خیال نشسته و به ما آموزش می‌دهد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "که پس پرده خیال نشست",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "رشته جنبش و سکون همه",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: همه حرکات و سکون‌ها در بند عشق و ارادت به یکدیگر گره خورده‌اند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "در خم حلقه ارادت بست",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "آن یکی در سکون جاویدان",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: یکی در آرامش و ثبات همیشگی قرار دارد و دیگری در حال حرکت و تغییر مداوم است."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "وان دگر در تحرک پیوست",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "کنه ذاتش نگنجد اندر عقل",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ذات حقیقی او به قدری عمق و وسعت دارد که در فهم و عقل ما نمی‌گنجد، بنابراین نباید انتظار داشت که حکمت و فرمانش را در دست خودمان محدود کنیم."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "تیر حکمش نباید اندر شست",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "هرچه ما دوختیم او بدرید",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هرچقدر که ما تلاش کردیم و کارها را به هم پیوستیم، او همیشه آن‌ها را خراب کرد و شکاند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "وانچه ما ساختیم او بشکست",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "غیر او هرچه در جهان بینی",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که در جهان می‌بینی، به جز او، حقیقتاً وجود ندارد؛ حتی اگر به نظر بیاید که هست."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "نیست دان گرچه می‌نماید هست",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "کی برد ره درون پرده کسی",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نتوانسته به عمق وجود خود دست یابد، چرا که هر کسی فقط به تماشای ظواهر و نقش‌های بیرونی پرداخته است."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "کز تماشای نقش پرده نرست",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "پرده از روی کار او بردار",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: پرده را از روی کار او کنار بزن و بیش از این به نقش پرده توجه نکن."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "بیش ازین نقش پرده را مپرست",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "درکش از جام حسن او می عشق",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: از زیبایی و محبت معشوقش بنوش و در مقابل او، عشق و احساساتت را با صدای بلند ابراز کن."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "پیش رویش بنال عاشق و مست",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 59,
+      "Position": "CenteredVerse1",
+      "Text": "که می عشق را تویی ساقی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: تو ای ساقی، کسی که عشق را در دل‌ها می‌نوازی و با کاسه‌ات نور شمس را به بیکران تحقق می‌بخشی."
+    },
+    {
+      "VOrder": 60,
+      "Position": "CenteredVerse2",
+      "Text": "کاسه شمس وجهک الباقی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "شاهد عشق از نشیمن بود",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: شاهد عشق در خانه‌ای که قلب من است، به من نگاه کرد و با زیبایی‌اش محفل وجودم را روشن کرد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "زد سراپرده در سرای وجود",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "سرمه در چشم خوابناک کشید",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: سرمه را در چشمان خواب‌آلودش کشید و با گشودن حلقه‌های موی مواج، زیبایی‌اش را نمایان کرد."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "حلقه از جعد تابدار گشود",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "بر مه از عقد زلف سلسله بست",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در میان زلف‌های پیچیده و زیبای یار، نوری شبیه به ماه می‌تابد که بر گل‌ها تأثیر مثبتی گذاشته و رنگ و بویی خاص به آن‌ها می‌بخشد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "بر گل از خط سبز غالیه سود",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "طره را صید بیدلان آموخت",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: موهای بلند و زیبا را دل‌های بی‌دروغ شناخته‌اند و با زهر خندی که می‌زند، عشق را در دل عاشقان نابود می‌کند."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "غمزه را قتل عاشقان فرمود",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "ساخت آن را به پرسشی خرسند",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ساختن این موضوع باعث شد تا او با پرسش خوشحال شود و این را با یک بوسه نشان داد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "کرد این را به بوسه ای خوشنود",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "هر که را هرچه بود دربایست",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هر کسی هرچه داشته باشد، باید آن را حفظ کند و نه چیزی از آن کم شود و نه بر آن افزوده گردد."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "نه ازان کاست ذره ای نه فزود",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "ساقی بزم گشت و می درداد",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در میخانه، ساقی دوری می‌زند و شراب می‌ریزد؛ نوشیدنی به من می‌دهد و با یک جرعه از آگاهی‌ام می‌کاهد."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "هوشم از سر به جرعه ای بربود",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "آنچنان بیخودم ازان جرعه",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اینقدر از آن نوشیدنی مستم که حتی فرصتی برای صحبت کردن و گوش دادن ندارم."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "که ندارم مجال گفت و شنود",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "از زبان منش به نغمه چنگ",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: از دل خوشی و شادی‌ام با موسیقی چنگ بگو، ای مطرب، این سرود نیکو را بخوان."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "گو بگو مطرب این خجسته سرود",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 79,
+      "Position": "CenteredVerse1",
+      "Text": "که می عشق را تویی ساقی",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، تویی که عشق را به ما می‌نوشانی و زیبایی‌ات هنوز در قلب‌ها باقی است."
+    },
+    {
+      "VOrder": 80,
+      "Position": "CenteredVerse2",
+      "Text": "کاسه شمس وجهک الباقی",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "نقطه را از تصرف اوهام",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: نقطه به دلیل خیالات و تفکرات طولانی، از کنترل خارج شد و تبدیل به خطی واضح و شناخته شده گشت."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "طول گشت آشکار و خط شد نام",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "حرکت کرد خط به جانب عرض",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: حرکت آغاز شد و خطی به سمت عرض رفت و به این ترتیب وجود سطحی در نظام به وجود آمد."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "یافت از وی وجود سطح نظام",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "سطح بر سمت سمک جنبش یافت",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: سطح به سمت بالا حرکت کرد و تمام اجزای جسم گسترش یافتند."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "امتدادات جسم گشت تمام",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "جسم هم از تنوع اشکال",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: جسم به خاطر تنوع در اشکال و تعداد زیادش، به وجود آمد و به صورت اجسام مختلف درآمد."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "وصف کثرت گرفت و شد اجسام",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "اعتبارات وهم را بگذار",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به دقت به باورها و تصورات نادرست توجه نکن و اجازه نده که آن‌ها تو را فریب دهند، چون سرانجام حقیقت خود را نشان خواهد داد."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "تا چو اول نمایدت انجام",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "نقطه بین در تقلبات شئون",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: نقطه‌ای که در میانه‌ی تغییرات و تحولات مختلف وجود دارد، بر روی خطوط و سطوح و اجسام، نشانه‌ای از آرامش است."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "چند بر خط و سطح و جسم آرام",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "ساقیا در ده آن شراب کهن",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، در دهی از آن شراب کهنه بیاور که حباب‌هایش بر روی ساغر و جام نشسته است."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "که حباب ویست ساغر و جام",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "آفتاب رخت دریغ بود",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: خورشید زیبایی تو در پشت تاریکی و سایه ابرها پنهان شده و از دیدگاه دور مانده است."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "در حجاب ظلام و ظل غمام",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "پرده بردار و بیخودم گردان",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: پرده را کنار بزن و مرا به حال خود واگذار تا همه ببینند که در اینجا چه چیزهای مهم و چه چیزهای عادی وجود دارد."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "تا ببیند عیان چه خاص و چه عام",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 99,
+      "Position": "CenteredVerse1",
+      "Text": "که می عشق را تویی ساقی",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، تو می‌باشی که عشق را به ما می‌نوشانی و به لطف تو، شمس (خورشید) و زیبایی ابدی را درک می‌کنیم."
+    },
+    {
+      "VOrder": 100,
+      "Position": "CenteredVerse2",
+      "Text": "کاسه شمس وجهک الباقی",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "آن کجا شد که عرصه امکان",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: کجا رفت آن زمانی که همه چیز در تاریکی عدم پنهان بود و امکان وجود نداشت؟"
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "بود در ظلمت عدم پنهان",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "همه گلهای باغ او یکرنگ",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: تمام گل‌های باغ او به یک رنگ هستند و همه برگ‌های شاخه‌اش نیز یکسانند."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "همه اوراق شاخ او یکسان",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "سبزه او موافق سنبل",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: سبزه او با سنبل هماهنگ است و لاله‌اش در کنار ریحان به آرامی در آغوش یکدیگر هستند."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "لاله او معانق ریحان",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "نه در او اعتدال باد بهار",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان می‌شود که نه بهار در اوج زیبایی و تعادل خود قرار دارد و نه خزانی که با تغییراتش موجب انحراف طبیعت می‌شود. به عبارت دیگر، او نه در فصل شادی و سرزندگی است و نه در وضعیت ناامیدی و افسردگی."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "نه در او انحراف طبع خزان",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "ناگهان آفتاب صبح وجود",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: ناگهان نور خورشید صبحگاهی از سمت شرق آغاز به تابش کرد و وجود پیدا کرد."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "گشت از مشرق ازل تابان",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "هر کس از بود خویش یافت خبر",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: هر شخصی از وجود خودش آگاهی پیدا می‌کند و هر فردی به وسیله نامش، نشانی از خود را می‌یابد."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "هر کس از نام خویش یافت نشان",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "آن یکی در کمال این واله",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: یکی در اوج کمال خود شگفت‌زده است و دیگری در زیبایی آن حیران و متعجب شده است."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "وین دگر در جمال آن حیران",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "می پرستان بزم وحدت را",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: عشاق شراب در مجالس اتحاد، جان خود را در تماشای معشوقه قرار داده‌اند."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "روی جان در نظاره جانان",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "همه را خوش بدید لطیفه ضمیر",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: همه را به طریقی خوشحال کن و با زیبایی افکار لطیف، زبان ترانه را برای همه به کار ببر."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "همه را تر بدین ترانه زبان",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 119,
+      "Position": "CenteredVerse1",
+      "Text": "که می عشق را تویی ساقی",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، تویی که عشق را به من می‌نوشانی و مانند خورشید، همیشه درخشانی و باقی خواهی ماند."
+    },
+    {
+      "VOrder": 120,
+      "Position": "CenteredVerse2",
+      "Text": "کاسه شمس وجهک الباقی",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "ای به سر برده عمر در تک و دو",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در زندگی خود، زمان را در تلاش و کوشش سپری کرده‌ای، در حالی که عشق و دوستی که به دنبالش هستی، در نزدیکی‌ات قرار دارد. پس، دور نشو و به جستجوی آن نرو."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "یار نزدیک توست دور مرو",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 123,
+      "Position": "Right",
+      "Text": "هر که تخم دویی و دوری کاشت",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که کاری انجام دهد یا تصمیمی بگیرد، در زمان نتیجه‌گیری و برداشت، همان چیزی را که کاشته است، برداشت می‌کند."
+    },
+    {
+      "VOrder": 124,
+      "Position": "Left",
+      "Text": "بر همان برگرفت وقت درو",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 125,
+      "Position": "Right",
+      "Text": "خوشه گندم از محالات است",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: خوشه گندم به سختی به دست می‌آید، وقتی که دانه جو را در زمین بکاری."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Left",
+      "Text": "چون فشاندی به خاک دانه جو",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 127,
+      "Position": "Right",
+      "Text": "گر مقامات عشق نیست تو را",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر در مقام‌های عشق قرار نداری، پس خود را به نوشته‌ها و گفتارهای عاشقان بسپار."
+    },
+    {
+      "VOrder": 128,
+      "Position": "Left",
+      "Text": "به مقالات عاشقان بگرو",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 129,
+      "Position": "Right",
+      "Text": "جامه زهد کن به جام بدل",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: به لباس تقوا و زهد نپرداز، بلکه آن را به معنی واقعی خود عوض کن و به ظواهر فریبنده نچسب. همچنین به باده و خوشی‌های زودگذر وابسته نشو."
+    },
+    {
+      "VOrder": 130,
+      "Position": "Left",
+      "Text": "خرقه زرق نه به باده گرو",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 131,
+      "Position": "Right",
+      "Text": "آن می ناب جو که جرعه اوست",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: آن شراب خالص و ناب که به نوعی همانند جرعه‌ای از اوست، مشابه جام جمشید و کاسه کیخسرو است."
+    },
+    {
+      "VOrder": 132,
+      "Position": "Left",
+      "Text": "جام جمشید و کاس کیخسرو",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 133,
+      "Position": "Right",
+      "Text": "ور فتد بر تو پرتو ساقی",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر تابش مشروبات‌فروشت بر تو تابید، در آن تابش غرق شو و خود را از آن جدا نکن."
+    },
+    {
+      "VOrder": 134,
+      "Position": "Left",
+      "Text": "خویش را محو کن در آن پرتو",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 135,
+      "Position": "Right",
+      "Text": "پیش رویش بیفت سجده کنان",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: در حضور او باید با احترام و تضرع زانو بزنی، چرا که او مانند کمانداری است که با ابروی خود تیر محبت را شلیک می‌کند، و چهره‌اش همچون ماه درخشان است."
+    },
+    {
+      "VOrder": 136,
+      "Position": "Left",
+      "Text": "کان کماندار ابرویت مه نو",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 137,
+      "Position": "Right",
+      "Text": "رخت بست از میان حجاب دویی",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: از میان حجاب دوگانگی و تفکیک خود را کنار بگذار و این داستان را بشنو."
+    },
+    {
+      "VOrder": 138,
+      "Position": "Left",
+      "Text": "خود بگو این حدیث و خود بشنو",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 139,
+      "Position": "CenteredVerse1",
+      "Text": "که می عشق را تویی ساقی",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، تویی که عشق را می‌نوشانی و چهره‌ات جاودانه است."
+    },
+    {
+      "VOrder": 140,
+      "Position": "CenteredVerse2",
+      "Text": "کاسه شمس وجهک الباقی",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 141,
+      "Position": "Right",
+      "Text": "وه که بازم گلی ز نو بشکفت",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: نزدیک بهاری تازه و زیبایی تازه‌ای از یار می‌درخشد که مانند غنچه‌ای است که خود را پنهان کرده است."
+    },
+    {
+      "VOrder": 142,
+      "Position": "Left",
+      "Text": "یار چون غنچه روی خود بنهفت",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 143,
+      "Position": "Right",
+      "Text": "پرده زلف پیش روی کشید",
+      "CoupletIndex": 71,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: پرده زلفش را کنار زد و حال من به اندازه‌ی موهایش پریشان و آشفته شد."
+    },
+    {
+      "VOrder": 144,
+      "Position": "Left",
+      "Text": "حال من همچو موی خود آشفت",
+      "CoupletIndex": 71,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 145,
+      "Position": "Right",
+      "Text": "گر کنم گریه نیست جای عتاب",
+      "CoupletIndex": 72,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر گریه کنم، جایی برای سرزنش نیست و اگر ناله کنم، جای تعجب نخواهد بود."
+    },
+    {
+      "VOrder": 146,
+      "Position": "Left",
+      "Text": "ور کنم ناله نیست جای شگفت",
+      "CoupletIndex": 72,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 147,
+      "Position": "Right",
+      "Text": "سیل اشکم چنین که زد ره خواب",
+      "CoupletIndex": 73,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: سیل اشکم به قدری زیاد است که دیگر نمی‌توانم بخوابم و چشمم دیگر نمی‌خواهد استراحت کند."
+    },
+    {
+      "VOrder": 148,
+      "Position": "Left",
+      "Text": "بعد ازین چشم من نخواهد خفت",
+      "CoupletIndex": 73,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 149,
+      "Position": "Right",
+      "Text": "برو ای اشک و عذرخواهی را",
+      "CoupletIndex": 74,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: برو ای اشک، و عذرخواهی‌ات را به زمین بپاش که در خون غرق شده‌ام."
+    },
+    {
+      "VOrder": 150,
+      "Position": "Left",
+      "Text": "غرقه خون به خاک پاش بیفت",
+      "CoupletIndex": 74,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 151,
+      "Position": "Right",
+      "Text": "مستی جام و شوق دیدارش",
+      "CoupletIndex": 75,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: احساس سرخوشی و عشق به او باعث شده که نگرانی‌ها و مشکلات زندگی از دلم دور شود."
+    },
+    {
+      "VOrder": 152,
+      "Position": "Left",
+      "Text": "از دل من غبار هستی رفت",
+      "CoupletIndex": 75,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 153,
+      "Position": "Right",
+      "Text": "به دو کونش خریده ام نتوان",
+      "CoupletIndex": 76,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: من با هر دو دنیا به او دل بسته‌ام و نمی‌توانم به راحتی او را از دست بدهم، حتی اگر رایگان باشد."
+    },
+    {
+      "VOrder": 154,
+      "Position": "Left",
+      "Text": "دامن او ز دست دادن مفت",
+      "CoupletIndex": 76,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 155,
+      "Position": "Right",
+      "Text": "می روم مست بر سر کویش",
+      "CoupletIndex": 77,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: من با حالتی مست و سرمست به سر کوی تو می‌روم، دل و صبرم به پایان رسیده و همراه با غم و اندوهی به تو نزدیک می‌شوم."
+    },
+    {
+      "VOrder": 156,
+      "Position": "Left",
+      "Text": "دلی از صبر طاق و با غم جفت",
+      "CoupletIndex": 77,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 157,
+      "Position": "Right",
+      "Text": "گر کشد پوست غیرتش ز سرم",
+      "CoupletIndex": 78,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر غیرتش مرا از سر بگیرد، به او خواهم گفت که این پوست را هم از خودم می‌کنم."
+    },
+    {
+      "VOrder": 158,
+      "Position": "Left",
+      "Text": "پیش او پوست کرده خواهم گفت",
+      "CoupletIndex": 78,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 159,
+      "Position": "CenteredVerse1",
+      "Text": "که می عشق را تویی ساقی",
+      "CoupletIndex": 79,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: تو ای ساقی، تنها تو هستی که عشق را در کاسه‌ات می‌نوشانی و باقی‌مانده‌اش به خوبی نمایان است."
+    },
+    {
+      "VOrder": 160,
+      "Position": "CenteredVerse2",
+      "Text": "کاسه شمس وجهک الباقی",
+      "CoupletIndex": 79,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 161,
+      "Position": "Right",
+      "Text": "فهم بس قاصر است و نفس جهول",
+      "CoupletIndex": 80,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: درک انسان محدود است و نفس او نادان است. طبع او سرکش و ناآرام است و عمرش هم سریع می‌گذرد."
+    },
+    {
+      "VOrder": 162,
+      "Position": "Left",
+      "Text": "طبع بس سرکش است و عمر عجول",
+      "CoupletIndex": 80,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 163,
+      "Position": "Right",
+      "Text": "آه ازین گفت و گوی اگر نشود",
+      "CoupletIndex": 81,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: آه از این صحبت‌ها و گفتگوها اگر به هدف و مقصود نرسیم و به نتیجه نرسد."
+    },
+    {
+      "VOrder": 164,
+      "Position": "Left",
+      "Text": "سر مقصود ازان قرین به حصول",
+      "CoupletIndex": 81,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 165,
+      "Position": "Right",
+      "Text": "بگذر از لاف عقل و فضل که هست",
+      "CoupletIndex": 82,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از خودپسندی و ادعای برتری عقل و دانش بگذر، زیرا عقل واقعی در اینجا وجود ندارد و برتری‌های علمی، بی‌فایده و سطحی هستند."
+    },
+    {
+      "VOrder": 166,
+      "Position": "Left",
+      "Text": "عقل اینجا عقیله فضل فضول",
+      "CoupletIndex": 82,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 167,
+      "Position": "Right",
+      "Text": "راه وحدت به پای عشق سپر",
+      "CoupletIndex": 83,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: راه رسیدن به یگانگی تنها با عشق امکان‌پذیر است و دانایی در این مسیر از کارایی می‌افتد."
+    },
+    {
+      "VOrder": 168,
+      "Position": "Left",
+      "Text": "که بود علم ازین عمل معزول",
+      "CoupletIndex": 83,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 169,
+      "Position": "Right",
+      "Text": "در حریم فنا نشین و بشوی",
+      "CoupletIndex": 84,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در مکانی که همه چیز فانی است، آرام بگیر و دل خود را از فکر کردن به ورود و خروج پاک کن."
+    },
+    {
+      "VOrder": 170,
+      "Position": "Left",
+      "Text": "دل ز اندیشه خروج و دخول",
+      "CoupletIndex": 84,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 171,
+      "Position": "Right",
+      "Text": "روشن آیینه ای به دست آور",
+      "CoupletIndex": 85,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: آینه‌ای را به دست بیاور که با زنگ و کدر شدن هوا، پاک و صاف شده باشد و بتوانی به خوبی در آن دید."
+    },
+    {
+      "VOrder": 172,
+      "Position": "Left",
+      "Text": "که ز زنگ هوا بود مصقول",
+      "CoupletIndex": 85,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 173,
+      "Position": "Right",
+      "Text": "واندر آن آینه به چشم شهود",
+      "CoupletIndex": 86,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در آن آینه، با چشم بصیرت و بدون تصورات نادرست، وحدت و پیوستگی را مشاهده می‌کنم."
+    },
+    {
+      "VOrder": 174,
+      "Position": "Left",
+      "Text": "خالی از وهم اتحاد و حلول",
+      "CoupletIndex": 86,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 175,
+      "Position": "Right",
+      "Text": "طلعت دوست بین و دم درکش",
+      "CoupletIndex": 87,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: به چهره‌ی معشوق نگاه کن و با خوشحالی در محفل وصال او نشسته و لذت ببر."
+    },
+    {
+      "VOrder": 176,
+      "Position": "Left",
+      "Text": "شاد بنشین به بزمگاه وصول",
+      "CoupletIndex": 87,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 177,
+      "Position": "Right",
+      "Text": "کشف این راز کن به نغمه شوق",
+      "CoupletIndex": 88,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: این راز را با صدای شاداب و دلنشین خود فاش کن، وقتی که گوش دیگران به استقبال تو و حرف‌هایت آماده شده است."
+    },
+    {
+      "VOrder": 178,
+      "Position": "Left",
+      "Text": "چون نهد جانب تو سمع قبول",
+      "CoupletIndex": 88,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 179,
+      "Position": "CenteredVerse1",
+      "Text": "که می عشق را تویی ساقی",
+      "CoupletIndex": 89,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، تویی که عشق را می‌نوشانی و چهره‌ات باقی‌است."
+    },
+    {
+      "VOrder": 180,
+      "Position": "CenteredVerse2",
+      "Text": "کاسه شمس وجهک الباقی",
+      "CoupletIndex": 89,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 181,
+      "Position": "Right",
+      "Text": "جامی این زهد و خودنمایی چند",
+      "CoupletIndex": 90,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: زهد و خودنمایی چیزی جز فریب و دام نیست؛ خود را در این ظاهر سازی‌ها گم نکنید."
+    },
+    {
+      "VOrder": 182,
+      "Position": "Left",
+      "Text": "زهد دام است و خود نمایی بند",
+      "CoupletIndex": 90,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 183,
+      "Position": "Right",
+      "Text": "دام بگسل به دوست گیر آرام",
+      "CoupletIndex": 91,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: رشته‌های وابستگی را پاره کن و به دوستی دست یاب. زنجیرها را بشکن و در پی عشق باش."
+    },
+    {
+      "VOrder": 184,
+      "Position": "Left",
+      "Text": "بند بشکن به عشق جو پیوند",
+      "CoupletIndex": 91,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 185,
+      "Position": "Right",
+      "Text": "ره چنان رو که برنباید گشت",
+      "CoupletIndex": 92,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: به مسیری برو که نباید از آن منحرف شوی و دل را بر آن مگذار که نباید به آن دل بست."
+    },
+    {
+      "VOrder": 186,
+      "Position": "Left",
+      "Text": "دل بر آن نه که برنباید کند",
+      "CoupletIndex": 92,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 187,
+      "Position": "Right",
+      "Text": "صید آن شو که می کشد زلفش",
+      "CoupletIndex": 93,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: به شکار آن کسی برو که با زلفش سرکشان را در دام می‌اندازد."
+    },
+    {
+      "VOrder": 188,
+      "Position": "Left",
+      "Text": "گردن سرکشان به خم کمند",
+      "CoupletIndex": 93,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 189,
+      "Position": "Right",
+      "Text": "جان فشان بهر آن که می بخشد",
+      "CoupletIndex": 94,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: به خاطر کسی که جانش را فدای عشق کرده، جان بده. زیرا او جانش را به خاطر لبخند شیرین و زیبای معشوقش فدای می‌کند."
+    },
+    {
+      "VOrder": 190,
+      "Position": "Left",
+      "Text": "کشته را جان ز لعل شکرخند",
+      "CoupletIndex": 94,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 191,
+      "Position": "Right",
+      "Text": "هر بلایی کزو رسد بپذیر",
+      "CoupletIndex": 95,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هر مشکلی که از او برایت پیش می‌آید، بپذیر و هر نیک و بدی که از او ببینی، قبول کن."
+    },
+    {
+      "VOrder": 192,
+      "Position": "Left",
+      "Text": "هر جفایی که او کند بپسند",
+      "CoupletIndex": 95,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 193,
+      "Position": "Right",
+      "Text": "همه ذرات مست باده اوست",
+      "CoupletIndex": 96,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تمام جوانب و ذرات هستی تحت تأثیر عشق و خمر الهی قرار دارند. تو با یک عطر جزئی، چطور می‌توانی اینقدر شاد و خوشحال باشی؟"
+    },
+    {
+      "VOrder": 194,
+      "Position": "Left",
+      "Text": "تو به بویی چه گشته ای خرسند",
+      "CoupletIndex": 96,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 195,
+      "Position": "Right",
+      "Text": "چند بیهوده بادپیمایی",
+      "CoupletIndex": 97,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: چند بار بیهوده به دنبال باده و خوشی رفتی، در حالی که دیدن او فقط کمی ارزش دارد."
+    },
+    {
+      "VOrder": 196,
+      "Position": "Left",
+      "Text": "باده پیما به روی او یک چند",
+      "CoupletIndex": 97,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 197,
+      "Position": "Right",
+      "Text": "چون شوی مست باده وصلش",
+      "CoupletIndex": 98,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به شوق و مستی از وصال محبوب برسی، این آهنگ را با صدای بلند بخوان."
+    },
+    {
+      "VOrder": 198,
+      "Position": "Left",
+      "Text": "بسرا این نوا به بانگ بلند",
+      "CoupletIndex": 98,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 199,
+      "Position": "CenteredVerse1",
+      "Text": "که می عشق را تویی ساقی",
+      "CoupletIndex": 99,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، تویی که محبوبی و در دستت جام عشق است و چهره‌ات درخشان‌تر از همه چیزها باقی خواهد ماند."
+    },
+    {
+      "VOrder": 200,
+      "Position": "CenteredVerse2",
+      "Text": "کأسه شمس وجهک الباقی",
+      "CoupletIndex": 99,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    }
+  ]
+}

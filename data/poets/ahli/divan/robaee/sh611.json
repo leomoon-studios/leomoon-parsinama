@@ -1,0 +1,60 @@
+{
+  "Id": 105417,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۶۱۱",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۶۱۱",
+  "FullUrl": "/ahli/divan/robaee/sh611",
+  "RhymeLetters": "ازکنی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر از ساقی می‌خواهد که با گشودن چشم‌هایش، محبت و لطف بیشتری از خود نشان دهد و به جای رفتارهای بی‌رحمانه، به مستان نیکویی کند. او از ساقی می‌خواهد تا دریا دریا شراب برای مستان بریزد و به آنها یک جرعه دهد، ولی با ناز و لطافت برخورد کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازکنی",
+      "PlainText": "ساقی تو مگر چشم کرم باز کنی\r\nتا کی همه شیوه جفا ساز کنی\r\nدریا دریا بکام مستان ریزی\r\nیک جرعه بما دهی و صد ناز کنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقی تو مگر چشم کرم باز کنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا کی همه شیوه جفا ساز کنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریا دریا بکام مستان ریزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک جرعه بما دهی و صد ناز کنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ساقی تو مگر چشم کرم باز کنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، آیا تو قرار است تا همیشه از لطف و مهربانی خود چشم پوشی کنی و فقط به شیوه‌های بی‌رحمی ادامه دهی؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا کی همه شیوه جفا ساز کنی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دریا دریا بکام مستان ریزی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو دریا باشی و مستان در طلب تو، تنها یک جرعه به ما بدهی و بعد از آن با ناز و عشوه خود را از ما دور کنی، این هم می‌تواند به اندازه دریا برای ما ارزشمند باشد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک جرعه بما دهی و صد ناز کنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

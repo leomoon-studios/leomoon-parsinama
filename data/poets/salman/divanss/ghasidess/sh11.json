@@ -1,0 +1,735 @@
+{
+  "Id": 39090,
+  "CatId": 1137,
+  "Title": "شمارهٔ  ۱۱ - در شكایت از روزگار",
+  "FullTitle": "سلمان ساوجی » دیوان اشعار » قصاید » شمارهٔ  ۱۱ - در شكایت از روزگار",
+  "FullUrl": "/salman/divanss/ghasidess/sh11",
+  "RhymeLetters": "ب",
+  "SourceName": "ساوه‌سرا",
+  "SourceUrlSlug": "savehsara",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به توصیف زیبایی‌ها و نعمت‌های زندگی می‌پردازد و در عین حال از مشکلات و رنج‌های خود می‌نالد. او به ستارگان و زیبایی‌های آسمان اشاره می‌کند و از زحمات و سختی‌های زمانه و جدایی‌ها شکایت می‌کند. احساس ناامیدی و پریشانی او با یادآوری نعمت‌های الهی و شکرگزاری از آن‌ها متعادل می‌شود. در نهایت، شاعر با امید به آینده و در جستجوی رحمت و موفقیت، از درگاه الهی طلب یاری می‌کند و به زیبایی‌های زندگی و اهمیت دعا و توجه به خالق اشاره دارد.",
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ب",
+      "PlainText": "سقی الله لیلا کصدغ الکواعب\r\nشبی عنبرین خال مشکین ذوایب\r\nفلک را به گوهر مرصع حواشی\r\nهوا را به عنبر مستر جوانب\r\nدرفش بنفش سپاه حبش را\r\nروان در رکاب از کواکب مواکب\r\nبرآراسته گردن و گوش و گردون\r\nشب از گوهر شب چراغ کواکب\r\nمطالع زنور طوالع منور\r\nمشارق ز ضو مصابیح ثاقب\r\nشده جبهه صاعد سعودش مقدم\r\nشده ثور طالع ثریاش غارب\r\nشهاب از بر صفحه چرخ ریزان\r\nچو بر برگ نیلوفر امطار ساکب\r\nدرین حال من با فلک در شکایت\r\nز رنج حوادث ز جور نوایب\r\nز فقد مراد و جفای زمانه\r\nز بعد دیار و فراق صواحب\r\nز تزویرهای جهان مزور\r\nز بازیچه های سپهر ملاعب\r\nفلک را همی گفتم از دور جورت\r\nچرا اختر طالعم گشت غارب\r\nچرا گشت با من زمانه مخالف\r\nچرا گشت با من ستاره مغاضب\r\nکنون پنج ماه است تا من اسیرم\r\nبه بغداد در در بلا و مصایب\r\nپریشان جمعی و جمعی پریشان\r\nگرفتار قومی و قومی عجایب\r\nنه جای قرارم ز جور اعادی\r\nنه روی دیارم ز طعن اقارب\r\nمرا هر نفس غصه بر غصه زاید\r\nمرا هر زمان گریه بر گریه غالب\r\nفلک چون شنید این عتاب و شکایت\r\nمرا گفت بس کن که طالع المعایب\r\nاگر چه تو را هست جای شکایت \r\nولی هست شکرانه ات نیز واجب\r\nکه داری چو درگاه صاحب پناهی\r\nمقر مقاصد محل مآرب\r\nکنون عزم تقبیل درگاه او کن\r\nبه اقبال او شو سعید العواقب\r\nمشو یک زمان غافل از آستانش\r\nکه هر کس غایب شد او هست خایب\r\nفلک با من اندر حکایت که ناگه\r\nبرآمد ز که رایت صبح کاذب\r\nقمر چهرگان شبستان گردون\r\nکشیدند رخ در نقاب مغارب\r\nبه گوشم رسید از محل قوافل\r\nصهیل مراکب غطیط نجایب\r\nدلم را نشاط سفر خاست ناگه\r\nشدم چست بر مرکب عزم راکب\r\nرهی پیشم آمد که از هیبت آن\r\nبینداختی پنجه شیر محارب\r\nسموم غمومش وزان در صحاری\r\nحمیم جحیمش روان در مشارب\r\nزلالش ملوث به سم افاعی\r\nحجارش به حدت چو نیش عقارب\r\nمزلزل زمین از ریاح عواصف\r\nمستر هوا از غبار غیاهب\r\nهوایش ز فرط حرارت به حدی\r\nکه چون موم می شد دل سنگ ذایب\r\nچنان بد که شمشیر چون قطره پرآب\r\nفرو می چکید از کف مرد ضارب\r\nهمی راندم اندر بیابان و وادی\r\nگهی با ارنب گهی با ثعالب\r\nگهی برفرازی که نعل مه نو\r\nهمی سود در دست و پای مراکب\r\nگهی در نشیبی که اموال قارون\r\nهمی برگذشت از رکاب رکایب\r\nهمه ره در اندیشه تا کی برآید\r\nز درگاه صاحب ندای مراحب\r\nجهان معانی سپهر وزارت\r\nمحیط مکارم سحاب مواهب\r\nبریده به آن سر که از حکم خطش\r\nبگردد به یک موی چون خط کاتب\r\nوزیرا به حق خدایی که صنعش\r\nنهد جوهر روح در درج قالب\r\nبه تقدیر و تدبیر سلطان حاکم\r\nبه آلای و نعمای رزاق واهب\r\nبه تعظیم احمد که با آن جلالت\r\nنگه داشتش در حصار عناکب\r\nبه یاری یاران احمد که بودند\r\nز راه هدایت نجوم ثواقب\r\nکه تا شد سرم ز آستان تو خالی\r\nنشد آستین من از اشک غایب\r\nثنایت به کارم درآورد ور نه\r\nبه یکبارگی بودم از شعر تایب\r\nاگر مدح جاه تو گویم نگویم\r\nبامید مرسوم و حرص مواجب\r\nولی چشم دارم که از دولت تو\r\nمراتب فزاید مرا بر مراتب\r\nالا تا گشایند خوبان مه رو\r\nخدنگ بلا از کمان حواجب\r\nسرای تو را باد ناهید مطرب\r\nجناب تو را باد خورشید حاجب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسقی الله لیلا، کصدغ الکواعب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشبی عنبرین خال مشکین ذوایب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلک را به گوهر مرصع، حواشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهوا را به عنبر مستر، جوانب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرفش بنفش سپاه حبش را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروان در رکاب از کواکب مواکب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرآراسته گردن و گوش و گردون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب از گوهر شب چراغ کواکب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمطالع زنور طوالع، منور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشارق ز ضو مصابیح، ثاقب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشده جبهه صاعد، سعودش مقدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشده ثور طالع، ثریاش غارب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشهاب از بر صفحهٔ چرخ، ریزان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بر برگ نیلوفر امطار ساکب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرین حال من با فلک در شکایت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز رنج حوادث، ز جور نوایب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز فقد مراد و جفای زمانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بُعد دیار و فراق صواحب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز تزویرهای جهان مزوّر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بازیچه‌های سپهر مُلاعب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلک را همی گفتم: از دور جورت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا اختر طالعم گشت غارب؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرا گشت با من زمانه مخالف؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا گشت با من ستاره مغاضب؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون پنج ماه است تا من اسیرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه بغداد در، در بلا و مصایب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپریشان جمعی و جمعی پریشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرفتار قومی و قومی عجایب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه جای قرارم، ز جور اعادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه روی دیارم، ز طعن اقارب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا هر نفس، غصه بر غصه زاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا هر زمان، گریه بر گریه غالب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلک چون شنید این عتاب و شکایت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا گفت: بس کن که طالع المعایب!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه تو را هست جای شکایت \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی هست شکرانه‌ات نیز واجب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه داری چو درگاه صاحب پناهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمقرّ مقاصد، محلّ مآرب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون عزم تقبیل درگاه او کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه اقبال او شو «سعید العواقب»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشو یک زمان غافل از آستانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هر کس غایب شد او هست خایب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلک با من اندر حکایت که ناگه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآمد ز که رایت صبح کاذب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقمر چهرگان شبستان گردون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکشیدند رخ در نقاب مغارب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گوشم رسید از محلّ قوافل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصهیل مراکب، غطیط نجایب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلم را نشاط سفر خاست، ناگه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشدم چست بر مرکب عزم راکب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرهی پیشم آمد که از هیبت آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبینداختی پنجه شیر محارب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسموم غمومش، وزان در صحاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحمیم جحیمش، روان در مشارب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزلالش ملوّث به سمّ افاعی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحجارش به حدّت چو نیش عقارب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزلزل زمین از ریاح عواصف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمسترّ هوا از غبار غیاهب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهوایش ز فرط حرارت به حدّی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چون موم می‌شد دل سنگ ذایب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان بد که شمشیر چون قطره پرآب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرو می‌چکید از کف مرد ضارب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی راندم اندر بیابان و وادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهی با ارنب، گهی با ثعالب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگهی برفرازی که نعل مه نو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی سود در دست و پای مراکب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگهی در نشیبی که اموال قارون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی برگذشت از رکاب رکایب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه ره در اندیشه تا کی برآید؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز درگاه صاحب ندای مراحب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان معانی، سپهر وزارت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمحیط مکارم، سحاب مواهب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبریده به آن سر که از حکم خطّش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگردد به یک موی چون خطّ کاتب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوزیرا به حق خدایی که صنعش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنهد جوهر روح در درج قالب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه تقدیر و تدبیر سلطان حاکم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه آلای و نعمای رزاق واهب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه تعظیم احمد، که، با آن جلالت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگه داشتش در حصار عناکب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه یاری یاران احمد که بودند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز راه هدایت نجوم ثواقب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه تا شد سرم ز آستان تو خالی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشد آستین من از اشک غایب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eثنایت به کارم درآورد ور نه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه یکبارگی بودم از شعر تایب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر مدح جاه تو گویم نگویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبامید مرسوم و حرص مواجب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولی چشم دارم که از دولت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمراتب فزاید مرا بر مراتب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالا تا گشایند خوبان مه‌رو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخدنگ بلا از کمان حواجب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرای تو را باد، ناهید مطرب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجناب تو را باد، خورشید حاجب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 47
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سقی الله لیلا، کصدغ الکواعب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند لیلا را رحمت کند، که مانند صد دختر زیبا و خوشبوست، با بویی شبیه به عطر عنبر و با دو خال مشکی بر چهره‌اش."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شبی عنبرین خال مشکین ذوایب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "فلک را به گوهر مرصع، حواشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان را با جواهرهای درخشان تزیین کرده و اطراف هوا را با عطر خوشبوی عنبر پر کرده‌اند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هوا را به عنبر مستر، جوانب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "درفش بنفش سپاه حبش را",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرچم بنفش سپاه حبشی‌ها در حال حرکت است و مانند ستاره‌ها در آسمان در کنار هم قرار گرفته‌اند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "روان در رکاب از کواکب مواکب",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "برآراسته گردن و گوش و گردون",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شب با زیبایی و درخشش خود، مانند گردن و گوش و آسمان آراسته شده است. نور ستاره‌ها همچون جواهراتی درخشان بر روی این آسمان تاریک می‌درخشد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شب از گوهر شب چراغ کواکب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مطالع زنور طوالع، منور",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درخشش پیشانی ستاره‌ها و نور خورشید که از لابه‌لای چراغ‌ها می‌تابد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مشارق ز ضو مصابیح، ثاقب",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "شده جبهه صاعد، سعودش مقدم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان به شکل مثبت و خوب در آمده و ستاره‌هایی که نشان‌دهنده‌ی خوشبختی هستند، در حال درخشش و ظهور می‌باشند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "شده ثور طالع، ثریاش غارب",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "شهاب از بر صفحهٔ چرخ، ریزان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دختران به گونه‌ای هستند که مانند محور گردان، در ذهن روشن و فکر درست، نقش مهمی دارند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چو بر برگ نیلوفر امطار ساکب",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "درین حال من با فلک در شکایت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این وضعیت، من از درد و مشکلات ناشی از حوادث و ظلم نایبان به آسمان شکایت می‌کنم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ز رنج حوادث، ز جور نوایب",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ز فقد مراد و جفای زمانه",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دست دادن خواسته‌ها و بی‌مهری روزگار، به خاطر دوری از وطن و جدایی از دوستان."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "ز بُعد دیار و فراق صواحب",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ز تزویرهای جهان مزوّر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از فریبکاری‌های موجود در این دنیا و از بازی‌هایی که آسمان برای ما ترتیب می‌دهد، باید محتاط باشیم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "ز بازیچه‌های سپهر مُلاعب",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "فلک را همی گفتم: از دور جورت",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به آسمان می‌گفتم: چرا دوری تو باعث شد ستاره سرنوشت من سرد و کاسته شود؟"
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "چرا اختر طالعم گشت غارب؟",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "چرا گشت با من زمانه مخالف؟",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا زندگی با من به دشمنی پرداخته است؟ چرا ستاره‌ها بر ضد من شده‌اند؟"
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "چرا گشت با من ستاره مغاضب؟",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "کنون پنج ماه است تا من اسیرم",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: الان پنج ماه است که من در بغداد به دام افتاده‌ام و درگیر مشکلات و سختی‌ها هستم."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "به بغداد در، در بلا و مصایب",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "پریشان جمعی و جمعی پریشان",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جمع زیادی در حال پریشانی هستند و گروهی دیگر نیز در حال دچار شدن به آشفتگی. همه گرفتار شگفتی‌ها و عجایب قوم خود هستند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "گرفتار قومی و قومی عجایب",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "نه جای قرارم، ز جور اعادی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در جایی آرامش ندارم، به خاطر آزار مردم، و در دیاری نیستم که از حرف‌های اطرافیان مضطرب نشوم."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "نه روی دیارم، ز طعن اقارب",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "مرا هر نفس، غصه بر غصه زاید",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر لحظه بر غصه‌های من افزوده می‌شود و همیشه بر این اندوه‌ها، اشک‌های تازه‌تری اضافه می‌گردد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "مرا هر زمان، گریه بر گریه غالب",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "فلک چون شنید این عتاب و شکایت",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به آسمان که این شکایت و انتقاد من را شنید، گفت: کافی است، زیرا سرنوشت همیشه عیب‌ها را به همراه دارد!"
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "مرا گفت: بس کن که طالع المعایب!",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "اگر چه تو را هست جای شکایت ",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که ممکن است از تو دلخور و ناراضی باشم، اما در عین حال شکرگزاری و قدردانی از تو نیز لازم است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "ولی هست شکرانه‌ات نیز واجب",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "که داری چو درگاه صاحب پناهی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو به مانند درگاهی هستی که پناهگاهی امن و مطمئن برای برآورده کردن خواسته‌ها و نیازها به حساب می‌آید."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "مقرّ مقاصد، محلّ مآرب",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "کنون عزم تقبیل درگاه او کن",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اکنون تصمیم بگیر که با محبت و احترام به درگاه او بیایی و به لطف و رحمت او امیدوار باشی تا به نتایج خوب دست پیدا کنی."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "به اقبال او شو «سعید العواقب»",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "مشو یک زمان غافل از آستانش",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آستان او غافل نشو، زیرا هرکس که از او دور می‌شود، در حقیقت از همه چیز و هدایت بی‌بهره می‌ماند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "که هر کس غایب شد او هست خایب",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "فلک با من اندر حکایت که ناگه",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان درباره من داستانی دارد که ناگهان نشانه‌های صبح دروغین پدیدار شد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "برآمد ز که رایت صبح کاذب",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "قمر چهرگان شبستان گردون",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ماه به زیبایی در شب‌های آسمان چهره‌اش را در پرده‌ای از غروب پنهان کرد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "کشیدند رخ در نقاب مغارب",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "به گوشم رسید از محلّ قوافل",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای قافله‌های سوار بر اسبان سریع به گوشم رسید و همچنین صدای هماهنگ و زیبای نجایب که در حال حرکت بودند."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "صهیل مراکب، غطیط نجایب",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "دلم را نشاط سفر خاست، ناگه",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من به سفر و ماجراجویی می‌خواست، ناگهان با انرژی و شوق بر مرکب نشستم و آماده سفر شدم."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "شدم چست بر مرکب عزم راکب",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "رهی پیشم آمد که از هیبت آن",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک راهی پیش من آمد که اگر به آن توجه می‌کردی، نمی‌توانستی خود را از خطرات آن نجات دهی، مثل پنجه شیر که قوی و ترسناک است."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "بینداختی پنجه شیر محارب",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "سموم غمومش، وزان در صحاری",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم‌های او مانند گرما و دردِ سوزانی است که در بیابان‌ها پخش می‌شود و در چشمه‌های آبی جریان دارد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "حمیم جحیمش، روان در مشارب",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "زلالش ملوّث به سمّ افاعی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب زلال و پاکش تحت تأثیر دسیسه‌ها و توطئه‌های دشمنان قرار گرفته و در اثر شدت آن، وضعیتش به نیش زهرآگین عقرب‌ها شباهت دارد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "حجارش به حدّت چو نیش عقارب",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "مزلزل زمین از ریاح عواصف",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمین به خاطر وزش شدید بادها به لرزه درآمده و آسمان به دلیل غبار و گرد و غبار ناشی از طوفان، تاریک و غبارآلود شده است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "مسترّ هوا از غبار غیاهب",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "هوایش ز فرط حرارت به حدّی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هوا به قدری گرم است که حتی دل سنگی را هم ذوب می‌کند، انگار مثل موم نرم می‌شود."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "که چون موم می‌شد دل سنگ ذایب",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "چنان بد که شمشیر چون قطره پرآب",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به‌قدری او بد عمل می‌کرد که شمشیرش مانند قطره‌های آب از دستش می‌چکید."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "فرو می‌چکید از کف مرد ضارب",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "همی راندم اندر بیابان و وادی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در بیابان و دشت به راه خود ادامه می‌دادم و گاهی هم با خرگوش‌ها و گاهی با روباه‌ها برخورد می‌کردم."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "گهی با ارنب، گهی با ثعالب",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "گهی برفرازی که نعل مه نو",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاه بر فراز بلندی‌ها قرار می‌گیری که در این لحظات، نعل ماه نو به خوبی در دستان و پاهای مرکب من کارایی دارد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "همی سود در دست و پای مراکب",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "گهی در نشیبی که اموال قارون",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی در شرایطی قرار می‌گیریم که حتی ثروت‌های عظیم و بزرگ مانند ثروت قارون هم نمی‌تواند به ما کمک کند و ما از نقطه‌ای پایین‌تر عبور می‌کنیم."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "همی برگذشت از رکاب رکایب",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "همه ره در اندیشه تا کی برآید؟",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه در فکر این هستند که تا چه زمانی باید منتظر بمانند؟ خوشامدگویی از سوی صاحب دروازه به گوش می‌رسد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "ز درگاه صاحب ندای مراحب",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "جهان معانی، سپهر وزارت",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا پر از معانی عمیق است، جایی که حکومت و مدیریت در آن به نیکی و خوبی‌ها می‌پردازد و نعمت‌ها همچون ابرها بر ما باریدن می‌گیرند."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "محیط مکارم، سحاب مواهب",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "بریده به آن سر که از حکم خطّش",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بنده کسی هستم که در نتیجه سرنوشت، از طریق یک مو، از دستورات و قواعدی که برایم تعیین شده، جدا می‌شوم؛ مانند نوشته‌ی یک نویسنده که می‌تواند به سادگی تغییر کند."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "بگردد به یک موی چون خطّ کاتب",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "وزیرا به حق خدایی که صنعش",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وزیری با حق خدا، انسانی را خلق می‌کند که روحش را در قالبی از جنس وجود قرار می‌دهد."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "نهد جوهر روح در درج قالب",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "به تقدیر و تدبیر سلطان حاکم",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خواست و تدبیر فرمانروای بزرگ و بخشنده، نعمت‌ها و روزی‌های فراوانی به مردم عطا می‌شود."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "به آلای و نعمای رزاق واهب",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "به تعظیم احمد، که، با آن جلالت",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای احترام به احمد، که با عظمت خود، در دایره‌ای از دشواری‌ها و مشکلات ایستادگی می‌کند."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "نگه داشتش در حصار عناکب",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "به یاری یاران احمد که بودند",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به کمک دوستان احمد اشاره دارد که در مسیر هدایت، همچون ستاره‌های درخشان، نورافشانی کرده و راهنمایی کرده‌اند."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "ز راه هدایت نجوم ثواقب",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "که تا شد سرم ز آستان تو خالی",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که سرم از درگاه تو دور شد، آستین من همچنان پر از اشک بود و لحظه‌ای از آن خالی نشد."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "نشد آستین من از اشک غایب",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "ثنایت به کارم درآورد ور نه",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محبت تو باعث شد که مشغول کار شوم، وگرنه اگر روی یک پایم می‌ایستادم، از شعر و سرود جدا می‌شدم."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "به یکبارگی بودم از شعر تایب",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "اگر مدح جاه تو گویم نگویم",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر من تو را ستایش کنم، این کار را نه به خاطر انتظار پاداش و انجام رسوم می‌زنم، بلکه از روی علاقه و احترام است."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "بامید مرسوم و حرص مواجب",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "ولی چشم دارم که از دولت تو",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما چشمی دارم که امیدوارم با نعمت‌های تو، درجات و مرتبه‌هایم افزایش یابد."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "مراتب فزاید مرا بر مراتب",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "الا تا گشایند خوبان مه‌رو",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به زودی زیبا رویان با چشم‌های جذاب خود تیرهای بلا را به سوی ما پرتاب خواهند کرد."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "خدنگ بلا از کمان حواجب",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "سرای تو را باد، ناهید مطرب",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خانه و محل تو تحت تأثیر باد قرار دارد، ناهید به عنوان مطرب و نوازنده برای تو در نظر گرفته شده است، و خورشید به عنوان نگهبان یا محرمی برای تو می‌باشد."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "جناب تو را باد، خورشید حاجب",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    }
+  ]
+}

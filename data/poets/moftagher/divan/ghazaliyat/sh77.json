@@ -1,0 +1,180 @@
+{
+  "Id": 86275,
+  "CatId": 2270,
+  "Title": "شمارهٔ  ۷۷",
+  "FullTitle": "غروی اصفهانی » دیوان کمپانی » غزلیات » شمارهٔ  ۷۷",
+  "FullUrl": "/moftagher/divan/ghazaliyat/sh77",
+  "RhymeLetters": "اهندارد",
+  "SourceName": "سید محمدرضا شهیم",
+  "SourceUrlSlug": "smrs",
+  "PoemSummary": "هوش مصنوعی: این شعر دربارهٔ عشق و وابستگی عمیق به معشوق است. شاعر از تنگی نفس و نبودن آرامش در زندگی بدون عشق می‌گوید و به گوشه‌نشینی و تنهایی اشاره می‌کند. او با وجود سیاهی و گناه‌هایی که دارد، خود را بندهٔ معشوق می‌داند و تأکید می‌کند که هر کس محبت او را در دل داشته باشد، غنی و خوشبخت است. شاعر در نهایت بر این نکته تأکید می‌کند که عشق یک گیاه است که تنها در دل عاشق می‌روید و بدون عشق، زندگی بی‌معناست. در این شعر، عشق به عنوان منبع نور و زندگی معرفی می‌شود و نیاز به آن به وضوح احساس می‌شود.",
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهندارد",
+      "PlainText": "سینۀ تنگم مجال آه ندارد\r\nجان بهوای لب است و راه ندارد\r\nگوشۀ چشمی به سوی گوشه نشین کن\r\nزانکه جز این گوشه کس پناه ندارد\r\nگرچه سیه رو شدم غلام تو هستم\r\nخواجه مگر بندۀ سیاه ندارد\r\nاز گنه من مگو که زادۀ آدم\r\nناخلف استی اگر گناه ندارد\r\nهر که گدایی ز آستان تو آموخت\r\nدولتی اندوختی که شاه ندارد\r\nگنج تجلی ز کنج خلوت دل جو\r\nنیک نظر کن که اشتباه ندارد\r\nپیر خرد گر بخلوت تو برد پی\r\nجز در آن خانه خانقاه ندارد\r\nمهر تو در هر دلی که کرد تجلی\r\nداد فروغی که مهر و ماه ندارد\r\nمهر گیاه است حاصل دل عاشق\r\nآب و گل ما جز این گیاه ندارد\r\nمفتقر از سر عشق دم نتوان زد\r\nسر برود زانکه سر نگاه ندارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسینۀ تنگم مجال آه ندارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان بهوای لب است و راه ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوشۀ چشمی به سوی گوشه نشین کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه جز این گوشه کس پناه ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه سیه رو شدم غلام تو هستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواجه مگر بندۀ سیاه ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز گنه من مگو که زادۀ آدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناخلف استی اگر گناه ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که گدائی ز آستان تو آموخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدولتی اندوختی که شاه ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگنج تجلی ز کنج خلوت دل جو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیک نظر کن که اشتباه ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیر خرد گر بخلوت تو برد پی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز در آن خانه خانقاه ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهر تو در هر دلی که کرد تجلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداد فروغی که مهر و ماه ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهر گیاه است حاصل دل عاشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب و گل ما جز این گیاه ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمفتقر از سر عشق دم نتوان زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر برود زانکه سرّ نگاه ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سینۀ تنگم مجال آه ندارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل تنگ و بی‌حوصله‌ام جایی برای آه کشیدن ندارد، جانم به عشق لب‌هایش تنگ است و هیچ راه فراری ندارد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جان بهوای لب است و راه ندارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گوشۀ چشمی به سوی گوشه نشین کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به گوشه‌ای بنگر و به آن کسی که در تنهایی و دوری نشسته توجه کن، زیرا هیچ کس جز او در این گوشه، پناهی ندارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زانکه جز این گوشه کس پناه ندارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گرچه سیه رو شدم غلام تو هستم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه چهره‌ام غمگین و تیره است، اما من همچنان خدمتگزار و بنده تو هستم. آیا نمی‌شود که یک بنده‌ی سیاه، صاحب مانند تو داشته باشد؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خواجه مگر بندۀ سیاه ندارد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از گنه من مگو که زادۀ آدم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من را به خاطر گناهم سرزنش نکن، زیرا تو هم جزو آدم‌هایی هستی که ممکن است از گناه دور نباشند. اگرچه شاید به نظر بیاید که هیچ گناهی ندارند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ناخلف استی اگر گناه ندارد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هر که گدائی ز آستان تو آموخت",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از درگاه تو درخواست کند، ثروتی به دست آورده که هیچ پادشاهی ندارد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دولتی اندوختی که شاه ندارد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گنج تجلی ز کنج خلوت دل جو",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل آرام خود به دنبال گنجی با ارزش و روشنایی باش. با دقت و نیک نظری به آن نگاه کن، زیرا در این جستجو هیچ اشتباهی وجود ندارد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نیک نظر کن که اشتباه ندارد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "پیر خرد گر بخلوت تو برد پی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر انسان حکیمی به خلوت تو بیاید، می‌فهمی که جز در خانه آن زاهد، جایی برای آرامش و صفای دل وجود ندارد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "جز در آن خانه خانقاه ندارد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "مهر تو در هر دلی که کرد تجلی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محبت تو در هر قلبی که خود را نشان داده، نوری بخشیده است که نه به خورشید و نه به ماه شباهتی ندارد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "داد فروغی که مهر و ماه ندارد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "مهر گیاه است حاصل دل عاشق",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و محبت به مانند گیاهی است که از دل عاشق جوانه می‌زند و ما که از خاک و آب ساخته شده‌ایم، تنها این عشق را داریم که به‌عنوان میوه وجودمان ظهور می‌کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "آب و گل ما جز این گیاه ندارد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "مفتقر از سر عشق دم نتوان زد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشق فقیر نمی‌تواند با استفاده از عشق خود، به کسی آشکارا ابراز محبت کند، زیرا راز عشق او در نگاهش نهفته است و نمی‌تواند سرش را بالا ببرد و این راز را فاش کند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "سر برود زانکه سرّ نگاه ندارد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,660 @@
+{
+  "Id": 51133,
+  "CatId": 1831,
+  "Title": "شمارهٔ ۱۲۱ - چیستان",
+  "FullTitle": "ملک‌الشعرا بهار » قصاید » شمارهٔ ۱۲۱ - چیستان",
+  "FullUrl": "/bahar/ghasidebk/sh121",
+  "RhymeLetters": "ر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این متن درباره موجودی شگفت‌انگیز و قدرتمند است که به‌نوعی نماد انسانی و حیوانی را در خود تجلی می‌بخشد. این موجود دارای ویژگی‌های خاصی است که آن را از دیگر مخلوقات متمایز می‌کند؛ می‌تواند مختلف رنگ‌ها را بپذیرد و در حال حرکت، اثر خود را بر جای نگذارد. بینش این موجود از دیگران بیشتر است و به‌نوعی درک عمیق‌تری از اطراف دارد، اگرچه دچار ناتوانی‌های خاصی چون کوری و کری است.\n\nاین جنبنده، همانند اژدها، از انسان‌ها و حیوانات تغذیه می‌کند، اما خطر و آسیبش به وجود آنها بستگی دارد. در متن به جنگ و صلح اشاره شده و نشان داده شده است که این موجود می‌تواند ثروت یا فقر را به ارمغان بیاورد. همچنین آثار منفی و مثبت این موجود بر جوامع انسان‌ها، به‌ویژه از منظر پادشاهان و حاکمان، بررسی شده و در نهایت به ضرورت توجه به آن و استفاده صحیح از آن اشاره می‌شود. در پایان، خواهش می‌شود که از این موجود به‌خوبی استفاده شود تا نفعی برای ملت و بشر به همراه داشته باشد.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "چیست آن جنبده والاگهر\r\nگوهرش از آب و آتش جسته فر\r\nزاده خورشید و هم پیمان خاک\r\nگاه چون مریخ و گاهی چون قمر\r\nهر زمان رنگی پذیرد در جهان\r\nگه سیه  گه سرخ  گه رنگ دگر\r\nجانورکردار جنبانست و هست\r\nاندر او جان ها و خود ناجانور\r\nبار گیرنده به مانند ستور\r\nراه جوینده بمانند بشر\r\nراه را از چاه بشناسد از آنک\r\nهمچو مردم صاحب  مغزست و سر\r\nدر دویدن چون دگر جنبندگان\r\nدر قفای خویش نگذارد اثر\r\nهست فربه لیک چون ساکن شود\r\nمهره های پشتش آید در شمر\r\nیک زمان اندر دوره پویان بود\r\nوان دو یکسانست او را در نظر\r\nکرده از گردون گردان عاریت\r\nپای ها وز نسر طایر بال و پر\r\nنیست او را چشم چون مردم ولیک\r\nصد جهان بین است او را بیشتر\r\nهمچنانش گوش ها باشد ولی\r\nاین شگفتی بین که باشد کور و گر\r\nکور ره جویست کر خوش نیوش\r\nگنگ غرنده است و لنگ راه بر\r\nبا ستور و گاو و خر دشمن و لیک\r\nشاد ازو جان ستور و گاو و خر\r\nهست چون ابری سیه با رعد و برق\r\nلیک از او هرگز نمی بارد مطر\r\nجنگییی باشد که او را گاه رزم\r\nجوشن از چوبست و از آهن سپر\r\nگاهگاهی زیر چوبین جوشنش\r\nمی کند خفتانی از دیبا به بر\r\nپای ها دارد ولی افعی مثال\r\nسینه مالان  پیچد اندر بوم و بر\r\nهست همچون اژدها مردم ربای\r\nاژدری مردم خور و هامون سپر\r\nهرچه پیش آید بیوبارد همی\r\nزادمی و اشتر و اسب و ستر\r\nوین شگفتی بین کزین بلعیدنش\r\nمردم و حیوان نمی بیند ضرر\r\nلیک اگر بلعیده ها دورافکند\r\nجان شیرینشان شود از تن بدر\r\nگه شود زاو کشوری خرم بهشت\r\nگه شود ز او ملکتی زیر و زبر\r\nگه بشیر دولتست و جاه و مال\r\nگه نذیر غارتست و شور و شر\r\nگر فزونش طعمه باشد هست رام\r\nور کمش باشد خورش زاید خطر\r\nتربیت کردنش دشوار است و سخت\r\nواندر آن گنجینه ها گردد هدر\r\nزین زیانکاری که باشد اندر او\r\nپادشاهان را بود از وی حذر\r\nگر به کار آید بود بس جانفزای\r\nور ز کار افتد شود بس جان شکر\r\nآوخ از این غول شکل دیو فعل\r\nآوخ از این پیل زور دد سیر\r\nهان وهان ماریست بس خوش خط وخال\r\nجانب وی دست بی افسون مبر\r\nگنج ایران شد هزینه اندر او\r\nباز ناپیداست پای او ز سر\r\nبو که گردد رام عزم شهریار\r\nاین هیون بدلگام خاره در\r\nگنجهایی را کز ایران خورده است\r\nقی کند این اژدهای گنج خور\r\nپیش از آن کش افکند از بیخ و بن\r\nسیل اشگ و دود آه رنجبر\r\nخورده ملیون ها به ما واپس دهد\r\nکیسه ها را پر کند از سیم و زر\r\nتا که گردد صرف بند هیرمند\r\nیا که گردد خرج سد شوشتر\r\nتا که گردد صرف کاری کاندران\r\nخیر ملت باشد و نفع بشر\r\nلختی از آن صرف ایجاد قنات\r\nبخشی از آن خرج تسطیح ممر\r\nقسمتی زان وقف بر طبع کتاب\r\nپاره ای زان بخش بر اهل هنر\r\nنیمه ای خرج سلیح و ساز جنگ\r\nبهره ای خرج سپاه نامور\r\nور شهنشه ریزدی آن را به دور\r\nتا ربودندیش خلق از رهگذر\r\nبه که تقدیم فرنگستان شود\r\nآنچه گرد آمد به صد خون جگر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچیست آن جنبدهٔ والاگهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوهرش از آب و آتش جسته فر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزادهٔ خورشید و هم‌پیمان خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاه چون مریخ و گاهی چون قمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر زمان رنگی پذیرد در جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه سیه‌، گه سرخ‌، گه رنگ دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانورکردار، جنبانست و هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر او جان‌ها و خود ناجانور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبار گیرنده به مانند ستور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراه جوینده بمانند بشر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراه را از چاه بشناسد از آنک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو مردم صاحب‌ مغزست و سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دویدن چون دگر جنبندگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر قفای خویش نگذارد اثر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست فربه لیک چون ساکن شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهره‌های پشتش آید در شمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک زمان اندر دوره پویان بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوان دو یکسانست او را در نظر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرده از گردون گردان عاریت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپای‌ها، وز نسر طایر بال و پر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست او را چشم چون مردم ولیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد جهان بین است او را بیشتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچنانش گوش‌ها باشد ولی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین شگفتی بین که باشد کور و گر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکور ره جویست کٌر خوش نیوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنگ غرنده است و لنگ راه بر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا ستور و گاو و خر دشمن و لیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاد ازو جان ستور و گاو و خر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست چون ابری سیه با رعد و برق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک از او هرگز نمی بارد مطر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجنگیئی باشد که او را گاه رزم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجوشن از چوبست و از آهن سپر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاهگاهی زیر چوبین جوشنش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی کند خفتانی از دیبا به بر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپای‌ها دارد ولی افعی مثال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسینه مالان‌، پیچد اندر بوم و بر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست همچون اژدها مردم ربای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاژدری مردم‌خور و هامون سپر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچه پیش آید بیوبارد همی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزادمی و اشتر و اسب و ستر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوین شگفتی بین کزین بلعیدنش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمردم و حیوان نمی‌بیند ضرر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک اگر بلعیده‌ها دورافکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان شیرینشان شود از تن بدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه شود زاو کشوری خرم بهشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه شود ز او ملکتی زیر و زبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه بشیر دولتست و جاه و مال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه نذیر غارتست و شور و شر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر فزونش طعمه باشد هست رام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور کمش باشد خورش زاید خطر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتربیت کردنش دشوار است و سخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواندر آن گنجینه‌ها گردد هدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین زیانکاری که باشد اندر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپادشاهان را بود از وی حذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر به کار آید بود بس جانفزای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور ز کار افتد شود بس جان شکر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآوخ از این غول شکل دیو فعل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآوخ از این پیل زور دد سیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهان‌وهان‌ماریست‌بس خوش‌خط وخال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانب وی دست بی‌افسون مبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگنج ایران شد هزینه اندر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز ناپیداست پای او ز سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبو که گردد رام عزم شهریار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین هیون بدلگام خاره در\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگنجهایی را کز ایران خورده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقی کند این اژدهای گنج‌خور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش از آن کش افکند از بیخ و بن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیل اشگ و دود آه رنجبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورده ملیون‌ها، به ما واپس دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکیسه‌ها را پر کند از سیم و زر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا که گردد صرف بند هیرمند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا که گردد خرج سدّ شوشتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا که گردد صرف کاری کاندران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخیر ملت باشد و نفع بشر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلختی از آن صرف ایجاد قنات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبخشی از آن خرج تسطیح ممر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقسمتی زان وقف بر طبع کتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپاره‌ای زان بخش بر اهل هنر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیمه‌ای خرج سلیح و ساز جنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهره‌ای خرج سپاه نامور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور شهنشه ریزدی آن را به دور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ربودندیش خلق از رهگذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه که تقدیم فرنگستان شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنچه گرد آمد به صد خون جگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 42
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چیست آن جنبدهٔ والاگهر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه موجود باارزشی است که گوهرش از آب و آتش به دست آمده است؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گوهرش از آب و آتش جسته فر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زادهٔ خورشید و هم‌پیمان خاک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این فرد به مانند موجودی است که از خورشید متولد شده و در ارتباط با زمین است؛ گاهی در وضعیت و شرایطی مانند سیاره مریخ و در زمان‌های دیگر به حالتی شبیه به ماه دیده می‌شود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گاه چون مریخ و گاهی چون قمر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر زمان رنگی پذیرد در جهان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر لحظه در این دنیا رنگ و رویی متفاوت به خود می‌گیرد؛ گاهی تیره و سیاه، گاهی سرخ، و گاهی به رنگ‌های دیگر."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گه سیه‌، گه سرخ‌، گه رنگ دگر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جانورکردار، جنبانست و هست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا، موجودات زنده در حال حرکت و فعالیت هستند و در وجود آنها، روح‌ها و زندگی نهفته است، اما خودشان به نوعی می‌توانند بی‌جان و مرده به نظر برسند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اندر او جان‌ها و خود ناجانور",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بار گیرنده به مانند ستور",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انسان، مانند وسیله‌ای است که راه‌جویی را همراهی می‌کند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "راه جوینده بمانند بشر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "راه را از چاه بشناسد از آنک",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که عقل و دانش دارد، می‌تواند مسیر درست را از مسیر نادرست تشخیص دهد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "همچو مردم صاحب‌ مغزست و سر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "در دویدن چون دگر جنبندگان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دویدن مانند سایر موجودات زنده، آثار خاصی از خود بر جای نمی‌گذارد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "در قفای خویش نگذارد اثر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "هست فربه لیک چون ساکن شود",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه او از لحاظ جسمانی قوی و فربه است، اما زمانی که حرکتش متوقف شود و مهره‌های پشتش بی‌حرکت بمانند، به سادگی در دام می‌افتد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "مهره‌های پشتش آید در شمر",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "یک زمان اندر دوره پویان بود",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدت زمانی در گذشته، گروهی از اهل تحرک و پویایی وجود داشتند و آن شخص برای او، در نظرش، همانند آن دو نفر دیگر بود."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "وان دو یکسانست او را در نظر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "کرده از گردون گردان عاریت",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آسمان، پاهایی به ما داده شده که به امانت است و به مانند پر و بال یک پرنده، ما را به سمت آسمان می‌برد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "پای‌ها، وز نسر طایر بال و پر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "نیست او را چشم چون مردم ولیک",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او چشمانش مانند مردم عادی نیست، اما به اندازه‌ای که هیچ کس نمی‌تواند ببیند، تماشاگر جهان‌های بیشتری است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "صد جهان بین است او را بیشتر",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "همچنانش گوش‌ها باشد ولی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گوش‌های او همچنان باز است، اما شگفت‌انگیز است که کسی که این همه خوبی را می‌شنود، باز هم نابینا باشد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "این شگفتی بین که باشد کور و گر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "کور ره جویست کٌر خوش نیوش",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کور به دنبال راهی می‌گردد که ناپیداست، مانند ناشنوا که صداهای زیبا را درنمی‌یابد و گنگی که نمی‌تواند خوب سخن بگوید و همیشه در حالت ناتوانی و ناتوانی از راه رفتن است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "گنگ غرنده است و لنگ راه بر",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "با ستور و گاو و خر دشمن و لیک",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود دشواری‌ها و مشکلات، حس شادی و نشاط از زندگی و منابعی که داریم، برای ما ارزشمند است. حتی اگر دشمنانی موجود باشند، باید از آنچه داریم، راضی و خوشنود باشیم."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "شاد ازو جان ستور و گاو و خر",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "هست چون ابری سیه با رعد و برق",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند ابر تیره‌ای است با رعد و برق، اما هرگز از آن بارانی نمی‌بارد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "لیک از او هرگز نمی بارد مطر",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "جنگیئی باشد که او را گاه رزم",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جنگجویی وجود دارد که گاهی با زره ای چوبی و گاهی با سپر آهنی در میدان نبرد حاضر می‌شود."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "جوشن از چوبست و از آهن سپر",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "گاهگاهی زیر چوبین جوشنش",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات، او زیر زره چوبینش استراحتی می‌کند و بر روی نرم‌دستی از پارچه‌های گرانبها دراز می‌کشد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "می کند خفتانی از دیبا به بر",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "پای‌ها دارد ولی افعی مثال",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف موجودی می‌پردازد که دارد پاها ولی مانند افعی، به سرعت و به طرز ماهرانه‌ای در فضا حرکت می‌کند و همچنین قدرت و نیرنگی شبیه سینه مالان (کسانی که با چرب زبانی و نیرنگ به هدف خود می‌رسند) دارد. این موجود در هر دو محیط داخلی و خارجی می‌چرخد و به طور کلی به تصویرسازی از فریبندگی و زیرکی اشاره دارد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "سینه مالان‌، پیچد اندر بوم و بر",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "هست همچون اژدها مردم ربای",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به توصیف موجودی خطرناک و وحشتناک می‌پردازد که مانند اژدهایی آدم‌خوار و تهدید کننده است. این موجود نه تنها مردم را به‌ تباهی می‌کشاند، بلکه در برابر آسیب‌ها و خطرات نیز سپر است. به عبارتی، جامعه یا محیطی که در آن زندگی می‌شود، باید با دقت و احتیاط به این تهدید نزدیک شود."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "اژدری مردم‌خور و هامون سپر",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "هرچه پیش آید بیوبارد همی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که پیش می‌آید، شرایط و موارد مختلفی را به همراه دارد، از جمله انسان‌ها، حیوانات و وسایل نقلیه."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "زادمی و اشتر و اسب و ستر",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "وین شگفتی بین کزین بلعیدنش",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شگفتی را ببین که مردم و حیوانات، وقتی از این می‌خورند، هیچ ضرری نمی‌بینند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "مردم و حیوان نمی‌بیند ضرر",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "لیک اگر بلعیده‌ها دورافکند",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما اگر آنچه بلعیده‌اند را دور بیندازند، جان شیرینشان از بدن خارج می‌شود."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "جان شیرینشان شود از تن بدر",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "گه شود زاو کشوری خرم بهشت",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی از او سرزمین خوشی و بهشتی پدید می‌آید و گاهی نیز سلطنتی را بر هم می‌زند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "گه شود ز او ملکتی زیر و زبر",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "گه بشیر دولتست و جاه و مال",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی خوشحالی و ثروت و مقام را به همراه دارد، و گاهی هم خطر و آشفتگی و غارت را نشان می‌دهد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "گه نذیر غارتست و شور و شر",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "گر فزونش طعمه باشد هست رام",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر طعمه‌اش زیاد باشد، رام و آرام است، اما اگر کم باشد، خطر بالا می‌رود."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "ور کمش باشد خورش زاید خطر",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "تربیت کردنش دشوار است و سخت",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرورش دادن او کار آسانی نیست و اگر به درستی انجام نشود، استعدادهای او به هدر می‌رود."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "واندر آن گنجینه‌ها گردد هدر",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "زین زیانکاری که باشد اندر او",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از این ضرر و زیان که در آن وجود دارد، پادشاهان باید از آن دوری کنند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "پادشاهان را بود از وی حذر",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "گر به کار آید بود بس جانفزای",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کاری که انجام می‌دهی مفید باشد، موجب افزایش زندگی و انرژی‌ات می‌شود، اما اگر از کار بازمانی، ممکن است به ضررت باشد و حالت را خراب کند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "ور ز کار افتد شود بس جان شکر",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "آوخ از این غول شکل دیو فعل",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کاش از این موجود وحشتناک و زشت دور شوم، ای کاش از این قدرت بزرگ و بی‌رحم که مانند یک حیوان درنده است، رهایی یابم."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "آوخ از این پیل زور دد سیر",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "هان‌وهان‌ماریست‌بس خوش‌خط وخال",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، مراقب باش که این معشوق سرشار از زیبایی و جذابیت است، اما در نزدیک شدن به او احتیاط کن و از هرگونه جادوگری دوری کن."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "جانب وی دست بی‌افسون مبر",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "گنج ایران شد هزینه اندر او",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گنج ایران به هزینه‌ای که صرف شده، به دست آمده است، اما ردپای او از سرِ آن گنج ناپیداست."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "باز ناپیداست پای او ز سر",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "بو که گردد رام عزم شهریار",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بوی خوشی که از عزم پادشاه برمی‌خیزد، گام‌های این جانور را آرام و آرام می‌کند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "این هیون بدلگام خاره در",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "گنجهایی را کز ایران خورده است",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این اژدهای گنج‌خور که از ایران ثروت‌های با ارزشی را بلعیده، اکنون شروع به کندن و یافتن آن گنج‌ها می‌کند."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "قی کند این اژدهای گنج‌خور",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "پیش از آن کش افکند از بیخ و بن",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قبل از آن که سیل بزرگ اشک و دود از رنج و درد برآید، باید از اساس و پایه تاثیرات آن را شناخت."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "سیل اشگ و دود آه رنجبر",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "خورده ملیون‌ها، به ما واپس دهد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: میلیون‌ها چیز خورده شده، به ما برمی‌گرداند و کیسه‌هایمان را پر از نقره و طلا می‌کند."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "کیسه‌ها را پر کند از سیم و زر",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "تا که گردد صرف بند هیرمند",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که هزینه‌های ساخت و نگهداری سد هیرمند تأمین شود، یا خرج نگهداری سد شوشتر تأمین گردد."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "یا که گردد خرج سدّ شوشتر",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "تا که گردد صرف کاری کاندران",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که فعالیت‌ها و تلاش‌ها به نفع جامعه و خیر مردم باشد."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "خیر ملت باشد و نفع بشر",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "لختی از آن صرف ایجاد قنات",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای ساختن قنات مقداری از آن هزینه می‌شود و بخشی دیگر صرف هموار کردن مسیر می‌گردد."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "بخشی از آن خرج تسطیح ممر",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "قسمتی زان وقف بر طبع کتاب",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بخشی از این وقف برای نیکو کردن طبیعت کتاب وجود دارد و بخشی دیگر برای هنرمندان تقسیم شده است."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "پاره‌ای زان بخش بر اهل هنر",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "نیمه‌ای خرج سلیح و ساز جنگ",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیمی از هزینه‌ها صرف اسلحه و تجهیزات جنگ می‌شود و نیم دیگر برای نیروی نظامی معروف."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "بهره‌ای خرج سپاه نامور",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "ور شهنشه ریزدی آن را به دور",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شاهی آن چیز را بیفتد و پراکنده کند، مردم از دور آن را می‌ربایند."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "تا ربودندیش خلق از رهگذر",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "به که تقدیم فرنگستان شود",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این عبارت اشاره به این دارد که چیزی که با زحمت و تلاش بسیار به دست آمده، باید به جایگاه و افرادی با ارزش و شایسته تقدیم شود. گویا موضوع این است که آن تلاش و کوشش، نباید هدر برود و باید به کارهایی با اهمیت و درستی برسد."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "آنچه گرد آمد به صد خون جگر",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    }
+  ]
+}

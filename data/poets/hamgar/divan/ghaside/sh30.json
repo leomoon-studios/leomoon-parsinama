@@ -1,0 +1,660 @@
+{
+  "Id": 120443,
+  "CatId": 2777,
+  "Title": "شمارهٔ ۳۰",
+  "FullTitle": "مجد همگر » دیوان اشعار » قصاید » شمارهٔ ۳۰",
+  "FullUrl": "/hamgar/divan/ghaside/sh30",
+  "RhymeLetters": "ال",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن از شاعر ایرانی نشان‌دهنده غم و اندوه او در مورد زندگی و زمانه‌اش است. شاعر از نابسامانی‌ها و مشکلاتی که در عمرش تجربه کرده، مانند دوری از جوانی و زیبایی، رنج می‌برد. او به ناتوانی و بی‌پناهی خود در برابر حوادث زندگی اشاره می‌کند و در عین حال از طبیعت و گذر زمان شکایت دارد. شاعر همچنین از عجز خود در برابر روزگار و سرنوشت می‌گوید و با نگاهی عمیق به جامعه و عدم شناخت خود از روز و شب، احساس ناامیدی و تنهایی را به تصویر می‌کشد. در نهایت، او امید دارد که روزی توانایی خود را برای بیان هنر و زیبایی‌ها به دیگران نشان دهد، و از دربار پادشاه انتظار عفو و رحمت دارد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ال",
+      "PlainText": "بر من زمانه کرد هنرها همه وبال\r\nوز غم بریخت خون جوانیم چرخ زال\r\nدر تنگنای حلقه این اژدهای پیر\r\nشد چون لعاب افعی در حلق من زلال\r\nکلکم ز دست بستد تیر حسود طبع\r\nبر من کمین گشاد سپهر کمان مثال\r\nافعی ست با من این تتق سبز زرنگار\r\nما در خیال آنکه عروسی ست با جمال\r\nبس زود بگسلد ز هم این ششدر کهن\r\nایمن شویم ز آفت این هفت کوتوال\r\nیک صبحدم ز باد دم سرد برکشیم\r\nاز روی این عماری زنگارگون هلال\r\nچون زلف یار کرد مرا چرخ خیره سر\r\nچون خال دوست کرد مرا دهر تیره حال\r\nچرخا چه خواهی از من عور برهنه پای\r\nدهرا چه جویی از من زار شکسته بال\r\nای روزگار سفله علی رغم بخت من\r\nگوهر به سنگ بشکن و در تاج نه سفال\r\nعیسی زنده را به دوسیم سیه مخر\r\nوز زربساز سم خر مرده را نعال\r\nاز چشم باز توخته کن لقمه های بوم\r\nوز ران شیر ساخته کن طعمه شغال\r\nای چشم بخت خفته شو و زین سپس مبین\r\nوی شاخ کام خشک شو و زین سپس مبال\r\nای دل هزار جور دمادم کش و مجوش\r\nوی تن هزار زخم پیاپی خور و منال\r\nای پای پیل فتنه مرا خردتر بکوب\r\nوی دست چرخ سفله مرا سخت تر بمال\r\nاز مالشی که یافت دلم روشنی گرفت\r\nروشن شود هر آینه آیینه از صقال\r\nاز زخم تو چو طبل ننالم به هیچ روی\r\nورخود ز پشت من به مثل برکشی دوال\r\nدرشست حادثات چو ماهی بمانده ام\r\nنه روی استقامت و نه رای ارتحال\r\nگردون چو دام ساخت چه درمان جز انقیاد\r\nایزد چو حکم کرد چه چاره جز امتثال\r\nفرسوده گشتم از کف هر کوب چون نمک\r\nآلوده گشتم از دهن خلق چون خلال\r\nکارم تمام گشته و با نور همچو بدر\r\nنقصان گرفت و تیره شد از غایت کمال\r\nمخفی شدم ز تهمت بدگوی چون قمر\r\nنابوده هیچ با رخ خورشیدم اتصال\r\nترسم چو از محاق تواری برون شوم\r\nدر من کشند مرد وزن انگشت چون هلال\r\nدر کنج انزوا ز نهیب عری خصم\r\nفارغ نیم دمی چو شه رقعه ز انتقال\r\nوقتی چنین که شاخ گل از خاک بردمید\r\nطالع نگرکه بخت مرا خشک شد نهال\r\nشش ماه شدکه می نشناسم ز روز شب\r\nترسم که اخترم به سر آید دراین وبال\r\nبر من نتافت روز زمستان فروغ مهر\r\nبر من نجست وقت بهاران دم شمال\r\nراضی شدم به فرصت دشمن در این عنا\r\nسیر آمدم ز جان و جوانی دراین ملال\r\nعیبم همین که نیستم از نطفه حرام\r\nجرمم همین که زاده ام از نسبتی حلال\r\nهستم ز نسل ساسان نز تخمه تکین\r\nهستم ز صلب کسری نز دوده نیال\r\nدارم به قدر خویش هنر ریزه وز آن\r\nدارد زمانه بامن مسکین سر جدال\r\nشعری به خوش مذاقی چون چاشنی وصل\r\nکلکی به نقشبندی چون صورت خیال\r\nنه رنگ همتم ببرد زنگ بغض و بخل\r\nنه پای همتم بخلد خار جاه و مال\r\nزفتی ندیده چشم کس از من به وقت جود\r\nلا ناشنیده گوش کس از من گه سیوال\r\nجز با هنر نبوده دلم را نشست و خاست\r\nجز با کتب نبوده مرا هیچ قیل و قال\r\nتشویر رد کس نبرد صدق این سخن\r\nگر بر محک عقل زنندم بدین خصال\r\nعمرم ز سی گذشت و نگشتم به عمر شاد\r\nجان در فراق رفت و ندیدم رخ وصال\r\nفصل ربیع عمر چو سی سال بود رفت\r\nزان باقی ام چه سود اگر هست شصت سال\r\nدل را نشاط لهو نباشد پس از شباب\r\nخورشید را فروغ کم آید گه زوال\r\nگر سنگ خاره گوش کند ماجرای من\r\nرحمت کند بر این تن بیچاره لامحال\r\nای مرغ صبح خوان به نوا این سخن بخوان\r\nدر بارگاه شاه جهان گر بود مجال\r\nدانم که شه ز بهر سخن باز جویدم\r\nداند اگر که نیست دراین فن مرا همال\r\nهم در حمایت آوردم عفو شهریار\r\nهم در پناه گیردم الطاف ذوالجلال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر من زمانه کرد هنرها همه وبال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز غم بریخت خون جوانیم چرخ زال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر تنگنای حلقه این اژدهای پیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد چون لعاب افعی در حلق من زلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکلکم ز دست بستد تیر حسود طبع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر من کمین گشاد سپهر کمان مثال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافعی ست با من این تتق سبز زرنگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما در خیال آنکه عروسی ست با جمال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس زود بگسلد ز هم این ششدر کهن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایمن شویم ز آفت این هفت کوتوال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک صبحدم ز باد دم سرد برکشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز روی این عماری زنگارگون هلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون زلف یار کرد مرا چرخ خیره سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون خال دوست کرد مرا دهر تیره حال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرخا چه خواهی از من عور برهنه پای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدهرا چه جوئی از من زار شکسته بال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای روزگار سفله علی رغم بخت من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوهر به سنگ بشکن و در تاج نه سفال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعیسی زنده را به دوسیم سیه مخر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز زربساز سم خر مرده را نعال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چشم باز توخته کن لقمه های بوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز ران شیر ساخته کن طعمه شغال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چشم بخت خفته شو و زین سپس مبین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی شاخ کام خشک شو و زین سپس مبال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل هزار جور دمادم کش و مجوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی تن هزار زخم پیاپی خور و منال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پای پیل فتنه مرا خردتر بکوب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی دست چرخ سفله مرا سخت تر بمال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مالشی که یافت دلم روشنی گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروشن شود هر آینه آئینه از صقال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز زخم تو چو طبل ننالم به هیچ روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورخود ز پشت من به مثل برکشی دوال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرشست حادثات چو ماهی بمانده ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه روی استقامت و نه رای ارتحال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردون چو دام ساخت چه درمان جز انقیاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایزد چو حکم کرد چه چاره جز امتثال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرسوده گشتم از کف هر کوب چون نمک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآلوده گشتم از دهن خلق چون خلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکارم تمام گشته و با نور همچو بدر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقصان گرفت و تیره شد از غایت کمال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمخفی شدم ز تهمت بدگوی چون قمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنابوده هیچ با رخ خورشیدم اتصال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسم چو از محاق تواری برون شوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر من کشند مرد وزن انگشت چون هلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کنج انزوا ز نهیب عری خصم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفارغ نیم دمی چو شه رقعه ز انتقال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقتی چنین که شاخ گل از خاک بردمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطالع نگرکه بخت مرا خشک شد نهال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشش ماه شدکه می نشناسم ز روز شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترسم که اخترم به سر آید دراین وبال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر من نتافت روز زمستان فروغ مهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر من نجست وقت بهاران دم شمال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراضی شدم به فرصت دشمن در این عنا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیر آمدم ز جان و جوانی دراین ملال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعیبم همین که نیستم از نطفه حرام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجرمم همین که زاده ام از نسبتی حلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستم ز نسل ساسان نز تخمه تکین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهستم ز صلب کسری نز دوده نیال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدارم به قدر خویش هنر ریزه وز آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدارد زمانه بامن مسکین سر جدال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشعری به خوش مذاقی چون چاشنی وصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلکی به نقشبندی چون صورت خیال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه رنگ همتم ببرد زنگ بغض و بخل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه پای همتم بخلد خار جاه و مال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزفتی ندیده چشم کس از من به وقت جود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلا ناشنیده گوش کس از من گه سئوال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز با هنر نبوده دلم را نشست و خاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز با کتب نبوده مرا هیچ قیل و قال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتشویر رد کس نبرد صدق این سخن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر بر محک عقل زنندم بدین خصال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمرم ز سی گذشت و نگشتم به عمر شاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان در فراق رفت و ندیدم رخ وصال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفصل ربیع عمر چو سی سال بود رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان باقی ام چه سود اگر هست شصت سال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل را نشاط لهو نباشد پس از شباب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید را فروغ کم آید گه زوال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر سنگ خاره گوش کند ماجرای من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرحمت کند بر این تن بیچاره لامحال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرغ صبح خوان به نوا این سخن بخوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بارگاه شاه جهان گر بود مجال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانم که شه ز بهر سخن باز جویدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداند اگر که نیست دراین فن مرا همال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم در حمایت آوردم عفو شهریار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم در پناه گیردم الطاف ذوالجلال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 42
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر من زمانه کرد هنرها همه وبال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی به من هنرهای بسیاری آموخت که همگی برایم دردسر شدند و از غم‌های زندگی، جوانی‌ام به هدر رفت."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز غم بریخت خون جوانیم چرخ زال",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در تنگنای حلقه این اژدهای پیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در شرایط سخت و دشواری که داشتم، احساس می‌کردم مانند مایعی شفاف و زلال درون من وجود دارد که به تازگی به وجود آمده، درست مثل لعاب افعی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شد چون لعاب افعی در حلق من زلال",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کلکم ز دست بستد تیر حسود طبع",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه‌ی شما تحت تأثیر تیر حسد قرار گرفتید و به خاطر آن، آسمان مانند کمانی که به سوی من نشانه رفته، آماده‌ی شلیک است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بر من کمین گشاد سپهر کمان مثال",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "افعی ست با من این تتق سبز زرنگار",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با من این رنگ سبز و زیبا مانند افعی است، در حالی که در خیال خود تصور می‌کنم که زیبایی مانند یک عروس است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ما در خیال آنکه عروسی ست با جمال",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بس زود بگسلد ز هم این ششدر کهن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زودتر از آنکه فکرش را بکنیم، این گنبد کهن ممکن است از هم بگسلد. پس بیایید از خطرات این هفت نگهبان در امان باشیم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ایمن شویم ز آفت این هفت کوتوال",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "یک صبحدم ز باد دم سرد برکشیم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در سپیده دم یکی از روزها، نسیم خنکی را بزنیم و از روی این دایره‌ی زنگاری (به معنای مکانی که از زنگار پوشیده شده) که شبیه به هلال است، بگذریم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از روی این عماری زنگارگون هلال",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چون زلف یار کرد مرا چرخ خیره سر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون که زلف یار مرا گیج و متعجب کرد، مانند اینکه دنیا به من حالتی سخت و تیره بخشیده است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چون خال دوست کرد مرا دهر تیره حال",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "چرخا چه خواهی از من عور برهنه پای",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای گردونه سرنوشت، از من چه می‌خواهی؟ من در این جهان پراز مشکلات و آسیب‌ها، تنها یک موجود بی‌پناهم که در حال شکست و آسیب دیدن است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "دهرا چه جوئی از من زار شکسته بال",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ای روزگار سفله علی رغم بخت من",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای روزگار ناگوار، با وجود اینکه خوشبختی من را نادیده گرفته‌ای، ارزشمند و گرانبها را به چیزهای بی‌ارزش و خُرد تبدیل کن و در تاج و تخت قرار بده."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "گوهر به سنگ بشکن و در تاج نه سفال",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "عیسی زنده را به دوسیم سیه مخر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عیسی زنده را نباید به دو سیم سیاه گره بزنی و زینت زرین بر روی تن خر مرده قرار دهی."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "وز زربساز سم خر مرده را نعال",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "از چشم باز توخته کن لقمه های بوم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به چشم‌های باز تو دقت کن و لقمه‌های موجوداتی را که به دام می‌آورند، درست کن، و از گوشت حیوانات قوی‌تر استفاده کن تا شکارچیان ضعیف‌تر را فریب دهی."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "وز ران شیر ساخته کن طعمه شغال",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "ای چشم بخت خفته شو و زین سپس مبین",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای چشمان بخت، بیدار شو و از این پس به کارهای بیهوده نگاه نکن، همچون شاخه‌ای که دیگر بار نمی‌دهد، از این پس خود را درگیر مسائل بی‌فایده نکن."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "وی شاخ کام خشک شو و زین سپس مبال",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "ای دل هزار جور دمادم کش و مجوش",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، با هر حال و وضع ممکن زندگی کن و نگران نباش. ای بدن، زخم‌ها و دردهای زیادی را تحمل کن و ناامید نشو."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "وی تن هزار زخم پیاپی خور و منال",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "ای پای پیل فتنه مرا خردتر بکوب",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پای بزرگ فتنه، مرا بیشتر خرد کن و ای دست چرخ بدبختی، مرا بیشتر فشرده و تحت فشار قرار بده."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "وی دست چرخ سفله مرا سخت تر بمال",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "از مالشی که یافت دلم روشنی گرفت",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر نوازشی که دلم دریافت کرد، روشنی و روشنایی پیدا کردم. هر بار که آئینه را صیقل می‌زنم، نور بیشتری می‌گیرد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "روشن شود هر آینه آئینه از صقال",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "از زخم تو چو طبل ننالم به هیچ روی",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از زخم تو به هیچ وجه ناله نکنم و اگر تو از پشت سر من، مانند یک ضربه به صدا درآوری، هیچ چیزی نخواهم گفت."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "ورخود ز پشت من به مثل برکشی دوال",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "درشست حادثات چو ماهی بمانده ام",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در میان اتفاقات و مشکلات زندگی مانند ماهی در آب شناور مانده‌ام؛ نه می‌توانم به راه ثابت و پابرجایی ادامه دهم و نه توانایی ترک این وضعیت را دارم."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "نه روی استقامت و نه رای ارتحال",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "گردون چو دام ساخت چه درمان جز انقیاد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان مانند دام ساخته شده است و بنابراین راهی جز تسلیم بودن وجود ندارد. زمانی که خداوند حکمی صادر می‌کند، نمی‌توان راهی جز اطاعت از آن اختیار کرد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "ایزد چو حکم کرد چه چاره جز امتثال",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "فرسوده گشتم از کف هر کوب چون نمک",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خسته و از پاافتاده شده‌ام از برخوردهای مکرر، مانند نمکی که از زبان مردم به من رسیده و مرا آسیب‌دیده کرده است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "آلوده گشتم از دهن خلق چون خلال",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "کارم تمام گشته و با نور همچو بدر",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کار من به پایان رسیده و با وجود زیبایی و نورانی‌اش، به تدریج کاهش یافته و به خاطر کمال و اوجش، به تاریکی گرایش پیدا کرده است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "نقصان گرفت و تیره شد از غایت کمال",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "مخفی شدم ز تهمت بدگوی چون قمر",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از بدگویی‌ها و تهمت‌ها پنهان شده‌ام، مانند قمر که ناپیداست و هیچ پیوندی با چهره‌ی خورشید ندارد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "نابوده هیچ با رخ خورشیدم اتصال",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "ترسم چو از محاق تواری برون شوم",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌ترسم وقتی که از تاریکی و غیبت تو خارج شوم، در درون من مانند انگشت هلالی، ضعف و ناتوانی به وجود آید."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "در من کشند مرد وزن انگشت چون هلال",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "در کنج انزوا ز نهیب عری خصم",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در گوشه‌ای دور از دیگران، بی‌آنکه از تهدید دشمن بترسم، لحظه‌ای آرامش دارم؛ مانند پادشاهی که نامه‌ای از تغییرات دنیا در دست دارد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "فارغ نیم دمی چو شه رقعه ز انتقال",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "وقتی چنین که شاخ گل از خاک بردمید",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که گل از خاک جوانه زد و به شکوفایی رسید، نگاهی به سرنوشت خود بینداز که چگونه بخت من همچنان در حال پژمردگی است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "طالع نگرکه بخت مرا خشک شد نهال",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "شش ماه شدکه می نشناسم ز روز شب",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شش ماه است که روز و شب را نمی‌شناسم و نگرانم که ستاره‌ام در این حالت بد به پایان برسد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "ترسم که اخترم به سر آید دراین وبال",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "بر من نتافت روز زمستان فروغ مهر",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید در روزهای سرد زمستان بر من تابش نکرد و در بهار هم، باد شمالی به من نفوذ نکرد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "بر من نجست وقت بهاران دم شمال",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "راضی شدم به فرصت دشمن در این عنا",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر دشمن، به شرایط سخت و ملالت‌بار راضی شدم و به این وضعیت عادت کردم، حتی اگر این وضعیت از من جوانی و جانم را بگیرد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "سیر آمدم ز جان و جوانی دراین ملال",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "عیبم همین که نیستم از نطفه حرام",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من تنها عیبم این است که از نطفه‌ای حرام به دنیا نیامده‌ام و گناهی که دارم این است که از نسلی حلال متولد شده‌ام."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "جرمم همین که زاده ام از نسبتی حلال",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "هستم ز نسل ساسان نز تخمه تکین",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از نسل ساسانیان و از خانواده‌ای برجسته و پرآوازه هستم، من از نسل کسری، پادشاهی بزرگ و معروف، می‌باشم."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "هستم ز صلب کسری نز دوده نیال",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "دارم به قدر خویش هنر ریزه وز آن",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به اندازه توانایی‌ام هنری دارم و زمانه نیز با من، که در وضعیت ناگواری به سر می‌برم، در حال جدال است."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "دارد زمانه بامن مسکین سر جدال",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "شعری به خوش مذاقی چون چاشنی وصل",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شعری که به اندازه‌ی چاشنی برای وصل خوشمزه است، مانند نقش و نگاری است که به زیبایی یک خیال شباهت دارد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "کلکی به نقشبندی چون صورت خیال",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "نه رنگ همتم ببرد زنگ بغض و بخل",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه رنگ همتم تحت تأثیر بغض و حسادت قرار می‌گیرد، نه اجازه می‌دهم مشکلات و موانع دنیا، مانع پیشرفتم شوند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "نه پای همتم بخلد خار جاه و مال",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "زفتی ندیده چشم کس از من به وقت جود",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز چشم کسی نتوانسته مرا ببیند، و در هنگام بخشش من، هیچ گوش‌ شنونده‌ای نتوانسته صدای مرا بشنود، حتی وقتی که سوالی می‌شود."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "لا ناشنیده گوش کس از من گه سئوال",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "جز با هنر نبوده دلم را نشست و خاست",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من تنها با زیبایی‌ها و هنرها آرام می‌گیرد و برمی‌خیزد. هیچ‌گونه بحث و جنجالی برای من وجود نداشته است جز در دنیای کتاب‌ها."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "جز با کتب نبوده مرا هیچ قیل و قال",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "تشویر رد کس نبرد صدق این سخن",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی درستی این سخن را بر اساس عقل و استدلال خود مورد بررسی قرار دهد، هرگز نمی‌تواند به آن شک کند و خلاف آن را بپذیرد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "گر بر محک عقل زنندم بدین خصال",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "عمرم ز سی گذشت و نگشتم به عمر شاد",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عمر من بیش از سی سال سپری شده و من هرگز در این عمر شاد نبوده‌ام. جانم در جدایی رفته و نتوانستم چهره‌ی محبوبم را ببینم."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "جان در فراق رفت و ندیدم رخ وصال",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "فصل ربیع عمر چو سی سال بود رفت",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عمر انسان در بهار زندگی، یعنی در سی سالگی، به سرعت گذشت. حالا که از آن زمان گذشته و شصت سال عمر کرده‌ام، چه فایده‌ای دارد اگر هنوز باقی‌مانده‌ای از عمر باشد؟"
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "زان باقی ام چه سود اگر هست شصت سال",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "دل را نشاط لهو نباشد پس از شباب",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل بعد از جوانی دیگر شادی و خوشحالی نمی‌گیرد، همان‌طور که نور خورشید در زمان غروب کم‌نور می‌شود."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "خورشید را فروغ کم آید گه زوال",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "گر سنگ خاره گوش کند ماجرای من",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سنگی سخت به داستان من گوش دهد، رحمت خواهد آورد بر این بدن بیچاره که چاره‌ای ندارد."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "رحمت کند بر این تن بیچاره لامحال",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "ای مرغ صبح خوان به نوا این سخن بخوان",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پرنده صبح، با صدای نغمه‌ات این سخن را در حضور پادشاه جهانی که اگر فرصتی باشد، سر بده."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "در بارگاه شاه جهان گر بود مجال",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "دانم که شه ز بهر سخن باز جویدم",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من می‌دانم که پادشاه به خاطر سخن، به دنبال من می‌گردد، و او می‌داند که اگر در این هنر مهارت ندارم، از من ناامید خواهد شد."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "داند اگر که نیست دراین فن مرا همال",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "هم در حمایت آوردم عفو شهریار",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از محبتی که شهریار به من دارد بهره‌مند شدم و همچنین از رحمت و نعمت‌هایی که خداوند بر ما می‌بارد، در امان هستم."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "هم در پناه گیردم الطاف ذوالجلال",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    }
+  ]
+}

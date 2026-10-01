@@ -1,0 +1,434 @@
+{
+  "Id": 33734,
+  "CatId": 782,
+  "Title": "بخش ۱ - المقاله التاسعه",
+  "FullTitle": "عطار » اسرارنامه » بخش نهم » بخش ۱ - المقاله التاسعه",
+  "FullUrl": "/attar/asrarname/abkhsh9/sh1",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر در مورد پاکی و ناپاکی در زندگی و تأثیر آن بر سرنوشت انسان بعد از مرگ است. شاعر به خواننده می‌گوید که اگر با قلبی پاک و نیت خالص از دنیا بروی، به بهشت و نور می‌رسیدی و از نعمت‌های خداوند بهره‌مند خواهی شد. اما اگر به آلایش‌ها و ناپاکی‌ها آلوده باشی، با عذاب و مشکلات در دنیای دیگر مواجه خواهی شد. بنابراین، رفتار و طرز زندگی هر فرد، تأثیر مستقیم بر سرنوشت او در آخرت دارد و هر کس باید در انتخاب راه خود دقت کند. در نهایت، شاعر بر اهمیت درک و بصیرت تأکید می‌کند و می‌گوید که انسان باید هوشیار باشد و از ناپاکی‌ها دوری کند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "بدان ای پاک دین گر پاک آیی\r\nکه آن ساعت که زیر خاک آیی\r\nقدم بیرون نهی از کوی دنیا\r\nنبینی نیز هرگز روی دنیا\r\nچو رفتی رفتی از دنیا و رفتی\r\nدگر هرگز به دنیا در نیفتی\r\nبه عقبی بارگاهی یابی از نور\r\nبپوشی حله و در بر کشی حور\r\nوگر آلایشی داری ز کاری\r\nدر آلایش بمانی روزگاری\r\nهمه شرکت حواس تست در راه\r\nهمه ابلیس و همت دیو بدخواه\r\nهمه مرگ تو خوی ناخوش تست\r\nهمه خشمت به دوزخ آتش تست\r\nهر آنگه کز جهان رفتی تو بیرون\r\nنخواهد بود حالت از دو بیرون\r\nاگر آلوده ای پالوده گردی\r\nوگر پالوده ای آسوده گردی\r\nچو تو آلوده باشی و گنهکار\r\nکنندت در نهاد خود گرفتار\r\nوگر پالوده دل باشی تو در راه\r\nفشانان دست بخرامی به درگاه\r\nفراز عیش و شیب و جاه با توست\r\nبهشت و دوزخت همراه با توست\r\nهمی تا تو چگونه رفت خواهی\r\nدرین ره بر چه پهلو خفت خواهی\r\nاگر در پرده ای در پرده باشی\r\nدر آن چیزی که در وی مرده باشی\r\nنمیرد هیچ بینادل سفیهی\r\nنخیزد هیچ کناسی فقیهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدان ای پاک دین گر پاک آیی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آن ساعت که زیر خاک آیی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقدم بیرون نهی از کوی دنیا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبینی نیز هرگز روی دنیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو رفتی رفتی از دنیا و رفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدگر هرگز به دنیا در نیفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه عقبی بارگاهی یابی از نور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبپوشی حله و در بر کشی حور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر آلایشی داری ز کاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آلایش بمانی روزگاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه شرکت حواس تست در راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه ابلیس و همت دیو بدخواه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه مرگ تو خوی ناخوش تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه خشمت به دوزخ آتش تست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر آنگه کز جهان رفتی تو بیرون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنخواهد بود حالت از دو بیرون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر آلوده‌ای پالوده گردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگر پالوده‌ای آسوده گردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو تو آلوده باشی و گنهکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنندت در نهاد خود گرفتار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر پالوده‌دل باشی تو در راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفشانان دست بخرامی به درگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفراز عیش و شیب و جاه با توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهشت و دوزخت همراه با توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی تا تو چگونه رفت خواهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرین ره بر چه پهلو خفت خواهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر در پرده‌ای در پرده باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آن چیزی که در وی مرده باشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمیرد هیچ بینادل سفیهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنخیزد هیچ کناسی فقیهی \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 15
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اکایی",
+      "PlainText": "بدان ای پاک دین گر پاک آیی\r\nکه آن ساعت که زیر خاک آیی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدان ای پاک دین گر پاک آیی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آن ساعت که زیر خاک آیی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ویدنیا",
+      "PlainText": "قدم بیرون نهی از کوی دنیا\r\nنبینی نیز هرگز روی دنیا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقدم بیرون نهی از کوی دنیا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبینی نیز هرگز روی دنیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فتی",
+      "PlainText": "چو رفتی رفتی از دنیا و رفتی\r\nدگر هرگز به دنیا در نیفتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو رفتی رفتی از دنیا و رفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدگر هرگز به دنیا در نیفتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ور",
+      "PlainText": "به عقبی بارگاهی یابی از نور\r\nبپوشی حله و در بر کشی حور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه عقبی بارگاهی یابی از نور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبپوشی حله و در بر کشی حور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اری",
+      "PlainText": "وگر آلایشی داری ز کاری\r\nدر آلایش بمانی روزگاری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر آلایشی داری ز کاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آلایش بمانی روزگاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "همه شرکت حواس تست در راه\r\nهمه ابلیس و همت دیو بدخواه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه شرکت حواس تست در راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه ابلیس و همت دیو بدخواه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "شتست",
+      "PlainText": "همه مرگ تو خوی ناخوش تست\r\nهمه خشمت به دوزخ آتش تست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه مرگ تو خوی ناخوش تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه خشمت به دوزخ آتش تست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وبیرون",
+      "PlainText": "هر آنگه کز جهان رفتی تو بیرون\r\nنخواهد بود حالت از دو بیرون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر آنگه کز جهان رفتی تو بیرون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنخواهد بود حالت از دو بیرون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ودهگردی",
+      "PlainText": "اگر آلوده ای پالوده گردی\r\nوگر پالوده ای آسوده گردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر آلوده‌ای پالوده گردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگر پالوده‌ای آسوده گردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "چو تو آلوده باشی و گنهکار\r\nکنندت در نهاد خود گرفتار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو تو آلوده باشی و گنهکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنندت در نهاد خود گرفتار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "وگر پالوده دل باشی تو در راه\r\nفشانان دست بخرامی به درگاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر پالوده‌دل باشی تو در راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفشانان دست بخرامی به درگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اهباتوست",
+      "PlainText": "فراز عیش و شیب و جاه با توست\r\nبهشت و دوزخت همراه با توست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفراز عیش و شیب و جاه با توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهشت و دوزخت همراه با توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فتخواهی",
+      "PlainText": "همی تا تو چگونه رفت خواهی\r\nدرین ره بر چه پهلو خفت خواهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی تا تو چگونه رفت خواهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرین ره بر چه پهلو خفت خواهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ردهباشی",
+      "PlainText": "اگر در پرده ای در پرده باشی\r\nدر آن چیزی که در وی مرده باشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر در پرده‌ای در پرده باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آن چیزی که در وی مرده باشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یهی",
+      "PlainText": "نمیرد هیچ بینادل سفیهی\r\nنخیزد هیچ کناسی فقیهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنمیرد هیچ بینادل سفیهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنخیزد هیچ کناسی فقیهی \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بدان ای پاک دین گر پاک آیی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در دین خود پاک و پاکیزه هستی، بدان که اگر با نیت و دل پاک به این دنیا بیایی، آنگاه خواهد بود که در لحظه‌ای که به زیر خاک می‌روی، همچنان با همان پاکی و صداقت به یاد خواهی آمد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که آن ساعت که زیر خاک آیی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قدم بیرون نهی از کوی دنیا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر از مسیر دنیا و مادیات پا بیرون بگذاری، هرگز زیبایی‌ها و جنبه‌های جذاب آن را نخواهی دید."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نبینی نیز هرگز روی دنیا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو رفتی رفتی از دنیا و رفتی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به دنیا خاتمه می‌دهی، دیگر هرگز به آن بازنمی‌گردی و دیگر در آن نخواهی بود."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دگر هرگز به دنیا در نیفتی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به عقبی بارگاهی یابی از نور",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: اگر به جایی بروی که از نور پر شده، آنجا را به شکلی زیبا و جلوه‌گر درآوری و با زیبایی به استقبال کسانی بیایی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بپوشی حله و در بر کشی حور",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "وگر آلایشی داری ز کاری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر مشکلی یا آلودگی‌ای از کارهای خود داری، در آن آلودگی باقی می‌مانی و زمان زیادی را در پی آن سپری می‌کنی."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در آلایش بمانی روزگاری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "همه شرکت حواس تست در راه",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: همه مشغولند به کار و حواسشان درگیر است، اما در واقع همه به دام فریب و وسوسه شیطان و دشمنی دیو بدخواه گرفتارند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "همه ابلیس و همت دیو بدخواه",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "همه مرگ تو خوی ناخوش تست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تمام مشکلات و دردهای تو ناشی از رفتار ناخوشایند خودت است و تمام خشم و ناراحتی‌ات به آتش دوزخ می‌انجامد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "همه خشمت به دوزخ آتش تست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "هر آنگه کز جهان رفتی تو بیرون",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: هر وقت از این دنیا بیرون بروی، حالت و روح تو هرگز از دو حالت نمی‌تواند خارج شود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "نخواهد بود حالت از دو بیرون",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "اگر آلوده‌ای پالوده گردی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر درگیر مشکلات و ناآرامی‌ها شوی، یا به آرامش و رهایی برسید، هر دو حالت ممکن است برای شما پیش بیاید."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "وگر پالوده‌ای آسوده گردی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "چو تو آلوده باشی و گنهکار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر تو خود را آلوده و گناهکار کرده باشی، دیگران نیز بر اساس همین رفتار تو به خودشان آسیب می‌زنند و در درون خود گرفتار می‌شوند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "کنندت در نهاد خود گرفتار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "وگر پالوده‌دل باشی تو در راه",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: اگر دل پاک و بی‌آلایش داشته باشی، هنگامی که به درگاه خدا بروی، دست خود را به نشانه فروتنی و درخواست به سوی او دراز کن."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "فشانان دست بخرامی به درگاه",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "فراز عیش و شیب و جاه با توست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در اوج خوشی و در زمان سختی، تو همیشه در کنار من هستی و حتی در بهشت و جهنم هم از هم جدا نیستیم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "بهشت و دوزخت همراه با توست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "همی تا تو چگونه رفت خواهی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که تو باید ببینی چطور باید راه بروی و در این مسیر، باید خودت را آماده کنی که چگونه در کنار آن انسان‌ها و موقعیت‌ها قرار بگیری."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "درین ره بر چه پهلو خفت خواهی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "اگر در پرده‌ای در پرده باشی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر در حجاب و پنهان باشی، در چیزی که در آنی، هیچ‌گونه وجودی نخواهی داشت."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "در آن چیزی که در وی مرده باشی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "نمیرد هیچ بینادل سفیهی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هیچ انسان آگاه و بصیر از دنیا نمی‌رود و هیچ دانشمند و فقیهی از بین نمی‌رود."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "نخیزد هیچ کناسی فقیهی ",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    }
+  ]
+}

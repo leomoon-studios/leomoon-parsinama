@@ -1,0 +1,585 @@
+{
+  "Id": 27790,
+  "CatId": 233,
+  "Title": "شمارهٔ ۱۲۷ - در مرثیهٔ امیر رشید الدین اسد شروانی",
+  "FullTitle": "خاقانی » دیوان اشعار » قطعات » شمارهٔ ۱۲۷ - در مرثیهٔ امیر رشید الدین اسد شروانی",
+  "FullUrl": "/khaghani/divankh/ghetekh/sh127",
+  "RhymeLetters": "سد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره وفات علی (ع) و ویژگی‌های برجسته‌اش است. شاعر در سوگ او ناله و فغان می‌کند و به یاد می‌آورد که چگونه علی با دلاوری‌اش، خیبر را گشود و در جنگ‌ها از ذوالفقار خود استفاده کرد. او به صورت زیبایی ویژگی‌های علی را با نشانه‌های آسمانی مقایسه می‌کند و به کرامت و بخشندگی‌اش اشاره می‌کند. در گدشته‌ها علی را به عنوان خورشید و روشنایی می‌شناختند و فقدانش بر دل‌ها سنگینی می‌کند. شاعر به درد و اندوه قلبی‌اش از عدم حضور علی می‌پردازد و ارتباطش با دوستان و دشمنانش را منعکس می‌کند. در نهایت، از خداوند طلب یاری می‌کند تا غم و اندوهش را تسلی دهد.",
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "سد",
+      "PlainText": "آه و دردا که شبیخون اجل\r\nدر زد آتش به شبستان اسد\r\nبدل نغمه عنقاست کنون\r\nنغمه جغد بر ایوان اسد\r\nاسدالله عجم خواند علیش\r\nکه علی بود ز اقران رسد\r\nلاجرم خیبر خزران بگشاد\r\nذوالفقار کف رخشان اسد\r\nلاجرم ز ابلق چرب آخور چرخ\r\nدل دلی داشت خم ران اسد\r\nبود معن عرب و سیف یمن\r\nدر کرم هندوی دربان اسد\r\nگر اسد خانه خورشید نهند\r\nداشت خورشید کرم خان اسد\r\nتاج بخش ملک مشرق بود\r\nاین نه بس باشد برهان اسد\r\nمشتری ساختی از جرم زحل\r\nمسن خنجر بران اسد\r\nباز مریخ ز مهر افکندی\r\nساخت زر بر تن یکران اسد\r\nباز زهره به عطارد بردی\r\nنامه جود به عنوان اسد\r\nباز مه بودی هر ماه دوبار\r\nگاه خوان گاه نمکدان اسد\r\nآسمان کردی بر گنج کمال\r\nحمل و ثور دو قربان اسد\r\nمهر و مه بود چو جوزا دو بدو\r\nخادم طالع سرطان اسد\r\nکمتر از داس سر سنبله بود\r\nاسد چرخ به میزان اسد\r\nنیش عقرب شده و قوس قزح\r\nهم کمان هم سر پیکان اسد\r\nمجلسش کعبه و انداخته دلو\r\nخلق در زمزم احسان اسد\r\nبخت بر کوس فلک بستی پوست\r\nاز تن جدی به فرمان اسد\r\nوز فم الحوت نهادی دندان\r\nبر سر ترکش ترکان اسد\r\nسالها قصد فلک داشت مگر\r\nجنبش رای فلک سان اسد\r\nاسدا کنون چو اسد بر فلک است\r\nای فلک جان تو و جان اسد\r\nفلکی بین شده بالای فلک\r\nاسدی بین شده مهمان اسد\r\nدشمن نیک اسد خوانندم\r\nدوستان بد نادان اسد\r\nبه خدایی که فرستاد از عرش\r\nآیت عاطفه در شان اسد\r\nبه خدایی که رقوم حسنات\r\nکرد توقیع به دیوان اسد\r\nبه خدایی که اسد را ز فلک\r\nبگذرانید ز امکان اسد\r\nبه خدایی که اسد را به بهشت\r\nبسانید ز ایمان اسد\r\nکه به شروان ز دلم سوخته تر\r\nهیچ دل نیست ز هجران اسد\r\nعلم الله که ز من غم زه ده تر\r\nهیچکس نیست ز اخوان اسد\r\nاشک ها راندم و گر حاضر می\r\nتعزیت داشتمی آن اسد\r\nعاریت خواستمی گوهر اشک\r\nز ابر دست گهر افشان اسد\r\nحاش لله که سماتت ورزم\r\nچون خزان بینم نیسان اسد\r\nعبرت آید دل ویران مرا\r\nدیدن خانه ویران اسد\r\nگرچه در مدت چل سال تمام\r\nبی نیازی بدم از نان اسد\r\nلیک چون من به همه شروان کیست\r\nکه نبد ریزه خور خوان اسد\r\nز آن همه ریزه خوران یک کس نیست\r\nشاکر جود فراوان اسد\r\nلیکن از گفته خاقانی ماند\r\nنام جاوید ز دوران اسد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه و دردا که شبیخون اجل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر زد آتش به شبستان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدل نغمهٔ عنقاست کنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنغمهٔ جغد بر ایوان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسدالله عجم خواند علیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه علی بود ز اقران رسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلاجرم خیبر خزران بگشاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذوالفقار کف رخشان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلاجرم ز ابلق چرب‌آخور چرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل دلی داشت خم ران اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود معن عرب و سیف یمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کرم هندوی دربان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر اسد خانهٔ خورشید نهند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداشت خورشید کرم خان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاج بخش ملک مشرق بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین نه بس باشد برهان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمشتری ساختی از جرم زحل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمسن خنجر بران اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز مریخ ز مهر افکندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساخت زر بر تن یکران اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز زهره به عطارد بردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامهٔ جود به عنوان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز مه بودی هر ماه دوبار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاه خوان گاه نمکدان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآسمان کردی بر گنج کمال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحمل و ثور دو قربان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهر و مه بود چو جوزا دو بدو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخادم طالع سرطان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکمتر از داس سر سنبله بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسد چرخ به میزان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیش عقرب شده و قوس قزح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم کمان هم سر پیکان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجلسش کعبه و انداخته دلو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخلق در زمزم احسان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخت بر کوس فلک بستی پوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تن جدی به فرمان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز فم الحوت نهادی دندان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر ترکش ترکان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسالها قصد فلک داشت مگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجنبش رای فلک‌سان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسدا کنون چو اسد بر فلک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای فلک جان تو و جان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلکی بین شده بالای فلک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسدی بین شده مهمان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدشمن نیک اسد خوانندم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوستان بد نادان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خدائی که فرستاد از عرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیت عاطفه در شان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خدائی که رقوم حسنات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد توقیع به دیوان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خدائی که اسد را ز فلک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذرانید ز امکان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خدائی که اسد را به بهشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسانید ز ایمان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه به شروان ز دلم سوخته‌تر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ دل نیست ز هجران اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم الله که ز من غم‌زه‌ده‌تر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچکس نیست ز اخوان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشک‌ها راندم و گر حاضر می\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتعزیت داشتمی آن اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاریت خواستمی گوهر اشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز ابر دست گهر افشان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاش لله که سماتت ورزم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون خزان بینم نیسان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعبرت آید دل ویران مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدن خانهٔ ویران اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه در مدت چل سال تمام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌نیازی بدم از نان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک چون من به همه شروان کیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نبد ریزه خور خوان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آن همه ریزه خوران یک کس نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاکر جود فراوان اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیکن از گفتهٔ خاقانی ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنام جاوید ز دوران اسد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 37
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آه و دردا که شبیخون اجل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کاش نمی‌بود این مصیبت که ناگهان مرگ سر رسید و آتش بر پیکر زندگی ما افکند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در زد آتش به شبستان اسد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بدل نغمهٔ عنقاست کنون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اکنون به جای صدای خوش و دلنشین، صدای غم‌انگیز و بی‌روحی به گوش می‌رسد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نغمهٔ جغد بر ایوان اسد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اسدالله عجم خواند علیش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علی، که به عنوان بزرگترین و بهترین در میان همقطارانش شناخته می‌شود، از خصلت‌های نیکو و صفات برجسته‌ای برخوردار است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که علی بود ز اقران رسد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "لاجرم خیبر خزران بگشاد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به ناچار، خیبر به وسیله ذوالفقار، شمشیر درخشان شیر، گشوده شد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ذوالفقار کف رخشان اسد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "لاجرم ز ابلق چرب‌آخور چرخ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به ناچار، از اسب چاق و خوش‌خوراک، قلب و دل شیر از خم و پیچش دلی برخوردار بود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دل دلی داشت خم ران اسد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بود معن عرب و سیف یمن",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به تقدیس و ارزش معنوی اعراب و سلاح یمن اشاره شده و در ادامه به کرامت و سرفرازی رنجور هندوی درباری که به شیر تشبیه شده، پرداخته می‌شود. به نوعی، این جمله نشان‌دهنده عظمت و شرافت فرهنگی و نظامی مردمان مختلف است و تضادهایی را بین ویژگی‌های آنها به تصویر می‌کشد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "در کرم هندوی دربان اسد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "گر اسد خانهٔ خورشید نهند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شیر را در خانهٔ خورشید قرار دهند، خورشید هم احترام و محبت شیر را پاس می‌دارد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "داشت خورشید کرم خان اسد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "تاج بخش ملک مشرق بود",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تاجی که بر سر سرزمین‌های شرقی قرار دارد، فقط یک دلیل برای بزرگ بودن و اهمیتش کافی نیست."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "این نه بس باشد برهان اسد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "مشتری ساختی از جرم زحل",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو با استفاده از ماده‌ای که از زحل گرفته‌ای، چیزی را ساخته‌ای که مانند خنجری تیز و بران است و می‌تواند به شجاعت و قدرت شیر شباهت داشته باشد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "مسن خنجر بران اسد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "باز مریخ ز مهر افکندی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مریخ دوباره با تابش محبتش، بر تن شیر پوششی طلایی به وجود آورد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "ساخت زر بر تن یکران اسد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "باز زهره به عطارد بردی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زهره دوباره نامه‌ای از جانب عطار به نشان بزرگ‌مردی و سخاوت فرستاده است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "نامهٔ جود به عنوان اسد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "باز مه بودی هر ماه دوبار",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ماه هر دو هفته یکبار به اوج زیبایی و نور خود می‌رسد، گاهی در کنار سفره‌ای ست که در آن غذایی خوشمزه و گاهی هم نمکی برای چشیدن وجود دارد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "گاه خوان گاه نمکدان اسد",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "آسمان کردی بر گنج کمال",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در آسمان، بر گنج بزرگ کمال، دو موهبتی که به تلیلی حمله می‌کنند و ثور به عنوان قربانی، نمادی از شجاعت و قدرت اسد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "حمل و ثور دو قربان اسد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "مهر و مه بود چو جوزا دو بدو",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت به ارتباط دو عنصر در آسمان اشاره شده است. مهر و ماه به نوعی شبیه به یکدیگر هستند و به صورت همزمان در یک مکان قرار دارند. همچنین اشاره‌ای به زائیده شدن یا تأثیر طالع برج سرطان و شیر نیز وجود دارد که نقش خاصی در زندگی فرد دارند. به طور کلی، این عبارت به تأثیر ستاره‌ها و موقعیت‌های آسمانی بر سرنوشت انسان‌ها اشاره می‌کند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "خادم طالع سرطان اسد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "کمتر از داس سر سنبله بود",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که قدرت و توانایی یک شیر (نماد قدرت و شجاعت) به مراتب بیشتر از چیزهایی مثل داس یا ابزارهای دیگر است. در واقع، شیر به عنوان یک نماد از قدرت و شجاعت، از ابزارها و وسایل ساده بیشتر ارزش و اهمیت دارد. همچنین اشاره به میزان و اندازه دارد که در اینجا نشان‌دهنده برتری شیر نسبت به دیگر چیزهاست."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "اسد چرخ به میزان اسد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "نیش عقرب شده و قوس قزح",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن از زهر عقرب و تیری است که به شکل قوس قزح درآورده شده و نشانه‌ای از قدرت و خطر است. این تصویر نمایانگر حالتی نیرومند و متنوع است که می‌تواند به هر لحظه تغییر کند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "هم کمان هم سر پیکان اسد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "مجلسش کعبه و انداخته دلو",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مجلس او مانند کعبه است و مردم در آن به دنبال خیر و نیکی هستند و هر یک به نوعی از لطف و محبت او بهره‌مند می‌شوند."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "خلق در زمزم احسان اسد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "بخت بر کوس فلک بستی پوست",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرنوشت بر گردونه آسمان لباس جدی (سرسختی) را از تن کند و به دستور شیر (اسد) عمل کرد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "از تن جدی به فرمان اسد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "وز فم الحوت نهادی دندان",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دهان ماهی دندان بر سر تیرک‌های تند و خونین تیری که به اسد برخورد کرده، نشسته‌اید."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "بر سر ترکش ترکان اسد",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "سالها قصد فلک داشت مگر",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سال‌ها فلک در نظر داشت که حرکتی کند، اما اراده و خرد اسد مانع این حرکت شد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "جنبش رای فلک‌سان اسد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "اسدا کنون چو اسد بر فلک است",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در حال حاضر، مانند شیر بر آسمان تسلط دار، ای آسمان، تو جان خود را به شیر واگذار کن."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "ای فلک جان تو و جان اسد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "فلکی بین شده بالای فلک",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان از تماشای زیبایی‌های خود سرمست شده و در بالای آسمان، گل خورشید به میهمانی شیر آمده است."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "اسدی بین شده مهمان اسد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "دشمن نیک اسد خوانندم",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستانی دارم که به خوبی من را درک نمی‌کنند و در برابر دشمنانی که باهوش و خیرخواه‌اند، باید با احتیاط رفتار کنم."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "دوستان بد نادان اسد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "به خدائی که فرستاد از عرش",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خداوندی که نشانه‌ی محبت و مهربانی را از عرش بر زمین نازل کرد، در مورد حضرت علی (ع)."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "آیت عاطفه در شان اسد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "به خدائی که رقوم حسنات",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خدایی که نیکویی‌ها را ثبت کرد، نامه‌ای به دفتر اسد نوشته شده است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "کرد توقیع به دیوان اسد",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "به خدائی که اسد را ز فلک",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خدایی که توانست شیر را از آسمان عبور دهد و از محدودیت‌های طبیعی فراتر برود."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "بگذرانید ز امکان اسد",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "به خدائی که اسد را به بهشت",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خدائی که قلب شجاع و دلیر را مورد لطف و رحمت قرار داد و به او مقام بهشت بخشید، به خاطر ایمان و صدق دل او."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "بسانید ز ایمان اسد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "که به شروان ز دلم سوخته‌تر",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من به خاطر هجران و دوری از اسد، از دل‌های دیگر بیشتر رنجیده است و هیچ دلی در شروان به اندازه‌ی دل من سوخته نیست."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "هیچ دل نیست ز هجران اسد",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "علم الله که ز من غم‌زه‌ده‌تر",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند علم و آگاهی‌اش از من بیشتر است و هیچ کس نمی‌تواند به اندازه او به اندوه‌های من پی ببرد، حتی برادران من نیز چنین نمی‌توانند."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "هیچکس نیست ز اخوان اسد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "اشک‌ها راندم و گر حاضر می",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من اشک‌هایم را ریختم و اگر حسن می‌دادم، حاضر به تسلیت برای آن شیر بودم."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "تعزیت داشتمی آن اسد",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "عاریت خواستمی گوهر اشک",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خواستم که در غم خود، اشک مثل گوهر از چشمانم بریزد، مانند بارانی که از ابرها می‌ریزد و جواهرات را درخشان می‌کند."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "ز ابر دست گهر افشان اسد",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "حاش لله که سماتت ورزم",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمی‌توانم به تماشای چهره‌ی تو بنشینم و نقاب تو را به خواب زمستانی شبیه کنم، زیرا تو در روزگار حیات، مانند شیر شجاع و نیرومند هستی."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "چون خزان بینم نیسان اسد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "عبرت آید دل ویران مرا",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیدن خانه ویران اسد، دل من را پند می‌دهد و به من یادآوری می‌کند که دلم را خراب نکنم."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "دیدن خانهٔ ویران اسد",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "گرچه در مدت چل سال تمام",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که در طول چهل سال به خوبی زندگی کرده‌ام و از نیاز به نان بی‌نیاز بوده‌ام،"
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "بی‌نیازی بدم از نان اسد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "لیک چون من به همه شروان کیست",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما چون من به همه چیز آگاه هستم، کیست که مانند من در سفره شیر در خوردن ذره‌ای از آن کم باشد؟"
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "که نبد ریزه خور خوان اسد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "ز آن همه ریزه خوران یک کس نیست",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از میان آن همه افرادی که از نعمت‌ها بهره‌مند شده‌اند، هیچ‌کس قدردان generosity و بخشندگی اسد نیست."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "شاکر جود فراوان اسد",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "لیکن از گفتهٔ خاقانی ماند",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما از گفته‌های خاقانی، نام جاوید همچنان از دوران اسد باقی مانده است."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "نام جاوید ز دوران اسد",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    }
+  ]
+}

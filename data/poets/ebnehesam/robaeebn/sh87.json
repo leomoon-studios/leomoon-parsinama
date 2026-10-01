@@ -1,0 +1,60 @@
+{
+  "Id": 64884,
+  "CatId": 1872,
+  "Title": "رباعی شمارهٔ ۸۷",
+  "FullTitle": "ابن حسام خوسفی » رباعیات » رباعی شمارهٔ ۸۷",
+  "FullUrl": "/ebnehesam/robaeebn/sh87",
+  "RhymeLetters": "انه",
+  "SourceName": "منابع ابن‌حسام",
+  "SourceUrlSlug": "khusfisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر به چهار چیز خطرناک اشاره شده که عاقل‌ها باید از آنها دوری کنند: دیوار شکسته، گاوی بزرگ، زال نادان و سگی دیوانه. این اشیاء و موجودات می‌توانند خطراتی برای انسان‌ها داشته باشند و به همین دلیل باید از آنها پرهیز کرد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انه",
+      "PlainText": "از چار بلا که دور باد از خانه\r\nپرهیز کنند مردم فرزانه\r\nاز دیوار شکسته و گاو سترگ\r\nاز زال سلیطه و سگ دیوانه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چار بلا که دور باد از خانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرهیز کنند مردم فرزانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دیوار شکسته و گاو سترگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز زال سلیطه و سگ دیوانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از چار بلا که دور باد از خانه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم دانا از مشکلات و بلایای زندگی دوری می‌کنند و به خانه‌ای امن و دور از ترس و نگرانی می‌روند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرهیز کنند مردم فرزانه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دیوار شکسته و گاو سترگ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف تصاویری از ضعف و شکستگی می‌پردازد. در آن به دیواری اشاره شده که از هم پاشیده و گاوی بزرگ که ممکن است نماد قدرت باشد، اما در همین حال زال، شخصیتی ضعیف و ناتوان، و سگی که دچار جنون است، وجود دارند. این تصاویر نشان‌دهنده تضادهایی هستند که در زندگی و شخصیت‌ها وجود دارند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از زال سلیطه و سگ دیوانه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

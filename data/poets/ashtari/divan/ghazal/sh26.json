@@ -1,0 +1,94 @@
+{
+  "Id": 149340,
+  "CatId": 3478,
+  "Title": "شمارهٔ  ۲۶ - زبان نگاه",
+  "FullTitle": "علی اشتری » دیوان اشعار » غزلیات » شمارهٔ  ۲۶ - زبان نگاه",
+  "FullUrl": "/ashtari/divan/ghazal/sh26",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهمرابهبین",
+      "PlainText": "گر زبانم را نمی فهمی نگاهم را ببین\r\nچهر دردآلود و چشم بی گناهم را ببین\r\nگر نمی دانی که روزم با غمت چون بگذرد\r\nیک شب اینجا باش و تا صبح اشک و آهم را ببین\r\nدوست نادان و عدو دانا جهان ناسازگار\r\nزاین میان در سایه ساقی پناهم را ببین\r\nای پریوش گر خطایی دیده ای بر من مگیر\r\nدشمنی را دوست خواندم اشتباهم را ببین\r\nجز وفا هرگز نکردم گر خطا پنداشتی\r\nپیش رویت دیدگان عذرخواهم را ببین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر زبانم را نمی‌فهمی، نگاهم را ببین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچهر دردآلود و چشم بی‌گناهم را ببین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نمی‌دانی که روزم با غمت چون بگذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک شب اینجا باش و تا صبح اشک و آهم را ببین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوست نادان و عدو دانا جهان ناسازگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزاین میان، در سایهٔ ساقی پناهم را ببین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای پریوش! گر خطایی دیده‌ای، بر من مگیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشمنی را دوست خواندم، اشتباهم را ببین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز وفا هرگز نکردم، گر خطا پنداشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش رویت دیدگان عذرخواهم را ببین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر زبانم را نمی‌فهمی، نگاهم را ببین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چهر دردآلود و چشم بی‌گناهم را ببین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر نمی‌دانی که روزم با غمت چون بگذرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک شب اینجا باش و تا صبح اشک و آهم را ببین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دوست نادان و عدو دانا جهان ناسازگار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زاین میان، در سایهٔ ساقی پناهم را ببین",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای پریوش! گر خطایی دیده‌ای، بر من مگیر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دشمنی را دوست خواندم، اشتباهم را ببین",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جز وفا هرگز نکردم، گر خطا پنداشتی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "پیش رویت دیدگان عذرخواهم را ببین",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    }
+  ]
+}

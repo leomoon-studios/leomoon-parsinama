@@ -1,0 +1,525 @@
+{
+  "Id": 51060,
+  "CatId": 1831,
+  "Title": "شمارهٔ ۴۸ - پرد‌هٔ سینما",
+  "FullTitle": "ملک‌الشعرا بهار » قصاید » شمارهٔ ۴۸ - پرد‌هٔ سینما",
+  "FullUrl": "/bahar/ghasidebk/sh48",
+  "RhymeLetters": "ارنیست",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان این موضوع می‌پردازد که دنیا از نظر حقیقی، ناپایدار و فریبنده است. دل را به غم خوردن تشویق نمی‌کند زیرا آنچه در این دنیا دیده می‌شود، بیشتر شبیه به یک نمایش یا پرده‌ای است که تنها تصاویری از واقعیت را نشان می‌دهد. هرچند ما تصور می‌کنیم که اختیار و اراده داریم، در حقیقت، همه چیز تحت تأثیر قوانین طبیعی و آفرینش خداوند قرار دارد. \n\nشاعر به این نکته اشاره می‌کند که نباید به ظواهر و جلوه‌های زندگی دل ببندیم چرا که زودگذر و فریبنده‌اند. او معتقد است که هر کسی باید به ظرفیت و قابلیت‌های خود برسد و بیهوده نگران آنچه در دنیاست باشد. در نهایت، توصیه می‌کند که زندگی‌ را با شادی و بدون حسد بگذرانیم زیرا غم و کینه ما را از پویایی و خوشبختی دور می‌کند و نباید در پی غم و رنج‌های زندگی، احساس ناتوانی کنیم.",
+  "Metre": {
+    "Id": 15,
+    "Rhythm": "مفتعلن فاعلن مفتعلن فاعلن (منسرح مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارنیست",
+      "PlainText": "غم  مخور ای  دل که جهان را قرار نیست\r\nو آنچه تو بینی به جز از مستعار نیست \r\nآنچه مجازی بود آن هست آشکار\r\nو آنچه حقیقی بود آن آشکار نیست\r\nهست یکی پرده جنبنده بدیع\r\nکز برآن نقش و صور را شمار نیست\r\nپرده همی جنبد و ساکن بود صور\r\nلیک به  چشم تو جز از عکس کار نیست\r\nپرده نبینی تو و بینی که نقش ها\r\nدر حرکاتند و کسی درکنار نیست\r\nپنداری کان همه را اختیار هست\r\nلیک یکی ز آن همه را اختیار نیست\r\nور به تو این راز هویدا کند حکیم\r\nخندی و گویی که مرا استوار نیست\r\nهمره پرده بدر آیند و بگذرند\r\nهیچ کسی را به حقیقت قرار نیست\r\nپرده شتابان و در آن نقش ها روان\r\nو آن همه جز شعبده پرده دار نیست\r\nنیست تو را آگهی از راز پرده دار\r\nزانکه تو را در پس این پرده بار نیست\r\nپرده مکرر شود و نقش هاش  لیک\r\nپرده گشاینده جز از کردگار نیست\r\nما و تو ای خواجه بدین پرده اندربم\r\nزانکه ازبن دایره راه فرار نیست\r\nهرکسی اندر خور نیروی خویشتن\r\nکار پذیرفت و به جز اینش کار نیست\r\nآنچه به نزدیک تو کوهست و بحر و بر\r\nجز که به  دستی دو سه  بر یک جدار نیست\r\nوانچه به سوی تو بود لشکر و حشم\r\nسوی خرد جز دو سه نقش فکار نیست\r\nجنگ و جدل بینی و گرد و غریو کوس\r\nلیک درین عرصه به  جز یک سوار نیست\r\nشو به حقیقت نگر ایراک حس تو\r\nشبهت ناکست و حقیقت شعار نیست\r\nقوت  دیدنت و شنیدن چو شبهه یافت\r\nپس به قوای دگرت اعتبار نیست\r\nکار جهان جمله فریب است و شعبده\r\nراستی ای در همه روزگار نیست\r\nکار چو اینست چرا غم خورد حکیم\r\nغم خورد آن کو خردش دستیار نیست\r\nآن که تو بینی که همی هست بختیار\r\nوانکه تو بینی که همی بختیار نیست\r\nهردو به نزدیک حقیقت برابرند\r\nیک  سر مو فرق در این گیر و دار نیست\r\nشعشعه ابر پراکنده در شفق\r\nکم ز یکی کبکبه  ی اقتدار نیست\r\nگرچه بدیع است جهان لیک بی بقاست\r\nهیچ گوارنده چنین ناگوار نیست\r\nتا بنخوانی تو مر این را جفا و جبر\r\nجبر و جفا را بر صانع گذار نیست\r\nصنع خداوند جهان نظم کامل است\r\nنیز به جز جبر ز نظم انتظار نیست\r\nعدل خدا را تو به میزان خود مسنج\r\nکفه عدل این کره خاکسار نیست\r\nگر خردت هست  غم نیستی مدار\r\nنیستی از بهر خردمند عار نیست\r\nور خردت نی  غم نابخردیت بس\r\nشاد زیاد آن که بدین غم دچار نیست\r\nشاد زی وگام زن و نان به دست کن\r\nکز حسد و کینه کسی رستگار نیست\r\nغصه بیهوده پی زندگی مخور\r\nزندگی و غصه بهم سازگار نیست\r\nرو به جهان درنگر از دیده  بهار\r\nای که ترا خادم و خیل و زوار نیست\r\nزانکه به آلام غم دهر مرهمی\r\nدرد زداینده چو شعر  بهار نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغم‌ مخور ای ‌دل که جهان را قرار نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آنچه تو بینی به جز از مستعار نیست‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچه مجازی بود آن هست آشکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آنچه حقیقی بود آن آشکار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست یکی پردهٔ جنبندهٔ بدیع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز برآن نقش و صور را شمار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده همی جنبد و ساکن بود صور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک به ‌چشم تو جز از عکس کار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده نبینی تو و بینی که نقش‌ها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حرکاتند و کسی درکنار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپنداری کان همه را اختیار هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک یکی ز آن‌همه را اختیار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور به تو این راز هویدا کند حکیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخندی و گویی که مرا استوار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمره پرده بدر آیند و بگذرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ کسی را به حقیقت قرار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده شتابان و در آن نقش‌ها روان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آن همه جز شعبدهٔ پرده‌دار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست تو را آگهی از راز پرده‌دار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه تو را در پس این پرده بار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرده مکرر شود و نقش‌هاش‌، لیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرده گشاینده جز از کردگار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما و تو ای خواجه بدین پرده اندربم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه ازبن دایره راه فرار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکسی اندر خور نیروی خویشتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار پذیرفت و به جز اینش کار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچه به نزدیک تو کوهست و بحر و بر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز که به ‌دستی دو سه‌ بر یک جدار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوانچه به سوی تو بود لشکر و حشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی خرد جز دو سه نقش فکار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجنگ و جدل بینی و گرد و غریو کوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک درین عرصه به ‌جز یک سوار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشو به حقیقت نگر ایراک حس تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشبهت ناکست و حقیقت شعار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقوت‌ دیدنت و شنیدن چو شبهه یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس به قوای دگرت اعتبار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکار جهان جمله فریب است و شعبده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراستی ای در همهٔ روزگار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکار چو اینست چرا غم خورد حکیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغم خورد آن کو خردش دستیار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن که تو بینی که همی هست بختیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانکه تو بینی که همی بختیار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهردو به نزدیک حقیقت برابرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک ‌سر مو فرق در این گیر و دار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشعشعهٔ ابر پراکنده در شفق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکم ز یکی کبکبه‌ ی اقتدار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه بدیع است جهان لیک بی‌بقاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ گوارنده چنین ناگوار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بنخوانی تو مر این را جفا و جبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجبر و جفا را بر صانع گذار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصنع خداوند جهان نظم کامل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیز به جز جبر ز نظم انتظار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعدل خدا را تو به میزان خود مسنج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکفهٔ عدل این کرهٔ خاکسار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خردت هست‌، غم نیستی مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیستی از بهر خردمند عار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور خردت نی‌، غم نابخردیت بس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاد زیاد آن که بدین غم دچار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاد زی وگام زن و نان به دست کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز حسد و کینه کسی رستگار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغصهٔ بیهوده پی زندگی مخور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزندگی و غصه بهم سازگار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرو به جهان درنگر از دیدهٔ «‌بهار»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای که ترا خادم و خیل و زوار نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانکه به آلام غم دهر، مرهمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرد زداینده چو شعر «‌بهار» نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 33
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "غم‌ مخور ای ‌دل که جهان را قرار نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل نگران نباش، زیرا آرامش در این دنیا وجود ندارد و هر آنچه را که می‌بینی، فقط ظاهری و موقتی است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "و آنچه تو بینی به جز از مستعار نیست‌",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آنچه مجازی بود آن هست آشکار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنچه که در ظاهر و به شکل ظاهری وجود دارد، واضح و مشخص است، اما حقیقت واقعی که فراتر از ظاهر است، به چشم نمی‌آید و شناخته نشده باقی می‌ماند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "و آنچه حقیقی بود آن آشکار نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هست یکی پردهٔ جنبندهٔ بدیع",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به وجود پرده‌ای اشاره می‌شود که حرکتی شگفت‌انگیز دارد و بر روی آن تصاویری وجود دارد که قابل شمارش نیستند و به نظر بی‌پایان می‌آیند. این پرده نشان‌دهنده‌ی زیبایی و تنوعی است که در دنیای اطراف ما وجود دارد و معجزه‌ آسایی را به تصویر می‌کشد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کز برآن نقش و صور را شمار نیست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پرده همی جنبد و ساکن بود صور",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرده در حال حرکت است اما در واقع ثابت به نظر می‌رسد. تنها چیزی که در چشمان تو مشاهده می‌شود، تصویر آن است و نه واقعیتش."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "لیک به ‌چشم تو جز از عکس کار نیست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "پرده نبینی تو و بینی که نقش‌ها",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر پرده را کنار بزنی، متوجه می‌شوی که تمام حرکت‌ها و نقش‌ها به نوعی در حال نشان دادن واقعیت هستند و هیچ کس در کنار تو نیست."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "در حرکاتند و کسی درکنار نیست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "پنداری کان همه را اختیار هست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که همه انسان‌ها اختیار و انتخاب دارند، اما در واقع، برخی از آن‌ها اساساً هیچ اختیاری ندارند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "لیک یکی ز آن‌همه را اختیار نیست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ور به تو این راز هویدا کند حکیم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر حکیمی این راز را به تو بگوید، تو فقط بخند و بگو که من از این حرف‌ها استواری ندارم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "خندی و گویی که مرا استوار نیست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "همره پرده بدر آیند و بگذرند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همراه پرده‌ها به جلو می‌آیند و عبور می‌کنند، اما هیچ‌کس در واقع نمی‌تواند به حقیقت برسد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "هیچ کسی را به حقیقت قرار نیست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "پرده شتابان و در آن نقش‌ها روان",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرده با سرعت حرکت می‌کند و نقوش روی آن در حال حرکت هستند و تمام این‌ها جز ترفندهای پرده‌دار (مجری) چیزی بیشتر نیست."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "و آن همه جز شعبدهٔ پرده‌دار نیست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "نیست تو را آگهی از راز پرده‌دار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو از راز و رمز وجود و آنچه در پس پرده است، آگاه نیستی؛ زیرا تو هنوز به درک و فهم عمیق این مسائل نرسیده‌ای."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "زانکه تو را در پس این پرده بار نیست",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "پرده مکرر شود و نقش‌هاش‌، لیک",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوباره پرده‌ای از نقش و نگارها ظاهر می‌شود، اما تنها کسی که می‌تواند این پرده را کنار بزند و حقیقت را نشان دهد، خالق هستی است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "پرده گشاینده جز از کردگار نیست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "ما و تو ای خواجه بدین پرده اندربم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما و تو، ای استاد، در این پرده و رمز گرفتاریم و چاره‌ای برای فرار از این دایره نداریم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "زانکه ازبن دایره راه فرار نیست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "هرکسی اندر خور نیروی خویشتن",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر فردی بر اساس توانایی‌ها و قابلیت‌های خود فعالیت کرده و جز این، کار دیگری نمی‌تواند انجام دهد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "کار پذیرفت و به جز اینش کار نیست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "آنچه به نزدیک تو کوهست و بحر و بر",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که در نزدیکی تو وجود دارد، مانند کوه، دریا و زمین، جز این نیست که با دستانی چند بر یک دیوار قرار گرفته‌اند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "جز که به ‌دستی دو سه‌ بر یک جدار نیست",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "وانچه به سوی تو بود لشکر و حشم",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه که به سوی تو آمده است، مانند لشکر و جمعیت، در واقع بیشتر از دو یا سه تصویر از فکر و اندیشه نیست."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "سوی خرد جز دو سه نقش فکار نیست",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "جنگ و جدل بینی و گرد و غریو کوس",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این میدان، صحنه‌های جنگ و سر و صدای جنگ‌افزارها را می‌بینی، اما در واقع تنها یک نفر در این میدان حضور دارد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "لیک درین عرصه به ‌جز یک سوار نیست",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "شو به حقیقت نگر ایراک حس تو",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به واقعیت توجه کن؛ ای راک، احساس تو شبیه به آنچه پیش می‌بینی نیست و حقیقت هیچ‌گاه فریبنده نیست."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "شبهت ناکست و حقیقت شعار نیست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "قوت‌ دیدنت و شنیدن چو شبهه یافت",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که قدرت دیدن و شنیدن تو به تردید افتاد، دیگر به توانایی‌های دیگر تو اعتباری نیست."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "پس به قوای دگرت اعتبار نیست",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "کار جهان جمله فریب است و شعبده",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام کارهای دنیا مانند یک فریب و تزویر هستند و هیچ‌گاه در طول تاریخ حقیقت واقعی وجود نداشته است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "راستی ای در همهٔ روزگار نیست",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "کار چو اینست چرا غم خورد حکیم",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی کار به این شکل است، چرا حکیم باید نگرانی داشته باشد؟ نگرانی باید داشته باشد کسی که خرد و اندیشه‌اش او را یاری نمی‌کند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "غم خورد آن کو خردش دستیار نیست",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "آن که تو بینی که همی هست بختیار",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن‌که تو می‌بینی که در حال حاضر به او خوشبختی می‌رسد، و آن‌که می‌بینی که خوشبخت نیست، هر دو در زندگی واقعی یکدیگر را ندارند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "وانکه تو بینی که همی بختیار نیست",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "هردو به نزدیک حقیقت برابرند",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر دو طرف به حقیقت نزدیک هستند و تنها در یک رشته نازک از هم متفاوتند، و این تفاوت در این چالش مهم نیست."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "یک ‌سر مو فرق در این گیر و دار نیست",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "شعشعهٔ ابر پراکنده در شفق",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نورهای پراکندهٔ ابر در هنگام غروب کم از عظمت و قدرت یک پرچم نیست."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "کم ز یکی کبکبه‌ ی اقتدار نیست",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "گرچه بدیع است جهان لیک بی‌بقاست",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند جهان زیبایی‌های خاص خود را دارد، اما باید توجه داشت که هیچ‌یک از این زیبایی‌ها پایدار نیستند و هیچ چیز آنقدر خوشایند و دلپذیر نیست که سختی‌ها و تلخی‌های همراهش را جبران کند."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "هیچ گوارنده چنین ناگوار نیست",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "تا بنخوانی تو مر این را جفا و جبر",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که تو این را نخوانی، ظلم و اجبار و نیز اجبار و ظلم را نمی‌توان به خالق نسبت داد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "جبر و جفا را بر صانع گذار نیست",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "صنع خداوند جهان نظم کامل است",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آفرینش خداوند به گونه‌ای است که کاملاً نظم دارد و هیچ چیزی جز نظم در آن دیده نمی‌شود."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "نیز به جز جبر ز نظم انتظار نیست",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "عدل خدا را تو به میزان خود مسنج",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت می‌گوید که خداوند را نمی‌توان با معیارهای عادلانه انسانی سنجید، چرا که توانایی‌های ما در فهم و درک از عدالت بسیار محدود است و نمی‌توانیم ارزش‌های الهی را با معیارهای سطحی و زمینی اندازه‌گیری کنیم."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "کفهٔ عدل این کرهٔ خاکسار نیست",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "گر خردت هست‌، غم نیستی مدار",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر عقل و فهم درست داشته باشی، دیگر نباید نگران نبودن باشی. برای فرد دانا، نداشتن مایه شرمندگی نیست."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "نیستی از بهر خردمند عار نیست",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "ور خردت نی‌، غم نابخردیت بس",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر عقل و درک نداری، غم نادانی‌ات به اندازه‌ای زیاد است که کسی که این غم را ندارد، خوشحال‌تر است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "شاد زیاد آن که بدین غم دچار نیست",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "شاد زی وگام زن و نان به دست کن",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاد زندگی کن، با شوق و نشاط حرکت کن و نان حلال به دست آر، زیرا هیچ‌کس از حسادت و کینه نجات نخواهند یافت."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "کز حسد و کینه کسی رستگار نیست",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "غصهٔ بیهوده پی زندگی مخور",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای زندگی خود نگرانی‌های بی‌فایده نداشته باش، زیرا زندگی و غم با یکدیگر سازگاری ندارند."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "زندگی و غصه بهم سازگار نیست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "رو به جهان درنگر از دیدهٔ «‌بهار»",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دنیای اطراف نگاه کن، ای کسی که دیگران برایت خدمت نمی‌کنند و به تو توجه ندارند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "ای که ترا خادم و خیل و زوار نیست",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "زانکه به آلام غم دهر، مرهمی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون به نشانه‌های درد و غم زندگی، دارویی آرام‌بخش و تسکین‌دهنده مثل شعر «بهار» وجود ندارد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "درد زداینده چو شعر «‌بهار» نیست",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    }
+  ]
+}

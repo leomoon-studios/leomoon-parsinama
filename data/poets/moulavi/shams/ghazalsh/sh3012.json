@@ -1,0 +1,255 @@
+{
+  "Id": 5636,
+  "CatId": 99,
+  "Title": "غزل شمارهٔ ۳۰۱۲",
+  "FullTitle": "مولانا » دیوان شمس » غزلیات » غزل شمارهٔ ۳۰۱۲",
+  "FullUrl": "/moulavi/shams/ghazalsh/sh3012",
+  "RhymeLetters": "ینهای",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احوالات روحی و عشق می‌پردازد، و شاعر با استفاده از تصویرسازی‌های زیبا، درونیات و لطافت‌های عشق را توصیف می‌کند. دل را به آهن و آینه تشبیه کرده و به ثبات و شفافیت آن اشاره می‌کند. عشق را به عنوان مونس و یادآور خاطرات شیرین مطرح می‌کند و به دنبال زیبایی‌های باطنی، از ظواهر فریبنده پرهیز می‌دهد. همچنین، به سرزنش کسانی می‌پردازد که در عشق دینی غافل شده‌اند و به دنیا و ظاهر راضی هستند. شاعر اوساختن زندگی را موزون با رنج‌های دل سفرای عشق پیشنهاد می‌دهد و بر پاکی و دوری از حسد و کینه تأکید می‌کند. در نهایت، شعر دعوت به محبت و درک عمیق‌تر از زندگی و معنای عشق دارد.",
+  "Metre": {
+    "Id": 15,
+    "Rhythm": "مفتعلن فاعلن مفتعلن فاعلن (منسرح مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینهای",
+      "PlainText": "ای دل چون آهنت بوده چو آیینه ای\r\nآینه با جان من مونس دیرینه ای\r\nدر دل آیینه من در دل من آینه\r\nتن کی بود محدثی دی و پریرینه ای\r\nخواجه چرایی چنین کز تو رمد عشق دین\r\nزانک همی بیندت احمد پارینه ای\r\nمرغ گزینی یقین دانه شیرین بچین\r\nکآمد از سوی چین مرغ تو را چینه ای\r\nشیر خدایی خدا شیر نرت نام داد\r\nاز چه سبب گشته ای همدم بوزینه ای\r\nصورت تن را مبین زانک نه درخورد توست\r\nپوشد سلطان گهی خرقه پشمینه ای\r\nهین دل خود را تمام در کف دلبر سپار\r\nتا که نپوسد دلت در حسد و کینه ای\r\nسینه پاکی که او گشت خوش و عشق خو\r\nسینه سینا بود فرش چنین سینه ای\r\nتشنه آن شربتی خسته آن ضربتی\r\nتا تو در این غربتی نیست طمأنینه ای\r\nهست خرد چون شکر هست صور همچو نی\r\nهست معانی چو می حرف چو قنینه ای\r\nخوب چو نبود عروس خوش نشود زو نفوس\r\nاز حفه و از رفه ز اطلس و زرینه ای\r\nچون نروی زین جهان خوی خرابات جان\r\nدر عوض می بگیر بی مزه ترخینه ای\r\nخانه تن را بساز باغچه و گلشنی\r\nگوشه دل را بساز مسجد آدینه ای\r\nهر نفسی شاهدی در نظر واحدی\r\nآوردش بر طبق نادره لوزینه ای\r\nخامش با مرغ خاک قصه دریا مگو\r\nبکر چه عرضه کنی بر شه عنینه ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل چون آهنت بوده چو آیینه‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآینه با جان من مونس دیرینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دل آیینه من در دل من آینه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتن کی بود محدثی دی و پریرینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواجه چرایی چنین کز تو رمد عشق دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانک همی‌بیندت احمد پارینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغ گزینی یقین دانه شیرین بچین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآمد از سوی چین مرغ تو را چینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشیر خدایی خدا شیر نرت نام داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز چه سبب گشته‌ای همدم بوزینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصورت تن را مبین زانک نه درخورد توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپوشد سلطان گهی خرقه پشمینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهین دل خود را تمام در کف دلبر سپار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا که نپوسد دلت در حسد و کینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسینه پاکی که او گشت خوش و عشق خو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسینه سینا بود فرش چنین سینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتشنه آن شربتی خسته آن ضربتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا تو در این غربتی نیست طمأنینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست خرد چون شکر هست صور همچو نی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست معانی چو می حرف چو قنینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوب چو نبود عروس خوش نشود زو نفوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حفه و از رفه ز اطلس و زرینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نروی زین جهان خوی خرابات جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عوض می بگیر بی‌مزه ترخینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانه تن را بساز باغچه و گلشنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوشه دل را بساز مسجد آدینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر نفسی شاهدی در نظر واحدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآوردش بر طبق نادره لوزینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخامش با مرغ خاک قصه دریا مگو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبکر چه عرضه کنی بر شه عنینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 15
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل چون آهنت بوده چو آیینه‌ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، تو مانند آهن هستی و مانند آینه، با جان من آشنا و دوستی قدیمی هستی."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آینه با جان من مونس دیرینه‌ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دل آیینه من در دل من آینه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل آیینه من، آینه خودم هم حاضر است. آیا کسی هست که بتواند این راز را بگشاید و بگوید چه کسی در دل من وجود دارد؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تن کی بود محدثی دی و پریرینه‌ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خواجه چرایی چنین کز تو رمد عشق دین",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای آقای من، چرا عشق به دین از تو دور شده است، در حالی که احمد (پیامبر) همواره تو را می‌بیند و در نظرش گرامی هستی؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زانک همی‌بیندت احمد پارینه‌ای",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مرغ گزینی یقین دانه شیرین بچین",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای که انتخاب کردی، دانه‌ای خوشمزه و شیرین فراهم کن که از طرف چین آمده است؛ پرنده تو در دلش غم و اندوهی دارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کآمد از سوی چین مرغ تو را چینه‌ای",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "شیر خدایی خدا شیر نرت نام داد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شیر خدا، چرا به این حالت درآمده‌ای که همدم و همراه بوزینه شده‌ای؟"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از چه سبب گشته‌ای همدم بوزینه‌ای",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "صورت تن را مبین زانک نه درخورد توست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به ظاهر بدن توجه نکن، زیرا او تنها لباس‌پوشی است که گاهی به عبای پشمی ملبس می‌شود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "پوشد سلطان گهی خرقه پشمینه‌ای",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "هین دل خود را تمام در کف دلبر سپار",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خودت یادآوری کن که همه‌ی عشق و احساساتت را به محبوبت بسپار، تا دلت در حسادت و کینه خراب نشود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "تا که نپوسد دلت در حسد و کینه‌ای",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "سینه پاکی که او گشت خوش و عشق خو",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سینه‌ای که پاک و معصوم است و عشق در آن جا دارد، مانند فرشی است برای وجود چنین سینه‌ای."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "سینه سینا بود فرش چنین سینه‌ای",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "تشنه آن شربتی خسته آن ضربتی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تشنه به دنبال نوشیدنی، خسته از ضربه‌ها و سختی‌ها، در این غربت و دلتنگی، آرامشی وجود ندارد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "تا تو در این غربتی نیست طمأنینه‌ای",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "هست خرد چون شکر هست صور همچو نی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که دانایی و خرد دارد مانند شکر شیرین است. صورت‌ها و اشکال مانند نی زیبا و موزون هستند. معانی و مفهوم‌ها مانند نوشیدنی خوشمزه هستند و کلام نیز مانند جواهراتی ارزشمند و قیمتی است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "هست معانی چو می حرف چو قنینه‌ای",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "خوب چو نبود عروس خوش نشود زو نفوس",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که عروس خوش هیچ‌گونه خوبی نداشته باشد، روح‌ها از حسرت و اندوه آسایش نمی‌گیرند، حتی اگر از بهترین پارچه‌ها و طلاها هم باشد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "از حفه و از رفه ز اطلس و زرینه‌ای",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "چون نروی زین جهان خوی خرابات جان",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که از این دنیا می‌روی، جانت را به قیمت یک شراب بی‌مزه و بی‌خاصیت عوض کن."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "در عوض می بگیر بی‌مزه ترخینه‌ای",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "خانه تن را بساز باغچه و گلشنی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدن خود را مانند یک خانه تزیین کن، با باغچه و گل‌های زیبا، و گوشه‌ای از دل خود را به مکانی برای عبادت و استراحت اختصاص بده."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "گوشه دل را بساز مسجد آدینه‌ای",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "هر نفسی شاهدی در نظر واحدی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر نفسی که می‌گذرد، گواهی را به نظر یکتا و واحدی می‌آورد که به مانند یک لوزینه نادر است."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "آوردش بر طبق نادره لوزینه‌ای",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "خامش با مرغ خاک قصه دریا مگو",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سکوت کن و با پرنده‌ای که از زمین بیرون آمده، داستان دریا را بازگو نکن. تو چه چیز اصیلی می‌توانی به پادشاهی که به زیبایی معروف است، ارائه دهی؟"
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "بکر چه عرضه کنی بر شه عنینه‌ای",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    }
+  ]
+}

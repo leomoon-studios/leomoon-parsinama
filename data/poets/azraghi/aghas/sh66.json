@@ -1,0 +1,719 @@
+{
+  "Id": 69352,
+  "CatId": 2035,
+  "Title": "شمارهٔ ۶۶",
+  "FullTitle": "ازرقی هروی » قصاید » شمارهٔ ۶۶",
+  "FullUrl": "/azraghi/aghas/sh66",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر در وصف پر و زیبایی یک پری و عاشقانه‌های شاعر دربارهٔ آن است. شاعر با ذکر ویژگی‌های مختلف پری، از جمله ظرافت و زیبایی‌اش، به ستایش او می‌پردازد. او همچنین تجلیات عشق و رنجی که در دل دارد را توصیف می‌کند و اعلام می‌دارد که حتی با وجود درد و مشقت، عشق او را رها نخواهد کرد. شاعر در این اثر همچنین از فردی بزرگ (ابوالحسن علی بن محمد بن سری) یاد می‌کند و او را به‌عنوان مظهر سخاوت و بزرگی معرفی می‌کند. در نهایت، موضوعاتی چون عشق، زیبایی، بلایای عاطفی و ویژگی‌های انسانی در این شعر به زیبایی به تصویر کشیده شده است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "پریرخی که ز شرمش نهان شدست پری\r\nپری مثال نهان گشت و شد ز مهر بری\r\nعیان بدیده گر او را نبینی آن نه عجب\r\nکه گر پریست چنین آمدست رسم پری\r\nگر آبگینه پری را ببیندی بدرست\r\nروان فدا کنمی پیش آبگینه گری\r\nپریست  گرنه پری چاکر وی است بحسن\r\nفری کسی که پری چاکر وی است  فری\r\nپری ندارد رخساره از گل سوری\r\nپری ندارد زلف از بنفشۀ طبری\r\nپری ندارد رنگ گل شکفتۀ سرخ\r\nپری ندارد بالای سرو غاتفری\r\nپری که دید به نور مه چهارده شب\r\nپری که دید به زیب ستاره سحری\r\nپری که دید گرازنده تر ز آهوی نر\r\nپری که دید خرامنده تر ز کبک دری\r\nاگر بشوشتری در  پری ندیده کسی\r\nپس او پری نبود در قبای شوشتری\r\nایا بت خزری قد کشمری بالا\r\nتویی که فتنۀ کشمیر و قبلۀ خزری\r\nنگار چینی  تا با قبا و با کلهی\r\nبهار گنگی  تا با کمان و با کمری\r\nمن از بلای تو اندر وفای تو سمرم\r\nتو چون بلای من اندر وفای من سمری\r\nاگر چه خواری تو داغ جانم و جگرست\r\nمرا ز روی عزیزی چو جان و چون جگری\r\nدل از هوات نبرم  اگر چه رنج دلی\r\nسر از وفات نپیچم  اگر چه دردسری\r\nز بیم هجر تو بگذارم ار بتو نگرم\r\nز باد وصل تو برپرم ار یمن نگری\r\nچو اشک درد نمایی  چو مهر دلسوزی\r\nچو بخت دوست فروشی  چو چرخ کینه وری\r\nدر آزمودن تو گرچه روزگارم رفت\r\nچو روزگار بهر آزمودنی بتری\r\nمرا ز خوی تو هم روزگار ناز خرد\r\nز خوی خویش تو بر روزگار خویش گری\r\nز بد خوبی  نگارا  فرید ایامی\r\nچنانکه بار خدای من از نکوسیری\r\nکسی که طبع من اندر مدیح او دارد \r\nبقیمت در دریا هزار در دری\r\nسدید دین  شرف دولت  آفتاب کرم\r\nابوالحسن علی بن محمد بن سری\r\nخدایگانی  آزاده ای  که درگه جود\r\nخزینه ایست ازو یک عطای ما حضری\r\nچو روزگار مه و سال امر او جاریست\r\nچو آفتاب شب و روز نام او سفری\r\nایا بزرگ عمیدی  کجا ز پایۀ قدر\r\nبهر چه و هم بدو ره برد  تو زو زبری\r\nبقای کام و مرادی  روان فخر و فری\r\nفنای آز و نیازی  هلاک سیم و زری\r\nستاره ای و جهان  آسمان  و گرنه چرا\r\nستاره فرو جهان عمر و آسمان اثری \r\nتو در روان موالی حیات را مددی\r\nتو در فنای معادی هلاک را حشری\r\nجهان مجد و سنایی و بحر در موجی\r\nسپهر سعد مداری و ابر زر مطری\r\nخبر دهند ز حاتم بجود نا ممکن\r\nتو در معاینه برهان نمای آن خبری\r\nاگر فلک چو تو آرد تو نادر فلکی\r\nوگر بشر چو تو باشد خلاصۀ بشری\r\nظفر ز قصد تو بر کارها برآسودست\r\nبهر چه قصد تو باشد تو نایب ظفری\r\nخرد بهر چه درآید مساعد خردی\r\nهنر بهرچه در آید مؤثر هنری\r\nهزار فکرت اگر بر دل سخا برود\r\nچو بنگری  تو ز افعال  عین آن فکری\r\nز رأی عالی روشن روانی و خردی\r\nز امر جاری قاطع قضایی و قدری\r\nکفایتست و سعادت مزاج ترکیبت\r\nکفایت فلکی  با سعادت قمری\r\nخصایل تو یکایک فزایش خطرست\r\nچو ساز رزم کنی باز  راد کم خطری\r\nگیا مثال ز جود تو کیمیا روید \r\nز شوره ناک زمینی کجا برو گذری\r\nز آخشیج هر آن صورتی که خواهد بود\r\nاگر بجود بود فخر  فخر آن صوری\r\nوگر عدوی تو شیرست و هرگز این نبود\r\nتو پیش دیدۀ او شعله های پر شرری\r\nهوای تو زدلم لحظه ای سفر نکند\r\nگر از هری سفری گردم  ار بوم حفری\r\nچنانکه مدح تو اندر دلم بلند اثرست\r\nتو در بزرگ مهمات من بلند اثری\r\nخدایگانا  گر باغ زرد شد  بستان\r\nز دست سبزنگاری شراب معصفری\r\nو گرز باغ نهان شد بمهرگان گل سرخ\r\nسرای باغ کن از گل رخان کاشغری\r\nمیی ستان  که خرد هر زمان بدو گوید\r\nکه  پیش دیدۀ شادی فروغ را گهری\r\nهمیشه تا نبود دور آسمان خاکی\r\nهمیشه تا نبود کرۀ گران شمری\r\nعدو کشی و بقا یابی و بکام زیی\r\nطرب کنی و سخاورزی و قدح شمری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپریرخی که ز شرمش نهان شدست پری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپری مثال نهان گشت و شد ز مهر بری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعیان بدیده گر او را نبینی آن نه عجب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه گر پریست چنین آمدست رسم پری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر آبگینه پری را ببیندی بدرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروان فدا کنمی پیش آبگینه گری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپریست ، گرنه پری چاکر وی است بحسن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفری کسی که پری چاکر وی است ، فری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپری ندارد رخساره از گل سوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپری ندارد زلف از بنفشۀ طبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپری ندارد رنگ گل شکفتۀ سرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپری ندارد بالای سرو غاتفری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپری که دید به نور مه چهارده شب؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپری که دید به زیب ستارهٔ سحری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپری که دید گرازنده تر ز آهوی نر؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپری که دید خرامنده تر ز کبک دری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر بشوشتری در ، پری ندیده کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس او پری نبود در قبای شوشتری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایا بت خزری قد کشمری بالا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتویی که فتنۀ کشمیر و قبلۀ خزری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگار چینی ، تا با قبا و با کلهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهار گنگی ، تا با کمان و با کمری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن از بلای تو اندر وفای تو سمرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو چون بلای من اندر وفای من سمری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه خواری تو داغ جانم و جگرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا ز روی عزیزی چو جان و چون جگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل از هوات نبرم ، اگر چه رنج دلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر از وفات نپیچم ، اگر چه دردسری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بیم هجر تو بگذارم ار بتو نگرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز باد وصل تو برپرم ار یمن نگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو اشک درد نمایی ، چو مهر دلسوزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بخت دوست فروشی ، چو چرخ کینه وری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آزمودن تو گرچه روزگارم رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو روزگار بهر آزمودنی بتری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا ز خوی تو هم روزگار ناز خرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز خوی خویش تو بر روزگار خویش گری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بد خوبی ، نگارا ، فرید ایامی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنانکه بار خدای من از نکوسیری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکسی که طبع من اندر مدیح او دارد \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبقیمت در دریا هزار در دری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسدید دین ، شرف دولت ، آفتاب کرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابوالحسن علی بن محمد بن سری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدایگانی ، آزاده ای ، که درگه جود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخزینه ایست ازو یک عطای ما حضری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو روزگار مه و سال امر او جاریست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو آفتاب شب و روز نام او سفری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایا بزرگ عمیدی ، کجا ز پایۀ قدر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر چه و هم بدو ره برد ، تو زو زبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبقای کام و مرادی ، روان فخر و فری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفنای آز و نیازی ، هلاک سیم و زری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eستاره ای و جهان ، آسمان ، و گرنه چرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eستاره فرو جهان عمر و آسمان اثری ؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو در روان موالی حیات را مددی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو در فنای معادی هلاک را حشری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان مجد و سنایی و بحر در موجی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسپهر سعد مداری و ابر زر مطری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخبر دهند ز حاتم بجود نا ممکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو در معاینه برهان نمای آن خبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر فلک چو تو آرد تو نادر فلکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگر بشر چو تو باشد خلاصۀ بشری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eظفر ز قصد تو بر کارها برآسودست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر چه قصد تو باشد تو نایب ظفری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرد بهر چه درآید مساعد خردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهنر بهرچه در آید مؤثر هنری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهزار فکرت اگر بر دل سخا برود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بنگری ، تو ز افعال ، عین آن فکری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز رأی عالی روشن روانی و خردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز امر جاری قاطع قضایی و قدری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکفایتست و سعادت مزاج ترکیبت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکفایت فلکی ، با سعادت قمری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخصایل تو یکایک فزایش خطرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو ساز رزم کنی باز ، راد کم خطری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیا مثال ز جود تو کیمیا روید \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز شوره ناک زمینی کجا برو گذری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آخشیج هر آن صورتی که خواهد بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر بجود بود فخر ، فخر آن صوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر عدوی تو شیرست و هرگز این نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو پیش دیدۀ او شعله های پر شرری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهوای تو زدلم لحظه ای سفر نکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر از هری سفری گردم ، ار بوم حفری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنانکه مدح تو اندر دلم بلند اثرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو در بزرگ مهمات من بلند اثری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدایگانا ، گر باغ زرد شد ، بستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز دست سبزنگاری شراب معصفری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو گرز باغ نهان شد بمهرگان گل سرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرای باغ کن از گل رخان کاشغری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیی ستان ، که خرد هر زمان بدو گوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه : پیش دیدۀ شادی فروغ را گهری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمیشه تا نبود دور آسمان خاکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه تا نبود کرۀ گران شمری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعدو کشی و بقا یابی و بکام زیی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطرب کنی و سخاورزی و قدح شمری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 46
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پریرخی که ز شرمش نهان شدست پری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دختری زیبا که به خاطر شرم و حیا از دیده‌ها پنهان شده است، مانند یک پری درخشان و جذاب است که به خاطر عشق از دیگران دوری می‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پری مثال نهان گشت و شد ز مهر بری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عیان بدیده گر او را نبینی آن نه عجب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر او را با چشم خود نبینی، تعجبی ندارد؛ زیرا اگر او مانند پری است، چنین می‌نماید که این رسم پری‌هاست."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که گر پریست چنین آمدست رسم پری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر آبگینه پری را ببیندی بدرست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر زیبایی یک پری را در آبگینه ببینی، بی‌درنگ جانم را فدای آن زیبایی می‌کنم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "روان فدا کنمی پیش آبگینه گری",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پریست ، گرنه پری چاکر وی است بحسن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به زیبایی و جذابیت شخصی اشاره دارد که مانند پری زیبا و دلربا است. اگرچه ممکن است دیگران نیز زیبا باشند، اما آن شخص به گونه‌ای خاص و منحصر به فرد می‌درخشد و توجهات را به خود جلب می‌کند. این زیبایی او به قدری است که او را به عنوان یک منبع فریبندگی و جذابیت شناسایی می‌کنند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "فری کسی که پری چاکر وی است ، فری",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "پری ندارد رخساره از گل سوری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره‌ی او مانند گل سرخ زیبا نیست و زلف‌هایش هم به زیبایی بنفشه نیستند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "پری ندارد زلف از بنفشۀ طبری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "پری ندارد رنگ گل شکفتۀ سرخ",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ موجودی به زیبایی و رنگ گل سرخی که در حال شکفتن است، وجود ندارد و هیچ کس به بلندی سرو غاطفری نمی‌رسد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "پری ندارد بالای سرو غاتفری",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "پری که دید به نور مه چهارده شب؟",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا موجودی چون پری، نوری را که در شب چهاردهم ماه می‌درخشد، دیده است؟ آیا این پری، زیبایی ستاره‌های سحرگاه را مشاهده کرده است؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "پری که دید به زیب ستارهٔ سحری؟",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "پری که دید گرازنده تر ز آهوی نر؟",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن پری که نمی‌تواند ببیند چیزی زیباتر از آهوی نر یا کبک دری در حال حرکت و زیبایی است، واقعاً نمی‌تواند زیبایی را درک کند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "پری که دید خرامنده تر ز کبک دری؟",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "اگر بشوشتری در ، پری ندیده کسی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در جایی که هیچ پری دیده نشده، شخصی ادعا کند که پری در آنجا وجود دارد، در واقع او پری نیست."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "پس او پری نبود در قبای شوشتری",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ایا بت خزری قد کشمری بالا",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای یار زیبا و دلربا، تو آن کسی هستی که سبب فتنه در سرزمین کشمیر و همچنین قبله‌ی خزری شده‌ای."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "تویی که فتنۀ کشمیر و قبلۀ خزری",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "نگار چینی ، تا با قبا و با کلهی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیز من، تو همچون یک هنرمند زیبا هستی که در فصل بهار با لباس و زیبایی خاصی جلوه‌گری می‌کنی. تو با کمان و کمری که داری، جذابیت و شکوهمندی را به نمایش می‌گذاری."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "بهار گنگی ، تا با کمان و با کمری",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "من از بلای تو اندر وفای تو سمرم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از درد و رنجی که ناشی از عشق توست، بر وفاداری‌ام پافشاری می‌کنم. تو هم از درد و رنجی که من برایت می‌کشم، بر وفاداری‌ات به من استوار هستی."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "تو چون بلای من اندر وفای من سمری",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "اگر چه خواری تو داغ جانم و جگرست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که رنج و مشکل تو برای من بسیار سخت و جانسوز است، اما به خاطر عزیز بودن تو برای من، این درد را تحمل می‌کنم."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "مرا ز روی عزیزی چو جان و چون جگری",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "دل از هوات نبرم ، اگر چه رنج دلی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه در عشق تو دلم رنج می‌کشد و حتی ممکن است به جاهای خطرناکی برساند، اما هرگز عشق تو را فراموش نخواهم کرد و تا آخر به تعهد خود پایبند می‌مانم."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "سر از وفات نپیچم ، اگر چه دردسری",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "ز بیم هجر تو بگذارم ار بتو نگرم",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ترس دوری تو، اگر به تو نگاه کنم، از خوشحالی به پرواز درمی‌آیم اگر به یمن تو بنگرم."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "ز باد وصل تو برپرم ار یمن نگری",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "چو اشک درد نمایی ، چو مهر دلسوزی",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی اشک‌های تو نشان‌دهنده‌ی درد است، وقتی که محبت و دلسوزی را نشان می‌دهی، و وقتی که دوستی را قربانی می‌کنی، انگار که در چرخش زمان و سرنوشت، کینه‌توزی می‌کنی."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "چو بخت دوست فروشی ، چو چرخ کینه وری",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "در آزمودن تو گرچه روزگارم رفت",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه دورانم در آزمایش تو گذشت، اما تو از همه آزمودنی‌ها بهتر و ارزشمندتری هستی."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "چو روزگار بهر آزمودنی بتری",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "مرا ز خوی تو هم روزگار ناز خرد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دلیل رفتار و ویژگی‌های تو، من نیز در زمانه‌ای که به سر می‌برم، تحت تأثیر قرار گرفته‌ام. بنابراین، باید بر اساس ماهیت و رفتار خودت، زندگی‌ات را سامان دهی."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "ز خوی خویش تو بر روزگار خویش گری",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "ز بد خوبی ، نگارا ، فرید ایامی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای نازنین، در روزگار فرید، خوب و بد از هم جدایی ندارند، مانند باران رحمت خداوند که از نیکویی و خیر جدا نمی‌شود."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "چنانکه بار خدای من از نکوسیری",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "کسی که طبع من اندر مدیح او دارد ",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که دل من به ستایش او متمایل است، می‌توانم برای او در دریای عشق و ارادت مبلغی پیدا کنم که برابر با ارزش هزار در باشد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "بقیمت در دریا هزار در دری",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "سدید دین ، شرف دولت ، آفتاب کرم",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به معرفی فضل و مقام والای ابوالحسن علی بن محمد بن سری می‌پردازد. او با ویژگی‌هایی چون دین‌داری محکم و مقام بالا مورد ستایش قرار گرفته است، به گونه‌ای که او را به آفتاب رحمت و کرم تشبیه می‌کند. با این بیان، بزرگی و فضیلت او در برابر دیگران نمایان می‌شود."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "ابوالحسن علی بن محمد بن سری",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "خدایگانی ، آزاده ای ، که درگه جود",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خدای بزرگی هستی که آزاد و بخشنده‌ای، و در درگاه تو گنجینه‌ای از نعمت‌ها وجود دارد. از این بخشش‌ها، ما هم سهمی داریم."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "خزینه ایست ازو یک عطای ما حضری",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "چو روزگار مه و سال امر او جاریست",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمان مانند ماه و سال به جریان است و فرمان او همیشه برقرار است، مانند خورشیدی که شب و روز را روشن می‌کند. نام او همچون سفری است که همیشه در حال حرکت و تازه است."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "چو آفتاب شب و روز نام او سفری",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "ایا بزرگ عمیدی ، کجا ز پایۀ قدر",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای بزرگ و بزرگوار، کجا و به کدام مقام تو می‌رسی؟ هرچقدر هم که در راه او قدم برداری، تو همچنان از سطح او پایین‌تری."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "بهر چه و هم بدو ره برد ، تو زو زبری",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "بقای کام و مرادی ، روان فخر و فری",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوام خوشی و رسیدن به آرزو، در دورانی که افتخار و اهمیت به رضایت و زندگی بی نیازی است، در نهایت به نابودی ثروت و مال می‌انجامد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "فنای آز و نیازی ، هلاک سیم و زری",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "ستاره ای و جهان ، آسمان ، و گرنه چرا",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو مانند ستاره‌ای در آسمان هستی و اگر این‌طور نیست، پس چرا ستاره‌ها در جهان می‌درخشند و عمر و آسمان تأثیری ندارند؟"
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "ستاره فرو جهان عمر و آسمان اثری ؟",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "تو در روان موالی حیات را مددی",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در زندگی با دیگران همیاری و کمک می‌کنی و در زمان‌هایی که به نابودی و زوال نزدیک می‌شوی، به جمع و حضور دیگران نیاز می‌کنی."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "تو در فنای معادی هلاک را حشری",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "جهان مجد و سنایی و بحر در موجی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا پر از عظمت و شکوه است، همچون دریا که در حال موج زدن است، آسمان خوشبختی در حال چرخش است و ابرهایی از طلا بر ما باران می‌بارند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "سپهر سعد مداری و ابر زر مطری",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "خبر دهند ز حاتم بجود نا ممکن",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خبر در مورد حاتم می‌دهند که بخشش او وصف‌ناپذیر است، اما تو نمی‌توانی این را از طریق مشاهده به اثبات برسانی."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "تو در معاینه برهان نمای آن خبری",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "اگر فلک چو تو آرد تو نادر فلکی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آسمان هم کسی را مثل تو خلق کند، آن فرد نادری خواهد بود و اگر انسان دیگری هم شبیه تو وجود داشته باشد، او بهترین نمونه‌ای از بشریت است."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "وگر بشر چو تو باشد خلاصۀ بشری",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "ظفر ز قصد تو بر کارها برآسودست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پیروزی از نیت تو در کارها راحت شده است، بنابراین هر هدفی که داری، تو نماینده موفقیتی."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "بهر چه قصد تو باشد تو نایب ظفری",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "خرد بهر چه درآید مساعد خردی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل و خرد برای چه چیزی به کار می‌آید، و هنر نیز برای چه چیزی تأثیرگذار است؟"
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "هنر بهرچه در آید مؤثر هنری",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "هزار فکرت اگر بر دل سخا برود",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر هزاران فکر مختلف به ذهنت بیاید، وقتی به عملکردها و کارهایی که انجام می‌دهی نگاه کنی، متوجه می‌شوی که همان افکار در عمل تجلی یافته‌اند."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "چو بنگری ، تو ز افعال ، عین آن فکری",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "ز رأی عالی روشن روانی و خردی",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نظر عمیق و روشنی از اندیشه و عقل تو درباره مسائل جاری و قضاوت‌های قطعی وجود دارد."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "ز امر جاری قاطع قضایی و قدری",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "کفایتست و سعادت مزاج ترکیبت",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کافی است و خوشبختی در ترکیب جسمی تو با ویژگی‌های آسمانی و ماهی."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "کفایت فلکی ، با سعادت قمری",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "خصایل تو یکایک فزایش خطرست",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ویژگی‌های تو هر یک به تنهایی ممکن است خطرناک باشند، اما اگر در میدان جنگ حاضر شوی، راد کمتر از خطر خواهد بود."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "چو ساز رزم کنی باز ، راد کم خطری",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "گیا مثال ز جود تو کیمیا روید ",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل‌ها به خاطر سخاوت تو مانند طلا می‌شوند، در حالی که از زمین بی‌ثمر و شورزا چیزی نمی‌روید."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "ز شوره ناک زمینی کجا برو گذری",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "ز آخشیج هر آن صورتی که خواهد بود",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر شکلی که از ترکیب اجزا به وجود می‌آید، اگر خود را نشان دهد و نمایان شود، همان شکل‌ها باعث افتخار و بزرگی هستند."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "اگر بجود بود فخر ، فخر آن صوری",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "وگر عدوی تو شیرست و هرگز این نبود",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دشمن تو مانند شیر نیرومند باشد، هرگز چنین نیست که تو در تماشای او شعله‌های پرحرارتی نباشی."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "تو پیش دیدۀ او شعله های پر شرری",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "هوای تو زدلم لحظه ای سفر نکند",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل من، هرگز آرزوی سفر به دوردست‌ها وجود ندارد، چون عشق تو چنان در وجودم جای دارد که حتی اگر به جایی دور بروم، لحظه‌ای از تو غافل نخواهم شد."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "گر از هری سفری گردم ، ار بوم حفری",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "چنانکه مدح تو اندر دلم بلند اثرست",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در دل من به قدری تأثیر عمیقی داری که ستایشت در آنجا جا دارد و در مسائل بزرگ زندگی‌ام نیز اثر زیادی بر من گذاشته‌ای."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "تو در بزرگ مهمات من بلند اثری",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "خدایگانا ، گر باغ زرد شد ، بستان",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خداوندگار، اگر باغ به زردی گراید، باغی که به دست رنگ سبز خیالی ما بهره‌مند از شراب خوشمزه است، همچنان باقی خواهد ماند."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "ز دست سبزنگاری شراب معصفری",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "و گرز باغ نهان شد بمهرگان گل سرخ",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مهرگان، گرز باغ پنهان شده است، پس با گل‌های سرخ، فضای باغ را زیبا کن و از گل‌های صورت‌های کاشغری بهره ببر."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "سرای باغ کن از گل رخان کاشغری",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "میی ستان ، که خرد هر زمان بدو گوید",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شرابی بنوش که در هر لحظه به تو می‌گوید: در برابر چشمانت، آن نور شادی مانند گوهری درخشان است."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "که : پیش دیدۀ شادی فروغ را گهری",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "همیشه تا نبود دور آسمان خاکی",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همیشه تا وقتی که دور آسمان خاکی باشد و کره‌ای پر ارزش در دسترس نباشد، بودن ما بی‌معناست."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "همیشه تا نبود کرۀ گران شمری",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "عدو کشی و بقا یابی و بکام زیی",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مقابل دشمن قوی و مقاوم باش، به پیروزی دست یابی و از زندگی لذت ببر، شاد باش و با سخاوت برخورد کن و در میگساری با دیگران سهیم شو."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "طرب کنی و سخاورزی و قدح شمری",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    }
+  ]
+}

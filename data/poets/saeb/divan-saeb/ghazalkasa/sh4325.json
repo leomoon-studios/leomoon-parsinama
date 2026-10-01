@@ -1,0 +1,210 @@
+{
+  "Id": 56523,
+  "CatId": 1852,
+  "Title": "غزل شمارهٔ ۴۳۲۵",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۳۲۵",
+  "FullUrl": "/saeb/divan-saeb/ghazalkasa/sh4325",
+  "RhymeLetters": "امیتوانشنید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی و غم عشق اشاره می‌کند. او می‌گوید که ناله‌های او از زیر خاک شنیده می‌شود و صداهای مختلفی از گوشه و کنار باغ و دنیا به گوش می‌رسد. احساسات اشتیاق و دل‌شکستگی او به وضوح از رنگ چهره‌اش قابل درک است. او به زیبایی معشوق اشاره می‌کند و از آوازهای عاشقانه بلبلان و دل‌تنگی‌های خود حرف می‌زند. در نهایت، شاعر به بوی بهشت و همچنین ناخوشی‌های ناشی از عشق و تقدیر اشاره می‌کند و نشان می‌دهد که تمامی این صداها و احساسات در ارتباط با عشق و زندگی هستند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امیتوانشنید",
+      "PlainText": "از زیر خاک ناله ما می توان شنید\r\nبیرون باغ نیز نوا می توان شنید\r\nبرگ خزان رسیده بود ترجمان باغ\r\nاز رنگ چهره حال مرا می توان شنید\r\nباور که می کند که ازان چشم سرمه دار\r\nآواز دور باش حیا می توان شنید\r\nسینگین دلی وگرنه ز طرف کلاه خویش\r\nآواز دل شکستن ما می توان شنید\r\nهرچند بر دل تو گران است بوی گل\r\nحرفی ز ما برای خدا می توان شنید\r\nپیوسته است سلسله عاشقان به هم\r\nاز بلبلان ترانه ما می توان شنید\r\nدر جلوه گاه حسن تو از موجه سراب\r\nجوش نشاط آب بقا می توان شنید\r\nآرام نیست قافله ممکنات را\r\nاز ذره ذره بانگ درا می توان شنید\r\nپرشور شد ز ناله یک دست من جهان\r\nهرچند کز دو دست صدا می توان شنید\r\nحال درون سوخته جانان شوق را\r\nیک بار ای بهشت خدا می توان شنید\r\nبوی بهشت را که زمین گیر محشرست\r\nامروز در مقام رضا می توان شنید\r\nاز دست بازی مژه های دراز او\r\nصایب صفیر تیر قضا می توان شنید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز زیر خاک ناله ما می‌توان شنید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرون باغ نیز نوا می‌توان شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرگ خزان رسیده بود ترجمان باغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رنگ چهره حال مرا می‌توان شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباور که می‌کند که ازان چشم سرمه دار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآواز دور باش حیا می‌توان شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسینگین دلی وگرنه ز طرف کلاه خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآواز دل شکستن ما می‌توان شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرچند بر دل تو گران است بوی گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرفی ز ما برای خدا می‌توان شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیوسته است سلسله عاشقان به هم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بلبلان ترانه ما می‌توان شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جلوه گاه حسن تو از موجه سراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجوش نشاط آب بقا می‌توان شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآرام نیست قافله ممکنات را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ذره ذره بانگ درا می‌توان شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرشور شد ز ناله یک دست من جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچند کز دو دست صدا می‌توان شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحال درون سوخته جانان شوق را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک بار ای بهشت خدا می‌توان شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوی بهشت را که زمین گیر محشرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز در مقام رضا می‌توان شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دست بازی مژه‌های دراز او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصائب صفیر تیر قضا می‌توان شنید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 12
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از زیر خاک ناله ما می‌توان شنید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای ناله و افسوس ما حتی از زیر خاک هم قابل شنیدن است، و صدای زیبای موسیقی و شادی را می‌توان از بیرون باغ نیز شنید."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بیرون باغ نیز نوا می‌توان شنید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "برگ خزان رسیده بود ترجمان باغ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برگ‌های پاییزی نشان‌دهنده وضعیت باغ هستند و حال من را می‌توان از رنگ چهره‌ام دریافت."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از رنگ چهره حال مرا می‌توان شنید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "باور که می‌کند که ازان چشم سرمه دار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به زیبایی و جذابیت چشم‌های سرمه‌دار اعتماد داشته باشد، می‌تواند از دور صدای حیا و شرم را نیز بشنود."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آواز دور باش حیا می‌توان شنید",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سینگین دلی وگرنه ز طرف کلاه خویش",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دلت سنگین نباشد، می‌توانی از کلاه خود صدای دل‌شکستن ما را بشنوی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آواز دل شکستن ما می‌توان شنید",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هرچند بر دل تو گران است بوی گل",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه بوی گل برای دل تو سنگین و ناخوشایند است، اما می‌توان از ما به خاطر خدا حرفی شنید."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "حرفی ز ما برای خدا می‌توان شنید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "پیوسته است سلسله عاشقان به هم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشقان همیشه در ارتباط با هم هستند و از بلبلان می‌توان آهنگ عشق ما را شنید."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از بلبلان ترانه ما می‌توان شنید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "در جلوه گاه حسن تو از موجه سراب",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مکان زیبایی که تو حضور داری، صدای شادابی و حیات را می‌توان از جوش و خروش آب شفاف و زنده شنید."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "جوش نشاط آب بقا می‌توان شنید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "آرام نیست قافله ممکنات را",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قافله موجودات در حال حرکت و دگرگونی است و از کوچک‌ترین چیزها، صداهایی به گوش می‌رسد که نشان‌دهنده‌ی این تحرک و تغییرات است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "از ذره ذره بانگ درا می‌توان شنید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "پرشور شد ز ناله یک دست من جهان",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای ناله یک دست من به قدری پرشور و پر انرژی است که می‌تواند تمام دنیا را تحت تأثیر قرار دهد، حتی اگر با دو دست هم صدا ایجاد کنم، باز هم چنین تاثیری نخواهد داشت."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "هرچند کز دو دست صدا می‌توان شنید",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "حال درون سوخته جانان شوق را",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: احساسات عمیق و سوزان درونی معشوق، شوق و اشتیاق را به وضوح می‌توان در بهشت الهی حس کرد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "یک بار ای بهشت خدا می‌توان شنید",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "بوی بهشت را که زمین گیر محشرست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز محشر، بویی خوش از بهشت به مشام می‌رسد و امروز، در حالت رضا و رضایت می‌توان آن را احساس کرد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "امروز در مقام رضا می‌توان شنید",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "از دست بازی مژه‌های دراز او",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر زیبایی و جذابیت چشم‌های او، گویی سرنوشتم تحت تأثیر قرار گرفته و صدای تیر سرنوشت را می‌توانم حس کنم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "صائب صفیر تیر قضا می‌توان شنید",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    }
+  ]
+}

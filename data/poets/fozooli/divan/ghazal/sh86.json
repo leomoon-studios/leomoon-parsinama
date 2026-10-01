@@ -1,0 +1,135 @@
+{
+  "Id": 116792,
+  "CatId": 2704,
+  "Title": "شمارهٔ ۸۶",
+  "FullTitle": "فضولی » دیوان اشعار فارسی » غزلیات » شمارهٔ ۸۶",
+  "FullUrl": "/fozooli/divan/ghazal/sh86",
+  "RhymeLetters": "ارینیست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر احساس ناامیدی و درد و غم را در دنیای پر از خار و خالی از زیبایی‌ها بیان می‌کند. او اشاره می‌کند که در این باغ هیچ گلی بدون خار وجود ندارد و در حقیقت هیچ زیبایی و خوشی ای نیست. حسرت او از اینکه هیچکس در اطرافش وفا ندارد و غم‌هایش بی‌پایان است، حس و حال تنهایی و عدم رضایت عمیقی را نشان می‌دهد. در آخر، شاعر به کسی حسرت می‌خورد که به هیچ چیز وابسته نیست و از این وابستگی‌ها آزاد است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارینیست",
+      "PlainText": "ازان درین چمنم میل گلعذاری نیست\r\nکه هیچ برگ گلی بی بلای خاری نیست\r\nنبرده ایم درین باغ ره بسوی گلی\r\nکه در حوالی او همچو من هزاری نیست\r\nندیده ایم درین ملک گنج حسنی را که\r\nکه از صف رقبا گرد او حصاری نیست\r\nازان چمن چه گشاید که عندلیبان را\r\nدرو بسوی گل از خار رهگذاری نیست\r\nدرین نشیمن حرمان هزار غم دارم\r\nفزون تر از همه این غم که غمگساری نیست\r\nدرون سینه دل تنگم از گلی نشگفت\r\nچگونه گل شکفد باغ را بهاری نیست\r\nز هیچ یار فضولی ندیده ایم وفا\r\nخوشا کسی که مقید بهیچ کاری نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازان درین چمنم میل گلعذاری نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هیچ برگ گلی بی بلای خاری نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبرده ایم درین باغ ره بسوی گلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در حوالی او همچو من هزاری نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندیده ایم درین ملک گنج حسنی را که\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از صف رقبا گرد او حصاری نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازان چمن چه گشاید که عندلیبان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرو بسوی گل از خار رهگذاری نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرین نشیمن حرمان هزار غم دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفزون تر از همه این غم که غمگساری نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرون سینه دل تنگم از گلی نشگفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچگونه گل شکفد باغ را بهاری نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز هیچ یار فضولی ندیده ایم وفا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوشا کسی که مقید بهیچ کاری نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ازان درین چمنم میل گلعذاری نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در این باغ تمایل به گلابی ندارم، چون هیچ گلبرگی بدون درد و خار نیست."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که هیچ برگ گلی بی بلای خاری نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نبرده ایم درین باغ ره بسوی گلی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در این باغ به سوی گلی که در اطرافش مانند من هزاران نفر نیستند، راهی نرفته‌ایم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که در حوالی او همچو من هزاری نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ندیده ایم درین ملک گنج حسنی را که",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این سرزمین هرگز کسی را ندیده‌ایم که زیبایی‌اش بی‌رقیب باشد و گرد او هیچ حفاظی وجود نداشته باشد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که از صف رقبا گرد او حصاری نیست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ازان چمن چه گشاید که عندلیبان را",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از این چمن چه فایده‌ای خواهد بود، در حالی که بلبل‌ها برای رسیدن به گل از میان خارها نمی‌توانند عبور کنند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "درو بسوی گل از خار رهگذاری نیست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "درین نشیمن حرمان هزار غم دارم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این خانه تنهایی و ناراحتی، غم‌های زیادی دارم، اما بزرگ‌ترین غمم این است که هیچ کسی نیست تا دلم را تسلا بدهد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "فزون تر از همه این غم که غمگساری نیست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "درون سینه دل تنگم از گلی نشگفت",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در قلبم احساس ناراحتی و دلتنگی وجود دارد و نمی‌دانم چگونه باید شکوفه‌ای از دل برآید، چرا که باغ را بهاری نیست."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چگونه گل شکفد باغ را بهاری نیست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ز هیچ یار فضولی ندیده ایم وفا",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما تاکنون وفای هیچ یار فضول را ندیده‌ایم، خوشا به حال کسی که خود را به هیچ کاری محدود نکرده است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "خوشا کسی که مقید بهیچ کاری نیست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

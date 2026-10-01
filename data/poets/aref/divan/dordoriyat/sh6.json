@@ -1,0 +1,1095 @@
+{
+  "Id": 86982,
+  "CatId": 2289,
+  "Title": "شمارهٔ  ۶ - قصیدهٔ علی‌جان",
+  "FullTitle": "عارف قزوینی » دیوان اشعار » دردریات (مطایبه‌ها) » شمارهٔ  ۶ - قصیدهٔ علی‌جان",
+  "FullUrl": "/aref/divan/dordoriyat/sh6",
+  "RhymeLetters": "رعلیجان",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن از یک شاعر بزرگ ایرانی شامل مضامین عمیق و انتقادی درباره زندگی، جامعه و وضعیت انسانی است. شاعر به توصیف حالات مختلف فرد و جامعه می‌پردازد و از احساس تنهایی، رنج و ناامیدی سخن می‌گوید. او به تضادهایی مانند شیرینی و تلخی، بخصوص در روابط انسانی اشاره می‌کند و با یک زبان پر از استعاره، فساد اجتماعی و سیاسی را به چالش می‌کشد. شاعر از شکایات خود در مورد ظلم و ستم در جامعه، خصوصاً در بین افراد و مقامات، سخن می‌گوید و در نهایت دعا می‌کند که انسان‌ها متحد شوند تا این مشکلات را برطرف کنند. این شعر به خوبی شرایط انسانی و اجتماعی زمانه خود را به تصویر می‌کشد و خواستار توجه و اقدام در برابر ناعدالتی‌هاست.",
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارعلیجان",
+      "PlainText": "ای تو چو هوشنگ هوشیار علی جان\r\nگویمت این نکته هوش دار علی جان\r\nموقع تنهایی همچو ذات خداوند\r\nجفت نداری چو کردگار علی جان\r\nگر تو شدی یار غار خوش گذرد بر\r\nآنکه شود با تو یار غار علی جان\r\nاز دو نفر تا سه با تو راه توان رفت\r\nآوخ اگر آن سه شد چهار علی جان\r\nگاه چو خم عسل لبالبی از شهد\r\nگاه تو چون برج زهرمار علی جان\r\nگاه تو شیرین تر از شکر گه دیگر\r\nتلخ ترستی ز زهر مار علی جان\r\nگاه تو چون قاطر چموش لگدزن\r\nگاه چو دلدل تو راهوار علی جان\r\nنیست کسی کز تو بر دلش ننشسته\r\nحرف سه پهلو و گوشه دار علی جان\r\nروده درازی و پرنفس گه مستی\r\nاین شده بر حضرتت شعار علی جان\r\nهر که گرفتار صحبت تو شود شب\r\nچاره ندارد جز انتحار علی جان\r\nتیغ زبان تو بهر آنکه کند قطع\r\nحرف تو بدتر ز ذوالفقار علی جان\r\nچون بود اوضاع هییتی که تو در وی\r\nصدرنشین مصلحت گذار علی جان\r\nوای بر آن مجمعی که باشی و در وی\r\nراه نباشد پی فرار علی جان\r\nوای بر آن کس که در میانه مردم\r\nبا تو شود یار و هم جوار علی جان\r\nوای به حال کسی که از تو بترسد\r\nیا که تو بر وی شوی سوار علی جان\r\nبخش کنی فحش و حرف تلخ تو در شب\r\nصد نفر ار شد نه سرشمار علی جان\r\nدلبر شربت فروش باش و شکر لب\r\nسرکه فروشی بنه کنار علی جان\r\nلیک به مردانگی و غیرت و همت\r\nیکه حریفی و تک سوار علی جان\r\nراستی این راستان به دهر نبینند\r\nراستی از چرخ کج مدار علی جان\r\nمملکت اشرافی و من و تو به ذلت\r\nمال حلال و سلیقه دار علی جان\r\nکارگر و رنجبر به زحمت و راحت\r\nمفت خوران نکرده کار علی جان\r\nمرد رعیت به پشت گاو چو خر شیخ\r\nتن ندهد زیر بار کار علی جان\r\nتا بود عمامه بار دوش گروهی\r\nسورچرانند و خرسوار علی جان\r\nکرده قناعت ز زندگی تو و من هم\r\nهردو به یک شام و یک ناهار علی جان\r\nآمده از آسمان برای من و تو\r\nسوره واللیل والنهار علی جان\r\nباز به این زندگی من و تو نداریم\r\nراحتی از دست روزگار علی جان\r\nابره اگر یافتی ام آسترش نیست\r\nآستر ار شد نبد نوار علی جان\r\nما دو گریبان پاره پاره نپوشیم\r\nپیرهن شیک و تکمه دار علی جان\r\nجامه بیچارگی بپوش بپوشیم\r\nچشم ز دیبای زرنگار علی جان\r\nکوری چشم کسی که خواست نبیند\r\nما و تو باشیم نونوار علی جان\r\nدانی ام ایام هجر چون گذرد چون\r\nمی گذرد روز روزه دار علی جان\r\nچرخ امانم نداد چند صباحی\r\nگیرم یک گوشه ای قرار علی جان\r\nکرد طبیعت مرا به کوه و بیابان\r\nدر به در از روی اضطرار علی جان\r\nبس که به فکر اندرم ندانم امسال\r\nآمد و کی رفت کی بهار علی جان\r\nبود بهارم شبی که چون شفق صبح\r\nصبح شفق بودی ام کنار علی جان\r\nدست به گل چون برم نمانده به دستم\r\nجای سلامت ز دست خار علی جان\r\nجان به لب آمد مرا ز بس که رذالت\r\nدیدم از ابنای روزگار علی جان\r\nبا که توان گفت درد خویش در این ملک\r\nوز که توان بود امیدوار علی جان\r\nشاه و وزیر و وکیل و حاکم و محکوم\r\nرشوه بگیرند و رشوه خوار علی جان\r\nعالم و جاهل به یک ردیف در انظار\r\nخادم و خاین به یک قطار علی جان\r\nعصر تمدن ببین و دور تجدد\r\nاز فکلی های لاله زار علی جان\r\nملت وجدان کش و زبون و ریاکار\r\nباربر غیر و بردبار علی جان\r\nباربر انگلیس و کارگر روس\r\nمردم بی قدر و اعتبار علی جان\r\nجمعی ماهانه ز انگلیس بگیرند\r\nجرگه ای از روس جیره خوار علی جان\r\nجمع کثیری دوان به راه سفارت\r\nدولا دولا شترسوار علی جان\r\nشاه و گدا دزد دزد و میر و عسس مست\r\nمملکت از هر طرف دچار علی جان\r\nآنچه به جا مانده برد شه به اروپا\r\nبه به از این شاه و شاهکار علی جان\r\nگنج جواهر ز شاه باز گرفتن\r\nمهره گرفتن بود ز مار علی جان\r\nمجلس ننگین وکیل خاین و قاتل\r\nدولت و کابینه لکه دار علی جان\r\nهیز طبیعت محیط فاسد و مسموم\r\nبشکند این چرخ کهنه کار علی جان\r\nچشم سیاهی کند تپد دل من از\r\nوحشت این قیرگون حصار علی جان\r\nلعنت بر یارم و دیارم لعنت\r\nبر پدر شهر و شهریار علی جان\r\nلعنت بر کشور جم و کی لعنت\r\nبر پدر تاج و تاجدار علی جان\r\nنفرین بر کشور غم آور و نفرین\r\nبر غم و غمخوار و غمگسار علی جان\r\nتف به تو تف بر من و تفو به تو ای پست\r\nمردم ننگین و شرمسار علی جان\r\nلعنت به روح آن که مملکتی کرد\r\nجغد نشین و خرابه زار علی جان\r\nلعنت بر گور آن پدر که از او ماند\r\nجهل و جهالت به یادگار علی جان\r\nنفرین بر آن پسر که گر بکند بر\r\nهمچو پدر روزی افتخار علی جان\r\nلعن بر اشراف و مفت خور کن و لعنت\r\nبر پدر شیخ لاش خوار علی جان\r\nملت محکوم مرگ و محو و زوال است\r\nگفتم و گویم هزار بار علی جان\r\nآن قدر از دست غم شدم عصبانی\r\nفکر فکورم بود فگار علی جان\r\nکاش مرا نافریده بود که عمری\r\nشاکی ام از آفریدگار علی جان\r\nگر فتدم فرصتی به دست برآرم\r\nاز فلک و چرخ دون دمار علی جان\r\nگر تو و من متفق شویم عدو را\r\nبایدش آویختن به دار علی جان\r\nاز خودی خود خدا گواه برونم\r\nچون شتر مست و بی مهار علی جان\r\nقطع کنم گرچه در مکالمه باشد\r\nطول سخن به ز اختصار علی جان\r\nجرگ رفیقان یکان یکان برسانی\r\nعرض ارادت ز جان نثار علی جان\r\nزود رسان زودتر جواب بده نیست\r\nطاقت اوقات انتظار علی جان\r\nنامه به مازندران نوشتی بنویس\r\nعرضه ز من بر حسن برار علی جان\r\nهم به آشان هم اوشان حسین قلی را\r\nهر دو به غربت به هم سپار علی جان\r\nعارف ممنون ز حشمت الملک این مرد\r\nهست حقیقت بزرگوار علی جان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تو چو هوشنگ، هوشیار علی‌جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویمت این نکته هوش دار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eموقعِ تنهایی همچو ذاتِ خداوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجفت نداری چو کردگار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر تو شدی یار غار خوش گذرد بر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه شود با تو یار غار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دو نفر تا سه با تو راه توان رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآوخ اگر آن سه شد چهار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه چو خُمّ عسل لبالبی از شهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاه تو چون برج زهرمار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه تو شیرین‌تر از شکر گهِ دیگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتلخ‌ترستی ز زهرِ مار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه تو چون قاطرِ چموشِ لگدزن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاه چو دُلْدُل تو راهوار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست کسی کز تو بر دلش ننشسته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرف سه‌پهلو و گوشه‌دار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروده‌درازی و پرنفس گهِ مستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین شده بر حضرتت شعار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که گرفتار صحبت تو شود شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچاره ندارد جز انتحار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیغِ زبانِ تو بهر آنکه کند قطع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرف تو بدتر ز ذوالفقار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون بود اوضاع هیئتی که تو در وی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصدرنشین مصلحت‌گذار؟ علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوای بر آن مجمعی که باشی و در وی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراه نباشد پی فرار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوای بر آن کس که در میانهٔ مردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا تو شود یار و هم‌جوار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوای به حال کسی که از تو بترسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا که تو بر وی شوی سوار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخش کنی فحش و حرف تلخ، تو در شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد نفر ار شد نه سرشمار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلبرِ شربت‌فروش باش و شکر‌لب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرکه‌فروشی بنه کنار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک به مردانگی و غیرت و همت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکّه حریفی و تک‌سوار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراستیِ این راستان به دهر نبینند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراستی از چرخ کج‌مدار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمملکت اشرافی و من و تو به ذلت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمال حلال و سلیقه‌دار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکارگر و رنجبر به زحمت، و راحت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمفت‌خوران نکرده کار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرد رعیت به پشت گاو؛ چو خر، شیخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتن ندهد زیر بار کار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بود عمامه بار دوش، گروهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسورچرانند و خرسوار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرده قناعت ز زندگی تو و من هم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهردو به یک شام و یک ناهار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمده از آسمان برای من و تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسورهٔ وَالْلَیلِ والنَّهار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز به این زندگی من و تو نداریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراحتی از دست روزگار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاَبره اگر یافتی‌ام آسترش نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآستر ار شد نبد نوار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما دو گریبان پاره پاره، نپوشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیرهن شیک و تکمه‌دار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجامهٔ بیچارگی بپوش، بپوشیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم ز دیبای زرنگار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوری چشم کسی که خواست نبیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما و تو باشیم نونوار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانی‌ام ایام هجر چون گذرد چون؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌گذرد روزِ روزه‌دار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرخ امانم نداد چند صباحی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگیرم یک گوشه‌ای قرار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرد طبیعت مرا به کوه و بیابان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر‌به‌در از روی اضطرار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس که به فکر اندرم ندانم امسال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآمد و کی رفت کی بهار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود بهارم شبی که چون شفقِ صبح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبحِ شفق بودی‌ام کنار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست به گُل چون برم نمانده به دستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجای سلامت ز دستِ خار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان به لب آمد مرا ز بس که رذالت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدم از ابنای روزگار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا که توان گفت درد خویش در این ملک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز که توان بود امیدوار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه و وزیر و وکیل و حاکم و محکوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرشوه‌بگیرند و رشوه‌خوار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم و جاهل به یک ردیف در انظار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخادم و خائن به یک قطار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعصر تمدن ببین و دور تجدد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز فکلی‌های لاله‌زار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملّتِ وجدان‌کش و زبون و ریاکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباربر غیر و بردبار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباربر انگلیس و کارگر روس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمردمِ بی‌قدر و اعتبار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمعی ماهانه ز انگلیس بگیرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجرگه‌ای از روس جیره‌خوار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمع کثیری دوان به راه سفارت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدولا دولا شترسوار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه و گدا دزد، دزد و میر و عسس مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمملکت از هر طرف دچار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچه به جا مانده برد شه به اروپا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه به از این شاه و شاهکار علی‌جان!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگنج جواهر ز شاه باز گرفتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهره گرفتن بود ز مار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجلس ننگین، وکیل خائن و قاتل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدولت و کابینه لکّه‌دار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهیز طبیعت، محیط فاسد و مسموم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشکند این چرخ کهنه‌کار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم سیاهی کند تپد دلِ من از\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوحشتِ این قیرگون حصار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلعنت بر یارم و دیارم، لعنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر پدر شهر و شهریار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلعنت بر کشور جم و کی، لعنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر پدر تاج و تاجدار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنفرین بر کشور غم‌آور و نفرین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر غم و غمخوار و غمگسار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتف به تو تف بر من و تفو به تو ای پست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمردمِ ننگین و شرمسار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلعنت به روح آن‌که مملکتی کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجغد‌نشین و خرابه‌زار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلعنت بر گور آن پدر که از او ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهل و جهالت به یادگار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنفرین بر آن پسر که گر بکند بر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو پدر روزی افتخار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلعن بر اشراف و مفت‌خور کن و لعنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر پدر شیخِ لاش‌خوار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملّت، محکومِ مرگ و محو و زوال است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتم و گویم هزار بار علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn61\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن‌قدَر از دست غم شدم عصبانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفکر فکورم بُوَد فِگار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn62\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاش مرا نافریده بود که عمری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاکی‌ام از آفریدگار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn63\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر فتدم فرصتی به دست، برآرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز فلک و چرخ دون، دمار؛ علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn64\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر تو و من مُتَّفِق شویم؛ عدو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبایَدَش آویختن به دار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn65\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خودیِ خود، خدا گواه؛ برونم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شترِ مست و بی‌مهار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn66\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقطع کنم گرچه در مکالمه باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطول سخن بِهْ ز اختصار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn67\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجرگ رفیقان یکان یکان برسانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرض ارادت ز جان‌نثار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn68\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزود رسان، زودتر جواب بده؛ نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطاقت اوقات انتظار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn69\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنامه به مازندران نوشتی؛ بنْویس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرضه ز من بر حسن برار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn70\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم به آشان هم اوشان حسین‌قلی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دو به غربت به هم سپار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn71\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعارف ممنون ز حشمت‌المَلِک، این مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست حقیقت بزرگوار، علی‌جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 71
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای تو چو هوشنگ، هوشیار علی‌جان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای هم‌چون هوشنگ، آگاه و بیدار، به تو می‌گویم که این نکته را به خوبی در نظر داشته باش."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گویمت این نکته هوش دار علی‌جان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "موقعِ تنهایی همچو ذاتِ خداوند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زمان تنهایی، مانند ذات خداوند، کسی نداری که همرا ه تو باشد، همان‌طور که خالق علی‌جان نیز تنهاست."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جفت نداری چو کردگار علی‌جان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر تو شدی یار غار خوش گذرد بر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو دوست صمیمی و همراه خوبی برای کسی باشی، زندگی برای او خوش و شیرین خواهد گذشت."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آنکه شود با تو یار غار علی‌جان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از دو نفر تا سه با تو راه توان رفت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با دو نفر تا سه نفر می‌توانی در راهی پیش بروی، اما افسوس که اگر آن سه نفر به چهار نفر تبدیل شوند، راه دشوارتر خواهد شد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آوخ اگر آن سه شد چهار علی‌جان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گاه چو خُمّ عسل لبالبی از شهد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر لحظه می‌توانی مانند کوزه‌ای پر از عسل باشی، و گاهی هم همچون برجی از زهر و تلخی."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گاه تو چون برج زهرمار علی‌جان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گاه تو شیرین‌تر از شکر گهِ دیگر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی تو به اندازه شکر شیرینی و در زمان دیگری به اندازه زهر مار تلخی."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "تلخ‌ترستی ز زهرِ مار علی‌جان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "گاه تو چون قاطرِ چموشِ لگدزن",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی تو همچون قاطر سرکش و لگدزن هستی و گاهی مثل اسبی نرم و رام."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "گاه چو دُلْدُل تو راهوار علی‌جان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "نیست کسی کز تو بر دلش ننشسته",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نیست که از حرف‌های مبهم و پیچیده‌ تو در دلش تأثیر نپذیرفته باشد، علی‌جان."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "حرف سه‌پهلو و گوشه‌دار علی‌جان",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "روده‌درازی و پرنفس گهِ مستی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیار صحبت‌های بی‌پایان و پرشور در حالت مستی، به عنوان نشانه‌ای از عشق و ارادت به شما تبدیل شده است، ای علی‌جان."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "این شده بر حضرتت شعار علی‌جان",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "هر که گرفتار صحبت تو شود شب",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در حضور تو باشد، شب را جز با شجاعت و فداکاری نمی‌تواند سپری کند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "چاره ندارد جز انتحار علی‌جان",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "تیغِ زبانِ تو بهر آنکه کند قطع",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زبان تو مانند شمشیری است که قادر به قطع کردن هر سخنی است و این قدرتش از حتی شمشیر علی بن ابی‌طالب نیز بیشتر است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "حرف تو بدتر ز ذوالفقار علی‌جان",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "چون بود اوضاع هیئتی که تو در وی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به چه شکل و حالتی است که تو در آنجا مقام و جایگاه مهمی داری و به عنوان کسی که به خوشبختی و صلاح امور کمک می‌کند، شناخته می‌شوی؟"
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "صدرنشین مصلحت‌گذار؟ علی‌جان",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "وای بر آن مجمعی که باشی و در وی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیکو نیست که در جمعی باشی و نتوانی از آن خارج شوی، مانند علی‌جان که در چنین وضعیتی قرار گرفته است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "راه نباشد پی فرار علی‌جان",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "وای بر آن کس که در میانهٔ مردم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آه بر کسی که در میان مردم به دوستانت نزدیک می‌شود و هم‌صحبت تو می‌گردد علی‌جان."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "با تو شود یار و هم‌جوار علی‌جان",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "وای به حال کسی که از تو بترسد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دروغی بیش نیست که کسی از تو بترسد یا بر او مسلط شوی، ای علی جان."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "یا که تو بر وی شوی سوار علی‌جان",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "بخش کنی فحش و حرف تلخ، تو در شب",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در شب، فحش و سخنان تلخ تو را به صد نفر بگویی، به شمار علی‌جان هم نخواهد رسید."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "صد نفر ار شد نه سرشمار علی‌جان",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "دلبرِ شربت‌فروش باش و شکر‌لب",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزیز من، دلی پر از محبت و صفا داشته باش و در کنار آن، کسی را که تلخی را به شیرینی بدل می‌کند بگذار."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "سرکه‌فروشی بنه کنار علی‌جان",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "لیک به مردانگی و غیرت و همت",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما در زمینه شجاعت، غیرت و تلاش، تو منحصر به فرد و بی‌نظیر هستی، همچون سوارکار تنهایی که قهرمان و الگوی بزرگ است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "یکّه حریفی و تک‌سوار علی‌جان",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "راستیِ این راستان به دهر نبینند",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این حقیقت که راست و درست است، در دنیا به چشم نمی‌آید. این نادرست‌ها و کج‌روی‌ها از چرخ دوران ناشی می‌شوند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "راستی از چرخ کج‌مدار علی‌جان",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "مملکت اشرافی و من و تو به ذلت",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در حالی که کشور بر اثر هرج و مرج به اوضاع خوبی نرسیده، ما در میان مسائل اقتصادی و اجتماعی، متوجه ارزش و اهمیت نعمت‌های حلال زندگی‌مان می‌شویم و به سلیقه و انتخاب‌های خود در این شرایط اعتقاد داریم."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "مال حلال و سلیقه‌دار علی‌جان",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "کارگر و رنجبر به زحمت، و راحت",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کارگران با زحمت خود سختی می‌کشند، اما افرادی که به راحتی زندگی می‌کنند هیچ تلاشی انجام نداده‌اند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "مفت‌خوران نکرده کار، علی‌جان",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "مرد رعیت به پشت گاو؛ چو خر، شیخ",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردی که در کارهای سخت با زحمت می‌کوشد و مانند خر بار روی دوش خودش دارد، اما شیخ نمی‌خواهد زیر بار زحمات و مسئولیت‌های سنگین برود."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "تن ندهد زیر بار کار علی‌جان",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "تا بود عمامه بار دوش، گروهی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به وضوح به دورانی اشاره دارد که برخی افراد به دلیل قدرت و نفوذ دیگران، به کارهایی مشغول هستند که به آن‌ها تعلقی ندارد. وقتی کسی بار سنگینی بر دوش دارد، نشان‌دهنده مسئولیت و وظیفه‌ای است که بر عهده‌اش گذاشته شده است. در این بین، عده‌ای هستند که با رفتارهای خود، تنها به فکر منافع شخصی و سرگرمی‌ها هستند و از شرایط دیگران بهره‌برداری می‌کنند. بنابراین، به نوعی می‌توان گفت که در این زمان، برخی افراد به دنبال لذایذ دنیوی خود هستند و از مسئولیت‌های واقعی فرار می‌کنند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "سورچرانند و خرسوار علی‌جان",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "کرده قناعت ز زندگی تو و من هم",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما هر دو از زندگی قناعت کرده‌ایم و به یک وعده شام و یک وعده ناهار بسنده کرده‌ایم، علی‌جان."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "هردو به یک شام و یک ناهار علی‌جان",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "آمده از آسمان برای من و تو",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آسمان برای ما سوره‌ای نازل شده است که در آن به شب و روز اشاره شده است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "سورهٔ وَالْلَیلِ والنَّهار، علی‌جان",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "باز به این زندگی من و تو نداریم",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زندگی مشترک ما، دیگر آرامش و راحتی نداریم و روزگار سختی را سپری می‌کنیم، علی‌جان."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "راحتی از دست روزگار علی‌جان",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "اَبره اگر یافتی‌ام آسترش نیست",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ابر را پیدا کنی، دیگر آستری برای آن وجود ندارد. اگر هم به آستری تبدیل شود، دیگر مانند نوار علی‌جان نخواهد بود."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "آستر ار شد نبد نوار علی‌جان",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "ما دو گریبان پاره پاره، نپوشیم",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما با لباس‌های کهنه و پاره‌پاره، نمی‌توانیم لباس‌های خوب و شیک بپوشیم."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "پیرهن شیک و تکمه‌دار علی‌جان",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "جامهٔ بیچارگی بپوش، بپوشیم",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لباس فقر و نیاز را به تن کن، تا ما نیز به زیبایی‌های دنیا نگاه نکنیم."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "چشم ز دیبای زرنگار علی‌جان",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "کوری چشم کسی که خواست نبیند",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشمان کسی که نمی‌خواهد ما را ببیند، کور باد. ما و تو با هم در شرایط خوبی خواهیم بود، علی جان."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "ما و تو باشیم نونوار علی‌جان",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "دانی‌ام ایام هجر چون گذرد چون؟",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌دانی که روزهای جدایی چگونه می‌گذرد، مثل روزهای کسانی که روزه می‌گیرند، علی‌جان."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "می‌گذرد روزِ روزه‌دار، علی‌جان",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "چرخ امانم نداد چند صباحی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرخ فلک به من اجازه نداد که مدت زیادی در یک جا آرامش داشته باشم، ای علی جان، کاش می‌توانستم لحظه‌ای در یک گوشه استراحت کنم."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "گیرم یک گوشه‌ای قرار علی‌جان",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "کرد طبیعت مرا به کوه و بیابان",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: طبیعت مرا به دامان کوه و بیابان برد و به‌دلیل برخی شرایط سخت و اضطراری، به حالتی آشفته و سرگردان درآورده است."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "در‌به‌در از روی اضطرار علی‌جان",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "بس که به فکر اندرم ندانم امسال",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من آن‌قدر درگیر افکار و دغدغه‌هایم هستم که اصلاً نمی‌دانم امسال چه زمانی آمد و چه زمانی رفت، حتی فراموش کرده‌ام که بهار کی است، علی‌جان."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "آمد و کی رفت کی بهار علی‌جان",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "بود بهارم شبی که چون شفقِ صبح",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آن شب که بهاری بودم، مانند سپیده‌دم صبح، در کنار علی‌جان، نور و زیبایی خاصی داشتم."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "صبحِ شفق بودی‌ام کنار علی‌جان",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "دست به گُل چون برم نمانده به دستم",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی به گل می‌زنم، دیگر جایی در دستم برای سلامت باقی نمی‌ماند و همه‌چیز را از دست می‌دهم، مانند خارهای اطراف گل."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "جای سلامت ز دستِ خار، علی‌جان",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "جان به لب آمد مرا ز بس که رذالت",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی برایم به شدت دشوار شده است، چرا که از زشتی‌ها و بدی‌های انسان‌ها در این دنیا به تنگ آمده‌ام."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "دیدم از ابنای روزگار علی‌جان",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "با که توان گفت درد خویش در این ملک",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کیست که بتوان با او از دردهای خود در این سرزمین سخن گفت، و از که می‌توان امید داشت، ای علی‌جان؟"
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "وز که توان بود امیدوار علی‌جان",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "شاه و وزیر و وکیل و حاکم و محکوم",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این متن به وضعیت فساد در جامعه اشاره شده است، جایی که مقام‌های بالا مانند شاه، وزیر، و وکیل درگیر فساد و دریافت رشوه هستند. همچنین اشاره به حاکم و محکوم نیز نشان‌دهنده این است که حتی در سطوح پایین‌تر، این مشکل وجود دارد و همه افراد از آن تأثیر می‌پذیرند."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "رشوه‌بگیرند و رشوه‌خوار علی‌جان",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "عالم و جاهل به یک ردیف در انظار",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عالم و نادان در نظر دیگران از یک درجه و یک سطح هستند، خادم و خیانتکار نیز به یک اندازه دیده می‌شوند."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "خادم و خائن به یک قطار علی‌جان",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "عصر تمدن ببین و دور تجدد",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به عصر مدرنیته و پیشرفت نگاه کن و از فکر و ذهنیت سنتی و قدیمی که در خیابان لاله‌زار است، دوری کن."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "از فکلی‌های لاله‌زار علی‌جان",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "ملّتِ وجدان‌کش و زبون و ریاکار",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم بی‌احساس و ترسو و تظاهرکننده، در زمینه‌های دیگر مثل کار و صبوری، مانند علی هستند."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "باربر غیر و بردبار علی‌جان",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "باربر انگلیس و کارگر روس",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باربر انگلیسی و کارگر روس، جامعه‌ای از انسان‌ها هستند که ارزش چندانی در نظر دیگران ندارند و به نوعی فراموش شده‌اند."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "مردمِ بی‌قدر و اعتبار علی‌جان",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "جمعی ماهانه ز انگلیس بگیرند",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گروهی از انگلیس به طور ماهانه، جشنی برپا می‌کنند که در آن روس‌ها هم به عنوان افراد وابسته و تحت‌نفوذ علی‌جان حضور دارند."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "جرگه‌ای از روس جیره‌خوار علی‌جان",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "جمع کثیری دوان به راه سفارت",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گروهی بزرگ در حال دویدن به سمت سفارت هستند و به طرز جالبی بر روی شترها نشسته‌اند."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "دولا دولا شترسوار علی‌جان",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "شاه و گدا دزد، دزد و میر و عسس مست",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بازی زندگی، همه چیز به هم آمیخته و یکی از دیگری کمتر نیست. حتی کسانی که مقام و موقعیت بالایی دارند، در کارهای غیر اخلاقی و ناپسند تفاوتی با کسانی که در پایین‌ترین سطح جامعه هستند ندارند. در واقع، در این واقعیت پیچیده، همه افراد جامعه خود را در چالش‌ها و مشکلات مشابهی می‌بینند."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "مملکت از هر طرف دچار علی‌جان",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "آنچه به جا مانده برد شه به اروپا",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنچه که از او به یادگار مانده، با وجود این شاه و کارهایش، به واقع در اروپا ارزشمندتر است!"
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "به به از این شاه و شاهکار علی‌جان!",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "گنج جواهر ز شاه باز گرفتن",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گنج و جواهر را از شاه به دست آوردن، مانند گرفتن مهره از مار است."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "مهره گرفتن بود ز مار علی‌جان",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "مجلس ننگین، وکیل خائن و قاتل",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مجلس بی‌اعتبار، نماینده‌ای خائن و عاملی برای فساد و خرابکاری در دولت و کابینه علی‌جان."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "دولت و کابینه لکّه‌دار علی‌جان",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "هیز طبیعت، محیط فاسد و مسموم",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دستگاه طبیعت و محیط آلوده و مضر این دنیای کهنه را از بین ببرد."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "بشکند این چرخ کهنه‌کار علی‌جان",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "چشم سیاهی کند تپد دلِ من از",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌های تیره و سیاه باعث می‌شود که قلب من از ترس این دیوار تاریک و ظلمانی به تپش بیفتد."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "وحشتِ این قیرگون حصار علی‌جان",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "لعنت بر یارم و دیارم، لعنت",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نفرت و نفرین به محبوبم و زادگاهم، نفرین به پدر شهر و فرمانروای آن."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "بر پدر شهر و شهریار علی‌جان",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "لعنت بر کشور جم و کی، لعنت",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نفرت از سرزمین جم و کی، و همچنین نفرت از پدر تاج و حکم‌ران."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "بر پدر تاج و تاجدار علی‌جان",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "نفرین بر کشور غم‌آور و نفرین",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نفرین بر سرزمینی که پر از غم است و نفرین بر افسوس و کسانی که در غم با ما هستند و برای ما تسلی می‌آورند."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "بر غم و غمخوار و غمگسار علی‌جان",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "تف به تو تف بر من و تفو به تو ای پست",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من و تو بی‌احترامی می‌کنم و به تو، ای انسان ننگین و شرمنده، تف می‌اندازم."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "مردمِ ننگین و شرمسار علی‌جان",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "لعنت به روح آن‌که مملکتی کرد",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح کسی که کشور را محل زندگی جغدها و ویرانه‌ها قرار داد، مورد نفرین است."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "جغد‌نشین و خرابه‌زار علی‌جان",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "لعنت بر گور آن پدر که از او ماند",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ننگ بر کسی که به جا گذاشتن نادانی و بی‌خبری را به نسل‌های بعدی به ارث گذاشته است."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "جهل و جهالت به یادگار، علی‌جان",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "نفرین بر آن پسر که گر بکند بر",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نفرین بر پسری که اگر مانند پدرش روزی به افتخار برسد."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "همچو پدر روزی افتخار علی‌جان",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "لعن بر اشراف و مفت‌خور کن و لعنت",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر اشراف و کسانی که زندگی راحت و بدون زحمت دارند، نفرین بفرست و همچنین نفرین بر پدر شیخ علی‌جان که به نظر می‌رسد بی‌خود و بی‌جهت زندگی می‌کند."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "بر پدر شیخِ لاش‌خوار، علی‌جان",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "ملّت، محکومِ مرگ و محو و زوال است",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ملت گرفتار مرگ و نابودی و زوال است؛ این را یکبار نگفتم، بلکه هزار بار می‌گویم، ای علی."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "گفتم و گویم هزار بار علی‌جان",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "آن‌قدَر از دست غم شدم عصبانی",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به شدت از غم و اندوه خسته و عصبانی شدم، فکر می‌کنم که دلم خیلی شکسته و آزرده است."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "فکر فکورم بُوَد فِگار، علی‌جان",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 123,
+      "Position": "Right",
+      "Text": "کاش مرا نافریده بود که عمری",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کاش هرگز به دنیا نیامده بودم، چرا که همیشه از خالق خود ناراضی‌ام و از زندگی‌ام شکایت دارم."
+    },
+    {
+      "VOrder": 124,
+      "Position": "Left",
+      "Text": "شاکی‌ام از آفریدگار، علی‌جان",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 125,
+      "Position": "Right",
+      "Text": "گر فتدم فرصتی به دست، برآرم",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فرصتی مناسب به دست بیاورم، از آسمان و جهان پست، زندگی علی‌جان را به هم می‌زنم."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Left",
+      "Text": "از فلک و چرخ دون، دمار؛ علی‌جان",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 127,
+      "Position": "Right",
+      "Text": "گر تو و من مُتَّفِق شویم؛ عدو را",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو و من با هم هم نظر باشیم، باید دشمن را به دار بزنیم."
+    },
+    {
+      "VOrder": 128,
+      "Position": "Left",
+      "Text": "بایَدَش آویختن به دار، علی‌جان",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 129,
+      "Position": "Right",
+      "Text": "از خودیِ خود، خدا گواه؛ برونم",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به قدری مست و بی‌قرار هستم که مانند شتری گم شده و بی‌مهار، فقط خود خدا شاهد حال من است."
+    },
+    {
+      "VOrder": 130,
+      "Position": "Left",
+      "Text": "چون شترِ مست و بی‌مهار، علی‌جان",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 131,
+      "Position": "Right",
+      "Text": "قطع کنم گرچه در مکالمه باشد",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه ممکن است صحبت کردن طولانی شود، اما من ترجیح می‌دهم که صحبت را قطع کنم تا اینکه بخواهم به صورت مختصر و کوتاه بیان کنم."
+    },
+    {
+      "VOrder": 132,
+      "Position": "Left",
+      "Text": "طول سخن بِهْ ز اختصار، علی‌جان",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 133,
+      "Position": "Right",
+      "Text": "جرگ رفیقان یکان یکان برسانی",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر هر یک از دوستان را به طور جداگانه معرفی کنی، من از صمیم قلب ارادت و احترام خود را به علی‌جان ابراز می‌کنم."
+    },
+    {
+      "VOrder": 134,
+      "Position": "Left",
+      "Text": "عرض ارادت ز جان‌نثار، علی‌جان",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 135,
+      "Position": "Right",
+      "Text": "زود رسان، زودتر جواب بده؛ نیست",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علی‌جان، زود جواب بده؛ طاقت انتظار کشیدن را ندارم."
+    },
+    {
+      "VOrder": 136,
+      "Position": "Left",
+      "Text": "طاقت اوقات انتظار، علی‌جان",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 137,
+      "Position": "Right",
+      "Text": "نامه به مازندران نوشتی؛ بنْویس",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به مازندران نامه نوشتی، اما حتماً پیام من را درباره حسن برادر علی‌جان هم بگذران."
+    },
+    {
+      "VOrder": 138,
+      "Position": "Left",
+      "Text": "عرضه ز من بر حسن برار، علی‌جان",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 139,
+      "Position": "Right",
+      "Text": "هم به آشان هم اوشان حسین‌قلی را",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هم آشان هم اوشان که به حسین‌قلی معروفند، هر دو را در غربت به علی جان بسپاری."
+    },
+    {
+      "VOrder": 140,
+      "Position": "Left",
+      "Text": "هر دو به غربت به هم سپار، علی‌جان",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 141,
+      "Position": "Right",
+      "Text": "عارف ممنون ز حشمت‌المَلِک، این مرد",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عارف از بزرگی و عظمت حشمت‌الملک سپاسگزار است، زیرا او حقیقت شخصیت والای علی‌جان را نمادین به نمایش گذاشته است."
+    },
+    {
+      "VOrder": 142,
+      "Position": "Left",
+      "Text": "هست حقیقت بزرگوار، علی‌جان",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0
+    }
+  ]
+}

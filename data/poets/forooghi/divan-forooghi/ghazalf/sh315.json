@@ -1,0 +1,225 @@
+{
+  "Id": 23310,
+  "CatId": 341,
+  "Title": "غزل شمارهٔ ۳۱۵",
+  "FullTitle": "فروغی بسطامی » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۱۵",
+  "FullUrl": "/forooghi/divan-forooghi/ghazalf/sh315",
+  "RhymeLetters": "یدهام",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به عمق احساسات عاشقانه خود و غم‌های ناشی از عشق می‌پردازد. او به آرامش و حالتی روحانی که در سایه محبوبش پیدا کرده، اشاره می‌کند و ابراز می‌کند که از لذت‌های عشق و دردهایی که کشیده، چیزهای زیادی آموخته است. در عین حال، به احساسات و خواسته‌های خود برای دل کندن از دنیای مادی و رسیدن به عشق حقیقی اعتراف می‌کند. او به صراحت می‌گوید که از محبتی عمیق رنج کشیده و ظرافت‌های عشق را تجربه کرده است. این شعر در عین زیبایی، اندوه و شگفتی‌های عشق را نیز به نمایش می‌گذارد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدهام",
+      "PlainText": "تا با تو آرمیده ام از خود رمیده ام\r\nمنت خدای را که چه خوش آرمیده ام\r\nروی تظلم من و خاک سرای تو\r\nدست تطاول تو و جیب دریده ام\r\nدر اشک من به چشم حقارت نظر مکن\r\nکاین لعل را به خون جگر پروریده ام\r\nزان پا نهاده ام به سر آهوی حرم\r\nکز تیر چشم مست تو در خون تپیده ام\r\nگو عالمی به مهر تو از من برند دل\r\nزیرا که من دل از همه عالم بریده ام\r\nهر موی من شکسته شد از بار خستگی\r\nاز بس به سنگلاخ محبت دویده ام\r\nآب بقاست زهر فنا در مذاق من\r\nتا شربت فراق بتان را چشیده ام\r\nکیفیت شراب لبت را ز من مپرس\r\nکاین نشه را شنیده ام اما ندیده ام\r\nگر بر ندارم از سر زلف تو دست شوق\r\nعیبم مکن که تازه به دولت رسیده ام\r\nآهی کشم به یاد بناگوش او ز دل\r\nهر نیمه شب که طالب صبح دمیده ام\r\nافتادم از زبان که به دادم رسید دوست\r\nرنجی کشیده ام که به گنجی رسیده ام\r\nطفلی به تیر غمزه دلم را به خون کشید\r\nکز تیر وی کمان فلک را کشیده ام\r\nتا گوش من شنیده فروغی نوای عشق\r\nباور مکن که پند کسی را شنیده ام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا با تو آرمیده‌ام از خود رمیده‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنت خدای را که چه خوش آرمیده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی تظلم من و خاک سرای تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست تطاول تو و جیب دریده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر اشک من به چشم حقارت نظر مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین لعل را به خون جگر پروریده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان پا نهاده‌ام به سر آهوی حرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز تیر چشم مست تو در خون تپیده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگو عالمی به مهر تو از من برند دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیرا که من دل از همه عالم بریده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر موی من شکسته شد از بار خستگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بس به سنگلاخ محبت دویده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب بقاست زهر فنا در مذاق من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا شربت فراق بتان را چشیده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکیفیت شراب لبت را ز من مپرس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین نشه را شنیده‌ام اما ندیده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بر ندارم از سر زلف تو دست شوق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعیبم مکن که تازه به دولت رسیده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآهی کشم به یاد بناگوش او ز دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر نیمه شب که طالب صبح دمیده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافتادم از زبان که به دادم رسید دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرنجی کشیده‌ام که به گنجی رسیده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطفلی به تیر غمزه دلم را به خون کشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز تیر وی کمان فلک را کشیده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا گوش من شنیده فروغی نوای عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباور مکن که پند کسی را شنیده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 13
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا با تو آرمیده‌ام از خود رمیده‌ام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که در کنار تو هستم، احساس می‌کنم از خودم دور شده‌ام. خدایا شکر که در این آرامش و نزدیکی به تو، چقدر خوب و خوشبخت هستم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منت خدای را که چه خوش آرمیده‌ام",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "روی تظلم من و خاک سرای تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در حال ناله و شکایت هستم و در مقابل خانه‌ات فرود آمده‌ام، در حالی که دست طمع تو به سوی من دراز است و خود را بی‌گناه به نمایش می‌گذاری."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دست تطاول تو و جیب دریده‌ام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در اشک من به چشم حقارت نظر مکن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من به چشم تحقیر نگاه نکن، چون من این گوهر را با سختی‌ها و زحمت‌های فراوان به دست آورده‌ام."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کاین لعل را به خون جگر پروریده‌ام",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "زان پا نهاده‌ام به سر آهوی حرم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر نگاه ناز و فریبنده تو، خود را به مرز خطر انداخته‌ام و دلم به شدت دچار درد و ناراحتی شده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کز تیر چشم مست تو در خون تپیده‌ام",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گو عالمی به مهر تو از من برند دل",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گویی همه انسان‌ها به خاطر محبت تو از من دل می‌برند، چرا که من دل خود را از همه چیز و همه کس جدا کرده‌ام."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زیرا که من دل از همه عالم بریده‌ام",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "هر موی من شکسته شد از بار خستگی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر موی من بر اثر خستگی و سختی‌های عشق آسیب دیده است، زیرا به اندازه‌ی زیادی در مسیر دشوار محبت تلاش کرده‌ام."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از بس به سنگلاخ محبت دویده‌ام",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "آب بقاست زهر فنا در مذاق من",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن بقا طعم تلخی از زوال را در من به جا گذاشته است، زیرا من تجربه‌ی جدایی از معشوقان را چشیده‌ام."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "تا شربت فراق بتان را چشیده‌ام",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "کیفیت شراب لبت را ز من مپرس",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کیفیت شراب لب‌های تو را از من نپرس، چون این حالت را تنها در حرف شنیده‌ام و هرگز خودم ندیده‌ام."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "کاین نشه را شنیده‌ام اما ندیده‌ام",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گر بر ندارم از سر زلف تو دست شوق",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نتوانم از زلف تو دست بردارم، لطفاً مرا سرزنش نکن، زیرا تازه به این خوشبختی و شوق رسیده‌ام."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "عیبم مکن که تازه به دولت رسیده‌ام",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "آهی کشم به یاد بناگوش او ز دل",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر نیمه شب که به صبح نزدیک می‌شوم، به یاد گوش‌های زیبای او آهی از دل می‌کشم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "هر نیمه شب که طالب صبح دمیده‌ام",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "افتادم از زبان که به دادم رسید دوست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از صحبت و گفتار افتادم و تنها دوستم به کمکم آمد. رنج‌هایی کشیده‌ام که به موفقیتی بزرگ و گرانبها دست یافتم."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "رنجی کشیده‌ام که به گنجی رسیده‌ام",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "طفلی به تیر غمزه دلم را به خون کشید",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کودکی با نیش خود دل مرا مجروح کرد و از آن زمان من از شدت غم از آرزوهایم به آسمان شکایت کرده‌ام."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "کز تیر وی کمان فلک را کشیده‌ام",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "تا گوش من شنیده فروغی نوای عشق",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که من صدای عشق را شنیده‌ام، به هیچ پند و نصیحتی ایمان نیاور که از کسی دریافت کرده‌ام."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "باور مکن که پند کسی را شنیده‌ام",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    }
+  ]
+}

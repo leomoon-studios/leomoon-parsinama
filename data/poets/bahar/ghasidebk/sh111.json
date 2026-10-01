@@ -1,0 +1,1470 @@
+{
+  "Id": 51123,
+  "CatId": 1831,
+  "Title": "شمارهٔ ۱۱۱ - عدل مظفر",
+  "FullTitle": "ملک‌الشعرا بهار » قصاید » شمارهٔ ۱۱۱ - عدل مظفر",
+  "FullUrl": "/bahar/ghasidebk/sh111",
+  "RhymeLetters": "ر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این متن به تمجید و ستایش از پادشاهی شاه مظفر و عدالت او در کشور ایران پرداخته است. نویسنده با توصیفهای زیبا از رفاه و رونق کشور در زمان حکومت او، به نقش عدالت در بهبود وضعیت اجتماعی و اقتصادی اشاره می‌کند. در این متن بر همبستگی دولت و ملت تأکید شده و ارتباط تنگاتنگ آنها با یکدیگر به عنوان دو نیروی قدرتمند در مدیریت کشور ذکر شده است.\n\nنویسنده همچنین به مثال‌های تاریخی از پادشاهان قبلی ایران اشاره می‌کند و تأکید می‌کند که کشور همواره جایی برای عدالت و داد بوده است. در نهایت با دعوت از شاه مظفر برای حفظ عدالت و دستیابی به آبادانی بیشتر برای مردم، امید به آینده‌ای روشن و آباد ابراز می‌کند.",
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "کشور ایران ز عدل شاه مظفر\r\nرونقی از نوگرفت و زینتی از سر\r\nعدل ملک ملک را فزود و بیاراست\r\nروزافزون باد عدل شاه مظفر\r\nپادشاه دادگر مظفر دین شاه\r\nخسرو روشن دل عدالت گستر\r\nکرد به نام ایزد این ملک سره کاری\r\nتا سره گردید کار کشور و لشکر\r\nانجمن عدل را به ملک بیاراست\r\nدست ستم را ببست وپای ستمگر\r\nمجلسی آراست کاندرو ز همه ملک\r\nانجمن آیند بخردان هنرور\r\nخواست به هم اتحاد دولت و ملت\r\nتا بنمایند خیر ملک وی از شر\r\nکشور آباد شد به نیروی ملت\r\nملت منصور شد به یاری کشور\r\nیاری داور به عدل شاه قرین شد\r\nدولت و ملت از آن شدند توانگر\r\nگویی ناید همی ز دست تهی کار\r\nآری در این سخن به خردی منگر\r\nمردی کز نیروی دو دست برومند\r\nبازگشاید هزار سد سکندر\r\nزان دو یکی را اگر ببندی بر پشت\r\nمرد به یک دست عاجز آید و مضطر\r\nدولت و ملت دودست و بازوی  شاهند\r\nشاه مر این هر دو را گرامی پیکر\r\nیک به دگر کارها همی بگشایند\r\nگر نشکیبد یکی ز یاری دیگر\r\nدولت و ملت چو هر دو دست به هم داد\r\nپای به دامن کشد عدوی سبکسر\r\nدولت و دین هر دو توأمند ولیکن\r\nاین دو پسر راست عدل و قانون مادر\r\nمادر باید که پرورد پسر خویش\r\nقانون باید که ملک یابد زیور\r\nملک تبه گردد از تطاول سلطان\r\nدهکده ویران شود ز جور کدیور\r\nملکی کاو راست عدل و قانون در دست\r\nسر بفرازد همی به برج دوپیکر\r\nراست چنان چون بزرگ کشور ایران\r\nکاین همه دارد ز فر شاه فلک فر\r\nنیست  شگفتی گر این چنین بود این ملک\r\nدست به دندان مخای و بیهده مگذر\r\nبنگرکاین ملک باستانی از آغاز\r\nجایگه عدل و داد بود و نه زیدر\r\nملک کیومرث بود و کشور جمشید\r\nجای منوچهر بود و بنگه نوذر\r\nاین بود آن کشوری که داد به کاوس\r\nطوق و نگین و سریر و یاره و افسر\r\nطوس سپهبد درو فراشته رایت\r\nرستم دستان در او گماشته لشکر\r\nنامه هریک بخوان و کرده هریک\r\nوین سخنان مرا به بازی مشمر\r\nزاد پیمبر به گاه دولت کسری\r\nفخر همی کرد ازین قضیه پیمبر\r\nگفت بزادم به عهد خسرو عادل\r\nبنگر کاین گفته خود چه دارد در بر\r\nمدحت نوشیروان نگفته بدین قول\r\nبلکه نبی عدل راست مدحت گستر\r\nتا که شوند این ملوک دولت اسلام\r\nزبن سخن او به عدل  قاصد و رهبر\r\nشکر خداوند را که خسرو ایران\r\nنیک نیوشید این کلام مشهر\r\nمنظری از عدل بس بلند برافراشت\r\nظلم درافتاد از آن فراشته منظر\r\nعدل انوشیروان اگر نشنودی\r\nروروبکره ببین به نامه ودفتر\r\nوانگه بنگر به عدل این ملک راد\r\nعدل انوشیروان به یاد میاور\r\nاحسنت ای پادشاه مملکت آرای\r\nاحسنت ای خسرو رعیت پرور\r\nتو غم مردم همی خوری به شب و روز\r\nغمخور توکیست  پادشاه گروگر\r\nملک تو شاها یکی عروس نکوروست\r\nکاو را جز عدل و داد نبود شوهر\r\nیکچند این خوبرو عروس نوآیین\r\nداشت به سربریکی پلاسین معجر\r\nعدل تو با دیبه و پرند ملون\r\nآمد و برداشت این پلاس مقیر\r\nلیک دریغا که روزگار بنگذاشت\r\nکزتو رسد ملک را طرازی دیگر\r\nبر سر و بر افسر تو خاک فرو بیخت\r\nاین فلک باژگون که خاکش بر سر\r\nمویه کند بر تو خسروانی دیهیم\r\nناله کند بر تو شهریاری افسر\r\nاخترت از آسمان ملک برون شد\r\nاز ستم آسمان و کینه اختر\r\nبودی یک چندگاه غمخور این خلق\r\nرفتی و زینان یکی نبردی غمخور\r\nبر تو مقدر بد این قضا ز خداوند\r\nکس نچخیده است با قضای مقدر\r\nملک بماندی و زی بهشت براندی\r\nملک چرا ماندی ای بهشتی منظر\r\nکاخی از عدل برنهادی و آنگاه\r\nتفت براندی ازین کهن شده معبر\r\nقومی بینم به سوکواری ات ای شاه\r\nجامه ز غم کرده چاک و دیده ز خون تر\r\nرفتی و پور تو شد برین گره خلق\r\nبارخدای و امیر و سید و سرور\r\nماه اگر شد نهان عیان شد خورشید\r\nدریا گر شد فرو برآمد گوهر\r\nشاها اینک تویی نشسته بر اورنگ\r\nبر اثر آن خدایگان مظفر\r\nداد همی ده که دادگر ملکان را\r\nایزد پاداش داد خواهد بی مر\r\nیاور شو خلق را به داد به دنیا\r\nکرت به عقبی خدای باید یاور\r\nمحضرکنکاش محضری ست همایون\r\nفر و بهی جوی ازین همایون محضر\r\nملک پدر را ز عدل و دادکن آباد\r\nای به تو ملک پدر پسنده و درخور\r\nشاها دانی که ملک ایران زین پیش\r\nبود چوآراسته یکی شجرتر\r\nبود به گردش ز عدل کنده یکی جوی\r\nآبی دروی روان به طعم چو شکر\r\nزان پس چیدند ازو بسی بر امید\r\nبردهد آری چو شد درخت تناور\r\nشاخه کشید این درخت تا گه کسری\r\nوانگاه از چرخ خواست کردن سر بر\r\nزان پس گه گاهی این درخت برومند\r\nخسته همی شد زتیشه فتن وشر\r\nتاکه درین زشت روزگا ر ستردند\r\nجور و ستبداد شاخ و برگش یکسر\r\nچندان کز آنکشن درخت به جا ماند\r\nشاخی فرسوده وشکسته و لاغر\r\nوآنگه آسیب تندباد حوادث\r\nخواست فکندنش ناگهان ز بن اندر\r\nکامد فرخنده باغبانی پیروز\r\nناگه و آورد آب رفته به فرغر\r\nآبی انگیخته ز چشمه حیوان\r\nآبی آمیخته به شربت کوثر\r\nآبی بر باد داده خرمن بیداد\r\nآبی آتش زده به کشت ستمگر\r\nآبی عدلش به نام خوانده خردمند\r\nآبی آزادیش ستوده هشیور\r\nآبی از رهگذار دانش وبینش\r\nبرد سوی آن درخت دهقان پرور\r\nآب روان کرد و خود برفت و از این نخل\r\nشاخی و برگی دمید ناقص و ابتر\r\nآب ازو برمگیر گرش بباید\r\nشاخ برومند و برگ خرم و اخضر\r\nآب همی ده به کشور ازکرم و داد\r\nوآتش برزن به دشمن از دم خنجر\r\nجانب خاور هم ازکرم نظری کن\r\nای ز تو فر و بهای خسرو خاور\r\nنشگفت ار به شوند از نظرتو\r\nکز نظر آفتاب سنگ شود زر\r\nسوی خبوشان یکی ببین که نیوشی\r\nناله چندین هزار مادر و دختر\r\nبنگر تا مستمند وگریان بینی\r\nشوهر و زن را به فرقت زن و شوهر\r\nگفت حکیم این گره نهال خدایند\r\nواستم استمگران چو بادی صرصر\r\nتا به هم اندر نیوفتند و نخوشند\r\nیک نظر ای باغبان بر ایشان بگمر\r\nبگمر چندی نظر بر ایشان و آنگاه\r\nمیوه شیرین چن وشکوفه احمر\r\nملک درختیست نغز و ربشه او عدل\r\nربشه قوی دارکز درخت چنی بر\r\nشاه کجا سوی عدل و دادگراید\r\nبازگراید بدو عنایت داور\r\nگوید الملک لایدوم مع الظلم\r\nآنکه خدایش بسی ستوده ز هر در\r\nقول پیمبر به کار بند و میازار\r\nخاطرمورضعیف وپشه لاغر\r\nعدل و سخا وتوان و دانش بگزین\r\nتاکه جهانت شود دورویه مسخر\r\nگفتم مدح توبا طریقی مطبوع\r\nمرهمه را نیست این طربقه میسر\r\nگرچه هم اندر غزل توانم گفتن\r\nغمزه مردم فریب وچشم فسونگر\r\nلیک نگونم بویژه اکنون کز شعر\r\nحکمت جویند نی گزاف وکر و فر\r\nنشکفت ار حکمت آید از سخن من\r\nکزسنگ آید همه زلال مقطر\r\n \r\n \r\nاکنون ز امر خدایگان خراسان\r\nراست بود محضری بدین بلد اندر\r\nمحضری آراسته ز عدل که پیشش\r\nسطح سپهر محدب است مقعر\r\nچون فلک است این خجسته مجلس عالی\r\nدانشمندان در او فروزان اختر\r\nدیر نمانده است کز خراسان شاها\r\nسوی ری آیند بخردان هشیور\r\nوزپی اصلاح ملک وفره خسرو\r\nدانشمندان کنند آنجا محضر\r\nای ملک راد شادمانه همی زی\r\nوی عدوی شاه رنج و درد همی بر\r\nتاکه بود عدل برگزبده تر از ظلم\r\nتاکه بود نفع خوشگواراتر از ضر\r\nملک تو آباد باد و جان تو خرسند\r\nجسم تو بی رنج باد و عیش تو بی مر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشور ایران ز عدل شاه مظفر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرونقی از نوگرفت و زینتی از سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعدل ملک ملک را فزود و بیاراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزافزون باد عدل شاه مظفر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپادشاه دادگر مظفر دین شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخسرو روشن‌دل عدالت‌گستر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرد به‌نام ایزد این ملک سره کاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا سره گردید کار کشور و لشکر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانجمن عدل را به ملک بیاراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست ستم را ببست وپای ستمگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجلسی آراست کاندرو ز همه ملک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eانجمن آیند بخردان هنرور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواست به هم اتحاد دولت و ملت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بنمایند خیر ملک وی از شر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشور آباد شد به نیروی ملت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eملت منصور شد به یاری کشور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاری داور به عدل شاه قرین شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدولت و ملت از آن شدند توانگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوئی ناید همی ز دست تهی کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآری در این سخن به خردی منگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردی کز نیروی دو دست برومند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبازگشاید هزار سد سکندر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان دو یکی را اگر ببندی بر پشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرد به یک دست عاجز آید و مضطر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولت و ملت دودست و بازوی‌ شاهند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاه مر این هر دو را گرامی پیکر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک به دگر کارها همی بگشایند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر نشکیبد یکی ز یاری دیگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولت و ملت چو هر دو دست به‌هم داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپای به دامن کشد عدوی سبکسر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولت و دین هر دو توأمند ولیکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین دو پسر راست عدل و قانون مادر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمادر باید که پرورد پسر خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقانون باید که ملک یابد زیور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک تبه گردد از تطاول سلطان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدهکده ویران شود ز جور کدیور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملکی کاو راست عدل و قانون در دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر بفرازد همی به برج دوپیکر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراست چنان چون بزرگ کشور ایران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین همه دارد ز فر شاه فلک‌فر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست‌ شگفتی گر این‌چنین بود این ملک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست به دندان مخای و بیهده مگذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنگرکاین ملک باستانی از آغاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجایگه عدل و داد بود و نه زیدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک کیومرث بود و کشور جمشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجای منوچهر بود و بنگه نوذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین بود آن کشوری که داد به کاوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطوق و نگین و سریر و یاره و افسر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطوس سپهبد درو فراشته رایت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرستم دستان در او گماشته لشکر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنامهٔ هریک بخوان و کردهٔ هریک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سخنان مرا به بازی مشمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزاد پیمبر به گاه دولت کسری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفخر همی کرد ازین قضیه پیمبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت بزادم به عهد خسرو عادل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنگر کاین گفته خود چه دارد در بر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدحت نوشیروان نگفته بدین قول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلکه نبی عدل راست مدحت گستر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا که شوند این ملوک دولت اسلام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزبن سخن او به عدل‌، قاصد و رهبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکر خداوند را که خسرو ایران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیک نیوشید این کلام مشهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنظری از عدل بس بلند برافراشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eظلم درافتاد از آن فراشته منظر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعدل انوشیروان اگر نشنودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروروبکره ببین به نامه ودفتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوانگه بنگر به عدل این ملک راد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعدل انوشیروان به یاد میاور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاحسنت ای پادشاه مملکت‌آرای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاحسنت ای خسرو رعیت‌پرور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو غم مردم همی خوری به شب و روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغمخور توکیست‌؟ پادشاه گروگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک تو شاها یکی عروس نکوروست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاو را جز عدل و داد نبود شوهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکچند این خوبرو عروس نوآئین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداشت به سربریکی پلاسین معجر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعدل تو با دیبه و پرند ملون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآمد و برداشت این پلاس مقیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک دریغا که روزگار بنگذاشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکزتو رسد ملک را طرازی دیگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر سر و بر افسر تو خاک فرو بیخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین فلک باژگون که خاکش بر سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمویه کند بر تو خسروانی دیهیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناله کند بر تو شهریاری افسر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاخترت از آسمان ملک برون شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ستم آسمان و کینهٔ اختر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبودی یک‌چندگاه غمخور این خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفتی و زینان یکی نبردی غمخور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر تو مقدر بد این قضا ز خداوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نچخیده است با قضای مقدر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک بماندی و زی بهشت براندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eملک چرا ماندی ای بهشتی منظر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاخی از عدل برنهادی و آنگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتفت براندی ازین کهن شده معبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقومی بینم به سوکواری‌ات ای شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجامه ز غم کرده چاک و دیده ز خون تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفتی و پور تو شد برین گره خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبارخدای و امیر و سید و سرور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماه اگر شد نهان عیان شد خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریا گر شد فرو برآمد گوهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها اینک توئی نشسته بر اورنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر اثر آن خدایگان مظفر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداد همی ده که دادگر ملکان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایزد پاداش داد خواهد بی مر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاور شو خلق را به داد، به دنیا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرت به عقبی خدای باید یاور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحضرکنکاش محضری‌ست همایون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفر و بهی جوی ازین همایون محضر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک پدر را ز عدل و دادکن آباد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای به تو ملک پدر پسنده و درخور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها دانی که ملک ایران زین پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود چوآراسته یکی شجرتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود به گردش ز عدل کنده یکی جوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآبی دروی روان به طعم چو شکر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان پس چیدند ازو بسی بر امید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبردهد آری چو شد درخت تناور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاخه کشید این درخت تا گه کسری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانگاه از چرخ خواست کردن سر بر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان پس گه گاهی این درخت برومند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخسته همی شد زتیشهٔ فتن وشر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn61\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاکه درین زشت روزگا‌ر ستردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجور و ستبداد، شاخ و برگش یکسر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn62\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندان کز آنکشن درخت به‌جا ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاخی فرسوده وشکسته و لاغر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn63\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآنگه آسیب تندباد حوادث\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواست فکندنش ناگهان ز بن اندر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn64\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکامد فرخنده باغبانی پیروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناگه و آورد آب رفته به فرغر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn65\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآبی انگیخته ز چشمه حیوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآبی آمیخته به شربت کوثر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn66\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآبی بر باد داده خرمن بیداد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآبی آتش زده به کشت ستمگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn67\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآبی عدلش به‌نام خوانده خردمند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآبی آزادیش ستوده هشیور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn68\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآبی از رهگذار دانش وبینش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرد سوی آن درخت دهقان‌پرور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn69\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب‌روان کرد و خود برفت‌و از این نخل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاخی و برگی دمید ناقص و ابتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn70\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب ازو برمگیر گرش بباید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاخ برومند و برگ خرم و اخضر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn71\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب همی ده به کشور ازکرم و داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآتش برزن به دشمن از دم خنجر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn72\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانب خاور هم ازکرم نظری کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای ز تو فر و بهای خسرو خاور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn73\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشگفت ار به شوند از نظرتو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز نظر آفتاب سنگ شود زر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn74\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوی خبوشان یکی ببین که نیوشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنالهٔ چندین هزار مادر و دختر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn75\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنگر تا مستمند وگریان بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشوهر و زن را به فرقت زن و شوهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn76\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت حکیم این گره نهال خدایند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواستم استمگران چو بادی صرصر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn77\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا به‌هم اندر نیوفتند و نخوشند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک نظر ای باغبان بر ایشان بگمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn78\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگمر چندی نظر بر ایشان و آنگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیوهٔ شیرین چن وشکوفهٔ احمر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn79\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک درختیست نغز و ربشه او عدل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eربشه قوی دارکز درخت چنی بر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn80\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه کجا سوی عدل و دادگراید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبازگراید بدو عنایت داور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn81\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوید الملک لایدوم مع الظلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه خدایش بسی ستوده ز هر در\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn82\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقول پیمبر به کار بند و میازار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاطرمورضعیف وپشهٔ لاغر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn83\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعدل و سخا وتوان و دانش بگزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاکه جهانت شود دورویه مسخر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn84\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم مدح توبا طریقی مطبوع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرهمه را نیست این طربقه میسر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn85\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه هم اندر غزل توانم گفتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغمزهٔ مردم فریب وچشم فسونگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn86\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک نگونم بویژه اکنون کز شعر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحکمت جویند نی گزاف وکر و فر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn87\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشکفت ار حکمت آید از سخن من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکزسنگ آید همه زلال مقطر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn88\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E*‌\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E*‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn89\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاکنون ز امر خدایگان خراسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراست بود محضری بدین بلد اندر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn90\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحضری آراسته ز عدل که پیشش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسطح سپهر محدب است مقعر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn91\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون‌فلک‌است‌این‌خجسته‌مجلس عالی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانشمندان در او فروزان اختر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn92\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیر نمانده است کز خراسان شاها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی ری آیند بخردان هشیور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn93\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوزپی اصلاح ملک وفره خسرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانشمندان کنند آنجا محضر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn94\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ملک راد شادمانه همی زی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی عدوی شاه رنج و درد همی بر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn95\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاکه بود عدل برگزبده‌تر از ظلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتاکه بود نفع خوشگواراتر از ضر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn96\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک تو آباد باد و جان تو خرسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجسم تو بی‌رنج باد و عیش تو بی‌مر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 96
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کشور ایران ز عدل شاه مظفر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کشور ایران به لطف عدالت شاه مظفر، دوباره رونق و زیبایی پیدا کرد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "رونقی از نوگرفت و زینتی از سر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عدل ملک ملک را فزود و بیاراست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عدل، یعنی انصاف و برابری، باعث رونق و شکوفایی سلطنت شده و روز به روز بر عدالت شاه موفق افزوده می‌شود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "روزافزون باد عدل شاه مظفر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پادشاه دادگر مظفر دین شاه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مظفر دین شاه خسرو، پادشاهی است که به انصاف و عدالت معروف است و به روشنی و روشن‌دلی در حکمرانی خود توجه دارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خسرو روشن‌دل عدالت‌گستر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کرد به‌نام ایزد این ملک سره کاری",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به فرمان و به نام خداوند، کارهای لازم برای این سرزمین انجام شد، تا به این ترتیب، امور کشور و ارتش سامان گرفت و به نظم درآمد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا سره گردید کار کشور و لشکر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "انجمن عدل را به ملک بیاراست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عدالت و نظم را در این سرزمین برقرار کرد و دست ظلم و ستم را قطع کرد و ستمگران را محدود نمود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دست ستم را ببست وپای ستمگر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "مجلسی آراست کاندرو ز همه ملک",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مجلسی برپا کرده‌اند که در آن همه خردمندان و هنرمندان از سراسر کشور گرد هم خواهند آمد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "انجمن آیند بخردان هنرور",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "خواست به هم اتحاد دولت و ملت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیت این است که دولت و ملت با هم اتحاد داشته باشند تا بتوانند منافع کشور را از خطرات و آسیب‌ها محافظت کنند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "تا بنمایند خیر ملک وی از شر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "کشور آباد شد به نیروی ملت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کشور به خاطر تلاش و همت مردم، توسعه و پیشرفت کرد و مردم نیز با حمایت از کشور به موفقیت دست یافتند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ملت منصور شد به یاری کشور",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "یاری داور به عدل شاه قرین شد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یاران حق و انصاف، به پشتیبانی پادشاه، موجب prosperity و ثروت ملت شدند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "دولت و ملت از آن شدند توانگر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "گوئی ناید همی ز دست تهی کار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که کار از دستت خارج شده و در این موضوع باید با خرد و اندیشه بیشتری برخورد کنی؛ بنابراین نباید بی‌فکر عمل کنی."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "آری در این سخن به خردی منگر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "مردی کز نیروی دو دست برومند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردی که از قدرت و توانایی دو دست قوی خود استفاده می‌کند، می‌تواند هزار مانع و سد بزرگ را از پیش رو بردارد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "بازگشاید هزار سد سکندر",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "زان دو یکی را اگر ببندی بر پشت",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر یکی از آن دو را بر پشت مرد ببندی، او با یک دست ناتوان و در حال نیاز خواهد بود."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "مرد به یک دست عاجز آید و مضطر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "دولت و ملت دودست و بازوی‌ شاهند",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حکومت و مردم مانند دو دست و بازوی شاه هستند و شاه به هر دوی آن‌ها اهمیت می‌دهد و برایشان ارزش قائل است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "شاه مر این هر دو را گرامی پیکر",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "یک به دگر کارها همی بگشایند",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر یکی از دوستان در کارش سختی ببیند، دیگر دوستان به یاری او می‌شتابند و مشکلات را برطرف می‌کنند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "گر نشکیبد یکی ز یاری دیگر",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "دولت و ملت چو هر دو دست به‌هم داد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دولت و ملت دست به دست هم بدهند، دشمنان بی‌خود و بی‌مورد قدرتمندی خود را از دست خواهند داد و به سادگی قابل کنار گذاشتن خواهند شد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "پای به دامن کشد عدوی سبکسر",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "دولت و دین هر دو توأمند ولیکن",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رفاه و مذهب هر دو در کنار هم وجود دارند، اما این دو در واقع نتیجه‌ی مستقیم عدالت و قوانین هستند که از یک منبع مشترک ناشی می‌شوند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "این دو پسر راست عدل و قانون مادر",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "مادر باید که پرورد پسر خویش",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مادر باید پسرش را به درستی و خوبی تربیت کند و قوانینی وجود دارد که باید رعایت شود تا زندگی پسر به زیبایی و ارزش برسد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "قانون باید که ملک یابد زیور",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "ملک تبه گردد از تطاول سلطان",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر حاکم دچار طمع و زیاده‌خواهی شود، سرنوشت کشور به تباهی خواهد انجامید و ظلم و ستم او باعث ویرانی و نابودی روستاها خواهد شد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "دهکده ویران شود ز جور کدیور",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "ملکی کاو راست عدل و قانون در دست",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک پادشاهی که دستش پر از عدل و قانون است، به آسمان بلند می‌شود و بر دوپیکر، یعنی بر دو طرف یا دو جهان، حکومت می‌کند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "سر بفرازد همی به برج دوپیکر",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "راست چنان چون بزرگ کشور ایران",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به وصف عظمت و بزرگی کشور ایران می‌پردازد و بیان می‌کند که ایران به اندازه‌ای بزرگ است که به خوبی نشان‌دهنده عظمت و برجستگی یک سرزمین باستانی و پربار است. به عبارتی، همچنین به شکوه و فراوانی ویژگی‌های مثبت و آثار فرهنگی آن اشاره دارد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "کاین همه دارد ز فر شاه فلک‌فر",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "نیست‌ شگفتی گر این‌چنین بود این ملک",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر این سرزمین به این صورت باشد، جای تعجب نیست. مواظب باش که بیهوده و بدون فکر عبور نکنی و دستت به چیزی نرسد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "دست به دندان مخای و بیهده مگذر",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "بنگرکاین ملک باستانی از آغاز",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این سرزمین قدیمی از ابتدایeschichte خود مکانی برای عدالت و انصاف بوده است و نه برای ظلم و ستم."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "جایگه عدل و داد بود و نه زیدر",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "ملک کیومرث بود و کشور جمشید",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کیومرث نخستین پادشاه بود و سرزمین جمشید محل زندگی منوچهر و پناهگاه نوذر بود."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "جای منوچهر بود و بنگه نوذر",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "این بود آن کشوری که داد به کاوس",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این کشوری بود که به کاوس چیزهای ارزشمندی مانند طوق، نگین، تخت، جامه‌های زیبا و تاج داد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "طوق و نگین و سریر و یاره و افسر",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "طوس سپهبد درو فراشته رایت",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: طوس، فرمانده سپاه، پرچم رستم دستان را به دوش انداخته و همچنین نیروهای خود را در اختیار او قرار داده است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "رستم دستان در او گماشته لشکر",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "نامهٔ هریک بخوان و کردهٔ هریک",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کدام از نامه‌ها و کارهای هر شخص را بخوان و به حرف‌های من بی‌اعتنا نباش."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "وین سخنان مرا به بازی مشمر",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "زاد پیمبر به گاه دولت کسری",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زمان حکومت کسری، زادگان پیامبر (ص) به این موضوع افتخار می‌کردند که پیامبر از آن‌هاست."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "فخر همی کرد ازین قضیه پیمبر",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "گفت بزادم به عهد خسرو عادل",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفت که من از دست این حکمرانی خوب آزاد شده‌ام، به آنچه که او گفته توجه کن و ببین چه معنایی در آن نهفته است."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "بنگر کاین گفته خود چه دارد در بر",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "مدحت نوشیروان نگفته بدین قول",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا شاعر به این نکته اشاره می‌کند که ستایش و بزرگی نوشیروان به خاطر عدالتش مطرح شده و نه به خاطر قول و سخنان زیبا. او به درستی تاکید می‌کند که هر کسی که عدالت را رعایت کند و در راه انصاف قدم بردارد، شایسته ستایش است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "بلکه نبی عدل راست مدحت گستر",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "تا که شوند این ملوک دولت اسلام",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که این پادشاهان و دولت‌مردان اسلامی به سخنان او گوش دهند و با عدالت رفتار کنند، او قاصد و راهنمای آن‌ها خواهد بود."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "زبن سخن او به عدل‌، قاصد و رهبر",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "شکر خداوند را که خسرو ایران",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سپاسگزار خداوند هستیم که پادشاه ایران به درستی این سخن مهم را شنید و دریافت."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "نیک نیوشید این کلام مشهر",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "منظری از عدل بس بلند برافراشت",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک نمایی از عدالت به طور عالی و تابناک به تصویر کشیده شده است، به طوری که ظلم و ستم در برابر آن به زانو درآمده و از از میدان خارج شده است."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "ظلم درافتاد از آن فراشته منظر",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "عدل انوشیروان اگر نشنودی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر داستان عدل و انصاف انوشیروان را نشنیده‌ای، می‌توانی به نوشتارهای تاریخ و اظهارات ثبت شده در دفترها و کتب مراجعه کنی تا نمونه‌هایی از عدالت او را ببینی."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "روروبکره ببین به نامه ودفتر",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "وانگه بنگر به عدل این ملک راد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سپس به انصاف و عدالت این سرزمین کهن نگاه کن، عدالت انوشیروان را به خاطر بیاور."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "عدل انوشیروان به یاد میاور",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "احسنت ای پادشاه مملکت‌آرای",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوب کار کردی ای پادشاهی که کشور را اداره می‌کنی، خوب کار کردی ای شاهی که از مردم خود حمایت می‌کنی."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "احسنت ای خسرو رعیت‌پرور",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "تو غم مردم همی خوری به شب و روز",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در روز و شب به فکر مردم هستی و غم آنها را می‌خوری، اما خودت کیستی که اینقدر نگران دیگران هستی؟ تو پادشاهی و مسؤولیتی بر دوش داری."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "غمخور توکیست‌؟ پادشاه گروگر",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "ملک تو شاها یکی عروس نکوروست",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شاه، ملک تو مانند یک عروس زیباست که شوهرش فقط و تنها با عدل و انصاف زندگی می‌کند."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "کاو را جز عدل و داد نبود شوهر",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "یکچند این خوبرو عروس نوآئین",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدتی این دختر زیبا همچون عروسی نوپا در کنار سرش، دستمالی زری و نازک داشت."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "داشت به سربریکی پلاسین معجر",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "عدل تو با دیبه و پرند ملون",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عدالت تو چون لباس رنگارنگ و زیبایی است که بر تن دارد و از این لباس خشن و زشت دست بر می‌دارد."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "آمد و برداشت این پلاس مقیر",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "لیک دریغا که روزگار بنگذاشت",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: متأسفانه زمان اجازه نداد که از وجود تو، زیبایی و شکوهی دیگر به دنیا بیفزایم."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "کزتو رسد ملک را طرازی دیگر",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "بر سر و بر افسر تو خاک فرو بیخت",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دنیا با تلاطم و دگرگونی‌اش، بر روی تو غبار و خاک پاشیده است، به گونه‌ای که این خاک بر سرت نشسته است."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "این فلک باژگون که خاکش بر سر",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "مویه کند بر تو خسروانی دیهیم",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بزرگان و شاهان برای تو می‌گریند و بر مصیبتت ناله می‌کنند."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "ناله کند بر تو شهریاری افسر",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "اخترت از آسمان ملک برون شد",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از میان آسمان، ستاره‌ای را برگزیدم که از ظلم و حسد آسمان رهایی یافت."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "از ستم آسمان و کینهٔ اختر",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "بودی یک‌چندگاه غمخور این خلق",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدتی از احوال مردم غم‌خوار و حامی آنها بودی، اما اکنون رفته‌ای و هیچ‌کس درد و غم آن‌ها را تحمل نکرده است."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "رفتی و زینان یکی نبردی غمخور",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "بر تو مقدر بد این قضا ز خداوند",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: براساس سرنوشت و قضا و قدر الهی، هیچ‌کس نمی‌تواند از آنچه برایش مقدر شده است، فرار کند."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "کس نچخیده است با قضای مقدر",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "ملک بماندی و زی بهشت براندی",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ملک در بهشت ماند و به زیبایی آن چشم دوخت، اما چرا همچنان در آنجا باقی ماندی ای که بر او منظر بهشتی داری؟"
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "ملک چرا ماندی ای بهشتی منظر",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "کاخی از عدل برنهادی و آنگاه",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو بر مبنای انصاف و عدالت، بنایی عظیم ساخته‌ای، اما اکنون به خاطر گذر زمان و کهنه شدن مسیر، آن را ترک می‌کنی."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "تفت براندی ازین کهن شده معبر",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "قومی بینم به سوکواری‌ات ای شاه",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردمی را می‌بینم که به خاطر تو، ای سلطانا، لباس‌هایشان از غم پاره شده و چشمانشان اشک‌آلود است."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "جامه ز غم کرده چاک و دیده ز خون تر",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "رفتی و پور تو شد برین گره خلق",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو رفتی و حالا بار سنگین خواسته‌های مردم بر دوش خداوند و سران جامعه قرار گرفته است."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "بارخدای و امیر و سید و سرور",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "ماه اگر شد نهان عیان شد خورشید",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ماه در آسمان پنهان شود، خورشید روشنایی خود را نمایان می‌کند. همچنین، وقتی دریا تاریک و خموش می‌شود، گوهرها و زیبایی‌های پنهان آن به نمایش درمی‌آید."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "دریا گر شد فرو برآمد گوهر",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "شاها اینک توئی نشسته بر اورنگ",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، هم‌اکنون تو بر تخت نشسته‌ای و این نتیجه‌ی تلاش‌های آن خدایان پیروز است."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "بر اثر آن خدایگان مظفر",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "داد همی ده که دادگر ملکان را",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به انسان‌ها کمک کن، زیرا خداوند پاداش بزرگی برای کسانی که به دیگران کمک می‌کنند، در نظر دارد و این پاداش جاویدان است."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "ایزد پاداش داد خواهد بی مر",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "یاور شو خلق را به داد، به دنیا",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به یاری مردم بشتاب و در دنیا به نیکی و انصاف عمل کن، زیرا در آخرت تنها خداوند است که می‌تواند به تو کمک کند."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "کرت به عقبی خدای باید یاور",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "محضرکنکاش محضری‌ست همایون",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این متن به توصیف جایی زیبا و با شکوه اشاره دارد که در آن محفل یا جمعی با عظمت برپاست. در این مکان، فضایی سرشار از نیکویی و زیبایی وجود دارد که همه جا را آکنده از لطافت و جذابیت می‌سازد. به عبارت دیگر، این محل به قدری با شکوه است که از آن به عنوان محضر همایون یاد می‌شود."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "فر و بهی جوی ازین همایون محضر",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "ملک پدر را ز عدل و دادکن آباد",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرزمین پدر را با عدالت و راستی آباد کن، زیرا این زمین وراثت توست و شایسته تو است."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "ای به تو ملک پدر پسنده و درخور",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "شاها دانی که ملک ایران زین پیش",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، آیا می‌دانی که کشور ایران در گذشته چگونه بوده است؟ همچون درختی سرسبز و آراسته، پر از سرزندگی و زیبایی."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "بود چوآراسته یکی شجرتر",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "بود به گردش ز عدل کنده یکی جوی",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر عدالت، جاری شدن جوی آبی از زیر پای درویشی که طعم آن مانند شکر شیرین است."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "آبی دروی روان به طعم چو شکر",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "زان پس چیدند ازو بسی بر امید",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، از درخت تناور امیدها را برداشتند و فراوان چیدند."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "بردهد آری چو شد درخت تناور",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "شاخه کشید این درخت تا گه کسری",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این درخت به قدری رشد کرده که به اوج بلندی رسیده و سپس از آسمان خواسته تا برگ‌هایی بر افرازند."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "وانگاه از چرخ خواست کردن سر بر",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "زان پس گه گاهی این درخت برومند",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس از آن، گاهی این درخت بزرگ و تنومند از ضربه‌های مشکلات و فتنه‌ها خسته می‌شد."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "خسته همی شد زتیشهٔ فتن وشر",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "تاکه درین زشت روزگا‌ر ستردند",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که در این دنیای ناپسند، ستم و ظلم برچیده نشود، تمام زیبایی‌ها و شکوفه‌ها محو خواهند شد."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "جور و ستبداد، شاخ و برگش یکسر",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 123,
+      "Position": "Right",
+      "Text": "چندان کز آنکشن درخت به‌جا ماند",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا آنجا که درخت به خصوصیت خود باقی‌مانده، شاخه‌ای خشک و شکسته و لاغر مانده است."
+    },
+    {
+      "VOrder": 124,
+      "Position": "Left",
+      "Text": "شاخی فرسوده وشکسته و لاغر",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 125,
+      "Position": "Right",
+      "Text": "وآنگه آسیب تندباد حوادث",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سپس، ناگهان، طوفان حوادث شدت گرفت و خواست که او را از ریشه برکند."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Left",
+      "Text": "خواست فکندنش ناگهان ز بن اندر",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 127,
+      "Position": "Right",
+      "Text": "کامد فرخنده باغبانی پیروز",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باغبانی خوشبخت و پیروز ناگهان آمد و آب رفته را به باغ آورد."
+    },
+    {
+      "VOrder": 128,
+      "Position": "Left",
+      "Text": "ناگه و آورد آب رفته به فرغر",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 129,
+      "Position": "Right",
+      "Text": "آبی انگیخته ز چشمه حیوان",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آبی که از چشمه حیات جوشیده، به آبی که با شربت کوثر ترکیب شده است."
+    },
+    {
+      "VOrder": 130,
+      "Position": "Left",
+      "Text": "آبی آمیخته به شربت کوثر",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 131,
+      "Position": "Right",
+      "Text": "آبی بر باد داده خرمن بیداد",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب یا نعمت‌هایی که به هدر رفته‌اند، مانند خرمن‌هایی که در نتیجه ستم و ظلم نابود شده‌اند، مانند آتشی هستند که به زراعت ظالم آسیب می‌زند."
+    },
+    {
+      "VOrder": 132,
+      "Position": "Left",
+      "Text": "آبی آتش زده به کشت ستمگر",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 133,
+      "Position": "Right",
+      "Text": "آبی عدلش به‌نام خوانده خردمند",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب، نمایانگر عدل و انصاف است و با نیروی خرد و دانش، به خوبی ارج نهادن به آزادی را به نمایش می‌گذارد."
+    },
+    {
+      "VOrder": 134,
+      "Position": "Left",
+      "Text": "آبی آزادیش ستوده هشیور",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 135,
+      "Position": "Right",
+      "Text": "آبی از رهگذار دانش وبینش",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آبی که به واسطه دانش و آگاهی به دست آمده، به سمت درختی که کشاورز پرورش داده است، روانه می‌شود."
+    },
+    {
+      "VOrder": 136,
+      "Position": "Left",
+      "Text": "برد سوی آن درخت دهقان‌پرور",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 137,
+      "Position": "Right",
+      "Text": "آب‌روان کرد و خود برفت‌و از این نخل",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب‌های روان به حرکت درآمدند و خود نخل، از این جست‌وخیز، تنها شاخ و برگ ناقص و بی‌پایانی به جا گذاشت."
+    },
+    {
+      "VOrder": 138,
+      "Position": "Left",
+      "Text": "شاخی و برگی دمید ناقص و ابتر",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 139,
+      "Position": "Right",
+      "Text": "آب ازو برمگیر گرش بباید",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی از او آب بگیری، باید اجازه دهی که شاخه‌ای بلند و برگ‌هایی سبز و خرم بر رویش رشد کند."
+    },
+    {
+      "VOrder": 140,
+      "Position": "Left",
+      "Text": "شاخ برومند و برگ خرم و اخضر",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 141,
+      "Position": "Right",
+      "Text": "آب همی ده به کشور ازکرم و داد",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب به خاطر لطف و کرم به سرزمین می‌دهد و آتش را به سوی دشمن از لبه خنجر می‌افکند."
+    },
+    {
+      "VOrder": 142,
+      "Position": "Left",
+      "Text": "وآتش برزن به دشمن از دم خنجر",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 143,
+      "Position": "Right",
+      "Text": "جانب خاور هم ازکرم نظری کن",
+      "CoupletIndex": 71,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کاش نگاهی به سمت خاور داشته باشی، زیرا از تو زیبایی و ارزش شاهانه‌ای برای خاور زمین برمی‌خیزد."
+    },
+    {
+      "VOrder": 144,
+      "Position": "Left",
+      "Text": "ای ز تو فر و بهای خسرو خاور",
+      "CoupletIndex": 71,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 145,
+      "Position": "Right",
+      "Text": "نشگفت ار به شوند از نظرتو",
+      "CoupletIndex": 72,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عجب نیست اگر کسی از دیدن تو حیران شود، چرا که نور تو می‌تواند سنگ را به طلا تبدیل کند."
+    },
+    {
+      "VOrder": 146,
+      "Position": "Left",
+      "Text": "کز نظر آفتاب سنگ شود زر",
+      "CoupletIndex": 72,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 147,
+      "Position": "Right",
+      "Text": "سوی خبوشان یکی ببین که نیوشی",
+      "CoupletIndex": 73,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به سوی خوبان نگاه کن و بشنو ناله‌های بی‌پایان بسیاری از مادران و دختران."
+    },
+    {
+      "VOrder": 148,
+      "Position": "Left",
+      "Text": "نالهٔ چندین هزار مادر و دختر",
+      "CoupletIndex": 73,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 149,
+      "Position": "Right",
+      "Text": "بنگر تا مستمند وگریان بینی",
+      "CoupletIndex": 74,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به چه اندازه غم و اندوه را در چهره‌ی کسانی می‌بینی که به خاطر جدایی از همسرشان دچار سختی و غم هستند."
+    },
+    {
+      "VOrder": 150,
+      "Position": "Left",
+      "Text": "شوهر و زن را به فرقت زن و شوهر",
+      "CoupletIndex": 74,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 151,
+      "Position": "Right",
+      "Text": "گفت حکیم این گره نهال خدایند",
+      "CoupletIndex": 75,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حکیم می‌گوید این گره، میوه‌ای از خداوند است و افرادی که سست و بی‌ثبات هستند مانند باد سخت و سردی می‌وزند."
+    },
+    {
+      "VOrder": 152,
+      "Position": "Left",
+      "Text": "واستم استمگران چو بادی صرصر",
+      "CoupletIndex": 75,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 153,
+      "Position": "Right",
+      "Text": "تا به‌هم اندر نیوفتند و نخوشند",
+      "CoupletIndex": 76,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که گل‌ها به یکدیگر برخورد نکنند و آسیب نبینند، یک نگاهی به آن‌ها بینداز ای باغبان."
+    },
+    {
+      "VOrder": 154,
+      "Position": "Left",
+      "Text": "یک نظر ای باغبان بر ایشان بگمر",
+      "CoupletIndex": 76,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 155,
+      "Position": "Right",
+      "Text": "بگمر چندی نظر بر ایشان و آنگاه",
+      "CoupletIndex": 77,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدتی به آن‌ها نگاه کن، سپس شاهد میوهٔ خوشمزه و گل‌های قرمز خواهی بود."
+    },
+    {
+      "VOrder": 156,
+      "Position": "Left",
+      "Text": "میوهٔ شیرین چن وشکوفهٔ احمر",
+      "CoupletIndex": 77,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 157,
+      "Position": "Right",
+      "Text": "ملک درختیست نغز و ربشه او عدل",
+      "CoupletIndex": 78,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درختی زیبا و استوار است که با ریشه‌های محکم و قوی‌اش، نمایانگر عدالت و استحکام می‌باشد. این درخت، نشان‌دهنده‌ی قدرت و استقامت خود است و بر پایه‌های محکم و اصولی‌اش ایستاده است."
+    },
+    {
+      "VOrder": 158,
+      "Position": "Left",
+      "Text": "ربشه قوی دارکز درخت چنی بر",
+      "CoupletIndex": 78,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 159,
+      "Position": "Right",
+      "Text": "شاه کجا سوی عدل و دادگراید",
+      "CoupletIndex": 79,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پادشاه کجا می‌تواند به اصول عدالت و دادگری روی آورد، اگر به لطف و رحمت خداوند بازنگردد؟"
+    },
+    {
+      "VOrder": 160,
+      "Position": "Left",
+      "Text": "بازگراید بدو عنایت داور",
+      "CoupletIndex": 79,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 161,
+      "Position": "Right",
+      "Text": "گوید الملک لایدوم مع الظلم",
+      "CoupletIndex": 80,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پادشاه نمی‌تواند بر ظلم پایدار بماند، زیرا آنکه خداوند او را بسیار ستوده، از هر سو مورد کمک قرار می‌گیرد."
+    },
+    {
+      "VOrder": 162,
+      "Position": "Left",
+      "Text": "آنکه خدایش بسی ستوده ز هر در",
+      "CoupletIndex": 80,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 163,
+      "Position": "Right",
+      "Text": "قول پیمبر به کار بند و میازار",
+      "CoupletIndex": 81,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قول پیامبر را در زندگی خود به کار بگیر و به احساسات ضعیف و انسانی دیگران آسیبی نرسان."
+    },
+    {
+      "VOrder": 164,
+      "Position": "Left",
+      "Text": "خاطرمورضعیف وپشهٔ لاغر",
+      "CoupletIndex": 81,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 165,
+      "Position": "Right",
+      "Text": "عدل و سخا وتوان و دانش بگزین",
+      "CoupletIndex": 82,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عدالت، generosity، قدرت و دانش را انتخاب کن تا دنیای تو به دو سویه مسخر و تحت کنترل تو درآید."
+    },
+    {
+      "VOrder": 166,
+      "Position": "Left",
+      "Text": "تاکه جهانت شود دورویه مسخر",
+      "CoupletIndex": 82,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 167,
+      "Position": "Right",
+      "Text": "گفتم مدح توبا طریقی مطبوع",
+      "CoupletIndex": 83,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم که ستایش تو راهی خوشایند نیست و این روش برای بیان آن مناسب نیست."
+    },
+    {
+      "VOrder": 168,
+      "Position": "Left",
+      "Text": "مرهمه را نیست این طربقه میسر",
+      "CoupletIndex": 83,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 169,
+      "Position": "Right",
+      "Text": "گرچه هم اندر غزل توانم گفتن",
+      "CoupletIndex": 84,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند می‌توانم در شعر به زیبایی و فریبندگی چشم‌های جذاب و فریبکاران بپردازم، اما در حقیقت، این کار تنها به بیان احساسات محدود می‌شود."
+    },
+    {
+      "VOrder": 170,
+      "Position": "Left",
+      "Text": "غمزهٔ مردم فریب وچشم فسونگر",
+      "CoupletIndex": 84,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 171,
+      "Position": "Right",
+      "Text": "لیک نگونم بویژه اکنون کز شعر",
+      "CoupletIndex": 85,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ولی حالا که در این وضعیت هستم، در می‌یابم که برخی افراد به دنبال شعر و حکمت هستند و این جستجو بی‌دلیل و بی‌مورد نیست."
+    },
+    {
+      "VOrder": 172,
+      "Position": "Left",
+      "Text": "حکمت جویند نی گزاف وکر و فر",
+      "CoupletIndex": 85,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 173,
+      "Position": "Right",
+      "Text": "نشکفت ار حکمت آید از سخن من",
+      "CoupletIndex": 86,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر حکمت و دانش از سخن من ناشی نشود، این نشان می‌دهد که همه چیز طبیعی و خالص از سنگی سخت و بی‌روح به وجود آمده است."
+    },
+    {
+      "VOrder": 174,
+      "Position": "Left",
+      "Text": "کزسنگ آید همه زلال مقطر",
+      "CoupletIndex": 86,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 175,
+      "Position": "Right",
+      "Text": "*‌",
+      "CoupletIndex": 87,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به مفهوم جانشینی عشق و زیبایی در زندگی اشاره دارد. در آن، احساسات عمیق و ارزشمندی که عشق به همراه دارد، به تصویر کشیده شده و نشان می‌دهد که این عشق می‌تواند تمام چالش‌ها و سختی‌ها را تحت‌الشعاع قرار دهد. هرگز نمی‌توان از زیبایی و قدرت عشق غافل شد، حتی در زمان‌های دشوار."
+    },
+    {
+      "VOrder": 176,
+      "Position": "Left",
+      "Text": "*‌",
+      "CoupletIndex": 87,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 177,
+      "Position": "Right",
+      "Text": "اکنون ز امر خدایگان خراسان",
+      "CoupletIndex": 88,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اکنون به دستور خداوندان خراسان، اینجا در این سرزمین جلسه‌ای تشکیل شده است."
+    },
+    {
+      "VOrder": 178,
+      "Position": "Left",
+      "Text": "راست بود محضری بدین بلد اندر",
+      "CoupletIndex": 88,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 179,
+      "Position": "Right",
+      "Text": "محضری آراسته ز عدل که پیشش",
+      "CoupletIndex": 89,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جایی از انصاف و عدالت که در آن، آسمان به شکل قوسی و برآمده دیده می‌شود."
+    },
+    {
+      "VOrder": 180,
+      "Position": "Left",
+      "Text": "سطح سپهر محدب است مقعر",
+      "CoupletIndex": 89,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 181,
+      "Position": "Right",
+      "Text": "چون‌فلک‌است‌این‌خجسته‌مجلس عالی",
+      "CoupletIndex": 90,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این مجلس خوشبخت مانند آسمان است و در آن دانشمندان، چون ستاره‌های درخشانی می‌درخشند."
+    },
+    {
+      "VOrder": 182,
+      "Position": "Left",
+      "Text": "دانشمندان در او فروزان اختر",
+      "CoupletIndex": 90,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 183,
+      "Position": "Right",
+      "Text": "دیر نمانده است کز خراسان شاها",
+      "CoupletIndex": 91,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به زودی از خراسان مردان دانا و هوشیار به سمت ری خواهند آمد."
+    },
+    {
+      "VOrder": 184,
+      "Position": "Left",
+      "Text": "سوی ری آیند بخردان هشیور",
+      "CoupletIndex": 91,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 185,
+      "Position": "Right",
+      "Text": "وزپی اصلاح ملک وفره خسرو",
+      "CoupletIndex": 92,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای بهبود کشور و شکوه پادشاه، عالمان و دانشمندان در آنجا حضور دارند و فعالیت می‌کنند."
+    },
+    {
+      "VOrder": 186,
+      "Position": "Left",
+      "Text": "دانشمندان کنند آنجا محضر",
+      "CoupletIndex": 92,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 187,
+      "Position": "Right",
+      "Text": "ای ملک راد شادمانه همی زی",
+      "CoupletIndex": 93,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای فرشته خوشحال، با شادی زندگی کن و از دشمن شاه که موجب رنج و درد است، دوری کن."
+    },
+    {
+      "VOrder": 188,
+      "Position": "Left",
+      "Text": "وی عدوی شاه رنج و درد همی بر",
+      "CoupletIndex": 93,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 189,
+      "Position": "Right",
+      "Text": "تاکه بود عدل برگزبده‌تر از ظلم",
+      "CoupletIndex": 94,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که عدالت وجود دارد، ظلم از آن کمتر است و تا زمانی که سود وجود دارد، ضرر کمتر خوشایند است."
+    },
+    {
+      "VOrder": 190,
+      "Position": "Left",
+      "Text": "تاکه بود نفع خوشگواراتر از ضر",
+      "CoupletIndex": 94,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 191,
+      "Position": "Right",
+      "Text": "ملک تو آباد باد و جان تو خرسند",
+      "CoupletIndex": 95,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خیر و خوشی برای تو آرزو می‌کنم؛ زندگی‌ات خوشبخت و سلامت باشد و از لذت‌های زندگی بهره‌مند شوی بدون هیچ گونه رنج و سختی."
+    },
+    {
+      "VOrder": 192,
+      "Position": "Left",
+      "Text": "جسم تو بی‌رنج باد و عیش تو بی‌مر",
+      "CoupletIndex": 95,
+      "SectionIndex1": 0
+    }
+  ]
+}

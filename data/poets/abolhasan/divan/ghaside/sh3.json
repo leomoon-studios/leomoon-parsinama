@@ -1,0 +1,660 @@
+{
+  "Id": 96072,
+  "CatId": 2474,
+  "Title": "شمارهٔ  ۳",
+  "FullTitle": "ابوالحسن فراهانی » دیوان اشعار » قصاید » شمارهٔ  ۳",
+  "FullUrl": "/abolhasan/divan/ghaside/sh3",
+  "RhymeLetters": "اردست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به توصیف زیبایی‌های بهار و گل‌ها می‌پردازد و از عشق و فراق سخن می‌گوید. او از احساس غم و ناامیدی خود در کنار دیگران که خوشحالند، صحبت می‌کند. شاعر از دست خود که به یار نمی‌رسد، یاد می‌کند و به ضعف و ناتوانی خود در بیان عشقش اعتراف می‌کند. در انتها، او به مدح پروردگار و مقام والای امامان و پیامبران اشاره می‌کند و از جود و کرم الهی سخن می‌گوید. این شعر ترکیبی از فراق، عشق، زیبایی‌های طبیعت و عنایت خداوند را به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اردست",
+      "PlainText": "خوش در نگار بسته دگر نوبهارست\r\nگل رنگ کرده باز به خون هزار دست\r\nآب از نگار رنگ برد وین عجب که گل\r\nاز آب ابر بسته چنین در نگار دست\r\nاز حرص چیدن گل شاید که در چمن\r\nروید به جای سبزه از مرغزار دست\r\nز آبی که ابر بر رخ گل زد سپیده دم\r\nشستست نوبهار ز صبر و قرار دست\r\nیارب چه گل شکفته چمن را که از نسیم\r\nبر دست میزند ز تحیر چنار دست\r\nدر موسم چنین همه کس در کنار یار\r\nجز من که میدهد غمم از هر کنار دست\r\nدستم ز کوتهی به گریبان نمی رسد\r\nمن از جنون برم سوی دامان یار دست\r\nاز دست من چه آید کز ضعف چون چنار\r\nمیلرزد از نسیمم بی اختیار دست\r\nبس نیست از برای گریبان در یدنم\r\nگر چون چنار رویدم از تن هزار دست\r\n بسته باشد بر دست های نگار\r\nگویند عادت ست کشیدن ز کار دست\r\nبس چون فراق دست تعدی دراز کرد\r\nاکنون که کرده است به خونم نگار دست\r\nمن سوگوار هجرم دستم نگر بسر\r\nبر سر که میزند به جز از سوگوار دست\r\nنه نه گرفته دستم دامان شاه دین\r\nبر فرق خود نشانده ام از افتخار دست\r\nشاه سریر دین که در ایام جود او\r\nبر سر نزد کسی به جز از انتظار دست\r\nپا در میان اگر ننهادی عطای او\r\nاز تن به گاه خلقت کردی فرار دست\r\nنبود مجره آن چه تو بینی که آسمان\r\nبر سینه می نهد بر او بنده وار دست\r\nانگشت زینهار برآورد دست خلق\r\nاز بس که کرد جودش در زیر بار دست\r\nچرخ بلند اگر نبود آستان او\r\nبر چرخ از چه دارد امیدوار دست\r\nجودی بود ورا که ز حرص سوال او\r\nخواهد چنین نخست ز صورت نگار دست\r\nای دل ز آستان رضا برمگیر سر\r\nاز دامن امام امم وامدار دست\r\nتا دامن نبی و ولی آوری به کف\r\nداده خدا تو را زیمین و یسار دست\r\nشاها اگر بدیدی حاتم کف تو را\r\nاز آستین نکردی بیرون ز عار دست\r\nروز و شب از زمانه برافتد اگر نهد\r\nمنعت بروی سینه ی لیل و نهار دست\r\nفرزند آن شهی تو که جای نهاد پا\r\nکانجا نهاده بود خداوندگار دست\r\nجود تو در شمار از آن تن نمیدهد\r\nکز اخذ باز ماند وقت شمار دست\r\nشاها به فر مدح تو امروز برده ام\r\nدر فن شعر از شعر ای کبار دست\r\nاز تیر آسمان قصب السبق میبرم\r\nبر زرده ی قلم چو نمایم سوار دست\r\nشیرین بود چنان سخنم کز نوشتنش\r\nباید مکید عمری چون شیرخوار دست\r\nگرچه گداست شاعر شکر خدا نشد\r\nاز آستین هیچ کسم شرمسار دست\r\nدر دامن ثنای تو زدوست فکرتم\r\nکردیم ردیف شعر بدین اعتبار دست\r\nبر دفتر ار خلاف مدیحت رقم کند\r\nدردم ز آستین کنم اندر حصار دست\r\nمداح آستان توام در گذشت آن\r\nمدح آن که بوسه زنندش کبار دست\r\nگلدسته ریاض صدارت که می برد\r\nاز ابر گوهر افشان وقت نثار دست\r\nآن کو زمین سپهر سپهر برین شود\r\nعلمش چو بر فلک نهاد از اقتدار دست\r\nبحر کرم سمی گل گلشن خلیل\r\nگر مهر برده رایش در اشتهار دست\r\nتا نوبت کرم به کف او بیوفتاد\r\nاز دامن هنر نکشید افتقار دست\r\nدارند از برای بقایش جهانیان\r\nبر کرد کار در دل شبهای تار دست\r\nچون مدح او نگویم کز یمن همتش\r\nداده مرا زیارتت ای شهریار دست\r\nگر در جوار حفظش گیرد غبار جای\r\nمن بعد باد را نبود بر غبار دست\r\nدر امر برخلاف طبیعت کند دگر\r\nمخمور را به لرزه نیارد خمار دست\r\nتا هست بر زبان خلایق که کس ندید\r\nبالای دست خالق پروردگار دست\r\nدر دست مرگ دامن خصم تو و تو را\r\nتا دامن قیامت بر روزگار دست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش در نگار بسته دگر نوبهارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل رنگ کرده باز به خون هزار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب از نگار رنگ برد وین عجب که گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آب ابر بسته چنین در نگار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز حرص چیدن گل شاید که در چمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروید به جای سبزه از مرغزار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آبی که ابر بر رخ گل زد سپیده دم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشستست نوبهار ز صبر و قرار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارب چه گل شکفته چمن را که از نسیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دست میزند ز تحیر چنار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر موسم چنین همه کس در کنار یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز من که میدهد غمم از هر کنار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدستم ز کوتهی به گریبان نمی رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن از جنون برم سوی دامان یار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دست من چه آید کز ضعف چون چنار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیلرزد از نسیمم بی اختیار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس نیست از برای گریبان در یدنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر چون چنار رویدم از تن هزار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E... بسته باشد بر دست های نگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویند عادت ست کشیدن ز کار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس چون فراق دست تعدی دراز کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاکنون که کرده است به خونم نگار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن سوگوار هجرم دستم نگر بسر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر که میزند به جز از سوگوار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه نه گرفته دستم دامان شاه دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر فرق خود نشانده ام از افتخار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه سریر دین که در ایام جود او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر نزد کسی به جز از انتظار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپا در میان اگر ننهادی عطای او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تن به گاه خلقت کردی فرار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبود؟ مجّره آن چه تو بینی که آسمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سینه می نهد بر او بنده وار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانگشت زینهار برآورد دست خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بس که کرد جودش در زیر بار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرخ بلند اگر نبود آستان او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر چرخ از چه دارد امیدوار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجودی بود ورا که ز حرص سوال او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهد چنین نخست ز صورت نگار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل ز آستان رضا برمگیر سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دامن امام امم وامدار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا دامن نبی و ولی آوری به کف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداده خدا تو را زیمین و یسار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها اگر بدیدی حاتم کف تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آستین نکردی بیرون ز عار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز و شب از زمانه برافتد اگر نهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنعت بروی سینه ی لیل و نهار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرزند آن شهی تو که جای نهاد پا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکانجا نهاده بود خداوندگار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجود تو در شمار از آن تن نمیدهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز اخذ باز ماند وقت شمار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها به فّر مدح تو امروز برده ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر فن شعر از شعر ای کبار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تیر آسمان قصب السّبق میبرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر زرده ی قلم چو نمایم سوار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشیرین بود چنان سخنم کز نوشتنش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباید مکید عمری چون شیرخوار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه گداست شاعر شکر خدا نشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آستین هیچ کسم شرمسار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دامن ثنای تو زدوست فکرتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکردیم ردیف شعر بدین اعتبار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر دفتر ار خلاف مدیحت رقم کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردم ز آستین کنم اندر حصار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمداح آستان توام در گذشت آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمدح آن که بوسه زنندش کبار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلدسته ریاض صدارت که می برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ابر گوهر افشان وقت نثار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کو زمین سپهر سپهر برین شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعلمش چو بر فلک نهاد از اقتدار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبحر کرم سمی گل گلشن خلیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر مهر برده رایش در اشتهار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نوبت کرم به کف او بیوفتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دامن هنر نکشید افتقار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدارند از برای بقایش جهانیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر کرد کار در دل شبهای تار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مدح او نگویم کز یمن همتش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداده مرا زیارتت ای شهریار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر در جوار حفظش گیرد غبار جای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بعد باد را نبود بر غبار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر امر برخلاف طبیعت کند دگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمخمور را به لرزه نیارد خمار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا هست بر زبان خلایق که کس ندید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبالای دست خالق پروردگار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دست مرگ دامن خصم تو و تو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دامن قیامت بر روزگار دست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 42
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خوش در نگار بسته دگر نوبهارست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در چهره زیبا، بهار جدیدی آغاز شده است، گلی که به رنگ خون، هزاران دست را زینت داده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گل رنگ کرده باز به خون هزار دست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آب از نگار رنگ برد وین عجب که گل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب رنگ چهره معشوق را از بین برد و این حیرت‌انگیز است که گل از آب پرورش یافته، چنین در چهره معشوق جا گرفته است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از آب ابر بسته چنین در نگار دست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از حرص چیدن گل شاید که در چمن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر طمع و حرص چیدن گل، ممکن است در چمن به جای سبزه، چیزی دیگر بروید. از این رو، باید از دشت و مرغزار دوری کرد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "روید به جای سبزه از مرغزار دست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز آبی که ابر بر رخ گل زد سپیده دم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با بارانی که ابر بر روی گل می‌ریزد، صبح زود، نوید بهار آغاز می‌شود و این نشانه‌ای از صبر و آرامش است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شستست نوبهار ز صبر و قرار دست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یارب چه گل شکفته چمن را که از نسیم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای خداوند، چگونه گل‌های شکفته در چمن از نسیم چه حالی به دست می‌زنند؛ چنار نیز در حیرت به این منظره نگاه می‌کند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بر دست میزند ز تحیر چنار دست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "در موسم چنین همه کس در کنار یار",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این فصل که همه افراد در کنار محبوبشان هستند، تنها من هستم که با غم و اندوه خود تنها مانده‌ام و این حالت را از هر طرف تجربه می‌کنم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "جز من که میدهد غمم از هر کنار دست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دستم ز کوتهی به گریبان نمی رسد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دست من به خاطر کوتاهی به گریبانم نمی‌رسد و از سر جنون به سوی آغوش محبوب می‌روم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "من از جنون برم سوی دامان یار دست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "از دست من چه آید کز ضعف چون چنار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از دست خودم چه می‌توانم بکنم، وقتی که مانند درخت چنار از باد و نسیم می‌لرزم و به طور ناخودآگاه تحت تأثیر قرار می‌گیرم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "میلرزد از نسیمم بی اختیار دست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بس نیست از برای گریبان در یدنم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کافی نیست که فقط لباس من را بکشید، اگر مثل درخت چنار باشم، هزار دست از بدنم خواهد روید."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "گر چون چنار رویدم از تن هزار دست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "... بسته باشد بر دست های نگار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که وقتی دستان زیبای معشوقه را ببینی، معمولاً از کار دست خود باز می‌مانی و به این عادت دچار می‌شوی."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "گویند عادت ست کشیدن ز کار دست",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "بس چون فراق دست تعدی دراز کرد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چندین بار که جدایی باعث زخم و آزار شده، حالا که عشق به من آسیب زده، این زخم عمیق‌تر شده است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "اکنون که کرده است به خونم نگار دست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "من سوگوار هجرم دستم نگر بسر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در غم دوری محبوبم بسیار ناراحت و غمگین هستم. دستم را ببین که چطور به سرم می‌زند، زیرا تنها کسی که این کار را می‌کند، کسی است که در سوگ و اندوه به سر می‌برد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "بر سر که میزند به جز از سوگوار دست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "نه نه گرفته دستم دامان شاه دین",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من با افتخار دستانم را به دامن پادشاه دین سپرده‌ام و این افتخار را بر سرم دارم."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "بر فرق خود نشانده ام از افتخار دست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "شاه سریر دین که در ایام جود او",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پادشاهی که در دوران بخشش و نیکوکاری‌اش، هیچ‌کس را از خود ناامید نمی‌کند و همواره منتظر کمک و دستگیری از دیگران است."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "بر سر نزد کسی به جز از انتظار دست",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "پا در میان اگر ننهادی عطای او",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر قدمی در این مسیر برنداری، نعمت او را از دست خواهی داد و در زمان خلقت به دوری و فرار از او خواهی افتاد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "از تن به گاه خلقت کردی فرار دست",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "نبود؟ مجّره آن چه تو بینی که آسمان",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به تصویر کشیدن احساساتی عمیق دربارهٔ عظمت آسمان و زمین اشاره دارد. شاعر به طور نمادین به این نکته می‌پردازد که آسمان بر زمین، که همچون بنده‌ای در برابر اوست، حس خاصی دارد. این احساس به مراتب بزرگ‌تر از آن چیزی است که می‌توان دید و درک کرد. آسمان با زیبایی و شکوه خود، در واقع امری فراتر از آنچه در ظاهر می‌بینیم، تعبیری از وجود و زندگی است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "بر سینه می نهد بر او بنده وار دست",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "انگشت زینهار برآورد دست خلق",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دست خداوند به خاطر generosity و بخشندگی‌اش، از شدت فشار و بار سنگین، بالا رفته و به ما رحم کرده است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "از بس که کرد جودش در زیر بار دست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "چرخ بلند اگر نبود آستان او",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چرخ فلک وجود نمی‌داشت، چه بود که او بر آن تکیه کند و به آن امیدوار باشد؟"
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "بر چرخ از چه دارد امیدوار دست",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "جودی بود ورا که ز حرص سوال او",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به توضیح یکی از جنبه‌های انسانی اشاره شده است. شخصی از روی حرص و کنجکاوی، به دنبال شناخت و درک عمیق‌تری از زیبایی‌ها و موجودات است. این جستجو در واقع نشان‌دهنده اشتیاق و تمایل او برای کشف و فهم بهتر دنیای اطرافش می‌باشد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "خواهد چنین نخست ز صورت نگار دست",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "ای دل ز آستان رضا برمگیر سر",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، از درگاه امام رضا روی نگردان و دامن او را رها نکن. دستت را از حمایت ایشان کوتاه مکن."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "از دامن امام امم وامدار دست",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "تا دامن نبی و ولی آوری به کف",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دامن پیامبر و ولی را به دست آورده‌ای، خداوند تو را از زمین و چپ و راست حمایت کرده است."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "داده خدا تو را زیمین و یسار دست",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "شاها اگر بدیدی حاتم کف تو را",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شاه، اگر حاتم را می‌دیدی، هرگز دستت را از آستین بیرون نمی‌آوردی، چرا که از شرم دست به خیری نمی‌زدی."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "از آستین نکردی بیرون ز عار دست",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "روز و شب از زمانه برافتد اگر نهد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر روز و شب از چنگ زمانه رهایی یابند، تو با دستانت می‌توانی بر سینه شب و روز مانع ایجاد کنی."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "منعت بروی سینه ی لیل و نهار دست",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "فرزند آن شهی تو که جای نهاد پا",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرزند آن فرمانروا تو هستی که خداوند دست خود را در آنجا قرار داده است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "کانجا نهاده بود خداوندگار دست",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "جود تو در شمار از آن تن نمیدهد",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بخشش تو به قدری زیاد است که نمی‌توان آن را با هیچ عددی اندازه‌گیری کرد، زیرا هرگز از دریافت نعمت‌ها باز نمی‌ماندی حتی زمانی که حساب و کتاب آنها را می‌کنی."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "کز اخذ باز ماند وقت شمار دست",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "شاها به فّر مدح تو امروز برده ام",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شاهان، امروز در فن شعر برای تو مدحی آورده‌ام و این کار را با دستانی پر از توانایی انجام داده‌ام."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "در فن شعر از شعر ای کبار دست",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "از تیر آسمان قصب السّبق میبرم",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آسمان هدف را به دست می‌آورم و بر روی کاغذ می‌نویسم مانند سوارکاری که افسار در دست دارد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "بر زرده ی قلم چو نمایم سوار دست",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "شیرین بود چنان سخنم کز نوشتنش",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخنم به قدری شیرین و دلنشین بود که باید آن را به گونه‌ای با احتیاط و علاقه‌مندی نوشید و لذت برد؛ مانند کودکی که از شیر مادرش بهره‌مند می‌شود."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "باید مکید عمری چون شیرخوار دست",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "گرچه گداست شاعر شکر خدا نشد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه شاعر در وضعیتی فقیرانه به سر می‌برد، اما به خاطر شکرگزاری خداوند، هیچ‌کس از کمک به او احساس شرمندگی نمی‌کند."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "از آستین هیچ کسم شرمسار دست",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "در دامن ثنای تو زدوست فکرتم",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آغوش ستایش تو، به فکر تو بودیم و آن‌چنان در نظم شعر غرق شدیم که به این خاطر دست به قلم بردیم."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "کردیم ردیف شعر بدین اعتبار دست",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "بر دفتر ار خلاف مدیحت رقم کند",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در دفتر دشمنی تو نقصی بر نام نیک من بنویسند، من درد و رنج خود را از آستینم به نمایش می‌گذارم و در حصار دستم قرار می‌دهم."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "دردم ز آستین کنم اندر حصار دست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "مداح آستان توام در گذشت آن",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من یک مداح دربار تو هستم و آن مدح و ستایشی که درباره‌اش گفته می‌شود، مربوط به کسی است که بزرگانی او را با بوسه می‌ستایند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "مدح آن که بوسه زنندش کبار دست",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "گلدسته ریاض صدارت که می برد",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گلدسته‌ای که در باغ صدارت قرار دارد و تمامی زیبایی‌ها و ثروت‌های آسمانی را از ابرها به زمین می‌ریزد، زمانی که دست نثار می‌شود."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "از ابر گوهر افشان وقت نثار دست",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "آن کو زمین سپهر سپهر برین شود",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که بر فراز آسمان‌ها برود و علم و دانشش را به اوج برساند، قدرت و توانایی او همچون ستاره‌ای در آسمان نمایان خواهد شد."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "علمش چو بر فلک نهاد از اقتدار دست",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "بحر کرم سمی گل گلشن خلیل",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دنیای بخشندگی، دریایی از نیکویی وجود دارد. اگر محبت و عشق را از او بگیری و به دیگران برسانی، این کار باعث اعتلای نام و یاد تو خواهد شد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "گر مهر برده رایش در اشتهار دست",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "تا نوبت کرم به کف او بیوفتاد",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که نوبت لطف و مهربانی او فرا رسید، بدون اینکه به هنر خود ببالد یا خود را برتر از دیگران بداند، از دامن هنر خود را کنار کشید."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "از دامن هنر نکشید افتقار دست",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "دارند از برای بقایش جهانیان",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهانیان در دل شب‌های تاریک به فکر حفظ و بقای خود هستند و برای این کار تلاش می‌کنند."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "بر کرد کار در دل شبهای تار دست",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "چون مدح او نگویم کز یمن همتش",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که درباره تو تعریف نمی‌کنم، به خاطر بزرگواری‌ات فرصتی برای زیارت تو به من عطا شده است، ای پادشاه."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "داده مرا زیارتت ای شهریار دست",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "گر در جوار حفظش گیرد غبار جای",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در کنار حفاظت او غبار، گودالی از من باشد، بعد از آن دیگر بادی بر غبار نخواهد وزید."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "من بعد باد را نبود بر غبار دست",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "در امر برخلاف طبیعت کند دگر",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی برخلاف طبیعت خود عمل کند، در این صورت نمی‌تواند به سادگی تغییر کند و رفتارهایش تحت تأثیر قرار نمی‌گیرد."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "مخمور را به لرزه نیارد خمار دست",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "تا هست بر زبان خلایق که کس ندید",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که مردم به زبان بیاورند که کسی بالای دست خداوند پروردگار را ندیده است."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "بالای دست خالق پروردگار دست",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "در دست مرگ دامن خصم تو و تو را",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در برابر مرگ، دشمن تو و خود تو تا روز قیامت در معرض آزمون و چالش‌های زندگی قرار دارید."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "تا دامن قیامت بر روزگار دست",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    }
+  ]
+}

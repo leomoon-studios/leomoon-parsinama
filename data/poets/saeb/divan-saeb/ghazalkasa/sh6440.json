@@ -1,0 +1,270 @@
+{
+  "Id": 58638,
+  "CatId": 1852,
+  "Title": "غزل شمارهٔ ۶۴۴۰",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۶۴۴۰",
+  "FullUrl": "/saeb/divan-saeb/ghazalkasa/sh6440",
+  "RhymeLetters": "یدن",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و جذابیت عشق و عشق‌ورزی اشاره دارد. شاعر به مخاطب می‌گوید که مانعی برای دیدن زیبایی‌ها وجود ندارد و حتی اگر کسی چشمان خود را از زیبایی‌ها برگیرد، هیچ چیزی از زوال و زیبایی آن کاسته نخواهد شد. او توضیح می‌دهد که دل انسان به راحتی تحت تأثیر زیبایی‌های عشق رام می‌شود و عشق را نمی‌توان از آن نادیده گرفت. همچنین، شاعر تذکر می‌دهد که در عشق نمی‌توان بی‌میل و بدون شوق حرکت کرد و از آنجایی که عشق و شوق در هم تنیده‌اند، از پیوند آن‌ها نمی‌توان گسست. در پایان، به مسئله قناعت در عشق و عدم خودستایی نیز اشاره می‌شود و تأکید می‌کند که در نهایت، هر کس باید بار خود را به دوش بکشد و از چالش‌های عشق بی‌خبر نماند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدن",
+      "PlainText": "مکن منع تماشایی ز دیدن\r\nکه این گل کم نمی گردد به دیدن\r\nکسی چون چشم بردارد ز رویی\r\nکه مانع شد عرق را از چکیدن\r\nتو چون در جلوه آیی سرو و گل را\r\nفرامش می شود قامت کشیدن\r\nمرا دست از دهان شکوه برداشت\r\nگل از تغییر رنگ یار چیدن\r\nز خط گر پر برآری چون پریزاد\r\nز دام عشق نتوانی پریدن\r\nمرا از خرمن افلاک چون چشم\r\nپر کاهی است حاصل از پریدن\r\nدل وحشی چنان رام تو گردید\r\nکه جست از خاطرش فکر رمیدن\r\nکمند گردن صید مرادست\r\nز مردم رشته الفت بریدن\r\nدرین محفل گر از روشندلانی\r\nچو شمع انگشت خود باید گزیدن\r\nبه منزل بار خود افکنده بودم\r\nاگر می رفت ره پیش از تپیدن\r\nنگردد قطع راه عشق بی شوق\r\nبه پای خفته نتوان ره بریدن\r\nبه از جوش سخای چشمه سارست\r\nجواب تلخ از دریا شنیدن\r\nقناعت کن که چشم حرص را نیست\r\nبه زیر خاک چون دام آرمیدن\r\nمزن زنهار لاف حق شناسی\r\nچو نتوانی به کنه خود رسیدن\r\nپس ازین چندین کشاکش دام خود را\r\nتهی می باید از دریا کشیدن\r\nکم از کشورگشایی نیست صایب\r\nگریبانی به دست خود دریدن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمکن منع تماشایی ز دیدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه این گل کم نمی گردد به دیدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکسی چون چشم بردارد ز رویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مانع شد عرق را از چکیدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو چون در جلوه آیی، سرو و گل را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرامش می شود قامت کشیدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا دست از دهان شکوه برداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل از تغییر رنگ یار چیدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز خط گر پر برآری چون پریزاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز دام عشق نتوانی پریدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا از خرمن افلاک، چون چشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپر کاهی است حاصل از پریدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل وحشی چنان رام تو گردید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه جست از خاطرش فکر رمیدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکمند گردن صید مرادست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز مردم رشته الفت بریدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرین محفل گر از روشندلانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو شمع انگشت خود باید گزیدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه منزل بار خود افکنده بودم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر می رفت ره پیش از تپیدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگردد قطع راه عشق بی شوق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه پای خفته نتوان ره بریدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه از جوش سخای چشمه سارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجواب تلخ از دریا شنیدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقناعت کن که چشم حرص را نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه زیر خاک چون دام آرمیدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزن زنهار لاف حق شناسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو نتوانی به کنه خود رسیدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس ازین چندین کشاکش، دام خود را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتهی می باید از دریا کشیدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکم از کشورگشایی نیست صائب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگریبانی به دست خود دریدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 16
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مکن منع تماشایی ز دیدن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای جلوگیری از دیدن این گل، خود را محروم نکن، زیرا این کار باعث نمی‌شود که زیبایی‌اش کم شود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که این گل کم نمی گردد به دیدن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کسی چون چشم بردارد ز رویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی از چهره‌ای نگاهش را بردارد، مانع از این می‌شود که عرق بر چهره‌اش بچکد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که مانع شد عرق را از چکیدن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تو چون در جلوه آیی، سرو و گل را",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی تو ظاهر می‌شوی، سرو و گل فراموش می‌کنند که چطور قد بکشند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "فرامش می شود قامت کشیدن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مرا دست از دهان شکوه برداشت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از دهان شکایت نمی‌کنم، زیرا تغییر رنگ محبوبم مرا به یاد گل‌ها می‌اندازد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گل از تغییر رنگ یار چیدن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز خط گر پر برآری چون پریزاد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از خط و نوشته‌های خود خارج شوی و همچون پری به آزادی پرواز کنی، هرگز نمی‌توانی از دام عشق رها شوی."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز دام عشق نتوانی پریدن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "مرا از خرمن افلاک، چون چشم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به مانند دانه‌ای هستم که از خرمن آسمان‌ها به زمین افتاده‌ام، در حالی که تنها اندکی از وجودم باقی مانده و به راحتی می‌توانم ناپدید شوم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "پر کاهی است حاصل از پریدن",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دل وحشی چنان رام تو گردید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل سرکش و بی‌قرار من چنان آرامش تو را یافته که دیگر به فکر فرار و دوری از تو نیست."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که جست از خاطرش فکر رمیدن",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "کمند گردن صید مرادست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به زیبایی از قدرت عشق و رابطه صحبت می‌شود. همان‌طور که کمند (حلقه‌ای برای شکار) به دور گردن شکار زده می‌شود، در عشق هم ممکن است افراد با احساسات همدیگر را به هم پیوند دهند. اما وقتی رشته دوستی یا محبت بریده می‌شود، دل‌ها تضعیف می‌شوند و نتیجه‌ای ناخوشایند خواهد داشت. در واقع، عشق می‌تواند هم باعث نزدیکی و هم سبب جدایی شود، و این نکته قوت و ضعف‌های آن را به نمایش می‌گذارد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ز مردم رشته الفت بریدن",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "درین محفل گر از روشندلانی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این جمع، اگر با افرادی که نور را به همراه دارند، مانند شمع باشید، باید به فکر انتخاب درست خود باشید و دقت کنید که به چه کسی نزدیک می‌شوید."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "چو شمع انگشت خود باید گزیدن",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "به منزل بار خود افکنده بودم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بار خود را به منزل گذاشته بودم، او می‌توانست قبل از اینکه قلبم به تپش بیفتد، برود."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "اگر می رفت ره پیش از تپیدن",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "نگردد قطع راه عشق بی شوق",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در عشق شوق و اشتیاق وجود نداشته باشد، نمی‌توان به راحتی از موانع عبور کرد و به هدف رسید. باید شوق و انگیزه‌ای در کار باشد تا بتوان از موانع گذشت."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "به پای خفته نتوان ره بریدن",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "به از جوش سخای چشمه سارست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهتر است از نعمت و بخشندگی چشمه‌ها بهره ببریم تا اینکه جواب ناگواری را از دریا بشنویم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "جواب تلخ از دریا شنیدن",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "قناعت کن که چشم حرص را نیست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نیازی که داری قناعت کن، چرا که حریص بودن و چشم دوختن به دنیا حتی پس از مرگ هم ادامه پیدا نمی‌کند. پس بهتر است به آنچه در دست داری راضی باشی و از آرزوهای بی‌پایان دوری کنی."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "به زیر خاک چون دام آرمیدن",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "مزن زنهار لاف حق شناسی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌توانی به عمق وجود خود پی ببری، پس از فریب دادن خود با سخنان توخالی و ندا دادن به حق‌شناسی پرهیز کن."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "چو نتوانی به کنه خود رسیدن",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "پس ازین چندین کشاکش، دام خود را",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بعد از این همه درگیری و تلاش، باید از این کشمکش‌ها دست برداریم و خود را از فشار و سختی دور کنیم."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "تهی می باید از دریا کشیدن",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "کم از کشورگشایی نیست صائب",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید بتوان گفت که دستیابی به قدرت و پیروزی، به‌اندازه فتح سرزمین‌ها اهمیت دارد. در اینجا، شاعر به این نکته اشاره می‌کند که گاهی باید به دست خود به مبارزه‌طلبی بپردازیم و موانع را از سر راه برداریم."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "گریبانی به دست خود دریدن",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    }
+  ]
+}

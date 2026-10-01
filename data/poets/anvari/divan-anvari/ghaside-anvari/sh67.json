@@ -1,0 +1,630 @@
+{
+  "Id": 15976,
+  "CatId": 245,
+  "Title": "قصیدهٔ شمارهٔ ۶۷ - در مدح مجدالدین ابوالحسن عمرانی",
+  "FullTitle": "انوری » دیوان اشعار » قصاید » قصیدهٔ شمارهٔ ۶۷ - در مدح مجدالدین ابوالحسن عمرانی",
+  "FullUrl": "/anvari/divan-anvari/ghaside-anvari/sh67",
+  "RhymeLetters": "انرسید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن شعری است که به زیبایی و عظمت قدرت و فضیلت‌های یک شخص خاص اشاره دارد. شاعر بیان می‌کند که طبیعت و هستی به خاطر وجود او به ثمر می‌رسد و عشق و محبت او باعث دستیابی به خوشبختی و منفعت می‌شود. \n\nشاعر از نمادهای مختلفی استفاده می‌کند، مانند دریا، آتش بخور، بلبل و گل، تا نشان دهد که چطور این شخص در زندگی دیگران تأثیر مثبت دارد. او به قدرت و عدالت این فرد اشاره کرده و بر اهمیت او در امور دینی و دنیوی تأکید می‌کند.\n\nنهایتاً، این شعر به نوعی ستایش و مدح از شخصیت والایی است که در زندگی انسان‌ها نقش مؤثری دارد و به خوشبختی و آرامش آنان می‌افزاید.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انرسید",
+      "PlainText": "طبعم به عرضه کردن دریا و کان رسید\r\nنطقم به تحفه دادن کون و مکان رسید\r\nهم وهم من به مقصد خرد و بزرگ تاخت\r\nهم گام من به معبد پیر و جوان رسید\r\nاین دود عود شکر که جانست مجمرش\r\nبدرید آسمانه و بر آسمان رسید\r\nانده بمرد و مفسدت او ز دل گذشت\r\nشادی بزاد و منفعت او به جان رسید\r\nرنجور بادیه به فضای ارم گریخت\r\nمقهور هاویه به هوای جنان رسید\r\nبلبل فصیح گشت چو بوی بهار یافت\r\nگل تازگی گرفت چو در بوستان رسید\r\nپرواز کرد باز هوای ثنا و مدح\r\nوز فر او اثر به زمین و زمان رسید\r\nمحبوب شد جهان که ز اقلیم رابعش\r\nاز چهره سخا و سخن کاروان رسید\r\nمحنت رود چو مدت عنف از زمانه رفت\r\nنوبت رسد چو نوبت لطف جهان رسید\r\nعالی سخن به حضرت عالی نسب شتافت\r\nصاحب هنر به درگه صاحب قران رسید\r\nدستور شهریار جهان مجد دین که دین\r\nاز جاه او به منفعت جاودان رسید\r\nمحسود خسروان علی بن عمر که عدل\r\nاز رای او به رؤیت نوشیروان رسید\r\nآن شه نشان که قدرت شمشیر سرفشان\r\nدر عهد او به خامه عنبرفشان رسید\r\nنقش بقا چو جلوه گری یافت از ازل\r\nمنشور بخت او ز ابد آن زمان رسید\r\nای صاحبی که از رقم مهر و کین تو\r\nدر کاینات نسخه سود و زیان رسید\r\nدر کارکرد کلک تو خسرو چو فتح کرد\r\nحالی به سایه علم کاویان رسید\r\nبرخاست چرخ در طلب کبریاء تو\r\nمی بودش این گمان که بدو در توان رسید\r\nاز کبریاء تو خبری هم نمی رسد\r\nآنجا که مرغ وهم و قیاس و گمان رسید\r\nدر منزلی که خصم تو نزل زمانه خورد\r\nاز هفت عضو خصم تو یک استخوان رسید\r\nمصروع کرد بر جگر مرگ قهر تو\r\nهر لقمه ای که خصم ترا در دهان رسید\r\nدولت وصال عمر ابد جست سالها\r\nدیدی که از قبول تو آخر به آن رسید\r\nدر اضطراب دیده تسکین گشاده شد\r\nچون التفات تو به جهان جهان رسید\r\nدر کرده خدای میاور حدیث رد\r\nکام از حرم به چنین خاکدان رسید\r\nای خرد بارگاه بلا را ز کام تو\r\nاینک ز صد هزار بزرگی نشان رسید\r\nسلطانی از نیاز در خواجگی زند\r\nچون نام خواجگی تو سلطان نشان رسید\r\nنقد وجود چرخ عیار از در تو برد\r\nچون در علو به کارگه امتحان رسید\r\nتقدیر رزق اگرچه به حکم خدای بود\r\nتوجیه رزق از تو به انس و به جان رسید\r\nدر عشق مال آز روان شد به سوی تو\r\nهم در نخست گام به دریا و کان رسید\r\nمرغ قضا چو بر در حکم تو بار یافت\r\nچشمش به یک نظر به همین آشیان رسید\r\nصدرا به روزگار خزان دست طبع من\r\nدر باغ مدح تو به گل و ارغوان رسید\r\nگلزار مدح تو به طراوت اثر نمود\r\nاین طرفه تحفه بین که مرا از خزان رسید\r\nشخصم به جد و جهد به فرمان عقل و جان\r\nاز آسمان گذشت و به این آستان رسید\r\nسی سال در طریق تحیر دلم بتاخت\r\nاکنون ز خدمت در تو بر کران رسید\r\nآخر فلک ز مقدم من در دیار تو\r\nآوازه درفکند که جاری زبان رسید\r\nنی نی به سوی صدر هم از لفظ روزگار\r\nآمد ندا که بار دگر قلتبان رسید\r\nکس را ز سرکشان زمانه نگاه کن\r\nتا خام قلتبان تر از این مدح خوان رسید\r\nاین است و بس که از قبل بخت نیست شد\r\nاز باده محبت تو سرگران رسید\r\nاز فیض جاه باش که از فیض مکرمت\r\nاز باختر ثنای تو تا قیروان رسید\r\nتا در ضمیر خلق نگردد که امر حق\r\nنزدیک هر ضعیف و قوی با امان رسید\r\nوز بهره زمانه تو بادی که شاه را\r\nاز دولت تو بهره دل شادمان رسید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطبعم به عرضه کردن دریا و کان رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنطقم به تحفه دادن کون و مکان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم وهم من به مقصد خرد و بزرگ تاخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم گام من به معبد پیر و جوان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین دود عود شکر که جانست مجمرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدرید آسمانه و بر آسمان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانده بمرد و مفسدت او ز دل گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشادی بزاد و منفعت او به جان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرنجور بادیه به فضای ارم گریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمقهور هاویه به هوای جنان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلبل فصیح گشت چو بوی بهار یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل تازگی گرفت چو در بوستان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپرواز کرد باز هوای ثنا و مدح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز فر او اثر به زمین و زمان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحبوب شد جهان که ز اقلیم رابعش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز چهرهٔ سخا و سخن کاروان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحنت رود چو مدت عنف از زمانه رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوبت رسد چو نوبت لطف جهان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالی‌سخن به حضرت عالی‌نسب شتافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصاحب‌هنر به درگه صاحب‌قران رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدستور شهریار جهان مجد دین که دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز جاه او به منفعت جاودان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحسود خسروان علی‌بن عمر که عدل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رای او به رؤیت نوشیروان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن شه‌نشان که قدرت شمشیر سرفشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عهد او به خامهٔ عنبرفشان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنقش بقا چو جلوه‌گری یافت از ازل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنشور بخت او ز ابد آن زمان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای صاحبی که از رقم مهر و کین تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کاینات نسخهٔ سود و زیان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کارکرد کلک تو خسرو چو فتح کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحالی به سایهٔ علم کاویان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرخاست چرخ در طلب کبریاء تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌بودش این گمان که بدو در توان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز کبریاء تو خبری هم نمی‌رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنجا که مرغ وهم و قیاس و گمان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر منزلی که خصم تو نزل زمانه خورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هفت عضو خصم تو یک استخوان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصروع کرد بر جگر مرگ قهر تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر لقمه‌ای که خصم ترا در دهان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولت وصال عمر ابد جست سالها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدی که از قبول تو آخر به آن رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر اضطراب دیدهٔ تسکین گشاده شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون التفات تو به جهان جهان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کردهٔ خدای میاور حدیث رد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکام از حرم به چنین خاکدان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خرد بارگاه بلا را ز کام تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاینک ز صد هزار بزرگی نشان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسلطانی از نیاز در خواجگی زند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نام خواجگی تو سلطان نشان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنقد وجود چرخ عیار از در تو برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون در علو به کارگه امتحان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتقدیر رزق اگرچه به حکم خدای بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتوجیه رزق از تو به انس و به جان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عشق مال آز روان شد به سوی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم در نخست گام به دریا و کان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغ قضا چو بر در حکم تو بار یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشمش به یک نظر به همین آشیان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصدرا به روزگار خزان دست طبع من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر باغ مدح تو به گل و ارغوان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلزار مدح تو به طراوت اثر نمود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین طرفه تحفه بین که مرا از خزان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشخصم به جد و جهد به فرمان عقل و جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز آسمان گذشت و به این آستان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسی سال در طریق تحیر دلم بتاخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاکنون ز خدمت در تو بر کران رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآخر فلک ز مقدم من در دیار تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآوازه درفکند که جاری زبان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی نی به سوی صدر هم از لفظ روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآمد ندا که بار دگر قلتبان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس را ز سرکشان زمانه نگاه کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا خام قلتبان‌تر از این مدح خوان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین است و بس که از قبل بخت نیست شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بادهٔ محبت تو سرگران رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز فیض جاه باش که از فیض مکرمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز باختر ثنای تو تا قیروان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا در ضمیر خلق نگردد که امر حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزدیک هر ضعیف و قوی با امان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوز بهرهٔ زمانه تو بادی که شاه را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دولت تو بهره دل شادمان رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 40
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طبعم به عرضه کردن دریا و کان رسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ماهیت من به مرحله‌ای رسیده که می‌توانم دریا و معادن را به نمایش بگذارم و سخن من به جایی رسیده که می‌تواند هدایای وجود و جهان را ارائه دهد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نطقم به تحفه دادن کون و مکان رسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هم وهم من به مقصد خرد و بزرگ تاخت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من و اندیشه‌ام به سوی هدفی بزرگ و خردمندانه حرکت کردیم و قدم‌هایمان به معبدی رسید که هم برای جوانان و هم برای پیران مناسب بود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هم گام من به معبد پیر و جوان رسید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "این دود عود شکر که جانست مجمرش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دود خوشبو که نشانه‌ای از روح و زندگی است، از ظرفش به بیرون سرریز شده و به آسمان می‌رسد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بدرید آسمانه و بر آسمان رسید",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "انده بمرد و مفسدت او ز دل گذشت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم و ناامیدی از دل رخت بربست و شادی در دل جای گرفت، و سود او به زندگی جان دوباره‌ای داد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شادی بزاد و منفعت او به جان رسید",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "رنجور بادیه به فضای ارم گریخت",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیمار و رنجور در حالتی سخت و آشفته، از دشت بی‌رحم به سرزمین آرام و خوشبو فرار کرد و از دامان جهنم به سوی بهشت رسید."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مقهور هاویه به هوای جنان رسید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بلبل فصیح گشت چو بوی بهار یافت",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای خوش‌زبان وقتی بوی بهار را استشمام کرد، گل نیز طراوت و تازگی گرفت زمانی که به باغ رسید."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "گل تازگی گرفت چو در بوستان رسید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "پرواز کرد باز هوای ثنا و مدح",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای به پرواز درآمد که بوی ستایش و تمجید را به همراه داشت و تأثیر وجود او در زمین و زمان پخش شد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "وز فر او اثر به زمین و زمان رسید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "محبوب شد جهان که ز اقلیم رابعش",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا به خاطر محبوبیت او زیبا شده است، چرا که از سرزمین چهارم، با چهره‌ای سخاوتمند و با کلامی دلنشین، کاروانی به اینجا آمده است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "از چهرهٔ سخا و سخن کاروان رسید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "محنت رود چو مدت عنف از زمانه رفت",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که سختی‌ها و مشکلات از زندگی دور شدند و زمان خوشی‌ها فرارسید، آن‌گاه نوبت به روزهای خوب و رحمت‌های الهی خواهد رسید."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "نوبت رسد چو نوبت لطف جهان رسید",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "عالی‌سخن به حضرت عالی‌نسب شتافت",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شخصی با مهارت و هنر، سخنان عالی را به شما نسبت می‌دهد و به درگاه کسی که صاحب قرآن است می‌رسد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "صاحب‌هنر به درگه صاحب‌قران رسید",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "دستور شهریار جهان مجد دین که دین",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دستور فرمانروای بزرگ که موجب شد دین به خاطر او به سودی پایدار و ابدی دست یابد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "از جاه او به منفعت جاودان رسید",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "محسود خسروان علی‌بن عمر که عدل",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علی‌بن عمر به عنوان یک شخصیت بزرگ و مورد تحسین، در فضایی قرار دارد که انصاف و عدالت او به قدری معروف است که حتی نوشیروان، پادشاه معروف عدالت، از او الهام گرفته و آن را به چشم خود دیده است. این به معنای عظمت و تاثیرگذاری شخصیت او در جامعه است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "از رای او به رؤیت نوشیروان رسید",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "آن شه‌نشان که قدرت شمشیر سرفشان",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن فرمانروایی که در زمان او توانمندی شمشیرها در نهایت زیبایی و قدرت خود قرار گرفت و نام او به مانند عطر که در هوا پخش می‌شود، در زبان‌ها جاری شد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "در عهد او به خامهٔ عنبرفشان رسید",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "نقش بقا چو جلوه‌گری یافت از ازل",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که جلوه‌گری و زیبایی جاودانه آغاز شد، بخت او به یک‌باره از ابدیت به جلوه‌ای درخشید."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "منشور بخت او ز ابد آن زمان رسید",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "ای صاحبی که از رقم مهر و کین تو",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که بر اساس عشق و دشمنی‌ات، در جهان نسخه‌ای از سود و زیان به ثبت رسیده است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "در کاینات نسخهٔ سود و زیان رسید",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "در کارکرد کلک تو خسرو چو فتح کرد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو همچون خسرو در کارهایت موفق شدی، اکنون به زیر سایهٔ دانش و آگاهی کاویان رسیدی."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "حالی به سایهٔ علم کاویان رسید",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "برخاست چرخ در طلب کبریاء تو",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان به خاطر عظمت تو به تکاپو افتاده و گمان می‌برد که می‌تواند به آن دست یابد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "می‌بودش این گمان که بدو در توان رسید",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "از کبریاء تو خبری هم نمی‌رسد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جایی که تخیل و اوهام و تصور غالب است، خبری از عظمت و کبریایی تو وجود ندارد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "آنجا که مرغ وهم و قیاس و گمان رسید",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "در منزلی که خصم تو نزل زمانه خورد",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جایی که دشمن تو دچار سختی و مشکلات شد، از میان هفت ویژگی و نقاط ضعف او، تنها یک مشکل کوچک باقی مانده است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "از هفت عضو خصم تو یک استخوان رسید",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "مصروع کرد بر جگر مرگ قهر تو",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرگ به خاطر خشم تو، هر لقمه‌ای که دشمنان تو در دهان خود گذاشتند، بر دل من سنگینی می‌کند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "هر لقمه‌ای که خصم ترا در دهان رسید",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "دولت وصال عمر ابد جست سالها",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سال‌ها تلاش کردم تا به وصال تو برسم و اکنون که به این هدف دست یافته‌ام، متوجه شدم که این خوشبختی برای من جاودانه خواهد بود."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "دیدی که از قبول تو آخر به آن رسید",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "در اضطراب دیدهٔ تسکین گشاده شد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی به چشم‌های من آرامش تو نگریست، اضطرابم برطرف شد و به همه‌ی جهان خوشحالی رسید."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "چون التفات تو به جهان جهان رسید",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "در کردهٔ خدای میاور حدیث رد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در خصوص درک و فهم خداوند، نیازی به بحث و جدل نیست. کسی که به این خاکدان (زمین) آمده، نباید سخن از رد کردن کام (رستگاری) از حرم (مقدس) به میان آورد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "کام از حرم به چنین خاکدان رسید",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "ای خرد بارگاه بلا را ز کام تو",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای حکمت و دانش، مقام درد و رنج از دستان تو اکنون با پیام بزرگی از صد هزار شایستگی نمایان شده است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "اینک ز صد هزار بزرگی نشان رسید",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "سلطانی از نیاز در خواجگی زند",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سلطانی که به خاطر نیازش در مقام خواجگی زندگی می‌کند، زمانی که نام خواجگی تو به عنوان سلطان شنیده می‌شود، تغییر در حال او ایجاد می‌کند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "چون نام خواجگی تو سلطان نشان رسید",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "نقد وجود چرخ عیار از در تو برد",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرخ روزگار با ارزش وجود تو به راحتی از در تو خارج شد، وقتی که در مقام بلند تو به محل آزمایش رسید."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "چون در علو به کارگه امتحان رسید",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "تقدیر رزق اگرچه به حکم خدای بود",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه سرنوشت و روزی انسان به فرمان خداوند رقم خورده، اما درک و احساس روزی به وسیله انسان و با قلب و ارتباطات اجتماعی او تحقق می‌یابد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "توجیه رزق از تو به انس و به جان رسید",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "در عشق مال آز روان شد به سوی تو",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در عشق، مال و ثروت از ذهنم دور شد و به سمت تو آمد. در ابتدای این مسیر، همچون قدمی به سمت دریا و عمق آن رسیدم."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "هم در نخست گام به دریا و کان رسید",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "مرغ قضا چو بر در حکم تو بار یافت",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی تقدیر بر دروازه‌ی حکم تو قرار گرفت، آن مرغ سرنوشت با یک نگاه به همین سرزمین رسید."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "چشمش به یک نظر به همین آشیان رسید",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "صدرا به روزگار خزان دست طبع من",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روزگار پاییز، استعداد من در شعر و نوشتن درباره تو به زیبایی و شکوفایی رسید."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "در باغ مدح تو به گل و ارغوان رسید",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "گلزار مدح تو به طراوت اثر نمود",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باغ تو به زیبایی خود را نشان داد و این هدیه را ببین که من از فصل سرد بهار آورده‌ام."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "این طرفه تحفه بین که مرا از خزان رسید",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "شخصم به جد و جهد به فرمان عقل و جان",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من با تلاش و کوشش فراوان، تحت هدایت عقل و روح خود از آسمان عبور کرده و به این مکان مقدس رسیدم."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "از آسمان گذشت و به این آستان رسید",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "سی سال در طریق تحیر دلم بتاخت",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سی سال در مسیر حیرت و سرگردانی به سر بردم، حالا پس از این همه سال خدمت به تو، به سرانجام و مقصود رسیده‌ام."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "اکنون ز خدمت در تو بر کران رسید",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "آخر فلک ز مقدم من در دیار تو",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آخر آسمان به خاطر ورود من در سرزمین تو صدای بزرگی را پخش کرد که خبر از آمدن من را به زبان‌ها آورد."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "آوازه درفکند که جاری زبان رسید",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "نی نی به سوی صدر هم از لفظ روزگار",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به سوی جایگاه بلند، صدایی از زمان به گوش می‌رسد که دوباره آن شخص نشسته بر زمین، به جمع بازگشته است."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "آمد ندا که بار دگر قلتبان رسید",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "کس را ز سرکشان زمانه نگاه کن",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد هرچقدر هم که در زمانه دقت کنیم و نظاره‌گری کنیم، باز هم افرادی هستند که از ما بیشتر در انحرافات و بی‌راهه‌روی‌ها هستند و قابل ستایش‌اند."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "تا خام قلتبان‌تر از این مدح خوان رسید",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "این است و بس که از قبل بخت نیست شد",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها همین کافی است که از ابتدای زندگی‌ام، به خاطر بخت و اقبال، من مست و خمار محبت تو شدم."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "از بادهٔ محبت تو سرگران رسید",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "از فیض جاه باش که از فیض مکرمت",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر جاه و مقام خودت، از نعمت‌های خاصی برخورداری که این نعمت و احترام تو تا دورترین نقاط عالم نیز رسیده است."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "از باختر ثنای تو تا قیروان رسید",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "تا در ضمیر خلق نگردد که امر حق",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که در دل مردم درک نشود که فرمان الهی به همه، چه ضعیف و چه قوی، به سهولت و با امنیت می‌رسد."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "نزدیک هر ضعیف و قوی با امان رسید",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "وز بهرهٔ زمانه تو بادی که شاه را",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از برکت زمان تو، نسیم ملایمی به وجود آمده است که شاه از خوشبختی و سعادت تو خوشحال و شادمان شده است."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "از دولت تو بهره دل شادمان رسید",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "Id": 44158,
+  "CatId": 1401,
+  "Title": "غزل شمارهٔ ۲۰۹۰",
+  "FullTitle": "بیدل دهلوی » غزلیات » غزل شمارهٔ ۲۰۹۰",
+  "FullUrl": "/bidel/ghazalbi/sh2090",
+  "RhymeLetters": "ازمیرسدم",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر احساس عمیق انتظار و ناامیدی شاعر است. او از نرسیدن به خواسته‌ها و آرزوهایش سخن می‌گوید، با تصاویری از سوختن و غم‌های دل، و به نوعی به کشف حقیقت وجودی خود اشاره دارد. شاعر در جستجوی وصالی است که هرگز به آن نرسیده و به صورت نمادین، خود را به یعقوب تشبیه می‌کند که در انتظار دیدار فرزندش است. در نهایت، او نشان می‌دهد که همچنان در حال سفر در دنیای پر از فراز و نشیب است و به هیچ‌جا نرسیده است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازمیرسدم",
+      "PlainText": "نه تعین نه ناز می رسدم\r\nتا جبین یک نیاز می رسدم\r\nناز اقبال نارسایی ها\r\nتا به زلف ایاز می رسدم\r\nتا ز خاکسترم اثر پیداست\r\nسوختن بی تو باز می رسدم\r\nتا شوم قابل نم اشکی\r\nدیده تا دل گداز می رسدم\r\nمژده وصل و بخت من هیهات\r\nاین نوا از چه ساز می رسدم\r\nنشیه انتظار یعقوبم\r\nساغر از چشم باز می رسدم\r\nوارث عبرتم علاجی نیست\r\nاز جهان احتراز می رسدم\r\nسوی دنیا نبرده ام دستی\r\nگرکنم پا دراز می رسدم\r\nگر همین نفی خویش اثباتست\r\nرنگ نا رفته باز می رسدم\r\nسعی اشکم  که دیده تا مژگان\r\nصد نشیب و فراز می رسدم\r\nگر رموز حقیقتم این است\r\nهرکجایم مجاز می رسدم\r\nنرسیدم به هیچ جا بید ل\r\nتا کجا امتیاز می رسدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه تعین نه ناز می‌رسدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا جبین یک نیاز می‌رسدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناز اقبال نارسایی ها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به زلف ایاز می‌رسدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا ز خاکسترم اثر پیداست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوختن بی تو باز می‌رسدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا شوم قابل نم اشکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیده تا دل گداز می‌رسدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمژدهٔ وصل و بخت من هیهات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین نوا از چه ساز می‌رسدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشئهٔ انتظار یعقوبم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساغر از چشم باز می‌رسدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوارث عبرتم علاجی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز جهان احتراز می‌رسدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوی دنیا نبرده‌ام دستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرکنم پا دراز می‌رسدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر همین نفی خویش اثباتست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرنگ نا رفته باز می‌رسدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعی اشکم‌ که دیده تا مژگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد نشیب و فراز می‌رسدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر رموز حقیقتم این است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرکجایم مجاز می‌رسدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنرسیدم به هیچ جا بید‌ل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا کجا امتیاز می‌رسدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 12
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه تعین نه ناز می‌رسدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نه به خاطر زیبایی و نه به خاطر خاص بودن به تو نزدیک می‌شوم، بلکه به دلیل یک نیاز درونی به تو می‌رسam."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا جبین یک نیاز می‌رسدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ناز اقبال نارسایی ها",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که مشکلات و نارسایی‌ها را پشت سر می‌گذارم، به آرزوها و زیبایی‌های خود می‌رسم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا به زلف ایاز می‌رسدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "تا ز خاکسترم اثر پیداست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خاکستر من هنوز نشانه‌هایی باقی مانده است؛ بی‌تو دوباره احساس سوختن می‌کنم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سوختن بی تو باز می‌رسدم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا شوم قابل نم اشکی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من می‌خواهم به جایی برسم که اشکی از چشمم بریزد تا بتوانم دل‌سوخته‌ام را تسکین دهم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دیده تا دل گداز می‌رسدم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مژدهٔ وصل و بخت من هیهات",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خبر خوشی دربارهٔ وصل و خوشبختی من نمی‌رسد، نمی‌دانم این صدا از کجا می‌آید و چرا به من می‌رسد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "این نوا از چه ساز می‌رسدم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "نشئهٔ انتظار یعقوبم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در حال حاضر در حال تجربه یک حس شدید انتظار و longing هستم، که مانند ساغری از چشمم در حال جاری شدن است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ساغر از چشم باز می‌رسدم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "وارث عبرتم علاجی نیست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من که وارث تجربه‌هایم، نمی‌توانم از سرنوشت این دنیا فرار کنم و راهی برای نجات ندارم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "از جهان احتراز می‌رسدم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "سوی دنیا نبرده‌ام دستی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هیچ تلاشی برای به دست آوردن دنیا نکرده‌ام، اما اگر قدمی به جلو بردارم، به آن چیزهایی که می‌خواهم می‌رسم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "گرکنم پا دراز می‌رسدم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گر همین نفی خویش اثباتست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر همین نفی خودم در واقع نشانه‌ای از وجود است، پس بدون شک به هدف و مقصود خواهش می‌رسم و به آن دست پیدا می‌کنم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "رنگ نا رفته باز می‌رسدم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "سعی اشکم‌ که دیده تا مژگان",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تلاش می‌کنم که اشک‌هایم به گونه‌ای بریزند که از چشمانم تا مژگانم در نوسان باشند و بالا و پایین بروند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "صد نشیب و فراز می‌رسدم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "گر رموز حقیقتم این است",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر حقیقت من این است که هر جا باشم به نوعی به واقعیت می‌رسم، پس معنای واقعی زندگی در هر مکانی وجود دارد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "هرکجایم مجاز می‌رسدم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "نرسیدم به هیچ جا بید‌ل",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به جایی نرسیدم و هنوز نمی‌دانم تا چه زمانی باید به دنبال افتخار و تمایز بگردم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "تا کجا امتیاز می‌رسدم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    }
+  ]
+}

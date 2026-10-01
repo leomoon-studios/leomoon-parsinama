@@ -1,0 +1,195 @@
+{
+  "Id": 100168,
+  "CatId": 2527,
+  "Title": "شمارهٔ  ۶۷۰",
+  "FullTitle": "آشفتهٔ شیرازی » غزلیات » شمارهٔ  ۶۷۰",
+  "FullUrl": "/ashofte/ghazal/sh670",
+  "RhymeLetters": "انکردم",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف عشق و دلدادگی شاعر به معشوق می‌پردازد. شاعر با اشاره به زیبایی موهای معشوق و تاریکی دل‌های دیگران، می‌گوید که در میان مردم فقط غم و دود دل را دیده است. او به نکته توحید اشاره می‌کند و می‌گوید که بسیاری از رازهای عشق را از نی و مزمار شنیده است. شاعر از گل‌های زیبای معشوق یاد می‌کند و از احساس آزادی و دوری از انسان‌ها می‌گوید. او بیان می‌کند که از شدت عشق و دوری، دستش به درد آمده و نمی‌تواند از هجر معشوق رها شود. در نهایت، او به کعبه مقصودی اشاره می‌کند که در آن فقط وجود محبوب را می‌بیند و از حال عشق خود ابراز می‌دارد.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یدم",
+      "PlainText": "زلفین تو را موی بمو گشتم و دیدم\r\nجز دود دل خلق در آن حلقه ندیدم\r\nبا شیخ نگو نکته توحید که شرکست\r\nاین زمزمه دوش از نی و مزمار شنیدم\r\nحاشا که گهی چیده کلیم از شجر طور\r\nآن گل که من از گلشن رخسار تو چیدم\r\nبادام تو تا انس گرفتم من وحشی\r\nوحشی صفت از آدمیان جمله رمیدم\r\nخوش باش که بیماری دل رفت زیادم\r\nتا حالت بیماری چشمان تو دیدم\r\nدستیم نمانده که بسر برزنم از هجر\r\nاز بس که سر انگشت بحسرت بگزیدم\r\nتابو که غبار درت ایدوست بیابم\r\nچون باد صبا بر سر هر کوی دویدم\r\nتا غنچه تو بوسه گه مدعیان شد\r\nسر تا بقدم جامه چو گل باز دریدم\r\nای تیر کمان خانه ابرو بکجایی\r\nبازآ که کمان وار زهجر تو خمیدم\r\nپای طلبم لنگ شد و هیچ غمم نیست\r\nبا سر بدر کعبه مقصود رسیدم\r\nآشفته کجا کعبه در خانه حیدر\r\nآن کاو که جز او سر خداوند ندیدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزلفین تو را موی بمو گشتم و دیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز دود دل خلق در آن حلقه ندیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا شیخ نگو نکته توحید که شرکست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین زمزمه دوش از نی و مزمار شنیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاشا که گهی چیده کلیم از شجر طور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن گل که من از گلشن رخسار تو چیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبادام تو تا انس گرفتم من وحشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوحشی صفت از آدمیان جمله رمیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش باش که بیماری دل رفت زیادم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا حالت بیماری چشمان تو دیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدستیم نمانده که بسر برزنم از هجر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بس که سر انگشت بحسرت بگزیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتابو که غبار درت ایدوست بیابم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون باد صبا بر سر هر کوی دویدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا غنچه تو بوسه گه مدعیان شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر تا بقدم جامه چو گل باز دریدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تیر کمان خانه ابرو بکجائی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبازآ که کمان وار زهجر تو خمیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپای طلبم لنگ شد و هیچ غمم نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا سر بدر کعبه مقصود رسیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآشفته کجا کعبه در خانه حیدر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کاو که جز او سر خداوند ندیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 11
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زلفین تو را موی بمو گشتم و دیدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر زلف‌های تو، به دنبالت رفتم و دیدم که جز غم و درد دل مردم در آن حلقه چیزی وجود ندارد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز دود دل خلق در آن حلقه ندیدم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با شیخ نگو نکته توحید که شرکست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با شیخ از موضوع وحدت صحبت نکن، زیرا این صحبت به نوعی شرک به حساب می‌آید. من دیروز صدای نی و ساز را شنیدم که این موضوع را بیان می‌کردند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این زمزمه دوش از نی و مزمار شنیدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "حاشا که گهی چیده کلیم از شجر طور",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه، هرگز ممکن نیست که کلیم (موسى) از درخت طور گلی بچیند؛ چرا که من از گلشن چهره تو گلی چیده‌ام."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آن گل که من از گلشن رخسار تو چیدم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بادام تو تا انس گرفتم من وحشی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که به بادام تو عادت کردم، دیگر از انسان‌ها دور شدم و تنها به طبیعت و وحشی‌گری خودم روی آوردم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "وحشی صفت از آدمیان جمله رمیدم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خوش باش که بیماری دل رفت زیادم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشحال باش که رنج دل من بیشتر شد، چون بیماری چشمان تو را دیدم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا حالت بیماری چشمان تو دیدم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دستیم نمانده که بسر برزنم از هجر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیگر هیچ نیازی به تظاهر یا نشان دادن خود ندارم، زیرا از شدت دلتنگی و حسرت، تنها به یاد و تصویر تو در دل و جانم می‌زنم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از بس که سر انگشت بحسرت بگزیدم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "تابو که غبار درت ایدوست بیابم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در جستجوی تو همچون باد صبا، از کویی به کوی دیگر می‌دوم و غبار ناشی از محبت و یاد تو را بر سر هر مسیر احساس می‌کنم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چون باد صبا بر سر هر کوی دویدم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "تا غنچه تو بوسه گه مدعیان شد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که گلبرگ تو به بوسه‌های خواستگاران پاسخ داد، تمام لباس‌هایم را مانند گل پاره‌پاره کردم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "سر تا بقدم جامه چو گل باز دریدم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ای تیر کمان خانه ابرو بکجائی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای تیر کمان، با ابرویت که به شکل کج است، بازگرد و به من بگو. من از فراق تو به قدری رنجیده‌ام که همچون کمان، خم شده‌ام."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "بازآ که کمان وار زهجر تو خمیدم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "پای طلبم لنگ شد و هیچ غمم نیست",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر دشواری‌ها و مشکلاتی که در مسیر دارم نگران نیستم، زیرا توانستم به هدف اصلی‌ام که رسیدن به کعبه است، دست پیدا کنم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "با سر بدر کعبه مقصود رسیدم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "آشفته کجا کعبه در خانه حیدر",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آشفتگی و سرگردانی در کجا می‌تواند باشد، در حالی که کعبه، خانه حیدر است؛ کسی که جز او، چهره‌ی خداوندی را ندیده‌ام."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "آن کاو که جز او سر خداوند ندیدم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    }
+  ]
+}

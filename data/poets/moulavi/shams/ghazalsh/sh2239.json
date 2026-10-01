@@ -1,0 +1,210 @@
+{
+  "Id": 4863,
+  "CatId": 99,
+  "Title": "غزل شمارهٔ ۲۲۳۹",
+  "FullTitle": "مولانا » دیوان شمس » غزلیات » غزل شمارهٔ ۲۲۳۹",
+  "FullUrl": "/moulavi/shams/ghazalsh/sh2239",
+  "RhymeLetters": "و",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، گوینده به کوی خواجه می‌رود و از او می‌پرسد که خواجه کجاست. اطرافیان می‌گویند که خواجه عاشق و شیداست و در باغی به سر می‌برد. او که خود دوستدار خواجه است، درخواست می‌کند او را به خواجه راهنمایی کنند. در ادامه، شاعر به ویژگی‌های عشق می‌پردازد و بیان می‌کند که عاشق نمی‌تواند در دنیای مادی و رنگ و بو بماند و باید به سوی محبوب خود برود. او همچنین از وفاداری و بی‌نظیری خواجه صحبت می‌کند و نشان می‌دهد که عشق واقعی انسان را به شناخت عمیق‌تر رهنمون می‌سازد. در نهایت، او به این نتیجه می‌رسد که باید از دنیای مادی فاصله بگیرد و به جهانی دیگر برود تا به رضایت و آرامش برسد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "و",
+      "PlainText": "رفتم به کوی خواجه و گفتم که خواجه کو\r\nگفتند خواجه عاشق و مست است و کو به کو\r\nگفتم فریضه دارم آخر نشان دهید\r\nمن دوستدار خواجه ام آخر نیم عدو\r\nگفتند خواجه عاشق آن باغبان شده ست\r\nاو را به باغ ها جو یا بر کنار جو\r\nمستان و عاشقان بر دلدار خود روند\r\nهر کس که گشت عاشق رو دست از او بشو\r\nماهی که آب دید نپاید به خاکدان\r\nعاشق کجا بماند در دور رنگ و بو\r\nبرف فسرده کو رخ آن آفتاب دید\r\nخورشید پاک خوردش اگر هست تو به تو\r\nخاصه کسی که عاشق سلطان ما بود\r\nسلطان بی نظیر وفادار قندخو\r\nآن کیمیای بی حد و بی عد و بی قیاس\r\nبر هر مسی که برزد زر شد به ارجعوا\r\nدر خواب شو ز عالم وز شش جهت گریز\r\nتا چند گول گردی و آواره سو به سو\r\nناچار می برندت باری به اختیار\r\nتا پیش شاه باشدت اعزاز و آبرو\r\nگر ز آنک در میانه نبودی سرخری\r\nاسرار کشف کردی عیسیت مو به مو\r\nبستم ره دهان و گشادم ره نهان\r\nرستم به یک قنینه ز سودای گفت و گو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفتم به کوی خواجه و گفتم که خواجه کو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتند خواجه عاشق و مست است و کو به کو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم فریضه دارم آخر نشان دهید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن دوستدار خواجه‌ام آخر نیم عدو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتند خواجه عاشق آن باغبان شده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو را به باغ‌ها جو یا بر کنار جو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمستان و عاشقان بر دلدار خود روند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کس که گشت عاشق رو دست از او بشو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماهی که آب دید نپاید به خاکدان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاشق کجا بماند در دور رنگ و بو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرف فسرده کو رخ آن آفتاب دید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید پاک خوردش اگر هست تو به تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاصه کسی که عاشق سلطان ما بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسلطان بی‌نظیر وفادار قندخو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کیمیای بی‌حد و بی‌عد و بی‌قیاس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر هر مسی که برزد زر شد به ارجعوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خواب شو ز عالم وز شش جهت گریز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چند گول گردی و آواره سو به سو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناچار می برندت باری به اختیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا پیش شاه باشدت اعزاز و آبرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر ز آنک در میانه نبودی سرخری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسرار کشف کردی عیسیت مو به مو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبستم ره دهان و گشادم ره نهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرستم به یک قنینه ز سودای گفت و گو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 12
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رفتم به کوی خواجه و گفتم که خواجه کو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به محله‌ی محبوبم رفتم و پرسیدم که محبوب کجاست. گفتند که او عاشق شده و در حال رقص و شادی است و در همه‌جا پرسه می‌زند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گفتند خواجه عاشق و مست است و کو به کو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گفتم فریضه دارم آخر نشان دهید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم که وظیفه‌ای دارم و انتظار دارم نشانم دهید. من عاشق خواجه هستم و در واقع، دشمن نیستم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من دوستدار خواجه‌ام آخر نیم عدو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گفتند خواجه عاشق آن باغبان شده‌ست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتند که آقا به باغبان علاقه‌مند شده است، او را در کنار باغ‌ها یا در کنار جوی آب می‌جویند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "او را به باغ‌ها جو یا بر کنار جو",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مستان و عاشقان بر دلدار خود روند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشقان و مستان به سوی معشوق خود می‌روند و هر کسی که عاشق شود، باید از دلبستگی‌های خود دست بردارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هر کس که گشت عاشق رو دست از او بشو",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ماهی که آب دید نپاید به خاکدان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ماهی که در دریا زندگی می‌کند، هرگز نمی‌تواند در خشکی دوام بیاورد. همان‌طور، عاشق نمی‌تواند در دنیای بی‌عشق و رنگ و بو بماند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "عاشق کجا بماند در دور رنگ و بو",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "برف فسرده کو رخ آن آفتاب دید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برف غمگین نمی‌تواند زیبایی آن آفتاب را ببیند. اگر خورشید وجود داشته باشد، به خاطر توست."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خورشید پاک خوردش اگر هست تو به تو",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "خاصه کسی که عاشق سلطان ما بود",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به‌ویژه کسی که عاشق پادشاه ما بود، پادشاهی که بی‌نظیر و وفادار و شیرین‌زبان است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "سلطان بی‌نظیر وفادار قندخو",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "آن کیمیای بی‌حد و بی‌عد و بی‌قیاس",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این مفهوم است که یک ماده یا قدرت بی‌پایان و بی‌نظیر وجود دارد که می‌تواند هر چیزی را به طلا تبدیل کند و این تغییر در هر ذره‌ای که با آن تماس بگیرد، رخ می‌دهد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "بر هر مسی که برزد زر شد به ارجعوا",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "در خواب شو ز عالم وز شش جهت گریز",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای مدتی از دنیا و از تمام جهات دور شو و خواب کن، تا دیگر مدام فریب نخوری و سرگردان نشوی."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "تا چند گول گردی و آواره سو به سو",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ناچار می برندت باری به اختیار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به ناچار تو را به جایی می‌برند تا با انتخاب خودت در برابر پادشاه مورد احترام و منزلت قرار بگیری."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "تا پیش شاه باشدت اعزاز و آبرو",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "گر ز آنک در میانه نبودی سرخری",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو در میان افراد نبودن، شاید رازها را هرگز کشف نمی‌کردی. عیسی (ع)، با تمام جزئیات، این معماها را روشن ساخت."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "اسرار کشف کردی عیسیت مو به مو",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "بستم ره دهان و گشادم ره نهان",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسته‌ام راه کلام را و راه باطن را باز کرده‌ام. رستم، با یک فنجان، به عشق گفت‌وگو می‌پردازد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "رستم به یک قنینه ز سودای گفت و گو",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    }
+  ]
+}

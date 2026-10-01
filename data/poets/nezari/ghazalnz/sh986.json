@@ -1,0 +1,225 @@
+{
+  "Id": 71222,
+  "CatId": 2046,
+  "Title": "شمارهٔ ۹۸۶",
+  "FullTitle": "حکیم نزاری » غزلیات » شمارهٔ ۹۸۶",
+  "FullUrl": "/nezari/ghazalnz/sh986",
+  "RhymeLetters": "ن",
+  "SourceName": "مصطفی علیزاده و دوستان",
+  "SourceUrlSlug": "nezarisrc",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به دل درمانده و گرفتار در وطن اشاره می‌کند و می‌گوید که نباید به ظواهر تعصب ورزید و باید از حجب و حیاهای کاذب رهایی یافت. او تأکید می‌کند که در مسیر کمال، هیچ چیزی نباید مانع پیشرفت انسان شود و نه دعوی اخلاص و محبت باید کرد. شاعر از بی‌حالی و عذاب‌های درونی سخن می‌گوید و روح انسان را در عذاب می‌بیند. او در نهایت، از اهمیت خلوص نیت و رهایی از بندهای ظاهری و نفاق می‌گوید و به عشق و محبت واقعی اشاره می‌کند.",
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ن",
+      "PlainText": "ای دل درمانده به حبس وطن\r\nلاف سراپرده ی بالا مزن\r\nما و من توست حجب در میان\r\nاین حجبات من و ما برفکن\r\nورنی در قطع طریق کمال\r\nنیست حجابی بتر از ما و من\r\nدعوی  اخلاص و محبت مکن\r\nپس چو مرایی به ریا جان مکن\r\nیا برو و پس روی او مکن\r\nیا کم جان گیر و برستی ز تن\r\nیا به مقامات محبت درآی\r\nیا سر خود گیر و ز ما برشکن\r\nدر ره اخلاص مبین کفر و دین\r\nدر صف عشاق مبین مرد و زن\r\nبوش عطا می کنی ای اصل  بخل\r\nلاف صفا می زنی ای درد دن\r\nشخص ز همسایگی ات در عذاب\r\nروح ز هم خانگی ات در محن\r\nبا که توان گفت که من سال و ماه\r\nدر چه عذابم ز دل خویشتن\r\nمغز تهی کردم و رمز آشکار\r\nهیچ نه سر ماند به من نه علن\r\nآری اگر چند صدف شد تهی\r\nکم نشود قیمت در عدن\r\nقصه چه گویم که به جان آمده ست\r\nکار نزاری ز دل پر فتن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دلِ درمانده به حبس وطن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلافِ سراپرده‌ی بالا مزن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما و منِ توست حُجُب در میان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین حُجُباتِ من و ما برفکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eورنی در قطعِ‌طریقِ کمال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست حجابی بتر از ما و من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدعویِ‌ اخلاص و محبت مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس چو مرایی به ریا جان مکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا برو و پس‌روی او مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا کمِ جان گیر و برستی ز تن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا به مقاماتِ محبت درآی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا سرِ خود گیر و ز ما برشکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر رهِ اخلاص مبین کفر و دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر صفِ عشّاق مبین مرد و زن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوشِ عطا می‌کنی ای اصلِ‌ بخل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاف صفا می‌زنی ای دُردِ دَن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشخص ز همسایگی‌ات در عذاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروح ز هم خانگی‌ات در محن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا که توان گفت که من سال و ماه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر چه عذابم ز دلِ خویشتن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمغز تهی کردم و رمز آشکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ نه سِر ماند به من نه عَلَن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآری اگر چند صدف شد تهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکم نشود قیمتِ دُرّ عَدَن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقصّه چه گویم که به جان آمده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار نزاری ز دلِ پُر فِتن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 13
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دلِ درمانده به حبس وطن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آی دل نالان، به خاطر وابستگی به سرزمین خود، فریاد نزن و خود را در محدودیت‌ها و دلتنگی‌ها محبوس نکن."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لافِ سراپرده‌ی بالا مزن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ما و منِ توست حُجُب در میان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما و تو فاصله‌ها و موانعی داریم که بین ما قرار گرفته‌اند. این موانع را از میان بردار."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "این حُجُباتِ من و ما برفکن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ورنی در قطعِ‌طریقِ کمال",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ چیز به اندازه خودخواهی و عده‌ای از ماها نمی‌تواند مانع رسیدن به کمال باشد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نیست حجابی بتر از ما و من",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دعویِ‌ اخلاص و محبت مکن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دعویِ صداقت و عشق نکن، زیرا اگر خود را نشان بدهی و به ریا پردازی، از جانت مایه نگذار."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پس چو مرایی به ریا جان مکن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یا برو و پس‌روی او مکن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یا برو و برنگرد، یا اگر می‌خواهی بمانی، کم‌کم جان بگیر و از بدن رها شو."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یا کمِ جان گیر و برستی ز تن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "یا به مقاماتِ محبت درآی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به محبت و عشق بپیوند یا خودت را از من جدا کن و راه خود را برگزین."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "یا سرِ خود گیر و ز ما برشکن",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "در رهِ اخلاص مبین کفر و دین",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مسیر صداقت و عشق، به تمایز میان کفر و دین یا مرد و زن توجه نکن."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "در صفِ عشّاق مبین مرد و زن",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "بوشِ عطا می‌کنی ای اصلِ‌ بخل",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو از بخشش بویی به مشام می‌رسانی، اما در حقیقت، خود را به عنوان فردی سخاوتمند معرفی می‌کنی در حالی که در واقعیتی، کردار و رفتار تو نشان از بخالت دارد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "لاف صفا می‌زنی ای دُردِ دَن",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "شخص ز همسایگی‌ات در عذاب",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستت ممکن است از نزدیکترین همسایه‌ات در رنج باشد و روح تو نیز از همراهی با کسی که در کنار توست، در سختی و مشکل به سر ببرد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "روح ز هم خانگی‌ات در محن",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "با که توان گفت که من سال و ماه",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با چه کسی می‌توانم صحبت کنم که من سال‌ها و ماه‌ها در عذابی از دل خودم هستم؟"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "در چه عذابم ز دلِ خویشتن",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "مغز تهی کردم و رمز آشکار",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از هر گونه علم و دانشی خالی شدم و هیچ رازی برایم نه مخفی مانده و نه آشکار."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "هیچ نه سِر ماند به من نه عَلَن",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "آری اگر چند صدف شد تهی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حتی اگر صدفی خالی و بی‌ارزش شود، ارزش گوهر درون آن همچنان کاهش نمی‌یابد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "کم نشود قیمتِ دُرّ عَدَن",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "قصّه چه گویم که به جان آمده‌ست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه داستانی را بگویم که دل نزار و پر از درد، کارش به جانم رسیده است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "کار نزاری ز دلِ پُر فِتن",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    }
+  ]
+}

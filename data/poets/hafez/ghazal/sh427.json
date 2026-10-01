@@ -1,0 +1,165 @@
+{
+  "Id": 2556,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۴۲۷",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۴۲۷",
+  "FullUrl": "/hafez/ghazal/sh427",
+  "RhymeLetters": "انه",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "در این شعر، شاعر از روی پرنور یار خود می‌گوید که شمع را عاشق و شیفته خود کرده است و شاعر، پروانه‌وار و بی‌خویشتن بر گِرد او می‌گردد. یار او چنان زیباست که عقل را مجنون کرده و به زنجیر زلف خود کشیده است. شاعر هزاران ترفند و حیله به‌کار برده تا در دل محبوب خود‌، مهر و لطفی بنشاند اما همه حیله‌های او نقش بر‌آب شده و آن ترفندها برای یار او تکراری و افسانه بوده‌اند. شاعر از لب یار خود مست شده و به‌او قول داده که جز از مستی سخن نگوید و به کسانی‌که او را به مدرسه و خانقاه دعوت کرده‌اند گفته‌است که هوس میخانه دارد و در راه رفتن به میخانه است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انه",
+      "PlainText": "چراغ روی تو را شمع گشت پروانه\r\nمرا ز حال تو با حال خویش پروا نه\r\nخرد که قید مجانین عشق می فرمود\r\nبه بوی سنبل زلف تو گشت دیوانه\r\nبه بوی زلف تو گر جان به باد رفت  چه شد\r\nهزار جان گرامی فدای جانانه\r\nمن  رمیده ز غیرت ز پا فتادم دوش\r\nنگار خویش چو دیدم به دست بیگانه\r\nچه نقش ها که برانگیختیم و سود نداشت\r\nفسون ما بر او گشته است افسانه\r\nبر آتش رخ زیبای او به جای سپند\r\nبه غیر خال سیاهش که دید به دانه\r\nبه مژده جان به صبا داد شمع در نفسی\r\nز شمع روی تواش چون رسید پروانه\r\nمرا به دور لب دوست هست پیمانی\r\nکه بر زبان نبرم جز حدیث پیمانه\r\nحدیث مدرسه و خانقه مگوی که باز\r\nفتاد در سر حافظ هوای میخانه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچراغ روی تو را شمع گشت پروانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا ز حال تو با حال خویش پروا، نه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخِرد که قید مجانین عشق می‌فرمود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه بوی سنبل زلف تو گشت دیوانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بوی زلف تو گر جان به باد رفت‌، چه شد؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار جان گرامی فدای جانانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن‌ِ رمیده ز غیرت ز پا فتادم دوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگار خویش چو دیدم به دست بیگانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه نقش‌ها که برانگیختیم و سود نداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفسون ما بر او گشته است افسانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آتش رخ زیبای او به جای سپند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه غیر خال سیاهش که دید به دانه؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه مژده، جان به صبا داد شمع در نفسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز شمع روی تواَش چون رسید پروانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا به دور لب دوست هست پیمانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر زبان نبرم جز حدیث پیمانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحدیث مدرسه و خانقه مگوی که باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفتاد در سر حافظ هوای میخانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چراغ روی تو را شمع گشت پروانه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "از نور رخسار تو چنان بر شمع رفت که خود همچون پروانه عاشق تو شد، من در عشقت چنانم که از خود بی‌خبرم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا ز حال تو با حال خویش پروا، نه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "خِرد که قید مجانین عشق می‌فرمود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "خرَد که حُکم زنجیرِ دیوانگان عشق را صادر می‌کرد، خود به عطر خوش زلفِ تو دیوانه شد. («بوی» معنی آرزو هم می‌دهد؛ در آرزوی رسیدن به زنجیر زلفت، دیوانه گشت.)"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به بوی سنبل زلف تو گشت دیوانه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به بوی زلف تو گر جان به باد رفت‌، چه شد؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "در آرزوی وصال زلف تو هر جان که کشته گشت، همه فدای تو باد ای جان‌ِ جان!"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هزار جان گرامی فدای جانانه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "من‌ِ رمیده ز غیرت ز پا فتادم دوش",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "من رمیده‌غیرت که به هیچ‌کس غیرت نورزیده‌ام وقتی که نگار و محبوب خود را در دست بیگانه دیدم از فرط غیرت و غم از پای در‌افتادم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نگار خویش چو دیدم به دست بیگانه",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چه نقش‌ها که برانگیختیم و سود نداشت",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "چه ترفند‌ها و حیله‌ها کردیم اما سود نکرد؛ فسون و حیله‌های ما برای او همچون داستانی قدیمی است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "فسون ما بر او گشته است افسانه",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بر آتش رخ زیبای او به جای سپند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "بر رخ پر‌حرارت و گرم او به غیر از خال سیاهش که همچون سپند (او را از چشم بد نگه‌می‌دارد) چه کسی دانه‌ای زیباتر دیده است؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "به غیر خال سیاهش که دید به دانه؟",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "به مژده، جان به صبا داد شمع در نفسی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "در نفَسی‌: در یک آن‌، فورا.\u00A0 \u00A0 پروانه: مجازا به معنی نور و پرتو چراغ و شمع || و نیز به معنی اجازه و برات."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "ز شمع روی تواَش چون رسید پروانه",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "مرا به دور لب دوست هست پیمانی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "با لب دوست و یار خود پیمان بسته‌ام که جز سخن مستی و عشق‌، چیزی نگویم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "که بر زبان نبرم جز حدیث پیمانه",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "حدیث مدرسه و خانقه مگوی که باز",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "از مدرسه و خانقاه سخن مگو که باز هوای می‌خانه در سر حافظ افتاد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "فتاد در سر حافظ هوای میخانه",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

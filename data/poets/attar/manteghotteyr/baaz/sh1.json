@@ -1,0 +1,623 @@
+{
+  "Id": 11889,
+  "CatId": 170,
+  "Title": "حکایت باز",
+  "FullTitle": "عطار » منطق‌الطیر » حکایت باز » حکایت باز",
+  "FullUrl": "/attar/manteghotteyr/baaz/sh1",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، یک پرنده‌ای به نام باز دربارهٔ شوق و آرزوی خود برای خدمت به پادشاه صحبت می‌کند. او خود را آماده کرده و ریاضت کشیده تا در صورت برقراری ارتباط با شاه، بتواند به بهترین نحو خدمت کند. باز به عظمت تنها بودن سیمرغ اشاره می‌کند و می‌گوید که پادشاهی که همتایی نداشته باشد، واقعی‌تر و شایسته‌تر است. او همچنین به خطرات نزدیکی به شاهان اشاره می‌کند و توصیه می‌کند که از آنان دوری جست. در نهایت، مضمون اصلی این است که نزدیکی به قدرت می‌تواند خطرناک باشد و باید با احتیاط عمل کرد.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "باز پیش جمع آمد سرفراز\r\nکرد از سر معالی پرده باز\r\nسینه می کرد از سپه داری خویش\r\nلاف می زد از کله داری خویش\r\nگفت من از شوق دست شهریار\r\nچشم بربستم ز خلق روزگار\r\nچشم از آن بگرفته ام زیر کلاه\r\nتا رسد پایم به دست پادشاه\r\nدر ادب خود را بسی پرورده ام\r\nهمچو مرتاضان ریاضت کرده ام\r\nتا اگر روزی بر شاهم برند\r\nاز رسوم خدمت آگاهم برند\r\nمن کجا سیمرغ را بینم به خواب\r\nچون کنم بیهوده سوی او شتاب\r\nزقه ای از دست شاهم بس بود\r\nدر جهان این پایگاهم بس بود\r\nچون ندارم رهروی را پایگاه\r\nسرفرازی می کنم بر دست شاه\r\nمن اگر شایسته سلطان شوم\r\nبه که در وادی بی پایان شوم\r\nروی آن دارم که من بر روی شاه\r\nعمر بگذارم خوشی این جایگاه\r\nگاه شه را انتظاری می کنم\r\nگاه در شوقش شکاری می کنم\r\nهدهدش گفت ای به صورت مانده باز\r\nاز صفت دور و به صورت مانده باز\r\nشاه را در ملک اگر همتا بود\r\nپادشاهی کی بر او زیبا بود\r\nسلطنت را نیست چون سیمرغ کس\r\nزآنک بی همتا به شاهی اوست و بس\r\nشاه نبود آنک در هر کشوری\r\nسازد او از خود ز بی مغزی سری\r\nشاه آن باشد که همتا نبودش\r\nجز وفا و جز مدارا نبودش\r\nشاه دنیا گر وفاداری کند\r\nیک زمان دیگر گرفتاری کند\r\nهرک باشد پیش او نزدیک تر\r\nکار او بی شک بود تاریک تر\r\nدایما از شاه باشد بر حذر\r\nجان او پیوسته باشد پر خطر\r\nشاه دنیا فی المثل چون آتش است\r\nدور باش از وی که دوری زو خوش است\r\nزآن بود در پیش شاهان دور باش\r\nکای شده نزدیک شاهان دور باش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز پیش جمع آمد سرفراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد از سِّرِ معالی پرده باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسینه می‌کرد از سپه‌داری خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاف می‌زد از کله‌داری خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت: من از شوق دست شهریار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم بربستم ز خلقِ روزگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم از آن بگرفته‌ام زیر کلاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا رسد پایم به دست پادشاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ادب خود را بسی پرورده‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو مرتاضان ریاضت کرده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا اگر روزی بر شاهم برند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رسوم خدمت آگاهم برند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن کجا سیمرغ را بینم به خواب؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون کنم بیهوده سوی او شتاب؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزُقه‌ای از دست شاهم بس بوَد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جهان این پایگاهم بس بوَد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ندارم رهروی را پایگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرفرازی می‌کنم بر دست شاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن اگر شایستهٔ سلطان شوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه که در وادی بی‌پایان شوم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی آن دارم که من بر روی شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعمر بگذارم خوشی این جایگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه شه را انتظاری می‌کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاه در شوقش شکاری می‌کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهدهدش گفت: ای به صورت مانده باز!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز صفت دور و به صورت مانده باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه را در مُلک اگر همتا بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپادشاهی کی بر او زیبا بود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسلطنت را نیست چون سیمرغ کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآنک بی‌همتا به شاهی اوست و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه نبود آنک در هر کشوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسازد او از خود ز بی‌مغزی سری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه آن باشد که همتا نبوَدش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز وفا و جز مدارا نبوَدش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه دنیا گر وفاداری کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک زمان دیگر گرفتاری کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرک باشد پیش او نزدیک‌تر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار او بی‌شک بود تاریک‌تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدائماً از شاه باشد بر حذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان او پیوسته باشد پُر خطر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه دنیا فی‌المثل چون آتش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدور باش از وی که دوری زو خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآن بوَد، در پیش شاهان دور باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکای شده نزدیک شاهان! دور باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 22
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "از",
+      "PlainText": "باز پیش جمع آمد سرفراز\r\nکرد از سر معالی پرده باز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز پیش جمع آمد سرفراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد از سِّرِ معالی پرده باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "هداریخویش",
+      "PlainText": "سینه می کرد از سپه داری خویش\r\nلاف می زد از کله داری خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسینه می‌کرد از سپه‌داری خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاف می‌زد از کله‌داری خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "گفت من از شوق دست شهریار\r\nچشم بربستم ز خلق روزگار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت: من از شوق دست شهریار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم بربستم ز خلقِ روزگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "چشم از آن بگرفته ام زیر کلاه\r\nتا رسد پایم به دست پادشاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم از آن بگرفته‌ام زیر کلاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا رسد پایم به دست پادشاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ردهام",
+      "PlainText": "در ادب خود را بسی پرورده ام\r\nهمچو مرتاضان ریاضت کرده ام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ادب خود را بسی پرورده‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو مرتاضان ریاضت کرده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اهمبرند",
+      "PlainText": "تا اگر روزی بر شاهم برند\r\nاز رسوم خدمت آگاهم برند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا اگر روزی بر شاهم برند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز رسوم خدمت آگاهم برند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "من کجا سیمرغ را بینم به خواب\r\nچون کنم بیهوده سوی او شتاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن کجا سیمرغ را بینم به خواب؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون کنم بیهوده سوی او شتاب؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اهمبسبود",
+      "PlainText": "زقه ای از دست شاهم بس بود\r\nدر جهان این پایگاهم بس بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزُقه‌ای از دست شاهم بس بوَد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جهان این پایگاهم بس بوَد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "چون ندارم رهروی را پایگاه\r\nسرفرازی می کنم بر دست شاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ندارم رهروی را پایگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرفرازی می‌کنم بر دست شاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انشوم",
+      "PlainText": "من اگر شایسته سلطان شوم\r\nبه که در وادی بی پایان شوم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن اگر شایستهٔ سلطان شوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه که در وادی بی‌پایان شوم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "روی آن دارم که من بر روی شاه\r\nعمر بگذارم خوشی این جایگاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی آن دارم که من بر روی شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعمر بگذارم خوشی این جایگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اریمیکنم",
+      "PlainText": "گاه شه را انتظاری می کنم\r\nگاه در شوقش شکاری می کنم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه شه را انتظاری می‌کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاه در شوقش شکاری می‌کنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "بهصورتماندهباز",
+      "PlainText": "هدهدش گفت ای به صورت مانده باز\r\nاز صفت دور و به صورت مانده باز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهدهدش گفت: ای به صورت مانده باز!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز صفت دور و به صورت مانده باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ابود",
+      "PlainText": "شاه را در ملک اگر همتا بود\r\nپادشاهی کی بر او زیبا بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه را در مُلک اگر همتا بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپادشاهی کی بر او زیبا بود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "س",
+      "PlainText": "سلطنت را نیست چون سیمرغ کس\r\nزآنک بی همتا به شاهی اوست و بس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسلطنت را نیست چون سیمرغ کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزآنک بی‌همتا به شاهی اوست و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ری",
+      "PlainText": "شاه نبود آنک در هر کشوری\r\nسازد او از خود ز بی مغزی سری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه نبود آنک در هر کشوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسازد او از خود ز بی‌مغزی سری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انبودش",
+      "PlainText": "شاه آن باشد که همتا نبودش\r\nجز وفا و جز مدارا نبودش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه آن باشد که همتا نبوَدش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز وفا و جز مدارا نبوَدش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اریکند",
+      "PlainText": "شاه دنیا گر وفاداری کند\r\nیک زمان دیگر گرفتاری کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه دنیا گر وفاداری کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک زمان دیگر گرفتاری کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یکتر",
+      "PlainText": "هرک باشد پیش او نزدیک تر\r\nکار او بی شک بود تاریک تر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرک باشد پیش او نزدیک‌تر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار او بی‌شک بود تاریک‌تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "دایما از شاه باشد بر حذر\r\nجان او پیوسته باشد پر خطر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدائماً از شاه باشد بر حذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان او پیوسته باشد پُر خطر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "شاست",
+      "PlainText": "شاه دنیا فی المثل چون آتش است\r\nدور باش از وی که دوری زو خوش است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه دنیا فی‌المثل چون آتش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدور باش از وی که دوری زو خوش است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "شاهاندورباش",
+      "PlainText": "زآن بود در پیش شاهان دور باش\r\nکای شده نزدیک شاهان دور باش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآن بوَد، در پیش شاهان دور باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکای شده نزدیک شاهان! دور باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باز پیش جمع آمد سرفراز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: او دوباره با طرز خاصی به جمع برگشت و از بالای مقام خود پرده را کنار زد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کرد از سِّرِ معالی پرده باز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سینه می‌کرد از سپه‌داری خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: او در دل خود از دلاوری‌هایش سخن می‌گوید و به افتخار رهبری‌اش می‌بالد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لاف می‌زد از کله‌داری خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گفت: من از شوق دست شهریار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: او گفت که به خاطر شوق و عشق به شهریار، چشمانم را از مردم این زمان بستم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چشم بربستم ز خلقِ روزگار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چشم از آن بگرفته‌ام زیر کلاه",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: چشمم را زیر کلاه پنهان کرده‌ام تا بتوانم به پای مقام و موقعیت پادشاه برسم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا رسد پایم به دست پادشاه",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در ادب خود را بسی پرورده‌ام",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من در هنر و ادب خود را به خوبی تربیت کرده‌ام، مانند افرادی که با تمرین و سختی به رشد و تکامل دست یافته‌اند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "همچو مرتاضان ریاضت کرده‌ام",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "تا اگر روزی بر شاهم برند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر روزی مرا به خدمت شاه ببرند، باید از آداب و رسوم آن آگاه باشم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از رسوم خدمت آگاهم برند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "من کجا سیمرغ را بینم به خواب؟",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: من چگونه می‌توانم سیمرغ را در خواب ببینم و بی‌فایده به دنبال او بروم؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چون کنم بیهوده سوی او شتاب؟",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "زُقه‌ای از دست شاهم بس بوَد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: یک ضربه یا صدمه از سوی شاه برای من کافی است و همین اندازه در این دنیا برای من کافی است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "در جهان این پایگاهم بس بوَد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "چون ندارم رهروی را پایگاه",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی که من هیچ همراهی برای حمایت ندارم، پس به خاطر خودم، مقام بلندی برای خودم ایجاد می‌کنم و به درگاه شاه افتخار می‌کنم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "سرفرازی می‌کنم بر دست شاه",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "من اگر شایستهٔ سلطان شوم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر به مقام و سلطنت برسم، بهتر است که در راهی بی‌پایان و بی‌نهایت قرار بگیرم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "به که در وادی بی‌پایان شوم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "روی آن دارم که من بر روی شاه",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: من می‌خواهم خوشی و شادی‌ام را در کنار بزرگی، مثل شاه عمر، تجربه کنم."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "عمر بگذارم خوشی این جایگاه",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "گاه شه را انتظاری می‌کنم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: گاهی منتظر او هستم، گاهی در آرزویش به جستجو می‌روم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "گاه در شوقش شکاری می‌کنم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "هدهدش گفت: ای به صورت مانده باز!",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: پرنده هدهد به او گفت: ای کسی که همواره از ویژگی‌های خود دور افتاده‌ای و شگفتی‌های ظاهرت، تو را به یاد نیاورده است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "از صفت دور و به صورت مانده باز",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "شاه را در مُلک اگر همتا بود",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اگر در سرزمین پادشاهی همتایی برای شاه وجود داشته باشد، چگونه می‌تواند سلطنت او زیبا و دلنشین باشد؟"
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "پادشاهی کی بر او زیبا بود؟",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "سلطنت را نیست چون سیمرغ کس",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: سلطنت مانند سیمرغ هیچ کس دیگری ندارد، زیرا او تنها و بی‌همتاست و تنها خودش شایسته‌ی پادشاهی است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "زآنک بی‌همتا به شاهی اوست و بس",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "شاه نبود آنک در هر کشوری",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: شاهی که در هر سرزمینی تنها به خاطر نادانی‌اش سردمداری می‌کند، در حقیقت شاه واقعی نیست."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "سازد او از خود ز بی‌مغزی سری",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "شاه آن باشد که همتا نبوَدش",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: شاه واقعی کسی است که جز وفاداری و نرمخویی، چیزی شایسته‌اش نیست و هیچ کسی نمی‌تواند همتای او باشد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "جز وفا و جز مدارا نبوَدش",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "شاه دنیا گر وفاداری کند",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: اگر پادشاه دنیا به وفاداری و صداقت رفتار کند، در نهایت ممکن است دوباره به دردسر و مشکل بیفتد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "یک زمان دیگر گرفتاری کند",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "هرک باشد پیش او نزدیک‌تر",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در نزد او نزدیک‌تر باشد، کارش به یقین تیره‌تر و دشوارتر خواهد بود."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "کار او بی‌شک بود تاریک‌تر",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "دائماً از شاه باشد بر حذر",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: همواره باید از شاه دوری جست، زیرا جان او همیشه در خطر است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "جان او پیوسته باشد پُر خطر",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "شاه دنیا فی‌المثل چون آتش است",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: پادشاه جهان مانند آتش است، از او دوری کن، زیرا فاصله گرفتن از او بهتر و خوشایندتر است."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "دور باش از وی که دوری زو خوش است",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "زآن بوَد، در پیش شاهان دور باش",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: از دوری با پادشاهان آگاه باش، زیرا نزدیکی به آن‌ها ممکن است عواقب ناخوشایندی به همراه داشته باشد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "کای شده نزدیک شاهان! دور باش",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    }
+  ]
+}

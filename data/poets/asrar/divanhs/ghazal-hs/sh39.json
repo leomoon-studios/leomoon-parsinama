@@ -1,0 +1,255 @@
+{
+  "Id": 84724,
+  "CatId": 2211,
+  "Title": "شمارهٔ ۳۹",
+  "FullTitle": "حکیم سبزواری » دیوان اشعار » غزلیات » شمارهٔ ۳۹",
+  "FullUrl": "/asrar/divanhs/ghazal-hs/sh39",
+  "RhymeLetters": "تاوست",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف وجود خداوند و ویژگی‌های آدمی می‌پردازد. خانه دل انسان، محل خلوت و ارتباط او با خداست و آدم به عنوان نماینده و آینه خداوند معرفی می‌شود. آدمی که معرفت کسب کند، شایسته مقام خلافت الهی است. خداوند ذات ندارد ولی صفاتی دارد که بیان‌گر اوست. همه چیز به اراده اوست و هر کجایی در کائنات حاصل مشیت و اراده اوست. در نهایت، محبت و عشق به خداوند اصل همه محبت‌هاست و همه موجودات در نیاز به او هستند. همت و تلاش حقیقی از سوی خداوند الهام می‌گیرد و درک حقایق به واسطه ارتباط با او میسر می‌شود.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ست",
+      "PlainText": "گردی از آن رهگذرم آرزوست\r\nافسر شاهی بسرم آرزو ست\r\nترک به تارک به میان عقد فقر\r\nشاهم و تاج و کمرم آرزوست\r\nبا چمن و خلد ندارم سری\r\nخفتن آن خاک درم آرزوست\r\nچند بمانم پس این نه حجاب\r\nسیر فضای دگرم آرزوست\r\nذوق پر افشانی با غم نماند\r\nتیر ز شصتت به پرم آرزوست\r\nجام می ناب نخواهم دگر\r\nخوردن خون جگرم آرزوست\r\nعشق نگیرد مگر از درد زیب\r\nسینه پر از شررم آرزوست\r\nبلکه به بیند بتو این چشم تار\r\nگرد تو کحل بصرم آرزوست\r\nبو که رسد بوت بدل سینه را\r\nچاک زدن هر سحرم آرزوست\r\nطوطی جان تا که شکرخا شود\r\nحرفی از آن لب شکرم آرزوست\r\nچند سبا هدهد باد صبا\r\nخود ز سلیمان خبرم آرزوست\r\nتا بکیم تفرقه یعقوب وار\r\nبوی قمیص پسرم آرزوست\r\nگرچه چو عیسی پدری نیستم\r\nوصل حقیقی پدرم آرزوست\r\nمعتکف هستی خود بودمی\r\nچند شد از خود سفرم آرزوست\r\nآرزو اسرار همه حاجتست\r\nرفتن این خود ز برم آرزو است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردی از آن رهگذرم آرزوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافسر شاهی بسرم آرزو ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترک به تارک به میان عقد فقر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاهم و تاج و کمرم آرزوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا چمن و خلد ندارم سری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخفتن آن خاک درم آرزوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچند بمانم پس این نه حجاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیر فضای دگرم آرزوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذوق پر افشانی با غم نماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیر ز شصتت به پرم آرزوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجام می ناب نخواهم دگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوردن خون جگرم آرزوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق نگیرد مگر از درد زیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسینه پر از شررم آرزوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلکه به بیند بتو این چشم تار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد تو کحل بصرم آرزوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبو که رسد بوت بدل سینه را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچاک زدن هر سحرم آرزوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطوطی جان تا که شکرخا شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرفی از آن لب شکرم آرزوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچند سبا هدهد باد صبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود ز سلیمان خبرم آرزوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بکیم تفرقه یعقوب وار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوی قمیص پسرم آرزوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه چو عیسی پدری نیستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوصل حقیقی پدرم آرزوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعتکف هستی خود بودمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند شد از خود سفرم آرزوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآرزو اسرار همه حاجتست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفتن این خود ز برم آرزو است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 15
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گردی از آن رهگذرم آرزوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آنجایی که به عنوان یک رهگذر در زندگی هستم، آرزو دارم که توفیقات بزرگ و مقام‌های بلند نصیبم شود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افسر شاهی بسرم آرزو ست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ترک به تارک به میان عقد فقر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، شاعر از مقام و ثروت سخن می‌گوید و از زندگی ساده و فقر خود احساس نارضایتی دارد. او آرزو دارد که به جایی برسد که بتواند با تاج و کمر، یعنی نشانه‌های قدرت و ثروت، در کنار زندگی‌اش قرار گیرد. به طور کلی، شاعر به تضاد بین فقر و آرزوی زندگی شکوهمند اشاره کرده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاهم و تاج و کمرم آرزوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با چمن و خلد ندارم سری",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به باغ و بهشت هیچ علاقه‌ای ندارم؛ فقط آرزویم این است که در آن خاکی که آرام می‌گیرم، باشم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خفتن آن خاک درم آرزوست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چند بمانم پس این نه حجاب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چند وقت دیگر باید در این دنیا بمانم؟ زیرا این حجاب مانع درک فضای دیگری است که آرزویش را دارم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سیر فضای دگرم آرزوست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ذوق پر افشانی با غم نماند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود شادی و سرور، دیگر جایی برای غم نمانده است. آرزوی من این است که به نهایت آرزوهایم برسم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تیر ز شصتت به پرم آرزوست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "جام می ناب نخواهم دگر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمی‌خواهم دیگر شراب خالص بنوشم، بلکه آرزویم این است که خون جگرم را بخورم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خوردن خون جگرم آرزوست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "عشق نگیرد مگر از درد زیب",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق واقعی فقط از رنج و درد به وجود می‌آید، و دل پر از شرم و آرزو در این مسیر نقش مهمی دارد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "سینه پر از شررم آرزوست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "بلکه به بیند بتو این چشم تار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به زیبایی و جذابیت چشمان معشوق اشاره دارد. گویا شاعر آرزو دارد که چشمانش با دیدن معشوق روشن و زیبا شود، و به نوعی بیانگر اشتیاق و longing او نسبت به دیدار معشوق است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "گرد تو کحل بصرم آرزوست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بو که رسد بوت بدل سینه را",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که بویی از تو در فضا بپیچد، دل آدم دچار درد و دردسر می‌شود و هر صبح به یاد تو آرزویی براین دل دارد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "چاک زدن هر سحرم آرزوست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "طوطی جان تا که شکرخا شود",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای طوطی، جانم، تا زمانی که شیرینی کلامت جاری شود، آرزو دارم که حرفی از آن لب‌های شیرین بگویی."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "حرفی از آن لب شکرم آرزوست",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "چند سبا هدهد باد صبا",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چند بار باید با نسیم صبحگاهی به هدهد بگویم که از سلیمان خبری بیاورد که در دل من آرزوست."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "خود ز سلیمان خبرم آرزوست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "تا بکیم تفرقه یعقوب وار",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به نوعی بیانگر آرزو و longing است. گوینده از جدایی و تفرقه‌ای مشابه به آنچه که در داستان یعقوب و پسرش یوسف وجود دارد، سخن می‌گوید. او آرزوی این را دارد که رایحه و یادگار پسرش، که می‌تواند نمادی از پیوند عاطفی و عشق باشد، آغوشش را پر کند و او را دوباره به وصال برساند. به عبارتی، این جمله احساس عمیق دلتنگی و longing برای بازگشت به یک رابطه نزدیک و معنوی را منتقل می‌کند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "بوی قمیص پسرم آرزوست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "گرچه چو عیسی پدری نیستم",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند من مانند عیسی پدر ندارم، اما آرزو دارم که به حقیقت به پدرم وصل شوم."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "وصل حقیقی پدرم آرزوست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "معتکف هستی خود بودمی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در گوشه‌ای نشسته‌ام و به خودم مشغول هستم. فقط چندی از خودم دور شده‌ام و آرزو دارم که به درون خودم سفر کنم."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "چند شد از خود سفرم آرزوست",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "آرزو اسرار همه حاجتست",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آرزوها رازهای تمام خواسته‌ها هستند و اینکه بخواهم از اینجا بروم، خود یک آرزوست."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "رفتن این خود ز برم آرزو است",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    }
+  ]
+}

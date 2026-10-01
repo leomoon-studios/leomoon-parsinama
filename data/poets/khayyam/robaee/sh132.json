@@ -1,0 +1,60 @@
+{
+  "Id": 1250,
+  "CatId": 31,
+  "Title": "رباعی شمارهٔ ۱۳۲",
+  "FullTitle": "خیام » رباعیات » رباعی شمارهٔ ۱۳۲",
+  "FullUrl": "/khayyam/robaee/sh132",
+  "RhymeLetters": "ننتوانم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات بیان می‌کند که نمی‌تواند بدون شراب زندگی کند و نمی‌تواند تحمل کند که در می‌خانه باشد و باده‌ای نداشته باشد. او خود را وابسته به لحظه‌ای می‌داند که ساقی از او می‌خواهد یک جام دیگر بگیرد، و در این لحظه احساس ناچیزی دارد که نمی‌تواند بدون آن زندگی کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ننتوانم",
+      "PlainText": "من بی می ناب زیستن نتوانم\r\nبی باده کشید بار تن نتوانم\r\nمن بنده آن دمم که ساقی گوید\r\nیک جام دگر بگیر و من نتوانم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بی می ناب زیستن نتوانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی باده کشید بار تن نتوانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بنده آن دمم که ساقی گوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک جام دگر بگیر و من نتوانم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "من بی می ناب زیستن نتوانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "من نمی‌توانم بدون نوشیدن شراب خالص زندگی کنم و همچنین تحمل زندگی دنیا که همانند باری برای من طاقت فرسا است ، بدون می و شراب برای من مقدور نخواهد بود ."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بی باده کشید بار تن نتوانم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من بنده آن دمم که ساقی گوید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": ": من تحت تأثیر لحظه‌ای هستم که ساقی می‌گوید یک لیوان دیگر بگیر و من توانایی و ظرفیت یک جام دیگر را آن را نداشته باشم. یعنی دیگه پر پرم ، ظرفیت و جایی برای یک جام دیگر نیست"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یک جام دگر بگیر و من نتوانم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

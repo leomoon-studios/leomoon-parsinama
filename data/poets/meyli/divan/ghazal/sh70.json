@@ -1,0 +1,100 @@
+{
+  "Id": 136165,
+  "CatId": 3087,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "میلی » دیوان اشعار » غزلیات » شمارهٔ ۷۰",
+  "FullUrl": "/meyli/divan/ghazal/sh70",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به موضوع تنهایی و عدم ارتباط واقعی بین انسان‌ها پرداخته است. شاعر می‌گوید که هیچ همدمی برای او وجود ندارد و رابطه‌ای بین انسان و پری وجود ندارد. او از دل خود می‌خواهد که با غم و اندوهش سرگرم باشد، زیرا در شراب عشق، خوشی و بی‌غم بودن یافت نمی‌شود. همچنین اشاره دارد که نمی‌توان به کسی در درد و رنج خود اعتماد کرد و زیبایی‌های زودگذر زندگی مانند گل‌ها، شادی و خرمی را از دست می‌دهند. در کل، شعر به تفکرات عمیق و احساساتی از درد، تنهایی و ناپایداری زیبایی‌های زندگی می‌پردازد.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مینیست",
+      "PlainText": "ترا با کس هوای همدمی نیست\r\nپری را الفتی با آدمی نیست\r\nدلا سرگرم باش از ساغر غم\r\nکه مستی در شراب بی غمی نیست\r\nمگر اعجاز دارد ساغر عشق\r\nکه از دریا کشان می را کمی نیست\r\nمگو ای دل غم خود با خیالش\r\nکه بر کس اعتماد محرمی نیست\r\nگلی کز تربت میلی زند سر\r\nدرو چون غنچه دل خرمی نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترا با کس هوای همدمی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپری را الفتی با آدمی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلا سرگرم باش از ساغر غم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مستی در شراب بی‌غمی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر اعجاز دارد ساغر عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از دریا‌کشان می را کمی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگو ای دل غم خود با خیالش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر کس اعتماد محرمی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلی کز تربت میلی زند سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرو چون غنچه دل، خرمی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ترا با کس هوای همدمی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو هیچ تمایلی به همصحبتی با دیگران نداری، همان‌طور که پری‌ها هیچ نزدیکی‌ای به انسان‌ها ندارند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پری را الفتی با آدمی نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلا سرگرم باش از ساغر غم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، غم را کنار بگذار و به شادمانی مشغول شو؛ چرا که در شرابی که با غم همراه است، هیچ نشئه‌ای نخواهی یافت."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که مستی در شراب بی‌غمی نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مگر اعجاز دارد ساغر عشق",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا ممکن است ساغر عشق چنین قدرتی داشته باشد که از بین راندن دریاها، حتی مقدار کمی شراب نیز پیدا نشود؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که از دریا‌کشان می را کمی نیست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "مگو ای دل غم خود با خیالش",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگو دل غم و اندوهت را با خیال خودت، زیرا که به کسی نمی‌توان اعتماد کرد و هیچ‌کس یار و هم‌راز نیست."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که بر کس اعتماد محرمی نیست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گلی کز تربت میلی زند سر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گلی که از خاک و مکان خود رشد می‌کند و سر بیرون می‌آورد، چون دل غنچه‌ای که هنوز باز نشده، دیگر خوشحال و شاداب نیست."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "درو چون غنچه دل، خرمی نیست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    }
+  ]
+}

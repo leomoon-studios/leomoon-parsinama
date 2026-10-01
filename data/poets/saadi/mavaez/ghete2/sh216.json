@@ -1,0 +1,105 @@
+{
+  "Id": 28263,
+  "CatId": 139,
+  "Title": "شمارهٔ ۲۱۶",
+  "FullTitle": "سعدی » مواعظ » قطعات » شمارهٔ ۲۱۶",
+  "FullUrl": "/saadi/mavaez/ghete2/sh216",
+  "RhymeLetters": "می",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به بررسی تأثیر سکوت و تفکر در زندگی می‌پردازد. او می‌گوید در خاموشی و فکر، ویژگی‌های خاصی یافت نمی‌شود. همچنین اشاره می‌کند که هر مرحله‌ای از زندگی به نوعی خاص نیاز دارد؛ برای مثال، در مقاطعی باید به علم و بحث بپردازیم و در زمان‌های دیگر می‌توانیم به شعر و بازی‌هایی مثل شطرنج سرگرم شویم تا از دل‌زدگی رها شویم. در پایان، به ذات خداوند اشاره می‌کند که همواره ثابت و بی‌نظیر است و هیچگاه دچار تغییر نمی‌شود.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الی",
+      "PlainText": "نظر کردم به چشم رای و تدبیر\r\nندیدم به ز خاموشی خصالی\r\nنگویم لب ببند و دیده بردوز\r\nولیکن هر مقامی را مقالی\r\nزمانی درس علم و بحث تنزیل\r\nکه باشد نفس انسان را کمالی\r\nزمانی شعر و شطرنج و حکایت\r\nکه خاطر را بود دفع ملالی\r\nخدای است آن که ذات بی نظیرش\r\nنگردد هرگز از حالی به حالی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظر کردم به چشم رای و تدبیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندیدم بِه زِ خاموشی، خِصالی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگویم لَب ببند و دیده بَردوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولیکن، هر مقامی را مَقالی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزمانی، درسِ عِلم و بحثِ تَنزیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه باشد نَفْسِ انسان را کمالی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزمانی، شعر و شطرنج و حکایت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خاطر را بُوَد دَفعِ مَلالی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدای است آن‌که ذاتِ بی‌نظیرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگردد هرگز از حالی به حالی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نظر کردم به چشم رای و تدبیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظرم رسید که وقتی به چشم فکر و تدبیر نگاه می‌کنم، نمی‌توانم چیز بهتری از سکوت و آرامش پیدا کنم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ندیدم بِه زِ خاموشی، خِصالی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نگویم لَب ببند و دیده بَردوز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمی‌گویم که دهانت را ببند و چشمانت را ببند، اما هر موقعیتی نیاز به گفتاری مناسب دارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ولیکن، هر مقامی را مَقالی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زمانی، درسِ عِلم و بحثِ تَنزیل",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی بود که علم و تعلیم معانی آسمانی به انسان کمال و ارتقاء می‌بخشید."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که باشد نَفْسِ انسان را کمالی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "زمانی، شعر و شطرنج و حکایت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دوره‌ای، شعر و شطرنج و داستان‌ها وجود داشتند که می‌توانستند احساس ناراحتی و کسالت را از ذهن دور کنند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که خاطر را بُوَد دَفعِ مَلالی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خدای است آن‌که ذاتِ بی‌نظیرش",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوندی وجود دارد که ویژگی‌های منحصر به فردش هرگز دچار تغییر و تحول نمی‌شود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نگردد هرگز از حالی به حالی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    }
+  ]
+}

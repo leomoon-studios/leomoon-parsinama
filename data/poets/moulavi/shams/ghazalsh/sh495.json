@@ -1,0 +1,120 @@
+{
+  "Id": 3119,
+  "CatId": 99,
+  "Title": "غزل شمارهٔ ۴۹۵",
+  "FullTitle": "مولانا » دیوان شمس » غزلیات » غزل شمارهٔ ۴۹۵",
+  "FullUrl": "/moulavi/shams/ghazalsh/sh495",
+  "RhymeLetters": "نگنیست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به موضوع صلح و جنگ می‌پردازد و بیان می‌کند که اگر طرف مقابل تمایلی به صلح ندارد، خود او هم جنگ نمی‌خواهد. او به این نکته اشاره می‌کند که در دنیا هم جنگ و هم صلح وجود دارد و این دو مقوله جدا از یکدیگر نیستند. شاعر همچنین تأکید می‌کند که آب و آتش نیز برادر یکدیگرند و هر دو از یک اصل خارج نشده‌اند. در نهایت، شاعر به عقل خود اشاره می‌کند که به او می‌گوید در برابر خودخواهی‌ها و ننگ‌ها باید سکوت کند، زیرا در نهایت این فخر نیست.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگنیست",
+      "PlainText": "اگر مر تو را صلح آهنگ نیست\r\nمرا با تو ای جان سر جنگ نیست\r\nتو در جنگ آیی روم من به صلح\r\nخدای جهان را جهان تنگ نیست\r\nجهانیست جنگ و جهانیست صلح\r\nجهان معانی به فرسنگ نیست\r\nهم آب و هم آتش برادر بدند\r\nببین اصل هر دو به جز سنگ نیست\r\nکه بی این دو عالم ندارد نظام\r\nاگر روم خوبست بی زنگ نیست\r\nمرا عقل صد بار پیغام داد\r\nخمش کن که فخرست آن ننگ نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر مر تو را صلح آهنگ نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا با تو ای جان سر جنگ نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو در جنگ آیی روم من به صلح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخدای جهان را جهان تنگ نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهانیست جنگ و جهانیست صلح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان معانی به فرسنگ نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم آب و هم آتش برادر بدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eببین اصل هر دو به جز سنگ نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه بی این دو عالم ندارد نظام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر روم خوبست بی‌زنگ نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا عقل صد بار پیغام داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخمش کن که فخرست آن ننگ نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر مر تو را صلح آهنگ نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو به صلح و آرامش تمایل نداری، من هم با تو جنگ و خصومت ندارم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرا با تو ای جان سر جنگ نیست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو در جنگ آیی روم من به صلح",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی تو به جنگ می‌آیی، من با صلح و آرامش به زندگی ادامه می‌دهم، زیرا این دنیا برای ما هر دو کافی است و برای هیچ‌یک از ما تنگ نیست."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خدای جهان را جهان تنگ نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جهانیست جنگ و جهانیست صلح",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا مملو از جنگ و صلح است و معانی و مفاهیم در آن از مرزها و فاصله‌ها فراتر می‌روند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "جهان معانی به فرسنگ نیست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هم آب و هم آتش برادر بدند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب و آتش هر دو به نوعی خواصی مشابه دارند و در نهایت هر دو به چیزی غیر از خودشان برمی‌گردند که همان سنگ است. در واقع، همه چیز در دنیای طبیعی به یک اصل ابتدایی و مشترک مرتبط است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ببین اصل هر دو به جز سنگ نیست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "که بی این دو عالم ندارد نظام",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدون وجود این دو جهان، هیچ گونه ترتیبی وجود ندارد. اگر بروم، خوب است و بی‌صداست."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اگر روم خوبست بی‌زنگ نیست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "مرا عقل صد بار پیغام داد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل بارها به من گفت که ساکت باش و حرفی نزن، زیرا خاموشی در برابر فخر و جهل، ننگی ندارد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خمش کن که فخرست آن ننگ نیست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    }
+  ]
+}

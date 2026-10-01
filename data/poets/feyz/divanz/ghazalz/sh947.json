@@ -1,0 +1,150 @@
+{
+  "Id": 38310,
+  "CatId": 1127,
+  "Title": "غزل شمارهٔ ۹۴۷",
+  "FullTitle": "فیض کاشانی » دیوان اشعار » غزلیات » غزل شمارهٔ ۹۴۷",
+  "FullUrl": "/feyz/divanz/ghazalz/sh947",
+  "RhymeLetters": "ایی",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساسات عاشقانه و longing (دلتنگی) اشاره دارد. شاعر از معشوق می‌خواهد که به او نزدیک شود و از جدایی پرهیز کند. او در توصیف حس بی‌کسی و دل‌خستگی‌اش، خواهان دیدار و همدلی بیشتر با معشوق است. شاعر احساس می‌کند که تنها راه نزدیک شدن به معشوق از درگاه گدایی است و به این بهانه درخواست عشق و محبت می‌کند. در نهایت، او از زیبایی و لطافت معشوق صحبت می‌کند که می‌تواند دل او را شاد کند و به او فیض ببخشد.",
+  "Metre": {
+    "Id": 5,
+    "Rhythm": "فعلات فاعلاتن فعلات فاعلاتن (رمل مثمن مشکول)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایی",
+      "PlainText": "چه شود اگر درآیی به طریق آشنایی\r\nز طریق آشنایی چه شود اگر درآیی\r\nبر بی کسی بیایی دل خسته ای بجویی\r\nدل خسته ای بجویی بر بی کسی بیایی\r\nنروی ره جدایی سپری طریق الفت\r\nسپری طریق الفت نروی ره جدایی\r\nبر عاشقان بیایی غم خستگان بداری\r\nغم خستگان بداری بر عاشقان بیایی\r\nبه جز از در گدایی بر تو رهی ندارم\r\nبر تو رهی ندارم به جز از در گدایی\r\nبه بهانه گدایی به در سرایت آیم\r\nبه در سرایت آیم به بهانه گدایی\r\nبه نوای بینوایی غزلی مگر سرایم\r\nغزلی مگر سرایم به نوای بینوایی\r\nچو تو زلف می گشایی دل فیض می گشاید\r\nدل فیض می گشاید چو تو زلف می گشایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه شود اگر درآیی به طریق آشنایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز طریق آشنایی چه شود اگر درآیی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر بی‌کسی بیایی دل خسته‌ای بجویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل خسته‌ای بجویی بر بی‌کسی بیایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنروی ره جدایی سپری طریق الفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسپری طریق الفت نروی ره جدایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر عاشقان بیایی غم خستگان بداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغم خستگان بداری بر عاشقان بیایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه جز از در گدایی بر تو رهی ندارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر تو رهی ندارم به جز از در گدایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بهانهٔ گدایی به در سرایت آیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه در سرایت آیم به بهانهٔ گدایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نوای بینوایی غزلی مگر سرایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغزلی مگر سرایم به نوای بینوایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو تو زلف می‌گشایی دل فیض می‌گشاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل فیض می‌گشاید چو تو زلف می‌گشایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چه شود اگر درآیی به طریق آشنایی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه می‌شود اگر به شکل آشنایی وارد شوی؟ از طریق آشنایی چه تأثیری خواهد داشت اگر به این راه بیایی؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز طریق آشنایی چه شود اگر درآیی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر بی‌کسی بیایی دل خسته‌ای بجویی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در تنهایی و کلافگی به سر می‌بری، پس باید سعی کنی دلی هم‌دل و هم‌زبان را پیدا کنی تا آرامش پیدا کنی. در غم و اندوه خودت نباید تنها بمانی و باید با کسی همدردی کنی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دل خسته‌ای بجویی بر بی‌کسی بیایی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نروی ره جدایی سپری طریق الفت",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به معنای این است که نباید به مسیر جدایی بروی، بلکه باید در راه دوستی و محبت باقی بمانی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سپری طریق الفت نروی ره جدایی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر عاشقان بیایی غم خستگان بداری",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به سوی عاشقان بیایی، غم و اندوه خستگان را برطرف خواهی کرد و دل‌های آن‌ها را شاد می‌کنی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "غم خستگان بداری بر عاشقان بیایی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به جز از در گدایی بر تو رهی ندارم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من جز از درِ گدایی تو هیچ راهی به سوی تو ندارم و هیچ امکان دیگری برای رسیدن به تو ندارم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بر تو رهی ندارم به جز از در گدایی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "به بهانهٔ گدایی به در سرایت آیم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهانه‌ای برای درخواست کمک و گدایی از تو می‌آورم، و به در خانه‌ات می‌آیم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "به در سرایت آیم به بهانهٔ گدایی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "به نوای بینوایی غزلی مگر سرایم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا فقط به خاطر درد و رنج بی‌نوایی، شعری بسرایم؟ آیا فقط به همین خاطر می‌توانم شعری خلق کنم؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "غزلی مگر سرایم به نوای بینوایی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "چو تو زلف می‌گشایی دل فیض می‌گشاید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که تو موهای خود را باز می‌کنی، دل قابل استفاده و پر از لطف و نعمت می‌شود. این دل حیات و شادی می‌یابد و بار دیگر با زیبایی تو روشن و شاداب می‌گردد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "دل فیض می‌گشاید چو تو زلف می‌گشایی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ]
+}

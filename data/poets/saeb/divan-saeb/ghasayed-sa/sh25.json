@@ -1,0 +1,1080 @@
+{
+  "Id": 59286,
+  "CatId": 1856,
+  "Title": "شمارهٔ ۲۵ - در تهنیت جلوس مجدد شاه صفی بر تخت با نام شاه سلیمان",
+  "FullTitle": "صائب » دیوان اشعار » قصاید » شمارهٔ ۲۵ - در تهنیت جلوس مجدد شاه صفی بر تخت با نام شاه سلیمان",
+  "FullUrl": "/saeb/divan-saeb/ghasayed-sa/sh25",
+  "RhymeLetters": "ان",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره خوشحالی و شادابی دوباره مردم ایران به خاطر جلوس شاه سلیمان است. غزل به وصف قدرت و بخت بلند او می‌پردازد که بر مسند سلطنت نشسته و به عنوان سلطان فرمانروایان شناخته می‌شود. در این دوران، جهان به نظم و آرامش دست یافته و همه موجودات از جن و انس تا پرندگان و وحوش تحت فرمان او هستند. سلطنت سلیمان به مانند خورشیدی درخشان است که به زمین نور می‌بخشد و انبوهی از خیر و برکت به همراه دارد. \n\nدر این زمان، دل‌ها از غم و ناراحتی رهایی می‌یابند و به خاطر حسن نیت شاه، عدالت در جامعه برقرار می‌شود. همچنین، طبیعت به جمالی دلربا و پر از سبز و شکوفه تبدیل می‌شود و باران رحمت خداوند بر سرزمین نازل می‌گردد. به طور کلی، شعر به پیام‌های خوشبختی، رهایی، و عدالت در دوران سلطنت سلیمان اشاره دارد و برای این دوران عید و فصلی شاداب را تهنیت می‌گوید.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "دگربار از جلوس شاه دوران\r\nدو چندان شد نشاط اهل ایران\r\nنشست از نو خدیو هفت اقلیم\r\nمربع بر سریر چار ارکان\r\nز روزافزونی اقبال و دولت\r\nصفی الله شد سلطان سلیمان\r\nبه دولت تکیه زد بر مسند جم\r\nسلیمان خاتم فرمانروایان\r\nمزاج اشرف از گرداندن نام\r\nبرآمد ز انحراف از لطف یزدان\r\nز تخت سلطنت شد عالم افروز\r\nچو از بیت الشرف خورشید تابان\r\nدگربار اختر صاحبقرانی\r\nشد از پیشانی دولت فروزان\r\nسلیمان وار خواهد راند ازین نام\r\nبه جن و انس و وحش و طیر فرمان\r\nز جشن نامی صاحبقران شد\r\nسراپای فلک یک چشم حیران\r\nسر منبر رسید از خطبه بر عرش\r\nرخ زر شد ز نقش سکه خندان\r\nسر تسلیم را یکسر نهادند\r\nهمه گردنکشان بر خط فرمان\r\nز تاج زرنگار تاجداران\r\nجهان شد باغ زرین سلیمان\r\nچو صحن آسمان شد پر ستاره\r\nزمین از سجده زرین کلاهان\r\nز شکرخنده صبح طرب شد\r\nبساط آفرینش شکرستان\r\nزمین شد صفحه مسطر کشیده\r\nرسید از بس به هر جا مد احسان\r\nنگین نقش مرادی را که می خواست\r\nبه دست آورد در دور سلیمان\r\nپریشانی ز دلها رخت بربست\r\nز جمعیت شد این سی پاره قرآن\r\nچنان محکوم فرمانش جهان شد\r\nکه نافرمان نمی روید ز بستان\r\nازین جان جهان آفاق جان یافت\r\nاگر شد زنده خضر از آب حیوان\r\nز شادی استخوان در پیکر خلق\r\nبه زیر پوست شد چون پسته خندان\r\nنریزد گوهر از تار گسسته\r\nز بس شد منتظم اوضاع دوران\r\nز نور رای او در دیده ها شد\r\nچراغ روز خورشید درخشان\r\nجواهر سرمه اهل نظر شد\r\nز فیض مقدمش خاک صفاهان\r\nز خیراندیشی او گشت از بیم\r\nشرارت چون شرر در سنگ پنهان\r\nز امنیت به چشم پاسبانان\r\nرگ خواب فراغت گشت مژگان\r\nبود تیغ کج او دال بر فتح\r\nشود چون ماه نو هر جا نمایان\r\nکند کار جهان را راست چون تیر\r\nبرآید چون کمان او ز قربان\r\nدهد سد سکندر کوچه چون نیل\r\nچو آید توسن عزمش به جولان\r\nچو نخل موم از خورشید گردد\r\nز برق تیغ او رومی گریزان\r\nسپاه روسیاه هند گردد\r\nچو بز از عطسه تیغش گریزان\r\nز تیغ کج کند همچون کجک محو\r\nسیه مستی ز مغز زنده فیلان\r\nز برق تیغ عالمسوز او لعل\r\nشود خون در جگرگاه بدخشان\r\nبود دست ولایت پشتبانش\r\nنگردد خصم ازو چون روی گردان\r\nرساند جوهر تیغش نسب را\r\nبه صلب ذوالفقار شاه مردان\r\nاگر بر کوه آهن حمله آرد\r\nشود چون قطره سیماب لرزان\r\nبه هر فوجی که رو آرد به اقبال\r\nشود چون ابر از صرصر پریشان\r\nندارد شهسواری همچو او یاد\r\nز شاهان جهان این سبز میدان\r\nگذارد از شکوهش سینه بر خاک\r\nگر آرد رخش رستم در ته ران\r\nبه شیران شکاری برق تیغش\r\nکند انگشت زنهاری نیستان\r\nشود چون ابر از سرعت فلک سیر\r\nکند بر کوه اگر اجرای فرمان\r\nشود جاری ز امرش چشمه از سنگ\r\nز نهیش شیر برگردد به پستان\r\nبه دور حفظ او بتوان گذر کرد\r\nبه بال کاغذین از آتش آسان\r\nچو سبابه ز انگشتان دیگر\r\nسرافراز لوای اوست ایمان\r\nز امثال و ز اقران است ممتاز\r\nچو بسم الله از آیات قرآن\r\nگشاد جبهه از خلقش دلیل است\r\nکه باشد کعبه در ناف بیابان\r\nز عریانی بود در حشر ایمن\r\nبه جرم هر که پوشانید دامان\r\nصدا از کوه حلمش برنگردد\r\nشود سیل بهاران گر خروشان\r\nگران گردد ز گوهر دامن خاک\r\nسبک سازد چو دست گوهرافشان\r\nگذارد بحر پشت دست بر خاک\r\nبه پیش ابر احسانش ز مرجان\r\nدهد گر حاصل دریا به سایل\r\nهمان از شرم گردد گوهرافشان\r\nنهان شد جغد چون گنج از نظرها\r\nشد از عدلش ز بس آباد ویران\r\nبه این درگاه از آغاز دولت\r\nنمودند التجا پیوسته شاهان\r\nبه عزم اقتباس نور دولت\r\nبه این دولتسرا آمد ندرخان\r\nهمایون از اجاق جد او کرد\r\nچراغ دولت خود را فروزان\r\nبه این درگاه بابر التجا کرد\r\nچو عاجز شد ز جنگ اهل توران\r\nبه غیر از شاه ایران نیست شاهی\r\nخدیو تاج بخش از شهریاران\r\nبه محراب اجابت می کند پشت\r\nازین در هر که گردد روی گردان\r\nازین عید جلوس تازه گردید\r\nهمه روی زمین یک روی خندان\r\nشب و روز جهان در دلگشایی\r\nبه میزان عدالت گشت یکسان\r\nز حسن عهد این شاه جوان بخت\r\nجوانی را ز سر بگرفت دوران\r\nنشاط این زمان بهجت افزا\r\nبه جوش آورد خون نوبهاران\r\nبه روی خلق از ابر گهربار\r\nگشود ابواب رحمت لطف یزدان\r\nبه شان خاک نازل گشت از ابر\r\nهزاران آیه رحمت ز باران\r\nزمین از سبزه شد تخت زمرد\r\nز لاله کوه شد کان بدخشان\r\nبه آب گوهر از دلها فرو شست\r\nغبار کلفت و غم ابر نیسان\r\nشد از گلهای الوان بیضه خاک\r\nبه زیر شهپر طاوس پنهان\r\nزبان شکر جای سبزه روید\r\nدرین فصل بهار از باغ و بستان\r\nمبارکباد شد یکسر درین فصل\r\nسرود عندلیبان گلستان\r\nالهی تا به گرد مرکز خاک\r\nبود پرگار نه افلاک گردان\r\nفلک ها بر مراد او کند دور\r\nچو انگشتر به فرمان سلیمان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگربار از جلوس شاه دوران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو چندان شد نشاط اهل ایران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشست از نو خدیو هفت اقلیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمربع بر سریر چار ارکان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز روزافزونی اقبال و دولت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصفی الله، شد سلطان سلیمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دولت تکیه زد بر مسند جم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسلیمان خاتم فرمانروایان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزاج اشرف از گرداندن نام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآمد ز انحراف از لطف یزدان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز تخت سلطنت شد عالم افروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو از بیت الشرف خورشید تابان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگربار اختر صاحبقرانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد از پیشانی دولت فروزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسلیمان وار خواهد راند ازین نام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جن و انس و وحش و طیر فرمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز جشن نامی صاحبقران، شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسراپای فلک یک چشم حیران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر منبر رسید از خطبه بر عرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرخ زر شد ز نقش سکه خندان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر تسلیم را یکسر نهادند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه گردنکشان بر خط فرمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز تاج زرنگار تاجداران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان شد باغ زرین سلیمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو صحن آسمان شد پر ستاره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزمین از سجده زرین کلاهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز شکرخنده صبح طرب شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبساط آفرینش شکرستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزمین شد صفحه مسطر کشیده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرسید از بس به هر جا مد احسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگین نقش مرادی را که می خواست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دست آورد در دور سلیمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپریشانی ز دلها رخت بربست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز جمعیت شد این سی پاره قرآن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان محکوم فرمانش جهان شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نافرمان نمی روید ز بستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازین جان جهان آفاق جان یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر شد زنده خضر از آب حیوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز شادی استخوان در پیکر خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه زیر پوست شد چون پسته خندان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنریزد گوهر از تار گسسته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بس شد منتظم اوضاع دوران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز نور رای او در دیده ها شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچراغ روز، خورشید درخشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجواهر سرمه اهل نظر شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز فیض مقدمش خاک صفاهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز خیراندیشی او گشت از بیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرارت چون شرر در سنگ پنهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز امنیت به چشم پاسبانان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرگ خواب فراغت گشت مژگان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود تیغ کج او دال بر فتح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشود چون ماه نو هر جا نمایان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکند کار جهان را راست چون تیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآید چون کمان او ز قربان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدهد سد سکندر کوچه چون نیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو آید توسن عزمش به جولان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو نخل موم از خورشید گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز برق تیغ او رومی گریزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپاه روسیاه هند گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بز از عطسه تیغش گریزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز تیغ کج کند همچون کجک محو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیه مستی ز مغز زنده فیلان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز برق تیغ عالمسوز او لعل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشود خون در جگرگاه بدخشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود دست ولایت پشتبانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگردد خصم ازو چون روی گردان؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرساند جوهر تیغش نسب را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه صلب ذوالفقار شاه مردان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر بر کوه آهن حمله آرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشود چون قطره سیماب لرزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر فوجی که رو آرد به اقبال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشود چون ابر از صرصر پریشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندارد شهسواری همچو او یاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز شاهان جهان این سبز میدان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگذارد از شکوهش سینه بر خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر آرد رخش رستم در ته ران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه شیران شکاری برق تیغش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکند انگشت زنهاری نیستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشود چون ابر از سرعت فلک سیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکند بر کوه اگر اجرای فرمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشود جاری ز امرش چشمه از سنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز نهیش شیر برگردد به پستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دور حفظ او بتوان گذر کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه بال کاغذین از آتش آسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو سبابه ز انگشتان دیگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرافراز لوای اوست ایمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز امثال و ز اقران است ممتاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بسم الله از آیات قرآن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگشاد جبهه از خلقش دلیل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه باشد کعبه در ناف بیابان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز عریانی بود در حشر ایمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جرم هر که پوشانید دامان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصدا از کوه حلمش برنگردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشود سیل بهاران گر خروشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگران گردد ز گوهر دامن خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسبک سازد چو دست گوهرافشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگذارد بحر پشت دست بر خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه پیش ابر احسانش ز مرجان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدهد گر حاصل دریا به سایل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمان از شرم گردد گوهرافشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنهان شد جغد چون گنج از نظرها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد از عدلش ز بس آباد ویران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه این درگاه از آغاز دولت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنمودند التجا پیوسته شاهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه عزم اقتباس نور دولت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه این دولتسرا آمد ندرخان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمایون از اجاق جد او کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچراغ دولت خود را فروزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه این درگاه بابر التجا کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو عاجز شد ز جنگ اهل توران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه غیر از شاه ایران نیست شاهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخدیو تاج بخش از شهریاران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه محراب اجابت می کند پشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازین در هر که گردد روی گردان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازین عید جلوس تازه گردید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه روی زمین یک روی خندان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب و روز جهان در دلگشایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه میزان عدالت گشت یکسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز حسن عهد این شاه جوان بخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجوانی را ز سر بگرفت دوران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn61\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشاط این زمان بهجت افزا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جوش آورد خون نوبهاران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn62\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه روی خلق از ابر گهربار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشود ابواب رحمت لطف یزدان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn63\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه شان خاک، نازل گشت از ابر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزاران آیه رحمت ز باران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn64\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزمین از سبزه شد تخت زمرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز لاله کوه شد کان بدخشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn65\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آب گوهر از دلها فرو شست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغبار کلفت و غم ابر نیسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn66\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد از گلهای الوان بیضه خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه زیر شهپر طاوس پنهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn67\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبان شکر جای سبزه روید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرین فصل بهار از باغ و بستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn68\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمبارکباد شد یکسر درین فصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرود عندلیبان گلستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn69\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالهی تا به گرد مرکز خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود پرگار نه افلاک، گردان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn70\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلک ها بر مراد او کند دور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو انگشتر به فرمان سلیمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 70
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دگربار از جلوس شاه دوران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بار دیگر با حضور پادشاه زمان، شادابی و نشاط مردم ایران دوچندان شد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دو چندان شد نشاط اهل ایران",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نشست از نو خدیو هفت اقلیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حاکم بار دیگر بر تخت سلطنت نشست و بر چهار پایه قدرت استوار شد و بر تمامی سرزمین‌ها فرمانروایی کرد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مربع بر سریر چار ارکان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز روزافزونی اقبال و دولت",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دلیل افزایش شانس و خوشی در زندگی صفی الله، او به مقام سلطنت سلیمان رسید."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صفی الله، شد سلطان سلیمان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به دولت تکیه زد بر مسند جم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با اتکا به قدرت و ثروت، بر تخت سلطنت سلیمان نشسته و بر بقیه فرمانروایان برتری یافته است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سلیمان خاتم فرمانروایان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مزاج اشرف از گرداندن نام",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مزاج اشرف به دلیل به هم خوردن و تغییر در نام و از انحرافی که از رحمت خداوند ناشی شده، دستخوش تغییر شده است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "برآمد ز انحراف از لطف یزدان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ز تخت سلطنت شد عالم افروز",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان به روشنایی و شکوهی دست یافت، مانند زمانی که خورشید در جایگاه بلند و با ارزش خود طلوع می‌کند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چو از بیت الشرف خورشید تابان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دگربار اختر صاحبقرانی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ستاره‌ای دیگر از شانس و اقبال عالی، بر سر راهی روشن و پرفروغ جوانه زد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "شد از پیشانی دولت فروزان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "سلیمان وار خواهد راند ازین نام",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به مانند سلیمان، قدرت و فرمانروایی او به جن، انسان، وحش و پرندگان گسترش خواهد یافت."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "به جن و انس و وحش و طیر فرمان",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ز جشن نامی صاحبقران، شد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از جشن بزرگ و باشکوه یک شخصیت برجسته، تمام آسمان به حالت شگفت‌زده‌ای درآمد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "سراپای فلک یک چشم حیران",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "سر منبر رسید از خطبه بر عرش",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هنگام سخنرانی، چهره زیبا و درخشان او همچون سکه‌ای خندان بر فراز عرش قرار گرفت."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "رخ زر شد ز نقش سکه خندان",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "سر تسلیم را یکسر نهادند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه بلندپایگان با کمال اطاعت و تسلیم، سر به زمین نهادند و خود را در برابر دستور فرمان پذیرفتند."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "همه گردنکشان بر خط فرمان",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "ز تاج زرنگار تاجداران",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از تاج‌های زیبا و گرانبها، باغی زرین مانند باغ سلیمان در جهان به وجود آمده است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "جهان شد باغ زرین سلیمان",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "چو صحن آسمان شد پر ستاره",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی آسمان پر از ستاره می‌شود، زمین مانند سرهایی که به خاطر سجده‌هایشان از طلا پوشیده شده‌اند، می‌درخشد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "زمین از سجده زرین کلاهان",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "ز شکرخنده صبح طرب شد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لبخند شیرین صبح باعث شادی و نشاط آفرینش و زیبایی جهان شده است."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "بساط آفرینش شکرستان",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "زمین شد صفحه مسطر کشیده",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمین به مانند صفحه‌ای نوشته شده، پر از خیر و نیکی شده است، چرا که از بس به هر سو فیض و احسان رسیده است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "رسید از بس به هر جا مد احسان",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "نگین نقش مرادی را که می خواست",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نقش نگینی که مرادش بود را در زمان سلیمان جستجو می‌کرد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "به دست آورد در دور سلیمان",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "پریشانی ز دلها رخت بربست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل‌ها شاد و آرام شده‌اند و دیگر از پریشانی خبری نیست، این سی پاره قرآن نیز از میان ما رفته است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "ز جمعیت شد این سی پاره قرآن",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "چنان محکوم فرمانش جهان شد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به طور کلی، دنیا به قدری تحت تأثیر دستورات او قرار گرفته است که هیچ کس حاضر نیست از مسیر مشخص شده خارج شود و در نتیجه، هیچ نافرمانی در این بستان وجود ندارد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "که نافرمان نمی روید ز بستان",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "ازین جان جهان آفاق جان یافت",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دنیا و همه چیزهایش از جان و زندگی پر شده‌اند. اگر خضر از آب حیات زنده شد، به خاطر این است که جان در همه جا وجود دارد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "اگر شد زنده خضر از آب حیوان",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "ز شادی استخوان در پیکر خلق",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خوشی و شادی، استخوان‌های افراد در زیر پوستشان به حالت شاداب و پر از زندگی مانند دانه‌های پسته که درون پوست خندان جا دارند، تغییر کرده است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "به زیر پوست شد چون پسته خندان",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "نریزد گوهر از تار گسسته",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با توجه به مشکلاتی که در زندگی و دوران وجود دارد، هرگز نباید اجازه دهیم ارزش‌ها و زیبایی‌ها از بین بروند و گسسته شوند. باید همواره سعی کنیم که اوضاع را هماهنگ و منظم نگه داریم."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "ز بس شد منتظم اوضاع دوران",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "ز نور رای او در دیده ها شد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نور اندیشه او باعث روشنایی چشمانمان شد، مانند خورشید درخشان که روز را روشن می‌کند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "چراغ روز، خورشید درخشان",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "جواهر سرمه اهل نظر شد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جواهر و زیبایی‌های گرانبها، در نتیجه فیض و نعمت وجود او، از خاک صفاهان به عنوان یک مرکز علم و ادب به‌دست آمده است."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "ز فیض مقدمش خاک صفاهان",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "ز خیراندیشی او گشت از بیم",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از اوضاع خوب او و تدبیرش، به خاطر ترس از بدی‌ها، مانند آتش که در سنگ پنهان است، خطرهایی در پس ظاهر آرام وجود دارد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "شرارت چون شرر در سنگ پنهان",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "ز امنیت به چشم پاسبانان",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر احساس امنیت، چشمان پاسبانان به خواب رفته و حالا احساس آرامش بیشتری دارم."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "رگ خواب فراغت گشت مژگان",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "بود تیغ کج او دال بر فتح",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تیغ کج او نشانی بر پیروزی است، مانند ماه نو که هر جا که نمایان شود، روشنایی می‌بخشد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "شود چون ماه نو هر جا نمایان",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "کند کار جهان را راست چون تیر",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کارهای دنیا درست و به سرانجام می‌رسد، همچنان‌که تیر از کمان بیرون می‌آید و به هدف می‌رسد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "برآید چون کمان او ز قربان",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "دهد سد سکندر کوچه چون نیل",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که اراده و عزم قوی همچون اسب آماده به حرکت است، مانند نیل که در دل کوچه ها جاری می‌شود، سد سکندر نیز از پیش رویش کنار می‌رود."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "چو آید توسن عزمش به جولان",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "چو نخل موم از خورشید گردد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چنان که درخت نخل نرم و انعطاف‌پذیر می‌شود، وقتی که تابش خورشید آن را داغ کند، امان از تند و تیز بودن شمشیر او، که باعث فرار رومی‌ها می‌شود."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "ز برق تیغ او رومی گریزان",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "سپاه روسیاه هند گردد",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سپاه روسیاه به هند بیفتند، مانند بزی که از عطسه‌ای می‌هراسد، از تیغ او فرار می‌کنند."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "چو بز از عطسه تیغش گریزان",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "ز تیغ کج کند همچون کجک محو",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا شاعر به حالتی اشاره دارد که در آن انسان‌ها در اثر اقتدار یا فشار، دچار تفرقه و انحراف می‌شوند. او تصویر می‌کند که مانند فیل‌هایی که تحت تأثیر عواملی قرار گرفته‌اند، به سمت ناکجا می‌روند و از واقعیت دور می‌شوند. در واقع، این بیت به نوعی از ناپایداری و تاثیرات منفی در زندگی اشاره دارد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "سیه مستی ز مغز زنده فیلان",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "ز برق تیغ عالمسوز او لعل",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از روشنی و درخشندگی تیغ کشنده او، خون در قلب بدخشان مانند لعل (سنگ قیمتی) می‌شود."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "شود خون در جگرگاه بدخشان",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "بود دست ولایت پشتبانش",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دستِ حمایت و سرپرستی در کنار اوست؛ پس دشمنان نمی‌توانند از او خالی شوند و به او حمله کنند."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "نگردد خصم ازو چون روی گردان؟",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "رساند جوهر تیغش نسب را",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تیغ او اصل و نسبش را به صلب ذوالفقار شاهان مردان می‌رساند."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "به صلب ذوالفقار شاه مردان",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "اگر بر کوه آهن حمله آرد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به کوه آهن حمله کند، نتیجه‌اش همچون قطره ای از جیوه خواهد بود که در حال لرزیدن است."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "شود چون قطره سیماب لرزان",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "به هر فوجی که رو آرد به اقبال",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر گروهی که به سوی موفقیت و خوشبختی حرکت کند، مانند ابری که از بادهای سرد و طوفانی پریشان می‌شود، دچار آشفتگی و بی‌ثباتی خواهد شد."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "شود چون ابر از صرصر پریشان",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "ندارد شهسواری همچو او یاد",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس مانند او در میدان سبز، یاد و نامی از شاهان دیگر ندارد."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "ز شاهان جهان این سبز میدان",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "گذارد از شکوهش سینه بر خاک",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر رخش رستم به زمین بیفتد و سینه‌اش بر خاک بگذارد، این نشان از عظمت و شکوه اوست."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "گر آرد رخش رستم در ته ران",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "به شیران شکاری برق تیغش",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تیغ او به قدری برنده است که حتی شیران شکار هم از آن می‌ترسند و احساس خطر می‌کنند."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "کند انگشت زنهاری نیستان",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "شود چون ابر از سرعت فلک سیر",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به مانند ابر که به سرعت حرکت می‌کند، اگر شخصی بتواند با توجه به دستورات و قوانین زندگی، در مسیر خود پیش برود، می‌تواند بر مشکلات و موانع غلبه کند و بر قله‌های موفقیت دست یابد."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "کند بر کوه اگر اجرای فرمان",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "شود جاری ز امرش چشمه از سنگ",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دستور او چشمه‌ای از سنگ مانند جوی جاری می‌شود و به خاطر اندیشه‌اش، شیر به پستان بازمی‌گردد."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "ز نهیش شیر برگردد به پستان",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "به دور حفظ او بتوان گذر کرد",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با مراقبت و حفاظت از او، می‌توان به راحتی از آتش عبور کرد و این کار مانند پرواز با کاغذی سبک است."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "به بال کاغذین از آتش آسان",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "چو سبابه ز انگشتان دیگر",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چنان‌که انگشت اشاره بر دیگر انگشتان برتری دارد، پرچم او نشانه‌ای است از ایمان."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "سرافراز لوای اوست ایمان",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "ز امثال و ز اقران است ممتاز",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شخصی در میان هم‌نوعان و هم‌سالانش برتر و ممتاز است، مانند اینکه جمله \u0022بسم الله\u0022 در میان آیات قرآن اهمیت ویژه‌ای دارد."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "چو بسم الله از آیات قرآن",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "گشاد جبهه از خلقش دلیل است",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که اگر فردی از عشق و محبت به دیگران سخن بگوید و در گشاده‌رویی از خود نشان دهد، می‌تواند نماد یک مکان مقدس و ارزشمند باشد، حتی در دورافتاده‌ترین نقاط. به عبارت دیگر، فضیلت و صفای درونی انسان می‌تواند باعث گردد که او مانند یک کعبه، به عنوان نقطه‌ای پرجاذبه و محترم در دل بیابان‌ها شناخته شود."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "که باشد کعبه در ناف بیابان",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "ز عریانی بود در حشر ایمن",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز قیامت، کسی که به واسطه پوشاندن عیوب دیگران و پنهان کردن ناپسندهای آنها، از عریانی و رسوایی در امان باشد، سزاوار احترام و محبت است."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "به جرم هر که پوشانید دامان",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "صدا از کوه حلمش برنگردد",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر صدای خشم او از کوه برنگردد، مانند سیلاب بهاری طوفانی خواهد شد."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "شود سیل بهاران گر خروشان",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "گران گردد ز گوهر دامن خاک",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خاکی ارزشمند شود، مانند گوهری به دامن خود، باعث سبکی و راحتی دست کسی که گوهر افشانی می‌کند، می‌شود. در واقع، اگر چیزی ارزشمند باشد، بار آن بر دوش ما سبک‌تر می‌شود."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "سبک سازد چو دست گوهرافشان",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "گذارد بحر پشت دست بر خاک",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دریا دستش را بر زمین گذاشته و در برابر ابرهای بخشندگی‌اش، رنگ و زیبایی مانند مرجان به وجود آورده است."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "به پیش ابر احسانش ز مرجان",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "دهد گر حاصل دریا به سایل",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دریا به کسی چیزی بدهد، او از شرم و خجالت به گوهرفشانی خواهد پرداخت."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "همان از شرم گردد گوهرافشان",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "نهان شد جغد چون گنج از نظرها",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جغد به خاطر گنجی که در دل دارد، از دید پنهان می‌شود و به خاطر عدل و انصاف او، زمین‌ها به شدت آباد و در عین حال ویران می‌شوند."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "شد از عدلش ز بس آباد ویران",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "به این درگاه از آغاز دولت",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ابتدای حکومت، شاهان به این درگاه همیشه به درخواست و دعا روی آوردند."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "نمودند التجا پیوسته شاهان",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "به عزم اقتباس نور دولت",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با اراده‌ای قوی برای بهره‌مندی از روشنایی و قدرت حکومتی، به این کاخ آمده است."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "به این دولتسرا آمد ندرخان",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "همایون از اجاق جد او کرد",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همایون با روشن کردن آتش در اجاق نیاکانش، روشنی و شکوه زندگی خود را افزایش داد."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "چراغ دولت خود را فروزان",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "به این درگاه بابر التجا کرد",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این درگاه درخواست کمک کرد، هنگامی که از توان جنگ با اهل توران ناتوان شده بود."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "چو عاجز شد ز جنگ اهل توران",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "به غیر از شاه ایران نیست شاهی",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به جز پادشاه ایران، هیچ پادشاه دیگری نیست که بتواند تاج شایستگی را به شهریاران عطا کند."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "خدیو تاج بخش از شهریاران",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "به محراب اجابت می کند پشت",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از در محراب روی برگرداند، در نهایت به دعا و درخواست‌هایش پاسخ داده نخواهد شد."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "ازین در هر که گردد روی گردان",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "ازین عید جلوس تازه گردید",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این روز خوش، همه جای زمین پر از شادی و لبخند شده است."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "همه روی زمین یک روی خندان",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "شب و روز جهان در دلگشایی",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روز و شب، به اندازه عدالت، در خوشی و دلگرمی دنیا برابر شدند."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "به میزان عدالت گشت یکسان",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "ز حسن عهد این شاه جوان بخت",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر زیبایی و جوانی این شاه خوش اشرف، دوران جوانی به تازگی آغاز شده است."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "جوانی را ز سر بگرفت دوران",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "نشاط این زمان بهجت افزا",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شادی و نشاط این زمان باعث می‌شود تا حس و حال بهاری دوباره در وجود انسان زنده شود و خون این فصل تازه در رگ‌ها جاری گردد."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "به جوش آورد خون نوبهاران",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 123,
+      "Position": "Right",
+      "Text": "به روی خلق از ابر گهربار",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند در میانه آسمان، رحمت و لطف خود را بر خلق باز کرده است و این رحمت مانند بارانی از گوهر می‌بارد."
+    },
+    {
+      "VOrder": 124,
+      "Position": "Left",
+      "Text": "گشود ابواب رحمت لطف یزدان",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 125,
+      "Position": "Right",
+      "Text": "به شان خاک، نازل گشت از ابر",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آسمان باران زیادی نازل شد که حاکی از رحمت خداوند است و بر خاک و زمین ارزش و عظمت می‌بخشد."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Left",
+      "Text": "هزاران آیه رحمت ز باران",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 127,
+      "Position": "Right",
+      "Text": "زمین از سبزه شد تخت زمرد",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمین با سبزه‌ای سرسبز پوشیده شده و همچون تختی زیبا و گرانبهاست، در حالی که لاله‌ها بر کوه‌ها جلوه‌گری می‌کنند و کوه‌ها به مانند معادن بدخشان درخشندگی دارند."
+    },
+    {
+      "VOrder": 128,
+      "Position": "Left",
+      "Text": "ز لاله کوه شد کان بدخشان",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 129,
+      "Position": "Right",
+      "Text": "به آب گوهر از دلها فرو شست",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با آب گوهر، رنج‌ها و غم‌های سنگین دل‌ها را از میان بردیم و دل‌ها را پاک و شاداب کردیم."
+    },
+    {
+      "VOrder": 130,
+      "Position": "Left",
+      "Text": "غبار کلفت و غم ابر نیسان",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 131,
+      "Position": "Right",
+      "Text": "شد از گلهای الوان بیضه خاک",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از بستر گل‌های رنگارنگ، تخم‌مرغی در زیر پر طاووس نهفته است."
+    },
+    {
+      "VOrder": 132,
+      "Position": "Left",
+      "Text": "به زیر شهپر طاوس پنهان",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 133,
+      "Position": "Right",
+      "Text": "زبان شکر جای سبزه روید",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این فصل بهار، زبان شیرین و پرنقیض جایگزین سبزه و گل‌های باغ و بستان می‌شود. یعنی زیبایی و شیرینی کلام در این زمان به قدری زیباست که فضای سبز و گل‌ها را تحت‌الشعاع قرار می‌دهد."
+    },
+    {
+      "VOrder": 134,
+      "Position": "Left",
+      "Text": "درین فصل بهار از باغ و بستان",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 135,
+      "Position": "Right",
+      "Text": "مبارکباد شد یکسر درین فصل",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تبریک می‌گویم که در این فصل، آواز و سرود پرندگان خوش‌آوا، باغ را زینت بخشد."
+    },
+    {
+      "VOrder": 136,
+      "Position": "Left",
+      "Text": "سرود عندلیبان گلستان",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 137,
+      "Position": "Right",
+      "Text": "الهی تا به گرد مرکز خاک",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوندا، تا زمانی که پرگار به دور مرکز زمین بچرخد، در آسمان‌ها نیز بگشایید."
+    },
+    {
+      "VOrder": 138,
+      "Position": "Left",
+      "Text": "بود پرگار نه افلاک، گردان",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 139,
+      "Position": "Right",
+      "Text": "فلک ها بر مراد او کند دور",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان‌ها طبق خواسته او می‌چرخند، مثل اینکه انگشتری به فرمان سلیمان در دستش باشد."
+    },
+    {
+      "VOrder": 140,
+      "Position": "Left",
+      "Text": "چو انگشتر به فرمان سلیمان",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0
+    }
+  ]
+}

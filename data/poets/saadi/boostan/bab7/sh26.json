@@ -1,0 +1,569 @@
+{
+  "Id": 10394,
+  "CatId": 131,
+  "Title": "بخش ۲۶ - حکایت",
+  "FullTitle": "سعدی » بوستان » باب هفتم در عالم تربیت » بخش ۲۶ - حکایت",
+  "FullUrl": "/saadi/boostan/bab7/sh26",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این متن، راوی داستانی را از یک سفر نقل می‌کند. او شنیده که یک تاجر غلامی خریده است و در پی خرید سیب زیبایی می‌افتد که دل او را می‌رباید. داستان وضعیت‌های مختلف را توصیف می‌کند و اشاره‌ای به دل‌مشغولی‌ها و آرزوهای انسانی دارد. همچنین، در سفر به کوهستانی برمی‌خورد و از دوستش درباره نام قله سوال می‌کند، که او به تنگ‌تری از ترک‌ها اشاره می‌کند و به این ترتیب، نارضایتی و احساس دشمنی را ابراز می‌کند. بحث‌های فلسفی و اجتماعی نیز در بطن متن وجود دارد که به تفاوت‌های اجتماعی و مشکلات زندگی اشاره دارد. در نهایت، این متن به نوعی انتقاد از زندگی‌های سطحی و ریاکاری‌های اجتماعی است.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "در این شهر باری به سمعم رسید\r\nکه بازارگانی غلامی خرید\r\nشبانگه مگر دست بردش به سیب\r\nکه سیمین زنخ بود و خاطر فریب\r\nپریچهره هرچ اوفتادش به دست\r\nیکی در سر و مغز خواجه شکست\r\nنه هر جا که بینی خطی دل فریب\r\nتوانی طمع کردنش در کتیب\r\nگوا کرد بر خود خدای و رسول\r\nکه دیگر نگردم به گرد فضول\r\nرحیل آمدش هم در آن هفته پیش\r\nدل افگار و سر بسته و روی ریش\r\nچو بیرون شد از کازرون یک دو میل\r\nبه پیش آمدش سنگلاخی مهیل\r\nبپرسید کاین قله را نام چیست\r\nکه بسیار بیند عجب هر که زیست\r\nچنین گفتش از کاروان همدمی\r\nمگر تنگ ترکان ندانی همی\r\nبرنجید چون تنگ ترکان شنید\r\nتو گفتی که دیدار دشمن بدید\r\nسیه را یکی بانگ برداشت سخت\r\nکه دیگر مران خر بینداز رخت\r\nنه عقل است و نه معرفت یک جوم\r\nاگر من دگر تنگ ترکان روم\r\nدر شهوت نفس کافر ببند\r\nوگر عاشقی لت خور و سر ببند\r\nچو مر بنده ای را همی پروری\r\nبه هیبت بر آرش کز او برخوری\r\nوگر سیدش لب به دندان گزد\r\nدماغ خداوندگاری پزد\r\nغلام آبکش باید و خشت زن\r\nبود بنده نازنین مشت زن\r\nگروهی نشینند با خوش پسر\r\nکه ما پاکبازیم و صاحب نظر\r\nز من پرس فرسوده روزگار\r\nکه بر سفره حسرت خورد روزه دار\r\nاز آن تخم خرما خورد گوسپند\r\nکه قفل است بر تنگ خرما و بند\r\nسر گاو عصار از آن در که است\r\nکه از کنجدش ریسمان کوته است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر این شهر باری به سمعم رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بازارگانی غلامی خرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبانگه مگر دست بردش به سیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سیمین زنخ بود و خاطر فریب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپریچهره هرچ اوفتادش به دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی در سر و مغز خواجه شکست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه هر جا که بینی خطی دل فریب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتوانی طمع کردنش در کتیب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوا کرد بر خود خدای و رسول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دیگر نگردم به گرد فضول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرحیل آمدش هم در آن هفته پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل افگار و سر بسته و روی ریش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو بیرون شد از کازرون یک دو میل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه پیش آمدش سنگلاخی مهیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبپرسید کاین قله را نام چیست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بسیار بیند عجب هر که زیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین گفتش از کاروان همدمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر تنگ ترکان ندانی همی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرنجید چون تنگ ترکان شنید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو گفتی که دیدار دشمن بدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیه را یکی بانگ برداشت سخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دیگر مران خر بینداز رخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه عقل است و نه معرفت یک جوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر من دگر تنگ ترکان روم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر شهوت نفس کافر ببند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگر عاشقی لت خور و سر ببند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو مر بنده‌ای را همی پروری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هیبت بر آرش کز او برخوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر سیدش لب به دندان گزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدماغ خداوندگاری پزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغلام آبکش باید و خشت زن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود بندهٔ نازنین مشت زن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگروهی نشینند با خوش پسر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ما پاکبازیم و صاحب نظر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز من پرس فرسودهٔ روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر سفره حسرت خورد روزه‌دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن تخم خرما خورد گوسپند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه قفل است بر تنگ خرما و بند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر گاو عصار از آن در که است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از کنجدش ریسمان کوته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 20
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "در این شهر باری به سمعم رسید\r\nکه بازارگانی غلامی خرید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر این شهر باری به سمعم رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بازارگانی غلامی خرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یب",
+      "PlainText": "شبانگه مگر دست بردش به سیب\r\nکه سیمین زنخ بود و خاطر فریب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبانگه مگر دست بردش به سیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سیمین زنخ بود و خاطر فریب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ست",
+      "PlainText": "پریچهره هرچ اوفتادش به دست\r\nیکی در سر و مغز خواجه شکست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپریچهره هرچ اوفتادش به دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی در سر و مغز خواجه شکست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یب",
+      "PlainText": "نه هر جا که بینی خطی دل فریب\r\nتوانی طمع کردنش در کتیب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه هر جا که بینی خطی دل فریب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتوانی طمع کردنش در کتیب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ول",
+      "PlainText": "گوا کرد بر خود خدای و رسول\r\nکه دیگر نگردم به گرد فضول",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوا کرد بر خود خدای و رسول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دیگر نگردم به گرد فضول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یش",
+      "PlainText": "رحیل آمدش هم در آن هفته پیش\r\nدل افگار و سر بسته و روی ریش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرحیل آمدش هم در آن هفته پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل افگار و سر بسته و روی ریش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یل",
+      "PlainText": "چو بیرون شد از کازرون یک دو میل\r\nبه پیش آمدش سنگلاخی مهیل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو بیرون شد از کازرون یک دو میل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه پیش آمدش سنگلاخی مهیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یست",
+      "PlainText": "بپرسید کاین قله را نام چیست\r\nکه بسیار بیند عجب هر که زیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبپرسید کاین قله را نام چیست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بسیار بیند عجب هر که زیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "می",
+      "PlainText": "چنین گفتش از کاروان همدمی\r\nمگر تنگ ترکان ندانی همی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین گفتش از کاروان همدمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر تنگ ترکان ندانی همی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "برنجید چون تنگ ترکان شنید\r\nتو گفتی که دیدار دشمن بدید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرنجید چون تنگ ترکان شنید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو گفتی که دیدار دشمن بدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "خت",
+      "PlainText": "سیه را یکی بانگ برداشت سخت\r\nکه دیگر مران خر بینداز رخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیه را یکی بانگ برداشت سخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دیگر مران خر بینداز رخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وم",
+      "PlainText": "نه عقل است و نه معرفت یک جوم\r\nاگر من دگر تنگ ترکان روم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه عقل است و نه معرفت یک جوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر من دگر تنگ ترکان روم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رببند",
+      "PlainText": "در شهوت نفس کافر ببند\r\nوگر عاشقی لت خور و سر ببند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر شهوت نفس کافر ببند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگر عاشقی لت خور و سر ببند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وری",
+      "PlainText": "چو مر بنده ای را همی پروری\r\nبه هیبت بر آرش کز او برخوری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو مر بنده‌ای را همی پروری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هیبت بر آرش کز او برخوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "زد",
+      "PlainText": "وگر سیدش لب به دندان گزد\r\nدماغ خداوندگاری پزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر سیدش لب به دندان گزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدماغ خداوندگاری پزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "شتزن",
+      "PlainText": "غلام آبکش باید و خشت زن\r\nبود بنده نازنین مشت زن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغلام آبکش باید و خشت زن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود بندهٔ نازنین مشت زن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "گروهی نشینند با خوش پسر\r\nکه ما پاکبازیم و صاحب نظر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگروهی نشینند با خوش پسر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ما پاکبازیم و صاحب نظر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "ز من پرس فرسوده روزگار\r\nکه بر سفره حسرت خورد روزه دار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز من پرس فرسودهٔ روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر سفره حسرت خورد روزه‌دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "پند",
+      "PlainText": "از آن تخم خرما خورد گوسپند\r\nکه قفل است بر تنگ خرما و بند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن تخم خرما خورد گوسپند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه قفل است بر تنگ خرما و بند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "هاست",
+      "PlainText": "سر گاو عصار از آن در که است\r\nکه از کنجدش ریسمان کوته است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر گاو عصار از آن در که است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از کنجدش ریسمان کوته است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در این شهر باری به سمعم رسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در این شهر خبری به گوشم رسید که یک تاجر، یک برده را خرید."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که بازارگانی غلامی خرید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شبانگه مگر دست بردش به سیب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: شاید در شب او دست به سیب بزند که زنخدانش مانند نقره است و دل را به فریب می‌آورد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که سیمین زنخ بود و خاطر فریب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پریچهره هرچ اوفتادش به دست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: هرچه زیبای دلربا به دستش افتاد، به یک جلوه زیبا در دل و ذهن خواجه تاثیر گذاشت."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یکی در سر و مغز خواجه شکست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نه هر جا که بینی خطی دل فریب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: هر جا که خطی زیبا و دلنشین ببینی، نمی‌توانی به راحتی از آن انتظار داشته باشی که بتوانی آن را به دست آورده و به خودت جلب کنی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "توانی طمع کردنش در کتیب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گوا کرد بر خود خدای و رسول",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: خدا و پیامبر را شاهد می‌گیرم و تصمیم گرفته‌ام که دیگر به بی‌خود بودن و حرف‌های بی‌مزه توجه نکنم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که دیگر نگردم به گرد فضول",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "رحیل آمدش هم در آن هفته پیش",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: نزدیک شدن رحیل در آن هفته‌ای که دل پر از غم و اندوه و چهره‌ای غمگین داشت."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "دل افگار و سر بسته و روی ریش",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چو بیرون شد از کازرون یک دو میل",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: وقتی از کازرون بیرون رفت، کمی جلوتر به دشت سنگلاخی و ناهمواری رسید."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "به پیش آمدش سنگلاخی مهیل",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "بپرسید کاین قله را نام چیست؟",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: از کسی پرسیدند که این قله را چه نامیدند؟ زیرا هر کسی که زندگی کرده است، به شگفتی خواهد رسید."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "که بسیار بیند عجب هر که زیست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "چنین گفتش از کاروان همدمی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: او به یکی از همسفران گفت: آیا تو نمی‌دانی که در دل تنگ‌تر از ما ترک‌ها چه می‌گذرد؟"
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "مگر تنگ ترکان ندانی همی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "برنجید چون تنگ ترکان شنید",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: ناراحت نشوید که از شرق، خبرهایی ناخوشایند می‌رسد؛ شما فکر کردید که دیدن دشمن، بدی را به همراه دارد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "تو گفتی که دیدار دشمن بدید",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "سیه را یکی بانگ برداشت سخت",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: یکی از بی‌خودی‌ها با صدایی بلند به دیگران هشدار داد که دیگر به این سیاه‌پوشان نزدیک نشوید و آنها را ترک کنید."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "که دیگر مران خر بینداز رخت",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "نه عقل است و نه معرفت یک جوم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: نه خرد و دانشی دارم که توانا باشم و نه درکی عمیق. به همین خاطر اگر به قید و بند دیگری بروم، چاره‌ای جز تن دادن به آن ندارم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "اگر من دگر تنگ ترکان روم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "در شهوت نفس کافر ببند",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اگر در پی لذت و شهوت نفس هستی، خود را از محبت و ایمان دور کن. اما اگر عاشق هستی، با مشکلات و دردها کنار بیا و سر به زیر باش."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "وگر عاشقی لت خور و سر ببند",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "چو مر بنده‌ای را همی پروری",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی که برای شخصی به زیبایی و با عظمت خاصی تربیت می‌کنی، از او بهره‌وری کن."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "به هیبت بر آرش کز او برخوری",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "وگر سیدش لب به دندان گزد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به خاطر تحقیر و ناتوانی خود زبان به کنایه بگشاید، به زودی مقام و ارجمندی خداوند را بشناساند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "دماغ خداوندگاری پزد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "غلام آبکش باید و خشت زن",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: بخشیده شده به کارگرانی که مسئولیت حمل آب و همچنین کسانی که در ساخت و ساز با آجر کار می‌کنند، باید به احترام و محبت به شخصی که مهربان و عزیز است، خدمت کنند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "بود بندهٔ نازنین مشت زن",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "گروهی نشینند با خوش پسر",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "عده‌ای با پسران نابالغ و زیبا روی نشست و برخاست می‌کنند و چون ایشان را به سبب این امر ملامت کنند ایشان گویند ما انسانهایی هستبم که به درجه‌ای از معرفت رسیده‌ایم که مرادمان ازین همنشینی با شاهدان و امردان خوبرو هواهای نفسانی نیست ‌و ما از این تهمت بری هستیم( شاهد بازی)"
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "که ما پاکبازیم و صاحب نظر",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "ز من پرس فرسودهٔ روزگار",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "در این مورد (رجوع به معنی بیت بالا) از من که کارآزموده و جهان دیده هستم و عمر خویش را در فراز و نشیب روزگار گذرانده و این مطالب را دانسته (که این افراد نه از روی ادعای مشاهده جمال الهی که به سبب هواهای نفسانی است) که مثال این افراد مانند روزه‌داری است که بر سر سفره‌ای نشسته اما به سبب روزه‌داری نمی‌تواند از آن سفره طعامی بخورد و نصیبش حسرت است (یاد آور این مثال است که گربه دسترسی به گوست ندارد و الا از بوی آن شکایت نمی‌کرد)\u00A0"
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "که بر سفره حسرت خورد روزه‌دار",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "از آن تخم خرما خورد گوسپند",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "گوسفند از این جهت هسته خرما میخورد که بار خرما بسته‌بندی بسیار محکمی دارد و آن قفل و بسته است (و الا اگر به خرما دسترسی داشت که هسته آن را نمیخورد و این شاهد مثلی است برای بیت پیشین)"
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "که قفل است بر تنگ خرما و بند",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "سر گاو عصار از آن در که است",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "این بیت هم از نظر معنی دقیقاً مشابه بالایی است منتها با مثالی دیگر که گاوی که در عصاری کار می‌کند(جایی که از دانه‌های روغنی، روغن تهیه می‌کنند و قدیما گاو سنگی را که مانند آسیا برای این منظور استفاده می‌کنند را می‌چرخانده و برای آنکه بری غذا حواسش پرت نشود کیسه کاهی به گردنش می‌انداختند یا در مسیرش کاه که غذای اوست می‌ریختند تا برای غذا حواسش معطوف جای دیگری نشود و آن گاو نه آنکه نخواهد کنجد بخورد (آن محل معمولا برای گرفتن روغن از کنجد استفاده می‌شده) بلکه ریسمانی که در گردنش بسته شده مانع آن می‌شود وگرنه او دوست دارد که کنجد بخورد ولی آن طنابی که او را به آن بسته‌اند مانع می‌شود نه آنکه او نخواهد. \u00A0"
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "که از کنجدش ریسمان کوته است",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    }
+  ]
+}

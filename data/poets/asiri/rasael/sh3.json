@@ -1,0 +1,682 @@
+{
+  "Id": 89762,
+  "CatId": 2360,
+  "Title": "شرحی بر یک رباعی عرفانی‏",
+  "FullTitle": "اسیری لاهیجی » رسائل » شرحی بر یک رباعی عرفانی‏",
+  "FullUrl": "/asiri/rasael/sh3",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: متن فوق به بررسی معنای یک رباعی پرداخته و به تشویق سالکان طریقت برای عبور از موانع و رسیدن به مقام وحدت و حقیقت می‌پردازد. نویسنده به تأکید بر خلاصی از تعلقات جسمانی و روحانی به عنوان شرطی برای دست‌یابی به معرفت حقیقی اشاره می‌کند. او معتقد است که برای دستیابی به لذت واقعی و نزدیکی به حق، باید از ناخوشی‌های وجود عبور کرد و به فناء در خدا رسید. متن همچنین بیان می‌کند که اولیاء خدا و افراد کامل دارای مقاماتی هستند که درک آن برای عموم دشوار است و صحت و حقایق معنوی را نمی‌توان با علم ظاهری فهمید. در نهایت، نویسنده امیدوار است که افراد با تدبر و تلاش، بتوانند به حقیقت و معرفت عمیق دست یابند.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شبهدرای",
+      "PlainText": "از پنجه پنج و شش در شش به در آی\r\nوز کشمکش سپهر سرکش به در آی\r\nخواهی که چشمی ذوق خوشیهای عدم\r\nاز ناخوشی وجود خوش خوش به در آی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پنجهٔ پنج و شش در شش به در آی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز کشمکش سپهر سرکش به در آی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهی که چشمی ذوق خوشیهای عدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ناخوشی وجود خوش خوش به در آی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "گفت پیغمبر اعلی را کای علی\r\nشیر حقی پهلوانی پر دلی\r\nلیک بر شیری مکن هم اعتمید\r\nاندرآ در سایه نخل امید\r\nاندرآ در سایه آن کاملی\r\nکش نتاند برد از ره ناقلی  \r\nاز همه طاعات اینت بهتر است\r\nسبق یابی بر هر آن سابق که هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت پیغمبر اعلی را کای علی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشیر حقی پهلوانی پر دلی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک بر شیری مکن هم اعتمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندرآ در سایه نخل امید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندرآ در سایه آن کاملی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکش نتاند برد از ره ناقلی‌‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز همه طاعات اینت بهتر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسبق یابی بر هر آن سابق که هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مقیدجزمقیدبیننباشد",
+      "PlainText": "اگر مطلق شوی مطلق بینی\r\nمقید جز مقیدبین نباشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر مطلق شوی مطلق بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمقید جز مقیدبین نباشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ی",
+      "PlainText": "خواهی که چشمی ذوق خوشیهای عدم\r\nاز ناخوشی وجود خوش خوش به در آی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواهی که چشمی ذوق خوشیهای عدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ناخوشی وجود خوش خوش به در آی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لی",
+      "PlainText": "گفت پیغمبر اعلی را کای علی\r\nشیر حقی پهلوانی پر دلی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت پیغمبر اعلی را کای علی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشیر حقی پهلوانی پر دلی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مید",
+      "PlainText": "لیک بر شیری مکن هم اعتمید\r\nاندرآ در سایه نخل امید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک بر شیری مکن هم اعتمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندرآ در سایه نخل امید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "گر کلاه فقر خواهی سر ببر\r\nوز خود و جمله جهان یکسر ببر\r\nتا بود یک ذره از هستی به جا\r\nکفر باشد گر نهی در عشق پا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کلاه فقر خواهی سر ببر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز خود و جمله جهان یکسر ببر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بود یک ذره از هستی به جا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکفر باشد گر نهی در عشق پا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "این فقر حقیقی است الحق\r\nاینجاست سواد وجه مطلق\r\nطاووس تو پر بریزد اینجا\r\nسرچشمه کفر خیزد اینجا \r\nشمشیر فنا در این نیام است\r\nآن نور سیه در این مقام است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین فقر حقیقی است الحق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاینجاست سواد وجه مطلق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطاووس تو پر بریزد اینجا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرچشمه کفر خیزد اینجا‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمشیر فنا در این نیام است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن نور سیه در این مقام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لی",
+      "PlainText": "اندرآ در سایه آن کاملی\r\nکش نتاند برد از ره ناقلی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندرآ در سایه آن کاملی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکش نتاند برد از ره ناقلی‌‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ست",
+      "PlainText": "از همه طاعات اینت بهتر است\r\nسبق یابی بر هر آن سابق که هست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز همه طاعات اینت بهتر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسبق یابی بر هر آن سابق که هست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اتباید",
+      "PlainText": "فانی شو اگر بقات باید\r\nبگذر ز خود ار خدات باید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفانی شو اگر بقات باید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذر ز خود ار خدات باید‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "هیچ کس را تا نگردد او فنا\r\nنیست ره در بارگاه کبریا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهیچ کس را تا نگردد او فنا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست ره در بارگاه کبریا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ق",
+      "PlainText": "این فقر حقیقی است الحق\r\nاینجاست سواد وجه مطلق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین فقر حقیقی است الحق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاینجاست سواد وجه مطلق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یزداینجا",
+      "PlainText": "طاووس تو پر بریزد اینجا\r\nسرچشمه کفر خیزد اینجا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطاووس تو پر بریزد اینجا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرچشمه کفر خیزد اینجا‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "خود نداند خلق اسرار مرا\r\nژاژ می دارند گفتار مرا\r\nمن چو خورشیدم درون نور غرق\r\nمی نتانم کرد خویش از نور فرق\r\nای دریغا عرصه افهام خلق\r\nسخت تنگ آمد ندارد خلق حلق  \r\nگر نبودی خلق محجوب و کثیف\r\nور نبودی حلقها تنگ و ضعیف\r\nدر حقیقت داد معنا دادمی\r\nغیر از این منطق دری بگشادمی\r\nلیک لقمه باز آن صعوه نیست\r\nچاره اکنون آب و روغن کردنی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود نداند خلق اسرار مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eژاژ می‌دارند گفتار مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن چو خورشیدم درون نور غرق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌نتانم کرد خویش از نور فرق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دریغا عرصه افهام خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخت تنگ آمد ندارد خلق حلق‌‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نبودی خلق محجوب و کثیف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نبودی حلقها تنگ و ضعیف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حقیقت داد معنا دادمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغیر از این منطق دری بگشادمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک لقمه باز آن صعوه نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچاره اکنون آب و روغن کردنی است‌‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 6
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اماست",
+      "PlainText": "شمشیر فنا در این نیام است\r\nآن نور سیه در این مقام است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمشیر فنا در این نیام است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن نور سیه در این مقام است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ارمرا",
+      "PlainText": "خود نداند خلق اسرار مرا\r\nژاژ می دارند گفتار مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود نداند خلق اسرار مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eژاژ می‌دارند گفتار مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رق",
+      "PlainText": "من چو خورشیدم درون نور غرق\r\nمی نتانم کرد خویش از نور فرق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن چو خورشیدم درون نور غرق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌نتانم کرد خویش از نور فرق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لق",
+      "PlainText": "ای دریغا عرصه افهام خلق\r\nسخت تنگ آمد ندارد خلق حلق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دریغا عرصه افهام خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخت تنگ آمد ندارد خلق حلق‌‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یف",
+      "PlainText": "گر نبودی خلق محجوب و کثیف\r\nور نبودی حلقها تنگ و ضعیف",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نبودی خلق محجوب و کثیف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نبودی حلقها تنگ و ضعیف\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ادمی",
+      "PlainText": "در حقیقت داد معنا دادمی\r\nغیر از این منطق دری بگشادمی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حقیقت داد معنا دادمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغیر از این منطق دری بگشادمی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یست",
+      "PlainText": "لیک لقمه باز آن صعوه نیست\r\nچاره اکنون آب و روغن کردنی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک لقمه باز آن صعوه نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچاره اکنون آب و روغن کردنی است‌‌\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "بِسْمِ ٱللّٰهِ ٱلرَّحْمَنِ ٱلرَّحِیمِ",
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: با نام خداوند بخشنده مهربان "
+    },
+    {
+      "VOrder": 2,
+      "Position": "Paragraph",
+      "Text": "و به نستعین و علیه التوکل",
+      "CoupletIndex": 1,
+      "CoupletSummary": "هوش مصنوعی: به یاری خداوند و با اتکا به او اقدام می‌کنیم."
+    },
+    {
+      "VOrder": 3,
+      "Position": "Paragraph",
+      "Text": "حمد و سپاس و ثنای بی‌قیاس حضرت واجب الوجودی را که اعیان ممکنات را از عالم غیب و علم به نور تجلی شهودی، در عالم عین و شهادت منور گردانید؛ و صلوات بی‌غایت بر روان پاک راه بین راهنما باد، که سالکان مسالک طریقت و حقیقت را به ارشاد و رشد و هدایت، به اعلی مراتب وصول رسانید، علیه من الصلوه ازکیها، و من التحیات اصفیها.",
+      "CoupletIndex": 2,
+      "CoupletSummary": "هوش مصنوعی: ستایش و شکرگزاری بی‌پایان به خداوندی که موجودات ممکن را از عالم غیب به وجود آورد و با نور تجلی خود، عالم را روشن نمود. همچنین درود بی‌پایان بر ارواح پاک کسانی که در راه هدایت و رشد سالکان طریقت و حقیقت تلاش کردند و آنها را به بالاترین درجات کمال رساندند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Paragraph",
+      "Text": "اما بعد، سائل صاحب بصیرت مسعود سیرت از معنای این رباعی سوال فرموده بود که:",
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: اما بعد، شخصی با درک عمیق به نام مسعود سیرت از من درباره معنای این رباعی سوال کرده بود که:"
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "از پنجهٔ پنج و شش در شش به در آی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از چنگال مشکلات و سختی‌ها رها شو و از کشمکش‌های زندگی و سرنوشت پرخاشگر بیرون بیا."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وز کشمکش سپهر سرکش به در آی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خواهی که چشمی ذوق خوشیهای عدم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی از لذت‌های ناشی از نبودن دنیا بهره‌مند شوی، باید از ناخوشی‌های زندگی کنونی خارج شوی و به دنیای معنوی بپیوندی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از ناخوشی وجود خوش خوش به در آی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Paragraph",
+      "Text": "بدان ای عزیز که بر رای روشن اصحاب دانش هویدا و مبرهن است که تعلق روح انسانی بدین بدن خاکی به جهت کسب معرفت حقیقی است که: «وَمَا خَلَقْتُ الْجِنَّ وَالْإِنسَ إِلَّا لِیَعْبُدُونِ» ای: لیعرفون؛ و معرفت حقیقی کشفی به حصول موصول نمی‌گردد الا بعد از عروج از محابس تقیدات جسمانی و روحانی به اعلی مقامات اطلاقی، و این معنا به اتفاق کاملان میسر نمی‌گردد الا به ارشاد کامل عارف محقق، که طالب نیازمند را به طریق سلوک و مجاهده، به مقامات کشف و مشاهده تواند رسانید، که: «هم قوم لایشقی جلیسهم».",
+      "CoupletIndex": 6,
+      "CoupletSummary": "هوش مصنوعی: بدان که واضح است برای دانشمندان که اتصال روح انسان به این بدن مادی به منظور دستیابی به شناخت واقعی است. این شناخت واقعی تنها بعد از رهایی از محدودیت‌های جسمانی و روحانی و رسیدن به مراتب عالی ممکن می‌گردد. این هدف تنها با راهنمایی یک عارف کامل میسر است که می‌تواند افراد نیازمند را با سلوک و تلاش به درجات کشف و مشاهده هدایت کند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Right",
+      "Text": "گفت پیغمبر اعلی را کای علی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 1,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: پیامبر به علی گفت: ای شیر راستین، تو پهلوانی شجاع و دلیر هستی."
+    },
+    {
+      "VOrder": 11,
+      "Position": "Left",
+      "Text": "شیر حقی پهلوانی پر دلی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 1,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 12,
+      "Position": "Right",
+      "Text": "لیک بر شیری مکن هم اعتمید",
+      "CoupletIndex": 8,
+      "SectionIndex1": 1,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: اما بر شیر تکیه نکن؛ در سایه نخل امید وارد شو."
+    },
+    {
+      "VOrder": 13,
+      "Position": "Left",
+      "Text": "اندرآ در سایه نخل امید",
+      "CoupletIndex": 8,
+      "SectionIndex1": 1,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 14,
+      "Position": "Right",
+      "Text": "اندرآ در سایه آن کاملی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 1,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: به آن مکانی وارد شو که در آن فردی کامل و بی‌نقص وجود دارد، زیرا هیچ کسی نمی‌تواند از راه شخصی ناتوان و ناقص به آنجا برسد."
+    },
+    {
+      "VOrder": 15,
+      "Position": "Left",
+      "Text": "کش نتاند برد از ره ناقلی‌‌",
+      "CoupletIndex": 9,
+      "SectionIndex1": 1,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 16,
+      "Position": "Right",
+      "Text": "از همه طاعات اینت بهتر است",
+      "CoupletIndex": 10,
+      "SectionIndex1": 1,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: بهترین عمل‌ها این است که در فضیلت و خوبی‌ها از دیگران پیشی بگیری و بر آنها سبقت بگیری."
+    },
+    {
+      "VOrder": 17,
+      "Position": "Left",
+      "Text": "سبق یابی بر هر آن سابق که هست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 1,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 18,
+      "Position": "Paragraph",
+      "Text": "چون اطلاع بر مقدمات مذکور حاصل شد، باید دانست که معنای از «پنجه پنج و شش در شش به در آی» آن است که در تحریص و تشویق می‌نماید طالب عاشقان را که در طریق طلب به موانع راه وصول به مقام وحدت ممنوع مشو، و در این مقام محسوسات مقید مگرد و قدم به ارشاد کامل در راه حقیقت نهاده، اول خود را از پنجه پنج حس ظاهری که سامعه، باصره، شامه، ذائقه و لامسه است خلاص کن؛ چه هر یکی از اینها به حقیقت پایبند شهباز روح انسانی گشته، نمی‌گذارند که طیران به عالم علوی نماید. بعد از خلاصی از حواس پنجگانه، دگر باره خود را از خانه شش در شش جهات که عبارت از فوق و تحت و یمین و یسار و قدام و راست [می‌باشد] بیرون انداز و محبوس و مقید به خانه پرآفت جهات سته مشو. چون از جهات و مراتب عناصر درگذشتی، از کشمکش و ملایم و ناملایم و بدی و نیکی سپهر سرکش که هرگز رام و منقاد کس نمی‌گردد، عبور نموده، به در آی، و به خوشی و ناخوشی افلاک تسعه نیز که فی نفس الامر مفیض و مدبر عالم سفلی حواس و جهاتند گذشته، از عالم افلاک نیز که به قید تعین جسمانی مقیدند درگذر، که تقیید حاجب و ساتر اطلاق است.",
+      "CoupletIndex": 11,
+      "CoupletSummary": "هوش مصنوعی: با آگاهی از مباحث پیشین، باید فهمید که مفهوم جمله «پنجه پنج و شش در شش به در آی» این است که افراد عاشق و جویای حقیقت را ترغیب می‌کند تا از موانع رسیدن به مقام وحدت دوری کنند. در این مسیر، از وابستگی به حواس پنج‌گانه یعنی شنیدار، بینایی، بویایی، چشایی و لامسه رها شوند؛ زیرا این حواس به حقیقت محدود می‌شوند و اجازه نمی‌دهند روح انسانی به سیر در عالم اعلی بپردازد. سپس باید از محدودیت‌های شش جهتی که شامل بالا، پایین، راست، چپ، جلو و عقب می‌شود، آزاد شوند و خود را از قید این جهات که اغلب مشکلاتی را به دنبال دارند، رها کنند. با عبور از مرزهای عناصر و درگیری‌های مختلف، یعنی مشکلات خوب و بد در زندگی، باید به پیش رفت و از افلاک و محدودیت‌های جسمانی نیز عبور کنند، چرا که این محدودیت‌ها مانع از دستیابی به آزادی و گستردگی هستند."
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "اگر مطلق شوی مطلق بینی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر به حالت مطلق و آزاد برسید، مطلق را خواهید دید، اما اگر محدود نگاه کنید، تنها محدود را خواهید دید."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "مقید جز مقیدبین نباشد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 2
+    },
+    {
+      "VOrder": 21,
+      "Position": "Paragraph",
+      "Text": "چون سالک راه طریقت، از عالم جسمانی بر حسب فرموده بالکل عبور نموده، باز می‌فرماید:",
+      "CoupletIndex": 13,
+      "CoupletSummary": "هوش مصنوعی: چون سالک راه عرفان از جهان مادی گذر کرده و به مراحل بالاتری رسیده است، دوباره تاکید می‌کند که..."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Right",
+      "Text": "خواهی که چشمی ذوق خوشیهای عدم",
+      "CoupletIndex": 14,
+      "SectionIndex1": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی از لذت‌های ناشی از عدم و خلوص بهره‌مند شوی، باید از رنج‌ها و نارضایتی‌های زندگی مادی عبور کنی و به عالم معنوی وارد شوی."
+    },
+    {
+      "VOrder": 23,
+      "Position": "Left",
+      "Text": "از ناخوشی وجود خوش خوش به در آی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 3
+    },
+    {
+      "VOrder": 24,
+      "Position": "Paragraph",
+      "Text": "یعنی به حقیقت نه چنان است که هر که از عالم جسمانی گذشت، وصول حقیقی او را میسر گردد، بلکه باید بدانی که تا زمانی که تعین روحانی و علم و شعور نیز باقی است، از ذوق و لذت عموم که عبارت از فنا فی اللّٰه است، محرومی و مطلوب حقیقی که وصول تام است نداری.",
+      "CoupletIndex": 15,
+      "CoupletSummary": "هوش مصنوعی: این نوعی بیان می‌کند که صرف عبور از دنیای مادی به معنای رسیدن به حقیقت نیست. باید این را درک کنی که تا زمانی که ویژگی‌های روحانی و آگاهی وجود دارد، نمی‌توانی از لذت‌های عمیق و واقعی که همان فنا در خداست، بهره‌مند شوی و به هدف نهایی که شناخت کامل است، دست نیابی."
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "گر کلاه فقر خواهی سر ببر",
+      "CoupletIndex": 16,
+      "SectionIndex1": 4,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی فقر را از خود دور کنی، تمام تعلقات و وابستگی‌هایت را کنار بگذار و از هر آنچه در جهان هست دور شو."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "وز خود و جمله جهان یکسر ببر",
+      "CoupletIndex": 16,
+      "SectionIndex1": 4
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "تا بود یک ذره از هستی به جا",
+      "CoupletIndex": 17,
+      "SectionIndex1": 4,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که کمی از وجود شخصی باقی است، کفر (بی‌ایمانی) وجود خواهد داشت، اگر در عشق قدم بگذاری."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "کفر باشد گر نهی در عشق پا",
+      "CoupletIndex": 17,
+      "SectionIndex1": 4
+    },
+    {
+      "VOrder": 29,
+      "Position": "Paragraph",
+      "Text": "این است معنای «الفقر سواد الوجه فی الدارین».",
+      "CoupletIndex": 18,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که فقر، در دنیای آینده و دنیای حاضر به صورت ظاهری و واضح خود را نشان می‌دهد. به عبارت دیگر، فقر نه تنها در زندگی این‌جهانی بلکه در زندگی بعد از مرگ نیز تأثیر گذار است و بر زندگی فرد و وضعیت او در دو جهان تاثیر می‌گذارد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Right",
+      "Text": "این فقر حقیقی است الحق",
+      "CoupletIndex": 19,
+      "SectionIndex1": 5,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: این فقر واقعی است و حقیقتاً در همین جا وجود دارد. برتری و مقام واقعی در درون این فقر نهفته است."
+    },
+    {
+      "VOrder": 31,
+      "Position": "Left",
+      "Text": "اینجاست سواد وجه مطلق",
+      "CoupletIndex": 19,
+      "SectionIndex1": 5,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 32,
+      "Position": "Right",
+      "Text": "طاووس تو پر بریزد اینجا",
+      "CoupletIndex": 20,
+      "SectionIndex1": 5,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: پرهای طاووس تو در اینجا می‌ریزد و اینجا منبعی است که کفر و نفاق از آن جوش می‌خورد."
+    },
+    {
+      "VOrder": 33,
+      "Position": "Left",
+      "Text": "سرچشمه کفر خیزد اینجا‌",
+      "CoupletIndex": 20,
+      "SectionIndex1": 5,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 34,
+      "Position": "Right",
+      "Text": "شمشیر فنا در این نیام است",
+      "CoupletIndex": 21,
+      "SectionIndex1": 5,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره به این است که وجود فنا و نابودی همچون شمشیری است که در نیام قرار دارد، و آن نور تیره و تار در این وضعیت و مقام قابل مشاهده است. به تعبیر دیگر، هرچند فنا و نابودی در دسترس است و آماده ظهور، اما در عین حال، وجود یک نور تیره در این فضا وجود دارد که ممکن است نشان‌دهنده‌ی امید یا آگاهی باشد."
+    },
+    {
+      "VOrder": 35,
+      "Position": "Left",
+      "Text": "آن نور سیه در این مقام است",
+      "CoupletIndex": 21,
+      "SectionIndex1": 5,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 36,
+      "Position": "Paragraph",
+      "Text": "چون به حکم بیت‌ِ",
+      "CoupletIndex": 22,
+      "CoupletSummary": "هوش مصنوعی: به علت تصمیم یک بیت از شعر، شاعر به نوعی نگاه می‌کند که می‌تواند احساسات یا نظرات خاصی را انتقال دهد. این بیت به نوعی نشان‌دهنده وضعیت یا تفکر شاعر در آن زمان است و می‌تواند به خواننده اجازه دهد تا درک عمیق‌تری از احساسات و افکار پشت آن داشته باشد."
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "فانی شو اگر بقات باید",
+      "CoupletIndex": 23,
+      "SectionIndex1": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی به رسیدن و بقای ابدی نائل شوی، باید از خودگذشتگی کنی و از خودت بگذری، در غیر این صورت نمی‌توانی به خدا نزدیک شوی."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "بگذر ز خود ار خدات باید‌",
+      "CoupletIndex": 23,
+      "SectionIndex1": 6
+    },
+    {
+      "VOrder": 39,
+      "Position": "Paragraph",
+      "Text": "فنای جهت خلقیت، مستلزم بقای به حق است، و عروج به مراتب و مقامات تدریجی است، نه دفعی، می‌فرماید که اگر خواهی که لذت نیستی و وصول به عالم اطلاق و وحدت صرف بیابی، و به بقای حق متحقق کردی، به موجب بیت‌",
+      "CoupletIndex": 24,
+      "CoupletSummary": "هوش مصنوعی: فنا در جهت خلاقیت، نیازمند وجود حق است و صعود به مراحل و درجات به صورت تدریجی اتفاق می‌افتد، نه به صورت یکباره. گفته می‌شود که اگر می‌خواهی از لذت‌های مادی آزاد شوی و به عالم بی‌نهایت و وحدت واقعی دست یابی و به بقای حق برسید، باید این نکته را در نظر داشته باشی."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Right",
+      "Text": "هیچ کس را تا نگردد او فنا",
+      "CoupletIndex": 25,
+      "SectionIndex1": 7,
+      "CoupletSummary": "هوش مصنوعی: هیچ کسی تا زمانی که به فنا نرود، به پاداش و مقام بزرگ نزدیک نمی‌شود."
+    },
+    {
+      "VOrder": 41,
+      "Position": "Left",
+      "Text": "نیست ره در بارگاه کبریا",
+      "CoupletIndex": 25,
+      "SectionIndex1": 7
+    },
+    {
+      "VOrder": 42,
+      "Position": "Paragraph",
+      "Text": "باید که از ناخوشی و بی‌حضوری و تفرقه و کثرت وجود مجازی خود و غیر، و هستی و تعین که خیال و پنداری بیش نیست، خوش خوش یعنی به تدریج و آهستگی به در آیی و مقید به هیچ قید نگردی، خواه آفاقی و خواه جسمانی و خواه روحانی؛ چه تا زمانی که طالب وصال حقیقی، به مرتبه فنا و عدمیت اصلی ذاتی رجوع نمی‌نماید، از حضرت اطلاقی محجوب است، بلکه تا آثار علم و حیات که از صفات ذاتیه‌اند، با سالک باقی است، هنوز به حقیقت اطلاق نرسیده است. بباید به یقین دانست که اولیاء اللّٰه‌",
+      "CoupletIndex": 26,
+      "CoupletSummary": "هوش مصنوعی: باید از دردها، غیبت‌ها، پراکندگی‌ها و زندگی‌های مجازی خود و دیگران فاصله بگیری و به آرامی از این شرایط خارج شوی و هیچ‌گونه وابستگی نداشته باشی، چه به دنیای بیرون، چه به جسم و چه به روح. زیرا تا زمانی که کسی به دنبال رسیدن به حقیقت واقعی باشد و به مرحله فنا و عدمیت عمیق نرود، از ذات نامتناهی دور خواهد بود. حتی زمانی که آثار علم و حیات، که از ویژگی‌های ذات هستند، هنوز در مسافر (سالک) باقی باشد، او به حقیقت واقعی نرسیده است. باید به طور قطع بدانیم که اولیاء خدا..."
+    },
+    {
+      "VOrder": 43,
+      "Position": "Paragraph",
+      "Text": "و ارباب کمال را حالات و مقاماتی هست که فهم علمای صوری از ادراک آن قاصر است و اصلا راه بدان معنا نمی‌برند، بلکه منکرند.",
+      "CoupletIndex": 27,
+      "CoupletSummary": "هوش مصنوعی: افرادی که به کمال رسیده‌اند، وضعیت‌ها و مقاماتی دارند که علمای ظاهری قادر به درک آن نیستند و حتی به آن اعتقاد هم ندارند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Right",
+      "Text": "خود نداند خلق اسرار مرا",
+      "CoupletIndex": 28,
+      "SectionIndex1": 8,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: مردم از رازهایم بی‌خبرند و فقط به حرف‌های من اعتراض می‌کنند و به انتقاد می‌پردازند."
+    },
+    {
+      "VOrder": 45,
+      "Position": "Left",
+      "Text": "ژاژ می‌دارند گفتار مرا",
+      "CoupletIndex": 28,
+      "SectionIndex1": 8,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 46,
+      "Position": "Right",
+      "Text": "من چو خورشیدم درون نور غرق",
+      "CoupletIndex": 29,
+      "SectionIndex1": 8,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: من مانند خورشید هستم که در درون نور غرق شده‌ام و نمی‌توانم خود را از نور جدا کنم."
+    },
+    {
+      "VOrder": 47,
+      "Position": "Left",
+      "Text": "می‌نتانم کرد خویش از نور فرق",
+      "CoupletIndex": 29,
+      "SectionIndex1": 8,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 48,
+      "Position": "Right",
+      "Text": "ای دریغا عرصه افهام خلق",
+      "CoupletIndex": 30,
+      "SectionIndex1": 8,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که متفکران و انسان‌ها در بیان افکار و احساساتشان با محدودیت‌هایی روبرو هستند و نمی‌توانند به راحتی همه آنچه را که در ذهن دارند به اطرافیان منتقل کنند. تنگی عرصه افهام به چالش‌های ارتباطی و دشواری در فهماندن مفاهیم عمیق اشاره دارد."
+    },
+    {
+      "VOrder": 49,
+      "Position": "Left",
+      "Text": "سخت تنگ آمد ندارد خلق حلق‌‌",
+      "CoupletIndex": 30,
+      "SectionIndex1": 8,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 50,
+      "Position": "Right",
+      "Text": "گر نبودی خلق محجوب و کثیف",
+      "CoupletIndex": 31,
+      "SectionIndex1": 8,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اگر انسان‌ها ناپاک و پنهانکار نبودند و اگر زنجیره‌های محدودیت و ضعف وجود نداشت، دنیا جای بهتری بود."
+    },
+    {
+      "VOrder": 51,
+      "Position": "Left",
+      "Text": "ور نبودی حلقها تنگ و ضعیف",
+      "CoupletIndex": 31,
+      "SectionIndex1": 8,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 52,
+      "Position": "Right",
+      "Text": "در حقیقت داد معنا دادمی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 8,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: در واقع، معنای واقعی را به شما می‌دهم و به جز این، درهای جدیدی از فهم و درک را برای شما باز می‌کنم."
+    },
+    {
+      "VOrder": 53,
+      "Position": "Left",
+      "Text": "غیر از این منطق دری بگشادمی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 8,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 54,
+      "Position": "Right",
+      "Text": "لیک لقمه باز آن صعوه نیست",
+      "CoupletIndex": 33,
+      "SectionIndex1": 8,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: اما لقمه‌ای که باید بخوریم، آن مشکلی که به سادگی حل نمی‌شود، اکنون نیاز به آمیختن آب و روغن دارد تا بتوانیم آن را مدیریت کنیم."
+    },
+    {
+      "VOrder": 55,
+      "Position": "Left",
+      "Text": "چاره اکنون آب و روغن کردنی است‌‌",
+      "CoupletIndex": 33,
+      "SectionIndex1": 8,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 56,
+      "Position": "Paragraph",
+      "Text": "هر چند مسائل علوم حقیقی وجدانی کما ینبغی در عبارت نمی‌گنجد، «وَأَمَّا السَّائِلَ فَلَا تَنْهَرْ»، به سبیل ایما و اشارت کلمه‌ای چند در قید الفاظ و حروف مقید گردانیده شد. امید که از علم به عین و از گوش به آغوش آید! و الله یقول الحق و هو یهدی السبیل.",
+      "CoupletIndex": 34,
+      "CoupletSummary": "هوش مصنوعی: هرچند مسائل علمی واقعی و درونی قابل بیان در کلمات نیستند، اما به طور مختصر و با اشاره‌هایی، چند کلمه درباره آنها بیان شده است. امیدوارم که این علم به درک عمیق و واقعی تبدیل شود. خداوند حق را می‌گوید و راه را هدایت می‌کند."
+    }
+  ]
+}

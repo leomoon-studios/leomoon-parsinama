@@ -1,0 +1,135 @@
+{
+  "Id": 91319,
+  "CatId": 2383,
+  "Title": "شمارهٔ ۴۸۹",
+  "FullTitle": "اسیری لاهیجی » دیوان اشعار » غزلیات » شمارهٔ ۴۸۹",
+  "FullUrl": "/asiri/divan/ghazal/sh489",
+  "RhymeLetters": "ردی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره عشق و جذابیت آن صحبت می‌کند. شاعر توصیه می‌کند که در مسیر عشق، باید بی‌خبر از دنیا مشروبات را نوشید تا فردی شایسته شد. او از زیبایی‌ها و نشاطی که از عشق می‌وزد می‌گوید و اشاره به نرسیدن به محبوب و دشواری‌های راه دارد. در نهایت، تأکید می‌کند که عشق ناب می‌تواند جان‌ها را فدای خود کند و هرکس که زیبایی محبوب را ببیند، حتی حاضر است جان خود را فدای عشق کند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ردی",
+      "PlainText": "درآبکوی خرابات عشق اگر مردی\r\nشراب بیخبری نوش تا شوی فردی\r\nز صحن جان و دلم سوسن و سمن روید\r\nاگر ز گلشن رویت بما رسد وردی\r\nبچشم اهل نظر گشت کحل بینایی\r\nصبا ز کوی تو هرجا که می برد گردی\r\nرسی بمنزل وصل حبیب آخر کار\r\nچو گشت رهبر راه تو همت مردی\r\nبکوی اهل دلان خاک راه باید بود\r\nاگر تو طالب یاری و صاحب دردی\r\nز تاب آتش عشقش ندیده گرمی\r\nازآن سبب چو یخ افسرده و چنین سردی\r\nاگر جمال تو میدید منکر عشاق\r\nهزار جان چو اسیری فداهمی کردی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرآبکوی خرابات عشق اگر مردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشراب بیخبری نوش تا شوی فردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز صحن جان و دلم سوسن و سمن روید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر ز گلشن رویت بما رسد وردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبچشم اهل نظر گشت کحل بینایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبا ز کوی تو هرجا که می برد گردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرسی بمنزل وصل حبیب آخر کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو گشت رهبر راه تو همت مردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبکوی اهل دلان خاک راه باید بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر تو طالب یاری و صاحب دردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز تاب آتش عشقش ندیده گرمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازآن سبب چو یخ افسرده و چنین سردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر جمال تو میدید منکر عشاق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار جان چو اسیری فداهمی کردی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درآبکوی خرابات عشق اگر مردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به محله‌ی عشق و خرابات بروی و برای خودت آزادی را در شراب نیکو بیابی، به یک انسان واقعی و کامل تبدیل می‌شوی."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شراب بیخبری نوش تا شوی فردی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز صحن جان و دلم سوسن و سمن روید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از فضای درونی من، گل‌ها و زیبایی‌های فراوانی بروید، به شرطی است که دیدار تو برایم میسر شود و من نیز گلی از آن گلشن دریافت کنم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اگر ز گلشن رویت بما رسد وردی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بچشم اهل نظر گشت کحل بینایی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نگاه عالمان و صاحبان بصیرت، مانند کحلی که به چشم می‌زنند و بینایی می‌آورد، نسیم صبا با خود جا به جا می‌شود و هر کجا که برود، یاد و نام تو را به همراه دارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صبا ز کوی تو هرجا که می برد گردی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "رسی بمنزل وصل حبیب آخر کار",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی به منزل قرب و وصال محبوب رسیدم، سرانجام، وقتی که رهبر و راهنمای من شدی، با تلاش و همت مردانه به اینجا رسیدم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چو گشت رهبر راه تو همت مردی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بکوی اهل دلان خاک راه باید بود",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای دستیابی به یاری و کمک از افرادی که دل‌های روشنی دارند و اهل اعتقاد هستند، باید humble و با تواضع در راه آنها قرار بگیری. اگر به دنبال درمان درد و رنج خود هستی، باید به سراغ کسانی بروی که دارای درک عمیق و روح بزرگ هستند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "اگر تو طالب یاری و صاحب دردی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ز تاب آتش عشقش ندیده گرمی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از شدت عشق او، احساس گرما نکرده‌ام و به همین دلیل مثل یخ سرد و بی‌حرکت شده‌ام."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ازآن سبب چو یخ افسرده و چنین سردی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "اگر جمال تو میدید منکر عشاق",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر زیبایی تو را می‌دیدم، عاشقان هزاران بار جان خود را فدای تو می‌کردند و مثل اسیران در برابر تو تسلیم می‌شدند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "هزار جان چو اسیری فداهمی کردی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

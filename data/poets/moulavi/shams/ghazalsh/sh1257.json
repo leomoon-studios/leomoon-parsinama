@@ -1,0 +1,195 @@
+{
+  "Id": 3881,
+  "CatId": 99,
+  "Title": "غزل شمارهٔ ۱۲۵۷",
+  "FullTitle": "مولانا » دیوان شمس » غزلیات » غزل شمارهٔ ۱۲۵۷",
+  "FullUrl": "/moulavi/shams/ghazalsh/sh1257",
+  "RhymeLetters": "ارباش",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر دعوت به شادی و رهایی از غم است. شاعر از معشوق می‌خواهد که همیشه در کنار او باشد و خود را از غم‌ها دور کند. او به عشق و اشتیاق اشاره دارد و می‌گوید که عشق باید براساس خواسته‌ها و آرزوهای عاشقانه باشد. همچنین به انسان‌ها توصیه می‌کند که از زیبایی‌ها و لذت‌های جهان بهره‌برداری کنند و در عین حال، از ناامیدی و خیر خواهی غافل نشوند. در نهایت، پیام شعر این است که در انتظار یار باشیم و زندگی را با عشق و ایثار بگذرانیم.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارباش",
+      "PlainText": "چون تو شادی بنده گو غمخوار باش\r\nتو عزیزی صد چو ما گو خوار باش\r\nکار تو باید که باشد بر مراد\r\nکارهای عاشقان گو زار باش\r\nشاه منصوری و ملکت آن توست\r\nبنده چون منصور گو بر دار باش\r\nاشتر مستم نجویم نسترن\r\nنوشخوارم در رهت گو خار باش\r\nنشنوم من هیچ جز پیغام او\r\nهر چه خواهی گفت گو اسرار باش\r\nای دل آن جایی تو باری که ویست\r\nاز جمال یار برخوردار باش\r\nاو طبیبست و به بیماران رود\r\nای تن وامانده تو بیمار باش\r\nبر امید یار غار خلوتی\r\nثانی اثنین برو در غار باش\r\nبر امید داد و ایثار بهار\r\nمهرها می کار و در ایثار باش\r\nخرمنا بر طمع ماه بانمک\r\nگم شو از دزد و در آن انبار باش\r\nبهر نطق یار خوش گفتار خویش\r\nلب ببند از گفت و کم گفتار باش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تو شادی بنده گو غمخوار باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو عزیزی صد چو ما گو خوار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکار تو باید که باشد بر مراد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکارهای عاشقان گو زار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه منصوری و ملکت آن توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنده چون منصور گو بر دار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشتر مستم نجویم نسترن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوشخوارم در رهت گو خار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشنوم من هیچ جز پیغام او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چه خواهی گفت گو اسرار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل آن جایی تو باری که ویست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز جمال یار برخوردار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو طبیبست و به بیماران رود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای تن وامانده تو بیمار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر امید یار غار خلوتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eثانی اثنین برو در غار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر امید داد و ایثار بهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهرها می‌کار و در ایثار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرمنا بر طمع ماه بانمک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگم شو از دزد و در آن انبار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر نطق یار خوش گفتار خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلب ببند از گفت و کم گفتار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 11
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون تو شادی بنده گو غمخوار باش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو شادی، بنده هم باید غمخوار تو باشم. تو برای من بسیار عزیز هستی، پس من هم باید مانند هزاران دیگر از تو خدمت کنم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تو عزیزی صد چو ما گو خوار باش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کار تو باید که باشد بر مراد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کارت باید به گونه‌ای باشد که خواسته‌های عاشقان را برآورده کند و در این مسیر تلاش کن."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کارهای عاشقان گو زار باش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شاه منصوری و ملکت آن توست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که تو در مقام پادشاهی و صاحب قدرت هستی و باید مانند منصور، که پس از به دست آوردن مقامش بر دار رفت، آماده باشی تا در برابر چالش‌ها و مشکلات ایستادگی کنی. در واقع، به نوعی دعوت به شجاعت و پذیرش مسئولیت‌های رهبری و فرمانروایی می‌کند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بنده چون منصور گو بر دار باش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اشتر مستم نجویم نسترن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به بیان احساسات عمیق شاعر اشاره دارد. شاعر می‌گوید که مانند شتری سرمست، در راه تو حرکت می‌کند، در حالی که غنچه نسترن مانند موجودی خوشبو و زیبا، به او جذابیت می‌بخشد. او همچنین به نوعی می‌گوید که در این مسیر، حتی اگر با خارها و مشکلاتی روبرو شود، باز هم آماده است تا به عشق و راه محبوبش ادامه دهد. این احساسات بیانگر ناامیدی و امیدواری در عشق هستند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "نوشخوارم در رهت گو خار باش",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نشنوم من هیچ جز پیغام او",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هیچ کلامی جز پیام او را نمی‌شنوم. هر چه می‌خواهی بگویی، حرف‌هایت باید پنهان باشد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر چه خواهی گفت گو اسرار باش",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ای دل آن جایی تو باری که ویست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، تو در آن مکان قرار داری که به زیبایی محبوب برخوردار شوی."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "از جمال یار برخوردار باش",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "او طبیبست و به بیماران رود",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او پزشک است و به بیماران کمک می‌کند. حالا ای بدن خسته، تو هم باید بیمار باشی."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "ای تن وامانده تو بیمار باش",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "بر امید یار غار خلوتی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به امید یار، در مکانی دنج و آرام مانند غار، در کنار او بگذران."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ثانی اثنین برو در غار باش",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بر امید داد و ایثار بهار",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با امید و فداکاری، در فصل بهار محبت بکار و در ایثار و بخشش تلاش کن."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "مهرها می‌کار و در ایثار باش",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "خرمنا بر طمع ماه بانمک",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نزدیک شدن به زیبایی و جذابیت را که مانند ماهی دلرباست، فراموش کن و مراقب دزدها باش، در عین حال در آن جای امن بمان."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "گم شو از دزد و در آن انبار باش",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "بهر نطق یار خوش گفتار خویش",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه بتوانی صحبت‌های زیبا و دلنشین دوستت را بهتر بشنوی، بهتر است سکوت کنی و کمتر صحبت کنی."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "لب ببند از گفت و کم گفتار باش",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    }
+  ]
+}

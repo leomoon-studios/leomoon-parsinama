@@ -1,0 +1,101 @@
+{
+  "Id": 104088,
+  "CatId": 2545,
+  "Title": "شمارهٔ ۹۲۶",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » غزلیات » شمارهٔ ۹۲۶",
+  "FullUrl": "/ahli/divan/ghazal/sh926",
+  "RhymeLetters": "ونچهباک",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف احساسات عمیق و دردناک عشق می‌پردازد. او از تفاوت میان محبوب مستغنی و خود که در دریای عشق غرق است، سخن می‌گوید. عشق او را دچار تغییر کرده و حتی موی سیاهش را سفید کرده است. او به شدت از عشق و تأثیر آن بر زندگی‌اش می‌گوید و به قدرت و عظمت عشق اشاره می‌کند. دل مجنون به آب حیات تشبیه می‌شود که از عشق سیراب می‌شود. شاعر بیان می‌کند که درد عشق برای او ارزشمندتر از جانش است و لذت عشق در مقایسه با تمام لذت‌های دیگر دنیا شیرین‌تر و ناب‌تر است.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندعشق",
+      "PlainText": "مجنون منم گریخته عمری ز بند عشق\r\nافتاده باز در پی دل در کمند عشق\r\nاز شاخ عمر میوه شادی نچیده است\r\nدستی که کوته است ز نخل بلند عشق\r\nدر سنگلاخ سینه من شعله های آه\r\nهریک شراره ایست ز نعل سمند عشق\r\nبس دل اسیر غم شد و آزاد گشت باز\r\nمسکین منم هنوز چنین مستمند عشق\r\nاهلی غم از عذاب قیامت نمیخورد\r\nاز بسکه هست سوخته و دردمند عشق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجنون منم گریخته عمری ز بند عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافتاده باز در پی دل در کمند عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز شاخ عمر میوه شادی نچیده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدستی که کوته است ز نخل بلند عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سنگلاخ سینه من شعله های آه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهریک شراره ایست ز نعل سمند عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس دل اسیر غم شد و آزاد گشت باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمسکین منم هنوز چنین مستمند عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاهلی غم از عذاب قیامت نمیخورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بسکه هست سوخته و دردمند عشق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مجنون منم گریخته عمری ز بند عشق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مجنون هستم که سال‌ها از قید عشق فرار کرده‌ام، اما دوباره در پی دل، گرفتار عشق شده‌ام."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "افتاده باز در پی دل در کمند عشق",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از شاخ عمر میوه شادی نچیده است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دستی که توانایی و بلندای لازم را ندارد، نمی‌تواند از میوه‌های شادی بهره‌برداری کند و از عشق حقیقی نصیبی ببرد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دستی که کوته است ز نخل بلند عشق",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در سنگلاخ سینه من شعله های آه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل سنگلاخ من، آتش‌های اندوه وجود دارد که هر یک به عنوان جرقه‌ای از نعل اسب عشق می‌درخشد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هریک شراره ایست ز نعل سمند عشق",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بس دل اسیر غم شد و آزاد گشت باز",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من بارها به خاطر غم، اسیر شده و دوباره آزاد گشته، اما من همچنان به عشق نیازمند و بی‌نوا هستم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مسکین منم هنوز چنین مستمند عشق",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "اهلی غم از عذاب قیامت نمیخورد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اهلی هیچ نگرانی از عذاب قیامت ندارد، چون به خاطر عشق، آنقدر در آتش عشق سوخته و دردمند شده که دیگر غم و اندوهی برای او باقی نمانده است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از بسکه هست سوخته و دردمند عشق",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    }
+  ]
+}

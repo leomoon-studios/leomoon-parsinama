@@ -1,0 +1,165 @@
+{
+  "Id": 46622,
+  "CatId": 1724,
+  "Title": "غزل شمارهٔ ۶۴۷",
+  "FullTitle": "شاه نعمت‌الله ولی » غزلیات » غزل شمارهٔ ۶۴۷",
+  "FullUrl": "/shahnematollah/ghazalshv/sh647",
+  "RhymeLetters": "انمکرد",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره رابطه عمیق و معنوی شاعر با خداوند است. شاعر بیان می‌کند که خداوند از رحمت و کرم خود، او را از بی‌هویتی و ناشناسی خارج کرده و به او هویت و معنای زندگی بخشیده است. او به تأمل در تجلیات الهی می‌پردازد که گاهی در قالب ظاهر و گاهی در باطن خود را نشان می‌دهند. همچنین شاعر اشاره می‌کند که خداوند او را به مقام رهبری رندان و عاشقان برگزیده و به او علم و معانی عمیق آموخته است. در نهایت، شاعر به فنا در هستی خود و باقی ماندن در ملک جاودان اشاره می‌کند و نسبت به نعمت‌های الهی و رازق بودن خداوند برای بندگانش شکرگزاری می‌کند.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انمکرد",
+      "PlainText": "کردگار از کرم عیانم کرد\r\nواقف از حال این و آنم کرد\r\nمن چو بی نام و بی نشان بودم\r\nبی نشانی مرا نشانم کرد\r\nبه تجلی ظاهر و باطن\r\nگاه پیدا و گه نهانم کرد\r\nدر دل آمد به جای جان بنشست\r\nرحمتی خوش به جای جانم کرد\r\nمی خمخانه را به من بخشید\r\nساقی مست عاشقانم کرد\r\nتا شوم رهبر همه رندان\r\nرهنمودم به رهروانم کرد\r\nشرح علم بدیع او خواندم\r\nاین معانی از آن بیانم کرد\r\nچون ز هستی خود فنا گشتم\r\nباقی ملک جاودانم کرد\r\nنعمت الله به من عطا فرمود\r\nرازق زرق بندگانم کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردگار از کرم عیانم کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواقف از حال این و آنم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن چو بی نام و بی نشان بودم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی نشانی مرا نشانم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه تجلی ظاهر و باطن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاه پیدا و گه نهانم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دل آمد به جای جان بنشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرحمتی خوش به جای جانم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی خمخانه را به من بخشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساقی مست عاشقانم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا شوم رهبر همه رندان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرهنمودم به رهروانم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرح علم بدیع او خواندم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین معانی از آن بیانم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ز هستی خود فنا گشتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباقی ملک جاودانم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنعمت الله به من عطا فرمود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرازق زرق بندگانم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کردگار از کرم عیانم کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند با لطف خود، حال من و دیگران را برایم روشن کرد و مرا به آگاهی از وضعیت افراد آشنا ساخت."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "واقف از حال این و آنم کرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "من چو بی نام و بی نشان بودم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در زمانی که بدون هویت و ناشناخته بودم، وجودم را با ارائه نشانی مشخص کرد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی نشانی مرا نشانم کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به تجلی ظاهر و باطن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به گاهی خود را به صورت نمایان و گاهی دیگر به صورت پنهان به نمایش می‌گذارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گاه پیدا و گه نهانم کرد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در دل آمد به جای جان بنشست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل من، رحمت و لطفی جایگزین جانم شد و به طرز خوشایندی در درونم جا گرفته است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "رحمتی خوش به جای جانم کرد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "می خمخانه را به من بخشید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ساقی میخانه به من بخششی داد که در نتیجه آن، دلم را به عشق و شادمانی پر کرد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ساقی مست عاشقانم کرد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "تا شوم رهبر همه رندان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای اینکه راهنمایی کنم رهروان را، تا به عنوان پیشوای رندان درآیم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "رهنمودم به رهروانم کرد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "شرح علم بدیع او خواندم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علم بدیع او را توضیح دادم و این مفاهیم را از آن بیان کردم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "این معانی از آن بیانم کرد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "چون ز هستی خود فنا گشتم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی از وجود و هستی خود عبور کردم و خود را فانی کردم، به من نیروی ماندگاری بخشید که در ملک جاودان باقی بمانم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "باقی ملک جاودانم کرد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "نعمت الله به من عطا فرمود",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند نعمت‌های زیادی به من داده و روزی‌دهنده من را از دیگران متمایز کرده است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "رازق زرق بندگانم کرد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "Id": 104876,
+  "CatId": 2550,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » رباعیات » شمارهٔ ۷۰",
+  "FullUrl": "/ahli/divan/robaee/sh70",
+  "RhymeLetters": "الاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به اهمیت و تاثیر عشق اشاره می‌کند. عشق را به عنوان آب حیات و عاملی برای شادابی و تغییر حال انسان‌ها معرفی می‌کند. همچنین، وجود عشق را ضروری می‌داند و می‌گوید که حتی اگر زندگی جسمی نباشد، عشق می‌تواند جان‌بخش باشد. او با افتخار بیان می‌کند که به مدت چهل سال از عشق زنده است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الاست",
+      "PlainText": "عشق آب حیات و خضر فرح فالست\r\nعشق آینه محول الاحوال است\r\nگر جان نبود بشعق شاید بودن\r\nمن زنده بعشقم اینزمان چل سال است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق آب حیات و خضر فرح فالست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق آینه محول الاحوال است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر جان نبود بشعق شاید بودن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن زنده بعشقم اینزمان چل سال است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عشق آب حیات و خضر فرح فالست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق زندگی بخش و مظهر شادی است و همچنین عشق می‌تواند حالت‌ها و احساسات مختلف را در انسان منعکس کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عشق آینه محول الاحوال است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر جان نبود بشعق شاید بودن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر جان وجود نداشت، شاید دیگر نتوانستم زنده بمانم، اما به خاطر عشق، این حال و روز من به مدت سی سال است که ادامه دارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من زنده بعشقم اینزمان چل سال است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,1244 @@
+{
+  "Id": 1376,
+  "CatId": 40,
+  "Title": "بخش ۱۹",
+  "FullTitle": "فردوسی » شاهنامه » فریدون » بخش ۱۹",
+  "FullUrl": "/ferdousi/shahname/fereydoon/sh19",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این متن، شخصیت سلم به خبر از جنگ و تیرگی‌هایی که در آن وجود دارد، می‌پردازد. او در فکر بهبود وضعیت است و تصمیم می‌گیرد که به یک دژ که آرامگاهش باشد، برود. در این دژ مخفی گنجینه‌ای وجود دارد و سلم به همراه مهر انگشتری شاه منوچهر قصد دارد نقشه‌ای برای حمله به دشمنان بریزد.\n\nاو سپاهیان را به دقت مدیریت می‌کند و طرد از نبرد را به سمت دژ هدایت می‌کند. در نهایت، قارن رزمخواه با درفشی که به نشانه پیروزی است، به میدان آمده و در جنگی سهمگین بر دشمنان پیروز می‌شوند. نبرد به شدت وحشیانه است و خسارات زیادی به دشمنان وارد می‌شود، و زمین و دریا به خون آغشته می‌شود. این خلاصه نشان‌دهنده جنگ، تدبیر و پیروزی در برابر دشمنان است.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "به سلم آگهی رفت ازین رزمگاه\r\nوزان تیرگی کاندر آمد به ماه\r\nپس پشتش اندر یکی حصن بود\r\nبرآورده سر تا به چرخ کبود\r\nچنان ساخت کاید بدان حصن باز\r\nکه دارد زمانه نشیب و فراز\r\nهم این یک سخن قارن اندیشه کرد\r\nکه برگاشتش سلم روی از نبرد\r\nکلانی دژش باشد آرامگاه\r\nسزد گر برو بربگیریم راه\r\nکه گر حصن دریا شود جای اوی\r\nکسی نگسلاند ز بن پای اوی\r\nیکی جای دارد سر اندر سحاب\r\nبه چاره برآورده از قعر آب\r\nنهاده ز هر چیز گنجی به جای\r\nفگنده برو سایه پر همای\r\nمرا رفت باید بدین چاره زود\r\nرکاب و عنان را بباید بسود\r\nاگر شاه بیند ز جنگ آوران\r\nبه کهتر سپارد سپاهی گران\r\nهمان با درفش همایون شاه\r\nهم انگشتر تور با من به راه\r\nبباید کنون چاره ای ساختن\r\nسپه را به حصن اندر انداختن\r\nمن و گرد گرشاسپ وین تیره شب\r\nبرین راز بر باد مگشای لب\r\nچو روی هوا گشت چون آبنوس\r\nنهادند بر کوهه پیل کوس\r\nهمه نامداران پرخاشجوی\r\nز خشکی به دریا نهادند روی\r\nسپه را به شیروی بسپرد و گفت\r\nکه من خویشتن را بخواهم نهفت\r\nشوم سوی دژبان به پیغمبری\r\nنمایم بدو مهر انگشتری\r\nچو در دژ شوم برفرازم درفش\r\nدرفشان کنم تیغ های بنفش\r\nشما روی یکسر سوی دژ نهید\r\nچنانک اندر آید دمید و دهید\r\nسپه را به نزدیک دریا بماند\r\nبه شیروی شیراوژن و خود براند\r\nبیامد چو نزدیکی دژ رسید\r\nسخن گفت و دژدار مهرش بدید\r\nچنین گفت کز نزد تور آمدم\r\nبفرمود تا یک زمان دم زدم\r\nمرا گفت شو پیش دژبان بگوی\r\nکه روز و شب آرام و خوردن مجوی\r\nکز ایدر درفش منوچهر شاه\r\nسوی دژ فرستد همی با سپاه\r\nتو با او به نیک و به بد یار باش\r\nنگهبان دژ باش و بیدار باش\r\nچو دژبان چنین گفتها را شنید\r\nهمان مهر انگشتری را بدید\r\nهمان گه در دژ گشادند باز\r\nبدید آشکارا ندانست راز\r\nنگر تا سخنگوی دهقان چه گفت\r\nکه راز دل آن دید کو دل نهفت\r\nمرا و تو را بندگی پیشه باد\r\nابا پیشه مان نیز اندیشه باد\r\nبه نیک و به بد هر چه شاید بدن\r\nبباید همی داستان ها زدن\r\nچو دژدار و چون قارن رزمجوی\r\nیکایک به روی اندر آورده روی\r\nیکی بدسگال و یکی ساده دل\r\nسپهبد به هر چاره آماده دل\r\nهمی جست آن روز تا شب زمان\r\nنه آگاه دژدار از آن بدگمان\r\nبه بیگانه بر مهر خویشی نهاد\r\nبداد از گزافه سر و دژ به باد\r\nچو شب روز شد قارن رزمخواه\r\nدرفشی برافراخت چون گرد ماه\r\nخروشید و بنمود یک یک نشان\r\nبه شیروی و گردان گردن کشان\r\nچو شیروی دید آن درفش یلی\r\nبه کین روی بنهاد با پردلی\r\nدر حصن بگرفت و اندر نهاد\r\nسران را ز خون بر سر افسر نهاد\r\nبه یک دست قارن به یک دست شیر\r\nبه سر گرز و تیغ آتش و آب زیر\r\nچو خورشید بر تیغ گنبد رسید\r\nنه آیین دژ بد نه دژبان پدید\r\nنه دژ بود گفتی نه کشتی بر آب\r\nیکی دود دیدی سراندر سحاب\r\nدرخشیدن آتش و باد خاست\r\nخروش سواران و فریاد خاست\r\nچو خورشید تابان ز بالا بگشت\r\nچه آن دژ نمود و چه آن پهن دشت\r\nبکشتند از ایشان فزون از شمار\r\nهمی دود از آتش برآمد چو قار\r\nهمه روی دریا شده قیرگون\r\nهمه روی صحرا شده جوی خون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سلم آگهی رفت ازین رزمگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوزان تیرگی کاندر آمد به ماه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس پشتش اندر یکی حصن بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآورده سر تا به چرخ کبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان ساخت کاید بدان حصن باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دارد زمانه نشیب و فراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم این یک سخن قارن اندیشه کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه برگاشتش سلم روی از نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکلانی دژش باشد آرامگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسزد گر برو بربگیریم راه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه گر حصن دریا شود جای اوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکسی نگسلاند ز بن پای اوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی جای دارد سر اندر سحاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه چاره برآورده از قعر آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنهاده ز هر چیز گنجی به جای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفگنده برو سایه پر همای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا رفت باید بدین چاره زود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرکاب و عنان را بباید بسود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر شاه بیند ز جنگ‌آوران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کهتر سپارد سپاهی گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمان با درفش همایون شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم انگشتر تور با من به راه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبباید کنون چاره‌ای ساختن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسپه را به حصن اندر انداختن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن و گرد گرشاسپ وین تیره شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرین راز بر باد مگشای لب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو روی هوا گشت چون آبنوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنهادند بر کوههٔ پیل کوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه نامداران پرخاشجوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز خشکی به دریا نهادند روی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپه را به شیروی بسپرد و گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه من خویشتن را بخواهم نهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوم سوی دژبان به پیغمبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنمایم بدو مهر انگشتری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو در دژ شوم برفرازم درفش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرفشان کنم تیغ های بنفش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشما روی یکسر سوی دژ نهید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنانک اندر آید دمید و دهید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپه را به نزدیک دریا بماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه شیروی شیراوژن و خود براند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد چو نزدیکی دژ رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن گفت و دژدار مهرش بدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین گفت کز نزد تور آمدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبفرمود تا یک زمان دم زدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا گفت شو پیش دژبان بگوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه روز و شب آرام و خوردن مجوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکز ایدر درفش منوچهر شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی دژ فرستد همی با سپاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو با او به نیک و به بد یار باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگهبان دژ باش و بیدار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو دژبان چنین گفتها را شنید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمان مهر انگشتری را بدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمان گه در دژ گشادند باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدید آشکارا ندانست راز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگر تا سخنگوی دهقان چه گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه راز دل آن دید کو دل نهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا و تو را بندگی پیشه باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابا پیشه‌مان نیز اندیشه باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نیک و به بد هر چه شاید بدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبباید همی داستان ها زدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو دژدار و چون قارن رزمجوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکایک به روی اندر آورده روی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی بدسگال و یکی ساده دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسپهبد به هر چاره آماده دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی جست آن روز تا شب زمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آگاه دژدار از آن بدگمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بیگانه بر مهر خویشی نهاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبداد از گزافه سر و دژ به باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو شب روز شد قارن رزمخواه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرفشی برافراخت چون گرد ماه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخروشید و بنمود یک یک نشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه شیروی و گردان گردن کشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو شیروی دید آن درفش یلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کین روی بنهاد با پردلی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حصن بگرفت و اندر نهاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسران را ز خون بر سر افسر نهاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه یک دست قارن به یک دست شیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سر گرز و تیغ آتش و آب زیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو خورشید بر تیغ گنبد رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آیین دژ بد نه دژبان پدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه دژ بود گفتی نه کشتی بر آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی دود دیدی سراندر سحاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرخشیدن آتش و باد خاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخروش سواران و فریاد خاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو خورشید تابان ز بالا بگشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه آن دژ نمود و چه آن پهن دشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبکشتند از ایشان فزون از شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی دود از آتش برآمد چو قار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه روی دریا شده قیرگون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه روی صحرا شده جوی خون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 45
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "به سلم آگهی رفت ازین رزمگاه\r\nوزان تیرگی کاندر آمد به ماه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سلم آگهی رفت ازین رزمگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوزان تیرگی کاندر آمد به ماه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "بود",
+      "PlainText": "پس پشتش اندر یکی حصن بود\r\nبرآورده سر تا به چرخ کبود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس پشتش اندر یکی حصن بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآورده سر تا به چرخ کبود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "از",
+      "PlainText": "چنان ساخت کاید بدان حصن باز\r\nکه دارد زمانه نشیب و فراز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان ساخت کاید بدان حصن باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دارد زمانه نشیب و فراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "هم این یک سخن قارن اندیشه کرد\r\nکه برگاشتش سلم روی از نبرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم این یک سخن قارن اندیشه کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه برگاشتش سلم روی از نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "کلانی دژش باشد آرامگاه\r\nسزد گر برو بربگیریم راه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکلانی دژش باشد آرامگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسزد گر برو بربگیریم راه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ایاوی",
+      "PlainText": "که گر حصن دریا شود جای اوی\r\nکسی نگسلاند ز بن پای اوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه گر حصن دریا شود جای اوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکسی نگسلاند ز بن پای اوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "یکی جای دارد سر اندر سحاب\r\nبه چاره برآورده از قعر آب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی جای دارد سر اندر سحاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه چاره برآورده از قعر آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ای",
+      "PlainText": "نهاده ز هر چیز گنجی به جای\r\nفگنده برو سایه پر همای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنهاده ز هر چیز گنجی به جای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفگنده برو سایه پر همای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ود",
+      "PlainText": "مرا رفت باید بدین چاره زود\r\nرکاب و عنان را بباید بسود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا رفت باید بدین چاره زود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرکاب و عنان را بباید بسود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ران",
+      "PlainText": "اگر شاه بیند ز جنگ آوران\r\nبه کهتر سپارد سپاهی گران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر شاه بیند ز جنگ‌آوران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کهتر سپارد سپاهی گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "همان با درفش همایون شاه\r\nهم انگشتر تور با من به راه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمان با درفش همایون شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم انگشتر تور با من به راه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اختن",
+      "PlainText": "بباید کنون چاره ای ساختن\r\nسپه را به حصن اندر انداختن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبباید کنون چاره‌ای ساختن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسپه را به حصن اندر انداختن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ب",
+      "PlainText": "من و گرد گرشاسپ وین تیره شب\r\nبرین راز بر باد مگشای لب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن و گرد گرشاسپ وین تیره شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرین راز بر باد مگشای لب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وس",
+      "PlainText": "چو روی هوا گشت چون آبنوس\r\nنهادند بر کوهه پیل کوس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو روی هوا گشت چون آبنوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنهادند بر کوههٔ پیل کوس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وی",
+      "PlainText": "همه نامداران پرخاشجوی\r\nز خشکی به دریا نهادند روی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه نامداران پرخاشجوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز خشکی به دریا نهادند روی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فت",
+      "PlainText": "سپه را به شیروی بسپرد و گفت\r\nکه من خویشتن را بخواهم نهفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپه را به شیروی بسپرد و گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه من خویشتن را بخواهم نهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ری",
+      "PlainText": "شوم سوی دژبان به پیغمبری\r\nنمایم بدو مهر انگشتری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوم سوی دژبان به پیغمبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنمایم بدو مهر انگشتری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فش",
+      "PlainText": "چو در دژ شوم برفرازم درفش\r\nدرفشان کنم تیغ های بنفش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو در دژ شوم برفرازم درفش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرفشان کنم تیغ های بنفش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "هید",
+      "PlainText": "شما روی یکسر سوی دژ نهید\r\nچنانک اندر آید دمید و دهید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشما روی یکسر سوی دژ نهید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنانک اندر آید دمید و دهید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اند",
+      "PlainText": "سپه را به نزدیک دریا بماند\r\nبه شیروی شیراوژن و خود براند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپه را به نزدیک دریا بماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه شیروی شیراوژن و خود براند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "بیامد چو نزدیکی دژ رسید\r\nسخن گفت و دژدار مهرش بدید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد چو نزدیکی دژ رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن گفت و دژدار مهرش بدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دم",
+      "PlainText": "چنین گفت کز نزد تور آمدم\r\nبفرمود تا یک زمان دم زدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنین گفت کز نزد تور آمدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبفرمود تا یک زمان دم زدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وی",
+      "PlainText": "مرا گفت شو پیش دژبان بگوی\r\nکه روز و شب آرام و خوردن مجوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا گفت شو پیش دژبان بگوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه روز و شب آرام و خوردن مجوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "کز ایدر درفش منوچهر شاه\r\nسوی دژ فرستد همی با سپاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکز ایدر درفش منوچهر شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی دژ فرستد همی با سپاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ارباش",
+      "PlainText": "تو با او به نیک و به بد یار باش\r\nنگهبان دژ باش و بیدار باش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو با او به نیک و به بد یار باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگهبان دژ باش و بیدار باش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "چو دژبان چنین گفتها را شنید\r\nهمان مهر انگشتری را بدید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو دژبان چنین گفتها را شنید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمان مهر انگشتری را بدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "از",
+      "PlainText": "همان گه در دژ گشادند باز\r\nبدید آشکارا ندانست راز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمان گه در دژ گشادند باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدید آشکارا ندانست راز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 29,
+      "Number": 29,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فت",
+      "PlainText": "نگر تا سخنگوی دهقان چه گفت\r\nکه راز دل آن دید کو دل نهفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگر تا سخنگوی دهقان چه گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه راز دل آن دید کو دل نهفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 30,
+      "Number": 30,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یشهباد",
+      "PlainText": "مرا و تو را بندگی پیشه باد\r\nابا پیشه مان نیز اندیشه باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا و تو را بندگی پیشه باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابا پیشه‌مان نیز اندیشه باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 31,
+      "Number": 31,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دن",
+      "PlainText": "به نیک و به بد هر چه شاید بدن\r\nبباید همی داستان ها زدن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نیک و به بد هر چه شاید بدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبباید همی داستان ها زدن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 32,
+      "Number": 32,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وی",
+      "PlainText": "چو دژدار و چون قارن رزمجوی\r\nیکایک به روی اندر آورده روی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو دژدار و چون قارن رزمجوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکایک به روی اندر آورده روی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 33,
+      "Number": 33,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ادهدل",
+      "PlainText": "یکی بدسگال و یکی ساده دل\r\nسپهبد به هر چاره آماده دل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی بدسگال و یکی ساده دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسپهبد به هر چاره آماده دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 34,
+      "Number": 34,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مان",
+      "PlainText": "همی جست آن روز تا شب زمان\r\nنه آگاه دژدار از آن بدگمان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی جست آن روز تا شب زمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آگاه دژدار از آن بدگمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 35,
+      "Number": 35,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اد",
+      "PlainText": "به بیگانه بر مهر خویشی نهاد\r\nبداد از گزافه سر و دژ به باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بیگانه بر مهر خویشی نهاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبداد از گزافه سر و دژ به باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 36,
+      "Number": 36,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "چو شب روز شد قارن رزمخواه\r\nدرفشی برافراخت چون گرد ماه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو شب روز شد قارن رزمخواه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرفشی برافراخت چون گرد ماه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 37,
+      "Number": 37,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "شان",
+      "PlainText": "خروشید و بنمود یک یک نشان\r\nبه شیروی و گردان گردن کشان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخروشید و بنمود یک یک نشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه شیروی و گردان گردن کشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 38,
+      "Number": 38,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لی",
+      "PlainText": "چو شیروی دید آن درفش یلی\r\nبه کین روی بنهاد با پردلی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو شیروی دید آن درفش یلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه کین روی بنهاد با پردلی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 39,
+      "Number": 39,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رنهاد",
+      "PlainText": "در حصن بگرفت و اندر نهاد\r\nسران را ز خون بر سر افسر نهاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حصن بگرفت و اندر نهاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسران را ز خون بر سر افسر نهاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 40,
+      "Number": 40,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یر",
+      "PlainText": "به یک دست قارن به یک دست شیر\r\nبه سر گرز و تیغ آتش و آب زیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه یک دست قارن به یک دست شیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سر گرز و تیغ آتش و آب زیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 41,
+      "Number": 41,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "چو خورشید بر تیغ گنبد رسید\r\nنه آیین دژ بد نه دژبان پدید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو خورشید بر تیغ گنبد رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آیین دژ بد نه دژبان پدید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 42,
+      "Number": 42,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "نه دژ بود گفتی نه کشتی بر آب\r\nیکی دود دیدی سراندر سحاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه دژ بود گفتی نه کشتی بر آب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی دود دیدی سراندر سحاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 43,
+      "Number": 43,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ادخاست",
+      "PlainText": "درخشیدن آتش و باد خاست\r\nخروش سواران و فریاد خاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرخشیدن آتش و باد خاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخروش سواران و فریاد خاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 44,
+      "Number": 44,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "شت",
+      "PlainText": "چو خورشید تابان ز بالا بگشت\r\nچه آن دژ نمود و چه آن پهن دشت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو خورشید تابان ز بالا بگشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه آن دژ نمود و چه آن پهن دشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 45,
+      "Number": 45,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "بکشتند از ایشان فزون از شمار\r\nهمی دود از آتش برآمد چو قار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبکشتند از ایشان فزون از شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی دود از آتش برآمد چو قار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 46,
+      "Number": 46,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ون",
+      "PlainText": "همه روی دریا شده قیرگون\r\nهمه روی صحرا شده جوی خون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه روی دریا شده قیرگون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه روی صحرا شده جوی خون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به سلم آگهی رفت ازین رزمگاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "سلم از اخبار رزمگاه و میدان جنگ باخبر شد و از شکستی که خورده بودند(کشته شدن تور و نابودی سپاهش)"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وزان تیرگی کاندر آمد به ماه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پس پشتش اندر یکی حصن بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: پس پشت آن، دژی بلند و محکم وجود دارد که تا آسمان آبی بالا رفته است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برآورده سر تا به چرخ کبود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چنان ساخت کاید بدان حصن باز",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: او به گونه‌ای آن قلعه را بنا کرد که حتی در زمان‌های بالا و پایین نیز قابل دسترسی باشد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که دارد زمانه نشیب و فراز",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هم این یک سخن قارن اندیشه کرد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: بیتی بیان می‌کند که قارن (شخصیتی در داستان‌های حماسی) اندیشید و متوجه شد که برقراری صلح و دوری از جنگ بهتر از رویارویی و نبرد است. این نشان می‌دهد که گاه اندیشه و تفکر در مورد عواقب جنگ می‌تواند انسان را به سمت مسالمت و اجتناب از درگیری سوق دهد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که برگاشتش سلم روی از نبرد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کلانی دژش باشد آرامگاه",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: دژ کلان، مکانی امن و مطمئن است و شایسته است که اگر ما راهی برای تصرف آن پیدا کنیم، بر آن مسلط شویم و به آنجا برویم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سزد گر برو بربگیریم راه",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "که گر حصن دریا شود جای اوی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر دریا مکان او باشد، کسی نمی‌تواند او را از ریشه‌اش جدا کند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "کسی نگسلاند ز بن پای اوی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "یکی جای دارد سر اندر سحاب",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در جایی بلند و بالا، یک سر قرار دارد که برای حل مشکلی از عمق آب بیرون آمده است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "به چاره برآورده از قعر آب",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "نهاده ز هر چیز گنجی به جای",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در هر چیزی که وجود دارد، گنجینه‌ای پنهان نهاده شده است. بنابراین، به جای صرف وقت برای جستجوی چیزهای بی‌مقدار، به آنچه که در سایه عظمت و شانس قرار دارد، توجه کن."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "فگنده برو سایه پر همای",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "مرا رفت باید بدین چاره زود",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: باید به زودی راهی شوم و برای این کار به زین و مهار نیاز دارم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "رکاب و عنان را بباید بسود",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "اگر شاه بیند ز جنگ‌آوران",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر پادشاه ببیند که از جنگجویان کسی توانایی کمتری دارد، نباید نیروهای زیادی را به او بسپارد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "به کهتر سپارد سپاهی گران",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "همان با درفش همایون شاه",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در کنار پرچم باشکوه شاه، انگشتر مربوط به تور نیز با من همراه است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "هم انگشتر تور با من به راه",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "بباید کنون چاره‌ای ساختن",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: اکنون باید چاره‌ای پیدا کرد و سپاه را به دژ و قلعه‌ای منتقل کرد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "سپه را به حصن اندر انداختن",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "من و گرد گرشاسپ وین تیره شب",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: من و گرد گرشاسپ، در این شب تاریک، راز خود را فاش نکنیم و دهان نگشاییم تا این راز هویدا نشود."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "برین راز بر باد مگشای لب",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "چو روی هوا گشت چون آبنوس",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی چهره‌اش مانند چوب آبنوس زیبا و خوش رنگ شد، آن را بر بلندی کوهی شبیه به استوانه فیل قرار دادند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "نهادند بر کوههٔ پیل کوس",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "همه نامداران پرخاشجوی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: همه افراد بزرگ و شجاع که اهل درگیری و جنگ بودند، از خشکی به طرف دریا رفتند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "ز خشکی به دریا نهادند روی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "سپه را به شیروی بسپرد و گفت",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: سردار را به شیروی سپرد و گفت که من خود را پنهان می‌کنم."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "که من خویشتن را بخواهم نهفت",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "شوم سوی دژبان به پیغمبری",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: به سمت نگهبان قلعه می‌روم و به او نشان می‌دهم که انگشتر محبت را دارم، مانند یک پیامبر."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "نمایم بدو مهر انگشتری",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "چو در دژ شوم برفرازم درفش",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وقتی به بالای دژ برسم، پرچمی زیبا و درخشان را بر افراشته می‌کنم و شمشیرهای بنفش را به نمایش می‌گذارم."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "درفشان کنم تیغ های بنفش",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "شما روی یکسر سوی دژ نهید",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: شما تمام توجه و تلاش خود را به سمت هدفی معین می‌کنید به طوری که حتی لحظه‌ای برای آسان گرفتن و تسلیم شدن باقی نمی‌گذارید."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "چنانک اندر آید دمید و دهید",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "سپه را به نزدیک دریا بماند",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: سپه به کنار دریا ماند و در جایی به نام شیروی شیراوژن خود را مدیریت کرد و رهبری کرد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "به شیروی شیراوژن و خود براند",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "بیامد چو نزدیکی دژ رسید",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که به نزدیک دژ رسید، با دژدار صحبت کرد و او به مهری که در چهره‌اش بود نگریست."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "سخن گفت و دژدار مهرش بدید",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "چنین گفت کز نزد تور آمدم",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: او گفت که از نزد تور آمده‌ام و به من دستور داده شد که مدتی سکوت کنم."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "بفرمود تا یک زمان دم زدم",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "مرا گفت شو پیش دژبان بگوی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: مرا می‌گوید که برو پیش نگهبان دژ و به او بگو که نه روزها آرامش دارم و نه شب‌ها غذایی می‌جویم."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "که روز و شب آرام و خوردن مجوی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "کز ایدر درفش منوچهر شاه",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: از درفش منوچهر شاه به سوی دژ لشکر می‌فرستد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "سوی دژ فرستد همی با سپاه",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "تو با او به نیک و به بد یار باش",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: با او در خوبی و بدی همراهی کن، مانند نگهبانی که همیشه آماده و هوشیار است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "نگهبان دژ باش و بیدار باش",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "چو دژبان چنین گفتها را شنید",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: وقتی نگهبان این حرف‌ها را شنید، مهر انگشتری را مشاهده کرد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "همان مهر انگشتری را بدید",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "همان گه در دژ گشادند باز",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در همان لحظه که در قلعه را باز کردند، او به‌وضوح مشاهده کرد اما نتوانست راز آن را بفهمد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "بدید آشکارا ندانست راز",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "نگر تا سخنگوی دهقان چه گفت",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: به حرف‌های دهقان گوش کن که او چه می‌گوید، زیرا در کلام او می‌توانی راز دل را بیابی که او پنهان کرده است."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "که راز دل آن دید کو دل نهفت",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "مرا و تو را بندگی پیشه باد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: من و تو باید در خدمت و بندگی یکدیگر باشیم، و همچنین باید در نظر داشته باشیم که رابطه‌مان با یکدیگر نیز مهم است و به آن اهمیت دهیم."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "ابا پیشه‌مان نیز اندیشه باد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "به نیک و به بد هر چه شاید بدن",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: هر چه را که خوب یا بد باشد، باید درباره‌اش صحبت کرد و داستان‌هایی را که در مورد آن وجود دارد، روایت کرد."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "بباید همی داستان ها زدن",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "چو دژدار و چون قارن رزمجوی",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: شخصی شجاع و جنگجو مانند دژدار و قارن، با جرأت و مبارزه طلبی در میدان حاضر است و هر یک از حریفان را به چالش می‌کشد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "یکایک به روی اندر آورده روی",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "یکی بدسگال و یکی ساده دل",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: یک نفر با نیت بد و بداندیش وجود دارد و دیگری با روحی ساده و پاک. فرمانده، برای هر موقعیتی آماده و مهیا است."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "سپهبد به هر چاره آماده دل",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "همی جست آن روز تا شب زمان",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: او در آن روز تلاش می‌کرد تا شب برسد، اما نگهبان از آنچه در حال وقوع بود، بی‌خبر و بدگمان بود."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "نه آگاه دژدار از آن بدگمان",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "به بیگانه بر مهر خویشی نهاد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: دوستی و محبت نسبت به بیگانگان کار درستی نیست و در نتیجه ممکن است مشکلات و خطراتی ایجاد کند که به راحتی تحت کنترل ما نخواهد بود."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "بداد از گزافه سر و دژ به باد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "چو شب روز شد قارن رزمخواه",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: وقتی شب به روز تبدیل شد، قهرمان جنگ‌جو پرچمی را همچون هاله‌ی ماه بلند کرد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "درفشی برافراخت چون گرد ماه",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 36
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "خروشید و بنمود یک یک نشان",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: زور و هیاهو به پا شد و هر کس نشانه‌ای از قدرت و شجاعت خود را به نمایش گذاشت، به‌گونه‌ای که گردنکش‌ها هم در این میان خود را نشان دادند."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "به شیروی و گردان گردن کشان",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 37
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "چو شیروی دید آن درفش یلی",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: وقتی شیری آن پرچم را دید، با دلی شجاع و با نیتی انتقامی بر روی آن حمله کرد."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "به کین روی بنهاد با پردلی",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 38
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "در حصن بگرفت و اندر نهاد",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: او در قلعه محاصره کرد و درون آن برای سران، طوقی از خون بر سر گذاشت."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "سران را ز خون بر سر افسر نهاد",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 39
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "به یک دست قارن به یک دست شیر",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: شخصی با یک دست خود شیئی محکم و سخت را در اختیار دارد و با دست دیگر خود، شیئی قوی و توانا را گرفته است. در سر او نیز سلاحی از جنس گرز و تیغ وجود دارد که به نوعی نمایانگر قدرت و خطر است. همچنین، او زیر دست خود نیروهایی از آتش و آب را دارد که نماد تضاد و توانایی‌های متفاوت بوجود آمده در اوست."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "به سر گرز و تیغ آتش و آب زیر",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 40
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "چو خورشید بر تیغ گنبد رسید",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: زمانی که خورشید به بالای گنبد می‌رسد، نه نشانی از دیواری است و نه نگهبانی در آنجا دیده می‌شود."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "نه آیین دژ بد نه دژبان پدید",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 41
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "نه دژ بود گفتی نه کشتی بر آب",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: نه دژی بود که بگویی محکم است، نه کشتی‌ای که بر روی آب باشد. فقط دودی را دیدی که در آسمان بلند شده است."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "یکی دود دیدی سراندر سحاب",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 42
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "درخشیدن آتش و باد خاست",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: آتش می‌درخشد و باد به زوزه در می‌آید، صدای سواران و فریادهای آن‌ها بلند می‌شود."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "خروش سواران و فریاد خاست",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 43
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "چو خورشید تابان ز بالا بگشت",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: زمانی که خورشید در آسمان حرکت کرد، همه چیز را روشن کرد؛ هم قلعه‌ها و دژها و هم زمین‌های وسیع و دشت‌ها را نمایان ساخت."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "چه آن دژ نمود و چه آن پهن دشت",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 44
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "بکشتند از ایشان فزون از شمار",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: آنها را به تعداد زیاد کشته‌اند و از آتش، دودی برمی‌خیزد مانند دودی که از آتش بیرون می‌آید."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "همی دود از آتش برآمد چو قار",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 45
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "همه روی دریا شده قیرگون",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: تمام سطح دریا مانند قیر سیاه گردیده و تمام سطح صحرا به رنگ خون درآمده است."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "همه روی صحرا شده جوی خون",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 46
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "Id": 17252,
+  "CatId": 250,
+  "Title": "غزل شمارهٔ ۲۹۸",
+  "FullTitle": "اوحدی مراغه‌ای » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۹۸",
+  "FullUrl": "/ouhadi/divano/ghazalo/sh298",
+  "RhymeLetters": "الکند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به شدت غمگین و دلتنگ معشوق خود است. او از درد و رنجی صحبت می‌کند که به خاطر جدایی از محبوبش تحمل می‌کند. شاعر یادآور می‌شود که هیچ نقطه ارتباط و همدمی ندارد تا درد دلش را با او در میان بگذارد. او دائم در خیال معشوقش است و تمام احساساتش به او مربوط می‌شود. بار غم و اشک او فراوان است، اما امیدی به دیدار و جبران این درد ندارد. در نهایت، شاعر به این نتیجه می‌رسد که حتی تماس با معشوق نیز نمی‌تواند غم و هجران را درمان کند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "الکند",
+      "PlainText": "کرا بر تو فرستم که شرح حال کند\r\nبه نام من ز لبت بوسه ای سؤال کند\r\nدلم قرین غم و درد و رنج و غصه شود\r\nچو یاد آن لب و رخسار و زلف و خال کند\r\nنه محرمی که لبم نامه بلا خواند\r\nنه همدمی که دلم قصه وصال کند\r\nنیامدست مرا در خیال جز رخ تو\r\nاگر چه نرگس مستت جزین خیال کند\r\nمرا دلیست سراسیمه در ارادت تو\r\nکه از سماع حدیث تو وجد و حال کند\r\nبه گرد روی چو ماهت ز زلف می بینم\r\nشبی دراز که روز مرا چو سال کند\r\nاگر چه بار غم خود تو سهل پنداری\r\nنه هم دلیش بباید که احتمال کند\r\nز سیم اشک مرا دامنیست مالامال\r\nولی رخ تو کجا التفات مال کند\r\nبه دیدنی ز تو راضی شدیم و غمزه تو\r\nامید نیست که آن نیز را حلال کند\r\nز بار هجر تو گشت اوحدی شکسته مگر\r\nدوای خویش به دیدار آن جمال کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرا بر تو فرستم که شرح حال کند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نام من ز لبت بوسه‌ای سؤال کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلم قرین غم و درد و رنج و غصه شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو یاد آن لب و رخسار و زلف و خال کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه محرمی که لبم نامهٔ بلا خواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه همدمی که دلم قصهٔ وصال کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیامدست مرا در خیال جز رخ تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر چه نرگس مستت جزین خیال کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا دلیست سراسیمه در ارادت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از سماع حدیث تو وجد و حال کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گرد روی چو ماهت ز زلف می‌بینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشبی دراز، که روز مرا چو سال کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه بار غم خود تو سهل پنداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه هم‌دلیش بباید که احتمال کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز سیم اشک مرا دامنیست مالامال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی رخ تو کجا التفات مال کند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دیدنی ز تو راضی شدیم و غمزهٔ تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامید نیست که آن نیز را حلال کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بار هجر تو گشت اوحدی شکسته، مگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوای خویش به دیدار آن جمال کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کرا بر تو فرستم که شرح حال کند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی را که به تو بفرستم تا احوال مرا برایت بازگو کند، چه کسی می‌تواند باشد؟ آیا وقتی نام من را بر زبان بیاوری، لب‌هایت سوالی بپرسند و بوسه‌ای بر آن‌ها بنشیند؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "به نام من ز لبت بوسه‌ای سؤال کند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلم قرین غم و درد و رنج و غصه شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی به یاد لبان، چهره، موها و خال آن معشوق می‌افتم، دلم پر از غم، درد، رنج و غصه می‌شود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چو یاد آن لب و رخسار و زلف و خال کند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نه محرمی که لبم نامهٔ بلا خواند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه کسی در کنارم است که نامه‌های درد را بخواند، و نه همراهی دارم که داستان وصال و دیدار را برایم بگوید."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نه همدمی که دلم قصهٔ وصال کند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نیامدست مرا در خیال جز رخ تو",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز تصویر زیبای تو در ذهنم هیچ چیزی نمی‌گذرد، حتی اگر نرگس مستی هم به جز این تصویر خیال کند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اگر چه نرگس مستت جزین خیال کند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مرا دلیست سراسیمه در ارادت تو",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من به شدت به عشق و ارادت تو دچار هیجان شده است، به طوری که از شنیدن گفته‌ها و داستان‌های تو هیجان‌زده و شاد می‌شود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که از سماع حدیث تو وجد و حال کند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "به گرد روی چو ماهت ز زلف می‌بینم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در شب های طولانی، وقتی به رخ زیبای تو نگاه می‌کنم، زلفت را مانند هاله‌ای می‌بینم که روز را برایم به اندازه یک سال طولانی می‌کند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "شبی دراز، که روز مرا چو سال کند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "اگر چه بار غم خود تو سهل پنداری",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با اینکه شاید به غم خودت عادت کرده باشی، اما این موضوع دلیل نمی‌شود که کسی نتواند همدردی کند و احتمال داشته باشد که غم تو را درک کند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "نه هم‌دلیش بباید که احتمال کند؟",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ز سیم اشک مرا دامنیست مالامال",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشمان من پر از اشک است و اشک‌هایم مانند دستمالی پر و خالی می‌ریزند، اما چهره‌ی تو کجا می‌تواند به این موضوع توجهی داشته باشد؟"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ولی رخ تو کجا التفات مال کند؟",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "به دیدنی ز تو راضی شدیم و غمزهٔ تو",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از دیدن تو خوشحال شدیم، اما هیچ امیدی نداریم که لبخندت بتواند دل‌مان را شاد کند یا غم‌مان را برطرف کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "امید نیست که آن نیز را حلال کند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ز بار هجر تو گشت اوحدی شکسته، مگر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اوحدی از درد جدایی تو رنجیده و شکسته خاطر شده است، مگر اینکه با دیدن زیبایی‌ات بتواند درمان دردهایش را بیابد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "دوای خویش به دیدار آن جمال کند",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ]
+}

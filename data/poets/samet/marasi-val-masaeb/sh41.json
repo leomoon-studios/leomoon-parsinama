@@ -1,0 +1,450 @@
+{
+  "Id": 76789,
+  "CatId": 2103,
+  "Title": "شمارهٔ ۴۱ - در علو و دنو جنود عقل و جهل",
+  "FullTitle": "صامت بروجردی » کتاب المراثی و المصائب » شمارهٔ ۴۱ - در علو و دنو جنود عقل و جهل",
+  "FullUrl": "/samet/marasi-val-masaeb/sh41",
+  "RhymeLetters": "اشدند",
+  "SourceName": "سید صادق هاشمی",
+  "SourceUrlSlug": "ssh",
+  "PoemSummary": "هوش مصنوعی: این شعر به وصف وقایع عاشورا و جانفشانی‌های عاشوراییان در کربلا می‌پردازد. شاعر از حال و هوای عاشقان حضرت حسین (ع) سخن می‌گوید که در پی ارادت به خدا و او، با شجاعت و فدای جان خود به قیام پرداخته‌اند. آنها با آزادسازی دل‌ها از وابستگی‌های دنیوی، به یگانگی خدا و حقیقت بقا پی برده و برای رسیدن به وصال دوست، از خود گذشتند. \n\nشاعر به مظلومیت و دلسوزی این بزرگواران در برابر ظلم و ستم اشاره کرده و از بلای دو بینی رهایی یافته و در یک صف به شهادت می‌رسند. او از تجمع افرادی از کوفه و مدینه یاد می‌کند که به کربلا آمده‌اند و به لشکر دشمنی که در پی تخریب آل علی (ع) هستند، می‌پردازد. \n\nشعر در نهایت به ظلم‌های صورت گرفته بر این قهرمانان و بانوان حرم اشاره می‌کند و حاکی از تجلی ارادت و ایثار آنها در عرصه عاشورا است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اشدند",
+      "PlainText": "آنان که مست باده قالوا بلی شدند\r\nدر کربلا به درد و یل مبتلا شدند\r\nدیدند چون رضای خدا را به بذل جان\r\nدادند تن ز شوق به قتل و رضا شدند\r\nبه یگانگی ز خلق نموددن اختیار\r\nتا از یگانگی به خدا آشنا شدند\r\nپیوند مهر از همه اشیاء گسیختند\r\nدر صدق عهد خویش قرین وفا شدند\r\nدیدند چون نتیجه هستی ز نیستی\r\nبهر بقا مجاوز ملک بقا شدند\r\nپیوند مهر ازهمه اشیا گسیختند\r\nدر صدق عهد خویش قرین وفا شدند\r\nدیدند چون نتیجه هستی ز نیستی\r\nبهر بقا مجاوز ملک بقا شدند\r\nپا در دریار درد نهادند مردوار\r\nاز بهر درد عالم و آدم دوا شدند\r\nگردن کشان ز رهگذر طاعت هوا\r\nمالک رقاب خلق به حکم خدا شدند\r\nکردند مشق شیوه یکرنگی و ز شوق\r\nیک باره از بلای دو بینی رها شدند\r\nاز بسکه داشتند تمنای وصل دوست\r\nاز خویش هم به خواهش جانان جدا شدند\r\nبستند دل به دلیر یکتای خویشتن\r\nبیهوده نیست اینکه چنین دلربا شدند\r\nاول شدند در بدر آنگاه تا به حشر\r\nشاهان تمام بر در ایشان گدا شدند\r\nپای ثبات و صبر فشردند در بلا\r\nدر چند روز عمر شفیع جزا شدند\r\nقومی ز بهر دوزخ و برخی پی بهشت\r\nاز کوفه و مدینه به کرب و بلا شدند\r\nفوجی پی حمایت پور معاویه\r\nجمعی معین زاده خیرالنسا شدند\r\nدین دادگان به درهم و سراددگان به دین\r\nدر جای خویشتن همگی جابجا شدند\r\nبهر نثار مقدم فرزند فاطمه\r\nسرهای سروران همه از شوق پا شدند\r\nدر درک جاه و منصب و خلعت ز کوفیان\r\nفوجی کثیر دشمن آل عبا شدند\r\nیک مشت مرد و زن ز نبی مانده یادگار\r\nدر چنگ صدهزار بلا مبتلا شدند\r\nسرگشته سر به کوه و بیابان گذاشتند\r\nآنان که خلق را به خدا رهنما شدند\r\nآل رسول مفترض الطاعه دست گیر\r\nدر ربقه اطاعت اهل زنا شدند\r\nیک روز شد به کرببلا محشری که خلق\r\nتا روز رستخیز به فکر عزا شدند\r\nاز ظلم ابن سعد به صحرای نینوا\r\nآخر که بانوان حرم بینوا شدند\r\nمانند مصحفی کف اطفال بی تمیز\r\nاوراق جزو جزو ز شیرازه وا شدند\r\nچون اوفتاد دست علمدارش ز تن\r\nمعلوم شد به خلق که صاحب نوا شدند\r\nرفرف سوارهای سر بال جبرییل\r\nپامال پا و چکمه شمر دغا شدند\r\nروحی لهم فداه که از یک اشاره ای\r\nاسباب نطق صامت شیرین ادا شدند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان که مست باده قالوا بلی شدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کربلا به درد و یل مبتلا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدند چون رضای خدا را به بذل جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدادند تن ز شوق به قتل و رضا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه یگانگی ز خلق نموددن اختیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا از یگانگی به خدا آشنا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیوند مهر از همه اشیاء گسیختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر صدق عهد خویش قرین وفا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدند چون نتیجه هستی ز نیستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر بقا مجاوز ملک بقا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیوند مهر ازهمه اشیا گسیختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر صدق عهد خویش قرین وفا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدند چون نتیجه هستی ز نیستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر بقا مجاوز ملک بقا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپا در دریار درد نهادند مردوار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بهر درد عالم و آدم دوا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردن کشان ز رهگذر طاعت هوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمالک رقاب خلق به حکم خدا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردند مشق شیوه یکرنگی و ز شوق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک باره از بلای دو بینی رها شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بسکه داشتند تمنای وصل دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خویش هم به خواهش جانان جدا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبستند دل به دلیر یکتای خویشتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیهوده نیست اینکه چنین دلربا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاول شدند در بدر آنگاه تا به حشر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاهان تمام بر در ایشان گدا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپای ثبات و صبر فشردند در بلا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر چند روز عمر شفیع جزا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقومی ز بهر دوزخ و برخی پی بهشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز کوفه و مدینه به کرب و بلا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفوجی پی حمایت پور معاویه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمعی معین زاده خیرالنسا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدین دادگان به درهم و سراددگان به دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جای خویشتن همگی جابجا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر نثار مقدم فرزند فاطمه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرهای سروران همه از شوق پا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر درک جاه و منصب و خلعت ز کوفیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفوجی کثیر دشمن آل عبا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک مشت مرد و زن ز نبی مانده یادگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر چنگ صدهزار بلا مبتلا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرگشته سر به کوه و بیابان گذاشتند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنان که خلق را به خدا رهنما شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآل رسول مفترض الطاعه دست گیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ربقه اطاعت اهل زنا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک روز شد به کرببلا محشری که خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا روز رستخیز به فکر عزا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ظلم ابن سعد به صحرای نینوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر که بانوان حرم بینوا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمانند مصحفی کف اطفال بی تمیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاوراق جزو جزو ز شیرازه وا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون اوفتاد دست علمدارش ز تن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعلوم شد به خلق که صاحب نوا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرفرف سوارهای سر بال جبرئیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپامال پا و چکمه شمر دغا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروحی لهم فداه که از یک اشاره‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسباب نطق (صامت) شیرین ادا شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 28
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنان که مست باده قالوا بلی شدند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: افرادی که از نوشیدن شراب شاد و سر مست بودند، در کربلا با درد و مشکلات زیادی مواجه شدند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کربلا به درد و یل مبتلا شدند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دیدند چون رضای خدا را به بذل جان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنگاه که دیدند خداوند چه رضایتی در بخشیدن جان نهفته است، با شوق و با کمال آرامش جان خود را فدای او کردند و این کار برایشان باعث رضایت و خوشحالی شد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دادند تن ز شوق به قتل و رضا شدند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به یگانگی ز خلق نموددن اختیار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم با انتخاب و یکپارچگی خود، به شناختی از یگانگی الهی دست یافتند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا از یگانگی به خدا آشنا شدند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پیوند مهر از همه اشیاء گسیختند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محبت و ارتباط با همه چیز از بین رفت، اما آنها در راستای صداقت و عهد خود به یکدیگر وفادار شدند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در صدق عهد خویش قرین وفا شدند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دیدند چون نتیجه هستی ز نیستی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنها دیدند که چگونه نتیجه وجود از عدم به‌دست می‌آید و برای حفظ جاودانگی، به مرز سلطنت جاودانی دست یافتند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بهر بقا مجاوز ملک بقا شدند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "پیوند مهر ازهمه اشیا گسیختند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محبت و پیوند بین همه چیزها قطع شد و آن‌ها در وفای به وعده‌های خود، به صداقت و راستی دست یافتند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "در صدق عهد خویش قرین وفا شدند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دیدند چون نتیجه هستی ز نیستی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنها مشاهده کردند که وجود و هستی از عدم و نیستی به دست می‌آید و برای ادامه و بقای خود، به ملک و سرای جاویدان دست یافتند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بهر بقا مجاوز ملک بقا شدند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "پا در دریار درد نهادند مردوار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردان بزرگ در دریاچه درد پا گذاشتند تا سرانجام برای همه ی انسان‌ها و موجودات دارویی بیابند و دردها را درمان کنند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "از بهر درد عالم و آدم دوا شدند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گردن کشان ز رهگذر طاعت هوا",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برخی افراد که در مسیر نافرمانی و تمرد از دستورات الهی قدم برمی‌دارند، به دلیل خواسته‌های نفسانی خود، بر دیگران تسلط پیدا کرده و به دستورات خداوند پاسخ می‌دهند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "مالک رقاب خلق به حکم خدا شدند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "کردند مشق شیوه یکرنگی و ز شوق",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنها تمرین کردند که چگونه یکرنگ باشند و از شوق، یک باره از درد و رنج دوگانگی دیدن آزاد شدند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "یک باره از بلای دو بینی رها شدند",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "از بسکه داشتند تمنای وصل دوست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر شدت آرزوی دستیابی به وصال معشوق، حتی از خودشان هم جدا شدند و از هم فاصله گرفتند."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "از خویش هم به خواهش جانان جدا شدند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "بستند دل به دلیر یکتای خویشتن",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل را به مردی بزرگ و یگانه سپردن، بی‌دلیل نیست که این‌قدر دلربا و جذاب شده‌اند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "بیهوده نیست اینکه چنین دلربا شدند",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "اول شدند در بدر آنگاه تا به حشر",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ابتدا در میدان بدر پیروز شدند و پس از آن، در روز قیامت همه‌ی شاهان در درگاه آن‌ها به بندگی و گدایی خواهند ایستاد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "شاهان تمام بر در ایشان گدا شدند",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "پای ثبات و صبر فشردند در بلا",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در سختی‌ها و مشکلات، کسانی که استقامت و صبر نشان دادند، در نهایت به پاداش‌های بزرگی دست پیدا کردند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "در چند روز عمر شفیع جزا شدند",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "قومی ز بهر دوزخ و برخی پی بهشت",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گروهی به خاطر ترس از عذاب جهنم و برخی به امید بهشت، از شهرهای کوفه و مدینه به کربلا رفتند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "از کوفه و مدینه به کرب و بلا شدند",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "فوجی پی حمایت پور معاویه",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گروهی به حمایت از پسر معاویه جمع شدند که از خانواده‌ی خیرالنسا بودند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "جمعی معین زاده خیرالنسا شدند",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "دین دادگان به درهم و سراددگان به دین",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنان که از دین و مذهب دفاع می‌کنند، به ارزش‌های مادی مشغولند و کسانی که به درآمدهای مادی اهمیت می‌دهند، در واقع به اصول دینی و معنوی توجهی نشان نمی‌دهند. در این بین، وضعیت هر دو گروه متغیر و دستخوش تغییر است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "در جای خویشتن همگی جابجا شدند",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "بهر نثار مقدم فرزند فاطمه",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر استقبال از فرزند فاطمه، همه سروران از شوق به پا ایستادند."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "سرهای سروران همه از شوق پا شدند",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "در درک جاه و منصب و خلعت ز کوفیان",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در فهم مقام و موقعیت و نعمت‌های دنیوی، گروه بزرگی از کوفیان به دشمنی با خاندان نبوت برخاستند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "فوجی کثیر دشمن آل عبا شدند",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "یک مشت مرد و زن ز نبی مانده یادگار",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گروهی از مردان و زنان از پیامبر یادگار مانده‌اند که در برابر هزاران مشکل و سختی گرفتار شده‌اند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "در چنگ صدهزار بلا مبتلا شدند",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "سرگشته سر به کوه و بیابان گذاشتند",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنانی که مردم را به سوی خدا راهنمایی کردند، خود در جستجوی حقیقت و معنای زندگی، به کوه‌ها و بیابان‌ها رفتند و سرگشته و سردرگم شدند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "آنان که خلق را به خدا رهنما شدند",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "آل رسول مفترض الطاعه دست گیر",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرزندان پیامبر که اطاعت از آنها واجب است، در برابر کسانی که به نافرمانی و رفتارهای ناپسند دچار شده‌اند، کمک بکنند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "در ربقه اطاعت اهل زنا شدند",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "یک روز شد به کرببلا محشری که خلق",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزی در کربلا حادثه‌ای رخ داد که مردم تا روز قیامت در اندوه و عزای آن خواهند بود."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "تا روز رستخیز به فکر عزا شدند",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "از ظلم ابن سعد به صحرای نینوا",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر ظلم ابن سعد، در صحرای نینوا، زنان بیچاره و مظلوم حرم، دچار مشکلات و رنج‌هایی شدند."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "آخر که بانوان حرم بینوا شدند",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "مانند مصحفی کف اطفال بی تمیز",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند کتابی که در دست کودکان ناتمیز افتاده، ورق‌هایش از هم جدا شدند و نظم خود را از دست دادند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "اوراق جزو جزو ز شیرازه وا شدند",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "چون اوفتاد دست علمدارش ز تن",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دست علمدارش از بدن جدا شد، برای مردم مشخص شد که صاحب نوا چگونه از پا درآمد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "معلوم شد به خلق که صاحب نوا شدند",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "رفرف سوارهای سر بال جبرئیل",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سواران با پرچم‌های بلند و شکوه جبرئیل، زیر پا و چکمه‌های شمر، نابود و شکست خوردند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "پامال پا و چکمه شمر دغا شدند",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "روحی لهم فداه که از یک اشاره‌ای",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او که روح و جانم فدای اوست، با یک اشاره‌اش، باعث شد که علت‌های خاموش به شکلی شیرین و زیبا صحبت کنند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "اسباب نطق (صامت) شیرین ادا شدند",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    }
+  ]
+}

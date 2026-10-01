@@ -1,0 +1,735 @@
+{
+  "Id": 97033,
+  "CatId": 2484,
+  "Title": "شمارهٔ  ۲ - ای زندگی از غنچه ی لعل تو روان را",
+  "FullTitle": "بابافغانی » دیوان اشعار » قصاید » شمارهٔ  ۲ - ای زندگی از غنچه ی لعل تو روان را",
+  "FullUrl": "/faghani/divan/ghaside/sh2",
+  "RhymeLetters": "انرا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف عشق و زیبایی‌های الهی می‌پردازد. شاعر از زندگی و عشق به معشوق می‌گوید، زندگی را به غنچه‌ای زیبا تشبیه کرده و دلخوشی‌ها و دردهای وصل را به تصویر می‌کشد. او به تأثیر عشق بر دل و جان انسان‌ها اشاره می‌کند و عظمت و برکات ایزد را در کائنات تجلی می‌دهد. در ادامه به عظمت مقام معشوق و نقش او در عالم هستی و تحقق عدالت و نعمت در روز قیامت اشاره می‌کند. شاعر به خاطر عشق و جستجوی حقیقت به درگاه معشوق دعا می‌کند و در نهایت، آرزو دارد که نام معشوق در گلشن وجود همچنان برقرار بماند.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انرا",
+      "PlainText": "ای زندگی از غنچه ی لعل تو روان را\r\nچون روی تو نشکفته گلی گلشن جان را\r\nدل گرم می وصل تو در ساغر خورشید\r\nیکذره چه تاب آورد این رطل گران را\r\nهر وقت سحر غنچه ی سیراب ز شبنم\r\nشوید جهت گفتن نام تو دهان را\r\nگر از نفس گل نشود بوی تو ظاهر\r\nبلبل نکند این همه فریاد و فغان را\r\nنقش خم ابروی تو در منظر دلها\r\nمحراب دعا بسته کران تا بکران را\r\nباد سحر آورد ز لعلت دم عیسی\r\nتا غنچه ی دلتنگ نشاند خفقان را\r\nمرغ سحر از بلبل گلزار تو آموخت\r\nاین نغمه که تعلیم بود اهل بیان را\r\nتا سیر کند رخش تو در گلشن گردون\r\nجاروب زند صبح ره کاهکشان را\r\nای نزل عطای تو ز خوان انا املح\r\nعیسی نفسان مایده خوار این لب نان را\r\nذات تو همان مصدر علمست که هرگز\r\nفرسوده ی تعلیم نفرموده نشان را\r\nدست تو همان دست بلندست که از قدر\r\nجز بر ورق ماه نیازرده بنان را\r\nگر در گذر حادثه خاری بنشانی\r\nرخصت نبود در چمن دهر خزان را\r\nور حامی بازار جهان حفظ تو گردد\r\nدر بسته نگردد دگر این هفت دکان را\r\nخور کز اثر اوست عیار زر و گوهر\r\nاز نور چراغ تو فروزد دل کان را\r\nتأثیر سحاب کرمت در دل آذر\r\nسازد چو صدف حامل گوهر سرطان را\r\nهر پشه که از عرصه ی میدان تو خیزد\r\nاز پای درآرد نفسی پیل دمان را\r\nجز موجد امر تو دگر کیست که آرد\r\nاز پرده ی اعجاز برون شیر ژیان را\r\nفردوس حریمت که بهشتیست مخلد\r\nخارش گل صد برگ دهد امن و امان را\r\nدر ناصیه ی حاجب و دربان تو چین نیست\r\nاینجا همه بارست چه خاقان و چه خان را\r\nمستان ره عشق تو در چشم نیارند\r\nسامان سکندر منش ملک ستان را\r\nبی پرتو مهر تو کم از ذره شمارند\r\nخوبان قمر طلعت خورشید و شان را\r\nکی رخش فلک جلوه ی طاووس نماید\r\nاز داغ تو صد بار نیفروخته ران را\r\nدر دور تو بر جدول احکام کواکب\r\nغیر از نظر سعد نیابند قران را\r\nماهیت دیدار تو در دیده ی کافر\r\nآیینه ی مقصود کند نقش بتان را\r\nان را که به سرچشمه ی تحقیق درآری\r\nاز تخته ی تعلیم بشوید هذیان را\r\nاز میمنت گوهر تسبیح تو راهب\r\nخالی کند از رشته ی زنار میان را\r\nگویند فسان تیز کند تیغ ز جوهر\r\nتیغ تو از الماس کند تیز فسان را\r\nآنروز که در عرصه ی صحرای قیامت\r\nبا حسن عمل کار فتد خلق جهان را\r\nبگشاده ملک نامه ی اعمال خلایق\r\nبر پیر و جوان عرض کند جرم نهان را\r\nیاد غضب و لطف کند خافی و راجی\r\nجانهای سراسیمه و دلهای تپان را\r\nهر جزو ز اجزای بدن وقت شهادت\r\nتقریر کند نیک و بد سود و زیان را\r\nهر کس بجزای عمل خود رسد آنجا\r\nخصمان بدل خصم نگیرند ضمان را\r\nاز شرم گرانباری دیوان مظالم\r\nنه وزن سبکباری و نی تاب گران را\r\nدر چشم دل اهل گنه مالک دوزخ\r\nاز نار و دخان تیز کند تیغ و سنان را\r\nدر وادی جسم و جسد اهل معاصی\r\nاز قطع منازل نبود هون و هوان را\r\nسیلاب ندامت نشود موجب تسکین\r\nاز گرمی صحرای قیامت عطشان را\r\nدست همه در حلقه ی فتراک تو آن روز\r\nآه ار نکشد فارس قهر تو عنان را\r\nروشن کند از ناصیه ی مومن و کافر\r\nپروانه ده خلد و سقر نار و دخان را\r\nلطف تو ببخشد گنه ذره و خورشید\r\nضایع نگذارند چه خیزان چه فتان را\r\nسرسبزی و آزادی از احسان تو باشد\r\nهم سبزه ی افتاده و هم سرو روان را\r\nبا مهر تو فغفور بود نرگس مخمور\r\nگر سرمه کند خاک خرابات مغان را\r\nشاها منم آن بلبل آزرده درین باغ\r\nکز خار ستم برده جفان حدثان را\r\nوقتست که در طوف حریم حرم انس\r\nآزاده پر و بال گشاید طیران را\r\nخاک قدم آل عبا باش فغانی\r\nدر روی زمین گر طلبی عزت و شان را\r\nچندان که بود در چمن هفت و سه و چار\r\nسرسبزی هر شاخ گل شاه نشان را\r\nتا جلوه کند نسترن و برگ وسه برگه\r\nهمخانه بود عقد ثریا دبران را\r\nدر نظم گلستان بقا نام تو بادا\r\nجز بر گذر قافیه بهمان و فلان را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای زندگی از غنچه ی لعل تو روان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون روی تو نشکفته گلی گلشن جان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل گرم می وصل تو در ساغر خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکذره چه تاب آورد این رطل گران را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر وقت سحر، غنچه ی سیراب ز شبنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشوید جهت گفتن نام تو دهان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر از نفس گل نشود بوی تو ظاهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلبل نکند این همه فریاد و فغان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنقش خم ابروی تو در منظر دلها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمحراب دعا بسته کران تا بکران را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد سحر آورد ز لعلت دم عیسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا غنچه ی دلتنگ نشاند خفقان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغ سحر از بلبل گلزار تو آموخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین نغمه که تعلیم بود اهل بیان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا سیر کند رخش تو در گلشن گردون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجاروب زند صبح ره کاهکشان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نزل عطای تو ز خوان انا املح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعیسی نفسان مایده خوار این لب نان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذات تو همان مصدر علمست که هرگز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرسوده ی تعلیم نفرموده نشان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست تو همان دست بلندست که از قدر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز بر ورق ماه نیازرده بنان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر در گذر حادثه خاری بنشانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرخصت نبود در چمن دهر خزان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور حامی بازار جهان حفظ تو گردد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بسته نگردد دگر این هفت دکان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخور کز اثر اوست عیار زر و گوهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نور چراغ تو فروزد دل کان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتأثیر سحاب کرمت در دل آذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسازد چو صدف، حامل گوهر سرطان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر پشه که از عرصه ی میدان تو خیزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز پای درآرد نفسی پیل دمان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز موجد امر تو دگر کیست که آرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز پرده ی اعجاز برون شیر ژیان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفردوس حریمت که بهشتیست مخلد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخارش گل صد برگ دهد امن و امان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ناصیه ی حاجب و دربان تو چین نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاینجا همه بارست چه خاقان و چه خان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمستان ره عشق تو در چشم نیارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسامان سکندر منش ملک ستان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی پرتو مهر تو کم از ذره شمارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوبان قمر طلعت خورشید و شان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی رخش فلک جلوه ی طاووس نماید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز داغ تو صد بار نیفروخته ران را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دور تو بر جدول احکام کواکب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغیر از نظر سعد نیابند قران را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماهیت دیدار تو در دیده ی کافر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیینه ی مقصود کند نقش بتان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eان را که به سرچشمه ی تحقیق درآری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تخته ی تعلیم بشوید هذیان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز میمنت گوهر تسبیح تو راهب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخالی کند از رشته ی زنار میان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویند فسان تیز کند تیغ ز جوهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیغ تو از الماس کند تیز فسان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنروز که در عرصه ی صحرای قیامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا حسن عمل کار فتد خلق جهان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگشاده ملک، نامه ی اعمال خلایق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر پیر و جوان عرض کند جرم نهان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاد غضب و لطف کند خافی و راجی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانهای سراسیمه و دلهای تپان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر جزو ز اجزای بدن وقت شهادت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتقریر کند نیک و بد سود و زیان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس بجزای عمل خود رسد آنجا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخصمان بدل خصم نگیرند ضمان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز شرم گرانباری دیوان مظالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه وزن سبکباری و نی تاب گران را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر چشم دل اهل گنه مالک دوزخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نار و دخان تیز کند تیغ و سنان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر وادی جسم و جسد اهل معاصی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز قطع منازل نبود هون و هوان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیلاب ندامت نشود موجب تسکین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز گرمی صحرای قیامت عطشان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست همه در حلقه ی فتراک تو آن روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآه ار نکشد فارس قهر تو عنان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروشن کند از ناصیه ی مومن و کافر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپروانه ده خلد و سقر نار و دخان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلطف تو ببخشد گنه ذره و خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eضایع نگذارند چه خیزان چه فتان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرسبزی و آزادی از احسان تو باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم سبزه ی افتاده و هم سرو روان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا مهر تو فغفور بود نرگس مخمور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر سرمه کند خاک خرابات مغان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها منم آن بلبل آزرده درین باغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز خار ستم برده جفان حدثان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقتست که در طوف حریم حرم انس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآزاده پر و بال گشاید طیران را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاک قدم آل عبا باش فغانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر روی زمین گر طلبی عزت و شان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندان که بود در چمن هفت و سه و چار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرسبزی هر شاخ گل شاه نشان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا جلوه کند نسترن و برگ وسه برگه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمخانه بود عقد ثریا دبران را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر نظم گلستان بقا نام تو بادا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز بر گذر قافیه بهمان و فلان را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 47
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای زندگی از غنچه ی لعل تو روان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای زندگی، چون گل سرخ تو وجودم را به تب و تاب می‌آورد، همان‌طور که گل‌های باغ جانم هنوز شکفته نشده‌اند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون روی تو نشکفته گلی گلشن جان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل گرم می وصل تو در ساغر خورشید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل شاداب و امیدوار به وصل تو مانند ساغر آفتاب است، اما چگونه می‌تواند این بار سنگین را تحمل کند؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکذره چه تاب آورد این رطل گران را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هر وقت سحر، غنچه ی سیراب ز شبنم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر بار که صبح می‌رسد و غنچه‌ها با شبنم تازه می‌شوند، برای گفتن نام تو آماده می‌شوند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "شوید جهت گفتن نام تو دهان را",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر از نفس گل نشود بوی تو ظاهر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از عطر گل تو خبری نباشد، بلبل این همه فریاد و ناله را نمی‌کند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بلبل نکند این همه فریاد و فغان را",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نقش خم ابروی تو در منظر دلها",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خم ابروی تو در دل‌ها مانند محرابی است که دعاهای ما را به سوی مرزهای دور می‌برد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "محراب دعا بسته کران تا بکران را",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "باد سحر آورد ز لعلت دم عیسی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد صبحگاهی با نفسی که از لعل تو می‌آید، حالتی ایجاد می‌کند که غنچه‌ی دلتنگی را از حالت خفقان بیرون می‌آورد و به زندگی می‌آورد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "تا غنچه ی دلتنگ نشاند خفقان را",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "مرغ سحر از بلبل گلزار تو آموخت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده سحر از بلبل در باغ تو یاد گرفت که این نغمه زیبا را به اهل سخن آموزش دهد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "این نغمه که تعلیم بود اهل بیان را",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "تا سیر کند رخش تو در گلشن گردون",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا هنگامی که اسب تو در باغ آسمان بچرخد، صبح، راه کاهی را تمیز می‌کند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "جاروب زند صبح ره کاهکشان را",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ای نزل عطای تو ز خوان انا املح",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای که بخشش تو از سفره‌ی پر نعمت بسیار است، براستی که چون عیسی بر ما نازل می‌شوی. ای که بر سفره‌ای که به ما داده‌ای، این نان را که در دست داریم، به ما ارزانی می‌داری."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "عیسی نفسان مایده خوار این لب نان را",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ذات تو همان مصدر علمست که هرگز",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وجود تو منبعی از دانش است که هیچ‌گاه تحت تأثیر آموزش و یادگیری قرار نگرفته و همواره خالص و دست نخورده باقی مانده است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "فرسوده ی تعلیم نفرموده نشان را",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "دست تو همان دست بلندست که از قدر",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دست تو همان دستی است که از توان و قدرتش تنها بر روی ورق ماه، خطی نرم از نیاز نوشته است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "جز بر ورق ماه نیازرده بنان را",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "گر در گذر حادثه خاری بنشانی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در جریان حوادث، خار و زخمی ایجاد کنی، در این دنیا اجازه نخواهی داشت تا بهار را تجربه کنی و همیشه در پی خزان و تلخی‌ها خواهی بود."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "رخصت نبود در چمن دهر خزان را",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "ور حامی بازار جهان حفظ تو گردد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر حمایت و نگهداری از تو در بازار جهانی برقرار باشد، دیگر این هفت دکان بسته نخواهد شد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "در بسته نگردد دگر این هفت دکان را",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "خور کز اثر اوست عیار زر و گوهر",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید که به خاطر تأثیرش، معیار ارزش طلا و جواهر است، از نوری که در دل تو وجود دارد، می‌درخشد و می‌فروزد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "از نور چراغ تو فروزد دل کان را",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "تأثیر سحاب کرمت در دل آذر",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت می‌گوید که اثرات نیکی و کرامت تو در دل کسی مانند آتش سوزاننده است که می‌تواند از صدف، گوهر ارزشمندی را به وجود آورد. به عبارت دیگر، اعمال نیکو و مهربانی در دل دیگران تأثیر عمیقی می‌گذارد و می‌تواند باعث ایجاد زیبایی و ارزش‌های باارزش شود."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "سازد چو صدف، حامل گوهر سرطان را",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "هر پشه که از عرصه ی میدان تو خیزد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر پشه‌ای که از میدان تو عبور کند، می‌تواند نفس یک فیل در حال دویدن را به راحتی از پای درآورد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "از پای درآرد نفسی پیل دمان را",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "جز موجد امر تو دگر کیست که آرد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز خالق تو، چه کسی می‌تواند از پس پرده‌ی شگفتی‌ها، شیر نیرومند را به نمایش بگذارد؟"
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "از پرده ی اعجاز برون شیر ژیان را",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "فردوس حریمت که بهشتیست مخلد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حریم تو برای مردم بهشتی است و گل صدبرگ، مانند نشانه‌ای از آرامش و امنیت، در آنجا قرار دارد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "خارش گل صد برگ دهد امن و امان را",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "در ناصیه ی حاجب و دربان تو چین نیست",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در پیشانی نگهبان و دربان تو نشانه‌ای از چین و کدورت نیست، بلکه در اینجا همه یکسانند و نه تنها پادشاهان بلکه افراد عادی نیز در این محیط به طور برابر دیده می‌شوند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "اینجا همه بارست چه خاقان و چه خان را",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "مستان ره عشق تو در چشم نیارند",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشقان عشق تو در چشم خود هیچ نظم و ترتیبی ندارند و مانند سکندر، صاحب قدرت و سلطنت هم نیستند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "سامان سکندر منش ملک ستان را",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "بی پرتو مهر تو کم از ذره شمارند",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نور تو نباشد، خوبان و زیبایی‌ها نیز به اندازه یک ذره ارزش ندارند. آن‌ها مانند قمر و خورشید نمی‌درخشند و شان و مقامشان پایین می‌آید."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "خوبان قمر طلعت خورشید و شان را",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "کی رخش فلک جلوه ی طاووس نماید",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کیست که به زیبایی آسمان و شگفتی‌هایش بتواند در اثر داغی که تو به دل داشتی، خود را نشان دهد و از حسرت تو بارها دچار سوختن شود؟"
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "از داغ تو صد بار نیفروخته ران را",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "در دور تو بر جدول احکام کواکب",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اطراف تو، هیچ کدام از ستاره‌های آسمان نمی‌توانند چهره خوشبختی را نشان دهند، جز اینکه از سوی ستاره سعد باشد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "غیر از نظر سعد نیابند قران را",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "ماهیت دیدار تو در دیده ی کافر",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ماهیت دیدار تو در نظر من مانند آیینه‌ای است که هدفش نمایش بت‌هاست."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "آیینه ی مقصود کند نقش بتان را",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "ان را که به سرچشمه ی تحقیق درآری",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی را به حقیقت و علم نزدیک کنی، از آموزه‌های نادرست و بی‌پایه رها می‌شود."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "از تخته ی تعلیم بشوید هذیان را",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "از میمنت گوهر تسبیح تو راهب",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشبختی و خوشی ناشی از ارزش و زیبایی تسبیح تو، باعث می‌شود که راهبان و زاهدان، از بند و زنجیرهای دنیوی رهایی یابند."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "خالی کند از رشته ی زنار میان را",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "گویند فسان تیز کند تیغ ز جوهر",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گویند که داستان‌ها و افسانه‌ها می‌توانند تیزی و قدرت تیغ را افزایش دهند و تیغ تو را از الماس هم تیزتر کنند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "تیغ تو از الماس کند تیز فسان را",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "آنروز که در عرصه ی صحرای قیامت",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن روزی که در میدان قیامت با کارهای نیک و نیکوکاری، انسان‌ها به سرنوشت خود پی خواهند برد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "با حسن عمل کار فتد خلق جهان را",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "بگشاده ملک، نامه ی اعمال خلایق",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دولت و قدرت نمایان می‌شود و نامه‌ی کارها و اعمال مردم، چه پیر و چه جوان، به نمایش گذاشته می‌شود و گناهان پنهان همه نمایان می‌شود."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "بر پیر و جوان عرض کند جرم نهان را",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "یاد غضب و لطف کند خافی و راجی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خواب‌آلودگان و امیدواران، به یاد خشم و محبت خداوند، جان‌های مضطرب و دل‌های پررفت و برگشت فکر می‌کنند."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "جانهای سراسیمه و دلهای تپان را",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "هر جزو ز اجزای بدن وقت شهادت",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر قسمتی از بدن در زمان شهادت، خوبی‌ها و بدی‌ها، سود و زیان را بیان می‌کند."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "تقریر کند نیک و بد سود و زیان را",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "هر کس بجزای عمل خود رسد آنجا",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر فردی براساس اعمال خود به سرنوشت خود می‌رسد و در آنجا دشمنان به دشمنی یکدیگر نمی‌پردازند و هیچ کس از ضمانت یا ضمانت‌نامه‌ها خبری ندارد."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "خصمان بدل خصم نگیرند ضمان را",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "از شرم گرانباری دیوان مظالم",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ترس بار سنگین مشکلات و عواقب بد، نه می‌توانم سبک و آزاد باشم و نه تحمل درد و سختی را دارم."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "نه وزن سبکباری و نی تاب گران را",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "در چشم دل اهل گنه مالک دوزخ",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل کسانی که مرتکب گناه شده‌اند، آتش و دود سوزاننده‌ای وجود دارد که باعث می‌شود چاقوها و تیغ‌های کشنده خود را تیز کنند."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "از نار و دخان تیز کند تیغ و سنان را",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "در وادی جسم و جسد اهل معاصی",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دنیای جسم و بدن، کسانی که مرتکب گناهان می‌شوند، به دلیل اعمالشان از رسیدن به مقام و جایگاه واقعی خود بی‌بهره‌اند و به هیچ‌گونه آرامش و راحتی نخواهند رسید."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "از قطع منازل نبود هون و هوان را",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "سیلاب ندامت نشود موجب تسکین",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ندامت و پشیمانی نمی‌تواند موجب آرامش و راحتی برای کسی که در صحرای قیامت تشنه است، شود."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "از گرمی صحرای قیامت عطشان را",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "دست همه در حلقه ی فتراک تو آن روز",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آن روز که همه دست‌ها در دام سرنوشت تو گرفتار باشند، اگر فارس نتواند از شدت غم خود آهی بکشد، تو بر کنترل و اختیار خود تسلط داری."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "آه ار نکشد فارس قهر تو عنان را",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "روشن کند از ناصیه ی مومن و کافر",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که هم مومن و هم کافر در سرنوشت خود تحت تأثیر اعمالشان قرار می‌گیرند. به عبارت دیگر، جایگاه هر یک از آنان در بهشت و جهنم بر اساس رفتار و ایمانشان تعیین می‌شود. بهشت و جهنم به عنوان دو مقصد نهایی در نظر گرفته شده‌اند که در نتیجه‌ی انتخاب‌های فردی شکل می‌گیرند."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "پروانه ده خلد و سقر نار و دخان را",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "لطف تو ببخشد گنه ذره و خورشید",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محبت و مهربانی تو موجب عفو و بخشش خطاهای کوچک و بزرگ می‌شود. نه تنها نور خورشید که به همه جا می‌تابد، بلکه حتی ذرات ریز هم از قدرت بخشش تو بی‌نصیب نخواهند ماند، چه کسی که در حرکت است و چه کسی که ثابت ایستاده است."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "ضایع نگذارند چه خیزان چه فتان را",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "سرسبزی و آزادی از احسان تو باشد",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرسبزی و آزادی ناشی از لطف و بخشش توست. هم سبزه‌ای که بر روی زمین افتاده و هم سروی که به آرامی در حال حرکت است، به خاطر تو زندگی و زیبایی دارند."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "هم سبزه ی افتاده و هم سرو روان را",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "با مهر تو فغفور بود نرگس مخمور",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با عشق تو، نرگس مست و شاداب می‌شود، حتی اگر سرمه‌اش را از خاک میخانه‌های زرتشتیان بگیرد."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "گر سرمه کند خاک خرابات مغان را",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "شاها منم آن بلبل آزرده درین باغ",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من آن بلبل ناراحت هستم که در این باغ به خاطر خاری از ستم و ظلم زمانه زخم خورده‌ام."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "کز خار ستم برده جفان حدثان را",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "وقتست که در طوف حریم حرم انس",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی فرامی‌رسد که در آشوب و طوفان، در محیطی امن و آرام، روح آزاد و بی‌قید و بند پر و بال می‌گشاید و به پرواز درمی‌آید."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "آزاده پر و بال گشاید طیران را",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "خاک قدم آل عبا باش فغانی",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی که در زندگی به مقام و جایگاه بالایی دست پیدا کنی، باید humble و خاکی باشی، مانند افرادی که قدمشان بر زمین است و از خاندان بزرگان و اهل معرفت هستند."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "در روی زمین گر طلبی عزت و شان را",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "چندان که بود در چمن هفت و سه و چار",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چقدر در باغ گل خوشبو و زیبا وجود دارد، هر شاخه گل نمایانگر زیبایی و شکوه خاصی است."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "سرسبزی هر شاخ گل شاه نشان را",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "تا جلوه کند نسترن و برگ وسه برگه",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که نسترن و برگ‌های وسه در کنار هم جلوه‌گری کنند، عقد (پیوند) ثریا نیز به زودی برقرار خواهد شد."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "همخانه بود عقد ثریا دبران را",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "در نظم گلستان بقا نام تو بادا",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا می‌خواهد بگوید که نام تو همیشه در یادها باشد، حتی اگر در قافیه‌ها و شعرها هم به تو اشاره نشود."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "جز بر گذر قافیه بهمان و فلان را",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    }
+  ]
+}

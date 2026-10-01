@@ -1,0 +1,540 @@
+{
+  "Id": 12553,
+  "CatId": 191,
+  "Title": "قصیدهٔ شمارهٔ ۱۴ - در نصیحت و ترک تملق از خلق گوید",
+  "FullTitle": "سنایی » دیوان اشعار » قصاید » قصیدهٔ شمارهٔ ۱۴ - در نصیحت و ترک تملق از خلق گوید",
+  "FullUrl": "/sanaee/divans/ghaside-sanaee/sh14",
+  "RhymeLetters": "یمما",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به مسأله فقر، ناامیدی و گذر عمر انسان‌ها می‌پردازد. شاعر به بهای مادیات (سیم) و ترس از دست دادن آن (بیم) اشاره می‌کند و می‌گوید که زندگی در عین فقر، معضل بزرگی است. او بیان می‌کند که امید به ثروت و نعمت می‌تواند زندگی را معنا بخشد، اما این امید در دنیای ناپایدار به مسأله‌ای محال تبدیل می‌شود. \n\nشاعر همچنین به تأثیرات زمانه بر انسان‌ها و حسرت آن‌ها بر ازدست‌رفتن عمر و فرصت‌ها می‌پردازد. تصویر می‌کند که در زندگی هرکسی باید در نظر داشته باشد که همه مسافر این دنیا هستند و هیچ‌چیز دائمی نیست. در نهایت، شاعر از خداوند درخواست Hilfe و راهنمایی می‌کند تا از دام ناامیدی و ناپایداری رها شود.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یمما",
+      "PlainText": "تا کی ز هر کسی ز پی سیم بیم ما\r\nوز بیم سیم گشته ندامت ندیم ما\r\nتا هست سیم با ما بیمست یار او\r\nچون سیم رفت از پی او رفت بیم ما\r\nآیند هر دو باهم و هر دو بهم روند\r\nگویی برادرند بهم سیم و بیم ما\r\nای آنکه مفلسیست بلای عظیم تو\r\nسیمست ویحک اصل بلای عظیم ما\r\nبهتر بدان که هست تمنای تو محال\r\nسیمست گویی اصل نشاط و نعیم ما\r\nگر ما همه سیاه گلیمیم طرفه نیست\r\nسیم سپید کرده سیاه این گلیم ما\r\nای از نعیم کرده لباس خود از نسیج\r\nهان تا ز روی کبر نباشی ندیم ما\r\nگر آگهی ز کار و گرنه شکایتست\r\nاین دلق پاره پاره و تسبیح نیم ما\r\nگویی برهنه پایان بر من حسد برند\r\nهر گه که بنگرند به کفش ادیم ما\r\nدر حسرت نسیم صباییم ای بسا\r\nکآرد صبا نسیم و نیارد نسیم ما\r\nامروز خفته ایم چو اصحاب کهف لیک\r\nفردا ز گور باشد کهف و رقیم ما\r\nعالم چو منزلست و خلایق مسافرند\r\nدر وی مزورست مقام و مقیم ما\r\nهست این جهان چو تیم فلک همچو تیم بدار\r\nما غله دار آز و امل هم قسیم ما\r\nتیمار تیم داشتن از ما حماقتست\r\nتیمار دارد آنکه به ما داد تیم ما\r\nما از زمانه عمر و بقا وام کرده ایم\r\nای وای ما که هست زمانه غریم ما\r\nدر وصف این زمانه ناپایدار شوم\r\nبشنو که مختصر مثلی زد حکیم ما\r\nگفتا زمانه ما را مانند دایه ایست\r\nبسته در و امید رضیع و فطیم ما\r\nچون مدتی برآید بر ما عدو شود\r\nاز بعد آنکه بود صدیق و حمیم ما\r\nگرداند او به دست شب و روز و ماه و سال\r\nچون دال منحنی الف مستقیم ما\r\nز اول به مهر دل همه را او به پرورد\r\nمانند مادران شفیق و رحیم ما\r\nآن گه فرو برد به زمین بی جنایتی\r\nاین قامت مقوم و جسم جسیم ما\r\nاین مفتخر به حشمت و تعظیم و رای خویش\r\nیاد آر زیر خاک عظام رمیم ما\r\nپیوسته پیش چشم همی دار عنقریب\r\nاندامهای کوفته چون هشیم ما\r\nگویی سفیه بود فلان شاید ار بمرد\r\nچون آن سفیه مرد نمیرد حکیم ما\r\nما زیر خاک خفته و میراث خوار ما\r\nداده به باد خرمنهای قدیم ما\r\nگویی ز بعد ما چه کنند و کجا روند\r\nفرزندکان و دخترکان یتیم ما\r\nخود یاد ناوری که چه کردند و چون شدند\r\nآن مادران و آن پدران قدیم ما\r\nشد عقل ما عقیم ز بس با تغافلیم\r\nفریاد ازبن تغافل و عقل عقیم ما\r\nپندار کز تولد عقل ست لامحال\r\nاین طرفه بنگرید به نفس لییم ما\r\nگر جنت و جحیم ندیدی ببین که هست\r\nشغل و فراغ جنت ما و جحیم ما\r\nریحان روح ما چو فراغست و فارغی\r\nمشغولیست و شغل عذاب الیم ما\r\nسرگشته شد سنایی یارب تو ره نمای\r\nای رهنمای خلق و خدای علیم ما\r\nما را اگر چه ذمیمست تو مگیر\r\nیارب به فضل خویش به فعل ذمیم ما\r\nظفر ظفر تو نیز مکن در عنای مرگ\r\nبر قهر و رجم نفس ز دیو رجیم ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کی ز هر کسی ز پی سیم بیم ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز بیم سیم گشته ندامت ندیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا هست سیم با ما بیمست یار او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون سیم رفت از پی او رفت بیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآیند هر دو باهم و هر دو بهم روند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی برادرند بهم سیم و بیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای آنکه مفلسیست بلای عظیم تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیمست ویحک اصل بلای عظیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهتر بدان که هست تمنای تو محال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیمست گویی اصل نشاط و نعیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر ما همه سیاه گلیمیم طرفه نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیم سپید کرده سیاه این گلیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای از نعیم کرده لباس خود از نسیج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهان تا ز روی کبر نباشی ندیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر آگهی ز کار و گرنه شکایتست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین دلق پاره پاره و تسبیح نیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی برهنه پایان بر من حسد برند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر گه که بنگرند به کفش ادیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حسرت نسیم صباییم ای بسا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآرد صبا نسیم و نیارد نسیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز خفته‌ایم چو اصحاب کهف لیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفردا ز گور باشد «کهف» و «رقیم» ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم چو منزلست و خلایق مسافرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر وی مزورست مقام و مقیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست این جهان چو تیم فلک همچو تیم بدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما غله‌دار آز و امل هم قسیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیمار تیم داشتن از ما حماقتست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیمار دارد آنکه به ما داد تیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما از زمانه عمر و بقا وام کرده‌ایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای وای ما که هست زمانه غریم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر وصف این زمانهٔ ناپایدار شوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشنو که مختصر مثلی زد حکیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتا: زمانه ما را مانند دایه‌ایست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسته در و امید رضیع و فطیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مدتی برآید بر ما عدو شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بعد آنکه بود صدیق و حمیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرداند او به دست شب و روز و ماه و سال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون دال منحنی الف مستقیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز اول به مهر دل همه را او به پرورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانند مادران شفیق و رحیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن گه فرو برد به زمین بی‌جنایتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین قامت مقوم و جسم جسیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین مفتخر به حشمت و تعظیم و رای خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیاد آر زیر خاک عظام رمیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیوسته پیش چشم همی دار عنقریب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندامهای کوفتهٔ چون هشیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی سفیه بود فلان شاید ار بمرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون آن سفیه مرد نمیرد حکیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما زیر خاک خفته و میراث‌خوار ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداده به باد خرمنهای قدیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی ز بعد ما چه کنند و کجا روند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرزندکان و دخترکان یتیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود یاد ناوری که چه کردند و چون شدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن مادران و آن پدران قدیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد عقل ما عقیم ز بس با تغافلیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفریاد ازبن تغافل و عقل عقیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپندار کز تولد عقل‌ست لامحال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین طرفه بنگرید به نفس لئیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر جنت و جحیم ندیدی ببین که هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشغل و فراغ جنت ما و جحیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eریحان روح ما چو فراغست و فارغی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشغولیست و شغل عذاب الیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرگشته شد سنایی یارب تو ره‌نمای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای رهنمای خلق و خدای علیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را اگر چه ذمیمست تو مگیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیارب به فضل خویش به فعل ذمیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eظفر ظفر تو نیز مکن در عنای مرگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر قهر و رجم نفس ز دیو رجیم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 34
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا کی ز هر کسی ز پی سیم بیم ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیگر چقدر باید نگران نظر دیگران باشیم و از دغدغه‌های مالی و مادی رنج ببریم؟ ما از این نگرانی‌ها خسته شده‌ایم و حالا باید برای خودمان زندگی کنیم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز بیم سیم گشته ندامت ندیم ما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تا هست سیم با ما بیمست یار او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که ثروت و دارایی با ماست، از دوری یار خود ناامید نیستیم، اما وقتی ثروت از دست می‌رود، دیگر امیدی به او نداریم و احساس ناامیدی می‌کنیم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون سیم رفت از پی او رفت بیم ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "آیند هر دو باهم و هر دو بهم روند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر دو به سوی هم می‌آیند و به سمت یکدیگر می‌روند، انگار که برادر یکدیگر هستند و ما از این رابطه احساس نگرانی و دوستی داریم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گویی برادرند بهم سیم و بیم ما",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای آنکه مفلسیست بلای عظیم تو",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در فقر و تنگدستی گرفتار شدید، بلا و مصیبت بزرگ شما پول و ثروت است. وای بر ما که اساس و ریشه مشکل ما همین بلای بزرگ است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سیمست ویحک اصل بلای عظیم ما",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بهتر بدان که هست تمنای تو محال",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدان که آرزوی تو غیرممکن است، زیرا به نوعی، زندگی شادی و خوشی ما به آن وابسته است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سیمست گویی اصل نشاط و نعیم ما",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گر ما همه سیاه گلیمیم طرفه نیست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ما همه گلیم سیاه باشیم، تعجبی ندارد؛ اما اینکه روی این گلیم سیاه، نوار سفیدی دیده می‌شود، کار جالبی است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "سیم سپید کرده سیاه این گلیم ما",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ای از نعیم کرده لباس خود از نسیج",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که از نعمت‌ها لباس برتن کرده‌ای، حواست باشد که به خاطر غرور و تکبر، از دوستان ما نباشی."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "هان تا ز روی کبر نباشی ندیم ما",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "گر آگهی ز کار و گرنه شکایتست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از حال و روز ما خبر داشته باشی، مشکلی نیست؛ اما اگر خبر نداشته باشی، این وضعیت نگران‌کننده است. این لباس پاره و تسبیح نیمه‌کاره حکایت از حالتی ناخوشایند دارد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "این دلق پاره پاره و تسبیح نیم ما",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گویی برهنه پایان بر من حسد برند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انگار که همواره در معرض حسد دیگران هستم، هر بار که به دست‌های بی‌نظم و نامرتب من نگاه می‌کنند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "هر گه که بنگرند به کفش ادیم ما",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "در حسرت نسیم صباییم ای بسا",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در آرزوی نسیم صبحگاهی هستیم و چه بسا که آن نسیم بیاید و ما را در حسرت باقی بگذارد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "کآرد صبا نسیم و نیارد نسیم ما",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "امروز خفته‌ایم چو اصحاب کهف لیک",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما امروز در خواب و غفلت به سر می‌بریم مانند اصحاب کهف، اما فردا بیدار خواهیم شد و داستان‌های ما نیز همچون داستان کهف و رقیم از دل تاریخ برخواهد خاست."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "فردا ز گور باشد «کهف» و «رقیم» ما",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "عالم چو منزلست و خلایق مسافرند",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان مانند یک منزل است و مردم در آن همچون مسافرانی هستند. در این دنیا مقام و منزلگاه واقعی وجود ندارد و تنها ساکنانی موقت هستیم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "در وی مزورست مقام و مقیم ما",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "هست این جهان چو تیم فلک همچو تیم بدار",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این دنیا مانند یک میدان بزرگ است و ما در آن همانند تماشاچیانی هستیم که در حال برداشت محصولات آرزوها و خواسته‌هایمان هستیم. "
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "ما غله‌دار آز و امل هم قسیم ما",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "تیمار تیم داشتن از ما حماقتست",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تیمار و مراقبت از شیوه زندگی ما احمقانه است، زیرا تنها کسی که می‌تواند از ما مراقبت کند، کسی است که به ما زندگی و هویت داده است."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "تیمار دارد آنکه به ما داد تیم ما",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "ما از زمانه عمر و بقا وام کرده‌ایم",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از دنیا و زندگی چیزی قرض گرفته‌ایم و افسوس که زمانه‌ای که در آن زندگی می‌کنیم، پر از ناملایمات و آشفتگی است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "ای وای ما که هست زمانه غریم ما",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "در وصف این زمانهٔ ناپایدار شوم",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این زمانهٔ ناپایدار و ناپسند، حکیم ما با یک مثل کوتاه به خوبی وضعیت را توصیف کرده است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "بشنو که مختصر مثلی زد حکیم ما",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "گفتا: زمانه ما را مانند دایه‌ایست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او گفت: دوران ما مانند دایه‌ای است که ما را در آغوش گرفته و تنها به امید پرورش و سعادت ماست."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "بسته در و امید رضیع و فطیم ما",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "چون مدتی برآید بر ما عدو شود",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که مدتی بگذرد، دشمنی که تا پیش از این نزدیک و مهربان ما بود، به دشمنی تبدیل می‌شود."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "از بعد آنکه بود صدیق و حمیم ما",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "گرداند او به دست شب و روز و ماه و سال",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روز و شب، ماه و سال مانند یک دایره اطراف او می‌چرخند، همان‌طور که حرف دال به دور حرف الف راست و مستقیم می‌چرخد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "چون دال منحنی الف مستقیم ما",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "ز اول به مهر دل همه را او به پرورد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آغاز، عشق و محبت او به تمام مخلوقات مانند مادری مهربان و دلسوز نسبت به فرزندانش، همواره وجود داشته است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "مانند مادران شفیق و رحیم ما",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "آن گه فرو برد به زمین بی‌جنایتی",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس از اینکه این بدن قوی و استوار ما بدون هیچ خطایی به زیر خاک فرو می‌رود."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "این قامت مقوم و جسم جسیم ما",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "این مفتخر به حشمت و تعظیم و رای خویش",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شخص به بزرگی و احترام و برنامه‌ریزی خود افتخار می‌کند. یادآوری کن که ما زیر خاک به صورت استخوان‌های بی‌جان هستیم."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "یاد آر زیر خاک عظام رمیم ما",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "پیوسته پیش چشم همی دار عنقریب",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همواره در برابر چشم، به زودی جسم‌های خسته و فرسودهٔ ما را مانند هشیارانی قرار بده."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "اندامهای کوفتهٔ چون هشیم ما",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "گویی سفیه بود فلان شاید ار بمرد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که آن شخص نادان بود، شاید اگر او بمیرد، چون آن نادان می‌میرد، حکیم ما نیز نمی‌میرد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "چون آن سفیه مرد نمیرد حکیم ما",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "ما زیر خاک خفته و میراث‌خوار ما",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در زیر خاک خوابیده‌ایم و ارثیه‌دار ما، اموال و دستاوردهای گذشته‌مان را به راحتی به هدر داده است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "داده به باد خرمنهای قدیم ما",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "گویی ز بعد ما چه کنند و کجا روند",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که دیگران چه توجهی به حال و روز فرزندان بی‌سرپرست ما خواهند داشت و اینکه آنها به کجا خواهند رفت."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "فرزندکان و دخترکان یتیم ما",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "خود یاد ناوری که چه کردند و چون شدند",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به یاد داشته باش که چگونه پدران و مادران قدیم ما با چه سختی‌هایی روبرو شدند و چه کارهایی انجام دادند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "آن مادران و آن پدران قدیم ما",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "شد عقل ما عقیم ز بس با تغافلیم",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل ما به خاطر آن که از واقعیت‌ها غافل هستیم، ناتوان و بی‌ثمر شده است. از این غفلت و ناتوانی عقل‌مان باید فریاد بزنیم."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "فریاد ازبن تغافل و عقل عقیم ما",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "پندار کز تولد عقل‌ست لامحال",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که زایش و پیدایش عقل امکان‌پذیر نیست. حالا به خودتان نگاه کنید و ببینید که چقدر نفس پست و زشتی دارید."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "این طرفه بنگرید به نفس لئیم ما",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "گر جنت و جحیم ندیدی ببین که هست",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به بهشت و دوزخ نرسیده‌ای، نگاهی به کار و سرگرمی ما بینداز که همان بهشت و دوزخ ماست."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "شغل و فراغ جنت ما و جحیم ما",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "ریحان روح ما چو فراغست و فارغی",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ریحان و گل خوشبو، نشان‌دهنده روح و نشاط ما هستند، اما در عین حال، در حالی که ما در حال استراحت و آرامشیم، مشغله و دردهای آزاردهنده‌ای نیز همراه ماست."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "مشغولیست و شغل عذاب الیم ما",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "سرگشته شد سنایی یارب تو ره‌نمای",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سنایی در این بیت به حالت سردرگمی خود اشاره می‌کند و از خداوند می‌خواهد که او را هدایت کند. او از خدا به عنوان رهنمای مردم و دانای مطلق یاد می‌کند و به دنبال راهنمایی در مسیر زندگی‌اش است."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "ای رهنمای خلق و خدای علیم ما",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "ما را اگر چه ذمیمست تو مگیر",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوندا، اگرچه ما انسان‌های بدی هستیم و کارهای زشت انجام می‌دهیم، لطف خود را از ما دریغ نکن و به خاطر اعمال ناپسند ما، ما را نزد خود نپذیر."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "یارب به فضل خویش به فعل ذمیم ما",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "ظفر ظفر تو نیز مکن در عنای مرگ",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز به پیروزی خود مغرور نشو و در برابر مرگ از خشم و تندی نفس خود بپرهیز، زیرا ما در برابر دیو زشت و پلید به مصاف می‌رویم."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "بر قهر و رجم نفس ز دیو رجیم ما",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,690 @@
+{
+  "Id": 51101,
+  "CatId": 1831,
+  "Title": "شمارهٔ ۸۹ - صیقل‌ عشق",
+  "FullTitle": "ملک‌الشعرا بهار » قصاید » شمارهٔ ۸۹ - صیقل‌ عشق",
+  "FullUrl": "/bahar/ghasidebk/sh89",
+  "RhymeLetters": "ارند",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی عشق و ویژگی‌های واقعی و دروغین آن است. شاعر به تفاوت میان عاشقان حقیقی و افرادی که فقط به دنبال لذت‌های جسمانی هستند اشاره می‌کند. او تأکید می‌کند که عشق واقعی همراه با احترام، نجابت و اخلاق نیکو است و عاشقان واقعی دل‌سوز یکدیگرند. همچنین شاعر هشدار می‌دهد که نباید به حرف‌های شیطنت‌آمیز افرادی که بی‌ادب و بی‌رحم‌اند گوش داد. در نهایت، او به این نتیجه می‌رسد که عشق باید بر پایه‌ی صداقت و شناخت عمیق نسبت به محبوب بنا شود و ویژگی‌های درست و نادرست عشق را تشخیص دهد.",
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارند",
+      "PlainText": "گلعذاران جهان بسیارند\r\nلیک پیش گل رویت خارند\r\nدل نگهدار که خوبان دل را\r\nچون گرفتند نگه می دارند\r\nمده آزار دل من که بتان\r\nدل عشاق نمی آزارند\r\nگر شنیدی که نکویان جهان\r\nبی وفایند و شقاوت کارند\r\nمرو از راه که آن بی ادبان\r\nهمه بازاری و سردم دارند\r\nتو نجیبی و نکویان نجیب\r\nهمه با رحم و نکوکردارند\r\nلاله رویند ولیکن هرگز\r\nداغ محنت به دلی نگذارند\r\nهمه خوش صورت و خوش برخوردند\r\nهمه خوش سیرت و خوش رفتارند\r\nبهر عشاق حقیقی نورند\r\nبهر عشاق دروغی نارند\r\nنرمند از ادبا و احرار\r\nیار اهل ادب و احرارند\r\nدامن با ادبان را گنجند\r\nگردن بی ادبان را مارند\r\nهمه عاشق طلب و دلجویند\r\nهمه شکر لب و شیرین کارند\r\nبهرشان عاشقی ار یافت نشد\r\nهمت اندر طلبش بگمارند\r\nعاشق  از آهن و از چوب کنند\r\nکه هم آهنگر و هم نجارند\r\nجمله هم عاشق و هم معشوقند\r\nجمله هم ثابت و هم سیارند\r\nدعوی بلهوسان را در عشق\r\nنپذیرند که بس عیارند\r\nقدر صافی گهران را از دور\r\nبشناسند که بس هشیارند\r\nنستانند دل از یکتن بیش\r\nنیز دل جز به یکی نسپارند\r\nامتحان های دلاوبز کنند\r\nتا به عشق کسی ایمان آرند\r\nچون مسلم شد و تردید نماند\r\nشرم و حشمت ز میان بردارند\r\nدر برش ساعتکی بنشینند\r\nهمرهش بادگکی بگمارند\r\nگاه گاهی ز پی صیقل عشق\r\nبوسه ای چند بر او بشمارند\r\nبوسه در عشق مباح است آری\r\nبوسه را صیقل عشق انگارند\r\nگرچه عشاق نخسبند به شب\r\nمهوشان نیز براین هنجارند\r\nدلبرانی که خداوند دلند\r\nدر غم عاشق خود بیدارند\r\nشاهدی کاو غم عاشق نخورند\r\nمردمان جانورش پندارند\r\nعشق معشوق نهانست ولیک\r\nحکما واقف از این اسرارند\r\nشرط انیت خوبان اینست\r\nغیر از این مابقی از اغیارند\r\nشاهدانی که چنانند و چنین\r\nمردم چشم اولی الابصارند\r\nعشق در ساحت جان گلزاریست\r\nخوبرویان گل این گلزارند\r\nنتوان داشت امید یاری\r\nزان رفیقان  که به شهوت یارند\r\nمردمی زین شهوانی عشاق\r\nنتوان خواست  که مردم خوارند\r\nدلشان ازگهر عشق تهی است\r\nهمه از شهوت و حرص انبارند\r\nکاهل و بی مزه و بی ادبند\r\nلوس و بی معنی و چربک سارند\r\nبه حقیقت همه گولند و سفیه\r\nلیک در گول زدن مکارند\r\nنیز آن فرقه که دورند از عشق\r\nنقش حمام و گچ دیوارند\r\nگلرخانی که نفورند از عشق\r\nگویی از خلقت خود بیزارند\r\nقتل عاشق برشان هست مباح\r\nاین بتان افعی جان اوبارند\r\nچون به افراط شتابند از جهل\r\nشمع هر جمع و گل هر خارند\r\nچون به تفریط گرایند از عجب\r\nعشق را معصیتی انگارند\r\nهست نزدیک خرد هر دو گزاف\r\nکاین دو در وزن به یک مقدارند\r\nروش مردم نادان است این\r\nکه نه از فلسفه برخوردارند\r\nعقلا معتدلند اندر طبع\r\nوز گزاف جهلا فرارند\r\nاولین شرط نجابت عقل است\r\nعقلا بیشتری ز اخیارند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلعذاران جهان بسیارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک پیش گل رویت خارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل نگهدار که خوبان دل را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون گرفتند نگه می‌دارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمده آزار دل من که بتان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل عشاق نمی‌آزارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر شنیدی که نکویان جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌وفایند و شقاوت کارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرو از راه که آن بی‌ادبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه بازاری و سردم دارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو نجیبی و نکویان نجیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه با رحم و نکوکردارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلاله رویند ولیکن هرگز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداغ محنت به دلی نگذارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه‌خوش‌صورت و خوش‌برخوردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه خوش سیرت و خوش رفتارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر عشاق حقیقی نورند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر عشاق دروغی نارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنرمند از ادبا و احرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار اهل ادب و احرارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدامن با ادبان را گنجند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردن بی‌ادبان را مارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه عاشق طلب و دلجویند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه شکر لب و شیرین کارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهرشان عاشقی ار یافت نشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمت اندر طلبش بگمارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاشق‌ از آهن و از چوب کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هم آهنگر و هم نجارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجمله هم عاشق و هم معشوقند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمله هم ثابت و هم سیارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدعوی بلهوسان را در عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنپذیرند که بس عیارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقدر صافی گهران را از دور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشناسند که بس هشیارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنستانند دل از یکتن بیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیز دل جز به یکی نسپارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامتحان‌های دلاوبز کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به عشق کسی ایمان آرند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مسلم شد و تردید نماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرم و حشمت ز میان بردارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر برش ساعتکی بنشینند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمرهش بادگکی بگمارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گاهی ز پی صیقل عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوسه‌ای چند بر او بشمارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوسه در عشق مباح است آری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوسه را صیقل عشق انگارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه عشاق نخسبند به شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهوشان نیز براین هنجارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلبرانی که خداوند دلند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر غم عاشق خود بیدارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهدی کاو غم عاشق نخورند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمردمان جانورش پندارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق معشوق نهانست ولیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحکما واقف از این اسرارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشرط انیت خوبان اینست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغیر از این مابقی از اغیارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهدانی که چنانند و چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمردم چشم اولی الابصارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق در ساحت جان گلزاریست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوبرویان گل این گلزارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنتوان داشت امید یاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان رفیقان‌، که به شهوت یارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردمی زین شهوانی عشاق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتوان خواست‌، که مردم خوارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلشان ازگهر عشق تهی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه از شهوت و حرص انبارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاهل و بی‌مزه و بی‌ادبند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلوس و بی‌معنی و چربک سارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه حقیقت همه گولند و سفیه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک در گول‌زدن مکارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیز آن فرقه که دورند از عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقش حمام و گچ دیوارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلرخانی که نفورند از عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویی از خلقت خود بیزارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقتل عاشق برشان هست مباح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین بتان افعی جان اوبارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون به افراط شتابند از جهل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمع هر جمع و گل هر خارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون به تفریط گرایند از عجب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق را معصیتی انگارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست نزدیک خرد هر دو گزاف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین دو در وزن به یک مقدارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروش مردم نادان است این\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نه از فلسفه برخوردارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقلا معتدلند اندر طبع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز گزاف جهلا فرارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاولین شرط نجابت عقل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقلا بیشتری ز اخیارند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 44
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گلعذاران جهان بسیارند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جهان آدم‌های زیبا و خوش‌چهره زیادی وجود دارند، اما هیچ‌کدام به زیبایی تو نمی‌رسند و در مقایسه با تو مانند خار هستند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لیک پیش گل رویت خارند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دل نگهدار که خوبان دل را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل خود را حفظ کن، زیرا افرادی که خوب و نیکو هستند، وقتی دل کسی را به دست می‌آورند، به خوبی از آن محافظت می‌کنند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون گرفتند نگه می‌دارند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مده آزار دل من که بتان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من را آزار نده، زیرا معشوقان دل عاشقان را نمی‌آشوبند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دل عشاق نمی‌آزارند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گر شنیدی که نکویان جهان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شنیدی که نیکان و خوبان دنیا نامراد و بی‌وفا هستند و به کارهای بد مشغولند،"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بی‌وفایند و شقاوت کارند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مرو از راه که آن بی‌ادبان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آن مسیر نرو که آنجا افرادی بی‌احترام و سطحی‌نگر هستند و فقط به دنبال منافع خودشان می‌باشند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "همه بازاری و سردم دارند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "تو نجیبی و نکویان نجیب",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو انسان فرهیخته‌ای هستی و انسان‌های شریف و نجیب نیز همه مهربان و نیکوکار هستند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "همه با رحم و نکوکردارند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "لاله رویند ولیکن هرگز",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل‌های لاله شکوفا می‌شوند، اما هرگز دلی را با غم و اندوهی داغ نمی‌کنند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "داغ محنت به دلی نگذارند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "همه‌خوش‌صورت و خوش‌برخوردند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه دارای چهره‌های زیبا و برخوردهای دلنشین هستند و همچنین همگی دارای شخصیت‌های نیکو و رفتارهای خوب می‌باشند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "همه خوش سیرت و خوش رفتارند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بهر عشاق حقیقی نورند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشقان راستین مانند نور هستند که روشنی و هدایت به همراه دارند، در حالی که عاشقان دروغین مشابه آتشند و موجب سوختن و خرابی می‌شوند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "بهر عشاق دروغی نارند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "نرمند از ادبا و احرار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نرمند، دارای دانش و فضیلت است و دوستان او نیز از اهل علم و انسان‌های آزادی‌خواه هستند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "یار اهل ادب و احرارند",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "دامن با ادبان را گنجند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: افراد با ادب و احترام در جامعه، مانند گنجی ارزشمند هستند، در حالی که افرادی که بی‌ادب و بدرفتارند، مانند ماری خطرناک و زیان‌آور به حساب می‌آیند."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "گردن بی‌ادبان را مارند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "همه عاشق طلب و دلجویند",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه افراد دوست دارند به دنبال عشق و محبت بگردند و همچنین همگی دارای خصوصیات خوش‌زبان و خوش‌اخلاق هستند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "همه شکر لب و شیرین کارند",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "بهرشان عاشقی ار یافت نشد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی نتواند عاشقی را بیابد، باید تمام تلاش خود را برای جستجوی آن بگذارد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "همت اندر طلبش بگمارند",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "عاشق‌ از آهن و از چوب کنند",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشق به هر چیزی که بتواند احساسش را بیان کند، وابسته است، زیرا هم آهنگر و هم نجار ابزاری برای ساختن دنیای عاشقانه دارند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "که هم آهنگر و هم نجارند",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "جمله هم عاشق و هم معشوقند",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه افراد عاشق و معشوق هستند، یعنی همه به نوعی درگیر عشقند. همچنین، همه در حال تغییر و تحول هستند و در عین حال برخی ویژگی‌های ثابت دارند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "جمله هم ثابت و هم سیارند",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "دعوی بلهوسان را در عشق",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در عشق بهانه‌جویی و ادعای هوسبازان را قبول نکنید، زیرا آن‌ها بسیار فریبنده و متظاهر هستند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "نپذیرند که بس عیارند",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "قدر صافی گهران را از دور",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم با تجربه و باهوش می‌توانند ارزش سنگ‌های قیمتی را از فاصله تشخیص دهند."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "بشناسند که بس هشیارند",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "نستانند دل از یکتن بیش",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل را به هیچ کس جز یک نفر نمی‌سپارند و تنها از یک نفر دل نمی‌گیرند."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "نیز دل جز به یکی نسپارند",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "امتحان‌های دلاوبز کنند",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آزمون‌ها و چالش‌هایی برای دل‌ها برگزار می‌شود تا به عشق فردی یقین پیدا کنند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "تا به عشق کسی ایمان آرند",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "چون مسلم شد و تردید نماند",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که یقین به وجود آید و هیچ شکی باقی نماند، انسان‌ها از هر نوع شرم و شخصیت ظاهری دست برداشته و بی‌پروا می‌شوند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "شرم و حشمت ز میان بردارند",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "در برش ساعتکی بنشینند",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در کنار ساعتی زیبا بنشینند و بادی ملایم به آن جا بخورد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "همرهش بادگکی بگمارند",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "گاه گاهی ز پی صیقل عشق",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاه و بیگاه به یاد عشق، تعدادی بوسه از او می‌گیرند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "بوسه‌ای چند بر او بشمارند",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "بوسه در عشق مباح است آری",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در عشق، بوسه‌ دادن جایز است، زیرا بوسه به نوعی می‌تواند نشان‌دهنده قدرت عشق و زیبایی آن باشد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "بوسه را صیقل عشق انگارند",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "گرچه عشاق نخسبند به شب",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه عاشقان شب‌ها نمی‌خوابند، اما زیبایی‌ها همچنان بر همین روال باقیند."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "مهوشان نیز براین هنجارند",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "دلبرانی که خداوند دلند",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاشقانی که دلشان با خداست، همیشه در فکر و نگرانی معشوق خود هستند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "در غم عاشق خود بیدارند",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "شاهدی کاو غم عاشق نخورند",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاهدی وجود دارد که مردم با دیدن او، غم عاشق را درک نمی‌کنند و او را موجودی از احساسات نمی‌دانند."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "مردمان جانورش پندارند",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "عشق معشوق نهانست ولیک",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق به معشوق پنهان است، اما حکما و دانایان از این رازها آگاهند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "حکما واقف از این اسرارند",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "شرط انیت خوبان اینست",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شرط واقعی بودن خوبان این است که فقط آن‌ها هستند و بقیه افراد از دسته‌ی دیگرند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "غیر از این مابقی از اغیارند",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "شاهدانی که چنانند و چنین",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: افرادی که به زیبایی و جذابیت مشهور هستند، در حقیقت، افرادی هستند که بسیار باهوش و دارای درک عمیق هستند."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "مردم چشم اولی الابصارند",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "عشق در ساحت جان گلزاریست",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق در عمق وجود انسان مانند یک باغ زیبا و دلنشین است که در آن، زیبایی‌ها و عشق‌های واقعی وجود دارند. افراد دوست‌داشتنی و جذاب، مانند گل‌هایی هستند که این باغ را زینت می‌بخشند."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "خوبرویان گل این گلزارند",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "نتوان داشت امید یاری",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امید به کمک و یاری از آن دوستان را نمی‌توان داشت، زیرا آن‌ها به دنبال لذت‌جویی هستند."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "زان رفیقان‌، که به شهوت یارند",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "مردمی زین شهوانی عشاق",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم دلداده به عشق نمی‌توانند خواسته‌های خود را به عشق و حوصله بگذارند، زیرا در این حالت آدم‌ها معمولاً ارزش و احترام خود را از دست می‌دهند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "نتوان خواست‌، که مردم خوارند",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "دلشان ازگهر عشق تهی است",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل‌هایشان از عشق خالی است و فقط از روی شهوت و طمع انباشته شده‌اند."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "همه از شهوت و حرص انبارند",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "کاهل و بی‌مزه و بی‌ادبند",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: افرادی که تنبل و بی‌روح و بی‌ادب هستند، معمولاً بسیار بی‌معنی و سطحی به نظر می‌رسند."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "لوس و بی‌معنی و چربک سارند",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "به حقیقت همه گولند و سفیه",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در حقیقت، همه مردم فریب‌خورده و نادان‌اند، اما در فریب دادن یکدیگر بسیار زرنگ و حقه‌باز هستند."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "لیک در گول‌زدن مکارند",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "نیز آن فرقه که دورند از عشق",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گروهی که از عشق دور هستند، همانند نقاشی‌های حمام و گچ دیوار هستند؛ یعنی ظاهری بی‌روح و خالی از احساسات واقعی دارند."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "نقش حمام و گچ دیوارند",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "گلرخانی که نفورند از عشق",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زنی که به عشق علاقه ندارد، به نظر می‌رسد از وجود و آفریده شدن خود ناراضی است."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "گویی از خلقت خود بیزارند",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "قتل عاشق برشان هست مباح",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و دل باختگی برای این معشوقان به حدی عمیق است که به راحتی می‌توانند عاشق را نابود کنند، چرا که این زیبایی‌ها همچون افعی جان او را می‌گیرند."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "این بتان افعی جان اوبارند",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "چون به افراط شتابند از جهل",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی از روی نادانی به سرعت و زیاده‌روی می‌پردازند، آن‌گاه هر جمعی مانند شمع می‌سوزد و گل‌ها هم به خار تبدیل می‌شوند."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "شمع هر جمع و گل هر خارند",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "چون به تفریط گرایند از عجب",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که از حد تعادل خارج می‌شوند، عشق را به خطا و گناه تعبیر می‌کنند."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "عشق را معصیتی انگارند",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "هست نزدیک خرد هر دو گزاف",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نزدیک عقل، هر دو چیز بی‌معنا هستند، چرا که هر دو به یک اندازه اهمیت دارند."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "کاین دو در وزن به یک مقدارند",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "روش مردم نادان است این",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روش افرادی که دانا نیستند، این است که از علم فلسفه بی‌بهره‌اند."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "که نه از فلسفه برخوردارند",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "عقلا معتدلند اندر طبع",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انسان‌های خردمند از نظر طبیعت و ویژگی‌های خود متعادل هستند و از رفتارهای بی‌پایه و غیرمنطقی افرادی که نادان‌اند، دوری می‌کنند."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "وز گزاف جهلا فرارند",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "اولین شرط نجابت عقل است",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اولین و مهم‌ترین ویژگی نجابت، خرد و عقل است، و افراد عاقل معمولاً از دیگران بهتر و شایسته‌تر هستند."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "عقلا بیشتری ز اخیارند",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    }
+  ]
+}

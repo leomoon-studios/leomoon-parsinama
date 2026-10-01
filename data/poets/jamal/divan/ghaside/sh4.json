@@ -1,0 +1,735 @@
+{
+  "Id": 94523,
+  "CatId": 2437,
+  "Title": "شمارهٔ  ۴ - شکایت از روزگار",
+  "FullTitle": "جمال‌الدین عبدالرزاق » دیوان اشعار » قصاید » شمارهٔ  ۴ - شکایت از روزگار",
+  "FullUrl": "/jamal/divan/ghaside/sh4",
+  "RhymeLetters": "ا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر از حکمت و شرایط سخت زندگی صحبت می‌کند. شاعر به نارضایتی خود از اوضاع زمانه و چرخ گردون (سرنوشت) اشاره می‌کند و احساس بدبختی و ناامیدی را بیان می‌کند. او به بی‌عدالتی‌های موجود در جامعه و نگرانی‌هایش درباره آینده می‌پردازد و انتقاداتی به وضعیت علم و دانش می‌زند. شاعر از رنج و محنت روزگار شکایت می‌کند و به بی‌معنا بودن تلاش‌هایش برای دانش‌اندوزی و هنر اشاره می‌کند. در نهایت، او به این نتیجه می‌رسد که هیچ‌گونه اعتمادی به عمر و اقداماتش نیست و باید در جستجوی قناعت و حکمت باشد تا از این سختی‌ها رهایی یابد.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "دگر باره چه صنعت کرد باما\r\nسپهر سر کش فرتوت رعنا\r\nبیک بازی سوی تحت الثری برد\r\nبرونق رفته کاری چون ثریا\r\nچو گفتم کاستقامت یافت کارم\r\nزگردون شد چو گردون زیر وبالا\r\nجوانمردی غم ما خواست خوردن\r\nلگد بر کار زد این پیر رسوا\r\nدریغا آنچنان آزاد مردی\r\nکه گردونش نخواهد دید همتا\r\nچو کشتی امید آمد بساحل\r\nبدو وا خورد ناگه موج دریا\r\nفلک بااهل معنی خود بکین است\r\nنه بر من میرود این ظلم تنها\r\nدل ریشم از او مرهم طلب کرد\r\nمر او داغی نهادش بی محابا\r\nمگر کار دل از مرهم گذشتست\r\nبه داغش می کند اکنون مداوا\r\nندانم چرخ را با من چه کین است\r\nمگر با زهره بگرفته است مارا\r\nبغارت برد عمرم نحس کیوان\r\nهم از ادبار این هندوی لا لا\r\nمکن ای چرخ با ما هم نظر کن\r\nکه هرکس از تو در کاریست الا\r\nاگر بر جاهلان وقفست خیرت\r\nنیم من هم بدین حد نیز دانا\r\nمرا دی بر گذشت از عمر و امروز\r\nز دی بدتر گذشت ای وای فردا\r\nسرمن چون سر چرخست گردان\r\nدل من چون دل مهرست دروا\r\nنه اندر رسم این ایام انصاف\r\nنه اندر طبع این مردم مواسا\r\nچنان سیرم زجان کز غصه هر روز\r\nکنم صدره گذر بر مرگ عمدا\r\nمرا گویی چرا صابر نباشی\r\nکه بر عمر اعتمادی نیست زیرا\r\nتو از من عمر یکروزه ضمان کن\r\nکه من سالی بوم آنگه شکیبا\r\nقبای عمر چون بر تن بدرد\r\nنشاید کردنش دیگر مطرا\r\nمنم در کام این ایام شکر\r\nچرا بر من کند بیهوده صفرا\r\nچرا از بهر دانش رنج بردیم\r\nچرا بیهوده می پختیم سودا\r\nقلم را با قلم زن خاک بر سر\r\nچرا نه چنگ زن بودم دریغا\r\nچو موی رو بهست و ناف آهو\r\nوبال عمر ما این دانش ما\r\nهنر عیبست و فضل آفت چه تدبیر\r\nکه با کفرست این هردو مساوا\r\nنه حکمت رست و نه یونان حکمت\r\nنه شد بر طور سینا پور سینا\r\nچه نقص از جهل چون از جهل باشد\r\nدل آسوده و عیش مهنا\r\nچه سود از فضل چون از فضل دارم\r\nهمه اسباب نا کامی مهیا\r\nسگان را حشمت و مارا تحسر\r\nخران را دولت و ما را تمنا\r\nوجاهت در دروغست و تقدم\r\nبرای العین میبین آشکارا\r\nکه از بهر دروغی صبح کاذب\r\nز پیش صبح صادق گشت پیدا\r\nدو رویی کن که تا جاهی بیابی\r\nنبینی اوج خورشید است جوزا\r\nبدی کن تا توانی و ددی کن\r\nکه تا از تو بترسد پیر و برنا\r\nهمیشه همچو کژدم جان گزا باش\r\nکه تا باشد چو مارت جامه دیبا\r\nتما شا کن در این چرخ مشعبد\r\nکه هستش مهره زرین حله مینا\r\nولی جان خواهد از تو وقت بازی\r\nکه اینجا رایگان نبود تماشا\r\nفلک چون دست یابد در خلد نیش\r\nتو خواهی جنگ کن خواهی مدارا\r\nتو از من ایدل این یک پند بشنو\r\nاگر هستی بکار خویش بینا\r\nچو گردون سفله پرور گشت و خس طبع\r\nخس و سفله توانی بود حاشا\r\nبرو ملک قناعت جوی از یراک\r\nدر آن عالم نبینی فقر اصلا\r\nتو گردر کوی حکمت خانه سازی\r\nنباشد با جهانت هیچ پروا\r\nترا چون هیچ حقی بر قضا نیست\r\nنه زشتست از قضا کردن تقاضا\r\nز درویشی ده آب کشت حکمت\r\nز خاموشی حیات جان گویا\r\nمکن بر چرخ نیک و بد حوالت\r\nکه این از هیچ عاقل نیست زیبا\r\nفلک سر گشته و بی اختیار است\r\nچرا با او همی گیری محاکا\r\nفلک را بر خلاف حکم تقدیر\r\nبسعد و نحس گشتن نیست یا را\r\nنه فعل چرخ و سعی انجم است این\r\nکه هست این کار دانای توانا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگر باره چه صنعت کرد باما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسپهر سر کش فرتوت رعنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیک بازی سوی تحت الثری برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرونق رفته کاری چون ثریا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو گفتم کاستقامت یافت کارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزگردون شد چو گردون زیر وبالا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوانمردی غم ما خواست خوردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلگد بر کار زد این پیر رسوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریغا آنچنان آزاد مردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه گردونش نخواهد دید همتا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو کشتی امید آمد بساحل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدو وا خورد ناگه موج دریا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلک بااهل معنی خود بکین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه بر من میرود این ظلم تنها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل ریشم از او مرهم طلب کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر او داغی نهادش بی محابا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر کار دل از مرهم گذشتست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه داغش می کند اکنون مداوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندانم چرخ را با من چه کین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر با زهره بگرفته است مارا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبغارت برد عمرم نحس کیوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم از ادبار این هندوی لا لا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمکن ای چرخ با ما هم نظر کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هرکس از تو در کاریست الا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر بر جاهلان وقفست خیرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیم من هم بدین حد نیز دانا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا دی بر گذشت از عمر و امروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز دی بدتر گذشت ای وای فردا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرمن چون سر چرخست گردان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل من چون دل مهرست دروا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه اندر رسم این ایام انصاف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه اندر طبع این مردم مواسا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان سیرم زجان کز غصه هر روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنم صدره گذر بر مرگ عمدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا گویی چرا صابر نباشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بر عمر اعتمادی نیست زیرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو از من عمر یکروزه ضمان کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه من سالی بوم آنگه شکیبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقبای عمر چون بر تن بدرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشاید کردنش دیگر مطرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنم در کام این ایام شکر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا بر من کند بیهوده صفرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرا از بهر دانش رنج بردیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا بیهوده می پختیم سودا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقلم را با قلم زن خاک بر سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا نه چنگ زن بودم دریغا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو موی رو بهست و ناف آهو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوبال عمر ما این دانش ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهنر عیبست و فضل آفت چه تدبیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه با کفرست این هردو مساوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه حکمت رست و نه یونان حکمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه شد بر طور سینا پور سینا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه نقص از جهل چون از جهل باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل آسوده و عیش مهنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه سود از فضل چون از فضل دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه اسباب نا کامی مهیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسگان را حشمت و مارا تحسر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخران را دولت و ما را تمنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوجاهت در دروغست و تقدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرای العین میبین آشکارا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه از بهر دروغی صبح کاذب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز پیش صبح صادق گشت پیدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو روئی کن که تا جاهی بیابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبینی اوج خورشید است جوزا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدی کن تا توانی و ددی کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تا از تو بترسد پیر و برنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمیشه همچو کژدم جان گزا باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تا باشد چو مارت جامه دیبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتما شا کن در این چرخ مشعبد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هستش مهره زرین حله مینا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولی جان خواهد از تو وقت بازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه اینجا رایگان نبود تماشا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلک چون دست یابد در خلد نیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو خواهی جنگ کن خواهی مدارا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو از من ایدل این یک پند بشنو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر هستی بکار خویش بینا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو گردون سفله پرور گشت و خس طبع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخس و سفله توانی بود؟ حاشا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرو ملک قناعت جوی از یراک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آن عالم نبینی فقر اصلا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو گردر کوی حکمت خانه سازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنباشد با جهانت هیچ پروا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترا چون هیچ حقی بر قضا نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه زشتست از قضا کردن تقاضا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز درویشی ده آب کشت حکمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز خاموشی حیات جان گویا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمکن بر چرخ نیک و بد حوالت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه این از هیچ عاقل نیست زیبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلک سر گشته و بی اختیار است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا با او همی گیری محاکا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلک را بر خلاف حکم تقدیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسعد و نحس گشتن نیست یا را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه فعل چرخ و سعی انجم است این\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هست این کار دانای توانا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 47
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دگر باره چه صنعت کرد باما",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دست دوباره چه کار جدیدی با ما کرد ای آسمان سرکش و پیر و زیبا."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سپهر سر کش فرتوت رعنا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیک بازی سوی تحت الثری برد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در یک بازی، به دنیای زیرین رفته و برای بهبود وضعیت کاری، تلاشی انجام می‌شود که مانند ستاره ثریا درخشان و برجسته است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "برونق رفته کاری چون ثریا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چو گفتم کاستقامت یافت کارم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که گفتم ثابت و استوار شدم، حال و اوضاع من از چرخ روزگار تغییر کرد و مانند چرخش دنیا به بالا و پایین رفت."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زگردون شد چو گردون زیر وبالا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "جوانمردی غم ما خواست خوردن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک جوانمرد که به فکر غم ما بود، حالا از روی خجالت به کار زشت این فرد پیر رسوا پی برده و نمی‌تواند آن را تحمل کند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "لگد بر کار زد این پیر رسوا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دریغا آنچنان آزاد مردی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: افسوس بر آن آزادی، که همچون مردان بزرگ و بی‌نظیر، هیچ موجودی را در زمانه‌اش نمی‌توان دید که به پای او برسد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که گردونش نخواهد دید همتا",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چو کشتی امید آمد بساحل",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که کشتی امید به ساحل نزدیک می‌شود، ناگهان موج دریا به آن برخورد می‌کند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بدو وا خورد ناگه موج دریا",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "فلک بااهل معنی خود بکین است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان با کسانی که به حقیقت و معنا می‌پردازند، در حال گریه است و این ظلم تنها بر من نمی‌رود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "نه بر من میرود این ظلم تنها",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "دل ریشم از او مرهم طلب کرد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل زخمی من از او درخواستی کرد، اما او بی‌توجهی کرده و زخم عمیق‌تری بر دل من گذاشت."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "مر او داغی نهادش بی محابا",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "مگر کار دل از مرهم گذشتست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا دل می‌تواند با مرهم درمان شود وقتی که به شدت داغ و دردناک است؟ اکنون در تلاش است تا خود را درمان کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "به داغش می کند اکنون مداوا",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ندانم چرخ را با من چه کین است",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم که چرا زندگی با من دشمنی می‌کند، مگر اینکه بخواهد به من آسیبی بزند که شبیه به آسیب‌هایی است که به زهره می‌زند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "مگر با زهره بگرفته است مارا",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "بغارت برد عمرم نحس کیوان",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی‌ام به واسطه‌ی بدی‌های کیوان (سیاره زحل) غارت شده و این بدبختی ناشی از سرنوشت بد این زن هندی است که در زندگی‌ام تاثیر منفی گذاشته است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "هم از ادبار این هندوی لا لا",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "مکن ای چرخ با ما هم نظر کن",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دور زمان، با ما نظری نکن، زیرا هر کس در زندگی‌اش مشغول امری است به جز تو."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "که هرکس از تو در کاریست الا",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "اگر بر جاهلان وقفست خیرت",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بر افرادی که نادان هستند، خوشی و خوبی‌ات وقف شده باشد، من هم به همین اندازه از دانش برخوردارم."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "نیم من هم بدین حد نیز دانا",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "مرا دی بر گذشت از عمر و امروز",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیروز از عمر من گذشت و امروز هم از دیروز بدتر گذشت، وای به حال فردا که چه خواهد شد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "ز دی بدتر گذشت ای وای فردا",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "سرمن چون سر چرخست گردان",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سر من مانند دور قمر است و دل من همچون دل اهل محبت در حال چرخش و تغییر است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "دل من چون دل مهرست دروا",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "نه اندر رسم این ایام انصاف",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دوران نه انصاف وجود دارد و نه اخلاق انسانی که به دیگران کمک کند و همدلی احساس شود."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "نه اندر طبع این مردم مواسا",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "چنان سیرم زجان کز غصه هر روز",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به قدری از زندگی خسته و آزار دیده‌ام که هر روز به عمد از کنار مرگ عبور می‌کنم، چرا که غم و اندوه مرا به این حال رسانده است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "کنم صدره گذر بر مرگ عمدا",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "مرا گویی چرا صابر نباشی",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا صبر نداشته باشی؟ به خاطر اینکه هیچ اعتمادی به عمر و زمان وجود ندارد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "که بر عمر اعتمادی نیست زیرا",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "تو از من عمر یکروزه ضمان کن",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از تو می‌خواهم که برای من عمر یک روزه‌ای تضمین کنی، تا بتوانم سال‌ها با صبر و تحمل زندگی کنم."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "که من سالی بوم آنگه شکیبا",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "قبای عمر چون بر تن بدرد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: البته! این بیت به این معناست که وقتی عمر به پایان خود نزدیک می‌شود و شرایط نامناسبی در زندگی ایجاد می‌شود، دیگر نمی‌توان کار زیادی برای تغییر وضعیت انجام داد. به نوعی به ناپایداری و زودگذری زندگی اشاره می‌کند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "نشاید کردنش دیگر مطرا",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "منم در کام این ایام شکر",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این روزگار، من در شادی و خوشی به سر می‌برم، پس چرا باید بر من غم و ناراحتی حاکم شود؟"
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "چرا بر من کند بیهوده صفرا",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "چرا از بهر دانش رنج بردیم",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا برای کسب علم زحمت کشیدیم و چرا به طور بیهوده به افکار و خیالات خود پرداختیم؟"
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "چرا بیهوده می پختیم سودا",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "قلم را با قلم زن خاک بر سر",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا من به جای اینکه با قلم خود به کارهای عظیم و موثر بپردازم، فقط خاک به سر خود می‌زنم و نتوانستم توانایی‌ام را به نمایش بگذارم. افسوس که چنین شد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "چرا نه چنگ زن بودم دریغا",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "چو موی رو بهست و ناف آهو",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: موهای زیبا و باریک مانند موی زیبای عروسک و نازکی که به ناف آهو اشاره دارد، نشان‌دهنده یکی از زیبایی‌های زندگی ماست. این زیبایی‌ها به نوعی بار عمر ما محسوب می‌شوند و دانش ما نیز به همین موضوع مرتبط است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "وبال عمر ما این دانش ما",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "هنر عیبست و فضل آفت چه تدبیر",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هنر می‌تواند به عنوان یک نقص مطرح شود و فضیلت نیز می‌تواند مشکل‌ساز باشد. چه تدبیری می‌توان اتخاذ کرد وقتی که هر دو این ویژگی‌ها در واقع با بی‌دینی برابرند؟"
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "که با کفرست این هردو مساوا",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "نه حکمت رست و نه یونان حکمت",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه حکمت و دانشی از یونان به دست نیامد و نه راز و رمزی که در طور سینا برای پیامبران فاش شد، از حکمت پور سینا به حقیقت پیوست."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "نه شد بر طور سینا پور سینا",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "چه نقص از جهل چون از جهل باشد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دل انسان از نادانی راحت باشد و در خوشی زندگی کند، هیچ عیبی ندارد که در جهل به سر ببرد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "دل آسوده و عیش مهنا",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "چه سود از فضل چون از فضل دارم",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به این معناست که در زندگی اگرچه ممکن است دارای علم و دانش باشیم، اما اگر شرایط و عوامل مناسب وجود نداشته باشد، آن علم و دانش به کار نمی‌آید و نتیجه مثبتی به همراه نخواهد داشت. به عبارت دیگر، داشتن فضل و دانایی بدون وجود شرایط مساعد، کمکی به موفقیت نمی‌کند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "همه اسباب نا کامی مهیا",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "سگان را حشمت و مارا تحسر",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت به تفاوت میان سرنوشت و موقعیت انسان‌ها و حیوانات اشاره شده است. به این معنا که بعضی از موجودات، حتی اگر وضعیت ظاهری خوبی داشته باشند، در حقیقت در کمال نارضایتی و آرزو به سر می‌برند، در حالی که دیگرانی که شاید در شرایط دشواری به نظر برسند، به نوعی از نعمت و قدرت برخوردارند. این نشان می‌دهد که قضاوت درباره خوشبختی و نعمت‌ها تنها به ظاهر امور نیست و واقعیت‌های عمیق‌تری پشت آن قرار دارد."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "خران را دولت و ما را تمنا",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "وجاهت در دروغست و تقدم",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شما به گونه‌ای دروغین به نظر می‌رسید و این امر برای همگان واضح و آشکار است."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "برای العین میبین آشکارا",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "که از بهر دروغی صبح کاذب",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر یک دروغ، صبح دروغین جای صبح واقعی و راستین را گرفته و نمایان شده است."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "ز پیش صبح صادق گشت پیدا",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "دو روئی کن که تا جاهی بیابی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در دو راهی قرار بگیری و بخواهی به جایی برسی، نباید به اوج و درخشش خورشید (که نماد موفقیت و پیشرفت است) در برج جوزا (که نماد زمان خاصی است) توجه کنی. به عبارتی، در انتخاب‌هایت باید هوشمندانه عمل کنی و به ظواهر بی‌توجه باشی."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "نبینی اوج خورشید است جوزا",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "بدی کن تا توانی و ددی کن",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه بتوانی بدی کن و ترس و وحشت به وجود بیاور، تا هم جوانان و هم پیران از تو بترسند."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "که تا از تو بترسد پیر و برنا",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "همیشه همچو کژدم جان گزا باش",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همیشه مثل کژدمی باشید که نیش می‌زند، تا بتوانید مانند ماری با لباس زیبا زندگی کنید."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "که تا باشد چو مارت جامه دیبا",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "تما شا کن در این چرخ مشعبد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نگاه کن به این دنیای گردان که در آن، یک مهره زرد رنگ در دامن یک رنگین کمان قرار دارد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "که هستش مهره زرین حله مینا",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "ولی جان خواهد از تو وقت بازی",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما جانم خواهان تو در هنگام بازی است، زیرا اینجا برای تماشا هیچ هزینه‌ای وجود ندارد."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "که اینجا رایگان نبود تماشا",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "فلک چون دست یابد در خلد نیش",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به هنگامی که آسمان به با تو در بهشت بپردازد، می‌توانی انتخاب کنی که به جدال بپردازی یا به سازش و آرامش رو بیاوری."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "تو خواهی جنگ کن خواهی مدارا",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "تو از من ایدل این یک پند بشنو",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی موفق باشی و در کارهایت آگاهانه عمل کنی، باید به خودت و توانایی‌هایت توجه کنی و از تجربه‌های دیگران عبرت بگیری."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "اگر هستی بکار خویش بینا",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "چو گردون سفله پرور گشت و خس طبع",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که آسمان به نابخردان و افراد پست بها دهد و ارزش آن‌ها را بالا ببرد، آیا می‌توان انتظار داشت که از این افراد چیز باارزشی سر بزند؟ هرگز!"
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "خس و سفله توانی بود؟ حاشا",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "برو ملک قناعت جوی از یراک",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دنبال زندگی با قناعت و داشتن نیازهای اولیه باش، زیرا در آن دنیا هیچ نشانی از فقر وجود ندارد."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "در آن عالم نبینی فقر اصلا",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "تو گردر کوی حکمت خانه سازی",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مسیر حکمت و دانش، خانه‌سازی نکن که به دنیای خود توجهی نداشته باشی."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "نباشد با جهانت هیچ پروا",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "ترا چون هیچ حقی بر قضا نیست",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو هیچ حقی بر سرنوشت نداری، پس درخواست کردن از سرنوشت چه اشکالی دارد؟"
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "نه زشتست از قضا کردن تقاضا؟",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "ز درویشی ده آب کشت حکمت",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از زندگی ساده و فقیرانه، دانش و حکمت می‌رویاند و از سکوت، زندگی و جان واقعی را می‌توان شناخت."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "ز خاموشی حیات جان گویا",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "مکن بر چرخ نیک و بد حوالت",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که به سرنوشت خوب و بد اهمیتی ندهی، زیرا این کار از هیچ شخص خردمندی منطقی و زیبا نیست."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "که این از هیچ عاقل نیست زیبا",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "فلک سر گشته و بی اختیار است",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان به شکل چرخشی در آمده و از روی اختیار خارج شده، پس چرا می‌خواهی با او به زور و جدل بپردازی؟"
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "چرا با او همی گیری محاکا",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "فلک را بر خلاف حکم تقدیر",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرنوشت و تقدیر، راهی جز آنچه مقدر شده ندارد و زندگی انسان‌ها تحت سلطه‌ی همین تقدیر است؛ نه خوشبختی می‌تواند آن را تغییر دهد و نه بدبختی."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "بسعد و نحس گشتن نیست یا را",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "نه فعل چرخ و سعی انجم است این",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این کار، نه نتیجه فعالیت طبیعی ستاره‌ها و نه تلاش کهکشان‌هاست، بلکه ناشی از آگاهی و مهارت شخص دانا و توانا است."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "که هست این کار دانای توانا",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    }
+  ]
+}

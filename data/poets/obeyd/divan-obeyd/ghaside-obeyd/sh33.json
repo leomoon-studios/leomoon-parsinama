@@ -1,0 +1,615 @@
+{
+  "Id": 23689,
+  "CatId": 348,
+  "Title": "قصیدهٔ شمارهٔ ۳۳ - در وصف خطهٔ کرمان و مدح شاه شجاع گوید",
+  "FullTitle": "عبید زاکانی » دیوان اشعار » قصاید » قصیدهٔ شمارهٔ ۳۳ - در وصف خطهٔ کرمان و مدح شاه شجاع گوید",
+  "FullUrl": "/obeyd/divan-obeyd/ghaside-obeyd/sh33",
+  "RhymeLetters": "ان",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این متن، شاعر به توصیف زیبایی‌ها و نعمت‌های یک سرزمین خوش آب و هوا و سرشار از امنیت و آرامش می‌پردازد. او با استعاره‌های مختلف از جمله نور خورشید و نسیم‌های ملایم، به توصیف طبیعت دلپذیر و دستاوردهای حکومتی یک پادشاه نیک‌صلح می‌پردازد. شاعر حاکم را ستایش کرده و او را به عنوان منجی و حامی مردم معرفی می‌کند. او همچنین به عدالت و مهربانی حاکم اشاره می‌کند و تأکید دارد که در زمان او، مردم احساس امنیت و آرامش دارند. در نهایت، شاعر برای پادشاه دعا می‌کند و آرزو دارد که دوران حکومتش با رونق و خوشبختی همراه باشد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "سپیده دم که شهنشاه گنبد گردان\r\nکشید تیغ و بر اطراف شرق گشت روان\r\nسپهر غالیه سا و صبا عبیر آمیز\r\nشمال مجمره گردان نسیم مژده رسان\r\nز بهر مقدم سلطان چرخ پرتو صبح\r\nبه سوی عرصه خاور کشید شاد روان\r\nطلوع کرده ز مشرق طلایه خورشید\r\nچو از بلاد حبش پادشاه ترکستان\r\nبیمن دولت و اقبال شاه بنده نواز\r\nمرا به جانب کرمان کشید بخت عنان\r\nنظر گشادم و دیدم خجسته مملکتی\r\nمقر جاه و جلال و مقام امن و امان\r\nسواد او چو خم زلف حور عنبربار\r\nهوای او چو دم باد صبح مشگ افشان\r\nبه هر طرف که روی سبزه های او خرم\r\nبه هر چمن که رسی غنچه های او خندان\r\nز آب صافی او غبطه میخورد کوثر\r\nبه لطف روضه او رشگ میبرد رضوان\r\nفضای او همه پر باغ و راغ و گلشن و کاخ\r\nزمین او همه پر یاسمین و پر ریحان\r\nگذشته تارک ایوانهای عالی او\r\nز اوج منظر برجیس و طارم کیوان\r\nبه اعتدال چنان فصلهای او نزدیک\r\nکه ایمنست در او برگ گل ز باد خزان\r\nعجب نباشد اگر مرده زنده گرداند\r\nنسیم چون کند اندر فضای او جولان\r\nنظر به قلعه او کن که از بلندی قدر\r\nنه دست وهم بدو میرسد نه پای گمان\r\nهم آستانه او گشته با سپهر قرین\r\nهم آستانه او کرده با ستاره قران\r\nز شکل طاق و رواقش نشانه ای شبدیز\r\nز وضع کنگره هایش نمونه ای هرمان\r\nهمه خلایق او آنچنانکه خلق خورند\r\nقسم به جان کریمان خطه کرمان\r\nهمه وضیع و شریفش غریق ناز و نعیم\r\nزیمن معدلت خسرو زمین و زمان\r\nجلال دولت و دین پادشاه هفت اقلیم\r\nکه آفتاب بلند است و سایه یزدان\r\nسکندر آینه جمشید جاه و فرخ روز\r\nفلک سریر و ملک خلق و آفتاب احسان\r\nجهانگشای جوان بختیار دولت یار\r\nبلند مرتبه تاج بخش ملک ستان\r\nستاره لشگر و خورشید رای و کیوان قدر\r\nقضا شکوه قدر حمله زمانه توان\r\nهمای همت او طایر همایونست\r\nکه روز و شب همه بر سدره میکند طیران\r\nبه زور تیغ بگیرد جهان مکن تعجیل\r\nکه روزگار درازست و شهریار جوان\r\nبلند مرتبه شاها ز عدل شامل تو\r\nخلاص یافت جهان از طوارق حدثان\r\nزمین به بازوی طبع تو میشود آباد\r\nفلک به پشتی جاه تو میکند دوران\r\nاگر نه حلم تو دادی قرار دنیا را\r\nکجا شدی کره خاک مستقیم ارکان\r\nز جود و داد تو منسوخ گشت یکباره\r\nعطای حاتم طایی و عدل نوشروان\r\nز شعر خویش سه بیتم به یاد می آید\r\nدر این قصیده همی آورم کنون به میان\r\nبه عهد عدل تو جز نی نمیکند ناله\r\nز دست حادثه جز دف نمیکند افغان\r\nبه خواب امن فرو رفت چشمهای زره\r\nز گوشمال امان یافت گوشهای کمان\r\nفلک به جاه تو خرم چنانکه جان به خرد\r\nجهان به جود تو قایم چنان که تن به روان\r\nجهان پناها من آن کسم که از دل پاک\r\nگشاده ام به ولای تو در زمانه زبان\r\nثنا و مدح تو خواهم بر وضیع و شریف\r\nدعای جان تو گویم به آشکار و نهان\r\nمرا همیشه سلاطین عزیز داشته اند\r\nز ابتدای صبا تا به این زمان و اوان\r\nز حضرت تو همان چشم تربیت دارم\r\nکه دیده ام ز بزرگان و خسروان جهان\r\nهمیشه تا نبود دور مهر را انجام\r\nمدام تا نبود سیر ماه را پایان\r\nبه کامرانی و دولت هزار سال بزی\r\nبه شادمانی و عشرت هزار سال بمان\r\nهمای چتر ترا آفتاب در سایه\r\nنفاذ امر ترا کاینات در فرمان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپیده‌دم که شهنشاه گنبد گردان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکشید تیغ و بر اطراف شرق گشت روان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپهر غالیه سا و صبا عبیر آمیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمال مجمره گردان نسیم مژده رسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بهر مقدم سلطان چرخ پرتو صبح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سوی عرصهٔ خاور کشید شاد روان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطلوع کرده ز مشرق طلایهٔ خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو از بلاد حبش پادشاه ترکستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیمن دولت و اقبال شاه بنده نواز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا به جانب کرمان کشید بخت عنان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظر گشادم و دیدم خجسته مملکتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمقر جاه و جلال و مقام امن و امان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسواد او چو خم زلف حور عنبربار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهوای او چو دم باد صبح مشگ افشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر طرف که روی سبزه‌های او خرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هر چمن که رسی غنچه‌های او خندان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آب صافی او غبطه میخورد کوثر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه لطف روضهٔ او رشگ میبرد رضوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفضای او همه پر باغ و راغ و گلشن و کاخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزمین او همه پر یاسمین و پر ریحان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگذشته تارک ایوانهای عالی او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اوج منظر برجیس و طارم کیوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه اعتدال چنان فصلهای او نزدیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ایمنست در او برگ گل ز باد خزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعجب نباشد اگر مرده زنده گرداند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنسیم چون کند اندر فضای او جولان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظر به قلعهٔ او کن که از بلندی قدر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه دست وهم بدو میرسد نه پای گمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم آستانهٔ او گشته با سپهر قرین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم آستانهٔ او کرده با ستاره قران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز شکل طاق و رواقش نشانه‌ای شبدیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز وضع کنگره‌هایش نمونه‌ای هرمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه خلایق او آنچنانکه خلق خورند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقسم به جان کریمان خطهٔ کرمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه وضیع و شریفش غریق ناز و نعیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیمن معدلت خسرو زمین و زمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجلال دولت و دین پادشاه هفت اقلیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آفتاب بلند است و سایهٔ یزدان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسکندر آینه جمشید جاه و فرخ روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفلک سریر و ملک خلق و آفتاب احسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهانگشای جوان بختیار دولت یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلند مرتبهٔ تاج بخش ملک ستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eستاره لشگر و خورشید رای و کیوان قدر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقضا شکوه قدر حملهٔ زمانه توان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمای همت او طایر همایونست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه روز و شب همه بر سدره میکند طیران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زور تیغ بگیرد جهان مکن تعجیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه روزگار درازست و شهریار جوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلند مرتبه شاها ز عدل شامل تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخلاص یافت جهان از طوارق حدثان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزمین به بازوی طبع تو میشود آباد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفلک به پشتی جاه تو میکند دوران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر نه حلم تو دادی قرار دنیا را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجا شدی کرهٔ خاک مستقیم ارکان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز جود و داد تو منسوخ گشت یکباره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعطای حاتم طائی و عدل نوشروان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز شعر خویش سه بیتم به یاد می‌آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر این قصیده همی آورم کنون به میان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه عهد عدل تو جز نی نمیکند ناله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز دست حادثه جز دف نمیکند افغان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خواب امن فرو رفت چشمهای زره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز گوشمال امان یافت گوشهای کمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفلک به جاه تو خرم چنانکه جان به خرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان به جود تو قایم چنان که تن به روان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان پناها من آن کسم که از دل پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشاده‌ام به ولای تو در زمانه زبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eثنا و مدح تو خواهم بر وضیع و شریف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدعای جان تو گویم به آشکار و نهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا همیشه سلاطین عزیز داشته‌اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز ابتدای صبا تا به این زمان و اوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز حضرت تو همان چشم تربیت دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دیده‌ام ز بزرگان و خسروان جهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمیشه تا نبود دور مهر را انجام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمدام تا نبود سیر ماه را پایان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کامرانی و دولت هزار سال بزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه شادمانی و عشرت هزار سال بمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمای چتر ترا آفتاب در سایه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنفاذ امر ترا کاینات در فرمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 39
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سپیده‌دم که شهنشاه گنبد گردان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در سپیده‌دم، وقتی که پادشاه آسمان‌ها شمشیرش را به‌دست گرفت و به سمت شرق حرکت کرد، نور و روشنی به اطراف منتشر شد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کشید تیغ و بر اطراف شرق گشت روان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سپهر غالیه سا و صبا عبیر آمیز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان با عطر و بوی خوشی آکنده شده و نسیم ملایمی از سمت شمال می‌وزد که خبر و نوید خوشی را به گوش می‌رساند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شمال مجمره گردان نسیم مژده رسان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز بهر مقدم سلطان چرخ پرتو صبح",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای خوشامدگویی به سلطان، پرتوهای صبح به سمت عرصهٔ شرق با شادابی و نشاط حرکت کردند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به سوی عرصهٔ خاور کشید شاد روان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "طلوع کرده ز مشرق طلایهٔ خورشید",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید مانند پادشاهی از مناطق حبشه به آرامی از سمت مشرق طلوع کرده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چو از بلاد حبش پادشاه ترکستان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بیمن دولت و اقبال شاه بنده نواز",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به لطف و محبت شاه نوازنده، سرنوشت به من کمک کرد و مرا به سمت کرمان هدایت کرد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مرا به جانب کرمان کشید بخت عنان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "نظر گشادم و دیدم خجسته مملکتی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشمم را باز کردم و دیدم کشوری خوشبخت، با جلال و عظمت و جایی امن و آسوده."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "مقر جاه و جلال و مقام امن و امان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "سواد او چو خم زلف حور عنبربار",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سیاهی موی او مانند خم زلف یک پری خوشبو است و هوای او مانند نسیم صبح است که عطر خوشی را پخش می‌کند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "هوای او چو دم باد صبح مشگ افشان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "به هر طرف که روی سبزه‌های او خرم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر دلی که نگاهی به زیبایی‌های طبیعت بیندازی، در هر چمنی که بروی، گل‌ها و غنچه‌ها شاد و خندان خواهند بود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "به هر چمن که رسی غنچه‌های او خندان",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ز آب صافی او غبطه میخورد کوثر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کوثر به خاطر زیبایی و صفای آب او حسادت می‌ورزد و رضوان به خاطر لطف و شادی باغ او دچار رنج می‌شود."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "به لطف روضهٔ او رشگ میبرد رضوان",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "فضای او همه پر باغ و راغ و گلشن و کاخ",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فضای او پر از باغ‌ها، چمن‌زارها و گل‌هاست و سرزمین او مملو از یاس‌ها و نعناهاست."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "زمین او همه پر یاسمین و پر ریحان",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "گذشته تارک ایوانهای عالی او",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گذشته، نورانی و باشکوه است و از بلندای برج‌ها و آسمان‌ها دیده می‌شود."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "ز اوج منظر برجیس و طارم کیوان",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "به اعتدال چنان فصلهای او نزدیک",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فصل‌ها به گونه‌ای متوازن و دلپذیر نزدیک به هم هستند که در این میان، گل‌ها از وزش باد خزان در امان‌اند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "که ایمنست در او برگ گل ز باد خزان",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "عجب نباشد اگر مرده زنده گرداند",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نباید تعجب کرد اگر نسیم بتواند مرده‌ای را زنده کند، زیرا که او در فضای خود به پرواز در می‌آید."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "نسیم چون کند اندر فضای او جولان",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "نظر به قلعهٔ او کن که از بلندی قدر",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به او نگاه کن که در مرتبه‌ای بلند قرار دارد، جایی که نه خیالات و توهمات به آن می‌رسند و نه گمان‌ها و شک‌ها."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "نه دست وهم بدو میرسد نه پای گمان",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "هم آستانهٔ او گشته با سپهر قرین",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف نزدیکی و ارتباطی معنوی و آسمانی اشاره دارد. شاعر بیان می‌کند که وجود خداوند با آسمان‌ها پیوند خورده و در این پیوند، نشانه‌ای از قدرت و عظمت او به چشم می‌خورد. همچنین، تعامل و نسبت ستاره‌ها با خداوند را به نوعی قرآنی و مقدس می‌داند، به‌طوری که همه چیز در عالم آفرینش زیر نظر و ارادهٔ او قرار دارد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "هم آستانهٔ او کرده با ستاره قران",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "ز شکل طاق و رواقش نشانه‌ای شبدیز",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ساختار زیبای طاق و رواقش، نشانه‌ای همچون اسب شبدیز دیده می‌شود و از شکل‌گیری کنگره‌هایش، الگویی خاص و جالب به چشم می‌خورد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "ز وضع کنگره‌هایش نمونه‌ای هرمان",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "همه خلایق او آنچنانکه خلق خورند",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به توصیف رفتار و خصوصیات مردم کرمان اشاره دارد. شاعر از سلوک و رفتار انسانی و کریمانه مردم آن دیار سخن می‌گوید و قسم می‌خورد که آن افراد با صفات نیکو زندگی می‌کنند، به‌گونه‌ای که همگان آن را می‌پسندند و به خوبی‌هایشان احترام می‌گذارند."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "قسم به جان کریمان خطهٔ کرمان",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "همه وضیع و شریفش غریق ناز و نعیم",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه افراد، چه بی‌اهمیت و چه با اهمیت، در خوشی و آرامش غرق شده‌اند، زیرا او، پادشاه زمین و زمان، عدالت را برقرار کرده است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "زیمن معدلت خسرو زمین و زمان",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "جلال دولت و دین پادشاه هفت اقلیم",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جلال و عظمت پادشاه که بر هفت سرزمین حکم می‌راند، همانند نور خورشید درخشان و سایهٔ خداوند است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "که آفتاب بلند است و سایهٔ یزدان",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "سکندر آینه جمشید جاه و فرخ روز",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سکندر مانند آینه جمشید، نماد قدرت و عظمت است. او دارای مقام و روزگار خوشی است که همواره مورد توجه و احترام مردم قرار دارد و همچنین مانند آفتاب، بخشنده و نیکوکار است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "فلک سریر و ملک خلق و آفتاب احسان",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "جهانگشای جوان بختیار دولت یار",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهانگشای جوان، که بخت خوبی دارد، یاری برای دولت است و مقام بلندی دارد که تاج ملک را بر سر می‌گذارد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "بلند مرتبهٔ تاج بخش ملک ستان",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "ستاره لشگر و خورشید رای و کیوان قدر",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ستاره‌ها نماد نیرو و قدرت هستند و خورشید نمایانگر روشنایی و دانایی. کیوان (زحل) نیز به عنوان نمادی از سرنوشت و قضا و قدر شناخته می‌شود. این ابیات به شکوه و عظمت زمانه اشاره دارند و به قدرت‌نمایی آن در شرایط مختلف پرداخته‌اند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "قضا شکوه قدر حملهٔ زمانه توان",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "همای همت او طایر همایونست",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همانند پرنده‌ای باشکوه و بزرگ، اراده و عزم او همواره در حال پرواز است و هر روز و شب به اوج‌های بلند می‌رسد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "که روز و شب همه بر سدره میکند طیران",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "به زور تیغ بگیرد جهان مکن تعجیل",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با زور و قدرت نمی‌توان دنیا را تحت کنترل درآورد، شتاب نکنید زیرا زندگی ادامه دارد و زمان هنوز به پایان نرسیده است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "که روزگار درازست و شهریار جوان",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "بلند مرتبه شاها ز عدل شامل تو",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه بزرگ و بلندپایه، به لطف عدل و انصاف تو، جهان از مشکلات و بلاهای ناگهانی رهایی یافته است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "خلاص یافت جهان از طوارق حدثان",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "زمین به بازوی طبع تو میشود آباد",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمین با توانمندی و خلاقیت تو رونق خواهد گرفت و آسمان به خاطر مقام و اعتبار تو به گردش درمی‌آید."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "فلک به پشتی جاه تو میکند دوران",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "اگر نه حلم تو دادی قرار دنیا را",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نبود صبوری و بردباری تو در دنیا، هیچ چیز نمی‌توانست به حال و روز کنونی خود برسد و نظم و ثباتی وجود نداشت."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "کجا شدی کرهٔ خاک مستقیم ارکان",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "ز جود و داد تو منسوخ گشت یکباره",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر بخشندگی و انصاف تو، بخشش حاتم طایی و عدالت نوشروان ناچیز و از یاد رفته است."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "عطای حاتم طائی و عدل نوشروان",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "ز شعر خویش سه بیتم به یاد می‌آید",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به یاد دارم که سه بیت از شعر خودم را در این قصیده به میان می‌آورم."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "در این قصیده همی آورم کنون به میان",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "به عهد عدل تو جز نی نمیکند ناله",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها در سایه عدالت توست که کسی از ناله و گله نمی‌کند و تنها صدای ناله یا عذاب ناشی از بلایای زندگی به صدای دف شبیه است."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "ز دست حادثه جز دف نمیکند افغان",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "به خواب امن فرو رفت چشمهای زره",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌های زره‌پوش در آرامش خواب فرو رفته‌اند و گوش‌های کمان از خطر و تهدید در امان مانده‌اند."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "ز گوشمال امان یافت گوشهای کمان",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "فلک به جاه تو خرم چنانکه جان به خرد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان به خاطر بزرگی و مقام تو شاداب است، مانند اینکه جان به خاطر خرد و عقل در تن موجود است. جهان به بخشندگی تو استوار است، همانطور که بدن به روح وابسته است."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "جهان به جود تو قایم چنان که تن به روان",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "جهان پناها من آن کسم که از دل پاک",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در این دنیا پناه کسی هستم که از دل پاک و صمیمی خود را به محبت و دوستی تو گشوده‌ام."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "گشاده‌ام به ولای تو در زمانه زبان",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "ثنا و مدح تو خواهم بر وضیع و شریف",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در هر حال و در هر مکان، خواهم از تو تعریف و تمجید کنم، و دعای خیرت را هم به صورت علنی و هم در دل می‌گویم."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "دعای جان تو گویم به آشکار و نهان",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "مرا همیشه سلاطین عزیز داشته‌اند",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ابتدای جوانی تا کنون، همیشه مورد احترام و محبت سلاطین بوده‌ام."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "ز ابتدای صبا تا به این زمان و اوان",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "ز حضرت تو همان چشم تربیت دارم",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از شما همان نگاهی را دارم که از بزرگانی که در این دنیا زندگی کرده‌اند، دیده‌ام."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "که دیده‌ام ز بزرگان و خسروان جهان",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "همیشه تا نبود دور مهر را انجام",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همیشه وقتی که دوری محبت وجود نداشته باشد، باید ادامه بدهیم و تا زمانی که ماه به کامل شدن نرسد، این روند ادامه خواهد داشت."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "مدام تا نبود سیر ماه را پایان",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "به کامرانی و دولت هزار سال بزی",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خوشبختی و موفقیت هزار سال زندگی کن و به شادی و لذت هزار سال باقی بمان."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "به شادمانی و عشرت هزار سال بمان",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "همای چتر ترا آفتاب در سایه",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای چون همای، که نماد بلندپروازی و برکت است، تحت نور آفتاب قرار گرفته و در سایه‌اش حکم و فرمان تو در جهان جاری است. این بدان معناست که با وجود بی‌پروایی و بلندی همای، تأثیر و اراده تو در عالم حاکم است."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "نفاذ امر ترا کاینات در فرمان",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    }
+  ]
+}

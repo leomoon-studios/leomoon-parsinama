@@ -1,0 +1,825 @@
+{
+  "Id": 10539,
+  "CatId": 137,
+  "Title": "قصیدهٔ شمارهٔ ۲۴ - تنبیه و موعظت",
+  "FullTitle": "سعدی » مواعظ » قصاید » قصیدهٔ شمارهٔ ۲۴ - تنبیه و موعظت",
+  "FullUrl": "/saadi/mavaez/ghasides/sh24",
+  "RhymeLetters": "انشود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره مرگ و عالم پس از آن است. شاعر به فکر روزی می‌افتد که بدن انسان زیر خاک می‌رود و در آن موقع اعمال و رفتار او مشخص می‌شود. او از خداوند درخواست می‌کند که در آن زمان او را ببخشاید. شاعر به حال انسان‌ها که در هنگام مرگ با حسرت و درد آشنا می‌شوند اشاره می‌کند و به عواقب اعمال آنان در دنیا و آخرت می‌پردازد. روح و جسم جدا می‌شوند و به نوعی از زندگی گذشته انسان‌ها یاد می‌شود. سرانجام، روز قیامت و حسابرسی اعمال مطرح می‌شود که فرد با توجه به نیکی و بدی‌هایش در مقام ابدی خود قرار می‌گیرد. شاعر به عواقب اعمال خوب و بد افراد اشاره کرده و بر لزوم خودسازی و توجه به ایمان تأکید می‌کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انشود",
+      "PlainText": "روزی که زیر خاک تن ما نهان شود\r\nوانها که کرده ایم یکایک عیان شود\r\nیارب به فضل خویش ببخشای بنده را\r\nآن دم که عازم سفر آن جهان شود\r\nبیچاره آدمی که اگر خود هزار سال\r\nمهلت بیابد از اجل و کامران شود\r\nهم عاقبت چو نوبت رفتن بدو رسد\r\nبا صدهزار حسرت از اینجا روان شود\r\nفریاد از آن زمان که تن نازنین ما\r\nبر بستر هوان فتد و ناتوان شود\r\nاصحاب را ز واقعه ما خبر کنند\r\nهر دم کسی به رسم عیادت روان شود\r\nو آن کس که مشفقست و دلش مهربان ماست\r\nدر جستن دوا به بر این و آن شود\r\nوانگه که چشم بر رخ ما افکند طبیب\r\nدر حال ما چو فکر کند بدگمان شود\r\nگوید فلان شراب طلب کن که سود تست\r\nما را بدان امید بسی در زیان شود\r\nشاید که یک دو روز دگر مانده عمر ما\r\nوآن یک دو روز بر سر سود و زیان شود\r\nیاران و دوستان همه در فکر عاقبت\r\nکاحوال بر چگونه و حال از چه سان شود\r\nتا آن زمان که چهره بگردد ز حال خویش\r\nو آن رنگ ارغوانی ما زعفران شود\r\nو آن رنج در وجود به نوعی اثر کند\r\nکز لاغری بسان یکی ریسمان شود\r\nدر ورطه هلاک فتد کشتی وجود\r\nنیز از عمل بماند و بی بادبان شود\r\nآمد شد ملایکه در وقت قبض روح\r\nچون بنگریم دیده ما خون فشان شود\r\nباید که در چشیدن آن جام زهرناک\r\nشیرینی شهادت ما در زبان شود\r\nیا رب مدد ببخش که ما را در آن زمان\r\nقول زبان موافق صدق جنان شود\r\nایمان ما ز غارت شیطان نگاه دار\r\nتا از عذاب خشم تو جان در امان شود\r\nفی الجمله روح و جسم ز هم منفرق شوند\r\nمرغ از قفس برآید و در آشیان شود\r\nجان ار بود پلید شود در زمین فرو\r\nور پاک باشد او زبر آسمان شود\r\nآوازه در سرای در افتد که خواجه مرد\r\nوز بم و زیر خانه پر آه و فغان شود\r\nاز یک طرف غلام بگرید به های های\r\nوز یک طرف کنیز به زاری کنان شود\r\nدر یتیم گوهر یکدانه را ز اشک\r\nجزع دو دیده پر ز عقیق یمان شود\r\nتابوت و پنبه و کفن آرند و مرده شوی\r\nاوراد ذاکران ز کران تا کران شود\r\nآرند نعش تا به لب گور و هر که هست\r\nبعد از نماز باز سر خانمان شود\r\nهر کس رود به مصلحت خویش و جسم ما\r\nمحبوس و مستمند در آن خاک دان شود\r\nپس منکر و نکیر بپرسند حال ما\r\nوین جمله حکمها ز پی امتحان شود\r\nگر کرده ایم خیر و نماز و خلاف نفس\r\nآن خاک دان تیره به ما گلستان شود\r\nور جرم و معصیت بود و فسق کار ما\r\nآتش در اوفتد به لحد هم دخان شود\r\nیک هفته یا دو هفته کم و بیش صبح و شام\r\nبا گریه دوست همدم و هم داستان شود\r\nحلوا سه چار صحن شب جمعه چند بار\r\nبهر ریا به خانه هر گورخوان شود\r\nوان همسر عزیز که از عده دست داشت\r\nخواهد که باز بسته عقد فلان شود\r\nمیراث گیر کم خرد آید به جست و جوی\r\nپس گفت و گوی بر سر باغ و دکان شود\r\nنامی ز ما بماند و اجزای ما تمام\r\nدر زیر خاک با غم و حسرت نهان شود\r\nو آنگه که چند سال برین حال بگذرد\r\nآن نام نیز گم شود و بی نشان شود\r\nو آن صورت لطیف شود جمله زیر خاک\r\nو آن جسم زورمند کفی استخوان شود\r\nاز خاک گورخانه ما خشتها پزند\r\nو آن خاک و خشت دست کش گل گران شود\r\nدوران روزگار به ما بگذرد بسی\r\nگاهی شود بهار و دگر گه خزان شود\r\nتا روز رستخیز که اصناف خلق را\r\nتن ها ز بهر عرض قرین روان شود\r\nحکم خدای عزوجل کاینات را\r\nدر فصل هر فصیله به کلی روان شود\r\nاز گفتن و شنیدن و از کرده های بد\r\nدر موقف محاسبه یک یک عیان شود\r\nمیزان عدل نصب کنند از برای خلق\r\nیک سر سبک برآید و یک سر گران شود\r\nهر کس نگه کند به بد و نیک خویشتن\r\nآنجا یکی غمین و یکی شادمان شود\r\nبندند باز بر سر دوزخ پل صراط\r\nهر کس ازو گذشت مقیم جنان شود\r\nو آن کس که از صراط بلرزید پای او\r\nدر خواری و عذاب ابد جاودان شود\r\nاشرار را حرارت دوزخ کند قبول\r\nو احرار را عنایت حق سایبان شود\r\nبس روی همچو ماه ز خجلت شود سیاه\r\nبس قد همچو تیر ز هیبت کمان شود\r\nبس شخص بینوا که ورا از علو قدر\r\nعشرت سرای جنت اعلی مکان شود\r\nبس پیر مستمند که در گلشن مراد\r\nبوی بهشت بشنود و نوجوان شود\r\nمسکین اسیر نفس و هوا کاندران مقام\r\nبا صد هزار غصه قرین هوان شود\r\nبرگی که از برای مطیعان کشد خدای\r\nعاصی چگونه در خور آن برگ خوان شود\r\nخرم دلی که در حرم آباد امن و عیش\r\nحق را به خوان لطف و کرم میهمان شود\r\nاین کار دولتست نداند کسی یقین\r\nسعدی یقین به جنت و خلدت چه سان شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزی که زیر خاک تن ما نهان شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانها که کرده‌ایم یکایک عیان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارب به فضل خویش ببخشای بنده را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن دم که عازم سفر آن جهان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیچاره آدمی که اگر خود هزار سال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهلت بیابد از اجل و کامران شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم عاقبت چو نوبت رفتن بدو رسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا صدهزار حسرت از اینجا روان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفریاد از آن زمان که تن نازنین ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر بستر هوان فتد و ناتوان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاصحاب را ز واقعهٔ ما خبر کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دم کسی به رسم عیادت روان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو آن کس که مشفقست و دلش مهربان ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جستن دوا به بر این و آن شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوانگه که چشم بر رخ ما افکند طبیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر حال ما چو فکر کند بدگمان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوید فلان شراب طلب کن که سود تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما را بدان امید بسی در زیان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاید که یک دو روز دگر مانده عمر ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن یک دو روز بر سر سود و زیان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاران و دوستان همه در فکر عاقبت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاحوال بر چگونه و حال از چه سان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا آن زمان که چهره بگردد ز حال خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آن رنگ ارغوانی ما زعفران شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو آن رنج در وجود به نوعی اثر کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز لاغری بسان یکی ریسمان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ورطهٔ هلاک فتد کشتی وجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیز از عمل بماند و بی‌بادبان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآمد شد ملائکه در وقت قبض روح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون بنگریم دیدهٔ ما خون‌فشان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباید که در چشیدن آن جام زهرناک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشیرینی شهادت ما در زبان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب مدد ببخش که ما را در آن زمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقول زبان، موافق صدق جنان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایمان ما ز غارت شیطان نگاه دار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا از عذاب خشم تو جان در امان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفی‌الجمله روح و جسم ز هم منفرق شوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغ از قفس برآید و در آشیان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان ار بود پلید شود در زمین فرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور پاک باشد او زبر آسمان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآوازه در سرای در افتد که خواجه مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز بم و زیر، خانه پر آه و فغان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز یک طرف غلام بگرید به های های\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز یک طرف کنیز به زاری کنان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر یتیم گوهر یکدانه را ز اشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجزع دو دیده پر ز عقیق یمان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتابوت و پنبه و کفن آرند و مرده شوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاوراد ذاکران ز کران تا کران شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآرند نعش تا به لب گور و هر که هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبعد از نماز باز سر خانمان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس رود به مصلحت خویش و جسم ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمحبوس و مستمند در آن خاک‌دان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس منکر و نکیر بپرسند حال ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین جمله حکمها ز پی امتحان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کرده‌ایم خیر و نماز و خلاف نفس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن خاک‌دان تیره به ما گلستان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور جرم و معصیت بود و فسق کار ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش در اوفتد به لحد هم دخان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک هفته یا دو هفته کم و بیش صبح و شام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا گریه دوست همدم و هم‌داستان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحلوا سه چار صحن شب جمعه چند بار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر ریا به خانهٔ هر گورخوان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوان همسر عزیز که از عده دست داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواهد که باز بستهٔ عقد فلان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیراث گیر کم خرد آید به جست و جوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس گفت و گوی بر سر باغ و دکان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنامی ز ما بماند و اجزای ما تمام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر زیر خاک با غم و حسرت نهان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو آنگه که چند سال برین حال بگذرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن نام نیز گم شود و بی‌نشان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو آن صورت لطیف شود جمله زیر خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آن جسم زورمند کفی استخوان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خاک گورخانهٔ ما خشتها پزند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آن خاک و خشت دست کش گل گران شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوران روزگار به ما بگذرد بسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهی شود بهار و دگر گه خزان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا روز رستخیز که اصناف خلق را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتن‌ها ز بهر عرض قرین روان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحکم خدای عزوجل کائنات را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر فصل هر فصیله به کلی روان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز گفتن و شنیدن و از کرده‌های بد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر موقف محاسبه یک یک عیان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیزان عدل نصب کنند از برای خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک سر سبک برآید و یک سر گران شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس نگه کند به بد و نیک خویشتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنجا یکی غمین و یکی شادمان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبندند باز بر سر دوزخ پل صراط\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کس ازو گذشت مقیم جنان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eو آن کس که از صراط بلرزید پای او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خواری و عذاب ابد جاودان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشرار را حرارت دوزخ کند قبول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو احرار را عنایت حق سایبان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس روی همچو ماه ز خجلت شود سیاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس قد همچو تیر ز هیبت کمان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس شخص بینوا که ورا از علو قدر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشرت سرای جنت اعلی مکان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس پیر مستمند که در گلشن مراد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوی بهشت بشنود و نوجوان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمسکین اسیر نفس و هوا کاندران مقام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا صد هزار غصه قرین هوان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرگی که از برای مطیعان کشد خدای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاصی چگونه در خور آن برگ خوان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرم دلی که در حرم‌آباد امن و عیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحق را به خوان لطف و کرم میهمان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین کار دولتست نداند کسی یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسعدی یقین به جنت و خلدت چه سان شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 53
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روزی که زیر خاک تن ما نهان شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزی خواهد رسید که بدن ما در زیر خاک پنهان می‌شود و تمامی اعمالی که کرده‌ایم، یکی یکی نمایان خواهد گشت."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وانها که کرده‌ایم یکایک عیان شود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یارب به فضل خویش ببخشای بنده را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خدایا، با لطف و کرم خودت، در آن لحظه که بنده‌ات آماده سفر به جهان دیگر می‌شود، او را ببخش."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آن دم که عازم سفر آن جهان شود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بیچاره آدمی که اگر خود هزار سال",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آدمی که حتی اگر هزار سال هم عمر کند، عاقبت ممکن است از خوشبختی و زندگی واقعی محروم بماند، بیچاره است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مهلت بیابد از اجل و کامران شود",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هم عاقبت چو نوبت رفتن بدو رسد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که نوبت رفتن به سوی او فرا برسد، با صدها هزار حسرت و آرزو از اینجا حرکت خواهد کرد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "با صدهزار حسرت از اینجا روان شود",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "فریاد از آن زمان که تن نازنین ما",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ناله و افسوس از زمانی است که جسم عزیز ما بر تخت ناتوانی بیفتد و قدرتش را از دست بدهد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بر بستر هوان فتد و ناتوان شود",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "اصحاب را ز واقعهٔ ما خبر کنند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر لحظه کسی به سراغ دوستان و آشناها می‌رود تا از ماجرا و واقعه‌ای که برای ما پیش آمده، خبری به آنها بدهد و به نوعی حال ما را بپرسد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هر دم کسی به رسم عیادت روان شود",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "و آن کس که مشفقست و دلش مهربان ماست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که دلسوز و مهربان است، در تلاش برای یافتن درمان مشکلات دیگران به دنبال کمک می‌رود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "در جستن دوا به بر این و آن شود",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "وانگه که چشم بر رخ ما افکند طبیب",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که پزشک بر چهره ما نگاهی بیندازد، اگر به حال ما فکر کند، ممکن است دلسرد و بدبین شود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "در حال ما چو فکر کند بدگمان شود",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گوید فلان شراب طلب کن که سود تست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گوید که فلان شراب را بخواه، چرا که نفع تو در آن است، اما به امید این‌که باعث زیان ما می‌شود."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "ما را بدان امید بسی در زیان شود",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "شاید که یک دو روز دگر مانده عمر ما",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاید فقط چند روز دیگر از عمر ما باقی مانده باشد و این چند روز به بررسی خوبی‌ها و بدی‌های زندگی‌مان بگذرد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "وآن یک دو روز بر سر سود و زیان شود",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "یاران و دوستان همه در فکر عاقبت",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستان و یاران همه نگران آینده هستند و این که وضعیت به چه صورت خواهد بود."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "کاحوال بر چگونه و حال از چه سان شود",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "تا آن زمان که چهره بگردد ز حال خویش",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که آدمی از حال خود بی‌خبر شود و رنگ چهره‌اش تغییر کند و به رنگ زعفرانی درآید."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "و آن رنگ ارغوانی ما زعفران شود",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "و آن رنج در وجود به نوعی اثر کند",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رنج و زحمات در وجود انسان به گونه‌ای تأثیر می‌گذارد که او را تا حدی به لاغری می‌کشاند، به طوری که مانند یک ریسمان باریک و شکننده به نظر می‌رسد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "کز لاغری بسان یکی ریسمان شود",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "در ورطهٔ هلاک فتد کشتی وجود",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کشتی وجود به سرنوشت هلاکت دچار شود، دیگر عملی نخواهد کرد و از حرکت بازخواهد ماند؛ مانند کشتی‌ای که بادبان ندارد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "نیز از عمل بماند و بی‌بادبان شود",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "آمد شد ملائکه در وقت قبض روح",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که فرشتگان در زمان جان گرفتن به سراغ انسان می‌آیند، اگر به آن نگاه کنیم چشمان‌مان چنان پر از اشک و تلاطم می‌شود که گویا خون می‌فشاند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "چون بنگریم دیدهٔ ما خون‌فشان شود",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "باید که در چشیدن آن جام زهرناک",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باید طعم شیرین شهادت ما در میان مردم بر سر زبان‌ها بیفتد، حتی اگر این شیرینی با تلخی‌هایی همراه باشد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "شیرینی شهادت ما در زبان شود",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "یا رب مدد ببخش که ما را در آن زمان",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بار الها، به ما یاری کن که در آن هنگام، اگر زبان ما چیزی گفت، دل ما نیز بر آن موافق باشد و راستگو باشد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "قول زبان، موافق صدق جنان شود",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "ایمان ما ز غارت شیطان نگاه دار",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ایمان ما را از دست شیطان حفظ کن تا از عذاب و خشم تو در امان باشیم."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "تا از عذاب خشم تو جان در امان شود",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "فی‌الجمله روح و جسم ز هم منفرق شوند",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در کل، روح و بدن از یکدیگر جدا می‌شوند، مانند اینکه مرغ از قفس آزاد شده و به آشیانه‌اش برمی‌گردد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "مرغ از قفس برآید و در آشیان شود",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "جان ار بود پلید شود در زمین فرو",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر جان انسان آلوده باشد، به زمین می‌رود و در خاک فرو می‌رود، اما اگر پاک باشد، به آسمان صعود می‌کند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "ور پاک باشد او زبر آسمان شود",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "آوازه در سرای در افتد که خواجه مرد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای خوش در خانه‌ای می‌پیچد که صاحب‌خانه انسان نیک‌رفتاری باشد، ولی اگر او شخصیت خوبی نداشته باشد و در زندگی‌اش غم و رنج وجود داشته باشد، آن خانه پر از ناله و گریه خواهد شد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "وز بم و زیر، خانه پر آه و فغان شود",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "از یک طرف غلام بگرید به های های",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از یک سو، غلام به شدت گریه می‌کند و از سوی دیگر، کنیز نیز با شیون و زاری به حالت ناله در می‌آید."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "وز یک طرف کنیز به زاری کنان شود",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "در یتیم گوهر یکدانه را ز اشک",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در میان یتیم‌زادگان، گوهر ارزشمندی که تنها یک نمونه است، با اشک‌های اندوه و غم دو چشم مانند عقیق یمنی پر می‌شود."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "جزع دو دیده پر ز عقیق یمان شود",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "تابوت و پنبه و کفن آرند و مرده شوی",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم آماده می‌شوند برای تدفین، با تابوت، پنبه و کفن؛ و در این میان، دعاگویان و ذکرگوها از دور و بر به کمک می‌آیند."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "اوراد ذاکران ز کران تا کران شود",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "آرند نعش تا به لب گور و هر که هست",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم تا زمانی که به خانه‌ی ابدی می‌رسند، در حال حرکت و تلاش برای زندگی‌اند و بعد از هر نماز، دوباره به زندگی و مسئولیت‌های روزمره خود برمی‌گردند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "بعد از نماز باز سر خانمان شود",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "هر کس رود به مصلحت خویش و جسم ما",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی به دنبال منافع و مصلحت‌های خود می‌رود، در حالی که ما در این دنیا در شرایطی محدود و نیازمند قرار داریم."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "محبوس و مستمند در آن خاک‌دان شود",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "پس منکر و نکیر بپرسند حال ما",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آن عالم، دو فرشته به نام منکر و نکیر از ما حالمان را سوال خواهند کرد و این سوالات برای آزمایش و امتحان ما خواهد بود."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "وین جمله حکمها ز پی امتحان شود",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "گر کرده‌ایم خیر و نماز و خلاف نفس",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ما کارهای نیک و نماز را انجام داده‌ایم و نفسانیت خود را زیر پا گذاشته‌ایم، در این صورت می‌توانیم آن دنیای تاریک و کثیف را به مکانی سرسبز و وادار به رشد تبدیل کنیم."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "آن خاک‌دان تیره به ما گلستان شود",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "ور جرم و معصیت بود و فسق کار ما",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ما مرتکب گناه و فساد شویم، حتی در زمان مرگ نیز باعث ایجاد آتش و دود خواهیم شد."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "آتش در اوفتد به لحد هم دخان شود",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "یک هفته یا دو هفته کم و بیش صبح و شام",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در طول یک یا دو هفته، صبح و شب با گریه کردن، دوست می‌تواند همدم و هم‌داستان شود."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "با گریه دوست همدم و هم‌داستان شود",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "حلوا سه چار صحن شب جمعه چند بار",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حلوا در شب جمعه به نمایش گذاشته می‌شود و برخی برای نشان دادن خود و به خاطر ریاکاری، آن را بارها به خانهٔ کسانی که می‌خوانند، می‌برند."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "بهر ریا به خانهٔ هر گورخوان شود",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "وان همسر عزیز که از عده دست داشت",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زن عزیز که در دوران عده (مدت انتظار بعد از جدایی یا فوت همسر) به سر می‌برد، تمایل دارد که دوباره ازدواج کند و عقد جدیدی به بندد."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "خواهد که باز بستهٔ عقد فلان شود",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "میراث گیر کم خرد آید به جست و جوی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که از فهم و درک کمی برخوردار است، به دنبال ارث و میراث است و در این راه بیشتر مشغول بحث و گفتگو درباره باغ و مغازه می‌شود."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "پس گفت و گوی بر سر باغ و دکان شود",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "نامی ز ما بماند و اجزای ما تمام",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نامی از ما بر جا بماند و اجزای ما به طور کامل در زیر خاک با اندوه و حسرت پنهان شود."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "در زیر خاک با غم و حسرت نهان شود",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "و آنگه که چند سال برین حال بگذرد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که چند سال از این وضعیت بگذرد، آن نام نیز فراموش خواهد شد و دیگر اثری از آن باقی نخواهد ماند."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "آن نام نیز گم شود و بی‌نشان شود",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "و آن صورت لطیف شود جمله زیر خاک",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن چهره زیبا به تدریج زیر خاک مدفون خواهد شد و آن بدن قوی و نیرومند به جز کاهی از استخوان‌ها تبدیل می‌شود."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "و آن جسم زورمند کفی استخوان شود",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "از خاک گورخانهٔ ما خشتها پزند",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خاک قبرستان ما آجرهایی می‌سازند و آن خاک و آجرها به کمک گل‌های گرانبها تبدیل خواهند شد."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "و آن خاک و خشت دست کش گل گران شود",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "دوران روزگار به ما بگذرد بسی",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی ما در گذر زمان گاهی خوش و شاداب است مثل بهار و گاهی غم‌انگیز و سخت مثل پاییز می‌شود."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "گاهی شود بهار و دگر گه خزان شود",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "تا روز رستخیز که اصناف خلق را",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا روز قیامت که انسان‌ها برای پاسخ‌گویی به اعمال خود به حضور پروردگار می‌شتابند."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "تن‌ها ز بهر عرض قرین روان شود",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "حکم خدای عزوجل کائنات را",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند عالی‌رتبه، فرمانش بر همه موجودات در هر فصل و زمان به طور کامل جاری و ساری است."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "در فصل هر فصیله به کلی روان شود",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "از گفتن و شنیدن و از کرده‌های بد",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز حساب و کتاب، هر آنچه که گفته‌ایم و شنیده‌ایم و همچنین اعمال ناپسند ما، به وضوح مشخص خواهد شد."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "در موقف محاسبه یک یک عیان شود",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "میزان عدل نصب کنند از برای خلق",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عدل باید به گونه‌ای برقرار شود که برای همه افراد جامعه یکسان باشد؛ در غیر این صورت، برخی احساس سبکی و آسودگی می‌کنند و برخی دیگر تحت فشار و سنگینی قرار می‌گیرند."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "یک سر سبک برآید و یک سر گران شود",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "هر کس نگه کند به بد و نیک خویشتن",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر فردی که به خوبی‌ها و بدی‌های خود نگاه کند، در نتیجه ممکن است به یک نوع احساس غم یا شادمانی دچار شود."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "آنجا یکی غمین و یکی شادمان شود",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "بندند باز بر سر دوزخ پل صراط",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که از پل صراط عبور کند، به بهشت خواهد رفت و کسانی که نتوانند عبور کنند، در دوزخ باقی می‌مانند."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "هر کس ازو گذشت مقیم جنان شود",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "و آن کس که از صراط بلرزید پای او",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که در مسیر زندگی خود دچار تردید و ترس شود، در عذاب و ذلت ابدی گرفتار خواهد آمد."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "در خواری و عذاب ابد جاودان شود",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "اشرار را حرارت دوزخ کند قبول",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدی‌ها و گناهکاران عذاب دوزخ را می‌پذیرند، اما انسان‌های نیکوکار و صالح تحت حمایت و رحمت الهی قرار می‌گیرند."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "و احرار را عنایت حق سایبان شود",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "بس روی همچو ماه ز خجلت شود سیاه",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از افرادی که زیبایی و جوانی دارند، گاهی به خاطر شرم و خجالت، چهره‌شان تیره می‌شود. همچنین، کسانی که قد بلندی دارند، از هیبت و حالت ایستاده‌شان، به نوعی احساس قدرت و اثرگذاری می‌کنند."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "بس قد همچو تیر ز هیبت کمان شود",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "بس شخص بینوا که ورا از علو قدر",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از افراد ناچیز وجود دارند که به خاطر مقام و منزلت خود، در باغ بهشت، جایگاه عالی‌ای پیدا می‌کنند."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "عشرت سرای جنت اعلی مکان شود",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "بس پیر مستمند که در گلشن مراد",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیاری از مردان سالخورده و نیازمند وجود دارند که در باغ آرزوها بوی بهشت را استشمام کرده و جوانی دوباره را احساس می‌کنند."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "بوی بهشت بشنود و نوجوان شود",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "مسکین اسیر نفس و هوا کاندران مقام",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انسانی که زیر فشار خواسته‌ها و آرزوهای نفس خود قرار دارد، در چنین وضعیتی با انبوهی از غم‌ها و مشکلات دست و پنجه نرم می‌کند و در نهایت به بی‌هویتی دچار می‌شود."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "با صد هزار غصه قرین هوان شود",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "برگی که از برای مطیعان کشد خدای",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برگی که خدا برای مطیعان می‌نویسد، چگونه ممکن است مورد توجه و پذیرش عاصیان قرار گیرد؟"
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "عاصی چگونه در خور آن برگ خوان شود",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "خرم دلی که در حرم‌آباد امن و عیش",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل شاد و خوشبختی که در سرزمین امن و پر از لذت، در مهمانی رحمت و generosity حق، مورد استقبال قرار می‌گیرد."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "حق را به خوان لطف و کرم میهمان شود",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "این کار دولتست نداند کسی یقین",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این کار از عهده‌ی دولت و حکومت است و هیچ‌کس به طور یقین نمی‌داند که سعدی چگونه می‌تواند به بهشت و نعمت‌های آن دست پیدا کند."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "سعدی یقین به جنت و خلدت چه سان شود",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0
+    }
+  ]
+}

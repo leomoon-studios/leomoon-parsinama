@@ -1,0 +1,645 @@
+{
+  "Id": 65111,
+  "CatId": 1883,
+  "Title": "شمارهٔ ۱۹ - هم در مدح اتسز",
+  "FullTitle": "وطواط » قصاید » شمارهٔ ۱۹ - هم در مدح اتسز",
+  "FullUrl": "/vatvat/ghasv/sh19",
+  "RhymeLetters": "اب",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان دردها و ناخشنودی‌های شاعر از زندگی و شرایطش می‌پردازد. شاعر از آتش سینه و اشکی که در چشمانش دارد، رنج‌های ناشی از عمر کوتاه و ناامیدی‌ها را توصیف می‌کند. او همچنین حسرت‌هایش را از بی‌دولتی و نرسیدن به آرزوها بیان می‌کند و به بی‌افتادگی و ذلت جامعه‌اش اشاره می‌کند. \n\nشاعر با بیان اینکه زندگی‌اش پر از محنت و درد است، از وقایع زندگی شکایت می‌کند و در عین حال به ستایش یک پادشاه، خوارزمشاه، می‌پردازد. او صفات برجسته این پادشاه را بیان کرده و از او می‌خواهد که اسلام و مردم را در نظر داشته باشد. در نهایت، شاعر دعا می‌کند که دولت پادشاهی برقرار بماند و خود را مصروف به مدح او کرده است. \n\nکل شعر نشان‌دهنده پیچیدگی احساسات انسانی و تضادهای موجود در زندگی فردی و اجتماعی است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اب",
+      "PlainText": "زین سینه پر آتش و زین دیده پر آب \r\nدردا  که گشت قاعده عمر من خراب \r\nاز بیم غرق و حرق نیابد مرا همی \r\nدر سینه هیچ شادی و در دیده هیچ خواب \r\nزردست چهره من و از شرم دشمنان \r\nهر شب کنم بخون جگر چهره را خضاب\r\nگردون دهد زسفره حسرت مرا طعام \r\nگیتی دهد زساغر محنت مرا شراب\r\nزنبور وار بود لعابم زشهد و چرخ\r\nچون زهر مار کرد مرا در دهان لعاب\r\nامثال من مکرم و من سخره زمان \r\nو اقرام من مرفه و من طعمه ذیاب\r\nگفتم که  در شباب کنم دولتی بدست \r\nنامد بدست دولت و از دست شد شباب \r\nعمرم زکوه چرخ شد و نیست خود مرا\r\nجز اشک همچو سیم و رخ همچو زر ناب\r\nگیرم در حساب من آنچ اختران دهند\r\nوین عمر من که رفت نگیرند در حساب\r\nآن لؤلؤ خوشاب که باریدمی\u00A0 ز طبع\r\nبارم کنون زدیده همان لؤلؤ خوشاب\r\nهست آفتاب طبع من از روشنی و لیک \r\nدر پیش او حجاب شد اندوه چون سحاب\r\nتاریک از آن شدست اقالیم نظم و نثر\r\nکاندر سحاب تیره بماندست آفتاب\r\nبر من شدند خیره شیاطین حادثات \r\nتا شد نهفته از فلک طبع من شهاب\r\nعمر ارخیانتی نکند هم رسم بفضل \r\nاز بعد خکشال حوادث بفتح باب \r\nمن قانعم هر آنچه رساند بمن فلک \r\nدر هیچ حال نیست مرا با فلک حساب\r\nدر پیش لعبتان دو دیده دست شرم \r\nسازم ز طیلسان قناعت همی نقاب \r\nاز اهل فیض حمل مذلت برای چیز \r\nکاریست ناستوده و شغلیست ناصواب\r\nاعراض کردم از همه آفاق و ساختم \r\nمر درگه خدیو خداوند را مآب \r\nخوارزمشاه اتسز غازی  که سهم او\r\nافگند در قبایل کفار اضطراب\r\nشاهی که هست اطاعت او والی القلوب \r\nشاهی که هست هیبت او مالک الرقاب \r\nاقبالش از کمان حوادث ببرد تیر \r\nانصافش از دهان نوایب بکند ناب\r\nاو شمس طالع و دگران ذره هوا\r\nاو بحر ذاخر و دگران جرعه شراب\r\nای در فضای جاه تو اسلام را درنگ \r\nوی بر فنای خصم تو ایام را شتاب\r\nهست از ستاره باره چاه ترا مقام \r\nهست از مجره خیمه عمر ترا طناب\r\nمثل تو خسروی ندهد دست در عنان \r\nشبه تو صفدری ننهد پای در رکاب\r\nشاها  تویی که لشکر آمال خلق راست \r\nبی فتنه خزاین اموال تو نهاب\r\nبشنو حدیث من  که بود زاستماع آن \r\nدر عاجلت محامد و در آجلت ثواب\r\nآنچ آمدست بر تنم از چرخ  نامدست\r\nاز دوده معاویه بر آل بو تراب\r\nاشکم شد از جفای فلک چون رخ تذور\r\nروزم شد از عنای جهان چون پر غراب\r\nبر صف چرخ از قبل سهم من سهام \r\nدر کف صبح از جهت حرب من حراب\r\nآن کس که طاعت تو گزیند رضا دهی \r\nتا بی گناه چرخ رساند بدو عذاب \r\nجستیم ما دو تن  تو باحسان و من بجان \r\nتو در این مدایح و من خاک آن جناب\r\nمن در خود و ندانم  تا چیست مر ترا\r\nباری  مراست خاک جناب تو مشک ناب \r\nاز مهر تو نگیرد جان من احتراز \r\nوز مدح تو نجوید طبع من اجتناب \r\nاین شش هزار بیت  که گفتم بمدح تو \r\nاز شش هزار عقد جواهر ببرد آب\r\nدارم من انتساب عنایات ایزدی \r\nبا انتساب داد مرا فضل اکتساب\r\nلیکن چو هستم از همه اوباش خار تو \r\nچه فخر ز اکتساب و چه راحت ز انتساب\r\nتا از تواتر حرکات فلک شود \r\nهر شب جمال چهره خورشید در حجاب \r\nهر چان نشان و کام بود در جهان بران \r\nهر چان جلال و جاه بود از فلک بیاب \r\nتا آسمان بپاید  با آسمان بپای \r\nتا مشتری بتابد  چون مشتری بتاب \r\nدر آخر قصیده بنده دعای خیر \r\nاندر دوام دولت تو باد مستجاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین سینهٔ پر آتش و زین دیدهٔ پر آب \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردا ! که گشت قاعدهٔ عمر من خراب \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بیم غرق و حرق نیابد مرا همی \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سینه هیچ شادی و در دیده هیچ خواب \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزردست چهرهٔ من و از شرم دشمنان \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر شب کنم بخون جگر چهره را خضاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردون دهد زسفرهٔ حسرت مرا طعام \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگیتی دهد زساغر محنت مرا شراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنبور وار بود لعابم زشهد و چرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون زهر مار کرد مرا در دهان لعاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامثال من مکرم و من سخرهٔ زمان \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو اقرام من مرفه و من طعمهٔ ذئاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم که : در شباب کنم دولتی بدست \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامد بدست دولت و از دست شد شباب \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمرم زکوه چرخ شد و نیست خود مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز اشک همچو سیم و رخ همچو زر ناب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیرم در حساب من آنچ اختران دهند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین عمر من که رفت نگیرند در حساب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن لؤلؤ خوشاب که باریدمی\u00A0 ز طبع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبارم کنون زدیده همان لؤلؤ خوشاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست آفتاب طبع من از روشنی و لیک \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پیش او حجاب شد اندوه چون سحاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاریک از آن شدست اقالیم نظم و نثر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاندر سحاب تیره بماندست آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر من شدند خیره شیاطین حادثات \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا شد نهفته از فلک طبع من شهاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمر ارخیانتی نکند هم رسم بفضل \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بعد خکشال حوادث بفتح باب \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن قانعم هر آنچه رساند بمن فلک \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر هیچ حال نیست مرا با فلک حساب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پیش لعبتان دو دیده دست شرم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسازم ز طیلسان قناعت همی نقاب \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز اهل فیض حمل مذلت برای چیز \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاریست ناستوده و شغلیست ناصواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاعراض کردم از همه آفاق و ساختم \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر درگه خدیو خداوند را مآب \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوارزمشاه اتسز غازی ، که سهم او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافگند در قبایل کفار اضطراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهی که هست اطاعت او والی القلوب \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاهی که هست هیبت او مالک الرقاب \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاقبالش از کمان حوادث ببرد تیر \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eانصافش از دهان نوائب بکند ناب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو شمس طالع و دگران ذرهٔ هوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو بحر ذاخر و دگران جرعهٔ شراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای در فضای جاه تو اسلام را درنگ \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی بر فنای خصم تو ایام را شتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست از ستاره بارهٔ چاه ترا مقام \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهست از مجره خیمهٔ عمر ترا طناب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمثل تو خسروی ندهد دست در عنان \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشبه تو صفدری ننهد پای در رکاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاها ، تویی که لشکر آمال خلق راست \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی فتنهٔ خزاین اموال تو نهاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبشنو حدیث من ، که بود زاستماع آن \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر عاجلت محامد و در آجلت ثواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچ آمدست بر تنم از چرخ ، نامدست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دودهٔ معاویه بر آل بو تراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشکم شد از جفای فلک چون رخ تذور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزم شد از عنای جهان چون پر غراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر صف چرخ از قبل سهم من سهام \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کف صبح از جهت حرب من حراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که طاعت تو گزیند رضا دهی \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بی گناه چرخ رساند بدو عذاب ؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجستیم ما دو تن : تو باحسان و من بجان \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو در این مدایح و من خاک آن جناب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن در خود و ندانم ، تا چیست مر ترا؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباری ، مراست خاک جناب تو مشک ناب \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز مهر تو نگیرد جان من احتراز \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز مدح تو نجوید طبع من اجتناب \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین شش هزار بیت ، که گفتم بمدح تو \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز شش هزار عقد جواهر ببرد آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدارم من انتساب عنایات ایزدی \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا انتساب داد مرا فضل اکتساب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیکن چو هستم از همه اوباش خار تو \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه فخر ز اکتساب و چه راحت ز انتساب؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا از تواتر حرکات فلک شود \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر شب جمال چهرهٔ خورشید در حجاب \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چان نشان و کام بود در جهان بران \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چان جلال و جاه بود از فلک بیاب \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا آسمان بپاید ، با آسمان بپای ؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا مشتری بتابد ، چون مشتری بتاب !\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آخر قصیدهٔ بنده دعای خیر \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر دوام دولت تو باد مستجاب \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 41
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زین سینهٔ پر آتش و زین دیدهٔ پر آب ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر نشان‌دهنده احساسات عمیق و دردناک شاعر است. او از سینه‌ای پر از آتش، که نماد شور و هیجان درونی اوست، و چشمانی پر از اشک، که نشان‌دهنده ناراحتی و غم است، صحبت می‌کند. دردی وجودش را فراگرفته و به همین خاطر از خراب شدن قواعد و اصول زندگی‌اش نگران است. تمام این احساسات نشان‌دهنده وضعیت روحی و عاطفی پرتلاطم اوست."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دردا ! که گشت قاعدهٔ عمر من خراب ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بیم غرق و حرق نیابد مرا همی ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ترس غرق شدن و سوزانده شدن، نه در دل من شادی‌ای وجود دارد و نه در چشم‌هایم خوابی می‌بینم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "در سینه هیچ شادی و در دیده هیچ خواب ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زردست چهرهٔ من و از شرم دشمنان ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره‌ام زرد و رنگ‌پریده است و از خجالت دشمنان هر شب با خون جگر صورتم را رنگ می‌زنم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هر شب کنم بخون جگر چهره را خضاب",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "گردون دهد زسفرهٔ حسرت مرا طعام ",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان از سفرهٔ آرزوهایم خوراکی به من می‌دهد و دنیا از جام دردهایم ستاره‌ای به من می‌افزاید."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گیتی دهد زساغر محنت مرا شراب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "زنبور وار بود لعابم زشهد و چرخ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مثل زنبور، شیرین و خوشم شیرینی دارم، اما وقتی جستجو می‌کنم، مانند زهر مار مرا در کام می‌گیرد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چون زهر مار کرد مرا در دهان لعاب",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "امثال من مکرم و من سخرهٔ زمان ",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من افرادی با ارزش و احترام دارم، اما خودم در دنیای امروز به سخره و تمسخر درآمده‌ام. در عوض، دیگران در رفاه و آسایش به سر می‌برند و من تبدیل به طعمه‌ای برای شکارچیان و بدخواهان شده‌ام."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "و اقرام من مرفه و من طعمهٔ ذئاب",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "گفتم که : در شباب کنم دولتی بدست ",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جوانی آرزو داشتم که زندگی خوبی برای خود بسازم، اما به جای آن، فرصت‌ها از دستم رفت و جوانی‌ام نیز به پایان رسید."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "نامد بدست دولت و از دست شد شباب ",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "عمرم زکوه چرخ شد و نیست خود مرا",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عمر من به سرعت گذشت و حالا جز اشک، که مانند سیم می‌درخشد، چیزی از من باقی نمانده است و چهره‌ام هم مانند طلا خالص است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "جز اشک همچو سیم و رخ همچو زر ناب",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گیرم در حساب من آنچ اختران دهند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فرض کنیم که ستاره‌ها در محاسبه‌ی زندگی من تأثیر دارند، اما این عمر که گذشته است، هرگز در حساب نمی‌آید."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "وین عمر من که رفت نگیرند در حساب",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "آن لؤلؤ خوشاب که باریدمی\u00A0 ز طبع",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن مروارید زیبایی که از دل باران می‌ریزد، اکنون از چشمانم همان مروارید دلپذیر جاری می‌شود."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "بارم کنون زدیده همان لؤلؤ خوشاب",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "هست آفتاب طبع من از روشنی و لیک ",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: طلوع و روشنی طبیعت من مانند آفتاب است، اما در مقابل او، غم و اندوه مانند ابر مانع می‌شود از اینکه این روشنی نمایان شود."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "در پیش او حجاب شد اندوه چون سحاب",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "تاریک از آن شدست اقالیم نظم و نثر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان نظم و نثر به دلیل حوادث تلخ و ناخوشایند به تاریکی گراییده است، زیرا حقیقت مانند آفتابی در گزاران ابری و تیره پنهان مانده است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "کاندر سحاب تیره بماندست آفتاب",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "بر من شدند خیره شیاطین حادثات ",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شیاطین و اتفاقات ناگوار به من خیره شده‌اند تا اینکه استعداد و خلاقیت من از آسمان پنهان بماند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "تا شد نهفته از فلک طبع من شهاب",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "عمر ارخیانتی نکند هم رسم بفضل ",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عمر اگر به خوبی گذرانده نشود، با فضیلت در یک دوران خوشی هم قابل توجه نخواهد بود و در زمان وقوع حوادث تلخ، همه چیز به یاد می‌آید."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "از بعد خکشال حوادث بفتح باب ",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "من قانعم هر آنچه رساند بمن فلک ",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از هر آنچه که سرنوشت برایم رقم زده راضی هستم و در هیچ شرایطی خود را در مقایسه با سرنوشت نمی‌بینم."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "در هیچ حال نیست مرا با فلک حساب",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "در پیش لعبتان دو دیده دست شرم ",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در برابر بازیگران زندگی، دو چشمان خود را از شرم پایین می‌اندازم و با سادگی و قناعت، پوششی بر خود می‌زنم."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "سازم ز طیلسان قناعت همی نقاب ",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "از اهل فیض حمل مذلت برای چیز ",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برداشتن بار ذلت از اهل خیر و نیکی کار پسندیده‌ای نیست و فعالیتی ناپسند به شمار می‌آید."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "کاریست ناستوده و شغلیست ناصواب",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "اعراض کردم از همه آفاق و ساختم ",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از تمام جنبه‌ها و دنیای بیرونی فاصله گرفتم و به‌دنبال ساختن مکانی برای خداوند بزرگ و با عظمت خود هستم."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "مر درگه خدیو خداوند را مآب ",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "خوارزمشاه اتسز غازی ، که سهم او",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوارزمشاه اتسز، فاتح و جنگجویی است که نیروهایش در میان قبایل کافر ایجاد ترس و نگرانی می‌کنند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "افگند در قبایل کفار اضطراب",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "شاهی که هست اطاعت او والی القلوب ",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاهی که فرمانش را همه رعایت می‌کنند و دل‌ها را تسخیر کرده است، شاهی که اقتدار و قدرتش بر گردن‌ها حکمفرماست."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "شاهی که هست هیبت او مالک الرقاب ",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "اقبالش از کمان حوادث ببرد تیر ",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرنوشت او تیرهایی از مشکلات را به سوی او پرتاب می‌کند، اما صدای حق و حقیقت که از گلوی بزرگ‌مردان برمی‌خیزد، او را به سوی عدالت و انصاف هدایت می‌کند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "انصافش از دهان نوائب بکند ناب",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "او شمس طالع و دگران ذرهٔ هوا",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او مانند خورشید درخشان است و دیگران مانند ذراتی در هوا، او همچون دریایی پر از گنجینه‌هاست و دیگران تنها مانند جرعه‌هایی از شراب هستند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "او بحر ذاخر و دگران جرعهٔ شراب",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "ای در فضای جاه تو اسلام را درنگ ",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای که در جاه و مقام خود مغرور هستی، از اسلام غافل مشو. مراقب باش که در مقابل دشمنان خود تأخیر نکن و وقت را از دست نده."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "وی بر فنای خصم تو ایام را شتاب",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "هست از ستاره بارهٔ چاه ترا مقام ",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در چاه وجود خود، ستاره‌ای داری که نشان دهنده مقام و منزلت توست. همچنین در مسیر زندگی‌ات، مانند خیمه‌ای که برپا کردی، طنابی برای نگه‌داشتن و هدایت تو وجود دارد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "هست از مجره خیمهٔ عمر ترا طناب",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "مثل تو خسروی ندهد دست در عنان ",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مثل تو کسی نیست که به راحتی بر رهبری تسلط یابد و مانند تو کسی نیست که با شجاعت و دقت در میدان کارزار حاضر شود."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "شبه تو صفدری ننهد پای در رکاب",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "شاها ، تویی که لشکر آمال خلق راست ",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، تو آن کسی هستی که آرزوهای مردم حول محور تو می‌چرخد و بدون درگیری و مشکل به ثروت‌های تو دست‌یابی وجود ندارد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "بی فتنهٔ خزاین اموال تو نهاب",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "بشنو حدیث من ، که بود زاستماع آن ",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به سخنان من گوش بسپار، زیرا شنیدن آنها در کوتاه‌مدت باعث به دست آوردن خوبی‌ها و در بلندمدت منجر به پاداش‌های ارزشمند خواهد شد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "در عاجلت محامد و در آجلت ثواب",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "آنچ آمدست بر تنم از چرخ ، نامدست",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچه بر من از تقدیر و سرنوشت پیش آمده، نتیجهٔ کار چرخ روزگار است و نه از نسل و دودمان معاویه بر خاندان ابو تراب."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "از دودهٔ معاویه بر آل بو تراب",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "اشکم شد از جفای فلک چون رخ تذور",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌هایم از ظلم و ستم زمانه پر از اشک شده است، و روزهای عمرم از لطف و محبت دنیا به مانند چهره‌ای غمگین و تار دگرگون گشته است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "روزم شد از عنای جهان چون پر غراب",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "بر صف چرخ از قبل سهم من سهام ",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آغاز روز، زندگی‌ام تحت تاثیر سرنوشت و تقدیر قرار گرفته است و این تاثیرات باعث شده‌اند که مسیر مبارزات و چالش‌هایم شکل بگیرد."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "در کف صبح از جهت حرب من حراب",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "آن کس که طاعت تو گزیند رضا دهی ",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از تو اطاعت کند، تو به او خوب می‌چشانی و آیا جز این است که بی‌گناهی را به عذاب می‌کشی؟"
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "تا بی گناه چرخ رساند بدو عذاب ؟",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "جستیم ما دو تن : تو باحسان و من بجان ",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما دو نفر به جست‌وجو پرداختیم: تو با نیکی و من با جان خود. تو به ستایش‌های الوهی مشغولی و من به خدمت آن بزرگوار دل بسته‌ام."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "تو در این مدایح و من خاک آن جناب",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "من در خود و ندانم ، تا چیست مر ترا؟",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در خودم به جستجوی حقیقت می‌پردازم و نمی‌دانم تو چه هستی. با این حال، من به مقام و جایگاه تو ارادت دارم و خود را خاک پای تو می‌دانم."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "باری ، مراست خاک جناب تو مشک ناب ",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "از مهر تو نگیرد جان من احتراز ",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جان من از محبت تو دوری نمی‌کند و در وصف تو طبع من از کناره‌گیری نمی‌نماید."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "وز مدح تو نجوید طبع من اجتناب ",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "این شش هزار بیت ، که گفتم بمدح تو ",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شش هزار بیتی که به ستایش تو گفتم، مانند شش هزار عقد جواهر است که آب آنها را میبرد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "از شش هزار عقد جواهر ببرد آب",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "دارم من انتساب عنایات ایزدی ",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من بهره‌مند از لطف‌های الهی هستم و به واسطه‌ی تلاش و کوشش خودم به استعداد و فضیلت رسیده‌ام."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "با انتساب داد مرا فضل اکتساب",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "لیکن چو هستم از همه اوباش خار تو ",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با این حال که من از میان تمام افراد بی‌دست و پا هستم، چه افتخاری می‌توانم از به دست آوردن یا چه آسودگی‌ای می‌توانم از نسبت‌های خانوادگی ببرم؟"
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "چه فخر ز اکتساب و چه راحت ز انتساب؟",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "تا از تواتر حرکات فلک شود ",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که حرکات آسمانی ادامه دارد، هر شب چهرهٔ زیبای خورشید در پوششی پنهان باقی می‌ماند."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "هر شب جمال چهرهٔ خورشید در حجاب ",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "هر چان نشان و کام بود در جهان بران ",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه در دنیا هست، چه خوب و چه بد، به خاطر خواسته‌ها و منافع ماست. هر آنچه که عظمت و قدرت دارد، از آسمان و طبیعت سرچشمه می‌گیرد."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "هر چان جلال و جاه بود از فلک بیاب ",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "تا آسمان بپاید ، با آسمان بپای ؟",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که آسمان پابرجاست، باید با آن استقامت کرد. وقتی که سیاره مشتری تابش می‌کند، باید مثل او درخشان و تابان باشی."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "تا مشتری بتابد ، چون مشتری بتاب !",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "در آخر قصیدهٔ بنده دعای خیر ",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در پایان این شعر، از صمیم قلب برای استمرار و تداوم حکومت تو دعا می‌کنم و امیدوارم که دعایم مستجاب شود."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "اندر دوام دولت تو باد مستجاب ",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    }
+  ]
+}

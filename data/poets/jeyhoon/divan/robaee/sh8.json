@@ -1,0 +1,55 @@
+{
+  "Id": 133683,
+  "CatId": 3055,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "جیحون یزدی » دیوان اشعار » رباعیات » شمارهٔ ۸",
+  "FullUrl": "/jeyhoon/divan/robaee/sh8",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره‌ی یک نبرد است که در آن شاعر اسبی به نام پلنگ وش را به ملک زاده ضرغام می‌دهد. او به خاطر تحمل و استقامت این اسب، احساس افتخار می‌کند و به توانایی‌هایش در پرواز و فرود اشاره می‌کند. در نهایت، اسب در نبرد موفق عمل کرده و کار را آسان‌تر کرده است.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رد",
+      "PlainText": "امروز ملک زاده ضرغام نبرد\r\nاسبی دادم پلنگ وش کوه نورد\r\nاز بس به هوا بردم و پایین آورد\r\nاز اسب گذشته کار مسهل هم کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز ملک‌زادهٔ ضَرغام‌نَبَرْد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسبی دادم پلنگ‌وَش کوه‌نورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بس به هوا بردم و پایین آورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز اسب گذشته کار مسهل هم کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "امروز ملک‌زادهٔ ضَرغام‌نَبَرْد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز به پسر شاه جوانی که شجاع است، اسبی دادم که مانند پلنگ سریع و قادر به کوه‌نوردی است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "اسبی دادم پلنگ‌وَش کوه‌نورد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از بس به هوا بردم و پایین آورد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدام ذهن و خیال من در نوسان است و با همین حال، کار من به جایی رسیده که از مشکلات و سختی‌ها کاسته شده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از اسب گذشته کار مسهل هم کرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

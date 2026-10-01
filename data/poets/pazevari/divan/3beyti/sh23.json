@@ -1,0 +1,72 @@
+{
+  "Id": 141441,
+  "CatId": 3175,
+  "Title": "شمارهٔ ۲۳",
+  "FullTitle": "امیر پازواری » دیوان اشعار » سه‌بیتی‌ها » شمارهٔ ۲۳",
+  "FullUrl": "/pazevari/divan/3beyti/sh23",
+  "SourceName": "بنیاد امیر پازواری",
+  "SourceUrlSlug": "bap",
+  "Language": "mzn",
+  "PoemSummary": "زلف را کمند کردی و شکار را گرفته‌ای / خشم کرده‌ای و خون مرا پاک (به کلّی) ریخته‌ای\nآن‌گونه که تو روش عاشق‌کشی آموختی / شگفت است که در گیتی عاشقی زنده بماند!\nای دوست، سینه‌ی مرا که به جفا تسخیر کردی / همواره دل مرا در غم و بلا پیچیده‌ای",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یتی",
+      "PlainText": "کمن هکردی زلف ره صحرایی گیتی\r\nغضب هکردی خین ره مه پاک بریتی\r\nاونطور که ته عاشق کشی یادبییتی\r\nعجب هسه که عاشق بمونه گیتی\r\nدوست که مه سییه ره به جفا بییتی\r\nدایم مه دل به غم و بلا دپیتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکَمن هَکردی زلف ره «صحرایی» گیتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغًضبْ هکردی، خین ره مه پاک بریتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاُونطورْ که ته عاشقْ کِشی یادْبَئیتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعَجبْ هَسّه که عاشقْ بَمُونّه گیتی!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوستْ که مه سیئهْ ره به جفا بئیتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدایمْ مه دلْ به غم و بلا، دَپیتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "Language": "mzn",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "کَمن هَکردی زلف ره «صحرایی» گیتی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند آن کسی که زلفی از ره بیابان به هم پیچیده و به دنیای پر هیاهو نفرت و خشم را از خود دور کرده و مسیر پاک و بی‌آلایشی را انتخاب کرده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "غًضبْ هکردی، خین ره مه پاک بریتی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "اُونطورْ که ته عاشقْ کِشی یادْبَئیتی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به گونه‌ای که تو عشق را به دل می‌کشی، عجب است که عاشق در این دنیا باقی بماند!"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عَجبْ هَسّه که عاشقْ بَمُونّه گیتی!",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دوستْ که مه سیئهْ ره به جفا بئیتی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست من که به خاطر بدی‌ها و ظلم‌هایی که می‌کند، همیشه در حال آزار دادن من است، من هم دل‌زده و غمگین از مشکلات و سختی‌ها هستم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دایمْ مه دلْ به غم و بلا، دَپیتی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    }
+  ]
+}

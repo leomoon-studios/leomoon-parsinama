@@ -1,0 +1,135 @@
+{
+  "Id": 14642,
+  "CatId": 230,
+  "Title": "غزل شمارهٔ ۲۷۳",
+  "FullTitle": "خاقانی » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۷۳",
+  "FullUrl": "/khaghani/divankh/ghazalkh/sh273",
+  "RhymeLetters": "مدان",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر روزگار عشق و زندگی است. شاعر به خرم بودن دل اشاره می‌کند و می‌گوید که دل باید با غم بسازد. از سنت‌های عشق سخن می‌گوید و بیان می‌کند که درد و مرهم هم‌چنین به هم مربوطند. دوستان مانند خورشید روشن و دشمنان به ماه محرم شبیهند. شاعر به ارزش عزلت و آرامش اشاره کرده و آن را به گنجی ارزشمند تشبیه می‌کند. در نهایت، عزلت و آرامش را برتر از راحتی‌های مادی می‌داند و بر اهمیت آن تأکید می‌کند.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مدان",
+      "PlainText": "خرمی کان فلک دهد غم دان\r\nدل که با غم بساخت خرم دان\r\nسنت اهل عشق خواهی داشت\r\nدرد را هم مزاج مرهم دان\r\nبه عیاری که هفت مردان راست\r\nنقش شش روز کمتر از کم دان\r\nدوستان همچو مهر نمامند\r\nدشمنان همچو ماه محرم دان\r\nگنج عزلت توراست خاقانی\r\nعافیت هم ورا مسلم دان\r\nچار دیوار عزلتی که توراست\r\nبهتر از چار بالش جم دان\r\nچار بالش نشین عزلت را\r\nپنج نوبت زن دو عالم دان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرمی کان فلک دهد غم دان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل که با غم بساخت خرم دان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسنت اهل عشق خواهی داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرد را هم مزاج مرهم دان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه عیاری که هفت مردان راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقش شش روز کمتر از کم دان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوستان همچو مهر، نمامند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشمنان همچو ماه، محرم دان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگنج عزلت توراست خاقانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعافیت هم ورا مسلم دان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچار دیوار عزلتی که توراست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهتر از چار بالش جم دان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچار بالش نشین عزلت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپنج نوبت زن دو عالم دان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خرمی کان فلک دهد غم دان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشی‌هایی که آسمان به انسان می‌دهد، باعث غمگینی دل است، زیرا دل با غم خود را به شادی عادت داده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل که با غم بساخت خرم دان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سنت اهل عشق خواهی داشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی به جمع عاشقان بپیوندی، باید با درد و رنج آشنا باشی و به آن به‌عنوان بخشی از درمان و آرامش نگاه کنی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "درد را هم مزاج مرهم دان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "به عیاری که هفت مردان راست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به تعبیری اشاره به قابلیت‌ها و مهارت‌های خاص افراد دارد و به نوعی می‌گوید که تنها با تلاش و موفقیت مداوم می‌توان به دستاوردهای چشم‌گیری رسید. بیانگر این است که آگاهی و عمل در زمان معین بسیار مهم است و اگر در این مسیر کوشا نباشیم، ممکن است فرصتها را از دست بدهیم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نقش شش روز کمتر از کم دان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دوستان همچو مهر، نمامند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستان به مهربانی و محبت شبیه‌اند، در حالی که دشمنان مانند ماه، دور و از دسترس‌اند و رازها را نمی‌توان به آن‌ها بازگو کرد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دشمنان همچو ماه، محرم دان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گنج عزلت توراست خاقانی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنهایی و دوری از دنیا برای خاقانی به منزله یک گنج ارزشمند است و در این آشتی با خود، او به آرامش و امنیتی دست یافته‌است که برای دیگران نیز قابل قبول و معتبر است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "عافیت هم ورا مسلم دان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چار دیوار عزلتی که توراست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی در تنهایی و دوری از مردم، برتر از نشستن بر روی چهار بالش نرم و راحت است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بهتر از چار بالش جم دان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چار بالش نشین عزلت را",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای کسی که در تنهایی و انزوا می‌نشیند، چهار بالش فراهم است، اما اگر بخواهد در هر یک از پنج نوبت زندگی‌اش، از دو جهان بهره‌مند شود، باید به تلاش و کوشش بپردازد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "پنج نوبت زن دو عالم دان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

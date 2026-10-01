@@ -1,0 +1,60 @@
+{
+  "Id": 29687,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۲۲۹",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۲۲۹",
+  "FullUrl": "/moulavi/shams/robaeesh/sh229",
+  "RhymeLetters": "اهست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بیت شاعر اشاره می‌کند که هر کسی که در کنار شاه باشد، نصیب و لطف او را تجربه می‌کند. همچنین می‌گوید که برای رسیدن به شاه، باید از خودگذشتگی و بی‌خودی کرد، زیرا این مسیرها بسیار زیاد و متنوع هستند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهست",
+      "PlainText": "با شاه هر آنکسی که در خرگاهست\r\nآن از کرم و لطف و عطای شاهست\r\nبا شاه کجا رسی بهر بیخویشی\r\nزانجانب بیخودی هزاران راهست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا شاه هر آنکسی که در خرگاهست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن از کرم و لطف و عطای شاهست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا شاه کجا رسی بهر بیخویشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانجانب بیخودی هزاران راهست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با شاه هر آنکسی که در خرگاهست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در حضور پادشاه قرار دارد، به خاطر بخشندگی و مهربانی اوست که در کنار اوست."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "آن از کرم و لطف و عطای شاهست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با شاه کجا رسی بهر بیخویشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای رسیدن به آرامش و آزادی از خودخواهی، نزد شاه راهی وجود ندارد، چرا که در آن سو هزاران مسیر به سمت بی‌خودی و رهایی وجود دارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زانجانب بیخودی هزاران راهست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

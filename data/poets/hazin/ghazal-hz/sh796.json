@@ -1,0 +1,345 @@
+{
+  "Id": 82706,
+  "CatId": 2171,
+  "Title": "شمارهٔ ۷۹۶",
+  "FullTitle": "حزین لاهیجی » غزلیات » شمارهٔ ۷۹۶",
+  "FullUrl": "/hazin/ghazal-hz/sh796",
+  "RhymeLetters": "ارامده",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف عشق و معشوق می‌پردازد و احساسات عاشقانه شاعر را به تصویر می‌کشد. معشوق در لباس طلبکاران ظاهر شده و خود را نیازمند نشان می‌دهد. چهره‌اش پنهان بوده، اما او همچنان به عشق خود اقرار می‌کند. شاعر اشاره دارد که هیچ کس جز یار در بازار عشق ارزش ندارد و او با شیوه‌های مختلف خود را در دسترس قرار می‌دهد. شاعر از حالت‌های گوناگون معشوق سخن می‌گوید؛ گاهی با زهد و تقوی، گاهی بی‌اعتنا به قید و بندها، گاهی اقرار می‌کند و گاهی انکار. این معشوق به قدری جذاب است که می‌تواند دنیایی پر از زیبایی خلق کند و حتی آتش عشق برافروزد. در انتها، شاعر به قدرت و جذبه‌ی معشوق اشاره می‌کند که توانایی تسخیر دل‌ها و افکار را دارد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارامده",
+      "PlainText": "مطلوب در لباس طلبکار آمده\r\nخود را به صد نیاز پرستار آمده\r\nمستور بود چهره ی زیبا نگار ما\r\nمستانه باز بر سر اظهار آمده\r\nجز یار هیچکس سر بازار عشق نیست\r\nیوسف به شیوه های خریدار آمده\r\nاز چشم خویش تا نگرد روی خویش را\r\nگردیده دیده طالب دیدار آمده\r\nگاهی به شمع تقوی و زهد آستین فشان\r\nمست و خراب از در خمار آمده\r\nگاهی دریده خرقه ناموس و ننگ را\r\nفارغ ز قید سبحه و زنار آمده\r\nگاهی نموده شیوه اقرار را شعار\r\nگاهی به طنز بر سر انکار آمده\r\nگه آتش چمن شده گه شمع انجمن\r\nهم خانه سوز و خانه نگهدار آمده\r\nای دیده احولی بگذار و غلط مبین\r\nآن یار بین به کسوت اغیار آمده\r\nای دل ز دیده پرده پندار دور دار\r\nگوهر فروز دیده بیدار آمده\r\nیار است یارکز لب همچون زلال خویش\r\nدرکام تشنه قلزم زخار آمده\r\nیار است یار کز لب مسکین نواز خویش\r\nدر دامن صدف در شهوار آمده\r\nیار است یارکز نگه دلفریب خویش\r\nآشوب شهر و فتنه بازار آمده\r\nیک پرتو است کرده جهانی پر از ظلال\r\nیک جلوه است مختلف آثار آمده\r\nعالم سواد نافه آن خال مشکبوست\r\nیک نفخه زان شمیم به تاتار آمده\r\nسنبل به تاب و لاله سیه مست و گل به ناز\r\nیک جلوه ز آن جمال به گلزار آمده\r\nدر گوش دل گدای خرابات عشق را\r\nانی اناالله از در و دیوار آمده\r\nآن جلوه ای که کوه نیاورد تاب او\r\nدر طور عشق سالک اطوار آمده\r\nعنقای مغربی که زمین زیر بال اوست\r\nاز بوالحسن به حضرت عطار آمده\r\nگاهی فتاده مست به پای بت مغان\r\nگاهی به صدر مصطبه هشیار آمده\r\nاز فیض اوست کاین دل شوریده حزین\r\nبحر محیط و مخزن اسرار آمده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمطلوب در لباس طلبکار آمده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود را به صد نیاز پرستار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمستور بود چهره ی زیبا نگار ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمستانه باز بر سر اظهار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز یار هیچکس سر بازار عشق نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیوسف به شیوه های خریدار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چشم خویش تا نگرد روی خویش را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردیده، دیده، طالب دیدار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاهی به شمع تقوی و زهد آستین فشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمست و خراب از در خمّار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاهی دریده خرقهٔ ناموس و ننگ را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفارغ ز قید سبحه و زنار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاهی نموده شیوه اقرار را شعار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهی به طنز بر سر انکار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه آتش چمن شده گه شمع انجمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم خانه سوز و خانه نگهدار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دیده احولی بگذار و غلط مبین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن یار بین به کسوت اغیار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل، ز دیده پردهٔ پندار دور دار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوهر فروز دیدهٔ بیدار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیار است یار،کز لب همچون زلال خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرکام تشنه، قلزم زخار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیار است یار کز لب مسکین نواز خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دامن صدف در شهوار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیار است یار،کز نگه دلفریب خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآشوب شهر و فتنه بازار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک پرتو است، کرده جهانی پر از ظلال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک جلوه است، مختلف آثار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم سواد نافهٔ آن خال مشکبوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک نفخه زان شمیم به تاتار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسنبل به تاب و لاله سیه مست و گل به ناز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک جلوه ز آن جمال به گلزار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر گوش دل، گدای خرابات عشق را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eانی اَنَااللّه از در و دیوار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن جلوه ای که کوه نیاورد تاب او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر طور عشق سالک اطوار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعنقای مغربی که زمین زیر بال اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بوالحسن به حضرت عطار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاهی فتاده مست به پای بت مغان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهی به صدر مصطبه هشیار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز فیض اوست کاین دل شوریدهٔ حزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحر محیط و مخزن اسرار آمده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 21
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "مطلوب در لباس طلبکار آمده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که در جستجوی خواسته‌اش است، با ظاهری طلبکارانه و در حالی که به شدت نیازمند است، وارد شده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خود را به صد نیاز پرستار آمده",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مستور بود چهره ی زیبا نگار ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره زیبا و دلربای معشوق ما پنهان بود، اما اکنون با حالتی مستانه دوباره به جلو آمده و خود را نشان داده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مستانه باز بر سر اظهار آمده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "جز یار هیچکس سر بازار عشق نیست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به غیر از معشوق، کسی در بازار عشق وجود ندارد. یوسف با روش‌های خریدارانه‌ای به این شهر آمده است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یوسف به شیوه های خریدار آمده",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از چشم خویش تا نگرد روی خویش را",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از چشمان خودم تا وقتی که به صورت تو نگاه نکرده‌ام، چشم به راه دیدار تو هستم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گردیده، دیده، طالب دیدار آمده",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گاهی به شمع تقوی و زهد آستین فشان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که گاهی به شمعی که نشانه تقوا و زهد است، می‌نگرم، احساس مستی و سرمستی به من دست می‌دهد و مانند کسی که از میخانه بیرون آمده، در حال و هوای خاصی قرار می‌گیرم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مست و خراب از در خمّار آمده",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گاهی دریده خرقهٔ ناموس و ننگ را",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی دیده می‌شود که شخصی با جسارت، به دامان شرافت و عفت خود لطمه می‌زند و از قید و بند‌های ظاهری چون عبادت و دینی که به خود بسته، رها شده است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "فارغ ز قید سبحه و زنار آمده",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "گاهی نموده شیوه اقرار را شعار",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات به راحتی می‌پذیرد که اشتباهی کرده است، و گاهی اوقات به شیوه‌ای شوخی‌آمیز سعی می‌کند خود را از زیر بار مسئولیت خارج کند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "گاهی به طنز بر سر انکار آمده",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "گه آتش چمن شده گه شمع انجمن",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی چمن به آتش می‌سوزد و گاهی شمع مجلس را روشن می‌کند؛ همواره هم می‌تواند باعث سوختن خانه شود و هم از آن محافظت کند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "هم خانه سوز و خانه نگهدار آمده",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ای دیده احولی بگذار و غلط مبین",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای چشم گمراه، دست از قضاوت غلط بردار و آن دوست را که به لباس دیگران درآمده، درست ببین."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "آن یار بین به کسوت اغیار آمده",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ای دل، ز دیده پردهٔ پندار دور دار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، از خیال‌های باطل فاصله بگیر و فقط به حقیقت واضح و روشن نگاه کن که همانند مروارید در دیدهٔ بیدار و هوشیار است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "گوهر فروز دیدهٔ بیدار آمده",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "یار است یار،کز لب همچون زلال خویش",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست، همان دوستی است که مانند جوی زلال، به کام تشنه شیرینی و آرامش می‌بخشد و مانند دریای پرموج، برکت و فراوانی را به زندگی می‌آورد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "درکام تشنه، قلزم زخار آمده",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "یار است یار کز لب مسکین نواز خویش",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست واقعی کسی است که از لبان مسکین و نیازمند خود، محبت و مهربانی را به دورن صدفی گرانبها و زیبا می‌آورد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "در دامن صدف در شهوار آمده",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "یار است یار،کز نگه دلفریب خویش",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست و یاری وجود دارد که با نگاه جذاب و دلنشینش، در شهر آشفتگی و در بازار تنش به وجود آورده است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "آشوب شهر و فتنه بازار آمده",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "یک پرتو است، کرده جهانی پر از ظلال",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این یک تابش نور است که جهانی را پر از سایه‌ها کرده و این یک جلوه است که آثار متفاوتی را به نمایش گذاشته است."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "یک جلوه است، مختلف آثار آمده",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "عالم سواد نافهٔ آن خال مشکبوست",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عالم، سیاهی و زیبایی آن خال مشکینش را به یاد می‌آورد و با یک باد و عطر خنکی که از آن می‌آید، به سرزمین تاتار رسیده است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "یک نفخه زان شمیم به تاتار آمده",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "سنبل به تاب و لاله سیه مست و گل به ناز",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در باغ، سنبل به شوق و لاله به سرمستی، و گل به ناز و دلربایی، همگی از زیبایی دل‌انگیز او به وجد آمده‌اند و به نمایشگاه زیبایی در گلزار پیوسته‌اند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "یک جلوه ز آن جمال به گلزار آمده",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "در گوش دل، گدای خرابات عشق را",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل، صدای بندگی و عشق را می‌شنوم که شان و مقامش از هر سو می‌تابد و به من می‌گوید که من همان الهی هستم که در این مکان حضور دارم."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "انی اَنَااللّه از در و دیوار آمده",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "آن جلوه ای که کوه نیاورد تاب او",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جلوه‌ای که کوه نتوانست تحمل کند، در عشق آن کسی که در مسیر سلوک قرار دارد، نمایان شده است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "در طور عشق سالک اطوار آمده",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "عنقای مغربی که زمین زیر بال اوست",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای افسانه‌ای و شگفت‌انگیز که در غرب زمین زندگی می‌کند و همه جا را زیر بال‌هایش محاصره کرده، از بوالحسن به عطار آمده است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "از بوالحسن به حضرت عطار آمده",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "گاهی فتاده مست به پای بت مغان",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی انسان در حالت مستی و سرخوشی، به پای بت‌هایی که در معبد مغان وجود دارد می‌افتد و گاهی نیز در حالی که هوشیار و بیدار است، بر بالای جایگاه بلندی نشسته و می‌نگرد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "گاهی به صدر مصطبه هشیار آمده",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "از فیض اوست کاین دل شوریدهٔ حزین",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از لطف اوست که این دل ناآرام و غمگین، همچون دریایی عمیق و جایگاه رازها به وجود آمده است."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "بحر محیط و مخزن اسرار آمده",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    }
+  ]
+}

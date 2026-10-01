@@ -1,0 +1,165 @@
+{
+  "Id": 11742,
+  "CatId": 153,
+  "Title": "غزل شمارهٔ ۷۸۶",
+  "FullTitle": "عطار » دیوان اشعار » غزلیات » غزل شمارهٔ ۷۸۶",
+  "FullUrl": "/attar/divana/ghazal-attar/sh786",
+  "RhymeLetters": "ونکشی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر دربارهٔ عشق و جدایی است. شاعر به معشوق خود اشاره می‌کند و احساسات عمیق و پیچیده‌اش را نسبت به او بیان می‌کند. او از کشش و تاثیر زلف معشوق بر خود می‌گوید و به نوعی حالتی از تسلیم و طلب را در عشق خود احساس می‌کند. شاعر از زنجیر زلف معشوق سخن می‌گوید که او را به خود وابسته کرده و در عین حال نشان‌دهندهٔ دیوانگی و شیدایی اوست. کل شعر به تصویر کشیدن احساسات عاشقانه و فراق است و همان‌طور که معشوق در کششی تأثیرگذار است، شاعر نیز در حالتی از تمنای وصال و درد جدایی قرار دارد.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ونکشی",
+      "PlainText": "چون خط شبرنگ بر گلگون کشی\r\nحلقه در گوش مه گردون کشی\r\nگر ببینی روی خود در خط شده\r\nسرکشی و هر زمان افزون کشی\r\nگفته بودی در خط خویشت کشم\r\nتا لباس سرکشی بیرون کشی\r\nخط تو بر ماه و من در قعر چاه\r\nدر خط خویشم ندانم چون کشی\r\nگر بریزی بر زمین خونم رواست\r\nبلکه آن خواهم که تیغ اکنون کشی\r\nلیک زلفت از درازی بر زمین است\r\nخون شود جانم اگر در خون کشی\r\nمی کشی در خاک زلفت تا مرا\r\nهر نفس در بند دیگرگون کشی\r\nچون منم دیوانه تو زنجیر زلف\r\nمی کشی تا بر من مجنون کشی\r\nدام مشکین می نهی عطار را\r\nتا به دام مشکش از افسون کشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون خط شبرنگ بر گلگون کشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحلقه در گوش مه گردون کشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر ببینی روی خود در خط شده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرکشی و هر زمان افزون کشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفته بودی در خط خویشت کشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا لباس سرکشی بیرون کشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخط تو بر ماه و من در قعر چاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خط خویشم ندانم چون کشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر بریزی بر زمین خونم رواست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلکه آن خواهم که تیغ اکنون کشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک زلفت از درازی بر زمین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخون شود جانم اگر در خون کشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی‌کشی در خاک زلفت تا مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر نفس در بند دیگرگون کشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون منم دیوانه تو زنجیر زلف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌کشی تا بر من مجنون کشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدام مشکین می‌نهی عطار را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به دام مشکش از افسون کشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون خط شبرنگ بر گلگون کشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که با دقت و زیبایی، یک خط رنگی بر روی گل‌های زیبا ایجاد می‌کنی، درست مانند حلقه‌ای است که در گوش‌های مهتاب می‌درخشد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حلقه در گوش مه گردون کشی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر ببینی روی خود در خط شده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی به چهره‌ات نگاه کنی، می‌بینی که در حال تغییر و تحول است و همیشه در حال بهبود و پیشرفت هستی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرکشی و هر زمان افزون کشی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گفته بودی در خط خویشت کشم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفته بودی که برای به دست آوردن آزادی و رهایی از محدودیت‌ها، خود را از قید و بندها آزاد کنم تا تو بتوانی به راحتی خود را نشان دهی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تا لباس سرکشی بیرون کشی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خط تو بر ماه و من در قعر چاه",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نوشته‌ات مانند ماه زیباست و من در اعماق ناامیدی قرار دارم. نمی‌دانم چطور می‌توانی مرا از این وضعیت نجات دهی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در خط خویشم ندانم چون کشی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر بریزی بر زمین خونم رواست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خونم را بر زمین بریزی اشکالی ندارد، اما از تو می‌خواهم که اکنون شمشیر را به دست بگیری و اقدام کنی."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بلکه آن خواهم که تیغ اکنون کشی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "لیک زلفت از درازی بر زمین است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما زلف تو که به درازای خود بر زمین افتاده، جانم را می‌گیرد و اگر بخواهی در خون من کشتت، این عمل جان مرا می‌گیرد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خون شود جانم اگر در خون کشی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "می‌کشی در خاک زلفت تا مرا",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو با بافتن زلف هایت، مرا همیشه در حال و هوای جدیدی گرفتار می‌کنی."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "هر نفس در بند دیگرگون کشی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "چون منم دیوانه تو زنجیر زلف",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من مثل یک دیوانه هستم که تو با زنجیر زلفت مرا به خود می‌کشی تا بیشتر از این به جنون بیفتم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "می‌کشی تا بر من مجنون کشی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "دام مشکین می‌نهی عطار را",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو با چادر مشکین خود، عطار را در دام می‌افکنی تا او را با عطر و افسون خود به دام بیندازی."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "تا به دام مشکش از افسون کشی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

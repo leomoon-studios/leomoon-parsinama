@@ -1,0 +1,284 @@
+{
+  "Id": 41362,
+  "CatId": 1667,
+  "Title": "حکایت شمارهٔ ۲۸",
+  "FullTitle": "سعدی » گلستان » باب دوم در اخلاق درویشان » حکایت شمارهٔ ۲۸",
+  "FullUrl": "/saadi/golestan/gbab2/sh28",
+  "SourceName": "ویکی‌نبشته",
+  "SourceUrlSlug": "wikisource",
+  "PoemSummary": "هوش مصنوعی: در یک داستان تاریخی، پادشاهی که عمرش به پایان رسیده بود، وصیت کرد که اولین کسی که وارد شهر شود، تاج شاهی را بر سرش بگذارند و حکومت را به او بسپارند. ابتدا، یک گدا وارد شد که تمام عمرش سختی کشیده بود. مقامات دولت این وصیت را اجرا کردند و گدا به مدت کوتاهی بر حکومت نشست. اما به زودی برخی از سران دولت و پادشاهان دیگر، به مخالفت با او پرداختند و نظم کشور مختل شد.\n\nگدا از این وضعیت ناراحت بود تا اینکه یکی از دوستان قدیمی‌اش که از سفر بازگشته بود، او را دید و گفت که خوشبختی او به اوج رسیده است. اما گدا با تأسف گفت که اکنون که در مقام پادشاهی است، مشکلات بیشتری دارد و تنها آرزوی زندگی آرام و قناعت را در سر می‌پرورد. او تأکید کرد که در غنا و فقر، رنج‌هایش همچنان ادامه دارد و قناعت بهترین دولت است. همچنین به اهمیت صبر در زندگی درویش‌ها نسبت به داشتن ثروت اشاره کرد.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشیده",
+      "PlainText": "شکوفه گاه شکفته است و گاه خوشیده\r\nدرخت وقت برهنه است و وقت پوشیده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکوفه، گاه شکفته است و گاه خوشیده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرخت، وقت برهنه است و وقت پوشیده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ت",
+      "PlainText": "اگر دنیا نباشد دردمندیم\r\nوگر باشد به مهرش پای بندیم\r\nحجابی زین درون آشوب تر نیست\r\nکه رنج خاطر است ار هست و گر نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر دنیا نباشد، دردمندیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگر باشد، به مهرش پای‌بندیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحجابی زین درون‌آشوب‌تر نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه رنجِ خاطر است، اَر هست و گر نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ندیم",
+      "PlainText": "اگر دنیا نباشد دردمندیم\r\nوگر باشد به مهرش پای بندیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر دنیا نباشد، دردمندیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگر باشد، به مهرش پای‌بندیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رنیست",
+      "PlainText": "حجابی زین درون آشوب تر نیست\r\nکه رنج خاطر است ار هست و گر نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحجابی زین درون‌آشوب‌تر نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه رنجِ خاطر است، اَر هست و گر نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ی",
+      "PlainText": "مطلب گر توانگری خواهی\r\nجز قناعت که دولتیست هنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمَطَلب، گر توانگری خواهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز قناعت که دولتیست هَنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "تانظردرثواباونکنی",
+      "PlainText": "گر غنی زر به دامن افشاند\r\nتا نظر در ثواب او نکنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر غنی زر به دامن افشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا نظر در ثوابِ او نکنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "صبردرویشبهکهبذلغنی",
+      "PlainText": "کز بزرگان شنیده ام بسیار\r\nصبر درویش به که بذل غنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکز بزرگان شنیده‌ام بسیار:\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبرِ درویش به که بَذلِ غنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وری",
+      "PlainText": "اگر بریان کند بهرام گوری\r\nنه چون پای ملخ باشد ز موری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر بریان کند بهرام، گوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه چون پایِ ملخ باشد ز موری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وری",
+      "PlainText": "اگر بریان کند بهرام گوری\r\nنه چون پای ملخ باشد ز موری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر بریان کند بهرام، گوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه چون پایِ ملخ باشد ز موری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نی",
+      "PlainText": "مطلب گر توانگری خواهی\r\nجز قناعت که دولتیست هنی\r\nگر غنی زر به دامن افشاند\r\nتا نظر در ثواب او نکنی\r\nکز بزرگان شنیده ام بسیار\r\nصبر درویش به که بذل غنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمَطَلب، گر توانگری خواهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز قناعت که دولتیست هَنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر غنی زر به دامن افشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا نظر در ثوابِ او نکنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکز بزرگان شنیده‌ام بسیار:\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبرِ درویش به که بَذلِ غنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 3
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "یکی را از ملوک مدّتِ عمر سپری شد؛ قایم‌مقامی نداشت؛ وصیّت کرد که بامدادان نخستین کسی که از در شهر اندر آید، تاج شاهی بر سر وی نهند و تفویضِ مملکت بدو کنند.",
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی از پادشاهان که عمرش به پایان رسیده بود، هیچ جانشینی تعیین نکرد. او وصیت کرد که در نخستین صبح، هر کس که از در شهر وارد شود، تاج شاهی بر سر او بگذارند و حکومت را به او بسپارند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Paragraph",
+      "Text": "اتفاقاً اوّل کسی که در آمد، گدایی بود همه عمر لقمه اندوخته و رُقْعه دوخته.",
+      "CoupletIndex": 1,
+      "CoupletSummary": "چنان پیش آمد که نخستین شخصی که به شهر درون آمد، دریوزه‌گری بود که تمام زندگانی به گدایی لقمهٔ نان فراهم کرده و وصله بر جامهٔ پارهٔ خود دوخته."
+    },
+    {
+      "VOrder": 3,
+      "Position": "Paragraph",
+      "Text": "ارکانِ دولت و اَعیانِ حضرت وصیّتِ ملِک به جای آوردند و تسلیمِ مَفاتیحِ قِلاع و خزاین بدو کردند و مدّتی مُلک راند تا بعضی امرایِ دولت، گردن از طاعتِ او بپیچانیدند و ملوک از هر طرف به مُنازعت خاستن گرفتند و به مقاومت لشکر آراستن.",
+      "CoupletIndex": 2,
+      "CoupletSummary": "تمام درباریان و وزرا به گفته پادشاه عمل کردند و معنی «تسلیمِ مَفاتیحِ قِلاع و خزاین بدو کردند» : کلیدهای دژها و گنج‌ها را به او سپردند. مدتی پادشاهی کرد تا بعضی از امیران از او سرپیچی کردند و هر قسمتی شروع به جنگ و لشکر کشی کردند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Paragraph",
+      "Text": "فی‌الجمله، سپاه و رعیّت به هم بر آمدند و برخی طرفِ بلاد از قَبْضِ تصرُّفِ او به در رفت.",
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: به طور کلی، سپاه و مردم با همدیگر متحد شدند و در برخی از مناطق، کنترل او از دست رفت."
+    },
+    {
+      "VOrder": 5,
+      "Position": "Paragraph",
+      "Text": "درویش از این واقعه خسته‌خاطر همی‌بود تا یکی از دوستان قدیمش که در حالتِ درویشی قَرین بود، از سفری باز آمد و در چنان مرتبه دیدش.",
+      "CoupletIndex": 4,
+      "CoupletSummary": "هوش مصنوعی: درویش از این ماجراها خیلی ناراحت و دلگیر بود تا اینکه یکی از دوستان قدیمش که به حال او شبیه بود، از سفری برگشت و او را در آن وضعیت دید."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Paragraph",
+      "Text": "گفت: منّت خدای را، عَزَّ وَ جَلَّ، که گُلت از خار بر آمد و خار از پای به در آمد و بختِ بلندت رهبری کرد و اقبال و سعادت یاوری، تا بدین پایه رسیدی؛ اِنَّ مَعَ الْعُسْرِ یُسْراً.",
+      "CoupletIndex": 5,
+      "CoupletSummary": "معنی«گُلت از خار بر آمد و خار از پای به در آمد»:به کنایه مراد آن است که روزگار دشواری‌ات به سر آمد و پس از تیره‌روزی نیکبختی نصیبت شد. معنی «\u00A0اِنَّ مَعَ الْعُسْرِ یُسْراً»: همانا با دشواری آسانی است."
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شکوفه، گاه شکفته است و گاه خوشیده",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل همیشه در حال تغییر است؛ زمانی باز می‌شود و زمانی هم بر روی درختان میوه‌دار می‌شود. در برخی مواقع درختان بی‌برگ هستند و در مواقعی دیگر پر از برگ و میوه."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "درخت، وقت برهنه است و وقت پوشیده",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Paragraph",
+      "Text": "گفت: ای یارِ عزیز! تَعزیتم کن که جای تهنیت نیست. آنگه که تو دیدی، غمِ نانی داشتم و امروز تشویشِ جهانی.",
+      "CoupletIndex": 7,
+      "CoupletSummary": "گفت: ای دوست عزیز! مرا در این مصیبت به شکیب و صبر بخوان که جای مبارک باد گفتن نیست. آن زمان که مرا دیدار کردی اندیشهٔ یافتن یک قرص نان داشتم ولی امروز غم و اندوهِ یک عالَم دارم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Right",
+      "Text": "اگر دنیا نباشد، دردمندیم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 1,
+      "SectionIndex2": 3,
+      "CoupletSummary": "اگر ما را مال و خواستهٔ دنیا نباشد رنجه‌خاطر و اندوهگینیم و اگر باشد به دوستیِ آن سخت گرفتار."
+    },
+    {
+      "VOrder": 11,
+      "Position": "Left",
+      "Text": "وگر باشد، به مهرش پای‌بندیم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 1,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 12,
+      "Position": "Right",
+      "Text": "حجابی زین درون‌آشوب‌تر نیست",
+      "CoupletIndex": 9,
+      "SectionIndex1": 1,
+      "SectionIndex2": 4,
+      "CoupletSummary": "دنیا پرده‌ای است که جهانِ معنی را از نظر می‌پوشد و دل را سخت مشوّش می‌دارد؛ زیرا هم مالداری و هم حفظِ آن خودْ غمِ دل است و هم تنگدستی و ناداری."
+    },
+    {
+      "VOrder": 13,
+      "Position": "Left",
+      "Text": "که رنجِ خاطر است، اَر هست و گر نیست",
+      "CoupletIndex": 9,
+      "SectionIndex1": 1,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 14,
+      "Position": "Right",
+      "Text": "مَطَلب، گر توانگری خواهی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 10,
+      "SectionIndex2": 5,
+      "CoupletSummary": "اگر به حقیقت بی‌نیازی خواهی، جز درویشی و خرسندی که ثروتی بی خونِ دل است، مجوی."
+    },
+    {
+      "VOrder": 15,
+      "Position": "Left",
+      "Text": "جز قناعت که دولتیست هَنی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 10,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 16,
+      "Position": "Right",
+      "Text": "گر غنی زر به دامن افشاند",
+      "CoupletIndex": 11,
+      "SectionIndex1": 10,
+      "SectionIndex2": 6,
+      "CoupletSummary": "اگر توانگر دامن دامن زر نثار کند، هان تا چشم به کَرَم و احسان وی ندوزی،"
+    },
+    {
+      "VOrder": 17,
+      "Position": "Left",
+      "Text": "تا نظر در ثوابِ او نکنی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 10,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 18,
+      "Position": "Right",
+      "Text": "کز بزرگان شنیده‌ام بسیار:",
+      "CoupletIndex": 12,
+      "SectionIndex1": 10,
+      "SectionIndex2": 7,
+      "CoupletSummary": "چه من از اولیای دین این سخن بارها شنیده‌ام که شکیباییِ درویش بر ناداری و تهیدستی از بخششِ توانگر بسی برتر و فاضل‌تر است."
+    },
+    {
+      "VOrder": 19,
+      "Position": "Left",
+      "Text": "صبرِ درویش به که بَذلِ غنی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 10,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 20,
+      "Position": "Right",
+      "Text": "اگر بریان کند بهرام، گوری",
+      "CoupletIndex": 13,
+      "SectionIndex1": 9,
+      "SectionIndex2": 8,
+      "CoupletSummary": "اگر بهرام‌شاه [پادشاه ساسانی] گورخری کباب کند و ببخشد، به پای ملخی که موری به نثارْ [نزد سلیمان] آورد نیرزد."
+    },
+    {
+      "VOrder": 21,
+      "Position": "Left",
+      "Text": "نه چون پایِ ملخ باشد ز موری",
+      "CoupletIndex": 13,
+      "SectionIndex1": 9,
+      "SectionIndex2": 8
+    }
+  ]
+}

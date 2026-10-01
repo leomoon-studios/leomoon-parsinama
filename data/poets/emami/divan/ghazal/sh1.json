@@ -1,0 +1,135 @@
+{
+  "Id": 97241,
+  "CatId": 2496,
+  "Title": "شمارهٔ  ۱",
+  "FullTitle": "امامی هروی » دیوان اشعار » غزلیات » شمارهٔ  ۱",
+  "FullUrl": "/emami/divan/ghazal/sh1",
+  "RhymeLetters": "ینیدیگرست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و جذابیت معشوق و تأثیر آن بر شاعر اشاره دارد. شاعر با استفاده از تشبیه‌ها و استعاره‌ها، به غیرقابل مقایسه بودن زیبایی معشوق و دلبری‌های او پرداخته است. او به مختلف جنبه‌های زیبایی معشوق اشاره کرده و آن را با چیزهای باارزش و دلربا مقایسه می‌کند. در نهایت، شاعر از نبود معشوق و عواطف ناشی از او شکایت می‌کند و به دنبال دلی است که بتواند احساساتش را درک کند.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینیدیگرست",
+      "PlainText": "زلف اندر تاب چینی دیگرست\r\nکفرت اندر زلف دینی دیگرست\r\nاز زمرد خاتم لعل ترا\r\nتا خط آوردی نگینی دیگرست\r\nکو دلی دیگر که دست عشوه ات\r\nهر دم اندر آستینی دیگرست\r\nکو ز تو جانی که چشم ساحرست\r\nمست حسن اندر کمینی دیگرست\r\nدر جهانی کافتاب حسن اوست\r\nآسمان آنجا زمینی دیگرست\r\nگرد ماه از مشک تا خرمن زدی\r\nآفتابت خوشه چینی دیگرست\r\nبر امامی ز آفرینت هر زمان\r\nز آفرینش آفرینی دیگرست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزلف اندر تاب چینی دیگرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکفرت اندر زلف دینی دیگرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز زمرد خاتم لعل ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا خط آوردی نگینی دیگرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو دلی دیگر که دست عشوه ات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر دم اندر آستینی دیگرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو ز تو جانی که چشم ساحرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمست حسن اندر کمینی دیگرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جهانی کافتاب حسن اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسمان آنجا، زمینی دیگرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرد ماه از مشک تا خرمن زدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآفتابت خوشه چینی دیگرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر امامی ز آفرینت هر زمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز آفرینش آفرینی دیگرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زلف اندر تاب چینی دیگرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زلف تاب‌دار چینی حالت متفاوتی دارد و زیبایی تو در زلف دینی نیز جذابیت خاصی دارد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کفرت اندر زلف دینی دیگرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از زمرد خاتم لعل ترا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از زیبایی و ارزش خاتم زمردین تو، تا وقتی که خطی کشیده می‌شود، گوهر دیگری سر بر می‌آورد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا خط آوردی نگینی دیگرست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کو دلی دیگر که دست عشوه ات",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کجا می‌توان دل دیگری پیدا کرد که هر لحظه از زیبایی‌ات در دست دیگری باشد؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هر دم اندر آستینی دیگرست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "کو ز تو جانی که چشم ساحرست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که جانش را به تو سپرده، چشمانش مانند چشمان جادوگری است که در میانه زیبایی‌ها گرفتار شده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مست حسن اندر کمینی دیگرست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در جهانی کافتاب حسن اوست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این جهان، زیبایی او مانند آفتاب درخشان است و آنجا، آسمانی وجود دارد که دارای زمینی متفاوت و خاص است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آسمان آنجا، زمینی دیگرست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گرد ماه از مشک تا خرمن زدی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ماه را با عطر مشک آراسته‌ای و حالا آفتابت مثل خوشه‌چینی جدیدی در مزرعه است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "آفتابت خوشه چینی دیگرست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بر امامی ز آفرینت هر زمان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر زمان که به وجود امامی نگاه می‌کنی، متوجه می‌شوی که از آفرینش او، هر بار آفرینش جدیدی به وجود می‌آید."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "ز آفرینش آفرینی دیگرست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

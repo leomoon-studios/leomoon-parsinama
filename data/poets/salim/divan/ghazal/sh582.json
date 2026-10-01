@@ -1,0 +1,101 @@
+{
+  "Id": 101342,
+  "CatId": 2530,
+  "Title": "شمارهٔ ۵۸۲",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » غزلیات » شمارهٔ ۵۸۲",
+  "FullUrl": "/salim/divan/ghazal/sh582",
+  "RhymeLetters": "انتوانبرد",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره نیایش و آرزوهای انسانی است. شاعر با ذکر گل و شمع به زیبایی و لطافت اشاره می‌کند و نشان می‌دهد که در مسیر زندگی خطرات و موانع زیادی وجود دارد. او همچنین از رازهای نهان دل و ناامیدی‌ها سخن می‌گوید و بیان می‌کند که برای رسیدن به خواسته‌ها و دعا کردن باید امید را در دل حفظ کرد. به طور کلی، شعر بر ضرورت امید و تلاش در زندگی تأکید دارد.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکردبلند",
+      "PlainText": "گل پی نکهت او دست دعا کرد بلند\r\nشمع گردن به ره باد صبا کرد بلند\r\nهر قدم در ره گلشن خطری در خواب است\r\nچون تواند جرس غنچه صدا کرد بلند\r\nدر ره کعبه ی دل راز نهان بسیار است\r\nهر سخن را نتوان همچو درا کرد بلند\r\nخاک این غمکده چون بالش پر گر بالد\r\nسر مویی نتواند سر ما کرد بلند\r\nهرکه کوتاه کند رشته ی امید سلیم\r\nدست خود را نتواند به دعا کرد بلند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل پی نکهت او دست دعا کرد بلند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمع، گردن به ره باد صبا کرد بلند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر قدم در ره گلشن خطری در خواب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون تواند جرس غنچه صدا کرد بلند؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ره کعبه ی دل، راز نهان بسیار است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر سخن را نتوان همچو درا کرد بلند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاک این غمکده چون بالش پر گر بالد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر مویی نتواند سر ما کرد بلند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکه کوتاه کند رشته ی امید سلیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست خود را نتواند به دعا کرد بلند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گل پی نکهت او دست دعا کرد بلند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل به یاد و در عطر او، دست به دعا بلند کرد و شمع به خاطر نسیم ملایم صبح، قامت خود را بالا گرفت."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شمع، گردن به ره باد صبا کرد بلند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر قدم در ره گلشن خطری در خواب است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر قدمی که در راه باغ گل می‌زنیم، خطری در پس آن خوابیده است. چگونه ممکن است که جرس گل‌ها بتواند با صدای بلند ندا دهد؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون تواند جرس غنچه صدا کرد بلند؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در ره کعبه ی دل، راز نهان بسیار است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مسیر عشق و معرفت، اسرار زیادی نهفته است و نمی‌توان هر کلامی را مثل جواهر باارزش ساخت و به آن بها داد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هر سخن را نتوان همچو درا کرد بلند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خاک این غمکده چون بالش پر گر بالد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این خاکی که در آن غم و اندوه وجود دارد، مانند بالشی است که اگرچه پر از مو باشد، هیچ‌گاه نمی‌تواند سر ما را بالا ببرد. این نشان‌دهنده‌ی ناتوانی در رهایی از غم و دشواری‌ها است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سر مویی نتواند سر ما کرد بلند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هرکه کوتاه کند رشته ی امید سلیم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی امیدهایش را کم کند، نمی‌تواند دست خود را در دعا بلند کند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دست خود را نتواند به دعا کرد بلند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    }
+  ]
+}

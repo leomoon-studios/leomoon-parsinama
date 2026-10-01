@@ -1,0 +1,289 @@
+{
+  "Id": 41394,
+  "CatId": 1668,
+  "Title": "حکایتِ شمارهٔ ۱۴",
+  "FullTitle": "سعدی » گلستان » باب سوم در فضیلت قناعت » حکایتِ شمارهٔ ۱۴",
+  "FullUrl": "/saadi/golestan/gbab3/sh14",
+  "SourceName": "ویکی‌نبشته",
+  "SourceUrlSlug": "wikisource",
+  "PoemSummary": "هوش مصنوعی: موسی علیه السلام درویشی را دید که برهنه و به شدت نگران بود و از او خواست تا برایش دعا کند تا خدا کفایتی به او بدهد. موسی دعا کرد و رفت. چند روز بعد، وقتی بازگشت، درویش را دید که به خاطر نوشیدن خمر و ارتکاب جرم در میان مردم گرفتار شده و در عذاب است. داستان به شکل لطیف بیان می‌کند که افرادی که توانگری و نعمت دارند ممکن است به دلیل ندانم‌کاری و بی‌احتیاطی به ورطه هلاکت بیفتند. موسی با مشاهده سرنوشت درویش، به حکمت خداوند اقرار کرد و از افکار ناسنجیده خود پشیمان شد، در حالی که می‌داند هر کسی باید درک کند که خداوند بهتر از او برایش مصلحت می‌داند.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "پرداشتی",
+      "PlainText": "گربه مسکین اگر پر داشتی\r\nتخم گنجشک از جهان برداشتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگربهٔ مسکین اگر پر داشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتخمِ گنجشک از جهان برداشتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "طر",
+      "PlainText": "مٰاذا اخاضک یا مغرور فی الخطر\r\nحتیٰ هلکت فلیت النمل لم یطر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمٰاذا اَخاضَکَ یا مَغْرُورُ فِی الْخَطَرِ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحَتّیٰ هَلَکْتَ فَلَیْتَ النَّمْلَ لَمْ یَطِرِ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رداند",
+      "PlainText": "آن  کس که توانگرت نمی گرداند\r\nاو مصلحت تو از تو بهتر داند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن‌ کس‌که توانگرت نمی‌گرداند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو مصلحتِ تو از تو بهتر داند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "طر",
+      "PlainText": "مٰاذا اخاضک یا مغرور فی الخطر\r\nحتیٰ هلکت فلیت النمل لم یطر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمٰاذا اَخاضَکَ یا مَغْرُورُ فِی الْخَطَرِ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحَتّیٰ هَلَکْتَ فَلَیْتَ النَّمْلَ لَمْ یَطِرِ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رش",
+      "PlainText": "بنده چو جاه آمد و سیم و زرش\r\nسیلی خواهد به ضرورت سرش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنده چو جاه آمد و سیم و زرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیلی خواهد به ضرورت سَرَش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مورهمانبهکهنباشدپرش",
+      "PlainText": "آن نشنیدی که فلاطون چه گفت\r\nمور همان به که نباشد پرش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن نشنیدی که فلاطون چه گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمور همان به که نباشد پَرَش؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابد",
+      "PlainText": "عاجز باشد که دست قوت یابد\r\nبرخیزد و دست عاجزان برتابد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاجز، باشد که دستِ قوَّت یابد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرخیزد و دستِ عاجزان برتابد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ابد",
+      "PlainText": "عاجز باشد که دست قوت یابد\r\nبرخیزد و دست عاجزان برتابد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاجز، باشد که دستِ قوَّت یابد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرخیزد و دستِ عاجزان برتابد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "پرداشتی",
+      "PlainText": "گربه مسکین اگر پر داشتی\r\nتخم گنجشک از جهان برداشتی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگربهٔ مسکین اگر پر داشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتخمِ گنجشک از جهان برداشتی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رش",
+      "PlainText": "بنده چو جاه آمد و سیم و زرش\r\nسیلی خواهد به ضرورت سرش\r\nآن نشنیدی که فلاطون چه گفت\r\nمور همان به که نباشد پرش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنده چو جاه آمد و سیم و زرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیلی خواهد به ضرورت سَرَش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن نشنیدی که فلاطون چه گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمور همان به که نباشد پَرَش؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "موسی، عَلَیْه‌ِالسَّلامُ، درویشی را دید از برهنگی به ریگ اندر شده.",
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: موسی، پیامبر بزرگ، مرد درویشی را مشاهده کرد که به خاطر برهنگی‌اش بر روی زمین سنگی نشسته بود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Paragraph",
+      "Text": "گفت: ای موسی! دعا کن تا خدا، عَزَّوَجَلّ، مرا کَفافی دهد که از بی‌طاقتی به جان آمدم.",
+      "CoupletIndex": 1,
+      "CoupletSummary": "گفت: ای موسی! از خدای توانا و بزرگ بخواه تا به من روزْگذاری (اندک وَجه مَعاشی) دهد که از بی‌تابی جانم به لب رسید."
+    },
+    {
+      "VOrder": 3,
+      "Position": "Paragraph",
+      "Text": "موسی دعا کرد و برفت.",
+      "CoupletIndex": 2,
+      "CoupletSummary": "هوش مصنوعی: موسی دعا کرد و سپس رفت."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Paragraph",
+      "Text": "پس از چند روز که باز‌آمد از مناجات، مرد را دید گرفتار و خَلقی انبوه بر او گرد آمده.",
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: پس از چند روز که به عبادت و مناجات پرداخته بود، مرد را دید که در محاصره گروهی از مردم قرار گرفته و به نوعی گرفتار شده است."
+    },
+    {
+      "VOrder": 5,
+      "Position": "Paragraph",
+      "Text": "گفت: این چه حالت است؟",
+      "CoupletIndex": 4,
+      "CoupletSummary": "هوش مصنوعی: سؤال کرد: این وضعیت چیست؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Paragraph",
+      "Text": "گفتند: خَمْر خورده و عربده کرده و کسی را کُشته، اکنون به قِصاص فرموده‌اند.",
+      "CoupletIndex": 5,
+      "CoupletSummary": "هوش مصنوعی: گفتند: او شراب نوشیده و سر و صدا کرده و کسی را کشته است، حالا به مجازات او حکم داده‌اند."
+    },
+    {
+      "VOrder": 7,
+      "Position": "Paragraph",
+      "Text": "و لطیفان گفته‌اند:",
+      "CoupletIndex": 6,
+      "CoupletSummary": "هوش مصنوعی: برخی افراد با لطافت و ظرافت بیان کرده‌اند که..."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Right",
+      "Text": "گربهٔ مسکین اگر پر داشتی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر گربهٔ بیچاره‌ای بال داشت، می‌توانست تخم گنجشک را از دنیا بردارد."
+    },
+    {
+      "VOrder": 9,
+      "Position": "Left",
+      "Text": "تخمِ گنجشک از جهان برداشتی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 10,
+      "Position": "Right",
+      "Text": "عاجز، باشد که دستِ قوَّت یابد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 6,
+      "SectionIndex2": 7,
+      "CoupletSummary": "ممکن است که ناتوانیْ قوی‌پنجه گردد و خود به پیچاندنِ دستِ ناتوانان و ستم بر آنان قیام کند."
+    },
+    {
+      "VOrder": 11,
+      "Position": "Left",
+      "Text": "برخیزد و دستِ عاجزان برتابد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 6,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 12,
+      "Position": "Paragraph",
+      "Text": "وَ لَوْ بَسَطَ اللهُ الرِّزْقَ لِعِبٰادِهِ لَبَغَوْا فِی الْاَرْض.",
+      "CoupletIndex": 9,
+      "CoupletSummary": "اگر خداوند روزی را بر بندگان فراخ می‌گردانید در زمین نافرمانی و تباهی می‌کردند."
+    },
+    {
+      "VOrder": 13,
+      "Position": "Paragraph",
+      "Text": "موسی، علیه‌السَّلام، به حکمتِ جهان‌آفرین اقرار کرد و از تَجاسُرِ خویش استغفار.",
+      "CoupletIndex": 10,
+      "CoupletSummary": "موسی به راستکاری و استوارکاری آفریدگار معترف شد و از گستاخیِ خود آمرزش طلبید."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Right",
+      "Text": "مٰاذا اَخاضَکَ یا مَغْرُورُ فِی الْخَطَرِ",
+      "CoupletIndex": 11,
+      "SectionIndex1": 1,
+      "SectionIndex2": 3,
+      "CoupletSummary": "ای فریفته شده، چه چیزی تو را در ورطه فرو بُرد تا نابود گشتی؟ پس کاشکی مورچه پرواز نمی‌کرد. (زیرا مورچه چون پَر در آورَد، پرواز آغاز می‌کند و جان خود به خطر می‌افکند و این مثلی معروف است)"
+    },
+    {
+      "VOrder": 15,
+      "Position": "Left",
+      "Text": "حَتّیٰ هَلَکْتَ فَلَیْتَ النَّمْلَ لَمْ یَطِرِ",
+      "CoupletIndex": 11,
+      "SectionIndex1": 1,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 16,
+      "Position": "Right",
+      "Text": "بنده چو جاه آمد و سیم و زرش",
+      "CoupletIndex": 12,
+      "SectionIndex1": 9,
+      "SectionIndex2": 4,
+      "CoupletSummary": "چون آدمیزادهٔ ناآزاده‌خوی مقامی یافت و پولی به دست آورد،‌ نافرمانی آغازد و به ناگزیر خود را سزاوارِ سیلی خوردن یا قفاخوردن (پس‌گردنی خوردن) سازد."
+    },
+    {
+      "VOrder": 17,
+      "Position": "Left",
+      "Text": "سیلی خواهد به ضرورت سَرَش",
+      "CoupletIndex": 12,
+      "SectionIndex1": 9,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 18,
+      "Position": "Right",
+      "Text": "آن نشنیدی که فلاطون چه گفت",
+      "CoupletIndex": 13,
+      "SectionIndex1": 9,
+      "SectionIndex2": 5,
+      "CoupletSummary": "آیا این سخن به گوشَت نرسیده که افلاطون گفته: مورچه را مصلحت آن است که پَر نباشد. (تا از خطر ایمن بماند، یا کم‌آزار بماند؛ زیرا مورچه در مدت کوتاهی از سال که بال در می‌آورد و پرواز می‌کند بر سر و روی مردم می‌افتد و آزار می‌رساند)"
+    },
+    {
+      "VOrder": 19,
+      "Position": "Left",
+      "Text": "مور همان به که نباشد پَرَش؟",
+      "CoupletIndex": 13,
+      "SectionIndex1": 9,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 20,
+      "Position": "Paragraph",
+      "Text": "پدر را عسل بسیار است ولی پسر گرمی‌دار است.",
+      "CoupletIndex": 14,
+      "CoupletSummary": "پدر انگبینِ (عسل) فراوان دارد ولی عسل با پسر که گرم‌مزاج (گرمی‌دار) است سازگار نیست."
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "آن‌ کس‌که توانگرت نمی‌گرداند",
+      "CoupletIndex": 15,
+      "SectionIndex1": 2,
+      "CoupletSummary": "خداوندی که تو را غنی نمی‌کند،‌ خیر و نیکیِ تو را از تو نیکوتر باز می‌شناسد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "او مصلحتِ تو از تو بهتر داند",
+      "CoupletIndex": 15,
+      "SectionIndex1": 2
+    }
+  ]
+}

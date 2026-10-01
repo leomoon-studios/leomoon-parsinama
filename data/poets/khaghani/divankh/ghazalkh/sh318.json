@@ -1,0 +1,135 @@
+{
+  "Id": 14687,
+  "CatId": 230,
+  "Title": "غزل شمارهٔ ۳۱۸",
+  "FullTitle": "خاقانی » دیوان اشعار » غزلیات » غزل شمارهٔ ۳۱۸",
+  "FullUrl": "/khaghani/divankh/ghazalkh/sh318",
+  "RhymeLetters": "وی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات عمیق و نارضایتی شاعر از دنیا و انسان‌ها می‌پردازد. شاعر به خواننده توصیه می‌کند که از ناامیدی و مشکلات زندگی فرار نکند و با بلاها کنار بیاید، زیرا هیچ چیز در این دنیا پایدار نیست. او بر این باور است که در میان انسان‌ها، دوستان واقعی نادرند و نباید به ظاهر آنها اطمینان کرد. در پایان، شاعر احساس می‌کند که از جهان جدا شده و به خدا پناه می‌برد و از او می‌خواهد که به حالش رحم کند.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وی",
+      "PlainText": "روی درکش ز دهر دشمن روی\r\nپشت برکن به چرخ کافر خوی\r\nمردمی از نهاد کس مطلب\r\nخرمی از مزاج دهر مجوی\r\nبا بلاها بساز و تن درده\r\nکز سلامت نه رنگ ماند و نه بوی\r\nدود وحشت گرفت چهره عمر\r\nآب دیده بریز و پاک بشوی\r\nاهل خواهی ز اهل عصر ببر\r\nانس خواهی میان انس مپوی\r\nچند ازین یوسفان گرگ صفت\r\nچند ازین دوستان دشمن روی\r\nدل خاقانی از جهان بگسست\r\nباز شد رب لاتذرنی گوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی درکش ز دهر دشمن روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشت برکن به چرخ کافر خوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردمی از نهاد کس مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرمی از مزاج دهر مجوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا بلاها بساز و تن درده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز سلامت نه رنگ ماند و نه بوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدود وحشت گرفت چهرهٔ عمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب دیده بریز و پاک بشوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاهل خواهی ز اهل عصر ببُر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eانس خواهی میان انس مپوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچند ازین یوسفان گرگ صفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند ازین دوستان دشمن روی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل خاقانی از جهان بگسست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز شد رب لاتذرنی گوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "روی درکش ز دهر دشمن روی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از تو باید که در برابر سختی‌های دنیا، با قدرت و اراده بایستی و همواره به خداوندی که بی‌نهایت است، تکیه کنی. نباید به موانع و حسادت‌های دیگران توجه کنی و باید با افتخار و دلی پر از ایمان به سمت آینده بروی."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پشت برکن به چرخ کافر خوی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مردمی از نهاد کس مطلب",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم برای خوشحالی و شادابی خود به دیگران وابسته نباشند و نباید خوشی‌های زندگی را در شرایط و اوضاع زمان جستجو کنند؛ بلکه باید از خود آن‌ها سرچشمه بگیرد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خرمی از مزاج دهر مجوی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با بلاها بساز و تن درده",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با مشکلات کنار بیای و راضی باش، چون دیگر نه هیچ نشانه‌ای از سلامتی باقی می‌ماند و نه عطر و بویی از آن."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کز سلامت نه رنگ ماند و نه بوی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دود وحشت گرفت چهرهٔ عمر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دود ترس چهرهٔ عمر را تار کرده است؛ پس اشک بریز و آن را پاک کن."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آب دیده بریز و پاک بشوی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "اهل خواهی ز اهل عصر ببُر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به دنبال محبت و دوستی هستی، از جمع مردم این زمان دوری کن و به دنبال دوستان واقعی و باصفا بگرد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "انس خواهی میان انس مپوی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چند ازین یوسفان گرگ صفت",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چند نفر از این افراد خوب و مورد اعتماد هستند و چند نفر از این دوستان در حقیقت چهره‌ای دشمن دارند؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چند ازین دوستان دشمن روی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دل خاقانی از جهان بگسست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل خاقانی از دنیا جدا شد و در پاسخ به خدای رحمت از او خواست که او را به حال خود رها نکند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "باز شد رب لاتذرنی گوی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

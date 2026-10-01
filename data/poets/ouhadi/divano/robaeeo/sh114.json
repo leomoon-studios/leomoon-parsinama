@@ -1,0 +1,60 @@
+{
+  "Id": 29380,
+  "CatId": 254,
+  "Title": "رباعی شمارهٔ ۱۱۴",
+  "FullTitle": "اوحدی مراغه‌ای » دیوان اشعار » رباعیات » رباعی شمارهٔ ۱۱۴",
+  "FullUrl": "/ouhadi/divano/robaeeo/sh114",
+  "RhymeLetters": "ندازمشک",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات، شاعر به زیبایی و جذابیت معشوقه‌اش اشاره می‌کند. او از لبان شیرین و گونۀ دلنشین او یاد می‌کند و خطی زیبا بر چهره‌اش را توصیف می‌کند. همچنین اشاره به تزئینی دارد که بر بازوی او بسته شده، و زیبایی دلربا و زرق و برق او را با اشاره به رنگ و زینت‌هایش به تصویر می‌کشد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ندازمشک",
+      "PlainText": "خالی داری بر لب چون قند از مشک\r\nخطی داری بر رخ دلبند از مشک\r\nبر ساعد خود نگار بستی یا خود\r\nبر ماهی سیمین زرهی چند از مشک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخالی داری بر لب چون قند، از مشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخطی داری بر رخ دلبند، از مشک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر ساعد خود نگار بستی یا خود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ماهی سیمین زرهی چند از مشک؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خالی داری بر لب چون قند، از مشک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لب‌های تو مانند قند شیرین و خالص است و بر چهره‌ات نشانه‌ای از عطر مشک دارد که زیبایی‌ات را دوچندان کرده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خطی داری بر رخ دلبند، از مشک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بر ساعد خود نگار بستی یا خود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو بر روی ساعد خود نگار زیبایی نهاده‌ای یا این که بر ماهی نقره‌ای چندین زره‌ای از مشک قرار داده‌ای؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بر ماهی سیمین زرهی چند از مشک؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

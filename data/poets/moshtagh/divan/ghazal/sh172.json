@@ -1,0 +1,120 @@
+{
+  "Id": 121576,
+  "CatId": 2798,
+  "Title": "شمارهٔ ۱۷۲",
+  "FullTitle": "مشتاق اصفهانی » دیوان اشعار » غزلیات » شمارهٔ ۱۷۲",
+  "FullUrl": "/moshtagh/divan/ghazal/sh172",
+  "RhymeLetters": "ستگیرد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و پیچیدگی عشق و مستی اشاره دارد. شاعر بیان می‌کند که وقتی کسی در دستانش ساغر قرار می‌دهد، دل تمامی عاشقان را می‌گیرد. در میکده، دست میفروشی وجود دارد که قدرت جذب زیادی دارد. این موضوع به قدیمی‌ترین سنت عشق و مستی اشاره دارد که هشیاران را نیز به مستی می‌کشاند. شاعر به لطافت و نازکی عشق اشاره می‌کند و می‌گوید که دل‌ها در مقابل زیبایی‌ها و عشق نازک می‌شوند. اگر محبوب به بت‌خانه بیاید، دل افراد را به شدت مجذوب خود خواهد کرد. در پایان، اشاره می‌شود که چشم سیاه محبوب نیز اثر شگرفی بر دل عاشقان دارد.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستگیرد",
+      "PlainText": "چون ساغر می بدست گیرد\r\nدل از کف هر که هست گیرد\r\nدر میکده دست میفروشست\r\nدستی که هزار دست گیرد\r\nرسمیست کهن که شحنه عشق\r\nهشیار بجای مست گیرد\r\nدانسته مزاج نازک گل\r\nمرغی که ترانه پست گیرد\r\nدر بت کده گر بت من آید\r\nدل از بت و بت پرست گیرد\r\nپیوسته قدح ز خون مشتاق\r\nآن چشم سیاه مست گیرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ساغر می بدست گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل از کف هر که هست گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر میکده دست میفروشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدستی که هزار دست گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرسمیست کهن که شحنه عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهشیار بجای مست گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانسته مزاج نازک گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرغی که ترانه پست گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بت‌کده گر بت من آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل از بت و بت‌پرست گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیوسته قدح ز خون مشتاق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن چشم سیاه مست گیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چون ساغر می بدست گیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که جام می را به دست بگیرد، دل از دست می‌دهد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل از کف هر که هست گیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در میکده دست میفروشست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در میکده، فروشنده‌ی شراب، دستی را دارد که می‌تواند هزاران دست را در بر بگیرد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دستی که هزار دست گیرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "رسمیست کهن که شحنه عشق",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در عشق، عادت دیرینه این است که شخصی با عقل و آگاهی و نه در حالت بی‌خبری و سرمستی، به دنبال حقیقت و زیبایی‌های عشق برود."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "هشیار بجای مست گیرد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دانسته مزاج نازک گل",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درک کن که حال و احوال حساس و لطیف روح یک پرنده‌ای که ترانه‌ای ملایم و آرام می‌خواند، چگونه است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مرغی که ترانه پست گیرد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در بت‌کده گر بت من آید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر معشوق من به میکده بیاید، دل از محبت او و پیروان او خواهد گرفت."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دل از بت و بت‌پرست گیرد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "پیوسته قدح ز خون مشتاق",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نوشیدن شراب همیشه با یاد آن چشم سیاه معشوق آشکار می‌شود که دل عاشق را به درد می‌آورد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "آن چشم سیاه مست گیرد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    }
+  ]
+}

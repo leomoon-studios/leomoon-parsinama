@@ -1,0 +1,225 @@
+{
+  "Id": 120624,
+  "CatId": 2780,
+  "Title": "شمارهٔ ۴۶",
+  "FullTitle": "مجد همگر » دیوان اشعار » قطعات » شمارهٔ ۴۶",
+  "FullUrl": "/hamgar/divan/ghete/sh46",
+  "RhymeLetters": "ر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر از احساسات عمیق خود نسبت به زندان عاطفی و دوری از عشق می‌گوید. او از بی‌خبری از شب و روز و زجر و درد درونی‌اش شکایت می‌کند. دلش در جوانی زود پیر شده و احساس ناامیدی دارد. او در حبس عیش‌ها و خوشی‌ها گرفتار شده و همچنان از آزار تقدیر رنج می‌برد. شاعر از دوستانش می‌سوالد که چرا دیگر یاد او را نمی‌کنند و به تضاد بین محبت موجود در طبیعت و بی‌وفایی انسان‌ها اشاره می‌کند. این شعر، ترکیبی از غم و تلخی عشق و زندگی است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یر",
+      "PlainText": "دلم دیوانه گشت از تاب زنجیر\r\nتنم بگداخت زین زندان دلگیر\r\nنه شب مه بینم و نه روز خورشید\r\nنه بر من می وزد بادی به شبگیر\r\nزبونم کرد ایام تبه کار\r\nتباهم کرد گردون زبون گیر\r\nسرم شد در بهار عمر پر برف\r\nدل من در جوانی زود شد پیر\r\nدرونم شد ز دست دهر پر درد\r\nروانم شد ز شست چرخ پرتیر\r\nچو بی تدبیرم اکنونم چه چاره\r\nچو بیچاره شدم اکنون چه تدبیر\r\nمرا در حبس عیشی دست داده ست\r\nز یار و رود و جام و نغمه زیر\r\nحریفم گریه آمد جام می اشک\r\nسرودم ناله رود آواز زنجیر\r\nنجستم با کسی در کینه پیشی\r\nنکردم با کسی در مهر تقصیر\r\nبه جای شیر مهرم داد دایه\r\nکه با من مهر شد چون با شکر شیر\r\nبه قدر خود وفا با هر که کردم\r\nمکافاتم جفا آمد ز تقدیر\r\nچه افتاد ای رفیقان مر شما را\r\nکه شد یکبارتان یاد من از ویر\r\nبه هم مشفق ترند از آدمیزاد\r\nبه دریا ماهی و در کوه نخجیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلم دیوانه گشت از تاب زنجیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتنم بگداخت زین زندان دلگیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه شب مه بینم و نه روز خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه بر من می وزد بادی به شبگیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبونم کرد ایام تبه کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتباهم کرد گردون زبون گیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرم شد در بهار عمر پر برف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل من در جوانی زود شد پیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرونم شد ز دست دهر پر درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروانم شد ز شست چرخ پرتیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو بی تدبیرم اکنونم چه چاره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بیچاره شدم اکنون چه تدبیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا در حبس عیشی دست داده ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز یار و رود و جام و نغمه زیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحریفم گریه آمد جام می اشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرودم ناله رود آواز زنجیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنجستم با کسی در کینه پیشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنکردم با کسی در مهر تقصیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه جای شیر مهرم داد دایه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه با من مهر شد چون با شکر شیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه قدر خود وفا با هر که کردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمکافاتم جفا آمد ز تقدیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه افتاد ای رفیقان مر شما را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شد یکبارتان یاد من از ویر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هم مشفق ترند از آدمیزاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دریا ماهی و در کوه نخجیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 13
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلم دیوانه گشت از تاب زنجیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من از شدت ناراحتی و درد، به شدت بی‌تاب شده است. زنجیری که به تنم است، باعث می‌شود که احساس خفگی و محدودیت کنم و این زندان که دل من است، خیلی ناگوار و رنج‌آور است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تنم بگداخت زین زندان دلگیر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه شب مه بینم و نه روز خورشید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه شب را می‌بینم که ماه در آسمان باشد و نه روز را که خورشید تابیده باشد، و نه بادی به من می‌وزد در هنگام غروب."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه بر من می وزد بادی به شبگیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زبونم کرد ایام تبه کار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزگار ناگوار مرا به زبان خود آورد و سرنوشت، مرا درگیر مشکلات کرد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "تباهم کرد گردون زبون گیر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سرم شد در بهار عمر پر برف",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دوره جوانی، احساسات و آرزوهای من مانند برف در بهار در حال ذوب شدن و از بین رفتن است، و دل من به سرعت کهنسال شده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دل من در جوانی زود شد پیر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "درونم شد ز دست دهر پر درد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درونم به خاطر مشکلات زندگی پر از درد شده و روح و روانم تحت تأثیر سختی‌ها و بی‌رحمی زمانه آسیب دیده است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "روانم شد ز شست چرخ پرتیر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چو بی تدبیرم اکنونم چه چاره",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که در حال حاضر بی‌تدبیر و ناتوان هستم، چه کار دیگری می‌توانم انجام دهم؟ اکنون که به مرحله‌ای از ناامیدی رسیده‌ام، دیگر چه تدبیری می‌تواند مفید باشد؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "چو بیچاره شدم اکنون چه تدبیر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "مرا در حبس عیشی دست داده ست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در لذت‌جویی به دام افتاده‌ام و این به خاطر دوستی، آب و جام و نغمه‌است که مرا به این وضعیت کشانده‌اند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "ز یار و رود و جام و نغمه زیر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "حریفم گریه آمد جام می اشک",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستم به خاطر غم و ناراحتی‌اش گریه می‌کند و من نیز با او همدردی می‌کنم. جام شراب را در دست دارم و اشک‌هایم را مانند ناله‌ای از رودخانه و صدای زنجیرهایی می‌دانم که در حال رنج و اندوه می‌سرایند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "سرودم ناله رود آواز زنجیر",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "نجستم با کسی در کینه پیشی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هیچ‌گاه با کسی در کینه رقابت نکردم و در محبت هم هرگز کوتاهی نکردم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "نکردم با کسی در مهر تقصیر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "به جای شیر مهرم داد دایه",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مادرم به جای شیر محبت، مهری به من داد که مانند شکر شیر، خوش‌نوا و دلپذیر بود."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "که با من مهر شد چون با شکر شیر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "به قدر خود وفا با هر که کردم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به اندازه‌ای که با هر کس به وفاداری رفتار کرده‌ام، به همان اندازه از سرنوشت، ظلم و بی‌وفایی نصیبم شده است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "مکافاتم جفا آمد ز تقدیر",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "چه افتاد ای رفیقان مر شما را",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوستان، چه بلایی بر سرتان آمده که دیگر یکبار هم نام من را از یاد نبرده‌اید؟"
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "که شد یکبارتان یاد من از ویر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "به هم مشفق ترند از آدمیزاد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ماهی‌ها در دریا و حیوانات در کوه به یکدیگر بیشتر از انسان‌ها محبت و توجه می‌کنند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "به دریا ماهی و در کوه نخجیر",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    }
+  ]
+}

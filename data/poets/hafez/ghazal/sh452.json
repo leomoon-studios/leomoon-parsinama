@@ -1,0 +1,240 @@
+{
+  "Id": 2581,
+  "CatId": 24,
+  "Title": "غزل شمارهٔ ۴۵۲",
+  "FullTitle": "حافظ » غزلیات » غزل شمارهٔ ۴۵۲",
+  "FullUrl": "/hafez/ghazal/sh452",
+  "RhymeLetters": "ری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به عشق و اهمیت آن در زندگی انسان‌ها اشاره می‌کند. او می‌گوید که برای رسیدن به خوشبختی باید به عشق ارادت ورزید و از آن بی‌نصیب نماند. با زحمات و تلاش، بایستی به درک عمیق‌تری از عشق رسید و از خطاهای شخصی نیز عبرت گرفت. شاعر به زیبایی‌های عشق و نقش آن در زندگی اشاره کرده و همچنین تأکید می‌کند که اگر عشق به درستی درک نشود، ممکن است به نتیجه مطلوبی نرسد. در نهایت، شاعر به امید دیدار معشوق و تأثیر آن بر زندگی‌اش اشاره کرده و پیامی از امید به آینده و عشق حقیقی را منتقل می‌کند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "طفیل هستی عشقند آدمی و پری\r\nارادتی بنما تا سعادتی ببری\r\nبکوش خواجه و از عشق بی نصیب مباش\r\nکه بنده را نخرد کس به عیب بی هنری\r\nمی صبوح و شکرخواب صبحدم تا چند\r\nبه عذر نیم شبی کوش و گریه سحری\r\nتو خود چه لعبتی ای شهسوار شیرین کار\r\nکه در برابر چشمی و غایب از نظری\r\nهزار جان مقدس بسوخت زین غیرت\r\nکه هر صباح و مسا شمع مجلس دگری\r\nز من به حضرت آصف که می برد پیغام\r\nکه یاد گیر دو مصرع ز من به نظم دری\r\nبیا که وضع جهان را چنان که من دیدم\r\nگر امتحان بکنی می خوری و غم نخوری\r\nکلاه سروریت کج مباد بر سر حسن\r\nکه زیب بخت و سزاوار ملک و تاج سری\r\nبه بوی زلف و رخت می روند و می آیند\r\nصبا به غالیه سایی و گل به جلوه گری\r\nچو مستعد نظر نیستی وصال مجوی\r\nکه جام جم نکند سود وقت بی بصری\r\nدعای گوشه نشینان بلا بگرداند\r\nچرا به گوشه چشمی به ما نمی نگری\r\nبیا و سلطنت از ما بخر به مایه حسن\r\nوزین معامله غافل مشو که حیف خوری\r\nطریق عشق طریقی عجب خطرناک است\r\nنعوذبالله اگر ره به مقصدی نبری\r\nبه یمن همت حافظ امید هست که باز\r\nاریٰ اسامر لیلای لیلة القمری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطُفیلِ هستیِ عشقند آدمیّ و پَری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eارادتی بنما تا سعادتی بِبَری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبکوش خواجه و از عشق بی‌نصیب مباش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بنده را نخرد کس به عیب بی‌هنری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی صبوح و شکرخواب صبحدم تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه عذر نیم‌شبی کوش و گریهٔ سحری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو خود چه لعبتی ای شهسوار شیرین‌کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در برابر چشمیّ و غایب از نظری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهزار جان مقدّس بسوخت زین غیرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هر صباح و مسا شمع مجلس دگری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز من به حضرت آصف که می‌برد پیغام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه یاد گیر دو مصرع ز من به نظم دری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا که وضع جهان را چنان که من دیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر امتحان بکنی مِی خوریّ و غم نخوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکلاه سروریت کج مباد بر سر حُسن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه زیب بخت و سزاوار ملک و تاج سری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بوی زُلف و رُخت می‌روند و می‌آیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبا به غالیه ساییّ و گل به جلوه‌گری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو مستعّد نظر نیستی وصال مجوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه جام جم نکند سود وقت بی‌بصری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدعای گوشه‌نشینان بلا بگرداند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرا به گوشهٔ چشمی به ما نمی‌نگری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا و سلطنت از ما بخر به مایهٔ حسن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوَزین معامله غافل مشو که حیف خوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطریق عشق طریقی عجب خطرناک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنعوذبالله اگر ره به مقصدی نبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه یُمنِ همّتِ حافظ امید هست که باز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاَریٰ اُسامِرُ لیلایَ لَیلةَ القَمَری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 14
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "طُفیلِ هستیِ عشقند آدمیّ و پَری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیای وجود، تحت تاثیر عشق است و هم انسان‌ها و هم فرشتگان به عشق وابسته‌اند. اگر تمایل و اراده‌ای نشان دهی، می‌توانی به خوشبختی و سعادت دست یابی."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ارادتی بنما تا سعادتی بِبَری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بکوش خواجه و از عشق بی‌نصیب مباش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "زندگی یعنی آموختن هنر عشق ورزیدن؛ و اوقات، بدون عشق ارزشی ندارد"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بنده را نخرد کس به عیب بی‌هنری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "می صبوح و شکرخواب صبحدم تا چند؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "تا کی به اوقات خودت را به خوردن و خوابیدن و آسایش طلبی میگذرانی؟تلاش کن راز و نیاز شبانه و گریه و توبه صبحگاهی را به جا بیاوری"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "به عذر نیم‌شبی کوش و گریهٔ سحری",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تو خود چه لعبتی ای شهسوار شیرین‌کار",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شیرین‌کار و دلربا، تو چقدر جالب و جذابی که در برابر دیدگانم هستی، اما انگار از نگاه‌ها دوری و ناپدید شده‌ای."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که در برابر چشمیّ و غایب از نظری؟",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هزار جان مقدّس بسوخت زین غیرت",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هزار جان پاک و باارزش به خاطر این غیرت از بین رفت، چون هر صبح و شب شمع محفل دیگری روشن می‌شود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که هر صباح و مسا شمع مجلس دگری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ز من به حضرت آصف که می‌برد پیغام",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از من به حضرت آصف پیام می‌برد که بیاموز دو مصراع از من را در نظم دری؟  \nیعنی: کسی که پیام مرا به آصف می‌رساند، به او می‌گوید که از اشعار من چیزهایی را بیاموزد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که یاد گیر دو مصرع ز من به نظم دری؟",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بیا که وضع جهان را چنان که من دیدم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "اگر با دیدگاهِ من (عشق‌ورزی) به زندگی نگاه کنی، سرمست از عشق خواهی شد و همه‌ی غم‌ها فراموش می‌شوند!"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "گر امتحان بکنی مِی خوریّ و غم نخوری",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "کلاه سروریت کج مباد بر سر حُسن",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کلاهی که بر سر توست، نباید کج باشد، زیرا زیبایی و شایستگی تو به حدی است که لیاقت تاج و سلطنت را داری."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "که زیب بخت و سزاوار ملک و تاج سری",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "به بوی زُلف و رُخت می‌روند و می‌آیند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "باد صبا عطر زلف تو را می‌پراکند و چهره‌ی تو مانند گلی جلوه گری می کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "صبا به غالیه ساییّ و گل به جلوه‌گری",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "چو مستعّد نظر نیستی وصال مجوی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که از نگاه کردن به حقیقت و درک واقعیت ناتوانی، به دنبال ارتباط نزدیک نباش. چرا که مانند جمشید، هیچ فایده‌ای از جامی که نمیتوانی ببینی، نخواهی برد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "که جام جم نکند سود وقت بی‌بصری",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "دعای گوشه‌نشینان بلا بگرداند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "ذره و اندک توجه معشوق به عاشق، هم‌چون دعای افراد مستجاب‌الدعوه، همه‌ی دردها را درمان می‌کند"
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "چرا به گوشهٔ چشمی به ما نمی‌نگری؟",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "بیا و سلطنت از ما بخر به مایهٔ حسن",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیایید و با زیبایی و خوبی ما، سلطنت و قدرت را به دست آورید. از این فرصت غافل نشوید چون از دست دادن آن، بد است و حیف است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "وَزین معامله غافل مشو که حیف خوری",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "طریق عشق طریقی عجب خطرناک است",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: راه عشق، مسیر شگفت‌انگیزی است که بسیار پرخطر می‌باشد؛ بترس که اگر به مقصد نرسی، چه عواقبی خواهد داشت."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "نعوذبالله اگر ره به مقصدی نبری",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "به یُمنِ همّتِ حافظ امید هست که باز",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به لطف تلاش و همت حافظ، این امید وجود دارد که دوباره شاهد زیبایی‌های لیلی در شب‌های پر نور خواهیم بود."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "اَریٰ اُسامِرُ لیلایَ لَیلةَ القَمَری",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    }
+  ]
+}

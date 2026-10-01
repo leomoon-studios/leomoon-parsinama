@@ -1,0 +1,210 @@
+{
+  "Id": 44672,
+  "CatId": 1401,
+  "Title": "غزل شمارهٔ ۲۶۰۴",
+  "FullTitle": "بیدل دهلوی » غزلیات » غزل شمارهٔ ۲۶۰۴",
+  "FullUrl": "/bidel/ghazalbi/sh2604",
+  "RhymeLetters": "استنگاه",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به عمق و زیبایی نگاه و توجه به عالم و وجود اشاره می‌کند. او به احساس حیرت و شگفتی ناشی از تماشای زیبایی‌ها و لطافت‌های زندگی می‌پردازد. تأکید بر این است که درک و بینش در لحظات خاص، به خصوص در مواقعی که در جست‌وجوی معانی عمیق‌تر هستیم، از اهمیت بالایی برخوردار است. شاعر به دنبال آگاهی و روشنی در زندگی است و می‌گوید که نگاه به زیبایی‌ها، درک بهتر و عمیق‌تری از هستی به ما می‌دهد. همچنین، از حسرت و آرزوها برای یافتن زیبایی‌های معنوی و رهایی از محدودیت‌ها و نامرئی‌ها سخن می‌گوید. در نهایت، نگاه به زندگی و عشق، به مثابه دعا و آرزوی دستی بلند تعبیر می‌شود.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "استنگاه",
+      "PlainText": "بسکه ما را بر آن لقاست نگاه\r\nعالمی را به چشم ماست نگاه\r\nحیرت امروز بی بلایی نیست\r\nاز مژه دست بر قفاست نگاه\r\nمایه بینش است ضبط نفس\r\nگر به شبنم تند هواست نگاه\r\nبی صفا زنگ برنمی خیزد\r\nمژه  بسته را عصاست نگاه\r\nحرص معنی شکار عبرت نیست\r\nدیده دام را کجاست نگاه\r\nفکر رحلت خجالتی دارد\r\nدم رفت ن به پیش پاست نگاه\r\nغنچه شو چشم ازین و آن بربند\r\nکه درین باغ خونبهاست نگاه\r\nبال شوق رسا تری نکشد\r\nهمچو شبنم سرشک ماست نگاه\r\nبزم ما بسکه محو جلوه اوست\r\nشیشه  گر بشکنی صداست نگاه\r\nحسرت حسن نو خطی داریم\r\nطالب جنس توتیاست نگاه\r\nمژده دستی بلند خواهد کرد\r\nچشم وا می کنم دعاست نگاه\r\nبیدل افسانه دگر متراش\r\nبا همین رنگ آشناست نگاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسکه ما را بر آن لقاست نگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعالمی را به چشم ماست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحیرت امروز بی بلایی نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز مژه دست بر قفاست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمایهٔ بینش است ضبط نفس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر به شبنم تند هواست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌صفا زنگ برنمی‌خیزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمژهٔ‌ بسته را عصاست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحرص معنی شکار عبرت نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدهٔ دام را کجاست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفکر رحلت خجالتی دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدم رفت‌ن به پیش پاست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغنچه شو چشم ازین و آن بربند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه درین باغ خونبهاست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبال شوق رسا تری نکشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو شبنم سرشک ماست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبزم ما بسکه محو جلوهٔ اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشیشه‌ گر بشکنی صداست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحسرت حسن نو خطی داریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطالب جنس توتیاست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمژده دستی بلند خواهد کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم وا می‌کنم دعاست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیدل افسانهٔ دگر متراش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا همین رنگ آشناست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 12
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بسکه ما را بر آن لقاست نگاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به خاطر آن دیدار، چنان به آن مشغولیم که به چشم ما همه‌چیز، محصور در نگاه عالم است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "عالمی را به چشم ماست نگاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حیرت امروز بی بلایی نیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز که در شگفتی‌ام، این حالت ناشی از غفلت نیست و چشم‌هایم به مانند قفاس، مهر و محبت را در خود نگه داشته‌اند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از مژه دست بر قفاست نگاه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مایهٔ بینش است ضبط نفس",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنفس و کنترل نفس، منبعی برای بینش و درک عمیق است، به ویژه زمانی که در مواجهه با دشواری‌ها و چالش‌های زندگی قرار داریم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گر به شبنم تند هواست نگاه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بی‌صفا زنگ برنمی‌خیزد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که دلش صاف و صادق نیست، نمی‌تواند به راحتی از خواب بیدار شود. نگاه بی‌توجه و بسته به خود، باعث آزار و رنجش می‌شود."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مژهٔ‌ بسته را عصاست نگاه",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "حرص معنی شکار عبرت نیست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حرص و طمع به معنای تلاش برای به دست آوردن چیزها نیست؛ بلکه باید به دور و بر خود نگاه کنیم و عبرت بگیریم. آیا واقعاً در دام افتاده‌ایم یا فقط در جستجوی چیزی هستیم که ارزشش را ندارد؟"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دیدهٔ دام را کجاست نگاه",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "فکر رحلت خجالتی دارد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اندیشه‌ی جدایی و رفتن، در لحظه‌ی وداع به حضور پاهایش شرم می‌کند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "دم رفت‌ن به پیش پاست نگاه",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "غنچه شو چشم ازین و آن بربند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر خودت زین و آن بگذر و چشم را ببند، چرا که در این باغ، بهای نگاه کردن خون است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که درین باغ خونبهاست نگاه",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "بال شوق رسا تری نکشد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و شوق ما به اندازه‌ای قوی است که نمی‌تواند مانند قطرات شبنم به زمین بیفتد و محوش شود. نگاه ما از شوق و احساس، بسیار عمیق‌تر و قوی‌تر از این‌هاست."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "همچو شبنم سرشک ماست نگاه",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بزم ما بسکه محو جلوهٔ اوست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در محفل ما آن‌قدر غرق زیبایی او هستیم که اگر شیشه‌گر شیشه را بشکند، صدای شکستن آن به‌جای خود، گویی تنها صدای نگاه ماست."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "شیشه‌ گر بشکنی صداست نگاه",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "حسرت حسن نو خطی داریم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما آرزو داریم که به زیبایی نوظهور تو برسیم، مانند افرادی که در پی چشیدن طعم توت هستند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "طالب جنس توتیاست نگاه",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "مژده دستی بلند خواهد کرد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خبر خوب اینکه دستی بلند خواهد شد و چشمم را باز می‌کنم که دعا می‌کند."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "چشم وا می‌کنم دعاست نگاه",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "بیدل افسانهٔ دگر متراش",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز قصه‌ای جدید نسرای، زیرا این رنگ و بوی آشنا، حکایت از داستانی کهن و شناخته‌شده دارد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "با همین رنگ آشناست نگاه",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    }
+  ]
+}

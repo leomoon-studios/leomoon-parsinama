@@ -1,0 +1,135 @@
+{
+  "Id": 68541,
+  "CatId": 1711,
+  "Title": "شمارهٔ  ۱۸۵",
+  "FullTitle": "هلالی جغتایی » غزلیات » شمارهٔ  ۱۸۵",
+  "FullUrl": "/helali/ghazalh/sh185",
+  "RhymeLetters": "ایدگر",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به پریشانی و تغییرات زندگی اشاره دارد. شاعر از ناامیدی و مشکلات روزگار سخن می‌گوید و بیان می‌کند که خود را در حالتی دیگر و دور از محبت معشوق احساس می‌کند. او از درد جدایی و خواسته‌های ناچیز سخن می‌زند و آرزو می‌کند که کاش هر ذره از وجودش به خاکی در سرزمین دیگری تبدیل شود. در نهایت، شاعر با یادآوری زیبایی معشوق، حسرت می‌زند که عشقش به شخص دیگری معطوف شده و حال او را به شدت متاثر کرده است.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایدگر",
+      "PlainText": "وه که بازم فلک انداخت به غوغای دگر\r\nمن به جای دگر افتادم و دل جای دگر\r\nیک دو روز دگر از لطف به بالین من آی\r\nکه من امروز دگر دارم و فردای دگر\r\nغالبا تلخی جان کندن من خواست طبیب\r\nکه به جز صبر نفرمود مداوای دگر\r\nپا نهم پیش که نزدیک تو آیم لیکن\r\nاز تحیر نتوانم که نهم پای دگر\r\nبا من آن کرد بیک بار تماشای رخت\r\nکه مرا یاد نیاید ز تماشای دگر\r\nاگر اینست پریشانی ذرات وجود\r\nکاش هر ذره شود خاک بصحرای دگر\r\nپیش ازین داشت هلالی سر سودای کسی\r\nدید چون زلف تو افتاد به سودای دگر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوه! که بازم فلک انداخت به غوغای دگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن به جای دگر افتادم و دل جای دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک دو روز دگر، از لطف به بالین من آی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه من امروز دگر دارم و فردای دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغالبا تلخی جان کندن من خواست طبیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه به جز صبر نفرمود مداوای دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپا نهم پیش، که نزدیک تو آیم، لیکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تحیر نتوانم که نهم پای دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا من آن کرد، بیک بار، تماشای رخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مرا یاد نیاید ز تماشای دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر اینست پریشانی ذرات وجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاش! هر ذره شود خاک بصحرای دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش ازین داشت هلالی سر سودای کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدید چون زلف تو، افتاد به سودای دگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "وه! که بازم فلک انداخت به غوغای دگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آه! دوباره آسمان مرا درگیر هیاهوی جدیدی کرده است، من در مکانی متفاوت قرار دارم و قلبم در جایی دیگر است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "من به جای دگر افتادم و دل جای دگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یک دو روز دگر، از لطف به بالین من آی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فقط یکی، دو روز دیگر به من محبت کن و کنارم باش، چون امروز حال و روز خاصی دارم و فردا هم به شکلی دیگر خواهد بود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که من امروز دگر دارم و فردای دگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غالبا تلخی جان کندن من خواست طبیب",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: معمولاً پزشک به من گفت که برای تسکین درد مرگ، جز صبر راه دیگری وجود ندارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که به جز صبر نفرمود مداوای دگر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پا نهم پیش، که نزدیک تو آیم، لیکن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من قدمی پیش می‌گذارم تا به تو نزدیک‌تر شوم، اما از حیرت نمی‌توانم پای دیگری بگذارم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از تحیر نتوانم که نهم پای دگر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "با من آن کرد، بیک بار، تماشای رخت",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او یک بار به قدری زیبا به من نگریست که دیگر هیچ نگاه و تماشا را فراموش کرده‌ام و فقط آن لحظه را به یاد دارم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که مرا یاد نیاید ز تماشای دگر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "اگر اینست پریشانی ذرات وجود",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر این وضعیت آشفته وجود است، ای کاش هر ذره از وجود من به بیابان دیگری تبدیل شود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "کاش! هر ذره شود خاک بصحرای دگر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "پیش ازین داشت هلالی سر سودای کسی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قبل از این، هلالی به خاطر عشق یک نفر که مثل موهای تو زیبا بود، دیوانه شده بود، اما حالا دوباره به عشق دیگری افتاده است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "دید چون زلف تو، افتاد به سودای دگر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

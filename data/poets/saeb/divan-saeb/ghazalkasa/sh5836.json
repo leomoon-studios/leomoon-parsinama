@@ -1,0 +1,150 @@
+{
+  "Id": 58034,
+  "CatId": 1852,
+  "Title": "غزل شمارهٔ ۵۸۳۶",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۵۸۳۶",
+  "FullUrl": "/saeb/divan-saeb/ghazalkasa/sh5836",
+  "RhymeLetters": "لنشستهایم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف حال و احساسات شاعری می‌پردازد که در میان زیبایی‌ها و ظرافت‌های طبیعت نشسته است، اما در درونش، احساس ناامیدی و غم وجود دارد. او به گل‌هایی که در خارزار قرار دارند اشاره می‌کند و از زندگی در دشواری‌ها و رنج‌ها صحبت می‌کند. شاعر با تصویرسازی زیبا از نوبهار و بلبل، به تضاد بین زیبایی ظاهری و درد درونی اشاره دارد. او از شرم و زخم‌هایی که در اثر ناامیدی و ناکامی‌های زندگی خورده صحبت می‌کند و در نهایت به احساس آشفتگی ناشی از عشق و غم و اندوه اشاره دارد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "لنشستهایم",
+      "PlainText": "خندان به زیر تیغ تغافل نشسته ایم\r\nدر خارزار بر ورق گل نشسته ایم\r\nاز انفعالخار بیابان وحشتیم\r\nچون خار اگر چه در قدم گل نشسته ایم\r\nزیر سپهر پای به دامن کشیده ایم\r\nدر فصل نوبهار ته پل نشسته ایم\r\nچون نوبهار جلوه ما یک دو هفته است\r\nبر دامن گل و پر بلبل نشسته ایم\r\nچون شبنم گداخته بر روی دست گل\r\nآماده هزار تزلزل نشسته ایم\r\nاز شرم ناکسی جگر خویش می خوریم\r\nبر شاخ گل اگر چه چو بلبل نشسته ایم\r\nاز چشم نرم خلق ز بس زخم خورده ایم\r\nبر روی برگ گل به تأمل نشسته ایم\r\nصایب ز فکر زلف پریشان آن نگار\r\nآشفته تر ز طره سنبل نشسته ایم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخندان به زیر تیغ تغافل نشسته ایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خارزار بر ورق گل نشسته ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز انفعال،خار بیابان وحشتیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون خار اگر چه در قدم گل نشسته ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزیر سپهر پای به دامن کشیده ایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر فصل نوبهار ته پل نشسته ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نوبهار جلوه ما یک دو هفته است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دامن گل و پر بلبل نشسته ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون شبنم گداخته بر روی دست گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآماده هزار تزلزل نشسته ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز شرم ناکسی جگر خویش می خوریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر شاخ گل اگر چه چو بلبل نشسته ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چشم نرم خلق ز بس زخم خورده ایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر روی برگ گل به تأمل نشسته ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصائب ز فکر زلف پریشان آن نگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآشفته تر ز طره سنبل نشسته ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "خندان به زیر تیغ تغافل نشسته ایم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما با لبخند در زیر تیغ بی‌تفاوتی نشسته‌ایم و در میان خارزار، بر روی گل‌های زیبا استراحت می‌کنیم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در خارزار بر ورق گل نشسته ایم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از انفعال،خار بیابان وحشتیم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از بی‌تحرکی و حالت انفعالی خود مثل خاری در بیابان می‌ترسیم، هرچند که در کنار گل‌ها و زیبایی‌ها قرار داریم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چون خار اگر چه در قدم گل نشسته ایم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زیر سپهر پای به دامن کشیده ایم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زیر آسمان، پاهایمان را به زمین چسبانده‌ایم و در فصل بهار، در جایی پایین پل نشسته‌ایم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در فصل نوبهار ته پل نشسته ایم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چون نوبهار جلوه ما یک دو هفته است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درختان شکوفه زده و گل‌ها در بهار زیبایی خود را به نمایش گذاشته‌اند و ما نیز در کنار بلبل‌ها و گل‌ها، از این لحظات دل‌انگیز لذت می‌بریم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بر دامن گل و پر بلبل نشسته ایم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چون شبنم گداخته بر روی دست گل",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما مانند شبنم ذوب شده‌ایم که بر روی گل نشسته و در برابر هزاران لرزش و تغییرات آماده‌ایم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "آماده هزار تزلزل نشسته ایم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "از شرم ناکسی جگر خویش می خوریم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از احساس ناتوانی و شرم، دل خود را می‌خوردیم؛ هرچند بر شاخه گل نشسته‌ایم و مانند بلبل باید شاد و سرخوش باشیم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بر شاخ گل اگر چه چو بلبل نشسته ایم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "از چشم نرم خلق ز بس زخم خورده ایم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به خاطر زخم‌هایی که از نگاه‌های نرم و محبت‌آمیز مردم خورده‌ایم، به آرامی و با دقت بر روی گل‌برگی نشسته‌ایم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بر روی برگ گل به تأمل نشسته ایم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "صائب ز فکر زلف پریشان آن نگار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر فکر زلف آشفته آن معشوق، خودم هم بیشتر از طره سنبل در هم و برهم هستم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "آشفته تر ز طره سنبل نشسته ایم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,755 @@
+{
+  "Id": 121376,
+  "CatId": 2793,
+  "Title": "بخش ۱ - کفن سیاه",
+  "FullTitle": "میرزاده عشقی » نمایشنامه » کفن سیاه » بخش ۱ - کفن سیاه",
+  "FullUrl": "/eshghi/namayesh/ksiyah/sh1",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن شعری است که به توصیف و احساسات یک زن باستانی به نام خسرو دخت در هنگام ورود به شهر ویران مداین می‌پردازد. در حال غروب، قافله‌ای از مسافران به این ده تاریخی می‌رسند و زن به تماشا و بررسی محیط می‌پردازد. او از خرابی‌ها و ویرانه‌های گذشته یاد می‌کند و به یاد ایام خوش شاهان و عظمت گذشته می‌افتد. گفتگو با پیرمردی در آن ده نیز او را به یاد وقایع خونین جنگ‌ها و تاریخ تلخ می‌اندازد. در نهایت، حس ناامیدی و دل تنگی او از ویرانی‌ها و یادآوری خاطرات گذشته مشهود است.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "در تکاپوی غروب است ز گردون خورشید\r\nدهر مبهوت شد و رنگ رخ دشت پرید\r\nدل خونین سپهر از افق غرب دمید\r\nچرخ از رحلت خورشید سیه می پوشید\r\nکه سر قافله با زمزمه زنگ رسید\r\nدر حوالی مداین به دهی\r\nده تاریخی افسانه گهی\r\nده به دامان یکی تپه پناه آورده\r\nگرد تاریک وشی بر تن خود گسترده\r\nچون سیه پوش یکی مادر دختر مرده\r\nکلبه هایش همه فرتوت و همه خم خورده\r\nالغرض هییتی از هر جهتی افسرده\r\nکاروان چونکه به ده داخل شد\r\nهر کسی در صدد منزل شد\r\nطرْف ده مختصر آبی و در آن مرغابی\r\nمنعکس گشته در آن سقف سپهر آبی\r\nوندر آن حاشیه سرخ شفق عنابی\r\nسطح آب از اثر عکس کواکب یابی\r\nدانه دانه همه جا آینه مهتابی\r\nدر دل آب چراغانی بود\r\nآب یک پرده الوانی بود\r\nآنسوی آب پر از نور فضایی دیدم\r\nدورش از نخل صف سبز لوایی دیدم\r\nپس باغات شفق سرخ هوایی دیدم\r\nشفق و سبزه عجب دور نمایی دیدم\r\nیعنی آتشکده در سبز سرایی دیدم\r\nدر همان حال که می گردیدم\r\nطرف آن آب بنایی دیدم\r\nهر کس از قافله در منزلی و من غافل\r\nبیش از اندیشه منزل به تماشا مایل\r\nاز پس سیر و تماشای بسی الحاصل\r\nعاقبت بر لب استخر نمودم منزل\r\nخانه بیوه زنی تنگ تر از خانه دل\r\nباری آن خانه بدو یک باره\r\nداد آنهم به منش یک باره\r\nخانه جز بیوه زن و کهنه جلی هیچ نداشت\r\nبیوه زن رفت و فقط کهنه جلی باز گذاشت\r\nپیرمردی ز کسانش به حضورم بگماشت\r\nخانه بی شمع و سیه پرده تاریکی چاشت\r\nبه نظر گاهی من منظر گوران افراشت\r\nخانه آباد که اندک مهتاب\r\nسر زد از خانه آن خانه خراب\r\nجویی از نور مه از پنجره یی در جریان\r\nرویش اسپید که روی سیه شب ز میان\r\nبرد و از پنجره شد قلعه یی از دور عیان\r\nباشکوه آنقدر آن قلعه که ناید به بیان\r\nلیک ویرانه چو سر تا سر آثار کیان\r\nپیر بنشسته بر پنجره من\r\nگفتمش ماتم ازین منظره من\r\nمن آن خراب ابنیه کز پنجره پیداست کجاست\r\nخیره بر پنجره شد پیر و به زانو برخاست\r\nگفت آن قلعه که مخروبه آبادی ماست\r\nدیرگاهیست که ویران شده و باز بپاست\r\nارگ شاهنشهی و بنگه شاهان شماست\r\nاین مهاباد بلند ایوان است\r\nکه سرش همسر با کیوان است\r\nنه گماندار مهاباد همین این بوده\r\nنه مهاباد صد اینگونه به تخمین بوده\r\nفصل دی خرم و گردشگه پیشین بوده\r\nقصر قشلاقی شاهان مه آیین بوده\r\nحجله و کامگه خسرو و شیرین بوده\r\nلیکن امروز مهابادی نیست\r\nدیگر این کوره ده آبادی نیست\r\nحرف آخرش همین بود و ز در بیرون شد\r\nلیک از این حرف چه گویم که دل من چون شد\r\nیاد شد وقعه خونینی وز آن دل خون شد\r\nگویی آن جنگ عرب در دل من اکنون شد\r\nو آن وقوعات چنان با نظرم مقرون شد\r\nکه شد آن قلعه دگر وضع دگر\r\nمنظر دیگرم آمد به نظر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر تکاپوی غروب است ز گردون خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدهر مبهوت شد و رنگ رخ دشت پرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل خونین سپهر از افق غرب دمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرخ از رحلت خورشید سیه می‌پوشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eکه سر قافله با زمزمه زنگ رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حوالی مداین به دهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eده تاریخی افسانه‌گهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eده به دامان یکی تپه پناه آورده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد تاریک‌وَشی بر تن خود گسترده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سیه‌پوش یکی مادر دختر مرده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلبه‌هایش همه فرتوت و همه خم‌خورده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالغرض هیئتی، از هر جهتی افسرده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاروان چونکه به ده داخل شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn8\u0022\u003E\u003Cp\u003Eهر کسی در صدد منزل شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطَرْف ده مختصر آبی و در آن مرغابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنعکس گشته در آن، سقف سپهر آبی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوندر آن حاشیه سرخ شفق، عنابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسطح آب، از اثر عکس کواکب یابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانه دانه، همه جا آینه مهتابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دل آب، چراغانی بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn12\u0022\u003E\u003Cp\u003Eآب، یک پرده الوانی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنسوی آب، پر از نور فضایی دیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدورش از نخل، صف سبز لوایی دیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس باغات، شفق سرخ هوایی دیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشفق و سبزه، عجب دور نمایی دیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیعنی آتشکده، در سبز سرایی دیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر همان حال که می گردیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn16\u0022\u003E\u003Cp\u003Eطرف آن آب، بنائی دیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس از قافله در منزلی و من غافل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیش از اندیشه منزل به تماشا مایل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پس سیر و تماشای بسی، الحاصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاقبت بر لب استخر نمودم منزل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانه بیوه زنی، تنگ‌تر از خانه دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباری آن خانه بدو یک باره\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn20\u0022\u003E\u003Cp\u003Eداد آنهم به منش یک باره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانه، جز بیوه زن و کهنه جلی هیچ نداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیوه زن رفت و فقط کهنه جلی باز گذاشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیرمردی ز کسانش به حضورم بگماشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخانه بی شمع و سیه پرده تاریکی چاشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نظر گاهی من منظر گوران افراشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخانه آباد که اندک مهتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn24\u0022\u003E\u003Cp\u003Eسر زد از خانه آن خانه خراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوئی از نور مه، از پنجره‌ئی در جریان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرویش اسپید که روی سیه شب ز میان:\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرد و از پنجره شد قلعه‌یی از دور عیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباشکوه آنقدر آن قلعه که ناید به بیان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک ویرانه چو سر تا سر آثار کیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیر بنشسته بر پنجره، من:\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn28\u0022\u003E\u003Cp\u003Eگفتمش: ماتم ازین منظره من!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E(من): آن خراب ابنیه کز پنجره پیداست کجاست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخیره بر پنجره شد پیر و به زانو برخاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت: آن قلعه که مخروبه آبادی ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیرگاهیست که ویران شده و باز بپاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eارگ شاهنشهی و بنگه شاهان شماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین «مهاباد» بلند ایوان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn32\u0022\u003E\u003Cp\u003Eکه سرش همسر با کیوان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه گماندار: مهاباد، همین این بوده؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه مهاباد صد اینگونه به تخمین بوده!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفصل دی خرم و گردشگه پیشین بوده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقصر قشلاقی شاهان مه آئین بوده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحجله و کامگه خسرو و شیرین بوده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیکن امروز مهابادی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn36\u0022\u003E\u003Cp\u003Eدیگر این کوره ده، آبادی نیست!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحرف آخرش همین بود و ز در بیرون شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک از این حرف چه گویم که دل من چون شد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاد شد وقعه خونینی، وز آن دل خون شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوئی آن جنگ عرب در دل من اکنون شد!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn39\u0022\u003E\u003Cp\u003Eو آن وقوعات، چنان با نظرم مقرون شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه شد آن قلعه دگر وضع دگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنظر دیگرم آمد به نظر:\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 40
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "در تکاپوی غروب است ز گردون خورشید\r\nدهر مبهوت شد و رنگ رخ دشت پرید\r\nدل خونین سپهر از افق غرب دمید\r\nچرخ از رحلت خورشید سیه می پوشید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر تکاپوی غروب است ز گردون خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدهر مبهوت شد و رنگ رخ دشت پرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل خونین سپهر از افق غرب دمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرخ از رحلت خورشید سیه می‌پوشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "در حوالی مداین به دهی\r\nده تاریخی افسانه گهی\r\nده به دامان یکی تپه پناه آورده\r\nگرد تاریک وشی بر تن خود گسترده\r\nچون سیه پوش یکی مادر دختر مرده\r\nکلبه هایش همه فرتوت و همه خم خورده\r\nالغرض هییتی از هر جهتی افسرده\r\nکاروان چونکه به ده داخل شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حوالی مداین به دهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eده تاریخی افسانه‌گهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eده به دامان یکی تپه پناه آورده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد تاریک‌وَشی بر تن خود گسترده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سیه‌پوش یکی مادر دختر مرده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلبه‌هایش همه فرتوت و همه خم‌خورده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالغرض هیئتی، از هر جهتی افسرده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاروان چونکه به ده داخل شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "طرْف ده مختصر آبی و در آن مرغابی\r\nمنعکس گشته در آن سقف سپهر آبی\r\nوندر آن حاشیه سرخ شفق عنابی\r\nسطح آب از اثر عکس کواکب یابی\r\nدانه دانه همه جا آینه مهتابی\r\nدر دل آب چراغانی بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطَرْف ده مختصر آبی و در آن مرغابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنعکس گشته در آن، سقف سپهر آبی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوندر آن حاشیه سرخ شفق، عنابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسطح آب، از اثر عکس کواکب یابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانه دانه، همه جا آینه مهتابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دل آب، چراغانی بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "دیدم",
+      "PlainText": "آنسوی آب پر از نور فضایی دیدم\r\nدورش از نخل صف سبز لوایی دیدم\r\nپس باغات شفق سرخ هوایی دیدم\r\nشفق و سبزه عجب دور نمایی دیدم\r\nیعنی آتشکده در سبز سرایی دیدم\r\nدر همان حال که می گردیدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنسوی آب، پر از نور فضایی دیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدورش از نخل، صف سبز لوایی دیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس باغات، شفق سرخ هوایی دیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشفق و سبزه، عجب دور نمایی دیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیعنی آتشکده، در سبز سرایی دیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر همان حال که می گردیدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "هر کس از قافله در منزلی و من غافل\r\nبیش از اندیشه منزل به تماشا مایل\r\nاز پس سیر و تماشای بسی الحاصل\r\nعاقبت بر لب استخر نمودم منزل\r\nخانه بیوه زنی تنگ تر از خانه دل\r\nباری آن خانه بدو یک باره",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر کس از قافله در منزلی و من غافل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیش از اندیشه منزل به تماشا مایل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پس سیر و تماشای بسی، الحاصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاقبت بر لب استخر نمودم منزل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانه بیوه زنی، تنگ‌تر از خانه دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباری آن خانه بدو یک باره\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "خانه جز بیوه زن و کهنه جلی هیچ نداشت\r\nبیوه زن رفت و فقط کهنه جلی باز گذاشت\r\nپیرمردی ز کسانش به حضورم بگماشت\r\nخانه بی شمع و سیه پرده تاریکی چاشت\r\nبه نظر گاهی من منظر گوران افراشت\r\nخانه آباد که اندک مهتاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانه، جز بیوه زن و کهنه جلی هیچ نداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیوه زن رفت و فقط کهنه جلی باز گذاشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیرمردی ز کسانش به حضورم بگماشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخانه بی شمع و سیه پرده تاریکی چاشت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نظر گاهی من منظر گوران افراشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخانه آباد که اندک مهتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "جویی از نور مه از پنجره یی در جریان\r\nرویش اسپید که روی سیه شب ز میان\r\nبرد و از پنجره شد قلعه یی از دور عیان\r\nباشکوه آنقدر آن قلعه که ناید به بیان\r\nلیک ویرانه چو سر تا سر آثار کیان\r\nپیر بنشسته بر پنجره من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوئی از نور مه، از پنجره‌ئی در جریان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرویش اسپید که روی سیه شب ز میان:\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرد و از پنجره شد قلعه‌یی از دور عیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباشکوه آنقدر آن قلعه که ناید به بیان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک ویرانه چو سر تا سر آثار کیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیر بنشسته بر پنجره، من:\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "است",
+      "PlainText": "من آن خراب ابنیه کز پنجره پیداست کجاست\r\nخیره بر پنجره شد پیر و به زانو برخاست\r\nگفت آن قلعه که مخروبه آبادی ماست\r\nدیرگاهیست که ویران شده و باز بپاست\r\nارگ شاهنشهی و بنگه شاهان شماست\r\nاین مهاباد بلند ایوان است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E(من): آن خراب ابنیه کز پنجره پیداست کجاست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخیره بر پنجره شد پیر و به زانو برخاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت: آن قلعه که مخروبه آبادی ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیرگاهیست که ویران شده و باز بپاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eارگ شاهنشهی و بنگه شاهان شماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین «مهاباد» بلند ایوان است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "نه گماندار مهاباد همین این بوده\r\nنه مهاباد صد اینگونه به تخمین بوده\r\nفصل دی خرم و گردشگه پیشین بوده\r\nقصر قشلاقی شاهان مه آیین بوده\r\nحجله و کامگه خسرو و شیرین بوده\r\nلیکن امروز مهابادی نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه گماندار: مهاباد، همین این بوده؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه مهاباد صد اینگونه به تخمین بوده!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفصل دی خرم و گردشگه پیشین بوده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقصر قشلاقی شاهان مه آئین بوده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحجله و کامگه خسرو و شیرین بوده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیکن امروز مهابادی نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ونشد",
+      "PlainText": "حرف آخرش همین بود و ز در بیرون شد\r\nلیک از این حرف چه گویم که دل من چون شد\r\nیاد شد وقعه خونینی وز آن دل خون شد\r\nگویی آن جنگ عرب در دل من اکنون شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحرف آخرش همین بود و ز در بیرون شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک از این حرف چه گویم که دل من چون شد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیاد شد وقعه خونینی، وز آن دل خون شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوئی آن جنگ عرب در دل من اکنون شد!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 11,
+      "Number": 12,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "که شد آن قلعه دگر وضع دگر\r\nمنظر دیگرم آمد به نظر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه شد آن قلعه دگر وضع دگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنظر دیگرم آمد به نظر:\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 13,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "که سر قافله با زمزمه زنگ رسید\r\nهر کسی در صدد منزل شد\r\nآب یک پرده الوانی بود\r\nطرف آن آب بنایی دیدم\r\nداد آنهم به منش یک باره\r\nسر زد از خانه آن خانه خراب\r\nگفتمش ماتم ازین منظره من\r\nکه سرش همسر با کیوان است\r\nدیگر این کوره ده آبادی نیست\r\nو آن وقوعات چنان با نظرم مقرون شد",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکه سر قافله با زمزمه زنگ رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eهر کسی در صدد منزل شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eآب، یک پرده الوانی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eطرف آن آب، بنائی دیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eداد آنهم به منش یک باره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eسر زد از خانه آن خانه خراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn7\u0022\u003E\u003Cp\u003Eگفتمش: ماتم ازین منظره من!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn8\u0022\u003E\u003Cp\u003Eکه سرش همسر با کیوان است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn9\u0022\u003E\u003Cp\u003Eدیگر این کوره ده، آبادی نیست!\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn10\u0022\u003E\u003Cp\u003Eو آن وقوعات، چنان با نظرم مقرون شد\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "این هم چند قطره اشک دیگر که از دیدن ویرانه‌های مداین از دیده طبع عشقی بدین اوراق چکیده. موضوع این منظومه نو و شیوا: سرگذشت یک زن باستانی به نام «خسرو دخت» و سرنوشت «زنان ایرانی» در نظر او، هنگام ورود به «مه آباد» است.",
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: این متن به توصیف احساسات عاطفی یک فرد در مواجهه با خرابی‌های مداین می‌پردازد و نشان می‌دهد چگونه عشق او به این مکان باعث بروز اشک‌ها و احساسات در قلبش شده است. داستان این منظومه به سرنوشت زنی باستانی به نام «خسرو دخت» و نگرش او به وضعیت زنان ایرانی زمان ورود به «مه آباد» پرداخته است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "در تکاپوی غروب است ز گردون خورشید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: در حال نزدیک شدن به غروب، آسمان تحت تأثیر خورشید قرار گرفته و به نظر می‌رسد که زمان را متوقف کرده است. رنگ و زیبایی دشت نیز به تدریج از بین می‌رود."
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "دهر مبهوت شد و رنگ رخ دشت پرید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Right",
+      "Text": "دل خونین سپهر از افق غرب دمید",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: دل آسمان از سمت غرب به شدت غمگین و حزین شد، چون خورشید غروب کرد و چرخ روزگار با پوششی تیره و سیاه بر آن سایه افکند."
+    },
+    {
+      "VOrder": 5,
+      "Position": "Left",
+      "Text": "چرخ از رحلت خورشید سیه می‌پوشید",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 6,
+      "Position": "CenteredVerse1",
+      "Text": "که سر قافله با زمزمه زنگ رسید",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: سرپرست گروه با صدای آرام و آهنگین خود به ما نزدیک شد."
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در حوالی مداین به دهی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در نزدیکی شهرهای بزرگ، در دهکده‌ای قدیمی و افسانه‌ای قرار دارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ده تاریخی افسانه‌گهی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ده به دامان یکی تپه پناه آورده",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در جایی خلوت و مطمئن، فردی به تپه‌ای پناه برده و به دور خود پوششی تیره و تار بر تن کرده است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گرد تاریک‌وَشی بر تن خود گسترده",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چون سیه‌پوش یکی مادر دختر مرده",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زنی که لباس سیاه به تن دارد، به خاطر مرگ دخترش در کلبه‌هایی زندگی می‌کند که همه آنها قدیمی و خراب هستند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "کلبه‌هایش همه فرتوت و همه خم‌خورده",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "الغرض هیئتی، از هر جهتی افسرده",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: به طور کلی، کاروان وقتی به village وارد شد، از هر طرف افسرده و ناراحت به نظر می‌رسید."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "کاروان چونکه به ده داخل شد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 15,
+      "Position": "CenteredVerse1",
+      "Text": "هر کسی در صدد منزل شد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به دنبال جایی برای زندگی و آرامش می‌گردد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Right",
+      "Text": "طَرْف ده مختصر آبی و در آن مرغابی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در گوشه‌ای از آسمان آبی، تصویر یک مرغابی بر روی آب منعکس شده است. آسمان نیز به رنگ آبی است که سقفی بر بالای این مناظر زیبا به شمار می‌رود."
+    },
+    {
+      "VOrder": 17,
+      "Position": "Left",
+      "Text": "منعکس گشته در آن، سقف سپهر آبی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 18,
+      "Position": "Right",
+      "Text": "وندر آن حاشیه سرخ شفق، عنابی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در حاشیه سرخ انتهای روز، رنگ عنابی و قرمز روی سطح آب دیده می‌شود، که ناشی از انعکاس ستاره‌هاست."
+    },
+    {
+      "VOrder": 19,
+      "Position": "Left",
+      "Text": "سطح آب، از اثر عکس کواکب یابی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 20,
+      "Position": "Right",
+      "Text": "دانه دانه، همه جا آینه مهتابی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در جاهای مختلف، به طور پراکنده، با تابش مهتاب، آبی در دل آب مانند چراغی روشن بود."
+    },
+    {
+      "VOrder": 21,
+      "Position": "Left",
+      "Text": "در دل آب، چراغانی بود",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 22,
+      "Position": "CenteredVerse1",
+      "Text": "آب، یک پرده الوانی بود",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: آب، مانند یک پرده رنگارنگ بود."
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "آنسوی آب، پر از نور فضایی دیدم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: دورتر از آب، جایی را دیدم که پر از نور بود و اطراف آن نخل‌ها قرار داشتند. همچنین، صفی از پرچم‌های سبز را مشاهده کردم که در آنجا به چشم می‌خوردند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "دورش از نخل، صف سبز لوایی دیدم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "پس باغات، شفق سرخ هوایی دیدم",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در باغ‌ها، رنگین کمانی از درختان و گل‌ها را دیدم که در هوای غروب به رنگ قرمز درآمده بود. این منظره طبیعی و سبز، واقعاً شگفت‌انگیز و زیبا بود."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "شفق و سبزه، عجب دور نمایی دیدم",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "یعنی آتشکده، در سبز سرایی دیدم",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در یک باغ سرسبز، معبدی را دیدم که در آن آتش روشن بود و من در حال گشت و گذار در آن مکان بودم."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "در همان حال که می گردیدم",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 29,
+      "Position": "CenteredVerse1",
+      "Text": "طرف آن آب، بنائی دیدم",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در کنار آن آب، ساختمانی را مشاهده کردم."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Right",
+      "Text": "هر کس از قافله در منزلی و من غافل",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: هر فردی در سفر خود در مکانی است و من بیشتر به تماشای مسیر و مناظر اطراف مشغولم تا به فکر مقصد و مقصد خود."
+    },
+    {
+      "VOrder": 31,
+      "Position": "Left",
+      "Text": "بیش از اندیشه منزل به تماشا مایل",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 32,
+      "Position": "Right",
+      "Text": "از پس سیر و تماشای بسی، الحاصل",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: بعد از گذشت زمان و تجربه‌های فراوان، در نهایت تصمیم گرفتم کنار استخر استراحت کنم و سکونت گزینم."
+    },
+    {
+      "VOrder": 33,
+      "Position": "Left",
+      "Text": "عاقبت بر لب استخر نمودم منزل",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 34,
+      "Position": "Right",
+      "Text": "خانه بیوه زنی، تنگ‌تر از خانه دل",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: خانه‌ای که متعلق به بیوه زنی است، بسیار کوچک‌تر از فضای قلبی آن زن می‌باشد. این خانه به او یکباره تحویل داده شده است."
+    },
+    {
+      "VOrder": 35,
+      "Position": "Left",
+      "Text": "باری آن خانه بدو یک باره",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 36,
+      "Position": "CenteredVerse1",
+      "Text": "داد آنهم به منش یک باره",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: او همه چیز را یک جا به من داد."
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "خانه، جز بیوه زن و کهنه جلی هیچ نداشت",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در خانه فقط یک زن بیوه و یک لباس کهنه باقی مانده بود. وقتی زن بیوه رفت، تنها آن لباس کهنه باقی ماند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "بیوه زن رفت و فقط کهنه جلی باز گذاشت",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "پیرمردی ز کسانش به حضورم بگماشت",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: پیرمردی از خانواده‌اش به دیدنم آمد و خانه‌اش را بدون روشنایی شمع و با پرده‌های تیره به تصویر کشید."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "خانه بی شمع و سیه پرده تاریکی چاشت",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "به نظر گاهی من منظر گوران افراشت",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد گاهی خانه‌ای آباد و خوش‌منظره در کنار گورستانی وجود دارد که تنها اندکی نور مهتاب بر آن می‌تابد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "خانه آباد که اندک مهتاب",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 43,
+      "Position": "CenteredVerse1",
+      "Text": "سر زد از خانه آن خانه خراب",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: یک نور یا امیدی از آن مکان ویران تابید."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Right",
+      "Text": "جوئی از نور مه، از پنجره‌ئی در جریان",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: به دنبال نوری از ماه هستی که از دریچه‌ای به داخل می‌تابد و به آرامی بر دشت سیاه شب جاری می‌شود."
+    },
+    {
+      "VOrder": 45,
+      "Position": "Left",
+      "Text": "رویش اسپید که روی سیه شب ز میان:",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 46,
+      "Position": "Right",
+      "Text": "برد و از پنجره شد قلعه‌یی از دور عیان",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تجسم کنید که در کنار پنجره ایستاده‌اید و یک قلعه‌ی زیبا و دوردست را مشاهده می‌کنید. این قلعه به قدری با شکوه و بزرگ است که هیچ کلماتی نمی‌توانند عظمت و زیبایی آن را توصیف کنند."
+    },
+    {
+      "VOrder": 47,
+      "Position": "Left",
+      "Text": "باشکوه آنقدر آن قلعه که ناید به بیان",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 48,
+      "Position": "Right",
+      "Text": "لیک ویرانه چو سر تا سر آثار کیان",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ولی ویرانه‌ای که به جا مانده از سابقه‌ی قدرت و عظمت کیانیان، مانند یک پیر دانا و فرزانه، بر لبه‌ی پنجره نشسته است."
+    },
+    {
+      "VOrder": 49,
+      "Position": "Left",
+      "Text": "پیر بنشسته بر پنجره، من:",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 50,
+      "Position": "CenteredVerse1",
+      "Text": "گفتمش: ماتم ازین منظره من!",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: به او گفتم: از این صحنه خیلی ناراحت و غمگینم!"
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "(من): آن خراب ابنیه کز پنجره پیداست کجاست؟",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: مردی سالخورده به منظره‌ای که از پنجره دیده می‌شود خیره شده و از خود می‌پرسد که آن ساختمان خراب کجاست؟ او به خاطر این تصویر در ذهنش، از جایش بلند می‌شود و به زانو می‌افتد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "خیره بر پنجره شد پیر و به زانو برخاست",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "گفت: آن قلعه که مخروبه آبادی ماست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: او گفت: آن دژ که روزگاری محل زندگی ما بود مدت طولانی است که خراب شده و هنوز هم برپا نیست."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "دیرگاهیست که ویران شده و باز بپاست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "ارگ شاهنشهی و بنگه شاهان شماست",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: مهاباد، مکانی است که می‌توان آن را مانند ارگ یا قلعه‌ای برای شاهان تصور کرد و به نوعی به عنوان مرکز قدرت و شکوه در نظر گرفته می‌شود. این شهر به بلندی و عظمتی که دارد، نمایانگر جایگاهی ویژه است."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "این «مهاباد» بلند ایوان است",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 57,
+      "Position": "CenteredVerse1",
+      "Text": "که سرش همسر با کیوان است",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: سر او همراه با کیوان است، به معنی این است که او در جایگاه رفیع و برجسته‌ای قرار دارد و همسرش نیز در مقام و شأنی بالا است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Right",
+      "Text": "نه گماندار: مهاباد، همین این بوده؟",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: مهاباد آیا فقط همین یک شکل بوده؟ نه، مهاباد به مراتب بیشتر از این تخمین‌زده شده است!"
+    },
+    {
+      "VOrder": 59,
+      "Position": "Left",
+      "Text": "نه مهاباد صد اینگونه به تخمین بوده!",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 60,
+      "Position": "Right",
+      "Text": "فصل دی خرم و گردشگه پیشین بوده",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: فصل دی، فصل خوشبختی و آرامش بوده و در آن زمان مکان‌های زیبا و دلپذیری برای استراحت شاهان وجود داشته است. این فصل به سبک زندگی و آداب و رسوم آن‌ها اشاره دارد."
+    },
+    {
+      "VOrder": 61,
+      "Position": "Left",
+      "Text": "قصر قشلاقی شاهان مه آئین بوده",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 62,
+      "Position": "Right",
+      "Text": "حجله و کامگه خسرو و شیرین بوده",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: عشق و لذت زندگی خسرو و شیرین بود، اما امروز حال و هوای عشقی در میان نیست."
+    },
+    {
+      "VOrder": 63,
+      "Position": "Left",
+      "Text": "لیکن امروز مهابادی نیست",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 64,
+      "Position": "CenteredVerse1",
+      "Text": "دیگر این کوره ده، آبادی نیست!",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: دیگر این روستا، دیگر رونق و آبادانی ندارد!"
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "حرف آخرش همین بود و ز در بیرون شد",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: حرف نهایی او همین بود که از در بیرون رفت، اما از این حرف چه بگویم که دل من چه حالتی پیدا کرده است؟"
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "لیک از این حرف چه گویم که دل من چون شد؟",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "یاد شد وقعه خونینی، وز آن دل خون شد",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: یاد یک حادثه خونین به خاطر می‌آید و گویی که آن جنگ عربی در درون من دوباره رخ داده و دل من پر از غم و خون شده است."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "گوئی آن جنگ عرب در دل من اکنون شد!",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 69,
+      "Position": "CenteredVerse1",
+      "Text": "و آن وقوعات، چنان با نظرم مقرون شد",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: و آن حوادث به گونه‌ای با چشمم همراه شد که انگار همیشه در کنار هم بوده‌اند."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Right",
+      "Text": "که شد آن قلعه دگر وضع دگر",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: آن قلعه اکنون تغییر کرده، وضعیت و منظره‌اش کاملاً متفاوت شده و به نظرم آمده است."
+    },
+    {
+      "VOrder": 71,
+      "Position": "Left",
+      "Text": "منظر دیگرم آمد به نظر:",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    }
+  ]
+}

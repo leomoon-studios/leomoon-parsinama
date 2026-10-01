@@ -1,0 +1,240 @@
+{
+  "Id": 95157,
+  "CatId": 2445,
+  "Title": "شمارهٔ ۲۹",
+  "FullTitle": "صفای اصفهانی » دیوان اشعار » غزلیات » شمارهٔ ۲۹",
+  "FullUrl": "/safa/divan/ghazal/sh29",
+  "RhymeLetters": "وست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره عمیق‌ترین احساسات عشق و yearning به دلداده است. شاعر در آن به تضاد بین دریا و جوی آب اشاره می‌کند و نشان می‌دهد که عشق واقعی چیست. او بیان می‌کند که عشق او به یار، آتش‌سوزنده‌ای است که همه چیز را در وجودش می‌سوزاند. \n\nشاعر در تنهایی و انزوا زندگی می‌کند و به دنبال حقیقت عشق است. او نکاتی از فراق و دیوانگی ناشی از عشق را بیان می‌کند. تمام توجه او به دوستش است و او از دیگران که در جست‌وجوی عشق هستند، جداست. \n\nنهایتاً، شاعر به این نتیجه می‌رسد که عشق واقعی از هر قاعده‌ و محدودیتی فراتر است و عشقش به یار، مانند کعبه‌ای است که در دلش وجود دارد و از آن نمی‌توان رهایی یافت.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "اگر ندیدی دریا که جای اندر جوست\r\nبمن نگر که دلم جوی آب رحمت اوست\r\nکدام جوی دل بینهایتم دریاست\r\nکدام دریا دریای بی بدایت دوست\r\nکدام دوست همان کز هوای جام فناش\r\nحکایت من و هستی حدیث سنگ و سبوست\r\nنشسته در پس زانوی انزوا و بسیر\r\nسرم ز دست هجوم خیال و بر زانوست\r\nبجد و جهد بر عشق دوست دست نداد\r\nمکار تخم ضلالت که عشق او خود روست\r\nز غیر دل مطلب آفتاب طلعت یار\r\nکه شرق اوست سویدا و غرب او رگ و پوست\r\nنشان نداد کس از رهروان وادی فقر\r\nکه گم شدند درین کوچه بسکه تو در توست\r\nمیان دوست که در چشمهاست رسته ندید\r\nدو چشم غیر و نبیند چو چشم منبت موست\r\nز کوی یار نبندیم بار کوی دگر\r\nکه آبروی حقیقت ز خاک این سر کوست\r\nمرا بسوزن عیسی و رشته مریم\r\nچه حاجتست که بر چاک دل غم تو رفوست\r\nحرارت سخن عشق سوخت سینه و دل\r\nبدست آتش پاینده تر ز سنگ و ز روست\r\nمرا ببادیه کعبه مجاز مبر\r\nکه در حقیقت محرابم آن خم ابروست\r\nمیان آتش و آبم ز دست دیده و دل\r\nنه ماهیم نه سمندر مرا چه طبع و چه خوست\r\nنه شرقیست نه غربی بهیچ سوی متاز\r\nکه آفتاب سمای صفای ما بی سوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر ندیدی دریا که جای اندر جوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبمن نگر که دلم جوی آب رحمت اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکدام جوی دل بینهایتم دریاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکدام دریا دریای بی بدایت دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکدام دوست همان کز هوای جام فناش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحکایت من و هستی حدیث سنگ و سبوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشسته در پس زانوی انزوا و بسیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرم ز دست هجوم خیال و بر زانوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبجد و جهد بر عشق دوست دست نداد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمکار تخم ضلالت که عشق او خود روست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز غیر دل مطلب آفتاب طلعت یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شرق اوست سویدا و غرب او رگ و پوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشان نداد کس از رهروان وادی فقر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه گم شدند درین کوچه بسکه تو در توست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیان دوست که در چشمهاست رسته ندید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو چشم غیر و نبیند چو چشم منبت موست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز کوی یار نبندیم بار کوی دگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آبروی حقیقت ز خاک این سر کوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا بسوزن عیسی و رشته مریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه حاجتست که بر چاک دل غم تو رفوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحرارت سخن عشق سوخت سینه و دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدست آتش پاینده تر ز سنگ و ز روست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا ببادیه کعبه مجاز مبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در حقیقت محرابم آن خم ابروست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیان آتش و آبم ز دست دیده و دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه ماهیم نه سمندر مرا چه طبع و چه خوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه شرقیست نه غربی بهیچ سوی متاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آفتاب سمای صفای ما بی سوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 14
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر ندیدی دریا که جای اندر جوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دریا را ندیدید که در عمق خود چه چیزی دارد، به من نگاه کنید؛ زیرا دلم به مانند جوی آبی است که برای دریافت رحمت او تشنه است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بمن نگر که دلم جوی آب رحمت اوست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کدام جوی دل بینهایتم دریاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کدام جوی می‌تواند دل من را پر کند، در حالی که دریای محبت تو بی‌پایان است؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کدام دریا دریای بی بدایت دوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کدام دوست همان کز هوای جام فناش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کدام دوستی وجود دارد که از حال من و زندگی‌ام خبر داشته باشد، چون سرنوشت او هم به سرنوشت سنگ و سبو وابسته است؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "حکایت من و هستی حدیث سنگ و سبوست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نشسته در پس زانوی انزوا و بسیر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در خفا و تنهایی نشسته‌ام و سرم پر از هجوم افکار و خیالات است. بر زانوی خود تکیه کرده‌ام و ناتوان و بی‌رمق به نظر می‌رسد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "سرم ز دست هجوم خیال و بر زانوست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بجد و جهد بر عشق دوست دست نداد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با تلاش و کوشش در عشق دوست نتوانستند به نتیجه برسند، زیرا که عشق او خود به خود رشد می‌کند و نیازی به کمک ندارد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "مکار تخم ضلالت که عشق او خود روست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ز غیر دل مطلب آفتاب طلعت یار",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دیگران نپرس درباره روشنی چهره دوست، چون شرق او پر از زیبایی است و غرب او مانند رگ و پوست می‌باشد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که شرق اوست سویدا و غرب او رگ و پوست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "نشان نداد کس از رهروان وادی فقر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس از مسافران راه فقر نشانی نداده است، زیرا در این کوچه آن‌قدر پیچ‌وتاب وجود دارد که بسیاری گم شده‌اند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که گم شدند درین کوچه بسکه تو در توست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "میان دوست که در چشمهاست رسته ندید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل دوست، چشمی وجود ندارد که غیر او را ببیند و چه بسا که چشمی چون چشمان من، غیر از او را نمی‌بیند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "دو چشم غیر و نبیند چو چشم منبت موست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ز کوی یار نبندیم بار کوی دگر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما از دل یار جدا نمی‌شویم و به سوی دیگر نمی‌رویم، چرا که اعتبار و عظمت حقیقت تنها در این مکان و از خاک این زمین برمی‌خیزد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "که آبروی حقیقت ز خاک این سر کوست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "مرا بسوزن عیسی و رشته مریم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با عیسی و مریم چه نیازی به کلمات است؟ وقتی دل من در درد و غم تو پاره و زخم است، فقط نیاز به دستان پر مهر تو دارد تا آن را ترمیم کند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "چه حاجتست که بر چاک دل غم تو رفوست",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "حرارت سخن عشق سوخت سینه و دل",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن عشق به قدری داغ و پرشور است که می‌تواند دل و سینه را بسوزاند و در آتش آن، دوام و پایداری بیشتری نسبت به سنگ و خاک وجود دارد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "بدست آتش پاینده تر ز سنگ و ز روست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "مرا ببادیه کعبه مجاز مبر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرا به راه‌های ظاهری و فریبنده نبر، زیرا حقیقت و اصل موضوع در خم ابرویی که دوست دارم نهفته است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "که در حقیقت محرابم آن خم ابروست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "میان آتش و آبم ز دست دیده و دل",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در میان آتش و آب قرار دارم و نه حالتی مانند ماهی دارم و نه مانند سمندر. این وضعیت به من می‌گوید که نه روحیه‌ی خاصی دارم و نه خواسته‌ای مشخص."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "نه ماهیم نه سمندر مرا چه طبع و چه خوست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "نه شرقیست نه غربی بهیچ سوی متاز",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه به سمت شرق است و نه به سمت غرب، به هیچ طرفی نروید، زیرا آفتاب زیبایی آسمان ما هیچ سو ندارد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "که آفتاب سمای صفای ما بی سوست",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "Id": 30294,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۸۳۶",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۸۳۶",
+  "FullUrl": "/moulavi/shams/robaeesh/sh836",
+  "RhymeLetters": "ایند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: اگر در مسیر درست قدم برداری، راه برایت باز می‌شود. اما اگر به این مسیر نروی، به وجود خودت توجه کنند. اگر هم به جایگاه پایینی برسی و نتوانی در جهان جا بگیری، در آن صورت به تو نشان می‌دهند که خود را بدون وجودت ببینی.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایند",
+      "PlainText": "گر راه روی راه برت بگشایند\r\nور نیست شوی به هستیت بگرایند\r\nور پست شوی نگنجی اندر عالم\r\nوانگاه تو را بی تو به تو بنمایند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر راه روی راه برت بگشایند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نیست شوی به هستیت بگرایند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور پست شوی، نگنجی اندر عالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانگاه تو را بی تو به تو بنمایند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گر راه روی راه برت بگشایند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در مسیر خود قدم بگذاری، راهی به رویت گشوده می‌شود؛ و اگر در این مسیر قدم نگذاری، به هویت و وجودت توجه خواهند کرد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ور نیست شوی به هستیت بگرایند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ور پست شوی، نگنجی اندر عالم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در زندگی خود به پایین‌ترین مقام یا وضعیت برسید، در هیچ کجا جا نخواهید داشت؛ و در آن حالت، بدون حضور خودتان، به شما نشان خواهند داد که چه کسی هستید."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وانگاه تو را بی تو به تو بنمایند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

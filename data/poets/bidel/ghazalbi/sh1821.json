@@ -1,0 +1,210 @@
+{
+  "Id": 43889,
+  "CatId": 1401,
+  "Title": "غزل شمارهٔ ۱۸۲۱",
+  "FullTitle": "بیدل دهلوی » غزلیات » غزل شمارهٔ ۱۸۲۱",
+  "FullUrl": "/bidel/ghazalbi/sh1821",
+  "RhymeLetters": "ابفروش",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و ظرایف زندگی و عشق اشاره دارد. شاعر به تفاوت میان جلوه‌های ظاهری و واقعیات عمیق‌تر می‌پردازد. او احساسات خود را با تصاویری از غم، اضطراب و تمنای عشق بیان می‌کند و به نوعی از نکبت‌ها و ناپایداری‌های زندگی انتقاد می‌کند. در این شعر، حرف‌هایی درباره‌ی توهمات و حقیقت‌های زندگی، دل‌های شکسته و آرزوی رسیدن به زیبایی و عشق وجود دارد. شاعر تأکید می‌کند که در دنیای پر زرق و برق، تنها چیزهایی که ارزشمندند، عشق و احساسات واقعی هستند که باید از آن‌ها مراقبت کرد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابفروش",
+      "PlainText": "آه از این جلوه نقاب فروش\r\nبحر در جیب و ما حباب فروش\r\nتو و صد موج  گوهر تمکین\r\nمن و یک اشک اضطراب فروش\r\nانفعال است شبنم این باغ\r\nعرقی  گل  کن و گلاب فروش\r\nچشمی از نقش این و آن بر بند\r\nاعتبار جهان به خواب فروش\r\nدل افسرده سنگ راه وفاست\r\nکاش خون گردد این حجاب فروش\r\nهوش اگر صد قماش پردازد\r\nتو به یک جرعه شراب فروش\r\nآخرکار شعله همواری ست\r\nنفسی چند پیچ و تاب فروش\r\nبه هوس پایمال نتوان زیست\r\nمخمل ما مباد خواب فروش\r\nباب غم جز دل  گداخته نیست\r\nمشتری تشنه است  آب فروش\r\nقدر داغ جگر چه می دانی\r\nرو به دکانچه  کباب فروش\r\nسایه پرورد جلوه یاریم\r\nخاک ماگیر و آفتاب فروش\r\nبیدل ایام غازه کاری رفت\r\nماند بخت سیه خضاب فروش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآه از این جلوهٔ نقاب فروش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحر در جیب و ما حباب فروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو و صد موج‌ گوهر تمکین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن و یک اشک اضطراب فروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانفعال است شبنم این باغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعرقی‌ گل ‌کن و گلاب فروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمی از نقش این و آن بر بند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاعتبار جهان به خواب فروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل افسرده سنگ راه وفاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاش خون گردد این حجاب فروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهوش اگر صد قماش پردازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو به یک جرعهٔ شراب فروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآخرکار شعله همواری‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنفسی چند پیچ و تاب فروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هوس پایمال نتوان زیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمخمل ما مباد خواب فروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباب غم جز دل‌ گداخته نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشتری تشنه است‌، آب فروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقدر داغ جگر چه می‌دانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرو به دکانچهٔ ‌کباب فروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسایه پرورد جلوهٔ یاریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک ماگیر و آفتاب فروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیدل ایام غازه کاری رفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماند بخت سیه خضاب فروش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 12
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آه از این جلوهٔ نقاب فروش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به زیبایی و جذابیت ظاهری اشاره دارد که ممکن است فریبنده باشد، اما در عمق آن حقیقتی نهفته است. همزمان، مقایسه‌ای بین عمق و غنای دریا و سطحی بودن حباب‌ها وجود دارد. در واقع، شاعر به نوعی از رویای زیبا و فریبایی که به نظر واقعی می‌آید، ولی در واقع پوچ و بی‌اهمیت است، انتقاد می‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بحر در جیب و ما حباب فروش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو و صد موج‌ گوهر تمکین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو در میان امواج زیبای خود ثبات و نظم داری، و من در حالتی نگران و مضطرب تنها یک اشک به یاد تو دارم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من و یک اشک اضطراب فروش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "انفعال است شبنم این باغ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شبنم این باغ به نوعی بی‌عمل و منفعل است؛ بنابراین، گل‌ها را عرق‌زده و عطرشان را به فروش برسانید."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "عرقی‌ گل ‌کن و گلاب فروش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چشمی از نقش این و آن بر بند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خودت اجازه نده که به تصاویری که از دیگران در ذهنت ایجاد شده است اهمیت بدهی؛ در غیر این صورت، اعتبار و ارزش دنیایت را به خواب سپرده‌ای و از دست می‌دهی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "اعتبار جهان به خواب فروش",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دل افسرده سنگ راه وفاست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل غمگین همچون سنگی است که در مسیر عشق وجود دارد؛ ای کاش این مانع برطرف شده و به خون بدل شود تا مسیر عشق باز گردد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کاش خون گردد این حجاب فروش",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "هوش اگر صد قماش پردازد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر هوش و استعداد را به صد شکل و رنگ درآوری، یک جرعهٔ شراب کافی است تا تو را به مقامِ فراز برساند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "تو به یک جرعهٔ شراب فروش",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "آخرکار شعله همواری‌ست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در پایان، زندگی مانند شعله‌ای است که پس از دقایقی به آرامی فروکش می‌کند، و ما تنها چند لحظه در این پیچ و تاب‌ها تجربه خواهیم کرد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "نفسی چند پیچ و تاب فروش",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "به هوس پایمال نتوان زیست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمی‌توان با آرزوهای برباد رفته زندگی کرد، امیدوارم که به خواب و خیال در نیفتیم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "مخمل ما مباد خواب فروش",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "باب غم جز دل‌ گداخته نیست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دنیای غم، تنها دل سوزان وجود دارد. مانند مشتری که تشنه است و در جستجوی آب می‌گردد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "مشتری تشنه است‌، آب فروش",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "قدر داغ جگر چه می‌دانی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو چه می‌دانی که چقدر درد و رنج در دل یک فرد وجود دارد، وقتی که به دکان کباب‌فروش می‌نگری؟"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "رو به دکانچهٔ ‌کباب فروش",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "سایه پرورد جلوهٔ یاریم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سایهٔ پروردگار کمک‌حال من است، زیبایی یارم باعث افتخار من است؛ گرچه من خاکی و معمولی هستم، اما خورشید وجود او را به دست می‌آورم."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "خاک ماگیر و آفتاب فروش",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "بیدل ایام غازه کاری رفت",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روزگار جوانی، همه چیز رو به راه بود، اما حالا بخت نیکو از من دور شده و تنها غم و اندوه باقی مانده است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "ماند بخت سیه خضاب فروش",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    }
+  ]
+}

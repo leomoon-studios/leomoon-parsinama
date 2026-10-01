@@ -1,0 +1,240 @@
+{
+  "Id": 56920,
+  "CatId": 1852,
+  "Title": "غزل شمارهٔ ۴۷۲۲",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۴۷۲۲",
+  "FullUrl": "/saeb/divan-saeb/ghazalkasa/sh4722",
+  "RhymeLetters": "ارتر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: غزلی از شاعر توصیف کننده حالات عاشقانه و زیبایی‌های بهار و عشق است. در این شعر به تضادهای زیبایی مانند شادابی بهار و غم عشق، لذت و درد، و همچنین زیبایی‌های طبیعی و احساسات انسانی پرداخته شده است. شاعر از زیبایی چهره معشوق و تأثیرات آن بر دل عاشق سخن می‌گوید و عشق را به عنوان نیرویی توصیف می‌کند که می‌تواند هم شگفت‌انگیز و هم آزاردهنده باشد. در نهایت، شاعر به احساسات خود در مواجهه با محبوب اشاره کرده و از دست دادن عزت و حرمت خود را به خاطر عشق بیان می‌کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارتر",
+      "PlainText": "از خط سبز چهره شود آبدارتر\r\nدر نو بهار صبح بود بی غبارتر\r\nبا هم خوش است لطف و عتاب پر یرخان\r\nممزوج شد چو باده بود کم خمارتر\r\nدردل خلد ز قهر فزون لطف بی محل\r\nدرچشم گل ز خار بود ناگوارتر\r\nدر پرده بیش جلوه کند حسن شوخ چشم\r\nدر زیر ابر ماه بود بیقرارتر\r\nگیراست گرچه پنجه شهباز درشکار\r\nدست نگار بسته بود دل فشارتر\r\nباشد وصال سیمبران بوته گداز\r\nدر گوهرست رشته دمادم نزارتر\r\nعشق از دلم نبرد برون آرزوی خام\r\nشد از گداز نقره من کم عیارتر\r\nافزود اشک حسرتم از آه آتشین\r\nتبخال را کند تب گرم آبدارتر\r\nکردی خمش مرا به نفس راست کردنی\r\nباآتش است آب ازین سازگارتر\r\nدر پیر هست طول امل از جوان زیاد\r\nازنخلهاست نخل کهن ریشه دارتر\r\nدر دیده ها عزیزتر از توتیا شود\r\nدردولت آن کسی که شود خاکسارتر\r\nباشد به قدر ریشه سرافرازی نهال\r\nدولت شود ز دست دعا پایدارتر\r\nگردون گل پیاده نماید به چشم من\r\nامروز کیست بر سخن از من سوارتر\r\nصایب امید من به محبت زیاده شد\r\nچندان که بیش کرد مرا خوار و زارتر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خط سبز چهره شود آبدارتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر نو بهار، صبح بود بی غبارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا هم خوش است لطف و عتاب پر یرخان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eممزوج شد چو باده، بود کم خمارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردل خلد ز قهر فزون لطف بی محل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرچشم، گل ز خار بود ناگوارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پرده بیش جلوه کند حسن شوخ چشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر زیر ابر، ماه بود بیقرارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیراست گرچه پنجه شهباز درشکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست نگار بسته بود دل فشارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباشد وصال سیمبران بوته گداز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر گوهرست رشته دمادم نزارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق از دلم نبرد برون آرزوی خام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد از گداز، نقره من کم عیارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافزود اشک حسرتم از آه آتشین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتبخال را کند تب گرم آبدارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکردی خمش مرا به نفس راست کردنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباآتش است آب ازین سازگارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پیر هست طول امل از جوان زیاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازنخلهاست نخل کهن ریشه دارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دیده ها عزیزتر از توتیا شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدردولت آن کسی که شود خاکسارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباشد به قدر ریشه سرافرازی نهال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدولت شود ز دست دعا پایدارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردون گل پیاده نماید به چشم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز کیست بر سخن از من سوارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصائب امید من به محبت زیاده شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندان که بیش کرد مرا خوار و زارتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 14
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از خط سبز چهره شود آبدارتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در بهار، چهره‌ی سبز مانند آبی زلال و تازه می‌درخشد و صبحی که در آن غباری نیست، واقعی‌تر و شفاف‌تر به نظر می‌رسد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در نو بهار، صبح بود بی غبارتر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با هم خوش است لطف و عتاب پر یرخان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با هم بودن محبت و سرزنش بر چهره‌ات مثل شرابی خوشمزه مختلط شده است، که این حالت سرمستی را کمی کمتر کرده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ممزوج شد چو باده، بود کم خمارتر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دردل خلد ز قهر فزون لطف بی محل",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل بهشت، به خاطر قهر، لطفی که به جایی نمی‌رسد، در چشم مثل گل است که از خار دردناک‌تر است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "درچشم، گل ز خار بود ناگوارتر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در پرده بیش جلوه کند حسن شوخ چشم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در پس پرده، زیبایی دلربای چشمان بازیگوش بیشتر نمایان می‌شود. زیر ابر، ماه نیز به شدت بی‌قراری می‌کند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در زیر ابر، ماه بود بیقرارتر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گیراست گرچه پنجه شهباز درشکار",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه پنجه‌ی شاهین در حال شکار به دست زیبایش چنگ زده بود، دل انسان همچنان فشرده‌تر می‌شد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دست نگار بسته بود دل فشارتر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "باشد وصال سیمبران بوته گداز",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به بیان این موضوع می‌پردازد که حتی در پیوند با زیبایی‌ها و محبت‌ها، وجود سختی و چالش‌ها ناگزیر است و در طول زمان، حالت‌های ناپایدار و آسیب‌پذیری به وجود می‌آید. در واقع، در کنار لذتی که از زیبایی‌ها می‌بریم، ممکن است با مشکلات و دشواری‌هایی نیز مواجه شویم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "در گوهرست رشته دمادم نزارتر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "عشق از دلم نبرد برون آرزوی خام",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق نتوانسته است احساسات من را از دل بیرون ببرد و آرزوهای بی‌پایه‌ام هم از شدت دلسوزی و رنج کاهش یافته است، مانند نقره‌ای که کیفیتش پایین‌تر است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "شد از گداز، نقره من کم عیارتر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "افزود اشک حسرتم از آه آتشین",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حسرت من با اشک‌هایم بیشتر می‌شود و از شدت دلمشکنی، تبم نیز شدیدتر و آبدارتر می‌شود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "تبخال را کند تب گرم آبدارتر",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "کردی خمش مرا به نفس راست کردنی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو با نفس خود مرا آرام می‌کنی، و این آرامش برای من مانند آبی است که به آتش برخورد کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "باآتش است آب ازین سازگارتر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "در پیر هست طول امل از جوان زیاد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در سنین بالا، آرزوها و امیدها بیشتر از جوانی است، همانطور که درختان نخل کهنسال به خاطر ریشه‌های عمیق‌تر و تجربه‌های بیشتری که دارند، قوی‌تر و پایدارتر هستند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "ازنخلهاست نخل کهن ریشه دارتر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "در دیده ها عزیزتر از توتیا شود",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نظر مردم، کسی که humble و فروتن باشد و به دیگران احترام بگذارد، از هر چیز دیگری بیشتر ارزشمند و محترم خواهد بود."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "دردولت آن کسی که شود خاکسارتر",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "باشد به قدر ریشه سرافرازی نهال",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به اندازه ریشه‌هایی که دارند، باعث سربلندی و پیشرفت درخت زندگی خواهد شد و دعای ما می‌تواند آن را دوام بیشتری بخشد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "دولت شود ز دست دعا پایدارتر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "گردون گل پیاده نماید به چشم من",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز چه کسی در کلام و سخن از من برتر است که آسمان برای من مانند گل جلوه می‌کند؟"
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "امروز کیست بر سخن از من سوارتر",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "صائب امید من به محبت زیاده شد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امید من به محبت آنقدر زیاد شده که مرا بیشتر از قبل ذلیل و ناتوان کرده است."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "چندان که بیش کرد مرا خوار و زارتر",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    }
+  ]
+}

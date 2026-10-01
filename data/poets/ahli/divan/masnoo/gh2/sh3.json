@@ -1,0 +1,921 @@
+{
+  "Id": 105532,
+  "CatId": 2556,
+  "Title": "بخش ۳ - دایره",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » قصاید مصنوع » قصیدهٔ دوم در مدح سلطان یعقوب » بخش ۳ - دایره",
+  "FullUrl": "/ahli/divan/masnoo/gh2/sh3",
+  "RhymeLetters": "ار",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن شامل ابیاتی از شعر فارسی است که به عشق و زیبایی معشوق می‌پردازد. شاعر در این اشعار به توصیف معشوق خود، زیبایی‌های ظاهری و باطنی او و تاثیر عشق بر دل و جان خود می‌پردازد. او احساس گناه و درد ناشی از دوری معشوق را نیز بیان می‌کند و به نوعی از جدایی و غم خود سخن می‌گوید. ساختار شعر شامل قافیه‌ها و وزن‌های مختلف است که بر زیبایی و هنر شعر افزوده است. در کل، این اشعار بازتابی از عمق احساسات عاشقانه و سختی‌های آن هستند.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "اگر چه شوخ من از دیدن منت رنجست\r\nمرنج جان من از مشتری درین بازار\r\nنه خضر خط تو بخشد ز رحمتم آبی\r\nنه من کنم غم دل از حجاب خود اظهار\r\nشوخ من از دیدن من رخ متاب\r\nجان من از مشرب من کن حجاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه شوخ من از دیدن منت رنجست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرنج جان من از مشتری درین بازار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه خضر خط تو بخشد ز رحمتم آبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه من کنم غم دل از حجاب خود اظهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eشوخ من از دیدن من رخ متاب\u003C/p\u003E\r\n\u003Cp\u003Eجان من از مشرب من کن حجاب\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "اگر چه شوخ من از دیدن منت رنجست\r\nمرنج جان من از مشتری درین بازار\r\nنه خضر خط تو بخشد ز رحمتم آبی\r\nنه من کنم غم دل از حجاب خود اظهار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه شوخ من از دیدن منت رنجست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرنج جان من از مشتری درین بازار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه خضر خط تو بخشد ز رحمتم آبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه من کنم غم دل از حجاب خود اظهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "بدیر از آن رخ سرخ آذری فروزانست\r\nکه بت بسوخته و آتش گرفته در زنار\r\nورای کشتن خود آرزو نکرد دلم\r\nکه عاشقانه سر و پای کرده است ایثار\r\nدگر نظیر منت همدمی نبندد نقش\r\nمکن تو حکم غضب گر بدین کنم اصرار\r\nیقین و عالم پر فتنه نیست اینهمه تیز\r\nمهل حبیب من این خسته را توهم بس خوار\r\nآن رخ رخ آذری و زان رخ آذر\r\nبت سوخت گرفت عاشق سر پی سر\r\nظنت همه نقش علم فنت همه تیز\r\nمحکم غضبی مصلح بختت همسر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدیر از آن رخ سرخ آذری فروزانست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بت بسوخته و آتش گرفته در زنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eورای کشتن خود آرزو نکرد دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عاشقانه سر و پای کرده است ایثار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگر نظیر منت همدمی نبندد نقش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمکن تو حکم غضب گر بدین کنم اصرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین و عالم پر فتنه نیست اینهمه تیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهل حبیب من این خسته را توهم بس خوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eآن رخ رخ آذری و زان رخ آذر\u003C/p\u003E\r\n\u003Cp\u003Eبت سوخت گرفت عاشق سر پی سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eظنت همه نقش علم فنت همه تیز\u003C/p\u003E\r\n\u003Cp\u003Eمحکم غضبی مصلح بختت همسر\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 6
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "بدیر از آن رخ سرخ آذری فروزانست\r\nکه بت بسوخته و آتش گرفته در زنار\r\nورای کشتن خود آرزو نکرد دلم\r\nکه عاشقانه سر و پای کرده است ایثار\r\nدگر نظیر منت همدمی نبندد نقش\r\nمکن تو حکم غضب گر بدین کنم اصرار\r\nیقین و عالم پر فتنه نیست اینهمه تیز\r\nمهل حبیب من این خسته را توهم بس خوار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدیر از آن رخ سرخ آذری فروزانست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بت بسوخته و آتش گرفته در زنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eورای کشتن خود آرزو نکرد دلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عاشقانه سر و پای کرده است ایثار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگر نظیر منت همدمی نبندد نقش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمکن تو حکم غضب گر بدین کنم اصرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین و عالم پر فتنه نیست اینهمه تیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهل حبیب من این خسته را توهم بس خوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "مگر ز شوق تو خیزم بسر چو دود که من\r\nبسوی دوست نیایم مگر بدین هنجار\r\nرهم کجاست زخونی که ریزد از دل و چشم\r\nبجانب تو که پا در گلم ز گریه زار\r\nز شوقت ز بس خون که ریزد دلم\r\nبسویت نیایم که پا در گلم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر ز شوق تو خیزم بسر چو دود که من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسوی دوست نیایم مگر بدین هنجار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرهم کجاست زخونی که ریزد از دل و چشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبجانب تو که پا در گلم ز گریه زار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eز شوقت ز بس خون که ریزد دلم\u003C/p\u003E\r\n\u003Cp\u003Eبسویت نیایم که پا در گلم\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "مگر ز شوق تو خیزم بسر چو دود که من\r\nبسوی دوست نیایم مگر بدین هنجار\r\nرهم کجاست زخونی که ریزد از دل و چشم\r\nبجانب تو که پا در گلم ز گریه زار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر ز شوق تو خیزم بسر چو دود که من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسوی دوست نیایم مگر بدین هنجار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرهم کجاست زخونی که ریزد از دل و چشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبجانب تو که پا در گلم ز گریه زار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "به صد هزار حریف از برات در جنگم\r\nبصد هزار ضعیف از هوای تو غمخوار\r\nنه درد درد چو من میچشند سر بازان\r\nنه آه سرد چو من میکشند هم اغیار\r\nصد حریف از برات درد درد میچشند\r\nصد ضعیف از هوات آه سرد میکشند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه صد هزار حریف از برات در جنگم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبصد هزار ضعیف از هوای تو غمخوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه درد درد چو من میچشند سر بازان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آه سرد چو من میکشند هم اغیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eصد حریف از برات درد درد میچشند\u003C/p\u003E\r\n\u003Cp\u003Eصد ضعیف از هوات آه سرد میکشند\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "شوخ من از دیدن من رخ متاب\r\nجان من از مشرب من کن حجاب",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eشوخ من از دیدن من رخ متاب\u003C/p\u003E\r\n\u003Cp\u003Eجان من از مشرب من کن حجاب\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "به صد هزار حریف از برات در جنگم\r\nبصد هزار ضعیف از هوای تو غمخوار\r\nنه درد درد چو من میچشند سر بازان\r\nنه آه سرد چو من میکشند هم اغیار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه صد هزار حریف از برات در جنگم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبصد هزار ضعیف از هوای تو غمخوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه درد درد چو من میچشند سر بازان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه آه سرد چو من میکشند هم اغیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "گلی و لاله رخی لیک به ز سر و قدت\r\nمهی و سر و قدی لیک به ز لاله عذار\r\nیکی که شکل تو دیدست و قامتت داند\r\nکه خود روا نبود نسبتت بسرو و چنار\r\nلاله رخی لیک به ز سرو قدستت\r\nسر و قدی لیک به ز لاله خدستت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلی و لاله رخی لیک به ز سر و قدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهی و سر و قدی لیک به ز لاله عذار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی که شکل تو دیدست و قامتت داند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خود روا نبود نسبتت بسرو و چنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eلاله رخی لیک به ز سرو قدستت\u003C/p\u003E\r\n\u003Cp\u003Eسر و قدی لیک به ز لاله خدستت\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "سر",
+      "PlainText": "آن رخ رخ آذری و زان رخ آذر\r\nبت سوخت گرفت عاشق سر پی سر\r\nظنت همه نقش علم فنت همه تیز\r\nمحکم غضبی مصلح بختت همسر",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eآن رخ رخ آذری و زان رخ آذر\u003C/p\u003E\r\n\u003Cp\u003Eبت سوخت گرفت عاشق سر پی سر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eظنت همه نقش علم فنت همه تیز\u003C/p\u003E\r\n\u003Cp\u003Eمحکم غضبی مصلح بختت همسر\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "نه من که چرخ سگ و بنده تا نشد پیشت\r\nبدین طلب قدم آخر نزد بصفه بار\r\nخوشست مست شراب طرب لبت ز قدح\r\nکه هستمت چو سگ و بنده تا بروز شمار\r\nاگر تنم نه ز دست غمت بجان بودی\r\nنمی شد از ستمت کار دل برو دشوار\r\nسگ و بنده تا نشد ستمت بطلب قدم نزد ستمت\r\nبطلب قدم نزد ستمت سگ و بنده تا نشد ستمت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه من که چرخ سگ و بنده تا نشد پیشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدین طلب قدم آخر نزد بصفه بار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوشست مست شراب طرب لبت ز قدح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هستمت چو سگ و بنده تا بروز شمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر تنم نه ز دست غمت بجان بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنمی شد از ستمت کار دل برو دشوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eسگ و بنده تا نشد ستمت بطلب قدم نزد ستمت\u003C/p\u003E\r\n\u003Cp\u003Eبطلب قدم نزد ستمت سگ و بنده تا نشد ستمت\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "لم",
+      "PlainText": "ز شوقت ز بس خون که ریزد دلم\r\nبسویت نیایم که پا در گلم",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eز شوقت ز بس خون که ریزد دلم\u003C/p\u003E\r\n\u003Cp\u003Eبسویت نیایم که پا در گلم\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "گلی و لاله رخی لیک به ز سر و قدت\r\nمهی و سر و قدی لیک به ز لاله عذار\r\nیکی که شکل تو دیدست و قامتت داند\r\nکه خود روا نبود نسبتت بسرو و چنار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلی و لاله رخی لیک به ز سر و قدت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهی و سر و قدی لیک به ز لاله عذار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی که شکل تو دیدست و قامتت داند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خود روا نبود نسبتت بسرو و چنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "شند",
+      "PlainText": "صد حریف از برات درد درد میچشند\r\nصد ضعیف از هوات آه سرد میکشند",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eصد حریف از برات درد درد میچشند\u003C/p\u003E\r\n\u003Cp\u003Eصد ضعیف از هوات آه سرد میکشند\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "نه من که چرخ سگ و بنده تا نشد پیشت\r\nبدین طلب قدم آخر نزد بصفه بار\r\nخوشست مست شراب طرب لبت ز قدح\r\nکه هستمت چو سگ و بنده تا بروز شمار\r\nاگر تنم نه ز دست غمت بجان بودی\r\nنمی شد از ستمت کار دل برو دشوار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه من که چرخ سگ و بنده تا نشد پیشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدین طلب قدم آخر نزد بصفه بار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوشست مست شراب طرب لبت ز قدح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هستمت چو سگ و بنده تا بروز شمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر تنم نه ز دست غمت بجان بودی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنمی شد از ستمت کار دل برو دشوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "تکبر از دل ما طالبان مجو حاصل\r\nکه جان محرم ما قابلیست عشق شعار\r\nمدار اینهمه جان غمین مدام به درد\r\nکه هست جام غمین بیرخت بهمزده کار\r\nاز آن دلم ز تو زارست و تن چونال مدام\r\nکه دانم آن شرف این دل تمام عیار\r\nقد تو شاخ گل و جان زار مانده حزین\r\nچو اهل دین بیقین گوشه گیر از آن رفتار\r\nبه بندگی تو تا روز و شب زیم دارم\r\nچو بندگان لقب از دولتت سعادت یار\r\nکردم طلب حاصل این جان غمین- دارد دل زار\r\nجانم حرم قابل عشقست چنین- برهمزده کار\r\nتن چون الم مشکل جان مانده حزین- تا روز شمار\r\nدانم شرف این دل اهلی بیقین- از دولت یار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتکبر از دل ما طالبان مجو حاصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه جان محرم ما قابلیست عشق شعار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدار اینهمه جان غمین مدام به درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هست جام غمین بیرخت بهمزده کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن دلم ز تو زارست و تن چونال مدام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دانم آن شرف، این دل تمام عیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقد تو شاخ گل و جان زار مانده حزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو اهل دین بیقین گوشه گیر از آن رفتار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بندگی تو تا روز و شب زیم دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بندگان لقب از دولتت سعادت یار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eکردم طلب حاصل این جان غمین- دارد دل زار\u003C/p\u003E\r\n\u003Cp\u003Eجانم حرم قابل عشقست چنین- برهمزده کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn7\u0022\u003E\u003Cp\u003Eتن چون الم مشکل جان مانده حزین- تا روز شمار\u003C/p\u003E\r\n\u003Cp\u003Eدانم شرف این دل اهلی بیقین- از دولت یار\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 7
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "تکبر از دل ما طالبان مجو حاصل\r\nکه جان محرم ما قابلیست عشق شعار\r\nمدار اینهمه جان غمین مدام به درد\r\nکه هست جام غمین بیرخت بهمزده کار\r\nاز آن دلم ز تو زارست و تن چونال مدام\r\nکه دانم آن شرف این دل تمام عیار\r\nقد تو شاخ گل و جان زار مانده حزین\r\nچو اهل دین بیقین گوشه گیر از آن رفتار\r\nبه بندگی تو تا روز و شب زیم دارم\r\nچو بندگان لقب از دولتت سعادت یار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتکبر از دل ما طالبان مجو حاصل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه جان محرم ما قابلیست عشق شعار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدار اینهمه جان غمین مدام به درد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هست جام غمین بیرخت بهمزده کار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن دلم ز تو زارست و تن چونال مدام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دانم آن شرف، این دل تمام عیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقد تو شاخ گل و جان زار مانده حزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو اهل دین بیقین گوشه گیر از آن رفتار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بندگی تو تا روز و شب زیم دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بندگان لقب از دولتت سعادت یار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 6
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "دستت",
+      "PlainText": "لاله رخی لیک به ز سرو قدستت\r\nسر و قدی لیک به ز لاله خدستت",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eلاله رخی لیک به ز سرو قدستت\u003C/p\u003E\r\n\u003Cp\u003Eسر و قدی لیک به ز لاله خدستت\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 6
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "دستمت",
+      "PlainText": "سگ و بنده تا نشد ستمت بطلب قدم نزد ستمت\r\nبطلب قدم نزد ستمت سگ و بنده تا نشد ستمت",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eسگ و بنده تا نشد ستمت بطلب قدم نزد ستمت\u003C/p\u003E\r\n\u003Cp\u003Eبطلب قدم نزد ستمت سگ و بنده تا نشد ستمت\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "کردم طلب حاصل این جان غمین- دارد دل زار\r\nجانم حرم قابل عشقست چنین- برهمزده کار\r\nتن چون الم مشکل جان مانده حزین- تا روز شمار\r\nدانم شرف این دل اهلی بیقین- از دولت یار",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eکردم طلب حاصل این جان غمین- دارد دل زار\u003C/p\u003E\r\n\u003Cp\u003Eجانم حرم قابل عشقست چنین- برهمزده کار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eتن چون الم مشکل جان مانده حزین- تا روز شمار\u003C/p\u003E\r\n\u003Cp\u003Eدانم شرف این دل اهلی بیقین- از دولت یار\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر چه شوخ من از دیدن منت رنجست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: اگرچه محبوب من به خاطر دیدن محبت من ناراحت است، اما جان من از این عشق در این بازار در حال شادمانی است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرنج جان من از مشتری درین بازار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه خضر خط تو بخشد ز رحمتم آبی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: نه خضر (عالم) به خاطر رحمتش به تو آبی می‌دهد و نه من می‌توانم غم دل را از پرده‌ی خود نشان دهم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه من کنم غم دل از حجاب خود اظهار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "CenteredVerse1",
+      "Text": "شوخ من از دیدن من رخ متاب",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: عزیزم، لطفاً از دور به من ننگر و آنگاه که به من نگاه می‌کنی، حجاب عشق و راز خود را از من پنهان کن."
+    },
+    {
+      "VOrder": 6,
+      "Position": "CenteredVerse2",
+      "Text": "جان من از مشرب من کن حجاب",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 7,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفتعلن مفتعلن فاعلات",
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: تقطیع در اینجا به تقسیم و ترتیب دهی واژگان یا هجاها در یک وزن خاص اشاره دارد. الگوی ذکر شده به این معنی است که ساختار وزنی، به صورت خاصی با استفاده از هجاهای مختلف شکل می‌گیرد. این نوع تقطیع معمولاً در شعر و ادبیات فارسی به کار می‌رود و به ایجاد ریتم و قافیه در متن کمک می‌کند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Paragraph",
+      "Text": "قافیه: مردف بردف مفرد",
+      "CoupletIndex": 4,
+      "CoupletSummary": "هوش مصنوعی: قافیه به معنای هم‌صدایی و هماهنگی صوتی در پایان کلمات است. در اینجا به سه نوع قافیه اشاره شده است: \u0022مردف\u0022، که به قافیه‌ای گفته می‌شود که بعد از یک کلمه دیگر می‌آید و هم‌صدایی را نقش‌آفرینی می‌کند؛ \u0022بردف\u0022، به قافیه‌ای اطلاق می‌شود که با نوع خاصی از آوای خاص و تأکید، مشخص می‌گردد؛ و \u0022مفرد\u0022، که به قافیه‌هایی اشاره دارد که به تنهایی و بدون دخالت کلمات دیگر به کار می‌روند."
+    },
+    {
+      "VOrder": 9,
+      "Position": "Paragraph",
+      "Text": "بحر: سریع مطوی",
+      "CoupletIndex": 5,
+      "CoupletSummary": "هوش مصنوعی: بحر: سرعتی که به آرامی و به صورت متمرکز و منظم پیش می‌رود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Paragraph",
+      "Text": "صنعت: رقطا",
+      "CoupletIndex": 6,
+      "CoupletSummary": "هوش مصنوعی: صنعت رقطا به معنای فرایندها و فعالیت‌های مرتبط با تولید و بهره‌برداری از منابع طبیعی و انرژی برای تأمین نیازهای اجتماعی و اقتصادی است. این صنعت در زمینه‌های مختلفی از جمله استخراج مواد معدنی، تولید انرژی، و همچنین تبدیل مواد اولیه به محصولات نهایی فعالیت می‌کند. هدف اصلی آن افزایش بهره‌وری و کاهش هزینه‌ها به همراه حفظ منابع طبیعی و محیط زیست است."
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بدیر از آن رخ سرخ آذری فروزانست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 1,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: این بیت اشاره دارد به اینکه چهره زیبا و سرخ رنگی که از دیرزمان وجود داشته، همچنان درخشان و جذاب است. این جذابیت و زیبایی ناشی از خاطرۀ عشق و اشتیاقی است که از بین نرفته و به گونه‌ای مانند آتش در دل‌ها می‌سوزد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که بت بسوخته و آتش گرفته در زنار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 1,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ورای کشتن خود آرزو نکرد دلم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 1,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دل من هیچ آرزویی جز عشق و فداکاری ندارد، حتی با وجود اینکه می‌تواند به خود آسیب برساند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که عاشقانه سر و پای کرده است ایثار",
+      "CoupletIndex": 8,
+      "SectionIndex1": 1,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "دگر نظیر منت همدمی نبندد نقش",
+      "CoupletIndex": 9,
+      "SectionIndex1": 1,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دیگر هیچ‌کس مانند تو همراه و یار من نمی‌شود. اگر بخواهی می‌توانی به قهر و خشم عمل کنی، اما من این موضوع را با تأکید دنبال نمی‌کنم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "مکن تو حکم غضب گر بدین کنم اصرار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 1,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "یقین و عالم پر فتنه نیست اینهمه تیز",
+      "CoupletIndex": 10,
+      "SectionIndex1": 1,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای عشق بی‌رحم، بی‌تردید در عالم پر از فتنه و آشوب، این همه تندی و بی‌رحمی را نداشته باش. تو که محبوب منی، برای این دل خسته‌ام کمترین رحمی کن."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "مهل حبیب من این خسته را توهم بس خوار",
+      "CoupletIndex": 10,
+      "SectionIndex1": 1,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 19,
+      "Position": "CenteredVerse1",
+      "Text": "آن رخ رخ آذری و زان رخ آذر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 1,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: چهره زیبای تو مانند آتش مرا می‌سوزاند و دل عاشق را به شدت می‌سوزاند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "CenteredVerse2",
+      "Text": "بت سوخت گرفت عاشق سر پی سر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 1,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 21,
+      "Position": "CenteredVerse1",
+      "Text": "ظنت همه نقش علم فنت همه تیز",
+      "CoupletIndex": 12,
+      "SectionIndex1": 1,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که تو به علم و دانش خود بسیار مطمئن هستی، اما در واقع حقیقت ممکن است متفاوت باشد. هر چند که به نظر می‌رسد که به عنوان یک فرد قابلیت‌های بالایی داری، اما در زندگی ممکن است لباس خوش شانسی، آرامش و همسری صالح در انتظار تو باشد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "CenteredVerse2",
+      "Text": "محکم غضبی مصلح بختت همسر",
+      "CoupletIndex": 12,
+      "SectionIndex1": 1,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 23,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفعول مفاعلن مفاعیلن فع",
+      "CoupletIndex": 13,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به معنای تقسیم و تجزیه یک جمله یا شعر به بخش‌های کوچکتر است. در زبان عربی و ادبیات مربوطه، این تقسیم به شیوه‌های خاصی انجام می‌شود. یکی از این شیوه‌ها، استفاده از الگوهای خاصی است که در آن ترتیب کلمات و وزن آنها به صورت مفعول، مفاعلن، مفاعیلن و دیگر ترکیب‌ها منظم می‌شود. این الگوها به شاعر کمک می‌کنند تا اندازه و ریتم آثار خود را کنترل کند و همچنین به زیبایی و هارمونی شعر بیافزاید."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Paragraph",
+      "Text": "بحر: هزج اخرب ابتر",
+      "CoupletIndex": 14,
+      "CoupletSummary": "هوش مصنوعی: این شعر به مضمونی درباره‌ی طبیعت و زیبایی‌های آن اشاره دارد. شاعر با استفاده از زبانی جذاب و شاعرانه به توصیف مناظر طبیعی و احساسات ناشی از آن می‌پردازد. او با هنری خاص، احساس شگفتی و زیبایی را منتقل می‌کند و خواننده را به دنیای پر از جادو و دلنشینی که در آن زندگی می‌کند، دعوت می‌کند."
+    },
+    {
+      "VOrder": 25,
+      "Position": "Paragraph",
+      "Text": "قافیه: مصرع اول مقطوع، ثانی موصول بدو حرف، ثالث سه حرف، رابع بچهار حرف",
+      "CoupletIndex": 15,
+      "CoupletSummary": "هوش مصنوعی: قافیه: در بیت اول، کلام به صورت کوتاه بیان شده، در بیت دوم دو حرف به هم مرتبط هستن، در بیت سوم سه حرف در کنار هم قرار دارند و در بیت چهارم چهار حرف وجود دارد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Paragraph",
+      "Text": "صنعت: مصرع اول حرفی منقوط و حرفی غیرمنقوط، ثانی دو منقوط دو غیر منقوط ثالث سه، رابع چهار منقوط چهار غیر منقوط",
+      "CoupletIndex": 16,
+      "CoupletSummary": "هوش مصنوعی: در این متن، به نوع و تعداد حروف منقوط و غیرمنقوط در هر مصراع اشاره شده است. در مصراع اول یک حرف منقوط و یک حرف غیرمنقوط وجود دارد. در مصراع دوم، دو حرف منقوط و دو حرف غیرمنقوط آورده شده است. در مصراع سوم، سه حرف از نوع منقوط و مصراع چهارم چهار حرف منقوط و چهار حرف غیرمنقوط ذکر شده است."
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "مگر ز شوق تو خیزم بسر چو دود که من",
+      "CoupletIndex": 17,
+      "SectionIndex1": 2,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: من به شوق تو مانند دودی برخیزم، اما نمی‌توانم به سمت دوست بروم مگر برای چنین دلیلی."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "بسوی دوست نیایم مگر بدین هنجار",
+      "CoupletIndex": 17,
+      "SectionIndex1": 2,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "رهم کجاست زخونی که ریزد از دل و چشم",
+      "CoupletIndex": 18,
+      "SectionIndex1": 2,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: کجا بروم در حالی که قلبم پر از عشق و اشک است و چشم‌هایم به سوی تو می‌نگرند و قدم‌هایم از شدت ناله و گریه در جا مانده‌اند؟"
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "بجانب تو که پا در گلم ز گریه زار",
+      "CoupletIndex": 18,
+      "SectionIndex1": 2,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 31,
+      "Position": "CenteredVerse1",
+      "Text": "ز شوقت ز بس خون که ریزد دلم",
+      "CoupletIndex": 19,
+      "SectionIndex1": 2,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: از شدت عشق و شوری که دارم، دل من به خاطر تو خیلی خون می‌ریزد. تصمیم دارم که هیچ‌گاه به سوی تو نیایم، چون ممکن است به احساساتم آسیب برساند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "CenteredVerse2",
+      "Text": "بسویت نیایم که پا در گلم",
+      "CoupletIndex": 19,
+      "SectionIndex1": 2,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 33,
+      "Position": "Paragraph",
+      "Text": "تقطیع: فعولن فعلون فعولن فعل",
+      "CoupletIndex": 20,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به معنای تقسیم و شکستن نظم و قافیه یک شعر به بخش‌های کوچکتر یا واحدهای آهنگی است. در اینجا به نوعی الگوی وزنی خاص اشاره می‌شود که شامل چهار بخش است: \u0022فعولن فعلون فعولن فعل\u0022. از این الگویی که برای ساخت شعر استفاده می‌شود، می‌توان در ایجاد آهنگ و وزن خاصی بهره برد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Paragraph",
+      "Text": "قافیه: مطلق مجرد",
+      "CoupletIndex": 21,
+      "CoupletSummary": "هوش مصنوعی: قافیه به معنای هماهنگی صداهای انتهایی کلمات در شعر یا نثر است. این هماهنگی به نوعی مقید و محدود به نشانه‌های خاصی نیست و می‌تواند به شکل‌های مختلفی انجام شود. از طرفی، واژه \u0022مطلق مجرد\u0022 به معنای چیزی است که کاملاً بی‌قید و شرط و آزاد از هرگونه وابستگی است. در این context، این دو مفهوم به نوعی تأکید دارند بر آزادی و بی‌قیدی در ایجاد قافیه و نحوه تنظیم آنها."
+    },
+    {
+      "VOrder": 35,
+      "Position": "Paragraph",
+      "Text": "بحر: متقارب محذوف",
+      "CoupletIndex": 22,
+      "CoupletSummary": "هوش مصنوعی: بحر: وزن شعری که در آن هجاهای کوتاه و بلند به ترتیب خاصی طراحی شده‌اند و برخی از هجاها حذف یا تغییر شکل می‌یابند."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Paragraph",
+      "Text": "صنعت: سجع متوازی",
+      "CoupletIndex": 23,
+      "CoupletSummary": "هوش مصنوعی: صنعت سجع متوازی به معنای استفاده از الگوی تکراری صداها در انتهای جملات یا عبارات است. در این نوع سجع، عبارات به گونه‌ای طراحی می‌شوند که هم‌وزن و مشابه یکدیگر باشند، که معمولاً به ایجاد موسیقی و زیبایی در متن کمک می‌کند. این تکنیک می‌تواند در شعر، نثر یا حتی سخنرانی‌ها به کار رود تا تأثیر بیشتری بر روی مخاطب بگذارد."
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "به صد هزار حریف از برات در جنگم",
+      "CoupletIndex": 24,
+      "SectionIndex1": 3,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: من در میدان نبرد با صد هزار رقیب می‌جنگم، اما به خاطر تو با صد هزار ضعف و ناتوانی، غمگین و دل‌شکسته هستم."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "بصد هزار ضعیف از هوای تو غمخوار",
+      "CoupletIndex": 24,
+      "SectionIndex1": 3,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "نه درد درد چو من میچشند سر بازان",
+      "CoupletIndex": 25,
+      "SectionIndex1": 3,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: نه سربازان، مانند من، دردی را احساس می‌کنند و نه دیگران، مثل من، آه سردی را می‌کشند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "نه آه سرد چو من میکشند هم اغیار",
+      "CoupletIndex": 25,
+      "SectionIndex1": 3,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 41,
+      "Position": "CenteredVerse1",
+      "Text": "صد حریف از برات درد درد میچشند",
+      "CoupletIndex": 26,
+      "SectionIndex1": 3,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: صدها رقیب از درد جدایی تو رنج می‌برند و صدها انسان ضعیف از حسرت تو آه سردی می‌کشند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "CenteredVerse2",
+      "Text": "صد ضعیف از هوات آه سرد میکشند",
+      "CoupletIndex": 26,
+      "SectionIndex1": 3,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 43,
+      "Position": "Paragraph",
+      "Text": "تقطیع: فاعلات فاعلات فاعلات فاعلات",
+      "CoupletIndex": 27,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به معنای تقسیم یک شعر یا آهنگ به بخش‌های کوچکتر و شفاف‌تر است. در اینجا، الگوی خاصی برای تقسیم مصراع‌ها یا بخش‌های مختلف یک اثر بیان شده است. این الگو به شکل فاعلاتی، یعنی گروه‌هایی از هجاهای بلند و کوتاه سازمان‌دهی شده است."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Paragraph",
+      "Text": "قافیه: مردف بردف مفرد",
+      "CoupletIndex": 28,
+      "CoupletSummary": "هوش مصنوعی: قافیه به معنا و هم‌آوایی کلمات در شعر و نثر هنری اشاره دارد. در این مفهوم، \u0022مردف\u0022 به کلماتی گفته می‌شود که علاوه بر قافیه، مفهوم مشابهی دارند، در حالی که \u0022بردف\u0022 به کلمات مرتبط و نزدیک به هم اشاره دارد. همچنین \u0022مفرد\u0022 به کلماتی اطلاق می‌شود که به صورت مستقل و بدون ترکیب با دیگر کلمات وجود دارند."
+    },
+    {
+      "VOrder": 45,
+      "Position": "Paragraph",
+      "Text": "بحر: رمل مکفوف مقصور",
+      "CoupletIndex": 29,
+      "CoupletSummary": "هوش مصنوعی: دریا: بیابان خشک و محصور."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Paragraph",
+      "Text": "صنعت: سجع متوازن",
+      "CoupletIndex": 30,
+      "CoupletSummary": "هوش مصنوعی: صنعت سجع متوازن به معنای استفاده از جملات یا عبارات با ساختار مشابه و توازن در واژگان است که به زیبایی و هارمونی متن کمک می‌کند. این نوع سجع معمولاً در متون ادبی، شعر و نثر فاخر کاربرد دارد و می‌تواند تأثیر احساسی و بیانی قوی‌تری بر خواننده بگذارد. سجع متوازن معمولاً شامل تکرار الگوها و هماهنگی در آهنگ و وزن کلام است که باعث ایجاد جذابیت و ماندگاری بیشتری در ذهن خواننده می‌شود."
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "گلی و لاله رخی لیک به ز سر و قدت",
+      "CoupletIndex": 31,
+      "SectionIndex1": 4,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تو همچون گل و لاله زیبایی، اما چهره‌ات و قامتت به مراتب زیباتر از مه و لاله است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "مهی و سر و قدی لیک به ز لاله عذار",
+      "CoupletIndex": 31,
+      "SectionIndex1": 4,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "یکی که شکل تو دیدست و قامتت داند",
+      "CoupletIndex": 32,
+      "SectionIndex1": 4,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شخصی که تو را دیده و قامت زیبایت را می‌شناسد، از اینکه تو را به سرو و چنار تشبیه کند، احساس درستی ندارد؛ زیرا تو فراتر از آنی."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "که خود روا نبود نسبتت بسرو و چنار",
+      "CoupletIndex": 32,
+      "SectionIndex1": 4,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 51,
+      "Position": "CenteredVerse1",
+      "Text": "لاله رخی لیک به ز سرو قدستت",
+      "CoupletIndex": 33,
+      "SectionIndex1": 4,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تویی که زیبایی‌ات از سرو قد بلندتر و از لاله‌ی گل‌گون‌تر است."
+    },
+    {
+      "VOrder": 52,
+      "Position": "CenteredVerse2",
+      "Text": "سر و قدی لیک به ز لاله خدستت",
+      "CoupletIndex": 33,
+      "SectionIndex1": 4,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 53,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفتعلن فاعلات مفتعلن فع",
+      "CoupletIndex": 34,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به معنای تقسیم یک شعر به بخش‌های کوچکتر است تا بتوان به الگوها و ساختارهای طبیعی آن پی برد. در اینجا، الگوی مشخصی به نام «مفتعلن فاعلات مفتعلن فع» ارائه شده که نشان‌دهنده نوعی قافیه و ریتم خاص در شعر است. این الگو به شاعران کمک می‌کند تا آثار خود را با نگاهی منظم و ساختارمند تنظیم کنند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Paragraph",
+      "Text": "قافیه: مطلق بخروج و مزید",
+      "CoupletIndex": 35,
+      "CoupletSummary": "هوش مصنوعی: قافیه: بدون محدودیت در خروج و افزودن."
+    },
+    {
+      "VOrder": 55,
+      "Position": "Paragraph",
+      "Text": "بحر: منسرح مطوی منحور",
+      "CoupletIndex": 36,
+      "CoupletSummary": "هوش مصنوعی: بحر: منسرح، مطوی و منحور."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Paragraph",
+      "Text": "صنعت: تاکید المدح بما یشبه الذم",
+      "CoupletIndex": 37,
+      "CoupletSummary": "هوش مصنوعی: صنعت: تأکید و تمجید به طوری که بیشتر شبیه به سرزنش است."
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "نه من که چرخ سگ و بنده تا نشد پیشت",
+      "CoupletIndex": 38,
+      "SectionIndex1": 5,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: من نه دارم به دور روزگار، نه خود را بنده می‌دانم، اما تا زمانی که به درگاه تو نیامده‌ام، هیچ گام نهایی برنمی‌دارم."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "بدین طلب قدم آخر نزد بصفه بار",
+      "CoupletIndex": 38,
+      "SectionIndex1": 5,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "خوشست مست شراب طرب لبت ز قدح",
+      "CoupletIndex": 39,
+      "SectionIndex1": 5,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: خوشی و شادمانی ناشی از نوشیدن شراب و لذت بردن از لبان تو با هر جرعه‌ای به من دست می‌دهد، اما من همچنان در سایه وجود تو مثل یک سگ وفادار و بنده‌ای مطیع زندگی می‌کنم تا روزی که شمارش ایام به پایان برسد."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "که هستمت چو سگ و بنده تا بروز شمار",
+      "CoupletIndex": 39,
+      "SectionIndex1": 5,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "اگر تنم نه ز دست غمت بجان بودی",
+      "CoupletIndex": 40,
+      "SectionIndex1": 5,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: اگر غم تو بر جانم اثر نمی‌گذاشت، کار دل به دست تو این‌قدر دشوار نمی‌شد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "نمی شد از ستمت کار دل برو دشوار",
+      "CoupletIndex": 40,
+      "SectionIndex1": 5,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 63,
+      "Position": "CenteredVerse1",
+      "Text": "سگ و بنده تا نشد ستمت بطلب قدم نزد ستمت",
+      "CoupletIndex": 41,
+      "SectionIndex1": 5,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که ظلم تو به حدی نرسد که خواسته باشی، نه بنده و نه سگ به سراغ تو نمی‌آیند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "CenteredVerse2",
+      "Text": "بطلب قدم نزد ستمت سگ و بنده تا نشد ستمت",
+      "CoupletIndex": 41,
+      "SectionIndex1": 5,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 65,
+      "Position": "Paragraph",
+      "Text": "تقطیع: متفاعلن متفاعلن متفاعلن متفاعلن",
+      "CoupletIndex": 42,
+      "CoupletSummary": "هوش مصنوعی: تقطیع: الگوی وزن شعری که شامل چهار بخش متوازن است و هر بخش به شکل متفاعلن تشکیل شده است."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Paragraph",
+      "Text": "قافیه: مطلق بخروج و مزید و نایره",
+      "CoupletIndex": 43,
+      "CoupletSummary": "هوش مصنوعی: قافیه: مطلق از خروج و افزون و شعله."
+    },
+    {
+      "VOrder": 67,
+      "Position": "Paragraph",
+      "Text": "بحر: کامل مثمن",
+      "CoupletIndex": 44,
+      "CoupletSummary": "هوش مصنوعی: بحر یک قالب شعری است که دارای ساختاری منظم و مشخص است. در این قالب، هر بیت شعر معمولاً دارای وزن و قافیه خاصی است که به آن شکل می‌دهد. به عبارت دیگر، بحر به نوعی قاعده و نظام در شعر اشاره دارد که شاعران بر اساس آن شعر می‌سازند."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Paragraph",
+      "Text": "صنعت: طرد العکس",
+      "CoupletIndex": 45,
+      "CoupletSummary": "هوش مصنوعی: صنعت: طرد عکس\n\nاین عبارت به یک صنعت یا حوزه اشاره دارد که به ترتیب عکس‌ها می‌پردازد. این می‌تواند شامل فرایندها و تکنیک‌هایی باشد که در تولید، ویرایش یا پردازش عکس‌ها استفاده می‌شود. به نظر می‌رسد هدف این صنعت، تحویل عکس‌هایی با کیفیت و متناسب با نیازهای خاص مشتریان باشد."
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "تکبر از دل ما طالبان مجو حاصل",
+      "CoupletIndex": 46,
+      "SectionIndex1": 6,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: تکبر و غرور را از دل ما که در جستجوی عشق هستیم نرسانید، چرا که روح ما ظرفیت و شایستگی عشق را دارد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "که جان محرم ما قابلیست عشق شعار",
+      "CoupletIndex": 46,
+      "SectionIndex1": 6,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "مدار اینهمه جان غمین مدام به درد",
+      "CoupletIndex": 47,
+      "SectionIndex1": 6,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: این شعر به حالتی اشاره دارد که دل را با غم و اندوه پر کرده و دائماً در درد و رنج است. گویی شخصی در این وضعیت، به دنبال راهی برای تسکین یا فرار از این غم و غصه است، اما همچنان درگیر آن است. در نهایت به نظر می‌رسد که این وضعیت به پایان نخواهد رسید و شخص به نوعی گرفتار این احوالات خودساخته است."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "که هست جام غمین بیرخت بهمزده کار",
+      "CoupletIndex": 47,
+      "SectionIndex1": 6,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "از آن دلم ز تو زارست و تن چونال مدام",
+      "CoupletIndex": 48,
+      "SectionIndex1": 6,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: دل من از تو در آتش است و تنم همیشه به خاطر این درد می‌سوزد، زیرا می‌دانم وجود تو برای من باارزش است و این دل پایدار و خالص من است."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "که دانم آن شرف، این دل تمام عیار",
+      "CoupletIndex": 48,
+      "SectionIndex1": 6,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "قد تو شاخ گل و جان زار مانده حزین",
+      "CoupletIndex": 49,
+      "SectionIndex1": 6,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: قد تو مانند شاخه‌ی گلی است و جان من همچنان غمگین و ناامید به حال خود مانده است. مانند اهل دین که با اطمینان از رفتار تو کناره‌گیری کرده‌اند."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "چو اهل دین بیقین گوشه گیر از آن رفتار",
+      "CoupletIndex": 49,
+      "SectionIndex1": 6,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "به بندگی تو تا روز و شب زیم دارم",
+      "CoupletIndex": 50,
+      "SectionIndex1": 6,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: من به خدمتگزاری تو روز و شب مشغولم و از روی محبت و لطف تو، سعادت برایم همراه است."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "چو بندگان لقب از دولتت سعادت یار",
+      "CoupletIndex": 50,
+      "SectionIndex1": 6,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 79,
+      "Position": "CenteredVerse1",
+      "Text": "کردم طلب حاصل این جان غمین- دارد دل زار",
+      "CoupletIndex": 51,
+      "SectionIndex1": 6,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: من از این جان غمگین خود به دنبال هدفی هستم؛ دل نزار من در این حال، محلی برای عشق است. همه چیز به هم ریخته است."
+    },
+    {
+      "VOrder": 80,
+      "Position": "CenteredVerse2",
+      "Text": "جانم حرم قابل عشقست چنین- برهمزده کار",
+      "CoupletIndex": 51,
+      "SectionIndex1": 6,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 81,
+      "Position": "CenteredVerse1",
+      "Text": "تن چون الم مشکل جان مانده حزین- تا روز شمار",
+      "CoupletIndex": 52,
+      "SectionIndex1": 6,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: جسم من مانند جسم یک الماس مشکل است و روح من در اندوه بی‌پایان به سر می‌برد. تا زمانی که بتوانم روزها را بشمارم، می‌فهمم که این دل رام و تسلیم چه مقام ارزشمندی دارد، که از نعمت وجود یار برخوردار است."
+    },
+    {
+      "VOrder": 82,
+      "Position": "CenteredVerse2",
+      "Text": "دانم شرف این دل اهلی بیقین- از دولت یار",
+      "CoupletIndex": 52,
+      "SectionIndex1": 6,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 83,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفعول مفاعیل مفاعیل فعول- مستزاد: مفعول فعول",
+      "CoupletIndex": 53,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به معنای تقسیم بندی یا بخش بندی می‌باشد که در اینجا اشاره به ساختارهای خاصی در زبان دارد. مفعول، مفاعیل و فعول به عنوان الگوهای وزنی خاص در شعر و ادبیات فارسی استفاده می‌شوند. مستزاد به معنای اضافه کردن واژه یا ترکیبی به ساختار اصلی است که در این متن به مفعول و فعول اشاره شده است."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Paragraph",
+      "Text": "بحر: هزج اخرب مکفوف اهتم- مستزاد: اخرب اهتم",
+      "CoupletIndex": 54,
+      "CoupletSummary": "هوش مصنوعی: بحر: هزج اخرب مکفوف اهتم به این معنی است که نوعی وزن شعری وجود دارد که دارای قافیه‌های خاصی است و به شکل خاصی ساماندهی شده است. مستزاد: اخرب اهتم به این معنا است که در این نوع شعر، مقداری اضافی به متن افزوده شده که با قافیه و وزن شعر هماهنگی دارد."
+    },
+    {
+      "VOrder": 85,
+      "Position": "Paragraph",
+      "Text": "قافیه: مردف بردف مفرد قافیه ثانی مجرد",
+      "CoupletIndex": 55,
+      "CoupletSummary": "هوش مصنوعی: قافیه به دو نوع تقسیم می‌شود: قافیه مردف که شامل کلماتی است که دارای معنی و مفهوم مشخصی هستند، و قافیه مفرد که به کلماتی اطلاق می‌شود که به صورت مجرد و بدون ترکیب با دیگر کلمات به کار می‌روند. قافیه ثانی نیز به معنای قافیه‌ای است که فقط بخشی از آن مفهوم را داراست و به تنهایی به کار نمی‌رود."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Paragraph",
+      "Text": "صنعت: مرکب مدور موشح",
+      "CoupletIndex": 56,
+      "CoupletSummary": "هوش مصنوعی: صنعت: فرشهای گرد و زیبا"
+    }
+  ]
+}

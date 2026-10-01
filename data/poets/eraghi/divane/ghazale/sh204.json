@@ -1,0 +1,180 @@
+{
+  "Id": 19425,
+  "CatId": 261,
+  "Title": "غزل شمارهٔ ۲۰۴",
+  "FullTitle": "عراقی » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۰۴",
+  "FullUrl": "/eraghi/divane/ghazale/sh204",
+  "RhymeLetters": "مبگرییم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره غم و حسرت زندگی و عشق است. شاعر از بینش خود در مورد دردها و زخم‌های عاطفی می‌گوید و اشاره می‌کند که حتی اگر گریه‌کردن سودی نداشته باشد، باز هم برای یادآوری لحظاتی خوش و عزیز، باید بگرییم. او به یاد خاطرات شیرین و یارانی که دیگر در دسترس نیستند می‌افتد و بر فقدان آنها و غم ناشی از جدایی غصه می‌خورد. در پایان، شاعر دعوت می‌کند که به یاد حال و روز خود و دیگران، خصوصاً آنانی که در رنج هستند، گریه کنند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "مبگرییم",
+      "PlainText": "بیا ای دیده تا یک دم بگرییم\r\nنیم چون خوشدل و خرم بگرییم\r\nدمی بر جان پر حسرت بموییم\r\nزمانی بر دل پر غم بگرییم\r\nگهی از درد بی درمان بنالیم\r\nگهی از زخم بی مرهم بگرییم\r\nدل ما مرد بر تن خوش بموییم\r\nچو عیسی رفت بر مریم بگرییم\r\nچو کار از دست رفت این گریه ما\r\nندارد هیچ سودی هم بگرییم\r\nخوشا آن دم که با ما یار خوش بود\r\nکنون در حسرت آن دم بگرییم\r\nنشد جان محرم اسرار جانان\r\nبر آن محروم نامحرم بگرییم\r\nتن بیمار ما درهم شد از غم\r\nبر آن بیچاره درهم بگرییم\r\nز عمر ما دوسه دم ماند باقی\r\nبیا کین یک دو دم بر هم بگرییم\r\nعراقی را کنون ماتم بداریم\r\nبر آن مسکین درین ماتم بگرییم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیا، ای دیده، تا یک دم بگرییم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیم چون خوشدل و خرم بگرییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدمی بر جان پر حسرت بموییم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزمانی بر دل پر غم بگرییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگهی از درد بی‌درمان بنالیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهی از زخم بی‌مرهم بگرییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل ما مرد، بر تن خوش بموییم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو عیسی رفت، بر مریم بگرییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو کار از دست رفت، این گریهٔ ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندارد هیچ سودی، هم بگرییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوشا آن دم که با ما یار خوش بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنون در حسرت آن دم بگرییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشد جان محرم اسرار جانان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آن محروم نامحرم بگرییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن بیمار ما درهم شد از غم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آن بیچارهٔ درهم بگرییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز عمر ما دوسه دم ماند باقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیا، کین یک دو دم بر هم بگرییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعراقی را کنون ماتم بداریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آن مسکین درین ماتم بگرییم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیا، ای دیده، تا یک دم بگرییم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیا، ای چشم، بیایید یک لحظه گریه کنیم، نه از روی غم، بلکه چون افرادی شاد و خوشحال، گریه کنیم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نیم چون خوشدل و خرم بگرییم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دمی بر جان پر حسرت بموییم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لحظه‌ای به زندگی احساس حسرت بزنیم و مدتی بر دل پر از غم خود اشک بریزیم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زمانی بر دل پر غم بگرییم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گهی از درد بی‌درمان بنالیم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی از درد و رنجی که چاره‌ای برایش نیست، ناله می‌کنیم و گاهی از زخم‌هایی که بهبود نمی‌یابند، اشک می‌ریزیم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گهی از زخم بی‌مرهم بگرییم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دل ما مرد، بر تن خوش بموییم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل ما به شدت غمگین است، مانند اینکه زیبایی و جذابیت ما هرگز وجود نداشته باشد. پس از رفتن عیسی، برای مریم اشک می‌ریزیم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چو عیسی رفت، بر مریم بگرییم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چو کار از دست رفت، این گریهٔ ما",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که کار از کنترل خارج شد، این اشک‌هایی که می‌ریزیم هیچ فایده‌ای ندارد. پس بیایید بگرییم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ندارد هیچ سودی، هم بگرییم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "خوشا آن دم که با ما یار خوش بود",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مبارک است آن لحظه‌ای که با ما دوست خوبی بود، اما اکنون در حسرت آن لحظه به گریه نشسته‌ایم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "کنون در حسرت آن دم بگرییم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "نشد جان محرم اسرار جانان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نتوانستم در برابر غم و رازهای دل محبوب، بر آن کسی که از آن رازها محروم است، گریه کنم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بر آن محروم نامحرم بگرییم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "تن بیمار ما درهم شد از غم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدن بیمار ما به خاطر غم، در هم ریخته است و ما باید بر حال آن بیچاره که در رنج است، بگرییم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "بر آن بیچارهٔ درهم بگرییم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ز عمر ما دوسه دم ماند باقی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از عمر ما مدت کوتاهی باقی مانده است، بیایید تا این لحظات را با هم اشک بریزیم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "بیا، کین یک دو دم بر هم بگرییم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "عراقی را کنون ماتم بداریم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیایید به خاطر عراقی، که در سختی به سر می‌برد، عزاداری کنیم و بر حال او بگرییم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "بر آن مسکین درین ماتم بگرییم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ]
+}

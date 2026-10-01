@@ -1,0 +1,210 @@
+{
+  "Id": 100460,
+  "CatId": 2527,
+  "Title": "شمارهٔ  ۹۵۶",
+  "FullTitle": "آشفتهٔ شیرازی » غزلیات » شمارهٔ  ۹۵۶",
+  "FullUrl": "/ashofte/ghazal/sh956",
+  "RhymeLetters": "و",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به عشق و زیبایی محبوب خود می‌پردازد و احساسات عمیق خود را نسبت به او بیان می‌کند. او از آتش عشقش صحبت می‌کند و نگرانی‌اش از افشای احساساتش از طریق اشک‌هایش را ابراز می‌کند. شاعر محبوبش را همانند خورشید و ماه توصیف می‌کند و خود را سایه‌ای می‌داند که در پی اوست. او می‌گوید که دل و دیده‌اش پر از تصویر محبوب است و با وجود فاصله، او را به خوبی می‌شناسد. شاعر در مورد حقیقت عشق و تبعیت از محبوبش می‌گوید و در نهایت به این نتیجه می‌رسد که تنها عشق واقعی در زندگی‌اش وجود دارد و او را فراتر از هر چیزی می‌پرستد.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتو",
+      "PlainText": "ای نوسفر که سوختم اندر هوای تو\r\nترسم که اشک فاش کند ماجرای تو\r\nتو آفتاب روشن و چون ماه در روش\r\nمن سایه وش بسر دوم اندر قفای تو\r\nپر شد زعکس تو دل و دیده چو آینه\r\nای غایب از نظر که نشنیدی بجای تو\r\nبا پاسبان بگو که زکویت نراندم\r\nچون خو گرفته ام بسگان سرای تو\r\nیوسف فروش نیستم ای مشتری برو\r\nیعقوبم ای عزیز و شناسم بهای تو\r\nای کعبه سعی بادیه کردن چه حاجت است\r\nدر کوی میفروش چو دیدم صفای تو\r\nای نی زیار نوسفرم میدهی خبر\r\nکامیخته است بانگ جرس با نوای تو\r\nپروانه وش بسوز بشمع جمال دوست\r\nگر صادق است مدعیا ادعای تو\r\nآن سحر از کجاست که چشم تو داد راست\r\nدست کلیم را بدم اژدهای تو\r\nاغیار پای بند وفای تواند و بس\r\nبس شاکرم بتا بوفای جفای تو\r\nآشفته غیر عشق نداری تو کسوتی\r\nیکتا بود چو سرو بعالم قبای تو\r\nای عشق خانه سوز من ای مظهر علی\r\nمن کافرم اگر بپرستم ورای تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نوسفر که سوختم اندر هوای تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترسم که اشک فاش کند ماجرای تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو آفتاب روشن و چون ماه در روش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن سایه وش بسر دوم اندر قفای تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپر شد زعکس تو دل و دیده چو آینه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای غایب از نظر که نشنیدی بجای تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا پاسبان بگو که زکویت نراندم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون خو گرفته ام بسگان سرای تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیوسف فروش نیستم ای مشتری برو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعقوبم ای عزیز و شناسم بهای تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کعبه سعی بادیه کردن چه حاجت است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کوی میفروش چو دیدم صفای تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای نی زیار نوسفرم میدهی خبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامیخته است بانگ جرس با نوای تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپروانه وش بسوز بشمع جمال دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر صادق است مدعیا ادعای تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن سحر از کجاست که چشم تو داد راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست کلیم را بدم اژدهای تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاغیار پای بند وفای تواند و بس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس شاکرم بتا بوفای جفای تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآشفته غیر عشق نداری تو کسوتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکتا بود چو سرو بعالم قبای تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عشق خانه سوز من ای مظهر علی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن کافرم اگر بپرستم ورای تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 12
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای نوسفر که سوختم اندر هوای تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای تازه‌وارد به دنیای عشق، من در آرزوی تو جز خود را سوزانده‌ام. نگرانم که اشک‌هایم داستان عشق تو را برملا کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ترسم که اشک فاش کند ماجرای تو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "تو آفتاب روشن و چون ماه در روش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو مانند آفتابی روشن هستی و مانند ماه در کنارم سایه‌ای داری، که همیشه در پی تو هستم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "من سایه وش بسر دوم اندر قفای تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "پر شد زعکس تو دل و دیده چو آینه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل و چشمانم از یاد تو پر شده است، ولی تو از نظرم غایبی و صدای مرا نمی‌شنوی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ای غایب از نظر که نشنیدی بجای تو",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "با پاسبان بگو که زکویت نراندم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نگهبان بگو که از عشق تو دور نشدم، زیرا که به زندگی در آشیانه‌ات عادت کرده‌ام."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چون خو گرفته ام بسگان سرای تو",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یوسف فروش نیستم ای مشتری برو",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هیچ‌گاه یوسف را نمی‌فروشم، ای مشتری عزیز! برو؛ من مانند یعقوب هستم و ارزش تو را می‌شناسم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "یعقوبم ای عزیز و شناسم بهای تو",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ای کعبه سعی بادیه کردن چه حاجت است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کعبه، چه نیازی به تلاش و زحمت در بیابان است وقتی که صفای تو را در کوی می‌فروش دیدم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "در کوی میفروش چو دیدم صفای تو",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ای نی زیار نوسفرم میدهی خبر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای نی، تو با صدای خود خبر خوشی به من می‌دهی که مسافران راه به مقصد رسیده‌اند. صدای جرس با نغمه تو به گوش می‌رسد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "کامیخته است بانگ جرس با نوای تو",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "پروانه وش بسوز بشمع جمال دوست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر پروانه‌ای با زیبایی معشوق بسوزد، پس باید صداقت در ادعای خود را ثابت کند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "گر صادق است مدعیا ادعای تو",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "آن سحر از کجاست که چشم تو داد راست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا شاعر به قدرت و زیبایی چشمان معشوق اشاره می‌کند که به‌گونه‌ای جادویی و شگفت‌انگیز است. او به شکل نمادین می‌گوید که این زیبایی تا چه حد می‌تواند مؤثر باشد که حتی زیادی قدرت و توانایی‌هایی بیشتری به دیگران می‌بخشد. این چشمان می‌توانند همچون عصای کلیم (موسی) عمل کنند و قدرتی بی‌نظیر را رقم بزنند. به‌طور کلی، این جمله به تجلی زیبایی و تأثیرگذاری آن بر زندگی انسان‌ها اشاره دارد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "دست کلیم را بدم اژدهای تو",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "اغیار پای بند وفای تواند و بس",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بی‌وفا بودن دیگران را می‌توان تحمل کرد، اما من به خاطر وفای تو، حتی اگر به جفا هم باشد، سپاسگزارم."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "بس شاکرم بتا بوفای جفای تو",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "آشفته غیر عشق نداری تو کسوتی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غیر از عشق، هیچ چیز دیگری برای تو وجود ندارد. تو چنان خاص و منحصر به فردی هستی که مانند سرو درختی، پوشش زیبا و بی‌نظیری به دنیا بخشیده‌ای."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "یکتا بود چو سرو بعالم قبای تو",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "ای عشق خانه سوز من ای مظهر علی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای عشق سوزان من، ای نماینده علی، اگر غیر از تو را بپرستم، بی‌ایمانی و کافر هستم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "من کافرم اگر بپرستم ورای تو",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    }
+  ]
+}

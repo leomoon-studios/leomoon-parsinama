@@ -1,0 +1,105 @@
+{
+  "Id": 72790,
+  "CatId": 2062,
+  "Title": "شمارهٔ ۱۸۷ - وله ایضاً",
+  "FullTitle": "کمال‌الدین اسماعیل » قصاید » شمارهٔ ۱۸۷ - وله ایضاً",
+  "FullUrl": "/kamal/ghasidek/sh188",
+  "RhymeLetters": "انی",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به تأمل درباره حقیقت زندگی می‌پردازد. او می‌گوید که در این جهان هیچ نان و آبی واقعی از دید انسان پنهان است، و نه گرسنگی و نه تشنگی را می‌توان به وضوح احساس کرد. شاعر به وجود کلماتی اشاره می‌کند که معنا و مفهوم واقعی ندارند و به نوعی در زندگی ما باقی مانده‌اند. در نهایت، او از نوعی نان و آب صحبت می‌کند که نمایانگر زندگی واقعی و معانی عمیق‌تر است.",
+  "Metre": {
+    "Id": 13,
+    "Rhythm": "مفعول مفاعلن فعولن (هزج مسدس اخرب مقبوض محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انی",
+      "PlainText": "نانیست درین جهان و آبی\r\nاز دیدۀ آدمی نهانی\r\nنه گرسنه دیده روی این سیر\r\nنه تشنه از آن دهد نشانی\r\nاسمیست بمانده بی مسما\r\nلفظیست از آن سوی معانی\r\nاین را صفتست لایذوقون\r\nو آنرا سمتست لن ترانی\r\nدانی که کدام نان و آبست\r\nنان تو و آب زندگانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنانیست درین جهان و آبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دیدۀ آدمی نهانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه گرسنه دیده روی این سیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه تشنه از آن دهد نشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاسمیست بمانده بی مسمّا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلفظیست از آن سوی معانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین را صفتست لایذوقون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو آنرا سمتست لن ترانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدانی که کدام نان و آبست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنان تو و آب زندگانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نانیست درین جهان و آبی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا چیزی برای آدمی وجود ندارد که بتوان به آن تکیه کرد و حتی اشکی نیز در دل او پنهان است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از دیدۀ آدمی نهانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نه گرسنه دیده روی این سیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه کسی که سیر است، به چهره‌اش گرسنگی را می‌توان دید و نه کسی که تشنه است، علامتی از آن را نشان می‌دهد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه تشنه از آن دهد نشانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اسمیست بمانده بی مسمّا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که واژه‌ای وجود دارد که معنی خاصی ندارد و تنها به خاطر صدا و شکلش باقی مانده است. این واژه به چیزی اشاره نمی‌کند و از دنیای مفاهیم فاصله دارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "لفظیست از آن سوی معانی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "این را صفتست لایذوقون",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که گروهی از افراد (صفتی) طعم خاصی را تجربه نمی‌کنند و دسته‌ای دیگر (سمت) به وضوح قادر به دیدن نیستند. به عبارت دیگر، برخی احساسات و تجربه‌ها برای آنها ممکن نیست."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "و آنرا سمتست لن ترانی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دانی که کدام نان و آبست؟",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌دانی که چه چیزی برای تو ضروری و مهم است؟ نان و آب تو به معنای تأمین نیازهای زندگی‌ات."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نان تو و آب زندگانی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    }
+  ]
+}

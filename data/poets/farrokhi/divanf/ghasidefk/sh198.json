@@ -1,0 +1,750 @@
+{
+  "Id": 62777,
+  "CatId": 1859,
+  "Title": "شمارهٔ ۱۹۸ - در مدح محمد بن محمود غزنوی گوید",
+  "FullTitle": "فرخی سیستانی » دیوان اشعار » قصاید » شمارهٔ ۱۹۸ - در مدح محمد بن محمود غزنوی گوید",
+  "FullUrl": "/farrokhi/divanf/ghasidefk/sh198",
+  "RhymeLetters": "اری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از جستجوی یاری صحبت می‌کند که زندگی‌اش را خوش بگذراند و به تبع آن، با توصیف یاری خود به زیبایی‌های او می‌پردازد. او یارش را به بتی زیبا تشبیه می‌کند که در بهار مانند گل درخشنده است. شاعر به ویژگی‌های یارش مانند قد و زیبایی‌اش می‌پردازد و بیان می‌کند که هیچ‌کس مانند او نمی‌تواند دلش را شاد کند.\n\nسپس شاعر به توصیف ولیعهد محمود غازی محمد می‌پردازد که او را شاهی عادل و کریم می‌داند. ویژگی‌های نیکوی او مانند سخاوت، بردباری و بزرگواری‌اش را ستایش می‌کند و این صفات را منحصر به فرد می‌شمرد. شاعر همچنین اشاره می‌کند که در زمان خدمت به او، شادی و خیرو برکت برای جهان به همراه می‌آورد.\n\nدر انتها، شاعر از افتخاراتی که از خدمت به این شاه به دست آورده سخن می‌گوید و با ابراز شکرگزاری، یادآوری می‌کند که او در این مقام، حرمت و جایگاه ویژه‌ای دارد که جز با تلاش و خدمت به این شاه به دست نیامده است.",
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اری",
+      "PlainText": "دل من همی جست پیوسته یاری\r\nکه خوش بگذراند بدو روزگاری\r\nشنیدم که جوینده یابنده باشد\r\nبه معنی درست آمد این لفظ باری\r\nبتی چون بهاری به دست من آمد\r\nکه چون او بتی نیست اندر بهاری\r\nبتی چون گل تازه کاندر مه دی\r\nز رخسار او گل توان شد کناری\r\nچه قدش چه پیراسته زاد سروی\r\nچه رویش چه آراسته لاله زاری\r\nبه کام دل خویش یاری گزیدم\r\nکه دارد چو یار من امروز یاری\r\nبدین یار خود عاشقی کرد خواهم\r\nکزین خوش تر اندر جهان نیست کاری\r\nدل او را همی خواست او را سپردم\r\nهمین به که من کردم از هر شماری\r\nچرا دل دهم جز بدو چون ندارم\r\nپس از خدمت شه جز او غم گساری\r\nشه عالم عادل داد گستر\r\nکه بی چاکر او نیابی دیاری\r\nولیعهد محمود غازی محمد\r\nمهین خسروی برترین شهریاری\r\nبه هر فضلی اندر جهان گشته پیدا\r\nچو تابان مهی بر سر کوهساری\r\nگراز تو کسی کش ندیده ست پرسد\r\nکه دانی ملک را چه گویی تو باری\r\nکریمست و آزاده و تازه رویی\r\nجوانست و آهسته و با وقاری\r\nخوی و سیرت و راه و آیین و رسمش\r\nپسندیده نزدیک هر هوشیاری\r\nجهان پیش او روز تا شب به خدمت\r\nمیان بسته بر گونه پیشکاری\r\nنه اصل و بزرگیش را منتهایی\r\nنه احسان و کردار او را کناری\r\nنه هنگام زربخشی اوراست صبری\r\nنه هنگام کوشش مراو را قراری\r\nبه کار اندرون داهی پیش بینی\r\nبه خشم اندرون صابر بردباری\r\nبه یک جابر آمیخته حلم و صبرش\r\nقراریست پنداری اندر قراری\r\nبه هر مادحی مل بخشد جهانی\r\nبه هر زایری سیم بخشد به باری\r\nتهی نیست از بخشش او سرایی\r\nچو از لشکر شاه ایران حصاری\r\nسخاوت میان بخیلی و دستش\r\nبر آورده از روی و آهن جداری\r\nهر ابری که بگذشت بر مجلس او\r\nز شرم کف اوشود چون غباری\r\nغمی نیست ار با کفش بر نیاید\r\nبه صد سال شمسی ز در یا بخاری\r\nحصاری و از ترکش او خدنگی\r\nمصافی و از موکب او سواری\r\nچو نالی سبک بگذراند به تیری\r\nگران شاخ از سالخورده چناری\r\nزده خشت زخم خدنگیش ناید\r\nنیاید زده مورچه فعل ماری\r\nهر آن کس که بیخواب شد ز نهیبش\r\nنخوابد سبک دیگر از کوکناری\r\nنگر تا تو اسفندیارش نخوانی\r\nکه آید ز هر مویش اسفندیاری\r\nبه هر کاری او را کند بخت یاری\r\nجهان را نیاید چنو بختیاری\r\nز اقبال سلطان بر او حاسدان را\r\nشد از اشک هر چشم چون کفته ناری\r\nاز این نیکوییهای او دشمنان را\r\nبه سربود در هر زمانی خماری\r\nز خوبی که ایزد بد و داد خواهد\r\nهمانا یکی نیست این از هزاری\r\nزهی خسروی کاین همه روشنایی\r\nزرای تو گیرد همی نوبهاری\r\nز شادی که از تو جهان راست نونو\r\nنبینم همی در جهان سوکواری\r\nشکار شهان بیشتر مرغ باشد\r\nشکار تو شیرست و نیکو شکاری\r\nچه کردار داری که در گوش هر کس\r\nز شکر تو بینم همی گوشواری\r\nمرا جامه خاصه خویش دادی\r\nچه باشدمرا بیش از این افتخاری\r\nچو طاووس رنگین مرا جلوه دادی\r\nبه طاووسی چون شکفته بهاری\r\nقبای تو جز تاجداری نپوشد\r\nنهادی مرا پایه تاجداری\r\nفزودی مرا زین قبا تاقیامت\r\nجمالی و جاهی به هر پود و تاری\r\nبزرگی و جاه و جمال وشرف را\r\nزبانیست گوینده زین هر چهاری\r\nبه ناکرده خدمت دهی حق خدمت\r\nکه دیده ست هرگز چوتو حقگزاری\r\nهمی تا ز بهر مثل بر زبانها\r\nدر آید که هر اشتر و مرغزاری\r\nچنان چون بگویند اندر مثلها\r\nکه پهلوی هر گل نشسته ست خاری\r\nترا باد هر جا که بنهند تختی\r\nعدو را بود هر کجا هست داری\r\nزخوبان و از ریدکان سرایی\r\nبه قصر تو هر خانه ای قندهاری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل من همی جست پیوسته یاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خوش بگذراند بدو روزگاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشنیدم که جوینده یابنده باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه معنی درست آمد این لفظ باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبتی چون بهاری به دست من آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه چون او بتی نیست اندر بهاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبتی چون گل تازه کاندر مه دی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز رخسار او گل توان شد کناری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه قدش چه پیراسته زاد سروی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه رویش چه آراسته لاله زاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کام دل خویش یاری گزیدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دارد چو یار من امروز یاری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدین یار خود عاشقی کرد خواهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکزین خوش‌تر اندر جهان نیست کاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل، او را همی خواست، او را سپردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمین به که من کردم از هر شماری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرا دل دهم جز بدو چون ندارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس از خدمت شه جز او غم‌گساری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشه عالم عادل داد گستر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بی چاکر او نیابی دیاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولیعهد محمود غازی محمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهین خسروی برترین شهریاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر فضلی اندر جهان گشته پیدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو تابان مهی بر سر کوهساری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگراز تو کسی کش ندیده ست پرسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه «دانی ملک را»؟ چه گویی تو باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکریمست و آزاده و تازه رویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجوانست و آهسته و با وقاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوی و سیرت و راه و آیین و رسمش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپسندیده نزدیک هر هوشیاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان پیش او روز تا شب به خدمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیان بسته بر گونه پیشکاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه اصل و بزرگیش را منتهایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه احسان و کردار او را کناری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه هنگام زربخشی اوراست صبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه هنگام کوشش مراو را قراری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کار اندرون داهی پیش بینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خشم اندرون صابر بردباری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه یک جابر آمیخته حلم و صبرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقراریست پنداری اندر قراری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر مادحی مل بخشد جهانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هر زایری سیم بخشد به باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتهی نیست از بخشش او سرایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو از لشکر شاه ایران حصاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخاوت میان بخیلی و دستش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر آورده از روی و آهن جداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر ابری که بگذشت بر مجلس او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز شرم کف اوشود چون غباری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغمی نیست ار با کفش بر نیاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه صد سال شمسی ز در یا بخاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحصاری و از ترکش او خدنگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمصافی و از موکب او سواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو نالی سبک بگذراند به تیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگران شاخ از سالخورده چناری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزده خشت زخم خدنگیش ناید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیاید زده مورچه فعل ماری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر آن کس که بیخواب شد ز نهیبش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنخوابد سبک دیگر از کوکناری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگر تا تو اسفندیارش نخوانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آید ز هر مویش اسفندیاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر کاری او را کند بخت یاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهان را نیاید چنو بختیاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز اقبال سلطان بر او حاسدان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد از اشک هر چشم چون کفته ناری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز این نیکوییهای او دشمنان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سربود در هر زمانی خماری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز خوبی که ایزد بد و داد خواهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمانا یکی نیست این از هزاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزهی خسروی کاین همه روشنایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزرای تو گیرد همی نوبهاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز شادی که از تو جهان راست نونو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبینم همی در جهان سوکواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکار شهان بیشتر مرغ باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکار تو شیرست و نیکو شکاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه کردار داری که در گوش هر کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز شکر تو بینم همی گوشواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا جامه خاصه خویش دادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه باشدمرا بیش از این افتخاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو طاووس رنگین مرا جلوه دادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه طاووسی چون شکفته بهاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقبای تو جز تاجداری نپوشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنهادی مرا پایه تاجداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفزودی مرا زین قبا تاقیامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمالی و جاهی به هر پود و تاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبزرگی و جاه و جمال وشرف را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزبانیست گوینده زین هر چهاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه ناکرده خدمت دهی حق خدمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دیده ست هرگز چوتو حقگزاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی تا ز بهر مثل بر زبانها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آید که هر اشتر و مرغزاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان چون بگویند اندر مثلها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه پهلوی هر گل نشسته ست خاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترا باد هر جا که بنهند تختی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعدو را بود، هر کجا هست، داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزخوبان و از ریدکان سرایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه قصر تو هر خانه ای قندهاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 48
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل من همی جست پیوسته یاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من همیشه به دنبال یاری است که روزها را با او به خوشی بگذرانم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که خوش بگذراند بدو روزگاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شنیدم که جوینده یابنده باشد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفته می‌شود که کسی که به دنبال چیزی باشد، در نهایت آن را پیدا می‌کند؛ این حرف به معنای واقعی خود درست است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به معنی درست آمد این لفظ باری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بتی چون بهاری به دست من آمد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دست من مجسمه‌ای زیبا و شگفت‌انگیز رسید که هیچ‌کس مانند او را در بهار ندیده بود."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که چون او بتی نیست اندر بهاری",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بتی چون گل تازه کاندر مه دی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره‌ای مانند گل تازه، که در ماه دی زیبا و دلپذیر است، می‌تواند بر کنار تماشاگران تأثیر گذار باشد و به دل آنها شادی و سرزندگی بیاورد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ز رخسار او گل توان شد کناری",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چه قدش چه پیراسته زاد سروی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قد و قامت او به زیبایی سرو می‌ماند و رویش همچون لاله‌های آراسته در گلزار است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چه رویش چه آراسته لاله زاری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "به کام دل خویش یاری گزیدم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به خواسته و آرزوهای خود کسی را انتخاب کرده‌ام که امروز مانند او، یاری دیگری وجود ندارد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که دارد چو یار من امروز یاری؟",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بدین یار خود عاشقی کرد خواهم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من می‌خواهم برای این معشوق خود عشق بورزم، زیرا هیچ کاری در جهان شیرین‌تر از این نیست."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "کزین خوش‌تر اندر جهان نیست کاری",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "دل، او را همی خواست، او را سپردم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل، خواسته‌اش را به او سپردم و هر آنچه کردم، تا حالا برای من بی‌حساب است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "همین به که من کردم از هر شماری",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "چرا دل دهم جز بدو چون ندارم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا باید دل را به کسی غیر از او بدهم، وقتی بعد از خدمت به او کسی را ندارم که غم‌هایم را برطرف کند؟"
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "پس از خدمت شه جز او غم‌گساری",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "شه عالم عادل داد گستر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امام بر حق و عادل، مظهر عدالت و بخشش است؛ زیرا بدون خدمت به او، نمی‌توان در سرزمین حقیقی و معنوی زندگی کرد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "که بی چاکر او نیابی دیاری",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "ولیعهد محمود غازی محمد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ولیعهد محمود غازی، محمد مهین خسروی، برترین پادشاه است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "مهین خسروی برترین شهریاری",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "به هر فضلی اندر جهان گشته پیدا",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر فضیلت و خوبی که در دنیا وجود دارد، همانند ماهی که در قله کوه می‌درخشد، نمایان شده است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "چو تابان مهی بر سر کوهساری",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "گراز تو کسی کش ندیده ست پرسد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که در مقام و موقعیت بالایی قرار دارد، نمی‌تواند درک کند که چه چیزی را باید بپرسد. حالا تو چه پاسخی برای او داری؟"
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "که «دانی ملک را»؟ چه گویی تو باری",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "کریمست و آزاده و تازه رویی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او انسان مهربان و آزادمنشی است، چهره‌اش جوان و تازه است، و رفتار و گفتارش آرام و باوقار است."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "جوانست و آهسته و با وقاری",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "خوی و سیرت و راه و آیین و رسمش",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اخلاق، رفتار، مسیر زندگی و ترتیب و سنت او مورد ستایش و تحسین همه افرادی است که دارای درک و بصیرت هستند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "پسندیده نزدیک هر هوشیاری",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "جهان پیش او روز تا شب به خدمت",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا برای او همچون خدمتگزار است که از صبح تا شب با احترام و ادب در مقابل او ایستاده است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "میان بسته بر گونه پیشکاری",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "نه اصل و بزرگیش را منتهایی",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه اصالت و بزرگی او را می‌توان حد و مرزی مشخص کرد و نه خوبی‌ها و رفتار نیکش را می‌توان در جایی محدود کرد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "نه احسان و کردار او را کناری",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "نه هنگام زربخشی اوراست صبری",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه در وقتی که او به راحتی می‌گذرد، من آرامش دارم و نه در زمانی که خودم در تلاش هستم، او به من امیدی می‌دهد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "نه هنگام کوشش مراو را قراری",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "به کار اندرون داهی پیش بینی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در کارها باید با دقت و آینده‌نگری عمل کنیم، اما در مواجهه با خشم و مشکلات، باید صبور و بااستقامت باشیم."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "به خشم اندرون صابر بردباری",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "به یک جابر آمیخته حلم و صبرش",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به شخصی که هم صبوری و هم بردباری دارد، به نظر می‌رسد که آرامش و سکون خاصی وجود دارد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "قراریست پنداری اندر قراری",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "به هر مادحی مل بخشد جهانی",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به هر شاعری که ستایش کند، جهانی می‌دهد و به هر زایری در مسیر خود، ارزشی همچون نقره عطا می‌کند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "به هر زایری سیم بخشد به باری",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "تهی نیست از بخشش او سرایی",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ خانه‌ای نیست که از بخشش‌های او خالی باشد، مانند اینکه هیچ دیواری در لشکر شاه ایران نمی‌تواند خالی از سربازان باشد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "چو از لشکر شاه ایران حصاری",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "سخاوت میان بخیلی و دستش",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخاوت به معنای بخشش و generosity است که در تقابل با بخیلی و تنگ‌نظری قرار دارد. در این جمله اشاره شده که بخشش و سخاوت، از درون انسان و با اراده‌ی خود او سرچشمه می‌گیرد، نه اینکه فقط به خاطر ظواهر یا موقعیت‌های ظاهری باشد. در واقع، اشاره شده که فرد سخاوت‌مند واقعی، از روی صدق و نیت خالص و بدون هیچ مانعی می‌بخشد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "بر آورده از روی و آهن جداری",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "هر ابری که بگذشت بر مجلس او",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر ابری که در مجلس او عبور کند، از شرم و خجالت، کف او به مانند غباری می‌شود."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "ز شرم کف اوشود چون غباری",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "غمی نیست ار با کفش بر نیاید",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگرانی‌ای نیست اگر در طول صد سال و با هر تلاش و زحمتی نتوانم به هدفم برسم یا به جایی برسم."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "به صد سال شمسی ز در یا بخاری",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "حصاری و از ترکش او خدنگی",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به توصیف فردی می‌پردازد که در محاصره و تحت تأثیر یک نیروی قوی قرار گرفته است. او به نوعی در میان تقابل و مبارزه‌ای است و از یک نیروی بزرگ و تاثیرگذار الهام می‌گیرد. در واقع، دلالت بر این دارد که فرد در تلاش است تا در برابر چالش‌ها و سختی‌ها ایستادگی کند و از قدرت و توانایی‌های خود برای ادامه مسیر بهره‌برداری نماید."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "مصافی و از موکب او سواری",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "چو نالی سبک بگذراند به تیری",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که ناله‌ای خفیف از درختی قدیمی به گوش می‌رسد، این صدا به آرامی و با نرمی از تیرک‌های سنگین و محکم عبور می‌کند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "گران شاخ از سالخورده چناری",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "زده خشت زخم خدنگیش ناید",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زخمی که تیر به جسمش می‌زند، بر او تاثیری ندارد. مثل اینکه مورچه‌ای به ماری نیش زده باشد و تأثیری بر او نگذارد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "نیاید زده مورچه فعل ماری",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "هر آن کس که بیخواب شد ز نهیبش",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از صدای بلند یا تذکر دیگری بیدار مانده و خوابش نمیبرد، به نوعی دیگر از خواب بی‌نصیب است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "نخوابد سبک دیگر از کوکناری",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "نگر تا تو اسفندیارش نخوانی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مراقب باش که اگر او را چنین بخوانی، از هر تار مو و خصیصه‌اش، قدرت و شجاعت نمایان می‌شود."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "که آید ز هر مویش اسفندیاری",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "به هر کاری او را کند بخت یاری",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بخت و شانس به کسی کمک می‌کند که شایسته و لایق باشد و اگر او این توانایی را نداشته باشد، حتی بهترین شانس‌ها هم نمی‌توانند به او کمک کنند."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "جهان را نیاید چنو بختیاری",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "ز اقبال سلطان بر او حاسدان را",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خوشبختی و موفقیت پادشاه، حسودان با دیدن اشک هر چشم به مانند شعله‌های آتش می‌سوزند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "شد از اشک هر چشم چون کفته ناری",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "از این نیکوییهای او دشمنان را",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خوبی‌های او دشمنان همواره در حال حیرت و غم هستند."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "به سربود در هر زمانی خماری",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "ز خوبی که ایزد بد و داد خواهد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از زیبایی‌های الهی که خیر و خوب و عدالت را می‌طلبد، می‌توان گفت که این یک مورد خاص نیست و نمونه‌های زیادی در دنیا وجود دارد."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "همانا یکی نیست این از هزاری",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "زهی خسروی کاین همه روشنایی",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عجب شاهی که این همه روشنی، بهار زندگی‌اش را از تو دریافت می‌کند."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "زرای تو گیرد همی نوبهاری",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "ز شادی که از تو جهان راست نونو",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خوشحالی تو، جهان برایم مانند نانی می‌ماند که دیگر نمی‌توانم آن را ببینم و در این دنیا فقط گرفتار عذاب و رنج هستم."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "نبینم همی در جهان سوکواری",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "شکار شهان بیشتر مرغ باشد",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شکار شاهان معمولاً پرندگان هستند، اما شکار تو شیر است و این شکار بسیار عالی و با ارزش است."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "شکار تو شیرست و نیکو شکاری",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "چه کردار داری که در گوش هر کس",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه رفتاری داری که صدای شیرینی‌ات در گوش هر کسی می‌پیچد و مانند گوشواره‌ای در گوش آنهاست."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "ز شکر تو بینم همی گوشواری",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "مرا جامه خاصه خویش دادی",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو لباس ویژه خود را به من بخشیدی، پس من دیگر به هیچ افتخاری نیاز ندارم."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "چه باشدمرا بیش از این افتخاری",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "چو طاووس رنگین مرا جلوه دادی",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو زیبایی و جلوه‌ای همچون طاووس رنگین به من نشان دادی، که مانند بهاری پر از شکوفه است."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "به طاووسی چون شکفته بهاری",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "قبای تو جز تاجداری نپوشد",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها لباس شایسته تو، تاج و بزرگی است و من را نیز به مقام و عظمت رساندی."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "نهادی مرا پایه تاجداری",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "فزودی مرا زین قبا تاقیامت",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وجود تو به من زیبایی و مقام بی‌نظیری بخشیده است، به گونه‌ای که هر جز و جزئی از وجودم تحت تأثیر این زیبایی قرار دارد و در انتظار جلال توست."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "جمالی و جاهی به هر پود و تاری",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "بزرگی و جاه و جمال وشرف را",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عظمت، اعتبار، زیبایی و احترام هر یک به وسیله‌ی زبانی بیان می‌شود و این مفاهیم به هم وابسته‌اند."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "زبانیست گوینده زین هر چهاری",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "به ناکرده خدمت دهی حق خدمت",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به کسی که هیچ خدمتی نکرده‌ای، خدمت کنی، حق نداری که انتظار قدردانی داشته باشی، زیرا او هرگز چیزی از تو نخواسته است."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "که دیده ست هرگز چوتو حقگزاری",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "همی تا ز بهر مثل بر زبانها",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر مثال‌هایی که گفته می‌شود، همیشه در ذهن‌ها باقی می‌ماند که هر شتر و هر مرتع‌ای خاصیت و ویژگی‌های خود را دارد."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "در آید که هر اشتر و مرغزاری",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "چنان چون بگویند اندر مثلها",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چنان که گفته می‌شود در مثل‌ها، در کنار هر گل، همیشه خار وجود دارد."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "که پهلوی هر گل نشسته ست خاری",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "ترا باد هر جا که بنهند تختی",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو هر جا که قرار بگیری، دشمن هم در آنجا خواهد بود و از وجود تو آگاه است."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "عدو را بود، هر کجا هست، داری",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "زخوبان و از ریدکان سرایی",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از خوبان و زشت‌روها در هر خانه‌ای به قصر تو می‌رسند."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "به قصر تو هر خانه ای قندهاری",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    }
+  ]
+}

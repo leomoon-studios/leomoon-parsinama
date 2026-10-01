@@ -1,0 +1,525 @@
+{
+  "Id": 85324,
+  "CatId": 2234,
+  "Title": "شمارهٔ  ۱۰ -  و له فی مدح دلشاد شاه",
+  "FullTitle": "جلال عضد » دیوان اشعار » قصاید » شمارهٔ  ۱۰ -  و له فی مدح دلشاد شاه",
+  "FullUrl": "/jalal/divanj/ghasayed/sh10",
+  "RhymeLetters": "اندل",
+  "SourceName": "سید محمدرضا شهیم",
+  "SourceUrlSlug": "smrs",
+  "PoemSummary": "هوش مصنوعی: این متن شعری عاشقانه است که به توصیف زیبایی‌ها و جذابیت‌های محبوب می‌پردازد. شاعر از ویژگی‌های ظاهری و باطنی محبوب خود می‌گوید، از زلف‌های خمیده و گل‌های زیبا گرفته تا دل‌باختگی و درد عشق. او به شکل‌های مختلف عشق و دلبستگی خود اشاره می‌کند و حال و روز دل خود را در مواجهه با زیبایی محبوب توصیف می‌کند. شاعر به مخاطب خود می‌گوید که فضای دل او تحت تأثیر عشق و زیبایی محبوب است و هیچ چیز نمی‌تواند از این عشق بکاهد. متن به شدت احساسی و غنایی است و تلاش می‌کند زیبایی‌های عاشقانه را با زبان شعر به تصویر بکشد.",
+  "Metre": {
+    "Id": 15,
+    "Rhythm": "مفتعلن فاعلن مفتعلن فاعلن (منسرح مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندل",
+      "PlainText": "ای ز گل روی تو رونق بستان دل\r\nوی ز هوای رخت تازه گلستان دل\r\nای ز رخ مهوشت فسحت بستان جان\r\nوی ز دهان خوشت تنگی میدان دل\r\nای ز خم زلف تو سلسله در پای جان\r\nوی شکن زلف تو سلسله جنبان دل\r\nهست شبستان جان طره شبرنگ تو\r\nعارض مه پیکرت شمع شبستان دل\r\nتا دل سلطان وشم بنده عشق تو شد\r\nگشته ام از جان کنون بنده سلطان دل\r\nای تو زلیخای حسن مصر جهان را عزیز\r\nکرده به چاه زنخ یوسف کنعان دل\r\nای بت عشوه فروش تا به ابد نشکند\r\nگرمی بازار تو از در دکان دل\r\nتا دل من دست زد در خم گیسوی تو\r\nمی نگذارد بلا دست ز دامان دل\r\nمی گذری ای صبا بر سر بالین دوست\r\nاز خم زلفش بپرس حال پریشان دل\r\nگفتم از احوال دل هیچ نگویم به کس\r\nوه که به دامن رسید چاک گریبان دل\r\nمرغ صبا صبحدم خیز و برو عرضه دار\r\nدر بر بلقیس عهد حال سلیمان دل\r\nبانوی جمشید عهد اعظمه دلشاد شاه\r\nآنکه شد از نام او شاد دل و جان دل\r\nآنکه اگر تا ابد کسب صفاتش کند\r\nهیچ نداند هنوز سر سخندان دل\r\nوآنکه نگنجد به دل حشتمش از کبریا\r\nگرچه نگنجد به وهم حد بیابان دل\r\nتا نگذارد درون آرزوی نفس را\r\nحاجب عصمت نشان بر در ایوان دل\r\nدر حرم هیچ دل بار هوس ره نیافت\r\nتا به حشر عصمتش گشت نگهبان دل\r\nای قد و خد ترا خوانده عروسان خلد\r\nسرو گلستان جان لاله بستان دل\r\nوصف تو گوید همه طوطی خوش نطق جان\r\nمدح تو خواند همه بلبل خوشخوان دل\r\nخدمت تو کسوتی ست راست به بالای جان\r\nمدحت تو آیتی ست آمده درشان دل\r\nگر نرسیدی به کس نکهتی از خلق تو\r\nکی بشکفتی ز غم غنچه خندان دل\r\nعرصه ملک جهان هست به کام دلت\r\nگرچه کسی را جهان نیست به فرمان دل\r\nهر که نخواهد ترا خرم و خندان و شاد\r\nتا ابدش باد غم ساکن زندان دل\r\nای شه والاگهر بنده کمتر جلال\r\nخون دل آورده است پیش تو بر خوان دل\r\nسیل جفای سپهر کرد دلم را خراب\r\nدل ده و معمور کن خانه ویران دل\r\nدارم از اندوه دهر بی سر و سامان دلی\r\nحال من اندازه کن از سر و سامان دل\r\nتو ز سر مرحمت بر دلم آبی بزن\r\nورنه بسوزد مرا آتش پنهان دل\r\nسهل مدان نظم من زانکه بسش نکته هست\r\nلؤلؤیی از بحر جان گوهری از کان دل\r\nگوهر نظم مرا جوهرییی در خور است\r\nتا که برآرد گهر زین گهرافشان دل\r\nتا که به میدان دهر دلشدگان را بود\r\nزلف کمند بتان موضع جولان دل\r\nتا متزلزل شود طارم ایوان جان\r\nتا متخلل شود جمله ارکان دل\r\nباد سر کوی تو منزل و مأوای جان\r\nبا خم گیسوی تو بیعت و پیمان دل\r\nتا فلک و آفتاب هست چو چوگان و گوی\r\nگوی مراد تو باد در خم چوگان دل\r\nباد دل دشمنت مکمن طوفان غم\r\nهم تن و هم جان او غرقه طوفان دل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ز گل روی تو رونق بستان دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی ز هوای رخت تازه گلستان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ز رخ مهوشت فُسحت بستان جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی ز دهان خوشت تنگی میدان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای زِ خَم زلف تو سلسله در پای جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی شکن زلف تو سلسله جنبان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست شبستان جان طرّه شبرنگ تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعارض مه پیکرت شمع شبستان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا دل سلطان وشم بنده عشق تو شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشته ام از جان کنون بنده سلطان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تو زلیخای حسن مصر جهان را عزیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرده به چاه زنخ یوسف کنعان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بت عشوه فروش تا به ابد نشکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرمی بازار تو از در دکان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا دل من دست زد در خم گیسوی تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی نگذارد بلا دست ز دامان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی گذری ای صبا بر سر بالین دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خم زلفش بپرس حال پریشان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم از احوال دل هیچ نگویم به کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوه که به دامن رسید چاک گریبان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغ صبا! صبحدم خیز و برو عرضه دار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بر بلقیسِ عهد حالِ سلیمان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبانوی جمشید عهد اعظمه دلشاد شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه شد از نام او شاد دل و جان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه اگر تا ابد کسب صفاتش کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ نداند هنوز سرّ سخندان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآنکه نگنجد به دل حشتمش از کبریا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه نگنجد به وهم حدّ بیابان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نگذارد درون آرزوی نفس را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحاجب عصمت نشان بر در ایوان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حرم هیچ دل بار هوس ره نیافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به حشر عصمتش گشت نگهبان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای قد و خدّ ترا خوانده عروسان خلد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرو گلستان جان لاله بستان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوصف تو گوید همه طوطی خوش نطق جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمدح تو خواند همه بلبل خوشخوان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدمت تو کسوتی ست راست به بالای جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمدحت تو آیتی ست آمده درشان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نرسیدی به کس نکهتی از خُلق تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی بشکفتی ز غم غنچه خندان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعرصه ملک جهان هست به کام دلت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه کسی را جهان نیست به فرمان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که نخواهد ترا خرّم و خندان و شاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ابدش باد غم ساکن زندان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شه والاگهر بنده کمتر جلال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخون دل آورده است پیش تو بر خوان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیل جفای سپهر کرد دلم را خراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل ده و معمور کن خانه ویران دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدارم از اندوه دهر بی سر و سامان دلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحال من اندازه کن از سر و سامان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو ز سر مرحمت بر دلم آبی بزن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه بسوزد مرا آتش پنهان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسهل مدان نظم من زانکه بسش نکته هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلؤلؤیی از بحر جان گوهری از کان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوهر نظم مرا جوهرییی در خور است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا که برآرد گهر زین گهرافشان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا که به میدان دهر دلشدگان را بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلف کمند بتان موضع جولان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا متزلزل شود طارم ایوان جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا متخلّل شود جمله ارکان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد سر کوی تو منزل و مأوای جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خم گیسوی تو بیعت و پیمان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا فلک و آفتاب هست چو چوگان و گوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوی مراد تو باد در خم چوگان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد دل دشمنت مکمن طوفان غم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم تن و هم جان او غرقه طوفان دل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 33
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ز گل روی تو رونق بستان دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای زیبای گل مانند، تو باعث رونق باغ قلب منی و هوای وجود تو، بهار دل مرا تازه می‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی ز هوای رخت تازه گلستان دل",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای ز رخ مهوشت فُسحت بستان جان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صورت زیبای تو مانند گلستانی است که روح را خوشبو و شاداب می‌کند، اما لب‌های شیرین تو باعث شده که دل، در تنگنایی قرار بگیرد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وی ز دهان خوشت تنگی میدان دل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ای زِ خَم زلف تو سلسله در پای جان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای زلف تو چون گردنبند جانم را در بر گرفته و با تلاطمی که در زلف توست، دل من نیز در حال تپش و جنبش است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وی شکن زلف تو سلسله جنبان دل",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هست شبستان جان طرّه شبرنگ تو",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در شب، فضای دل پر از نور و زیبایی توست، گیسوان تاریک تو مانند پرده‌ای بر افرازنده‌ای می‌درخشد، و صورت ماه تو مانند شمعی است که روشنی می‌بخشد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "عارض مه پیکرت شمع شبستان دل",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تا دل سلطان وشم بنده عشق تو شد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که دل سلطان به عشق تو وابسته شد، من از جان و دل به خدمت او درآمده‌ام. اکنون من بنده‌ای هستم که دل من در اختیار سلطان قرار گرفته است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گشته ام از جان کنون بنده سلطان دل",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ای تو زلیخای حسن مصر جهان را عزیز",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای تو، زلیخای زیبایی مصر که با چهره‌ات دنیا را محبوب کرده‌ای، دل مرا مانند چاه، در عشق زنخ یوسف کنعان غرق کرده‌ای."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "کرده به چاه زنخ یوسف کنعان دل",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ای بت عشوه فروش تا به ابد نشکند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای معشوقه‌ی فریبنده، تا ابد چیزی نگذارد که جذابیت و دلربایی تو از دل شوق و عشق من کاسته شود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "گرمی بازار تو از در دکان دل",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "تا دل من دست زد در خم گیسوی تو",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که دل من به گیسوی تو نزدیک شد، دیگر بلا و مشکل اجازه نمی‌دهد که از دل و محبت من دور شود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "می نگذارد بلا دست ز دامان دل",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "می گذری ای صبا بر سر بالین دوست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای نسیم، وقتی که از کنار بستر دوست عبور می‌کنی، از پیچ و تاب موهایش بپرس چگونه است و دلش چه حالتی دارد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "از خم زلفش بپرس حال پریشان دل",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "گفتم از احوال دل هیچ نگویم به کس",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم که از حال دلم به کسی چیزی نمی‌گویم، اما ناگهان چنان شد که دل من به شدت پاره‌پاره و غمگین شد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "وه که به دامن رسید چاک گریبان دل",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "مرغ صبا! صبحدم خیز و برو عرضه دار",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای مرغ صبا! صبح زود برخیز و برو به بلقیس خبر بده که حال سلیمان چیست."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "در بر بلقیسِ عهد حالِ سلیمان دل",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "بانوی جمشید عهد اعظمه دلشاد شاه",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زن شاه جمشید، که در عصر بزرگی زندگی می‌کند، شادی و سرور را به دل و جان خود آورده است و نام او موجب خوشحالی و شادی دیگران شده است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "آنکه شد از نام او شاد دل و جان دل",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "آنکه اگر تا ابد کسب صفاتش کند",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که حتی اگر تا همیشه تلاش کند و صفات خوب را به دست آورد، هنوز هم رازهای دل سخن‌گویان را نخواهد دانست."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "هیچ نداند هنوز سرّ سخندان دل",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "وآنکه نگنجد به دل حشتمش از کبریا",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که عظمت و بزرگی خداوند را در دل خود نمی‌گنجاند، حتی اگر در خیال و تصور هم نتواند وسعت دلی که مانند بیابان است را درک کند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "گرچه نگنجد به وهم حدّ بیابان دل",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "تا نگذارد درون آرزوی نفس را",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که تا زمانی که حجاب عفت و پاکدامنی به قلب انسان راه پیدا نکرده باشد، آرزوی دل نمی‌تواند به راحتی دیده شود. به عبارت دیگر، تنها زمانی که انسان از پاکی و عفت دور شود، آرزوها و خواسته‌های نفسش نمایان خواهد شد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "حاجب عصمت نشان بر در ایوان دل",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "در حرم هیچ دل بار هوس ره نیافت",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مکان مقدس، هیچ دلی نتوانست به خواسته‌های نفسانی خود دست یابد، تا اینکه در قیامت، پاکی او حافظ دل شد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "تا به حشر عصمتش گشت نگهبان دل",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "ای قد و خدّ ترا خوانده عروسان خلد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، قامت و زیبایی تو چنان است که عروسان بهشتی تو را می‌ستایند. تو مانند سرو و گلستانی، و جان خود را به رنگ لاله و باغ دل می‌آرایی."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "سرو گلستان جان لاله بستان دل",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "وصف تو گوید همه طوطی خوش نطق جان",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام طوطی‌ها به زیبایی تو صحبت می‌کنند و همه بلبل‌ها هم به مدح و ستایش تو می‌خوانند."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "مدح تو خواند همه بلبل خوشخوان دل",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "خدمت تو کسوتی ست راست به بالای جان",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معنی است که خدمت به تو به منزله‌ای مناسب و شایسته برای روح و جان من است و ستودن تو به نوعی نشانه‌ای از عشق و احترام در دل من به شمار می‌آید."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "مدحت تو آیتی ست آمده درشان دل",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "گر نرسیدی به کس نکهتی از خُلق تو",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به کسی نرسیدی، نباید از رفتار و خلق و خوهایت گلایه‌ای کنی؛ زیرا غم و اندوهی که در دل داری، مانند غنچه‌ای است که هرگز نخواهد شاداب شد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "کی بشکفتی ز غم غنچه خندان دل",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "عرصه ملک جهان هست به کام دلت",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا، همه چیز مطابق میل توست، حتی اگر کسی نتواند بر اساس خواسته‌های قلبش حکمرانی کند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "گرچه کسی را جهان نیست به فرمان دل",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "هر که نخواهد ترا خرّم و خندان و شاد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که نخواهد تو همیشه شاد و خندان باشی، به او باید بگوییم که غم و غصه در دلش ساکن خواهد شد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "تا ابدش باد غم ساکن زندان دل",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "ای شه والاگهر بنده کمتر جلال",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پروردگار بزرگ، من بنده‌ای ناچیز هستم که درد و رنج قلبم را به خاطر تو و به نیت تو به پیشگاه تو آورده‌ام."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "خون دل آورده است پیش تو بر خوان دل",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "سیل جفای سپهر کرد دلم را خراب",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آرزو دارم که دل ویران و خراب من را که به خاطر سختی‌های زندگی آسیب دیده، دوباره آباد کنی و به آن زندگی و سرزندگی ببخشی."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "دل ده و معمور کن خانه ویران دل",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "دارم از اندوه دهر بی سر و سامان دلی",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل من اندوهی وجود دارد که ناشی از مشکلات و بی‌ثباتی‌های زندگی است. حالا تو می‌توانی وضعیت احساسی من را با توجه به شرایط نامناسب و آشفته‌ام بسنجی."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "حال من اندازه کن از سر و سامان دل",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "تو ز سر مرحمت بر دلم آبی بزن",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خواهش می‌کنم با نیکی و محبت بر دل من برس، وگرنه آتش عشق و اشتیاق درونم را خواهد سوزاند."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "ورنه بسوزد مرا آتش پنهان دل",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "سهل مدان نظم من زانکه بسش نکته هست",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نظم من را ساده نپندار، زیرا در آن نکات زیادی نهفته است. همچون مرواریدی از دریای جان و گوهرهایی از دل که ارزشمند و دارای عمق هستند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "لؤلؤیی از بحر جان گوهری از کان دل",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "گوهر نظم مرا جوهرییی در خور است",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این عبارت به این معناست که من شعری پرارزش دارم که لایق توجه و اهمیت است، و این شعر می‌تواند احساسات عمیق و گرانبهایی را از دل بیرون بکشد. "
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "تا که برآرد گهر زین گهرافشان دل",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "تا که به میدان دهر دلشدگان را بود",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به میدان زندگی، دل‌های عاشق را زلف‌های زیبا مانند دام‌هایی می‌کشاند که محل جولان احساسات و عشق است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "زلف کمند بتان موضع جولان دل",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "تا متزلزل شود طارم ایوان جان",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که پایه‌های روح و جانم به لرزه درآید و تمامی اجزای دل و احساساتم دچار تغییر و تحول شوند."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "تا متخلّل شود جمله ارکان دل",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "باد سر کوی تو منزل و مأوای جان",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد، سرِ کوی تو را به عنوان آرامگاه و پناهگاه جان من انتخاب کرده است و من با خم گیسوی تو، بر پیمان دلم بیعت کرده‌ام."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "با خم گیسوی تو بیعت و پیمان دل",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "تا فلک و آفتاب هست چو چوگان و گوی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که آسمان و خورشید وجود دارند، تو همواره باید مانند گوی در میدان عشق و دل خود خوشبخت و شاداب باشی."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "گوی مراد تو باد در خم چوگان دل",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "باد دل دشمنت مکمن طوفان غم",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نسیم دل دشمن تو مانند طوفانی است که او را از نظر جسم و روح غرق حزن و اندوه کرده است."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "هم تن و هم جان او غرقه طوفان دل",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    }
+  ]
+}

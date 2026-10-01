@@ -1,0 +1,176 @@
+{
+  "Id": 86950,
+  "CatId": 2288,
+  "Title": "شمارهٔ  ۶۴ - غزلی راجع به کلنل محمد تقی خان",
+  "FullTitle": "عارف قزوینی » دیوان اشعار » غزل‌ها » شمارهٔ  ۶۴ - غزلی راجع به کلنل محمد تقی خان",
+  "FullUrl": "/aref/divan/ghazalha/sh64",
+  "RhymeLetters": "وش",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به خونخواهی سیاوش اشاره می‌کند و از عشق به ایران و تاثیر آن خون بر روح ایرانیان سخن می‌گوید. او به تبعات قتل سیاوش و فراموشی این واقعه از سوی مردم اشاره می‌کند و می‌گوید که اگر نسبت به خون او بی‌توجهی شود، ایران در غم و اندوه فرو خواهد رفت. همچنین به نیکی‌ها و شرافت سیاوش اشاره و توضیح می‌دهد که بعد از او، دلاوری و شجاعت در این سرزمین کم‌رنگ شده است. در نهایت، شاعر به یادبود سیاوش و تاثیر مرگ او روی دیگران اشاره می‌کند و می‌گوید که یاد و عشق او در دل‌ها و افکار انسان‌ها زنده است.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وش",
+      "PlainText": "زنده به خون خواهی ات هزار سیاووش\r\nگردد از آن قطره خون که از تو زند جوش\r\nعشق به ایران به خون کشیدت و این خون\r\nکی کند ایرانی ار کس است فراموش\r\nدارد اگر پاس قدر خون تو زیبد\r\nگردد ایران هزار سال سیه پوش\r\nهمسری نادرت کشاند به جایی\r\nکار که تا نادرت کشید در آغوش\r\nاز پی کسب شرف کشید شرافت\r\nتا نفس آخر از تو غاشیه بر دوش\r\nشعله شمع دلاوری و رشادت\r\nگشت در این مملکت ز بعد تو خاموش\r\nجامه ننگین لکه دار به تن کرد\r\nدوخت هر آن بی شرف به قتل تو پاپوش\r\nسر سر خود به خاک بردی و برداشت\r\nاز سر و سر تو نبش قبر تو سرپوش\r\nقبر تو گر نبش شد چه باک به یادت\r\nریخته در مغزها مجسمه هوش\r\nمست شد از عشق گل به نغمه درآمد\r\nبلبل و عارف ز داغ مرگ تو خاموش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنده به خون‌خواهی‌ات هزار سیاووش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردد از آن قطره خون که از تو زند جوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق به ایران به خون کشیدت و این خون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی کند ایرانی ار کس است فراموش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدارد اگر پاس قدر خون تو زیبد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردد ایران هزار سال سیه‌پوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمسری نادرت کشاند به جایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار که تا نادرت کشید در آغوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پی کسب شرف کشید شرافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا نفس آخر از تو غاشیه بر دوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشعلهٔ شمع دلاوری و رشادت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشت در این مملکت ز بعد تو خاموش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجامهٔ ننگین لکه‌دار به تن کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوخت هر آن بی‌شرف به قتل تو پاپوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر سر خود به خاک بردی و برداشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سر و سر تو نبش قبر تو سرپوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقبر تو گر نبش شد چه باک به یادت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eریخته در مغزها مجسمهٔ هوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمست شد از عشق گل به نغمه درآمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلبل، و عارف ز داغ مرگ تو خاموش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زنده به خون‌خواهی‌ات هزار سیاووش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای انتقام تو، هزاران سیاوش به وجود می‌آیند از آن قطره خونی که از تو به جوش درمی‌آید."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گردد از آن قطره خون که از تو زند جوش",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عشق به ایران به خون کشیدت و این خون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق به ایران تو را به مرز قربانی شدن کشانده و چه کسی می‌تواند فراموش کند که این خون، نشانه‌ای از عشق و وفاداری ایرانیان است؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کی کند ایرانی ار کس است فراموش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "دارد اگر پاس قدر خون تو زیبد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر پاس‌دار ارزش خون تو باشند، ایران هزار سال لباس مشکی به تن خواهد کرد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گردد ایران هزار سال سیه‌پوش",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "همسری نادرت کشاند به جایی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همسری یکتای تو را به جایی برد که در آغوش تو لحظه‌ای متفاوت و خاص به وجود آمد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کار که تا نادرت کشید در آغوش",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از پی کسب شرف کشید شرافت",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای دستیابی به مقام والای شرافت، تلاش و کوشش فراوانی کرده و همواره زحمت کشیده‌ای تا آخرین نفس خود. این تلاش و سخت‌کوشی را همیشه بر دوش خود حس کرده‌ای."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "تا نفس آخر از تو غاشیه بر دوش",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "شعلهٔ شمع دلاوری و رشادت",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شعلهٔ شمع به نماد شجاعت و دلیری تبدیل شده و پس از رفتن تو، در این سرزمین خاموش شده است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "گشت در این مملکت ز بعد تو خاموش",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "جامهٔ ننگین لکه‌دار به تن کرد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انسانی بی‌ربط و بی‌شرافت برای تو تله‌ای درست کرده است و لباس ننگین و لکه‌دار بر تن کرده است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "دوخت هر آن بی‌شرف به قتل تو پاپوش",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "سر سر خود به خاک بردی و برداشت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سر خود را به خاک سپردی و پس از فوت، دیگران هم برای تو سنگ مزار قرار دادند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "از سر و سر تو نبش قبر تو سرپوش",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "قبر تو گر نبش شد چه باک به یادت",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر قبر تو را بشکافند، نگران نباش، زیرا یاد تو در ذهن‌ها به شکل مجسمه‌ای از هوش و یادآوری شکل گرفته است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "ریخته در مغزها مجسمهٔ هوش",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "مست شد از عشق گل به نغمه درآمد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل به خاطر عشقش به مستی دچار شده و در این حال، بلبل به سرود خواندن پرداخته است، اما عارف به خاطر درد فقدان تو، از بیان کردن احساساتش ناتوان و خاموش مانده است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "بلبل، و عارف ز داغ مرگ تو خاموش",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ]
+}

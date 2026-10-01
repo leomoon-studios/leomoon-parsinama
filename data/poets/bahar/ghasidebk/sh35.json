@@ -1,0 +1,285 @@
+{
+  "Id": 51047,
+  "CatId": 1831,
+  "Title": "شمارهٔ ۳۵ - آواز خدا",
+  "FullTitle": "ملک‌الشعرا بهار » قصاید » شمارهٔ ۳۵ - آواز خدا",
+  "FullUrl": "/bahar/ghasidebk/sh35",
+  "RhymeLetters": "است",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این اشعار، شاعر به توصیف وضعیت عاشقانه و دردهای ناشی از آن می‌پردازد. او به زلف محبوب اشاره می‌کند که باعث تنهایی و رنج اوست. همچنین از مخاطب خود می‌خواهد که درباره مشکلات اجتماعی و جنگ‌ها در سرزمین ایران آگاهی بیشتری پیدا کند. شاعر، با ابراز احساسات شدید، بر ضعف و ناتوانی جامعه تأکید می‌کند و این‌که چگونه انسان‌ها در برابر مشکلات و رنج‌ها باید واکنش نشان دهند. همچنین اشاره می‌کند که درگیری‌ها و اختلافات میان کشورها و قدرت‌ها تنها به بدبختی بیشتر می‌انجامد و در نهایت از همه می‌خواهد که به حقیقت و عمق رنج‌ها نیندیشند مگر آن‌که خود تجربه‌اش کرده باشند.",
+  "Metre": {
+    "Id": 35,
+    "Rhythm": "مستفعلتن مستفعلتن"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "هر حلقه که در آن زلف دوتاست\r\nدام دگری بهر دل ماست\r\nبیماری ماست زان چشم دژم\r\nتنهایی ما زآن زلف دوتاست\r\nباز این چه بلاست  ای ترک پسر\r\nای ترک پسر باز این چه بلاست\r\nعرضم به تو بود از دست رقیب\r\nاز دست تو عرض  پیش که رواست\r\nیار آمد و زلف افشانده به دوش\r\nدیوانه شدیم زنجیر کجاست\r\nدیوانه شوید بیگانه شوید\r\nکاین عقل و خرد دام عقلاست\r\nیا علم و عمل یا شور و جنون\r\nکز این دو برون رنج است و عناست\r\nای خلق خدای آواز کنید\r\nکآواز عموم  آواز خداست\r\nاین کشور کیست در دست عدو\r\nاین کشور ماست  این کشور ماست\r\nما را بشکست پرخاش ملوک\r\nپرخاش ملوک مرگ فقراست\r\nاین یک به شمال  آن یک به جنوب\r\nاین یک به جفا آن یک به ملاست\r\nدر مغرب ملک جنگ است و جدال\r\nدر مشرق ملک قتل است و ثفاست\r\nدر خطه  فارس جوش است و خروش\r\nدر ملک عراق شور است و نواست\r\nایران ضعیف  میران جبان\r\nخصمان جسور پیش آمده راست\r\nنی نیست چنین  کایران پس از این\r\nجان در نظرش بی قدر و بهاست\r\nاز جان چو گذشت انسان ضعیف\r\nانجام دهد هر کار که خواست\r\nبر درد بهار کس پی نبرد\r\nآن کس که چشید داند که چه هاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر حلقه که در آن زلف دوتاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدام دگری بهر دل ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیماریِ ماست زان چشمِ دُژَم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتنهاییِ ما زآن زلفِ دوتاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز این چه بلاست‌؟ ای تُرک پسر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای تُرک پسر! باز این چه بلاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعرضم به تو بود از دست رقیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دست تو عرض‌، پیش که رواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیار آمد و زلف افشانده به دوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیوانه شدیم زنجیر کجاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیوانه شوید، بیگانه شوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین عقل و خرد دام عقلاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا علم و عمل یا شور و جنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز این دو برون رنج است و عناست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خلق خدای آواز کنید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآواز عموم‌، آواز خداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین کشور کیست در دست عدو؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین کشور ماست‌، این کشور ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما را بشکست پرخاش ملوک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرخاش ملوک مرگ فقراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین یک به شمال‌، آن یک به جنوب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین یک به جفا، آن یک به ملاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مغرب ملک جنگ است و جدال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر مشرق ملک قتل است و ثفاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خطهٔ‌ فارس جوش است و خروش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ملک عراق شور است و نواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایران ضعیف‌، میران جبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخصمان جسور پیش آمده راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی نیست چنین‌، کایران پس از این\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان در نظرش بی‌قدر و بهاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز جان چو گذشت انسان ضعیف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eانجام دهد هر کار که خواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر درد بهار کس پی نبرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن کس که چشید داند که چه‌هاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 17
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر حلقه که در آن زلف دوتاست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر بار که در گیسوی او حلقه‌ای وجود دارد، دام دیگری برای دل ما فراهم می‌شود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دام دگری بهر دل ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بیماریِ ماست زان چشمِ دُژَم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیماری ما به خاطر نگاه خیره و غمگین است و تنهایی‌مان نیز به خاطر آن زلف‌های دوش‌دیدار است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تنهاییِ ما زآن زلفِ دوتاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "باز این چه بلاست‌؟ ای تُرک پسر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این چه مصیبت و دردسری است؟ ای پسر ترک، ای پسر ترک! این بار چه اتفاقی افتاده است؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ای تُرک پسر! باز این چه بلاست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عرضم به تو بود از دست رقیب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به تو می‌گویم که از دست رقیب رنج می‌برم، ولی از تو هم به دلایل مختلفی آسیب دیده‌ام. حالا باید بگویم که این موضوع را با که در میان بگذارم؟"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "از دست تو عرض‌، پیش که رواست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یار آمد و زلف افشانده به دوش",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست آمد و موهایش را به دوش انداخت. ما دیوانه شدیم و حالا نمی‌دانیم زنجیر کجاست."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دیوانه شدیم زنجیر کجاست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دیوانه شوید، بیگانه شوید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دیوانه و مجنون شوید و از خودتان بی‌خبر باشید، بهتر است؛ زیرا عقل و درک انسان، او را در قید و بند می‌گذارد و مانع از آزادی واقعی‌اش می‌شود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "کاین عقل و خرد دام عقلاست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "یا علم و عمل یا شور و جنون",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یا باید علم و عمل داشته باشی، یا شور و عشق، چون اگر از این دو خارج شوی، دچار رنج و مشکل خواهی شد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "کز این دو برون رنج است و عناست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ای خلق خدای آواز کنید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای مردم، ندای خود را بلند کنید که صدای همگان، صدای خداوند است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "کآواز عموم‌، آواز خداست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "این کشور کیست در دست عدو؟",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این سرزمین کجاست که در دست دشمن است؟ این سرزمین متعلق به ماست، این سرزمین متعلق به ماست."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "این کشور ماست‌، این کشور ماست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ما را بشکست پرخاش ملوک",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خشم و حُبِ پادشاهان باعث نابودی و آسیب به مردم ضعیف می‌شود."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "پرخاش ملوک مرگ فقراست",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "این یک به شمال‌، آن یک به جنوب",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی به سمت شمال می‌رود، دیگری به سمت جنوب. یکی به سخت‌گیری و بی‌رحمی مشغول است، و دیگری به نرم‌خویی و ملایمت."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "این یک به جفا، آن یک به ملاست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "در مغرب ملک جنگ است و جدال",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در غرب کشور، درگیری و جنگ وجود دارد و در شرق، قتل و خونریزی فراوان است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "در مشرق ملک قتل است و ثفاست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "در خطهٔ‌ فارس جوش است و خروش",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در سرزمین فارس، انرژی و هیجان زیادی وجود دارد و در عراق، فضا پر از شور و آواز است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "در ملک عراق شور است و نواست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "ایران ضعیف‌، میران جبان",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ایران که ضعیف شده است، باعث شده که دشمنان شجاع و جسور به جلو بیایند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "خصمان جسور پیش آمده راست",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "نی نیست چنین‌، کایران پس از این",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این فردی که از نی وجود دارد، این‌گونه نیست که پس از این، جان ایرانیان در نظرش ارزشی نداشته باشد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "جان در نظرش بی‌قدر و بهاست",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "از جان چو گذشت انسان ضعیف",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی انسان از حد تحمل خود فراتر برود و به مرحله‌ای برسد که جانش را در خطر بیندازد، قادر است هر کاری که بخواهد انجام دهد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "انجام دهد هر کار که خواست",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "بر درد بهار کس پی نبرد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که طعم بهار را چشیده، می‌داند که درد و سختی آن چه معنایی دارد و دیگران نمی‌توانند عمق این تجربه را درک کنند."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "آن کس که چشید داند که چه‌هاست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    }
+  ]
+}

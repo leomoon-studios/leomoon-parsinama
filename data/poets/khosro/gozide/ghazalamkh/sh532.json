@@ -1,0 +1,165 @@
+{
+  "Id": 61114,
+  "CatId": 1858,
+  "Title": "شمارهٔ ۵۳۲",
+  "FullTitle": "امیرخسرو دهلوی » دیوان اشعار » غزلیات » شمارهٔ ۵۳۲",
+  "FullUrl": "/khosro/gozide/ghazalamkh/sh532",
+  "RhymeLetters": "ابود",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بیان احساسات عمیق و غمناک عاشق نسبت به معشوق می‌پردازد. شاعر از جدایی و وفای معشوق ناله می‌کند و به یاد لحظات خوشی می‌افتد که با هم داشته‌اند. بلبل، که سمبل عاشق و عاشقی است، از بی‌وفایی گل شکایت می‌کند و غم خود را در این جدایی ابراز می‌دارد. شاعر همچنین به زاهدانی که در پی پاکی و پارسایی هستند، می‌گوید که چگونه می‌توانند بی‌احساس بمانند در حالی که عشق و احساسات عمیق در دل دارند. در نهایت، شاعر از غم و سختی‌های عشق و دوستی یاد می‌کند و به این مسئله اشاره می‌کند که نباید رنجش‌های خود را بی‌دلیل بیان کنند.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابود",
+      "PlainText": "برفت آن دل که با صبر آشنا بود\r\nچه می گویم نمی دانم کجا بود\r\nهمه شب دیده ام خفتن نداده ست\r\nکه بوی گلرخ من با صبا بود\r\nازان بر گل زند فریاد بلبل\r\nکه او سالی تمام از گل جدا بود\r\nمنال ای بلبل از بدعهدی گل\r\nکه تا بوده ست خوبی بی وفا بود\r\nز ما یادش دهی گه گاه ای باد\r\nگذشت آن وقت کاورا یاد ما بود\r\nغنیمت دان وصال ای همنشینش\r\nخوش آن وقتی که آن دولت مرا بود\r\nتو ای زاهد که اندر کوی اویی\r\nچگونه می توانی پارسا بود\r\nز در بیرون مران بیگانه وارم\r\nکه این بیگانه وقتی آشنا بود\r\nغمت بس بود بد گفتن چه حاجت\r\nترا گر کشتن خسرو رضا بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرفت آن دل که با صبر آشنا بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه می گویم، نمی دانم کجا بود؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه شب دیده ام خفتن نداده ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بوی گلرخ من با صبا بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازان بر گل زند فریاد بلبل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه او سالی تمام از گل جدا بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنال، ای بلبل، از بدعهدی گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تا بوده ست خوبی، بی وفا بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز ما یادش دهی گه گاه، ای باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگذشت آن وقت کاورا یاد ما بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغنیمت دان وصال، ای همنشینش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش آن وقتی که آن دولت مرا بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو، ای زاهد که اندر کوی اویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچگونه می توانی پارسا بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز در بیرون مران بیگانه وارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه این بیگانه وقتی آشنا بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغمت بس بود، بد گفتن چه حاجت؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترا گر کشتن خسرو رضا بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "برفت آن دل که با صبر آشنا بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من رفت و دیگر خبری از آن نیست. نمی‌دانم کجا رفته و چه بر سرش آمده است، در حالی که روزگاری با صبر و آرامش آشنا بود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چه می گویم، نمی دانم کجا بود؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همه شب دیده ام خفتن نداده ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر شب که خواب به چشمانم نمی‌آید، به خاطر آن است که بوی دل‌انگیز چهره محبوبم با نسیم صبحگاه در خاطرم است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که بوی گلرخ من با صبا بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ازان بر گل زند فریاد بلبل",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بلبل از شادابی گل فریاد می‌زند، چون او یک سال تمام از گل دور بوده است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که او سالی تمام از گل جدا بود",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "منال، ای بلبل، از بدعهدی گل",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای بلبل، از بی‌وفایی گل گله نکن، زیرا از دیرباز، زیبایی‌ها همیشه ناامید کننده بوده‌اند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که تا بوده ست خوبی، بی وفا بود",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز ما یادش دهی گه گاه، ای باد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای باد، گاهی او را به یاد ما بینداز، که آن زمان او هم به یاد ما بود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گذشت آن وقت کاورا یاد ما بود",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "غنیمت دان وصال، ای همنشینش",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از بودن در کنار محبوب لذت ببر، ای دوست، چون در آن زمان که من به این خوشبختی دست یافتم، قدر آن را نمی‌دانستم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خوش آن وقتی که آن دولت مرا بود",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "تو، ای زاهد که اندر کوی اویی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای زاهد! چگونه می‌توانی پارسا و عفیف باشی در حالی که در جایی زندگی می‌کنی که او هست؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چگونه می توانی پارسا بود",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ز در بیرون مران بیگانه وارم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از در بیرون نراند مَن را، زیرا که من در ابتدا بیگانه بودم، اما اکنون که شناخته شدم، دیگر بیگانه نیستم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "که این بیگانه وقتی آشنا بود",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "غمت بس بود، بد گفتن چه حاجت؟",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم تو برایم کافی است؛ نیازی به بدگویی نیست. اگر کسی تو را با کشتن از میان برد، این برای من کمال رضایت خواهد بود."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "ترا گر کشتن خسرو رضا بود",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

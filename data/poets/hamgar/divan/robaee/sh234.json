@@ -1,0 +1,60 @@
+{
+  "Id": 120950,
+  "CatId": 2783,
+  "Title": "شمارهٔ ۲۳۴",
+  "FullTitle": "مجد همگر » دیوان اشعار » رباعیات » شمارهٔ ۲۳۴",
+  "FullUrl": "/hamgar/divan/robaee/sh234",
+  "RhymeLetters": "افت",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به وصف زیبایی‌های محبوبش می‌پردازد و از تحولی که در دوستی با او به وجود آمده، سخن می‌گوید. او به تضادهایی که در روابطش وجود دارد اشاره کرده و می‌گوید که دست‌یابی به خوشی و رضایت از این دوستی، برایش سخت و مشکل شده است.در نهایت، شاعر از عواطفی متضاد و دشوار در این رابطه سخن می‌گوید.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "افت",
+      "PlainText": "سرویست قدش ولیک روی از من تافت\r\nماهیست رخش ولیک در گلخن تافت\r\nدر دوستی اش به کام دشمن گشتم\r\nوین می کشدم که کام از او دشمن یافت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرویست قدش ولیک روی از من تافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماهیست رخش ولیک در گلخن تافت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دوستی‌اش به کام دشمن گشتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین می‌کُشَدَم که کام از او دشمن یافت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرویست قدش ولیک روی از من تافت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قد بلندی دارد، اما چهره‌اش از من می‌درخشد. مانند ماهی که در آب و نور خود را نشان می‌دهد، چهره‌اش هم در دنیای تاریک جلوه‌گری می‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ماهیست رخش ولیک در گلخن تافت",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در دوستی‌اش به کام دشمن گشتم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دوستی او، به جای لذت و خوشی، دچار دردسر و مشکل شدم و این مسأله را می‌کشم که باعث شده او از این وضعیت بهره‌مند شود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وین می‌کُشَدَم که کام از او دشمن یافت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

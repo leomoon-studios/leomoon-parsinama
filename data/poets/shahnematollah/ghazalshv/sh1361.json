@@ -1,0 +1,135 @@
+{
+  "Id": 47336,
+  "CatId": 1724,
+  "Title": "غزل شمارهٔ ۱۳۶۱",
+  "FullTitle": "شاه نعمت‌الله ولی » غزلیات » غزل شمارهٔ ۱۳۶۱",
+  "FullUrl": "/shahnematollah/ghazalshv/sh1361",
+  "RhymeLetters": "و",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره تمایل و آرزوی بشر برای دیدن و شناختن حقیقتی عمیق‌تر است که او را در یک واقعیت بالاتر غرق کرده است. شاعر به توصیف حالی می‌پردازد که در آن عقل و فهم بشری ناتوان از درک وجود و نور الهی هستند. او دعوت می‌کند تا در این دریای وجود با هم نشسته و از خود و گرد هستی رها شوند. همچنین به رابطه عاشقانه و وصل با موجودی والا اشاره می‌کند که زلف او (محبت و سیادت) بر سر مستان می‌بارد و آن‌ها را به صفی از صاحبدلان تبدیل می‌کند. در کل، شعر به تلاشی برای غرق شدن در عشق و حقیقتی فراتر از هستی می‌پردازد.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "و",
+      "PlainText": "این و آن در آرزوی او و او\r\nبا همه یک رو نشسته روبرو\r\nغیر نور او ندیده چشم ما\r\nگرچه گشته گر به عالم کو به کو\r\nغرقه دریای بی پایان شدیم\r\nعین ما از ما در این دریا بجو\r\nعقل مخمور است و ما مست وخراب\r\nگفته مخمور با مستان مگو\r\nیک زمان با ما درین دریا نشین\r\nگرد هستی را چو ما از خود بشو\r\nسهل باشد هر که او بیند به خود\r\nما نمی بینیم جز او را به او\r\nسیدم زلف سیادت برفشاند\r\nمجمع صاحبدلان شد مو به مو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین و آن در آرزوی او و او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا همه یک رو نشسته روبرو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر نور او ندیده چشم ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه گشته گر به عالم کو به کو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغرقهٔ دریای بی پایان شدیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعین ما از ما در این دریا بجو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل مخمور است و ما مست وخراب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتهٔ مخمور با مستان مگو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک زمان با ما درین دریا نشین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد هستی را چو ما از خود بشو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسهل باشد هر که او بیند به خود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما نمی بینیم جز او را به او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیدم زلف سیادت برفشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمجمع صاحبدلان شد مو به مو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "این و آن در آرزوی او و او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معنی است که دیگران در آرزوی دیدن یا نزدیک شدن به او هستند، در حالی که خود او با تمامی آنها به صورت مستقیم و رو در رو نشسته است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "با همه یک رو نشسته روبرو",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "غیر نور او ندیده چشم ما",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم ما جز نور او را نمی‌بیند، حتی اگر در هر گوشه و کنار دنیا جستجو کنیم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گرچه گشته گر به عالم کو به کو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "غرقهٔ دریای بی پایان شدیم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در دریای بی‌پایان غرق شده‌ایم، همچون خودمان که در این دریا به جستجوی خود می‌رویم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "عین ما از ما در این دریا بجو",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عقل مخمور است و ما مست وخراب",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل ما به حالت مستی و گیجی فرو رفته و خودمان نیز در حال سرخوشی و غفلت هستیم. پس نباید دربارهٔ احوال گیج و مست خود با دیگران صحبت کنیم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گفتهٔ مخمور با مستان مگو",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "یک زمان با ما درین دریا نشین",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدتی را با ما در این دریا زندگی کن و مانند ما، از خود و وجودت دور شو."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گرد هستی را چو ما از خود بشو",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "سهل باشد هر که او بیند به خود",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی می‌تواند به سادگی او را ببیند، اما ما فقط او را در سایه وجود خودمان می‌بینیم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ما نمی بینیم جز او را به او",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "سیدم زلف سیادت برفشاند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سیدم با زلفی به رنگ سیاه، زیبایی را همچون زمینی پوشیده‌شده از برف، بر دل‌های صاحبدلان افشانده است. این زلف، به‌گونه‌ای نرم و لطیف، روح و جان آنان را تحت تأثیر قرار می‌دهد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "مجمع صاحبدلان شد مو به مو",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

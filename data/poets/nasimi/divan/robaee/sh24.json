@@ -1,0 +1,60 @@
+{
+  "Id": 117627,
+  "CatId": 2714,
+  "Title": "شمارهٔ ۲۴",
+  "FullTitle": "نسیمی » دیوان اشعار فارسی » رباعیات » شمارهٔ ۲۴",
+  "FullUrl": "/nasimi/divan/robaee/sh24",
+  "RhymeLetters": "اگاهولیاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به عظمت و مقام ولی الهی اشاره دارد. شاعر می‌گوید که ولی خدا در سرزمین نعمت‌های الهی وجود دارد و با دل آگاه و نفوذ در رازهای الهی درک عمیقی از ذات خداوند دارد. به‌طور کلی، تأکید بر مقام معنوی و علم ولی است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اگاهولیاست",
+      "PlainText": "در مملکت فضل خدا شاه ولی است\r\nاز سر خدا با دل آگاه ولی است\r\nواقف ز رموز  لی مع الله  ولی است\r\nبی شک ز صفات ذات آگاه ولی است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر مملکت فضل خدا، شاه ولی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سر خدا با دل آگاه ولی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eواقف ز رموز « لی مع الله » ولی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی شک ز صفات ذات آگاه ولی است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "در مملکت فضل خدا، شاه ولی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در سرزمین نعمت‌های الهی، ولی‌عهد واقعی از جانب خداوند به حکمرانی می‌پردازد و با درک و آگاهی قلبی خود، این مسئولیت را بر عهده دارد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از سر خدا با دل آگاه ولی است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "واقف ز رموز « لی مع الله » ولی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن کس که به حقایق و نشانه‌های رابطه‌اش با خداوند آگاه است، به یقین از ویژگی‌های وجود او نیز مطلع است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی شک ز صفات ذات آگاه ولی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

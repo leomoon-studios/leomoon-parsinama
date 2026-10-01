@@ -1,0 +1,495 @@
+{
+  "Id": 41428,
+  "CatId": 1670,
+  "Title": "حکایت شمارهٔ ۴",
+  "FullTitle": "سعدی » گلستان » باب پنجم در عشق و جوانی » حکایت شمارهٔ ۴",
+  "FullUrl": "/saadi/golestan/gbab5/sh4",
+  "SourceName": "ویکی‌نبشته",
+  "SourceUrlSlug": "wikisource",
+  "PoemSummary": "سعدی خوش‌زبان در این حکایت بازهم از عشق و کیفیت حالات معشوق سخن میگوید. حکایتیست از جوانی عاشق که معشوقی دارد که وصال آن پرخطر و محال به نظر می‌آید. اما او برای دیدار و وصال معشوقش پافشاری بسیار میکند و پند و نصیحت دیگران در او اثری ندارد. بالاخره به معشوق خبر می‌دهند که جوانی برای دیدنت در میدان شهر بی‌تابی میکند. معشوق که پادشاه‌زاده‌ایست به سمت جوانِ عاشق حرکت میکند و جوان سر از پا نمیشناسد.\u00A0 اما هنگامی که دیدار حاصل میشود معشوق قادر به سخن‌گفتن نیست و نفسش میبرد و جان به حق تسلیم میکند.\u00A0",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رت",
+      "PlainText": "چو در چشم شاهد نیاید زرت\r\nزر و خاک یکسان نماید برت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو در چشمِ شاهد نیاید زرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزر و خاکْ یکسان نماید برت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "دوستان گو نصیحتم مکنید\r\nکه مرا دیده بر ارادت اوست\r\nجنگجویان به زور پنجه و کتف\r\nدشمنان را کشند و خوبان دوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوستان گو، نصیحتم مکنید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مرا دیده بر ارادتِ اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجنگجویان به زورِ پنجه و کتف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدشمنان را کُشند و خوبانْ دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ن",
+      "PlainText": "تو که در بند خویشتن باشی\r\nعشق باز دروغ زن باشی\r\nگر نشاید به دوست ره بردن\r\nشرط یاری است در طلب مردن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو که در بندِ خویشتن باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق‌بازِ دروغ‌زن باشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نشاید به دوست ره بردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرطِ یاری است در طلب مردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اید",
+      "PlainText": "دردا که طبیب صبر می فرماید\r\nوین نفس حریص را شکر می باید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردا که طبیبْ صبر می‌فرماید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین نفسِ حریص را شکَر می‌باید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یش",
+      "PlainText": "آن کس که مرا بکشت باز آمد پیش\r\nمانا که دلش بسوخت بر کشته خویش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن کس که مرا بکشت، باز آمد پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانا که دلش بسوخت بر کشتهٔ خویش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نباشی",
+      "PlainText": "تو که در بند خویشتن باشی\r\nعشق باز دروغ زن باشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو که در بندِ خویشتن باشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشق‌بازِ دروغ‌زن باشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ردن",
+      "PlainText": "گر نشاید به دوست ره بردن\r\nشرط یاری است در طلب مردن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نشاید به دوست ره بردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرطِ یاری است در طلب مردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انی",
+      "PlainText": "اگر خود هفت سبع از بر بخوانی\r\nچو آشفتی الف ب ت ندانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر خود هفت سَبْع از بر بخوانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو آشفتی الف ب ت ندانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اید",
+      "PlainText": "گر نشاید به دوست ره بردن\r\nشرط یاری است در طلب مردن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نشاید به دوست ره بردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرطِ یاری است در طلب مردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یرم",
+      "PlainText": "گر دست رسد که آستینش گیرم\r\nور نه بروم بر آستانش میرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دست رسد که آستینش گیرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نه، بروم بر آستانش میرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نبماند",
+      "PlainText": "عجب است با وجودت که وجود من بماند\r\nتو به گفتن اندر آیی و مرا سخن بماند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعجب است با وجودت که وجودِ من بمانَد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو به گفتن اندر آییّ و مرا سخن بماند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یرم",
+      "PlainText": "گر دست رسد که آستینش گیرم\r\nور نه بروم بر آستانش میرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دست رسد که آستینش گیرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نه، بروم بر آستانش میرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "عجباززندهکهچونجانبهدراوردسلیم",
+      "PlainText": "عجب از کشته نباشد به در خیمه دوست\r\nعجب از زنده که چون جان به در آورد سلیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعجب از کشته نباشد به درِ خیمهٔ دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعجب از زنده که چون جان به در آورد سَلیم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نباشد",
+      "PlainText": "تا تو را قدر خویشتن باشد\r\nپیش چشمت چه قدر من باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا تو را قدرِ خویشتن باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیشِ چشمت چه قدرِ من باشد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یرم",
+      "PlainText": "گر دست رسد که آستینش گیرم\r\nور نه بروم بر آستانش میرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دست رسد که آستینش گیرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور نه، بروم بر آستانش میرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اید",
+      "PlainText": "دردا که طبیب صبر می فرماید\r\nوین نفس حریص را شکر می باید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدردا که طبیبْ صبر می‌فرماید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین نفسِ حریص را شکَر می‌باید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "د",
+      "PlainText": "آن شنیدی که شاهدی به نهفت\r\nبا دل از دست رفته ای می گفت\r\nتا تو را قدر خویشتن باشد\r\nپیش چشمت چه قدر من باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن شنیدی که شاهدی به نهفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دل از دست رفته‌ای می‌گفت:\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا تو را قدرِ خویشتن باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیشِ چشمت چه قدرِ من باشد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 11,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فت",
+      "PlainText": "آن شنیدی که شاهدی به نهفت\r\nبا دل از دست رفته ای می گفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن شنیدی که شاهدی به نهفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا دل از دست رفته‌ای می‌گفت:\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "یکی را دل از دست رفته بود و ترکِ جان کرده و مَطْمَحِ نظرش جایی خطرناک و مَظنّهٔ‌ هلاک.",
+      "CoupletIndex": 0,
+      "CoupletSummary": "شخصی دل از کف داده بود و دست از حیات شسته، راه وصول به منظورش پرآسیب بود و در آن راه گمان مرگ و بیم نابودی می‌رفت."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Paragraph",
+      "Text": "نه لقمه‌ای که مصوّر شدی که به کام آید یا مرغی که به دام افتد.",
+      "CoupletIndex": 1,
+      "CoupletSummary": "آن طعمه نبود که فراچنگ شاید آورد و یا پرنده‌ای که اسیر توان کرد."
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چو در چشمِ شاهد نیاید زرت",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "چون در دیدهٔ یارِ زیباروی سیم و زر تو بهایی نیارد و با آن کامی نتوان یافت، آن مال به نظرِ تو با خاک برابر آید."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زر و خاکْ یکسان نماید برت",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Paragraph",
+      "Text": "باری، به نصیحتش گفتند: از این خیالِ مُحال تجنّب کن که خلقی هم بدین هوس که تو داری، اسیرند و پای در زنجیر.",
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: پس به او توصیه کردند که از این فکر باطل دست بردارد که افرادی مانند او به این آرزو گرفتارند و تحت فشار قرار دارند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Paragraph",
+      "Text": "بنالید و گفت:",
+      "CoupletIndex": 4,
+      "CoupletSummary": "نالید و گفت:"
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دوستان گو، نصیحتم مکنید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 1,
+      "CoupletSummary": "به یاران بگو که مرا پند مدهید که من به هواخواهی او چشم دوخته‌ام؛\u00A0"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که مرا دیده بر ارادتِ اوست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 1
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "جنگجویان به زورِ پنجه و کتف",
+      "CoupletIndex": 6,
+      "SectionIndex1": 1,
+      "CoupletSummary": "مردانِ پیکار به قوّتِ بازو دشمن را تباه کنند و زیبایان به نیرویِ عشق یاران را از پای در آورند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "دشمنان را کُشند و خوبانْ دوست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 1
+    },
+    {
+      "VOrder": 11,
+      "Position": "Paragraph",
+      "Text": "شرطِ مودّت نباشد به اندیشهٔ‌ جان، دل از مهرِ جانان برگرفتن.",
+      "CoupletIndex": 7,
+      "CoupletSummary": "خلافِ آیینِ دوستی است که به هوایِ جانْ دل از عشقِ یار بردارند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Right",
+      "Text": "تو که در بندِ خویشتن باشی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 2,
+      "SectionIndex2": 4,
+      "CoupletSummary": "تو که به خودپرستی گرفتاری، هوسبازی دروغگویی."
+    },
+    {
+      "VOrder": 13,
+      "Position": "Left",
+      "Text": "عشق‌بازِ دروغ‌زن باشی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 2,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 14,
+      "Position": "Right",
+      "Text": "گر نشاید به دوست ره بردن",
+      "CoupletIndex": 9,
+      "SectionIndex1": 2,
+      "SectionIndex2": 5,
+      "CoupletSummary": "اگر به معشوق نتوان رسید، شایسته و سزاوارِ دوستاری آن است که در جستجویش جان سپارند."
+    },
+    {
+      "VOrder": 15,
+      "Position": "Left",
+      "Text": "شرطِ یاری است در طلب مردن",
+      "CoupletIndex": 9,
+      "SectionIndex1": 2,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 16,
+      "Position": "Right",
+      "Text": "گر دست رسد که آستینش گیرم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 8,
+      "SectionIndex2": 6,
+      "CoupletSummary": "اگر تواند بود که دامانِ وصلِ دوست به دست آرم [از بخت شُکر دارم] و اگر نه چندان در طریقِ عشق پویم که بر درگهش وداع حیات گویم."
+    },
+    {
+      "VOrder": 17,
+      "Position": "Left",
+      "Text": "ور نه، بروم بر آستانش میرم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 8,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 18,
+      "Position": "Paragraph",
+      "Text": "متعلّقان را که نظر در کارِ او بود و شفقت به روزگارِ او، پندش دادند و بندش نهادند و سودی نکرد.",
+      "CoupletIndex": 11,
+      "CoupletSummary": "پیوستگان و خویشاوندان که حال و کارش می‌دیدند و دلشان بر عمرِ تباه و روزِ سیاهِ او می‌سوخت، وی را اندرز دادند و سپس زنجیر بر پایش نهادند ولی فایده‌ای نداد."
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "دردا که طبیبْ صبر می‌فرماید",
+      "CoupletIndex": 12,
+      "SectionIndex1": 3,
+      "SectionIndex2": 9,
+      "CoupletSummary": "جای بسی رنج دل و تألمِ خاطر است که پزشک به شکیب و پرهیز (یا داروی تلخ) دستور می‌دهد ولی طبیعتِ آزمند را شکَر بایسته و لازم است. (یعنی شکر می‌خواهد)"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "وین نفسِ حریص را شکَر می‌باید",
+      "CoupletIndex": 12,
+      "SectionIndex1": 3,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "آن شنیدی که شاهدی به نهفت",
+      "CoupletIndex": 13,
+      "SectionIndex1": 10,
+      "SectionIndex2": 11,
+      "CoupletSummary": "این سخن به گوشَت رسیده است که دلبری زیباروی در نهان با دلباخته‌ای می‌گفت:"
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "با دل از دست رفته‌ای می‌گفت:",
+      "CoupletIndex": 13,
+      "SectionIndex1": 10,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "تا تو را قدرِ خویشتن باشد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 10,
+      "SectionIndex2": 7,
+      "CoupletSummary": "تا تو به خویشتن پرداخته و دست از هستی نشُسته‌ای مرا در نظرِ تو قدر و بهایی نباشد و به حقیقت عشق نتوانی رسید و جمال مرا چنانکه باید نتوانی دید."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "پیشِ چشمت چه قدرِ من باشد؟",
+      "CoupletIndex": 14,
+      "SectionIndex1": 10,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 25,
+      "Position": "Paragraph",
+      "Text": "آورده‌اند که مر آن پادشه‌زاده که مملوحِ نظر او بود خبر کردند که جوانی بر سرِ این میدان مداومت می‌نماید، خوش‌طبع و شیرین‌زبان و سخن‌هایِ لطیف می‌گوید و نکته‌هایِ بَدیع از او می‌شنوند و چنین معلوم همی‌شود که دل‌آشفته است و شوری در سر دارد.",
+      "CoupletIndex": 15,
+      "CoupletSummary": "به پادشاه‌زاده‌ای که مدنظر عاشق بود خبر دادند که جوانی در میدان شهر با پافشاری ایستاده است. خوش‌طبع و شیرین‌زبان است و سخن‌های لطیفی میگوید و دیگران نکته‌های تازه‌ای از او می‌شنوند. به نظر می‌آید که این جوان دل‌آشفته است و شوری در سر دارد!"
+    },
+    {
+      "VOrder": 26,
+      "Position": "Paragraph",
+      "Text": "پسر دانست که دل‌آویختهٔ‌ اوست و این گردِ بلا انگیختهٔ‌ او؛ مَرکب به جانبِ او راند. چون دید که نزدیکِ او عزم دارد، بگریست و گفت:",
+      "CoupletIndex": 16,
+      "CoupletSummary": "پسر دریافت که این شخص را به او تعلّقِ خاطری‌ست و این غبارِ فتنه را خود پراکنده است."
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "آن کس که مرا بکشت، باز آمد پیش",
+      "CoupletIndex": 17,
+      "SectionIndex1": 4,
+      "CoupletSummary": "آنکه مرا به تیغِ عشق هلاک ساخت دگر بار به نزدم بیامد، گویی که وی بر شهیدِ خود رحمت آورد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "مانا که دلش بسوخت بر کشتهٔ خویش",
+      "CoupletIndex": 17,
+      "SectionIndex1": 4
+    },
+    {
+      "VOrder": 29,
+      "Position": "Paragraph",
+      "Text": "چندان که ملاطفت کرد و پرسیدش از کجایی و چه نامی و چه صنعت دانی؟ در قَعرِ بَحرِ مودّت چنان غریق بود، که مجال نفس نداشت.",
+      "CoupletIndex": 18,
+      "CoupletSummary": "هر چند مهربانی نمود و از وی سوال کرد از کدام سرزمینی و چه نام داری و چه حرفه و کاری توانی، بدان سان غرقهٔ دریای عشق بود که فرصتِ دم زدن نیافت."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Right",
+      "Text": "اگر خود هفت سَبْع از بر بخوانی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 5,
+      "CoupletSummary": "اگر تمامِ (هفت هفتمِ) قرآن را از حفظ تلاوت توانی، چون دلت به شورشِ عشق پریشان شد از خواندنِ حروف الفبا هم فرو مانی.\u00A0"
+    },
+    {
+      "VOrder": 31,
+      "Position": "Left",
+      "Text": "چو آشفتی الف ب ت ندانی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 5
+    },
+    {
+      "VOrder": 32,
+      "Position": "Paragraph",
+      "Text": "گفتا: سخنی با من چرا نگویی که هم از حلقهٔ‌ درویشانم بلکه حلقه به گوشِ ایشانم؟",
+      "CoupletIndex": 20,
+      "CoupletSummary": "شاهزاده گفت: با من از چه سخن نمی‌گویی؟ که از جمعِ صوفیانم، نه، که غلامِ حلقه به گوش و چاکرِ زر خرید آنانم."
+    },
+    {
+      "VOrder": 33,
+      "Position": "Paragraph",
+      "Text": "آن گه به قوّتِ استیناسِ محبوب از میانِ تلاطمِ امواج محبّت سر برآورد و گفت:",
+      "CoupletIndex": 21,
+      "CoupletSummary": "آن وقت به نیروی انس و دلجوییِ یار از میانِ شوریدگی و برخوردِ موج‌های دریای عشق و دوستی سر برداشت و گفت:"
+    },
+    {
+      "VOrder": 34,
+      "Position": "Right",
+      "Text": "عجب است با وجودت که وجودِ من بمانَد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 6,
+      "CoupletSummary": "محال است که از هستیِ من نشانی بر جای مانَد، آنجا که تو باشی یا تو زبان به سخن گشایی و مرا مجالِ گفتار باشد."
+    },
+    {
+      "VOrder": 35,
+      "Position": "Left",
+      "Text": "تو به گفتن اندر آییّ و مرا سخن بماند",
+      "CoupletIndex": 22,
+      "SectionIndex1": 6
+    },
+    {
+      "VOrder": 36,
+      "Position": "Paragraph",
+      "Text": "این بگفت و نعره‌ای زد و جان به حقّ تسلیم کرد.",
+      "CoupletIndex": 23,
+      "CoupletSummary": "هوش مصنوعی: او این را گفت و فریادی کشید و جانش را به حقیقت سپرد."
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "عجب از کشته نباشد به درِ خیمهٔ دوست",
+      "CoupletIndex": 24,
+      "SectionIndex1": 7,
+      "CoupletSummary": "اگر دوست بر آستانِ خانهٔ دوست شهید افتد، شگفت نیست؛ شگفت آن است که یار به دیدارِ یار برسد و زنده مانَد و جان به سلامت بَرَد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "عجب از زنده که چون جان به در آورد سَلیم؟",
+      "CoupletIndex": 24,
+      "SectionIndex1": 7
+    }
+  ]
+}

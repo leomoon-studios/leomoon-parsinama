@@ -1,0 +1,101 @@
+{
+  "Id": 100965,
+  "CatId": 2530,
+  "Title": "شمارهٔ ۲۰۵",
+  "FullTitle": "سلیم تهرانی » دیوان اشعار » غزلیات » شمارهٔ ۲۰۵",
+  "FullUrl": "/salim/divan/ghazal/sh205",
+  "RhymeLetters": "امبست",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به زیبایی و محبت معشوق خود اشاره می‌کند. او احساس عشق و محبت عمیق خود را به معشوقش بیان می‌کند و او را به گلی زیبا تشبیه می‌کند که باعث شادی و زندگی در باغ است. همچنین، اشاراتی به درد و اندوه ناشی از دوری از معشوق دارد و به این نکته اشاره می‌کند که عشق، حتی در فقدان، همچنان بارور و زنده است. در پایان، شاعر به میهمانی بهاری که در کنار گل‌ها برگزار می‌شود، اشاره می‌کند که نشان‌دهنده زیبایی و شادی در عشق است.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انگلاست",
+      "PlainText": "دلم ز نسبت روی تو مهربان گل است\r\nچو عندلیب همه عمر مدح خوان گل است\r\nشکسته رنگ شود گل چو بیندش به چمن\r\nبهار عارض او باعث خزان گل است\r\nز دیدن تو درآید به ناله مرغ چمن\r\nچراغ حسن تو گویا ز دودمان گل است\r\nز فیض گریه ی مجنون همیشه لیلی را\r\nچو داغ لاله سیه خانه در میان گل است\r\nبه باغ می رود آن شاخ گل سلیم دگر\r\nبهار در چمن امروز میهمان گل است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلم ز نسبت روی تو مهربان گل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو عندلیب همه عمر مدح خوان گل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکسته رنگ شود گل چو بیندش به چمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهار عارض او باعث خزان گل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دیدن تو درآید به ناله مرغ چمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچراغ حسن تو گویا ز دودمان گل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز فیض گریه ی مجنون، همیشه لیلی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو داغ لاله، سیه خانه در میان گل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه باغ می رود آن شاخ گل سلیم، دگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهار در چمن امروز میهمان گل است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دلم ز نسبت روی تو مهربان گل است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من به زیبایی تو دلخوش است و مانند بلبل که همیشه در وصف گل می‌خواند، عمر خود را در ستایش تو سپری می‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چو عندلیب همه عمر مدح خوان گل است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شکسته رنگ شود گل چو بیندش به چمن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل وقتی در بهار به چمن می‌رسد و زیبایی چهره کسی را می‌بیند، دچار افسردگی و پژمردگی می‌شود. این زیبایی به نوعی باعث نابودی و زوال گل‌ها می‌گردد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بهار عارض او باعث خزان گل است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز دیدن تو درآید به ناله مرغ چمن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دیدن تو، پرنده چمن به ناله در می‌آید، گویی روشنی زیبایی تو از نژاد گل است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چراغ حسن تو گویا ز دودمان گل است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ز فیض گریه ی مجنون، همیشه لیلی را",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از اثر گریه و درد مجنون، لیلی همیشه همچون گلی سیاه در میان گل‌ها به نظر می‌رسد، گویی داغی عمیق بر دلش نشسته است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چو داغ لاله، سیه خانه در میان گل است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به باغ می رود آن شاخ گل سلیم، دگر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاخ گل سلیم به باغ می‌رود و بهاری دیگر در چمن، امروز میزبان گل‌هاست."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بهار در چمن امروز میهمان گل است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,947 @@
+{
+  "Id": 111307,
+  "CatId": 2627,
+  "Title": "بخش ۵۰ - زاری کردن شیرین در صبحدم و اجابت دعا",
+  "FullTitle": "سلیمی جرونی » شیرین و فرهاد » بخش ۵۰ - زاری کردن شیرین در صبحدم و اجابت دعا",
+  "FullUrl": "/jarooni/shirinofarhad/sh50",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره امید و جستجوی نور در تاریکی شب است. شاعر به مخاطب می‌گوید که اگر می‌خواهی صبحی روشن و آگاهانه داشته باشی، باید شب را به یاد‌کردن و عشق ورزیدن بگذرانید. در این شب تاریک، آب حیات و نور صبح می‌درخشد و باید از غم و ناامیدی فاصله بگیریم. هنگامی که صبح فرا می‌رسد، فرد باید با خداوند ارتباط برقرار کند و از خواب غفلت بیدار شود، استغفار کند و از گناهان روی بگرداند. \n\nشاعر به شرایط مختلف انسان‌ها اشاره می‌کند: مظلومان، گمراهان، مجروحان و دیگرانی که در رنج و محنت هستند، و دعا می‌کند که از این تاریکی‌ها رهایی پیدا کنند. او به شور و شوق عاشقان و درد دل کسانی که در انتظار دیدار محبوب‌اند، پرداخته و از خداوند روشنایی و رهایی را درخواست می‌کند. \n\nدر نهایت، شعر به تکرار نالیدنی ختم می‌شود که نشان‌دهنده‌ی درد و خواسته‌ی واقعی شاعر برای گریز از غم و دستیابی به روشنایی در زندگی است.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "اگر خواهی که یابی عالم صبح\r\nشبی کن روز بهر یک دم صبح\r\nشبی روز از در عشق و صباحی\r\nبه وصلش یا رب از هجران فلاحی\r\nدرون تیرگی آب حیات است\r\nچراغ صبح نور کاینات است\r\nمنال از شب که می باشد معین\r\nز بعد ظلمت شب صبح روشن\r\nچو مرغ شب شبی در ذکر کن روز\r\nسحر شمعی در آن ظلمت برافروز\r\nبه نور صبح شو دور از شب غم\r\nبرآ چون مهر و روشن ساز عالم\r\nخوش آن شبرو که می بیند کماهی\r\nبه نور صبح از مه تا به ماهی\r\nبه وقت صبح ذاکر شو که بی قیل\r\nبود ذرات در تسبیح و تهلیل\r\nچو صبح آید برو رو با خدا کن\r\nدمی از خواب غفلت چشم واکن\r\nکن استغفار و بگدار از مناهی\r\nکه بخشندت هر آن چیزی که خواهی\r\nدر آن انده شب شیرین چو شد روز\r\nبه بخت او برآمد صبح فیروز\r\nدلش شد همچو صبح از گرد شب پاک\r\nنهاد از خاکساری روی بر خاک\r\nزبان بگشاد و گفت از دل الهی\r\nبرون بر کشتی ام را زین تباهی\r\nبگیرم دست و بازم خر ز غرقاب\r\nکه در بحر غمم از سرگذشت آب\r\nبه سوز سینه مردان آگاه\r\nبه جاه و حشمت خاصان درگاه\r\nبه آه و ناله عشاق دلسوز\r\nبه مشتاقان دیدارت شب و روز\r\nبه مظلومان محنتها کشیده\r\nبه محرومان کام دل ندیده\r\nبه یک جا مانده بند و بلایت\r\nبه مجروحان زخم ابتلایت\r\nبه گمراهان از راه اوفتاده\r\nبه بی چشمان در چاه اوفتاده\r\nبه مهجوران کوی دردمندی\r\nبه محبوسان چاه مستمندی\r\nبه بیماران شب در تب گذشته\r\nبه ماتم دیدگان شب گذشته\r\nبه آب چشم طفلان بلاکش\r\nبه ضعف حال پیران جفاکش\r\nبه غمگینان بر سر خاک مانده\r\nز ماتمها گریبان چاک مانده\r\nبه قبض مفلسان اندر گه بام\r\nبه اندوه غریبان در دم شام\r\nبه غواصان دریای معانی\r\nبه سلطانان ملک بی نشانی\r\nبه تاج سروران ملک معنی\r\nبه نور رهبران دین و دنیی\r\nبه گنج سینه شاهان عاشق\r\nبه درویشی درویشان صادق\r\nبه سیاحان که بر هر کس نه پیداست\r\nبه جاسوسان دلها از چپ و راست\r\nبه زهاد و به عباد و به ارشاد\r\nبه ابدال و به اقطاب و به اوتاد\r\nبه سر جان تنهایان بی کس\r\nکه در این غم به فریاد دلم رس\r\nخلاصم بخش ازین درد جدایی\r\nوزین تاریکی ام ده روشنایی\r\nمگردان بیش ازین از غم ملولم\r\nقبولم کن اگر چه ناقبولم\r\nز زاریها که شیرین کرد آن شب\r\nبرآمد از فلک فریاد یا رب\r\nزد آن شب ناله چندان برزمانه\r\nکه آمد تیرش آخر برنشانه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر خواهی که یابی عالم صبح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشبی کن روز، بهر یک دم صبح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی روز از در عشق و صباحی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه وصلش یا رب از هجران فلاحی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرون تیرگی آب حیات است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچراغ صبح نور کاینات است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنال از شب که می باشد معین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بعد ظلمت شب، صبح روشن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو مرغ شب، شبی در ذکر کن روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسحر شمعی در آن ظلمت برافروز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نور صبح شو دور از شب غم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآ، چون مهر و روشن ساز عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آن شبرو که می بیند کماهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نور صبح از مه تا به ماهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه وقت صبح ذاکر شو که بی قیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود ذرات در تسبیح و تهلیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو صبح آید برو رو با خدا کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدمی از خواب غفلت چشم واکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکن استغفار و بگدار از مناهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بخشندت هر آن چیزی که خواهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آن انده شب شیرین چو شد روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه بخت او برآمد صبح فیروز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلش شد همچو صبح از گرد شب پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنهاد از خاکساری روی بر خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبان بگشاد و گفت از دل الهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرون بر، کشتی ام را زین تباهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگیرم دست و بازم خر ز غرقاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در بحر غمم از سرگذشت آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سوز سینه مردان آگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جاه و حشمت خاصان درگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آه و ناله عشاق دلسوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه مشتاقان دیدارت، شب و روز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه مظلومان محنتها کشیده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه محرومان کام دل ندیده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه یک جا مانده بند و بلایت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه مجروحان زخم ابتلایت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گمراهان از راه اوفتاده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه بی چشمان در چاه اوفتاده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه مهجوران کوی دردمندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه محبوسان چاه مستمندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بیماران شب در تب گذشته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه ماتم دیدگان شب گذشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آب چشم طفلان بلاکش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه ضعف حال پیران جفاکش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه غمگینان بر سر خاک مانده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز ماتمها گریبان چاک مانده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه قبض مفلسان اندر گه بام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه اندوه غریبان در دم شام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه غواصان دریای معانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سلطانان ملک بی نشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه تاج سروران ملک معنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نور رهبران دین و دنیی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گنج سینه شاهان عاشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه درویشی درویشان صادق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سیاحان که بر هر کس نه پیداست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جاسوسان دلها از چپ و راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زهاد و به عباد و به ارشاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه ابدال و به اقطاب و به اوتاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سر جان تنهایان بی کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در این غم به فریاد دلم رس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلاصم بخش ازین درد جدایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوزین تاریکی ام ده روشنایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگردان بیش ازین از غم ملولم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقبولم کن اگر چه ناقبولم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز زاریها که شیرین کرد آن شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآمد از فلک فریاد یا رب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزد آن شب ناله چندان برزمانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آمد تیرش آخر برنشانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 34
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مصبح",
+      "PlainText": "اگر خواهی که یابی عالم صبح\r\nشبی کن روز بهر یک دم صبح",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر خواهی که یابی عالم صبح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشبی کن روز، بهر یک دم صبح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "احی",
+      "PlainText": "شبی روز از در عشق و صباحی\r\nبه وصلش یا رب از هجران فلاحی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی روز از در عشق و صباحی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه وصلش یا رب از هجران فلاحی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اتاست",
+      "PlainText": "درون تیرگی آب حیات است\r\nچراغ صبح نور کاینات است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرون تیرگی آب حیات است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچراغ صبح نور کاینات است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "منال از شب که می باشد معین\r\nز بعد ظلمت شب صبح روشن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنال از شب که می باشد معین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بعد ظلمت شب، صبح روشن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "روز",
+      "PlainText": "چو مرغ شب شبی در ذکر کن روز\r\nسحر شمعی در آن ظلمت برافروز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو مرغ شب، شبی در ذکر کن روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسحر شمعی در آن ظلمت برافروز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "به نور صبح شو دور از شب غم\r\nبرآ چون مهر و روشن ساز عالم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نور صبح شو دور از شب غم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآ، چون مهر و روشن ساز عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ماهی",
+      "PlainText": "خوش آن شبرو که می بیند کماهی\r\nبه نور صبح از مه تا به ماهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش آن شبرو که می بیند کماهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نور صبح از مه تا به ماهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یل",
+      "PlainText": "به وقت صبح ذاکر شو که بی قیل\r\nبود ذرات در تسبیح و تهلیل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه وقت صبح ذاکر شو که بی قیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود ذرات در تسبیح و تهلیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اکن",
+      "PlainText": "چو صبح آید برو رو با خدا کن\r\nدمی از خواب غفلت چشم واکن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو صبح آید برو رو با خدا کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدمی از خواب غفلت چشم واکن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اهی",
+      "PlainText": "کن استغفار و بگدار از مناهی\r\nکه بخشندت هر آن چیزی که خواهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکن استغفار و بگدار از مناهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بخشندت هر آن چیزی که خواهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "روز",
+      "PlainText": "در آن انده شب شیرین چو شد روز\r\nبه بخت او برآمد صبح فیروز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر آن انده شب شیرین چو شد روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه بخت او برآمد صبح فیروز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اک",
+      "PlainText": "دلش شد همچو صبح از گرد شب پاک\r\nنهاد از خاکساری روی بر خاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلش شد همچو صبح از گرد شب پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنهاد از خاکساری روی بر خاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "هی",
+      "PlainText": "زبان بگشاد و گفت از دل الهی\r\nبرون بر کشتی ام را زین تباهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبان بگشاد و گفت از دل الهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرون بر، کشتی ام را زین تباهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "بگیرم دست و بازم خر ز غرقاب\r\nکه در بحر غمم از سرگذشت آب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگیرم دست و بازم خر ز غرقاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در بحر غمم از سرگذشت آب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "گاه",
+      "PlainText": "به سوز سینه مردان آگاه\r\nبه جاه و حشمت خاصان درگاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سوز سینه مردان آگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جاه و حشمت خاصان درگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وز",
+      "PlainText": "به آه و ناله عشاق دلسوز\r\nبه مشتاقان دیدارت شب و روز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آه و ناله عشاق دلسوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه مشتاقان دیدارت، شب و روز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یده",
+      "PlainText": "به مظلومان محنتها کشیده\r\nبه محرومان کام دل ندیده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه مظلومان محنتها کشیده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه محرومان کام دل ندیده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لایت",
+      "PlainText": "به یک جا مانده بند و بلایت\r\nبه مجروحان زخم ابتلایت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه یک جا مانده بند و بلایت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه مجروحان زخم ابتلایت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اهاوفتاده",
+      "PlainText": "به گمراهان از راه اوفتاده\r\nبه بی چشمان در چاه اوفتاده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گمراهان از راه اوفتاده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه بی چشمان در چاه اوفتاده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مندی",
+      "PlainText": "به مهجوران کوی دردمندی\r\nبه محبوسان چاه مستمندی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه مهجوران کوی دردمندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه محبوسان چاه مستمندی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "بگذشته",
+      "PlainText": "به بیماران شب در تب گذشته\r\nبه ماتم دیدگان شب گذشته",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بیماران شب در تب گذشته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه ماتم دیدگان شب گذشته\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اکش",
+      "PlainText": "به آب چشم طفلان بلاکش\r\nبه ضعف حال پیران جفاکش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه آب چشم طفلان بلاکش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه ضعف حال پیران جفاکش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اکمانده",
+      "PlainText": "به غمگینان بر سر خاک مانده\r\nز ماتمها گریبان چاک مانده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه غمگینان بر سر خاک مانده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز ماتمها گریبان چاک مانده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ام",
+      "PlainText": "به قبض مفلسان اندر گه بام\r\nبه اندوه غریبان در دم شام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه قبض مفلسان اندر گه بام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه اندوه غریبان در دم شام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انی",
+      "PlainText": "به غواصان دریای معانی\r\nبه سلطانان ملک بی نشانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه غواصان دریای معانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سلطانان ملک بی نشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ی",
+      "PlainText": "به تاج سروران ملک معنی\r\nبه نور رهبران دین و دنیی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه تاج سروران ملک معنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نور رهبران دین و دنیی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ق",
+      "PlainText": "به گنج سینه شاهان عاشق\r\nبه درویشی درویشان صادق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گنج سینه شاهان عاشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه درویشی درویشان صادق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 29,
+      "Number": 29,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "است",
+      "PlainText": "به سیاحان که بر هر کس نه پیداست\r\nبه جاسوسان دلها از چپ و راست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سیاحان که بر هر کس نه پیداست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جاسوسان دلها از چپ و راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 30,
+      "Number": 30,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اد",
+      "PlainText": "به زهاد و به عباد و به ارشاد\r\nبه ابدال و به اقطاب و به اوتاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زهاد و به عباد و به ارشاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه ابدال و به اقطاب و به اوتاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 31,
+      "Number": 31,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "س",
+      "PlainText": "به سر جان تنهایان بی کس\r\nکه در این غم به فریاد دلم رس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سر جان تنهایان بی کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در این غم به فریاد دلم رس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 32,
+      "Number": 32,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ایی",
+      "PlainText": "خلاصم بخش ازین درد جدایی\r\nوزین تاریکی ام ده روشنایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلاصم بخش ازین درد جدایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوزین تاریکی ام ده روشنایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 33,
+      "Number": 33,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ولم",
+      "PlainText": "مگردان بیش ازین از غم ملولم\r\nقبولم کن اگر چه ناقبولم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگردان بیش ازین از غم ملولم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقبولم کن اگر چه ناقبولم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 34,
+      "Number": 34,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ب",
+      "PlainText": "ز زاریها که شیرین کرد آن شب\r\nبرآمد از فلک فریاد یا رب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز زاریها که شیرین کرد آن شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرآمد از فلک فریاد یا رب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 35,
+      "Number": 35,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انه",
+      "PlainText": "زد آن شب ناله چندان برزمانه\r\nکه آمد تیرش آخر برنشانه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزد آن شب ناله چندان برزمانه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آمد تیرش آخر برنشانه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اگر خواهی که یابی عالم صبح",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی به راز و دانایی دست پیدا کنی، باید در شب تاریک به جستجوی حقیقت بپردازی تا در هر صبح، به نور و آگاهی برسید."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شبی کن روز، بهر یک دم صبح",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شبی روز از در عشق و صباحی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: شبی از راه عشق به او رسیدم و صبحی با وصالش خوشحال شدم. ای خدا، از دوری‌اش نجاتم بده."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به وصلش یا رب از هجران فلاحی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "درون تیرگی آب حیات است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در دل تاریکی آب، زندگی وجود دارد و نور صبح روشنایی تمامی موجودات را به ارمغان می‌آورد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چراغ صبح نور کاینات است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "منال از شب که می باشد معین",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: از شب ناامید نباش، زیرا پس از تاریکی‌های شب، صبحی روشن و امیدبخش خواهد بود."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ز بعد ظلمت شب، صبح روشن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چو مرغ شب، شبی در ذکر کن روز",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: مثل یک پرنده شب، شبی را به یاد خدا بگذران و در صبح زود، شمعی را در آن تاریکی روشن کن."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سحر شمعی در آن ظلمت برافروز",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "به نور صبح شو دور از شب غم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: به صبح روشن و خوشایند تبدیل شو و از شب‌های غم‌انگیز فاصله بگیر، مانند خورشید که جهان را روشنی می‌بخشد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "برآ، چون مهر و روشن ساز عالم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "خوش آن شبرو که می بیند کماهی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال کسی که در شب تار، مانند ماهی که در نور صبح می‌درخشد، پیشرفت و روشنایی را می‌بیند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "به نور صبح از مه تا به ماهی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "به وقت صبح ذاکر شو که بی قیل",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در صبحگاهان یاد خدا را فراموش نکن، چرا که تمام ذرات وجود در ذکر و ستایش او مشغولند و در آرامش هستند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "بود ذرات در تسبیح و تهلیل",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "چو صبح آید برو رو با خدا کن",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی صبح فرا می‌رسد، با خداوند صحبت کن و لحظه‌ای از خواب غفلت بیدار شو."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "دمی از خواب غفلت چشم واکن",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "کن استغفار و بگدار از مناهی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر از گناهان خود پشیمان شوی و از آن‌ها دست بکشی، خداوند هر آنچه را که می‌خواهی به تو عطا خواهد کرد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "که بخشندت هر آن چیزی که خواهی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "در آن انده شب شیرین چو شد روز",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در آن شب سخت و تلخ، هنگامی که روز روشن شد، شانس او به ظهور رسید و صبحی خوش به وجود آمد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "به بخت او برآمد صبح فیروز",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "دلش شد همچو صبح از گرد شب پاک",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: دل او مانند صبح گاهی صاف و روشن شد و از تیرگی شب رها گشت و به خاطر خضوعش، چهره‌اش را از خاک برطرف کرد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "نهاد از خاکساری روی بر خاک",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "زبان بگشاد و گفت از دل الهی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: او زبانش را باز کرد و از عمق دلش گفت: ای خدا، کشتی من را از این ویرانی نجات بده."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "برون بر، کشتی ام را زین تباهی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "بگیرم دست و بازم خر ز غرقاب",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: من دستت را می‌گیرم و دوباره به زندگی برمی‌گردیم تا از ناامیدی و غم‌هایمان خارج شویم، چون در دریای غم و اندوه خود غرق شده‌ام."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "که در بحر غمم از سرگذشت آب",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "به سوز سینه مردان آگاه",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: مردان دانا و آگاه، در دل خود درد و سوزی دارند که نشان‌دهنده‌ی مقام و بزرگی ویژه‌ی خاصان درگاه است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "به جاه و حشمت خاصان درگاه",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "به آه و ناله عشاق دلسوز",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: عاشقان به خاطر دوری از معشوق، شب و روز با درد و فراق خود ناله و زاری می‌کنند و دل‌های شاد و دلسوزی برای کسانی که مشتاق دیدار تو هستند، دارند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "به مشتاقان دیدارت، شب و روز",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "به مظلومان محنتها کشیده",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: مظلومان در زندگی خود رنج‌های زیادی را تحمل کرده‌اند و محرومان هرگز به خواسته‌ها و آرزوهای خود نرسیده‌اند."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "به محرومان کام دل ندیده",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "به یک جا مانده بند و بلایت",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: در یک نقطه، گرفتار مانده‌ام و درد و رنج تو به مجروحانی که زخم مشکلاتت را دارند، منتقل شده است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "به مجروحان زخم ابتلایت",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "به گمراهان از راه اوفتاده",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: به کسانی که در مسیر خود گم شده‌اند و مانند کسانی که در چاه بدون دید غوطه‌ور شده‌اند، اشاره شده است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "به بی چشمان در چاه اوفتاده",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "به مهجوران کوی دردمندی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: در قلب شهر، کسانی هستند که به خاطر درد و رنجی که دارند، تنها و رنجورند. مانند افرادی که در چاهی محبوس شده‌اند و احساس تنهایی و یأس می‌کنند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "به محبوسان چاه مستمندی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "به بیماران شب در تب گذشته",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: در شب گذشته، بیماران در تب رنج می‌بردند و چشمانشان غمگین و اشک‌آلود بود."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "به ماتم دیدگان شب گذشته",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "به آب چشم طفلان بلاکش",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، شاعر به توصیف حال و روز افرادی می‌پردازد که در شرایط سخت و دشواری به سر می‌برند. او به اشک‌های کودکان بی‌پناه و نیز به وضعیت ناتوان و رنجور سالمندان اشاره می‌کند. این توصیف نشان‌دهنده‌ی بی‌عدالتی و دردهای انسانی است که بر دوش این افراد قرار دارد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "به ضعف حال پیران جفاکش",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "به غمگینان بر سر خاک مانده",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: افرادی که به خاطر اندوه و ناراحتی از دست دادن عزیزانشان بر سر قبرشان آمده‌اند، هنوز در گریه و بی‌تابی به سر می‌برند و زندگی‌شان تحت تأثیر این رنج‌ها قرار دارد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "ز ماتمها گریبان چاک مانده",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "به قبض مفلسان اندر گه بام",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: در ساعات شب که به دلخوشی و آرامش نزدیک می‌شویم، افرادی که در تنگدستی به سر می‌برند و غریبان، همچنان در افکار و نگرانی‌های خود غرق هستند."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "به اندوه غریبان در دم شام",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "به غواصان دریای معانی",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: این شعر به تقدیر و تمجید از افرادی می‌پردازد که در دنیای عمیق و پیچیده معانی و مفاهیم غوطه‌ورند و به نوعی، با استفاده از درک عمیق خود، به مقام و جایگاهی بلند در بین مردم دست یافته‌اند. آنها کسانی هستند که در جستجوی حقیقت بوده و به درک و شناختی عمیق از زندگی و دنیا دست یافته‌اند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "به سلطانان ملک بی نشانی",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "به تاج سروران ملک معنی",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: این بیت به منظور بیان اهمیت و ارزش رهبری در زندگی انسان‌ها است. در آن تأکید شده که تاج و زینت سروران و حکمرانان از درک صحیح و روشنی که رهبران دین و دنیا به ارمغان می‌آورند، ناشی می‌شود. بی‌تردید رهبری صحیح و الهام‌بخش به انسان‌ها کمک می‌کند تا به سوی سعادت و راه درست هدایت شوند."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "به نور رهبران دین و دنیی",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "به گنج سینه شاهان عاشق",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: عشق و محبت واقعی در قلب‌های باصفا و خالص، نهفته است و درویشان واقعی، کسانی هستند که به این راز آگاهند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "به درویشی درویشان صادق",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "به سیاحان که بر هر کس نه پیداست",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: به مسافران و گردشگران که در ظاهر هر کسی را نمی‌شناسند، اما به جاسوسان و ناظرانی که دل‌ها را از همه جا رصد می‌کنند، اشاره می‌کند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "به جاسوسان دلها از چپ و راست",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "به زهاد و به عباد و به ارشاد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: به زاهدان و عابدین، به راهنمایان و به ابدال (افراد خاص و برگزیده)، به اقطاب (شخصیت‌های برجسته معنوی) و به اوتاد (افرادی که در عالم روحانی قدرتمند و پایدارند)."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "به ابدال و به اقطاب و به اوتاد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "به سر جان تنهایان بی کس",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: به سراغ دل‌های تنها و بی‌کس برو که در این غم، به فریاد من نیاز دارند."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "که در این غم به فریاد دلم رس",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "خلاصم بخش ازین درد جدایی",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: از این درد جدایی نجاتم بده و از این تاریکی، روشنی به من عطا کن."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "وزین تاریکی ام ده روشنایی",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "مگردان بیش ازین از غم ملولم",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: دیگر مرا از غم و اندوه خسته نکن. پذیرای من باش، هرچند که ممکن است نپذیری."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "قبولم کن اگر چه ناقبولم",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "ز زاریها که شیرین کرد آن شب",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: از ناله‌ها و گریه‌هایی که آن شب شیرین کرد، فریادی از آسمان بلند شد که ای پروردگار."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "برآمد از فلک فریاد یا رب",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "زد آن شب ناله چندان برزمانه",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: در آن شب، به حدی ناله و فریاد بلند شد که سرانجام، تیرش به هدف رسید."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "که آمد تیرش آخر برنشانه",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35
+    }
+  ]
+}

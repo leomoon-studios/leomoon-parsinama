@@ -1,0 +1,225 @@
+{
+  "Id": 51025,
+  "CatId": 1831,
+  "Title": "شمارهٔ ۱۳ - دل بزه کار",
+  "FullTitle": "ملک‌الشعرا بهار » قصاید » شمارهٔ ۱۳ - دل بزه کار",
+  "FullUrl": "/bahar/ghasidebk/sh13",
+  "RhymeLetters": "ارمرا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از جدایی و اندوهی عمیق سخن می‌گوید که ناشی از فقدان عشق و معشوقش است. او احساس می‌کند که تمام خوشبختی‌ها و آرامش‌هایش را از او گرفته‌اند و زندگی‌اش به هم ریخته است. شاعر با تمثیل‌هایی چون باغ لاله و اشک، درد و حسرت خود را بیان می‌کند و به وضعیت ناامیدکننده‌اش اشاره می‌کند. او از تاثیرات منفی عشق و جوانی‌اش می‌گوید و حس می‌کند که زندگی‌اش به دوری معشوقش تبدیل شده است. در نهایت، او به احساس بی‌چارگی و ناتوانی‌اش در برابر این درد اشاره می‌کند.",
+  "Metre": {
+    "Id": 67,
+    "Rhythm": "مفعول فاعلات مفاعیلن (مضارع مسدس اخرب مکفوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمرا",
+      "PlainText": "از من گرفت گیتی یارم را\r\nوز چنگ من ربود نگارم را\r\nوبرانه ساخت یکسره کاخم را\r\nآشفته کرد یکسره کارم را\r\nز اشک روان و خاک به سرکردن\r\nدر پیش دیده کند مزارم را\r\nیک سو سرشک و یک سو داغ دل\r\nپر باغ لاله ساخت کنارم را\r\nگر باغ لاله داد به من پس چون\r\nاز من گرفت لاله عذارم را\r\nدر خاک کرد عشق و شبابم را\r\nبر باد داد صبر و قرارم را\r\nچون حرف مفت و صحبت بی برهان\r\nبر ترهات داد مدارم را\r\nبر گور مرده ریخت شرابم را\r\nدر کام سگ فکند شکارم را\r\nجام میم فکند ز کف و آنگاه\r\nاندر سرم شکست خمارم را\r\nبس زار ناله کردم و پاسخ داد\r\nبا زهرخند ناله زارم را\r\nگفتم بهار عشق دمید اما\r\nگیتی خزان نمود بهارم را\r\nگیتی گنه نکرد و گنه دل کرد\r\nکاین گونه کرد سنگین بارم را\r\nباری بر آن سرم که از این سینه\r\nبیرون کنم دل بزه کارم را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز من گرفت گیتی یارم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز چنگ من ربود نگارم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوبرانه ساخت یکسره کاخم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآشفته کرد یکسره کارم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز اشک روان و خاک به سرکردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پیش دیده کند مزارم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک سو سرشک و یک سو داغ دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپر باغ لاله ساخت کنارم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر باغ لاله داد به من پس چون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز من گرفت لاله عذارم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خاک کرد عشق و شبابم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر باد داد صبر و قرارم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون حرف مفت و صحبت بی‌برهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ترهات داد مدارم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر گور مرده ریخت شرابم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کام سگ فکند شکارم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجام میم فکند ز کف و آنگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر سرم شکست خمارم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس زار ناله کردم و پاسخ داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا زهرخند، نالهٔ زارم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم بهار عشق دمید، اما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگیتی خزان نمود بهارم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگیتی گنه نکرد و گنه دل کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاین گونه کرد سنگین بارم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباری بر آن سرم که از این سینه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیرون کنم دل بزه کارم را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 13
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "از من گرفت گیتی یارم را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا یارم را از من گرفت و زیبایم را از دستانم ربود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز چنگ من ربود نگارم را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وبرانه ساخت یکسره کاخم را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او به طور کامل زندگی‌ام را برهم زد و همه‌ی کارهایم را خراب کرد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آشفته کرد یکسره کارم را",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز اشک روان و خاک به سرکردن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دیدن مزارم با اشک چشم و خاک بر سر، احساس غم و اندوه می‌کنم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در پیش دیده کند مزارم را",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "یک سو سرشک و یک سو داغ دل",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک طرف چشمانم پر از اشک است و طرف دیگر دلم به شدت ناراحت و آشفته است، در نتیجه در کنار من باغی از گل‌های لاله شکل گرفته."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پر باغ لاله ساخت کنارم را",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گر باغ لاله داد به من پس چون",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر باغ لاله‌ای به من داده‌اند، پس چرا لاله چهره‌ام را از من گرفته‌اند؟"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از من گرفت لاله عذارم را",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "در خاک کرد عشق و شبابم را",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و جوانی‌ام را در دل خاک پنهان کرد و آرامش و صبوری‌ام را از بین برد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بر باد داد صبر و قرارم را",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چون حرف مفت و صحبت بی‌برهان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که حرف‌های بی‌اساس و بی‌منطق می‌زنند، من خودم را به آن‌ها نمی‌زنم و به آن‌ها اهمیتی نمی‌دهم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بر ترهات داد مدارم را",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "بر گور مرده ریخت شرابم را",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر سر قبر مرده، نوشیدنی‌ام را ریختم و طعمه‌ام را به دهان سگ انداختم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "در کام سگ فکند شکارم را",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "جام میم فکند ز کف و آنگاه",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جام می را از دست انداخت و سپس به هماین در سرم ضربه زد و مستیم را شکست."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "اندر سرم شکست خمارم را",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "بس زار ناله کردم و پاسخ داد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خیلی از دلbroken و ناله کرده‌ام، اما او فقط با یک لبخند تمسخرآمیز به ناله‌هایم پاسخ داده است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "با زهرخند، نالهٔ زارم را",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "گفتم بهار عشق دمید، اما",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم عشق به اوج خود رسیده و فصل زیبایی آغاز شده، اما دنیا به ناگهان همه چیز را به فصل سرد و دلگیر تبدیل کرد و شادی‌های من را از بین برد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "گیتی خزان نمود بهارم را",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "گیتی گنه نکرد و گنه دل کرد",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا از من گناه نکرد، اما دل من گناهکار شد و به این خاطر بر دوشم بار سنگینی گذاشت."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "کاین گونه کرد سنگین بارم را",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "باری بر آن سرم که از این سینه",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به هر حال، باید بر دوش خودم سنگینی احساساتم را تحمل کنم و قلب گناهکارم را از درون خود بیرون بکشم."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "بیرون کنم دل بزه کارم را",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "Id": 143127,
+  "CatId": 3209,
+  "Title": "۳۹۱- نگاهی نیشابوری",
+  "FullTitle": "سام میرزا صفوی » تذکرهٔ تحفهٔ سامی » صحیفهٔ پنجم در ذکر شعرا » ۳۹۱- نگاهی نیشابوری",
+  "FullUrl": "/sam/tohfe/s5/sh129",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "مطلع",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارندارم",
+      "PlainText": "شبی که پیش نظر شمع روی یار ندارم\r\nبسان شعله آتش دمی قرار ندارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی که پیش نظر شمع روی یار ندارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسان شعله آتش دمی قرار ندارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "مرد لوند مشرب و می کش بود و بهر شاعر که می رسید میگفت تو معلوم و شعر تو معلوم . در تبریز فوت شد این مطلع از او یادگار است :",
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: مردی با طبع شوخ و نوشیدن مشروبات الکلی بود و هر وقت به شاعری برمی‌خورد، می‌گفت که تو و اشعار تو شناخته‌شده‌اید. او در تبریز درگذشت و این بیت از او باقی‌مانده است:"
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شبی که پیش نظر شمع روی یار ندارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شب‌هایی که در کنار یارم نیست، مثل شعله‌ای از آتش، هیچ آرامش و قرار ندارم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بسان شعله آتش دمی قرار ندارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

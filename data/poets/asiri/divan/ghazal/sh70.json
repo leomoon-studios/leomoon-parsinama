@@ -1,0 +1,161 @@
+{
+  "Id": 90900,
+  "CatId": 2383,
+  "Title": "شمارهٔ ۷۰",
+  "FullTitle": "اسیری لاهیجی » دیوان اشعار » غزلیات » شمارهٔ ۷۰",
+  "FullUrl": "/asiri/divan/ghazal/sh70",
+  "RhymeLetters": "است",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره وجود و حقیقت انسانی است. شاعر به ما می‌گوید که ما در واقع از هم جدا نیستیم و هر کس که به منیت و فردیت خود وابسته است، از حقیقت دور شده است. او بر این باور است که وجود واقعی تنها در اتحاد با دیگران و با عشق به دوست یافت می‌شود. در حقیقت، توقف کردن در خود و تجلی‌اش، ما را از درک واقعی وجود بازمی‌دارد. شاعر دعوت می‌کند که از خود فرا برویم و عمیق‌تر به حقیقت عشق و اتصال بپردازیم. در نهایت، تا زمانی که خود را فراموش نکنیم و کلی فنا نگردیم، به بقا و حقیقت نخواهیم رسید.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "یار ماباماست از ماکی جداست\r\nمایی ما پرده ادبار ماست\r\nهرکه از ما و منی بیگانه شد\r\nبی حجاب ما بجانان آشناست\r\nهست از وهم تو این پندار غیر\r\nورنه او عین همه ما و شماست\r\nاوست هستی غیر او جز نیست نیست\r\nما و تو خود نیست هستی نماست\r\nمی نماید نیست هست و هست نیست\r\nاین نمود از وهم هرگز برنخاست\r\nبیخود از خود شو که تایابی وصال\r\nبیخودی از خود بود خود راه راست\r\nدر پس صد پرده پنهانست دوست\r\nاز تویی گر با تو یکمویی بجاست\r\nگر نهان شد او بنقش ما و من\r\nجز بما دیگر بگو پیدا کجاست\r\nتا نگردی از خودی کلی فنا\r\nای اسیری کی ترا ره در بقاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیار ماباماست از ماکی جداست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمائی ما پرده ادبار ماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکه از ما و منی بیگانه شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی حجاب ما بجانان آشناست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست از وهم تو این پندار غیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه او عین همه ما و شماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاوست هستی غیر او جز نیست نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما و تو خود نیست هستی نماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی نماید نیست هست و هست نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین نمود از وهم هرگز برنخاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیخود از خود شو که تایابی وصال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیخودی از خود بود خود راه راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر پس صد پرده پنهانست دوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز توئی گر با تو یکمویی بجاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر نهان شد او بنقش ما و من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز بما دیگر بگو پیدا کجاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نگردی از خودی کلی فنا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای اسیری کی ترا ره در بقاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "یار ماباماست از ماکی جداست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یار ما همیشه با ماست، اما از ما جدا است. ما تحت تاثیر افکاری هستیم که مانع از ارتباط واقعی‌مان با او می‌شود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مائی ما پرده ادبار ماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هرکه از ما و منی بیگانه شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از خودخواهی و منیت فاصله بگیرد، بدون پرده و حجاب به حقیقت ما و به جانان واقعی نزدیک می‌شود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بی حجاب ما بجانان آشناست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هست از وهم تو این پندار غیر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این فکر و خیال توست که به وجود آمده است، در حالی که او حقیقتاً همانند همه ماست."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ورنه او عین همه ما و شماست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "اوست هستی غیر او جز نیست نیست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وجود او تنها حقیقت است و هیچ چیز دیگری جز نیستی نیست. وجود من و تو در واقع حقیقتی ندارد و فقط تجلی همان هستی اوست."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ما و تو خود نیست هستی نماست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "می نماید نیست هست و هست نیست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جهان نشان می‌دهد که چیزی وجود دارد که در واقع وجود ندارد و چیزی هست که به نظر می‌رسد نیست. این تصویرسازی از خیال و توهم هرگز حقیقت نیافته است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "این نمود از وهم هرگز برنخاست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بیخود از خود شو که تایابی وصال",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای رسیدن به وصال و اتحاد، لازم است از خودخواهی و خودپسندی رها شوی. تنها در حالت بی‌خودی و آزادگی است که می‌توانی به مسیر درست برسید."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بیخودی از خود بود خود راه راست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "در پس صد پرده پنهانست دوست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوست در پشت صد پرده پنهان است؛ اگر تو با او یک مو هم داشته باشی، جای خود را دارد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "از توئی گر با تو یکمویی بجاست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "گر نهان شد او بنقش ما و من",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر او در وجود ما پنهان شده و به جز ما چیزی دیگر نیست، پس معلوم است که کجا پیدا می‌شود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "جز بما دیگر بگو پیدا کجاست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "تا نگردی از خودی کلی فنا",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که نتوانی از خودخواهی و ego خود بگذری و از آن آزاد نشوی، نمی‌توانی به حقیقت و جاودانگی دست پیدا کنی. ای اسیر، آیا راهی برای رسیدن به بقا و جاودانگی داری؟"
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "ای اسیری کی ترا ره در بقاست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

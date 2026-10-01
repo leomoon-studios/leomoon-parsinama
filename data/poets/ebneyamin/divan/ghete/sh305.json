@@ -1,0 +1,86 @@
+{
+  "Id": 93158,
+  "CatId": 2428,
+  "Title": "شمارهٔ ٣٠۵",
+  "FullTitle": "ابن یمین » دیوان اشعار » قطعات » شمارهٔ ٣٠۵",
+  "FullUrl": "/ebneyamin/divan/ghete/sh305",
+  "RhymeLetters": "امتوباد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از قدرت و عظمت شاه جهان طغایتمور سخن می‌گوید و او را به عنوان یک آسمان و سیارگان اطرافش توصیف می‌کند. شاعر با تمجید از زیبایی و شکوه بزم او، آن را بهشت و حوریان را به عنوان ساقی‌های او تشبیه می‌کند. در پایان، شاعر آرزو دارد که این شاه همچون خضر جاویدان باقی بماند و همیشه از شراب خوشگوار خود بهره‌مند باشد.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امتوباد",
+      "PlainText": "شهریار جهان طغایتمور\r\nشاه سیارگان غلام تو باد\r\nجام گیتی نما که خورشید است\r\nدور او تا ابد بکام تو باد\r\nهست بزم تو رشک خلد برین\r\nحور عین ساقی مدام تو باد\r\nتا بمانی خضر صفت جاوید\r\nآبحیوان شراب جام تو باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشهریار جهان طغایتمور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاه سیارگان غلام تو باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجام گیتی نما که خورشید است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدور او تا ابد بکام تو باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست بزم تو رشک خلد برین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحور عین ساقی مدام تو باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بمانی خضر صفت جاوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآبحیوان شراب جام تو باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 4
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شهریار جهان طغایتمور",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سلطانی که بر جهان حکومت می‌کند و در عین حال از همه ستارگان بالاتر است، همیشه بنده و غلام تو خواهد بود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شاه سیارگان غلام تو باد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "جام گیتی نما که خورشید است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جا به تو نمایشی از جهان را نشان می‌دهد که مانند خورشید دور آن می‌چرخد و امیدوار است که همیشه به کام تو باشد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دور او تا ابد بکام تو باد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هست بزم تو رشک خلد برین",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محفل تو به قدری زیباست که بهشت را به حسادت می‌اندازد و ای ساقی، همیشه بی‌وقفه مشروب می‌ریزی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "حور عین ساقی مدام تو باد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "تا بمانی خضر صفت جاوید",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز فراموش نکن که بقا و جاودانگی تو در این جهان به فضیلت‌های تو وابسته است و نوشیدن جام شراب معرفت و زیبایی باعث می‌شود که همچون خضر، همیشه جوان و سرزنده بمانی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آبحیوان شراب جام تو باد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    }
+  ]
+}

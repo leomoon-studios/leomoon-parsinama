@@ -1,0 +1,990 @@
+{
+  "Id": 117829,
+  "CatId": 2720,
+  "Title": "شمارهٔ ۱۰۱",
+  "FullTitle": "ادیب الممالک » دیوان اشعار » قصاید » شمارهٔ ۱۰۱",
+  "FullUrl": "/adib/divan/ghaside/sh101",
+  "RhymeLetters": "م",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر حاوی توصیف زیبایی‌های طبیعی و تاثیراتی است که بهار بر طبیعت و احساسات انسان می‌گذارد. در این متن، گل‌ها، درختان و بادها به‌طور شاعرانه توصیف می‌شوند و نشانه‌هایی از عشق و زیبایی در طبیعت به تصویر کشیده می‌شود. شاعر به فضایل و صفات الهی اشاره می‌کند و با بیان زیبایی‌های بهار، به مبحث عشق و ارتباط انسان با خداوند می‌پردازد. همچنین، به معضلات اجتماعی و ظلم و ستم در جامعه اشاره می‌کند، با نگرانی از وضعیت مردم و فضای ناامن که بر زندگی آن‌ها حاکم است. در نهایت، شعر تأملاتی درباره مقام و شخصیت‌های بزرگ از جمله علی ابن ابی‌طالب و دیگر مفاهیم معنوی و فرهنگی را در بر می‌گیرد.",
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "باز بگشود صبا دست ستم\r\nزد سر زلف ریاحین برهم\r\nابر زد در صف بستان خیمه\r\nسرو افراشته بگردون پرچم\r\nسرو ماننده تیری شده راست\r\nبید مجنون چو کمانی شده خم\r\nباغ خوشبوی تر از روضه خلد\r\nراغ دلجوی تر از باغ ارم\r\nلعلگون لاله نعمان گویی\r\nرسته از خون سیاوش بقم\r\nبر رخ باغ نوشتند ز نو\r\nپی دفع نظر نامحرم\r\nصاد والقرآن با طاسین میم\r\nقاف والقرآن با نون و قلم\r\nبید با باد سحرگه شب و روز\r\nعشقبازیها دارند بهم\r\nباد چون عنتره ابن الشداد\r\nبید ماننده ام الهیثم\r\nخار در دامن گل پنداری\r\nام خالد شد و مروان حکم\r\nدست گل بوسه زند باد صبا\r\nبمثال شمنان پای صنم\r\nبرق را باشد روی عذرا\r\nرعد را باشد خوی اخزم\r\nابر پنداری مستسقی شد\r\nپای تا سرش همی کرده ورم\r\nباد مانند پزشگان بدرد\r\nپرده ثرب و صفاقش از هم\r\nبهر صحت را بزلش سازد\r\nآب بیرون کشد از زیر شکم\r\nشاخ نو رسته و آن شاخ کهن\r\nگشته اندر صف بستان توأم\r\nچون عروسی که یکی زلف برند\r\nوآندگر زلف پریشان و بخم\r\nآن شقایق را سرخست قبای\r\nلیک تاریک و سیاهست شکم\r\nگویی اندر دل لعلین قدحی\r\nدست نقاش زد از مشک رقم\r\nباغ را رنگ و رخی ماویه سان\r\nابر را دست و دلی چون حاتم\r\nهمچو خوی بر رخ ترکان بهار\r\nاز هوا ریزد بر گل شبنم\r\nدر دل لاله یکی تیر چنان\r\nچشم رویین تن و تیر رستم\r\nحرم و رکن و صفاو مروه\r\nحجر و حجر و منی و زمزم\r\nما نمی جوییم ای شیخ نژند\r\nما نمیخواهیم ای پیر دژم\r\nباده چون گهر و طرف چمن\r\nساقی چون قمر و روی صنم\r\nاندرین عالم اگر دست دهد\r\nنفروشم بهزاران عالم\r\nاین از آن من چه خوب و چه زشت\r\nآن از آن تو چه بیش و چه کم\r\nتا بسرسبزی دستور اجل\r\nتا به اقبال امیر اعظم\r\nباده روشن و گلگون گیریم\r\nبا رخی فرخ و جانی خرم\r\nداور فضل و هنر میر نظام\r\nشمع صاحبنظران صدر امم\r\nآن ببستان هنر سبز درخت\r\nباغ دولت را حی العالم\r\nرخ زیبایش خورشید وجود\r\nکف والایش دریای کرم\r\nاین بطغیان شداید صابر\r\nآن بطوفان هزاهز محکم\r\nتنش مجموعه آیات و کلم\r\nدلش گنجینه آیات و حکم\r\nرحمتش چیست سحابی وابل\r\nغضبش چیست قضایی مبرم\r\nای قضا کرده بداندیش تولا\r\nای بامر تو فلک گفته نعم\r\nکاه با مهرت از کوهی بیش\r\nکوه با قهرت از کاهی کم\r\nشهر تبریز همانست که بود\r\nمنبع فتنه و طغیان و ستم\r\nروز در کوچه و بازار کسی\r\nبتن تنها نگذاشت قدم\r\nخانه ها یکسره بنگاه خطر\r\nکوچه ها یکسسره دریای نقم\r\nدیوها بودی در کسوت حور\r\nگرگها بودی در جلد غنم\r\nعصمت خلق از ایشان برباد\r\nشادی مردم از ایشان ماتم\r\nهمه را دعوی حلوایی بود\r\nنو ز ناگشته عنبشان حصرم\r\nروزگاری نگذشته است که تو\r\nاندرین ملک نهادی مقدم\r\nنوش در ساغر دیوان شده نیش\r\nشهد در کاسه دونان شده سم\r\nلب استیزه ز بیمت شده لال\r\nگوش ظلم است ز بانگ تو اصم\r\nاژدها خوار حسام کج تو\r\nطعمه سازد دل شیران اجم\r\nضیغم رایت فرخنده تو\r\nخواب خرگوش دهد بر ضیغم\r\nدیو عاجز شده گویی دارد\r\nدست والای تو انگشتر جم\r\nیا در انگشت همایون تو شد\r\nخاتم مهر وصی خاتم\r\nآن علی ابن ابی طالب راد\r\nکه بود ختم رسل را بن عم\r\nمالک عرصه امکان و حدوث\r\nخسرو کشور ایجاد و قدم\r\nناز دارد ز نژادش حوا\r\nفخر سازد بوجودش آدم\r\nتیغ تیزش لسعی موسی کف\r\nلب لعلش خضری عیسی دم\r\nلب شیرینش سپهدار وجود\r\nتیغ رنگینش قلا ورز عدم\r\nای باخلاص تومقبول نماز\r\nای ز میلاد تو مسجود حرم\r\nهم تویی کوی نبی را محرم\r\nهم تویی راز خدا را محرم\r\nصدر والای مهین میر نظام\r\nخواجه راد و امیر اعظم\r\nکاسر خصم تو شد تا که بود\r\nرایت نصبش بر فتح تو ضم\r\nای بهین مرتبه دستور اجل\r\nوی مهین پایه خداوند نعم\r\nبسکه دوشیزه طبعم بسرای\r\nماند فرتوت شد و کوژ و دژم\r\nروح من عود سرودی همچون\r\nدخت ذوالاصبع یعنی اثرم\r\nاین زمان از دم روح القدسی\r\nیعنی از نفخه آن فرخ دم\r\nحامل روح مدیح تو شده است\r\nهمچو بر نطفه عیسی مریم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز بگشود صبا دست ستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزد سر زلف ریاحین برهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابر زد در صف بستان خیمه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرو افراشته بگردون پرچم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرو ماننده تیری شده راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبید مجنون چو کمانی شده خم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباغ خوشبوی تر از روضه خلد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراغ دلجوی تر از باغ ارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلعلگون لاله نعمان گوئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرسته از خون سیاوش بقم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر رخ باغ نوشتند ز نو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپی دفع نظر نامحرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاد والقرآن با طاسین میم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقاف والقرآن با نون و قلم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبید با باد سحرگه شب و روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعشقبازیها دارند بهم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد چون عنتره ابن الشداد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبید ماننده ام الهیثم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخار در دامن گل پنداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eام خالد شد و مروان حکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدست گل بوسه زند باد صبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبمثال شمنان پای صنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرق را باشد روی عذرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرعد را باشد خوی اخزم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابر پنداری مستسقی شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپای تا سرش همی کرده ورم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد مانند پزشگان بدرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرده ثرب و صفاقش از هم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر صحت را بزلش سازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب بیرون کشد از زیر شکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاخ نو رسته و آن شاخ کهن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشته اندر صف بستان توأم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون عروسی که یکی زلف برند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآندگر زلف پریشان و بخم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن شقایق را سرخست قبای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک تاریک و سیاهست شکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوئی اندر دل لعلین قدحی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست نقاش زد از مشک رقم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباغ را رنگ و رخی ماویه سان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eابر را دست و دلی چون حاتم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمچو خوی بر رخ ترکان بهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هوا ریزد بر گل شبنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دل لاله یکی تیر چنان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم روئین تن و تیر رستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحرم و رکن و صفاو مروه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحجر و حجر و منی و زمزم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما نمی جوئیم ای شیخ نژند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما نمیخواهیم ای پیر دژم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباده چون گهر و طرف چمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساقی چون قمر و روی صنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندرین عالم اگر دست دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنفروشم بهزاران عالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین از آن من چه خوب و چه زشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن از آن تو چه بیش و چه کم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بسرسبزی دستور اجل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به اقبال امیر اعظم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباده روشن و گلگون گیریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا رخی فرخ و جانی خرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداور فضل و هنر میر نظام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمع صاحبنظران صدر امم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن ببستان هنر سبز درخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباغ دولت را حی العالم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخ زیبایش خورشید وجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکف والایش دریای کرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین بطغیان شداید صابر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن بطوفان هزاهز محکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتنش مجموعه آیات و کلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلش گنجینه آیات و حکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرحمتش چیست سحابی وابل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغضبش چیست قضائی مبرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای قضا کرده بداندیش تولا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای بامر تو فلک گفته نعم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاه با مهرت از کوهی بیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوه با قهرت از کاهی کم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشهر تبریز همانست که بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنبع فتنه و طغیان و ستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز در کوچه و بازار کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبتن تنها نگذاشت قدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانه ها یکسره بنگاه خطر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوچه ها یکسسره دریای نقم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیوها بودی در کسوت حور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرگها بودی در جلد غنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعصمت خلق از ایشان برباد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشادی مردم از ایشان ماتم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه را دعوی حلوائی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنو ز ناگشته عنبشان حصرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزگاری نگذشته است که تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندرین ملک نهادی مقدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوش در ساغر دیوان شده نیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشهد در کاسه دونان شده سم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب استیزه ز بیمت شده لال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوش ظلم است ز بانگ تو اصم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاژدها خوار حسام کج تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطعمه سازد دل شیران اجم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eضیغم رایت فرخنده تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواب خرگوش دهد بر ضیغم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیو عاجز شده گوئی دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست والای تو انگشتر جم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا در انگشت همایون تو شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاتم مهر وصی خاتم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن علی ابن ابی طالب راد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بود ختم رسل را بن عم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمالک عرصه امکان و حدوث\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخسرو کشور ایجاد و قدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناز دارد ز نژادش حوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفخر سازد بوجودش آدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیغ تیزش لسعی موسی کف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلب لعلش خضری عیسی دم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلب شیرینش سپهدار وجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیغ رنگینش قلا ورز عدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای باخلاص تومقبول نماز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای ز میلاد تو مسجود حرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم توئی کوی نبی را محرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم توئی راز خدا را محرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصدر والای مهین میر نظام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواجه راد و امیر اعظم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاسر خصم تو شد تا که بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرایت نصبش بر فتح تو ضم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بهین مرتبه دستور اجل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی مهین پایه خداوند نعم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn61\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسکه دوشیزه طبعم بسرای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماند فرتوت شد و کوژ و دژم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn62\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروح من عود سرودی همچون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدخت ذوالاصبع یعنی اثرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn63\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین زمان از دم روح القدسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی از نفخه آن فرخ دم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn64\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحامل روح مدیح تو شده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو بر نطفه عیسی مریم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 64
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "باز بگشود صبا دست ستم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نسیم دوباره به حرکت درآمد و با ظلمتی که بر سر زلف‌های گل‌ها سایه افکنده بود، بازی کرد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زد سر زلف ریاحین برهم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ابر زد در صف بستان خیمه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ابر در صف باغ مانند پرده‌ای است که خیمه‌ی سرو را که به آسمان بلند شده، زیبا و با شکوه می‌نمایاند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سرو افراشته بگردون پرچم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سرو ماننده تیری شده راست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درخت سرو به قدری بلند و راست است که مثل یک تیر به نظر می‌رسد و بید مجنون به حالت خمیده‌اش شباهتی به کمان پیدا کرده است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بید مجنون چو کمانی شده خم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "باغ خوشبوی تر از روضه خلد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باغی که عطر و بوی خوشی دارد، بهتر از باغ بهشت است و دل‌چسب‌تر از باغ ارم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "راغ دلجوی تر از باغ ارم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "لعلگون لاله نعمان گوئی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل لاله‌ای سرخ‌رنگ مانند لاله‌های نعمان به نظر می‌رسد، گویی که از خون سیاوش جوانه زده است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "رسته از خون سیاوش بقم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بر رخ باغ نوشتند ز نو",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر روی گل‌های باغ نوشتند که به دور از چشم نامحرمان باشند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "پی دفع نظر نامحرم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "صاد والقرآن با طاسین میم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به موضوعی اشاره دارد که در آن به اهمیت و جایگاه قرآن و نوشتار پرداخته می‌شود. در واقع، به ارتباط عمیق بین کلمات و معانی و همچنین نقش کتابت در انتقال پیام‌های الهی و فرهنگی تأکید دارد. این بیان نشان‌دهنده‌ی ارزش والای قرآن و قدرت کلمه در تغییر و شکل‌دهی به افکار و جوامع است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "قاف والقرآن با نون و قلم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "بید با باد سحرگه شب و روز",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بلبلان در صبحگاه با نسیم عشق می‌ورزند و شب و روز به شادی و بازی مشغولند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "عشقبازیها دارند بهم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "باد چون عنتره ابن الشداد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد همچون عنتره، دلاور و نیرومند است، و من شبیه به اوست. ای خدای بزرگ، قدرت و اراده‌ات را ستایش می‌کنم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "بید ماننده ام الهیثم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "خار در دامن گل پنداری",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دامن گل، خار حضور دارد و به همین دلیل زشتی و تلخی را در زیبایی گل احساس می‌کنم، همان‌طور که شخصیت‌های تاریخی مانند خالد و مروان نیز در داستان‌ها جایگاه خاصی دارند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "ام خالد شد و مروان حکم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "دست گل بوسه زند باد صبا",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نسیم صبحگاهی با لطافت و محبت همچون دست گلی که بوسه می‌زند، به مجسمه زیبایی که در اینجا به معشوق تشبیه شده، نزدیک می‌شود."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "بمثال شمنان پای صنم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "برق را باشد روی عذرا",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برق با زیبایی و جذابیت چهره عذرا همراه است و رعد نشان‌دهنده ویژگی‌های قوی و خشن اخزم است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "رعد را باشد خوی اخزم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "ابر پنداری مستسقی شد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ابر را در نظر بگیر که به شدت باران زده و از سر تا پا غرق آب شده است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "پای تا سرش همی کرده ورم",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "باد مانند پزشگان بدرد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باد به گونه‌ای رفتار می‌کند که گویی می‌خواهد مشکلات و آلام موجود در درون را درمان کند، به زخم‌ها و دردهای ناشی از مشکلات زندگی رسیدگی می‌کند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "پرده ثرب و صفاقش از هم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "بهر صحت را بزلش سازد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای بهتر شدن وضعیت، آب را از زیر شکم بیرون می‌کشد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "آب بیرون کشد از زیر شکم",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "شاخ نو رسته و آن شاخ کهن",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاخ تازه‌ای روییده و آن شاخ قدیمی در کنار هم در باغ تو قرار دارند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "گشته اندر صف بستان توأم",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "چون عروسی که یکی زلف برند",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند عروسی که یک بخش از موهایش آراسته و قسمت دیگرش درهم و نامرتب است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "وآندگر زلف پریشان و بخم",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "آن شقایق را سرخست قبای",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف شقایق (گلی زیبا و سرخ رنگ) می‌پردازد که در ظاهر خود رنگی شاداب و جذاب دارد، اما در زیر سطح، به تاریکی و سیاهی اشاره دارد. این تضاد میان زیبایی ظاهری و وضعیت درونی یا عمیق‌تر، عمق احساسی را به تصویر می‌کشد که ممکن است در زندگی وجود داشته باشد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "لیک تاریک و سیاهست شکم",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "گوئی اندر دل لعلین قدحی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد در دل گلابی سرخ رنگ، هنرمند طوری نقاشی کرده که آن را با مشک تزئین کرده و شکل زیبایی به آن بخشیده است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "دست نقاش زد از مشک رقم",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "باغ را رنگ و رخی ماویه سان",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باغ، زیبایی و رنگی شگفت‌انگیز دارد و ابر هم دل بزرگی و سخاوتی چون حاتم طایی را نمایش می‌دهد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "ابر را دست و دلی چون حاتم",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "همچو خوی بر رخ ترکان بهار",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند اینکه در بهار، نسیم ملایمی بر گل‌ها می‌افتد و شبنم را به همراه دارد، زیبایی چهره ترکان را نیز می‌توان با زیبایی و لطافت بهاری مقایسه کرد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "از هوا ریزد بر گل شبنم",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "در دل لاله یکی تیر چنان",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل لاله، تیر زیبایی مانند چشم درخشان و تیز رستم جای دارد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "چشم روئین تن و تیر رستم",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "حرم و رکن و صفاو مروه",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مکان‌های مقدس و نقاط مهمی که در مناسک مذهبی استفاده می‌شوند، شامل حرم، رکن و صفا و مروه، همچنین مکان‌های دیگری مانند حجر، منی و چشمه‌ی زمزم هستند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "حجر و حجر و منی و زمزم",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "ما نمی جوئیم ای شیخ نژند",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به دنبال چیزی نیستیم، ای شیخ نیک‌اندیش؛ ما نمی‌خواهیم، ای پیر غمگین."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "ما نمیخواهیم ای پیر دژم",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "باده چون گهر و طرف چمن",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شراب مانند گوهر است و ظرفی که در آن ریخته شده زیبا و درخشان مثل ماه می‌باشد و چهره معشوق نیز به زیبایی و درخششی شبیه به آن دارد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "ساقی چون قمر و روی صنم",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "اندرین عالم اگر دست دهد",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در این دنیا به چیزی دست یابم، هرگز آن را به هزاران جهان دیگر نمی‌فروشم."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "نفروشم بهزاران عالم",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "این از آن من چه خوب و چه زشت",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این که خوبی‌ها و بدی‌ها به من مربوط است، و آنچه به تو مربوط می‌شود، با هر مقدار و اندازه‌ای که باشد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "آن از آن تو چه بیش و چه کم",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "تا بسرسبزی دستور اجل",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که تقدیر الهی برقرار باشد و تا زمانی که زندگی به نیکی و خوشبختی برای بزرگ‌ترین مقام ادامه داشته باشد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "تا به اقبال امیر اعظم",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "باده روشن و گلگون گیریم",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما با هم نوشیدنی روشن و رنگینی می‌نوشیم و در کنار چهره‌ای خوشحال و روحی شاداب قرار می‌گیریم."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "با رخی فرخ و جانی خرم",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "داور فضل و هنر میر نظام",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قاضی که به دانش و هنر مشهور است، همچون شمعی در پیشروی صاحب‌نظران و پیشوایان است."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "شمع صاحبنظران صدر امم",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "آن ببستان هنر سبز درخت",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آن باغ زیبای هنر، درختان شکوفایی وجود دارند که نمایانگر رونق و شکوفایی جامعه هستند."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "باغ دولت را حی العالم",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "رخ زیبایش خورشید وجود",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره زیبای او مانند خورشید است و وجودش مثل دریا از کرم و بخشش پر است."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "کف والایش دریای کرم",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "این بطغیان شداید صابر",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این فردی که صبور است، در برابر سختی‌ها و مشکلاتی که به شدت به او فشار می‌آورد، مانند طوفانی قوی و تند ایستادگی می‌کند."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "آن بطوفان هزاهز محکم",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "تنش مجموعه آیات و کلم",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تن آوای آیات و کلمات او، مانند گنجینه‌ای از آیات و حکم‌های ارزنده است."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "دلش گنجینه آیات و حکم",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "رحمتش چیست سحابی وابل",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رحمت او مانند ابرهایی است که برف می‌بارند، و خشمش تصمیمی قطعی و ناگزیر است."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "غضبش چیست قضائی مبرم",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "ای قضا کرده بداندیش تولا",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای سرنوشت! بداندیشی را از من دور کن و راهی به سوی نعمت‌های تو فراهم کن."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "ای بامر تو فلک گفته نعم",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "کاه با مهرت از کوهی بیش",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و محبت تو برای من از تمام کوه‌ها بزرگ‌تر است، در حالی که خشم و غضبت برای من از یک کاه هم کمتر است."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "کوه با قهرت از کاهی کم",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "شهر تبریز همانست که بود",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شهر تبریز همان‌طور که قبلاً بود، منبعی از مشکلات، شورش‌ها و ظلم است."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "منبع فتنه و طغیان و ستم",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "روز در کوچه و بازار کسی",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در طول روز، هیچ کس در کوچه و بازار کسی را به حال خود رها نکرد و همیشه همراه او بود."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "بتن تنها نگذاشت قدم",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "خانه ها یکسره بنگاه خطر",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خیابان‌ها پر از خطر و تهدید است و خانه‌ها به مکانی برای اضطراب و نگرانی تبدیل شده‌اند."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "کوچه ها یکسسره دریای نقم",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "دیوها بودی در کسوت حور",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، به این موضوع اشاره شده که گاهی ظواهر فریبنده هستند. افرادی که به نظر خوب و زیبا می‌آیند، ممکن است در واقعیت دارای ویژگی‌های منفی و خطرناک باشند. به بیان دیگر، آنچه که در بیرون دیده می‌شود همیشه نمایانگر باطن و حقیقت نیست."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "گرگها بودی در جلد غنم",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "عصمت خلق از ایشان برباد",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عصمت و پاکی مردم به خاطر وجود آنها از بین می‌رود و خوشحالی و شادی مردم به خاطر آنها به غم و اندوه تبدیل می‌شود."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "شادی مردم از ایشان ماتم",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "همه را دعوی حلوائی بود",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه ادعا می‌کردند که میوه‌ای خوشمزه دارند، اما در واقع، میوه‌ای نرسیده و ترش در دستشان بود."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "نو ز ناگشته عنبشان حصرم",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "روزگاری نگذشته است که تو",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدتی از زمانی که تو وارد این سرزمین شدی نمی‌گذرد."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "اندرین ملک نهادی مقدم",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "نوش در ساغر دیوان شده نیش",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نوشیدن خوشی در ظرف دیوانگان مانند نیش زنبور در کاسه‌ای برای آدم‌های پست و حقیر است."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "شهد در کاسه دونان شده سم",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "لب استیزه ز بیمت شده لال",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لب استیزه به معنای لب‌هایی است که به خاطر تحمل ظلم و ستم، سکوت کرده‌اند و دیگر صدایی ندارند. این سکوت، ناشی از زخم‌های عمیقی است که به خاطر ظلم به وجود آمده و بنابراین نمی‌توانند به درستی پاسخ دهند یا چیزی بگویند. ظاهراً صدای تو آنقدر بلند است که باعث می‌شود دیگران نسبت به آن کر شوند و نتوانند آنچه باید بگویند را بیان کنند."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "گوش ظلم است ز بانگ تو اصم",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "اژدها خوار حسام کج تو",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اژدها، که نماد قدرت و خطر است، حسام (شمشیر) را به کار می‌گیرد تا شکار خود را به چنگ آورد؛ این شکار قلب شیران را نیز به دست می‌آورد."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "طعمه سازد دل شیران اجم",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "ضیغم رایت فرخنده تو",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت که به تصویر کشیدن قدرت و شجاعت است، گفته می‌شود که بیداری و هوشیاری شیر، خواب آرام خرگوش را مختل می‌کند. این به معنای این است که وجود یک نیروی قوی و شجاع می‌تواند تاثیری عمیق بر دیگران داشته باشد، به‌ویژه اگر آن‌ها ضعیف‌تر باشند."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "خواب خرگوش دهد بر ضیغم",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "دیو عاجز شده گوئی دارد",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که دیو (نیرویی منفی یا شر) دیگر قادر به کارهایی که قبلاً انجام می‌داد نیست و این نشان‌دهنده آن است که قدرت تو به حدی رسیده است که مانند انگشتری در دست سلطان جم، با عظمت و تسلط قرار دارد. این تصویر بیانگر قدرت و برجستگی توست."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "دست والای تو انگشتر جم",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "یا در انگشت همایون تو شد",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به معنای این است که شاید در انگشت مبارک تو، نشانه‌ای از مقام و افتخار، مانند انگشتر مهر وصی خداوندی قرار داشته باشد. به نوعی، اشاره به بزرگ‌منشی و مقام والا دارد."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "خاتم مهر وصی خاتم",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "آن علی ابن ابی طالب راد",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علی ابن ابی‌طالب، کسی است که پیامبر آخرین را در آغوش خود گرفت و به او نسبت نزدیک داشت."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "که بود ختم رسل را بن عم",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "مالک عرصه امکان و حدوث",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حاکم و صاحب اختیار جهان و وجود، شاهی است که کشور آفرینش و آغازی برای تمام موجودات است."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "خسرو کشور ایجاد و قدم",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "ناز دارد ز نژادش حوا",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی و جاذبه‌اش از نسل حواست و به وجودش آدم را به خود می‌بالد."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "فخر سازد بوجودش آدم",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "تیغ تیزش لسعی موسی کف",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تیغ تیز او مانند سلاح موسی است و لب سرخ او به سبزی شگفت‌انگیز عیسی اشاره دارد."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "لب لعلش خضری عیسی دم",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "لب شیرینش سپهدار وجود",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل شیرین او فرمانده وجودش است و تیغ خوش‌رنگش بر تندباد عدم چیره می‌شود."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "تیغ رنگینش قلا ورز عدم",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "ای باخلاص تومقبول نماز",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که دعایت مورد قبول است و نمازهایت پذیرفته می‌شود، تو آن فلسفه‌ای هستی که در روز تولدت، تمام موجودات به تو سجده کردند."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "ای ز میلاد تو مسجود حرم",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "هم توئی کوی نبی را محرم",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو کسی هستی که در کوی پیامبر، رازها را می‌دانی و به آن‌ها آگاه هستی. تو به حقیقت‌های الهی و اسرار خداوند نزدیک و آشنا هستی."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "هم توئی راز خدا را محرم",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "صدر والای مهین میر نظام",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نخستین مقام بلند این مرز و بوم، خواجه راد و امیر بزرگ است."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "خواجه راد و امیر اعظم",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "کاسر خصم تو شد تا که بود",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خصم تو (دشمن تو) تا زمانی که پرچم او (رایتی که بر افراشته بود) بر پیروزی تو افزوده شد، شکست خورد."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "رایت نصبش بر فتح تو ضم",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "ای بهین مرتبه دستور اجل",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که در مقام خود برترینی و در برابر تقدیر الهی، بسیار کوچک و ناچیزی به شمار می‌آیی."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "وی مهین پایه خداوند نعم",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "بسکه دوشیزه طبعم بسرای",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر اینکه روح و احساسات من به زیبایی و تازگی جوانی دلبسته‌اند، دچار خستگی و افسردگی شده‌ام و دیگر زنده و شاداب نیستم."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "ماند فرتوت شد و کوژ و دژم",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 123,
+      "Position": "Right",
+      "Text": "روح من عود سرودی همچون",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح من مانند بخور عطرآگینی است که نشانه‌ای از وجودم مانند دختری با انگشتان بلند دارد."
+    },
+    {
+      "VOrder": 124,
+      "Position": "Left",
+      "Text": "دخت ذوالاصبع یعنی اثرم",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 125,
+      "Position": "Right",
+      "Text": "این زمان از دم روح القدسی",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این زمان، ناشی از نفخ یا وزش روح القدس است، یعنی از آن نفس خوشبخت و مبارک."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Left",
+      "Text": "یعنی از نفخه آن فرخ دم",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 127,
+      "Position": "Right",
+      "Text": "حامل روح مدیح تو شده است",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح تو همانند نطفه عیسی مریم در بدن من قرار گرفته و من حامل تو هستم."
+    },
+    {
+      "VOrder": 128,
+      "Position": "Left",
+      "Text": "همچو بر نطفه عیسی مریم",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0
+    }
+  ]
+}

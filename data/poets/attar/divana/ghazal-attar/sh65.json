@@ -1,0 +1,180 @@
+{
+  "Id": 11021,
+  "CatId": 153,
+  "Title": "غزل شمارهٔ ۶۵",
+  "FullTitle": "عطار » دیوان اشعار » غزلیات » غزل شمارهٔ ۶۵",
+  "FullUrl": "/attar/divana/ghazal-attar/sh65",
+  "RhymeLetters": "وزاست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این اشعار درباره عشق و سوزی است که از محبوب ناشی می‌شود. شاعر بیان می‌کند که هرکس به این سوز دست یابد، دیروز و فردا برای او هیچ تفاوتی ندارد، زیرا در حال حاضر حقیقتی وجود دارد که بر تمامی زندگی پیروز است. او می‌گوید که همه چیز در عالم به یک اصل مرتبط است و همانند یک روز به نظر می‌رسد، حتی اگر قرن‌ها گذشته باشد. این سوز، در واقع عشق معشوق است که بر دل عاشق اثر می‌گذارد و به او مسیر را نشان می‌دهد. در نهایت، شاعر تاکید می‌کند که اگر کسی به حقیقت دست یابد، دیگر رنج و سختی‌ها برای او بی‌معنا خواهد بود.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وزاست",
+      "PlainText": "هر که را ذره ای ازین سوز است\r\nدی و فرداش نقد امروز است\r\nهست مرد حقیقت ابن الوقت\r\nلاجرم بر دو کون پیروز است\r\nچون همه چیز نیست جز یک چیز\r\nپس بسی سال و ماه یک روز است\r\nصد هزاران هزار قرن گذشت\r\nلیک در اصل جمله یک سوز است\r\nچون پی یار شد چنان سوزی\r\nشب و روزش چو عید و نوروز است\r\nذره ای سوز اصل می بینم\r\nکه همه کون را جگر دوز است\r\nنیست آن سوز از کسی دیگر\r\nبل همان سوز آتش افروز است\r\nسوز معشوق در پس پرده\r\nعاشقان را دلیل آموز است\r\nهرکه او شاه باز این سر نیست\r\nزین طریقت جهنده چون یوز است\r\nتو اگر مردی این سخن پی بر\r\nکه فرید آنچه گفت مرموز است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که را ذره‌ای ازین سوز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدی و فرداش نقد امروز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست مرد حقیقت ابن‌الوقت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاجرم بر دو کون پیروز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون همه چیز نیست جز یک چیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس بسی سال و ماه یک روز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد هزاران هزار قرن گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک در اصل جمله یک سوز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون پی یار شد چنان سوزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب و روزش چو عید و نوروز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذره‌ای سوز اصل می‌بینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه همه کون را جگر دوز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست آن سوز از کسی دیگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبل همان سوز آتش‌افروز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوز معشوق در پس پرده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعاشقان را دلیل‌آموز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکه او شاه‌باز این سر نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین طریقت جهنده چون یوز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو اگر مردی این سخن پی بر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه فرید آنچه گفت مرموز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 10
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر که را ذره‌ای ازین سوز است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که اندکی از این درد و رنج را احساس کند، در دیروز و فردا، آنچه را که امروز به دست می‌آورد، به عنوان ارزش واقعی می‌بیند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دی و فرداش نقد امروز است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هست مرد حقیقت ابن‌الوقت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرد واقعی زمانه، به‌خاطر صداقت و درستی‌اش، همواره بر زمین و زمان غالب و پیروز خواهد بود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لاجرم بر دو کون پیروز است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چون همه چیز نیست جز یک چیز",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون همه چیز در نهایت به یک چیز برمی‌گردد، بنابراین سال‌ها و ماه‌ها در مقیاس بزرگ تنها به یک روز می‌مانند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "پس بسی سال و ماه یک روز است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صد هزاران هزار قرن گذشت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیاری سال‌ها و قرن‌ها سپری شده، اما در اصل همه‌ی این زمان‌ها فقط یک احساس عمیق و سوزناک است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "لیک در اصل جمله یک سوز است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چون پی یار شد چنان سوزی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شخص در جستجوی محبوب خود باشد، دلی آتشین و اشتیاقی بی‌پایان دارد که شب و روزش را مانند جشن و شادی‌ای در نوروز رقم می‌زند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شب و روزش چو عید و نوروز است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ذره‌ای سوز اصل می‌بینم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نشانه‌ای از سوز و درد عمیقی را می‌بینم که تمام عالم را تحت تأثیر قرار داده و زخم‌زده کرده است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که همه کون را جگر دوز است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "نیست آن سوز از کسی دیگر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این سوز و احساس درونی ناشی از وجود آتش‌افروزی است که در خود داریم و از دیگران نشأت نمی‌گیرد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بل همان سوز آتش‌افروز است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "سوز معشوق در پس پرده",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سوز و درد و حسرتی که عاشقان از معشوق خود احساس می‌کنند، به آن‌ها درس می‌دهد و به نوعی راه و روش زندگی را به آن‌ها آموزش می‌دهد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "عاشقان را دلیل‌آموز است",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "هرکه او شاه‌باز این سر نیست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در این مسیر مانند شاه‌باز نیست، پس مانند یوزی است که در این جهش ناچار و بی‌هدف حرکت می‌کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "زین طریقت جهنده چون یوز است",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "تو اگر مردی این سخن پی بر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو مرد عمل هستی، پس این را درک کن که سخنان فرید دارای معنا و رازهای عمیق است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "که فرید آنچه گفت مرموز است",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    }
+  ]
+}

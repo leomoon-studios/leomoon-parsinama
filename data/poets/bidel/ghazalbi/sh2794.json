@@ -1,0 +1,210 @@
+{
+  "Id": 44862,
+  "CatId": 1401,
+  "Title": "غزل شمارهٔ ۲۷۹۴",
+  "FullTitle": "بیدل دهلوی » غزلیات » غزل شمارهٔ ۲۷۹۴",
+  "FullUrl": "/bidel/ghazalbi/sh2794",
+  "RhymeLetters": "اهی",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به مضامین اجتماعی و انسانی می‌پردازد و به نقد ارزش‌های مادی و اجتماعی می‌پردازد. شاعر به تداوم تباهی و سیاهی در جامعه اشاره می‌کند و می‌گوید که غرور از فقرا برنمی‌خیزد و ثروت بدون هویتی مشخص نیست. او به درد و رنج زرپرستان اشاره می‌کند و به بی‌اعتباری خیال‌های توخالی می‌پردازد. در طول شعر، شاعر به تمجید از زیبایی‌ها و عشق اشاره می‌کند و به عشق و زیبایی‌های انسانی ارج می‌نهد. در نهایت، شاعر به آتش اندیشه‌های بی‌گناهی خود اشاره می‌کند که او را می‌سوزاند.",
+  "Metre": {
+    "Id": 22,
+    "Rhythm": "فعولن فعولن فعولن فعولن (متقارب مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهی",
+      "PlainText": "به شهرت زد اقبال خلق از تباهی\r\nسپید است نقش نگین از سیاهی\r\nدماغ غرور از فقیران نبالد\r\nکجی نیست سرمایه بی کلاهی\r\nگر این است درد سر زر پرستان\r\nهمان اجتماع گدایی ست شاهی\r\nندانم خیال دماغ آفرینان\r\nچه دارد درین امتحان گاه واهی\r\nندیده ست ازین بحر غیر از فسردن\r\nبه چشمی  که موج  گهر نیست راهی\r\nیقین احتیاج دلایل ندارد\r\nدر آب افکند سرمه را چشم ماهی\r\nنخواهی شدن منکر آنچه  گفتی\r\nدو لب داده در هر حدیثت گواهی\r\nگر اقبال خورشیدیت اوج گیرد\r\nفروزد چراغ از دم صبحگاهی\r\nبه هر جا گشادند مژگان نازت\r\nبه چشم بتان خواب شد خوش نگاهی\r\nشنیدم قدم می گذاری به چشمم\r\nزمین سبز کرده ست مژگان گیاهی\r\nکتان باب مهتاب چیزی ندارد\r\nبه هر جا تویی دیگر از من چه خواهی\r\nکرم بسکه  گرم امتحانست بیدل\r\nمرا سوخت اندیشه بی گناهی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه شهرت زد اقبال خلق از تباهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسپید است نقش نگین از سیاهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدماغ غرور از فقیران نبالد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجی نیست سرمایهٔ بی‌کلاهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر این است درد سر زر پرستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمان اجتماع گدایی‌ست شاهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندانم خیال دماغ آفرینان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه دارد درین امتحان‌گاه واهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندیده‌ست ازین بحر غیر از فسردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه چشمی‌ که موج‌ گهر نیست راهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین احتیاج دلایل ندارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آب افکند سرمه را چشم ماهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنخواهی شدن منکر آنچه‌ گفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو لب داده در هر حدیثت گواهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر اقبال خورشیدیت اوج گیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفروزد چراغ از دم صبحگاهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر جا گشادند مژگان نازت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه چشم بتان خواب شد خوش نگاهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشنیدم قدم می‌گذاری به چشمم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزمین سبز کرده‌ست مژگان گیاهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکتان باب مهتاب چیزی ندارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه هر جا تویی دیگر از من چه خواهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرم بسکه ‌گرم امتحانست بیدل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا سوخت اندیشهٔ بی‌گناهی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 12
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به شهرت زد اقبال خلق از تباهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اقبال مردم باعث شده که از بدبختی رها شوند و درخشش و زیبایی، مانند نگینی سفید، از تاریکی و سیاهی جدا شده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "سپید است نقش نگین از سیاهی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دماغ غرور از فقیران نبالد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بزرگی و افتخار نباید باعث شود که فرد از فقیران و ضعیفان دوری کند، زیرا بدون ثروت و دارایی، هیچ برتری واقعی وجود ندارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کجی نیست سرمایهٔ بی‌کلاهی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گر این است درد سر زر پرستان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر درد و رنج کسانی که فقط به دنبال زر و طلا هستند، همین است، پس همان بهتر که در جمع گدایان زندگی کنند و در کنار هم باشند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همان اجتماع گدایی‌ست شاهی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ندانم خیال دماغ آفرینان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمی‌دانم در این آزمون بی‌اساس، افراد خلاق چه انتظارات و تصورات خاصی دارند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چه دارد درین امتحان‌گاه واهی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ندیده‌ست ازین بحر غیر از فسردن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از این دریا چیزی جز سردی ندیده‌ام، چون چشمی که راهی برای موج‌های درخشان نمی‌یابد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به چشمی‌ که موج‌ گهر نیست راهی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "یقین احتیاج دلایل ندارد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اطمینان نیاز به پیش‌زمینه و دلایل ندارد. همان‌طور که نمی‌توان در آب سرمه را به چشم ماهی گذاشت، حقیقت‌های واضح نیز نیازی به توضیح ندارند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "در آب افکند سرمه را چشم ماهی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "نخواهی شدن منکر آنچه‌ گفتی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌خواهی که قبول کنی آنچه را که گفته‌ای، باید بدانی که هر کلمه‌ای که بیان کرده‌ای خود شاهدی بر حرف‌هایت است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "دو لب داده در هر حدیثت گواهی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "گر اقبال خورشیدیت اوج گیرد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خوشبختی و شانس تو به اوج برسد، روشنایی و نور در صبحگاه مثل سوزن نوری از چراغ خواهد درخشید."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "فروزد چراغ از دم صبحگاهی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "به هر جا گشادند مژگان نازت",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جا که مژگان زیبایت را باز کنی، چشمان زیبای دیگران در خواب خوشی فرو می‌روند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "به چشم بتان خواب شد خوش نگاهی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "شنیدم قدم می‌گذاری به چشمم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شنیدم که تو به زمین می‌روی و چشمانم را سبز کرده‌ای، همان‌طور که مژگانم مانند گیاهان رشد کرده است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "زمین سبز کرده‌ست مژگان گیاهی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "کتان باب مهتاب چیزی ندارد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن از این است که زیبایی و جذابیت، به نمادهایی مانند مهتاب نیاز ندارد و در هر جایی که تو حاضر باشی، دیگر نیازی به چیزهای اضافی نیست. در واقع، حضور تو تمام آن چیزی است که من می‌خواهم."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "به هر جا تویی دیگر از من چه خواهی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "کرم بسکه ‌گرم امتحانست بیدل",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "گرچه آلودگی و خطای من انکارشدنی نیست، اما در برابر اقیانوس بی‌پایان کرم و مغفرت خداوند، این همه گناه جز ذره‌ای غبار نمی‌نماید. چنان اندک می‌نماید که گویی نامش را بی‌گناهی نهاده‌اند. همین اغراقِ رحمت است که اندیشه‌ام را می‌سوزاند؛ حیرانی از آن دارم که چگونه بارِ سنگین خطاهایم در پرتو سخاوت بی‌کران او چون پرِ کاهی سبک جلوه می‌کند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "مرا سوخت اندیشهٔ بی‌گناهی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    }
+  ]
+}

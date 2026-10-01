@@ -1,0 +1,405 @@
+{
+  "Id": 74301,
+  "CatId": 2083,
+  "Title": "شمارهٔ ۲۶۹",
+  "FullTitle": "قدسی مشهدی » غزلیات » شمارهٔ ۲۶۹",
+  "FullUrl": "/ghodsi/ghazalgm/sh269",
+  "RhymeLetters": "ارمندارد",
+  "SourceName": "امیرحسین موسوی",
+  "SourceUrlSlug": "ahm",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر به بیان احساسات عمیق و پیچیده‌ای می‌پردازد که از عشق و درد جدایی ناشی می‌شود. او از زخم‌هایی که در دلش وجود دارد و غم‌های روزگار را می‌گوید و به نقش بزرگی که عشق در زندگی‌اش دارد اشاره می‌کند. شاعر به غم و اندوهی که از بی‌خبری و دوری یار به او دست داده پرداخته و نشان می‌دهد که چگونه این عشق و انتظار، زندگی‌اش را تحت تأثیر قرار داده است. او همواره در جستجوی نشانه‌هایی از یار است و از حسرت به یاد ناکامی و جدایی رنج می‌برد. در نهایت، او به شدت از انتظار و عشق می‌گوید و تمایل دارد فصل شادی و گل را به زندگی‌اش بازگرداند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمندارد",
+      "PlainText": "ز عقده ها که فلک نذر کار من دارد\r\nشکفته ام که غم روزگار من دارد\r\nشود چو محو تماشای یار داغ شوم\r\nکه حیرت آینه را در شمار من دارد\r\nنیافت در چمنم سبزه ای که زرد کند\r\nچه شکوه ها که خزان از بهار من دارد\r\nسفینه کرده فلک اختیار پنداری\r\nخبر ز گریه بی اختیار من دارد\r\nز پشت آینه در سینه اش خلد مژگان\r\nکسی که آینه پیش نگار من دارد\r\nجدا ز موی سیاهش ز تیرگی روزم\r\nهزار طعنه به شب های تار من دارد\r\nچه مایه خون که ز دست حناست در جگرم\r\nکه روی بر کف پای نگار من دارد\r\nبه گرد خویش ز یاران کسی نمی بینم\r\nبه غیر غم که یمین و یسار من دارد\r\nبه کس نمی رسد این عقده ها که بر فلک است\r\nذخیره ایست که از بهر کار من دارد\r\nبه سوی کلبه تارم به ناز می آید\r\nمگر صبا خبر از زلف یار من دارد\r\nز آشیان چو رهاندی به دام هم مگذار\r\nکه عمرهاست قفس انتظار من دارد\r\nطمع بریده ام از خشک و تر ولی چه کنم\r\nبه سیل اشک که سر در کنار من دارد\r\nقرار صبر به خود چون دهم که بی صبری\r\nقرارها به دل بی قرار من دارد\r\nز نم چو آینه محروم باد چشم کسی\r\nکه طعنه بر مژه اشکبار من دارد\r\nپس از هلاک رساند به آب خاک مرا\r\nز الفتی که صبا با غبار من دارد\r\nچو عندلیب ازان رو مرید گلزارم\r\nکه نرگسش نظر از چشم یار من دارد\r\nهمای حسن نیاورده سر ز بیضه برون\r\nز فیض عشق هوای شکار من دارد\r\nازان ز گوهر معنی چکد زلال حیات\r\nکه تکیه بر سخن آبدار من دارد\r\nمحیط فیض گره های گوهر معنی\r\nبه نذر خامه گوهر نگار من دارد\r\nخدای را بگشا فصل گل در قفسم\r\nکه هر طرف چمنی انتظار من دارد\r\nهزار بار مرا با وجود آنکه گداخت\r\nهنوز عشق سخن در عیار من دارد\r\nمگر به سلسله عشق برخورم ز جنون\r\nوگرنه عقل چه پروای کار من دارد\r\nجنون رسیده به جایی مرا که چون مجنون\r\nهزار سنگ به کف انتظار من دارد\r\nبه یاد گلشن کوی تو چشم خونبارم\r\nهزار خرمن گل در کنار من دارد\r\nچه دیده هاست که دریای خشک لب ز جهان\r\nبه یمن دیده تر بر کنار من دارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز عقده‌ها که فلک نذر کار من دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکفته‌ام، که غم روزگار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشود چو محو تماشای یار، داغ شوم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه حیرت آینه را در شمار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیافت در چمنم سبزه‌ای که زرد کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه شکوه‌ها که خزان از بهار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسفینه کرده فلک اختیار، پنداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخبر ز گریه بی‌اختیار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز پشت آینه در سینه‌اش خلد مژگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکسی که آینه پیش نگار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجدا ز موی سیاهش، ز تیرگی روزم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار طعنه به شب‌های تار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه مایه خون که ز دست حناست در جگرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه روی بر کف پای نگار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گرد خویش ز یاران کسی نمی‌بینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه غیر غم که یمین و یسار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه کس نمی‌رسد این عقده‌ها که بر فلک است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذخیره‌ایست که از بهر کار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سوی کلبه تارم به ناز می‌آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر صبا خبر از زلف یار من دارد؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آشیان چو رهاندی، به دام هم مگذار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عمرهاست قفس انتظار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطمع بریده‌ام از خشک و تر، ولی چه کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سیل اشک که سر در کنار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقرار صبر به خود چون دهم، که بی‌صبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقرارها به دل بی‌قرار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز نم چو آینه محروم باد چشم کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه طعنه بر مژه اشکبار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپس از هلاک، رساند به آب، خاک مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز الفتی که صبا با غبار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو عندلیب ازان رو مرید گلزارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نرگسش نظر از چشم یار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمای حسن نیاورده سر ز بیضه برون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز فیض عشق، هوای شکار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازان ز گوهر معنی چکد زلال حیات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تکیه بر سخن آبدار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحیط فیض، گره‌های گوهر معنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نذر خامه گوهر نگار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدای را بگشا فصل گل در قفسم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هر طرف چمنی انتظار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهزار بار مرا با وجود آنکه گداخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهنوز عشق، سخن در عیار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر به سلسله عشق برخورم ز جنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگرنه عقل چه پروای کار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجنون رسیده به جایی مرا، که چون مجنون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار سنگ به کف، انتظار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه یاد گلشن کوی تو چشم خونبارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار خرمن گل در کنار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه دیده‌هاست که دریای خشک لب ز جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه یمن دیده تر، بر کنار من دارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 25
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ز عقده‌ها که فلک نذر کار من دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از زخم‌ها و مشکلاتی که آسمان برای من گواهی داده، رهایی یافته‌ام، زیرا غم‌ها و دردهای زندگی‌ام مرا به اینجا رسانده‌اند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شکفته‌ام، که غم روزگار من دارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شود چو محو تماشای یار، داغ شوم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که به تماشای محبوبم مشغول می‌شوم، به شدت تحت تاثیر قرار می‌گیرم و دردی در دلم ایجاد می‌شود که انگار آینه هم توانایی درک حیرتم را دارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که حیرت آینه را در شمار من دارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نیافت در چمنم سبزه‌ای که زرد کند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در باغ من هیچ سبزه‌ای نیست که زرد شود، چه درد دل‌هایی که فصل پاییز از بهار من دارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چه شکوه‌ها که خزان از بهار من دارد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سفینه کرده فلک اختیار، پنداری",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان گویی کشتی را در اختیار گرفته و به نظر می‌رسد که از ناله و گریه‌ی بی‌اختیار من آگاه است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خبر ز گریه بی‌اختیار من دارد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ز پشت آینه در سینه‌اش خلد مژگان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل کسی که تصویر محبوب من در آینه‌اش دیده می‌شود، بهشت زیبایی چشمانش نهان است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کسی که آینه پیش نگار من دارد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "جدا ز موی سیاهش، ز تیرگی روزم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر تاریکی و غم‌های روزمره‌ام، از زیبایی و جذابیت او بسیار ناراحت و دلگیر هستم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "هزار طعنه به شب‌های تار من دارد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چه مایه خون که ز دست حناست در جگرم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به شدت احساساتی و عاشقانه است. شاعر از درد و رنجی سخن می‌گوید که به خاطر معشوقش در دل دارد. او به وضوح اشاره می‌کند که این درد و غم ناشی از زیبایی و جذبه معشوق است، به طوری که حس می‌کند این عشق و وابستگی در عمق وجودش نشسته و او را تحت تأثیر قرار داده است. در واقع، شاعر از خون جاری در دلش به عنوان نمادی از عشق و فراق سخن می‌گوید و می‌گوید که عشق او تا چه حد عمیق و تاثیرگذار است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که روی بر کف پای نگار من دارد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "به گرد خویش ز یاران کسی نمی‌بینم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اطراف خود هیچ دوستی نمی‌بینم، جز غم و اندوه که همیشه همراه من است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "به غیر غم که یمین و یسار من دارد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "به کس نمی‌رسد این عقده‌ها که بر فلک است",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این مشکلات و دردهای من به هیچ‌کس نمی‌رسد و انگار در آسمان ذخیره‌ای وجود دارد که به خاطر من جمع شده است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "ذخیره‌ایست که از بهر کار من دارد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "به سوی کلبه تارم به ناز می‌آید",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نسیم نرم و ملایمی به سمت کلبه تاریک من می‌آید، انگار که او خبر از زیبایی و جذابیت موهای محبوبم دارد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "مگر صبا خبر از زلف یار من دارد؟",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "ز آشیان چو رهاندی، به دام هم مگذار",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که از آشیانت خارج می‌شوی، نباید دوباره به دام بیفتی؛ زیرا سال‌هاست که قفس انتظار من را در بر گرفته است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "که عمرهاست قفس انتظار من دارد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "طمع بریده‌ام از خشک و تر، ولی چه کنم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از هر نوع امید و آرزو دست برداشته‌ام، اما چه می‌توانم بکنم با این سیل اشکی که در کنار من دائم در حال جاری است؟"
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "به سیل اشک که سر در کنار من دارد",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "قرار صبر به خود چون دهم، که بی‌صبری",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من چگونه می‌توانم به خودم آرامش بدهم و صبر کنم، در حالی که بی‌صبری و آشفتگی در دل من وجود دارد؟"
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "قرارها به دل بی‌قرار من دارد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "ز نم چو آینه محروم باد چشم کسی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم کسی که به من طعنه می‌زند، از اشک و رنج محروم باشد؛ انگار که نمی‌تواند از نم و رنج من ببیند و درک کند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "که طعنه بر مژه اشکبار من دارد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "پس از هلاک، رساند به آب، خاک مرا",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس از اینکه نابود شدم، خاک من را به آب رساندند، زیرا نسیم صبحگاهی با غباری که از من به جا مانده بود، آشناست."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "ز الفتی که صبا با غبار من دارد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "چو عندلیب ازان رو مرید گلزارم",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همچون بلبل، به خاطر زیبایی گلزار، عاشق آنجا هستم؛ زیرا نرگس آنجا توجه و نگاهش را به محبوب من معطوف کرده است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "که نرگسش نظر از چشم یار من دارد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "همای حسن نیاورده سر ز بیضه برون",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای که نشان از خوبی و زیبایی دارد، به خاطر عشق و محبت، از لانه‌اش خارج نشده و در جستجوی شکار من است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "ز فیض عشق، هوای شکار من دارد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "ازان ز گوهر معنی چکد زلال حیات",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از عمق معنای وجود، زندگی زلال و پرطراوتی جاری می‌شود که به سخنان شیرین و دلنشین من تکیه دارد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "که تکیه بر سخن آبدار من دارد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "محیط فیض، گره‌های گوهر معنی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محیط فیض، فضایی است پر از نعمت و برکت. در این فضا، رشته‌های ارزشمند و معنا در انتظارند تا به وسیله قلم زیبا و هنرمندانه من تبیین و روشن شوند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "به نذر خامه گوهر نگار من دارد",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "خدای را بگشا فصل گل در قفسم",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند، فصل گل را برای من در قفسم باز کن، زیرا هر طرفی که نگاه می‌کنم، چمن‌هایی منتظر من هستند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "که هر طرف چمنی انتظار من دارد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "هزار بار مرا با وجود آنکه گداخت",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه بارها آزمایش شده‌ام و سختی‌های زیادی را پشت سر گذاشته‌ام، هنوز عشق در من به قوت خود باقی است و می‌تواند درباره‌ام صحبت کند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "هنوز عشق، سخن در عیار من دارد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "مگر به سلسله عشق برخورم ز جنون",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها زمانی که درگیر عشق شوم، ممکن است دیوانگی مرا نجات بدهد؛ در غیر این صورت، عقل به چه درد من می‌خورد؟"
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "وگرنه عقل چه پروای کار من دارد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "جنون رسیده به جایی مرا، که چون مجنون",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به جایی رسیده‌ام که دیوانگی من به حدی است که مانند مجنون، هزار سنگ در دست دارم و در انتظار من است."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "هزار سنگ به کف، انتظار من دارد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "به یاد گلشن کوی تو چشم خونبارم",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به یاد باغ و گلزار تو، چشمانم پر از اشک است و در کنارم هزاران خوشه گل وجود دارد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "هزار خرمن گل در کنار من دارد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "چه دیده‌هاست که دریای خشک لب ز جهان",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه چشم‌هایی که در این دنیای بی‌احساس، به چشمان من نگاه کرده و غم و اندوه را در اعماق خود حس می‌کنند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "به یمن دیده تر، بر کنار من دارد",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    }
+  ]
+}

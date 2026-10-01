@@ -1,0 +1,150 @@
+{
+  "Id": 61963,
+  "CatId": 1858,
+  "Title": "شمارهٔ ۱۳۸۱",
+  "FullTitle": "امیرخسرو دهلوی » دیوان اشعار » غزلیات » شمارهٔ ۱۳۸۱",
+  "FullUrl": "/khosro/gozide/ghazalamkh/sh1381",
+  "RhymeLetters": "شم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر از درد و رنج خود سخن می‌گوید و به ارتباطش با عشق و مرگ اشاره می‌کند. او به گریه‌هایش عادت کرده و مرگ را برای خود شیرین می‌داند. در عین حال، او حسرت دوری از یاران و نزدیکانش را دارد و خود را مانند سگی حس می‌کند که از دور با سنگی سرگرم است. شاعر به زاهدانی که از عشق و زیبایی غافل هستند انتقاد می‌کند و می‌گوید که عشق او را به سوی محبوبش می‌کشاند. او در پایان از خطرهایی که جانش را تهدید می‌کند سخن می‌گوید و به مظلومیت خود اشاره می‌کند.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شم",
+      "PlainText": "هر شبی با گریه های خود خوشم\r\nگر چه هست آن روغنی بر آتشم\r\nمرگ شیرین شد مرا از عیش تلخ\r\nزنده گردم وه کزین شربت خوشم\r\nگل ز باغ وصل نزدیکان برند\r\nمن چو سگ از دور با سنگی خوشم\r\nای که پابوسی فغانم زن که من\r\nزاهد کویم ولی شاهدوشم\r\nبس که جانم عاشق دشنام اوست\r\nهر که را گوید به سوی خود کشم\r\nیک نفس بنشین که میرم پیش تو\r\nتا نفس باقیست پنج و یا ششم\r\nمور گر میرد نباشد خونبها\r\nپی سپر کن زیر پای ابرشم\r\nز آه خسرو جان من ایمن مباش\r\nکاسمان دوز است تیر تر کشم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر شبی با گریه های خود خوشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر چه هست آن روغنی بر آتشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرگ شیرین شد مرا از عیش تلخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزنده گردم، وه کزین شربت خوشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل ز باغ وصل نزدیکان برند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن چو سگ از دور با سنگی خوشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای که پابوسی، فغانم زن که من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزاهد کویم، ولی شاهدوشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس که جانم عاشق دشنام اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر که را گوید، به سوی خود کشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک نفس بنشین که میرم پیش تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا نفس باقیست پنج و یا ششم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمور گر میرد نباشد خونبها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپی سپر کن زیر پای ابرشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آه خسرو، جان من، ایمن مباش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاسمان دوز است تیر تر کشم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر شبی با گریه های خود خوشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر شب با اشک‌های خود راحت هستم، حتی اگر این اشک‌ها باعث شعله‌ورتر شدن آتش درونم شوند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گر چه هست آن روغنی بر آتشم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرگ شیرین شد مرا از عیش تلخ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرگ برای من لذت‌بخش شده است و از زندگی تلخ و سختی که دارم، رهایی می‌یابم. چه خوب است که از این نوشیدنی خوشم آمده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زنده گردم، وه کزین شربت خوشم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گل ز باغ وصل نزدیکان برند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گل‌ها از باغ نزدیکان چیده می‌شوند، اما من مثل سگ از دور، با سنگی خوشحال هستم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "من چو سگ از دور با سنگی خوشم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای که پابوسی، فغانم زن که من",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که به من احترام می‌گذاری و به من توجه می‌کنی، فریاد بزن که من در ظاهر یک زاهد هستم، اما در باطن، عاشق و دلبسته هستم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زاهد کویم، ولی شاهدوشم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بس که جانم عاشق دشنام اوست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچقدر که جانم به دشنام او عاشق است، هر کسی که از او بد بگوید، به سمت خودم جذب می‌شود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر که را گوید، به سوی خود کشم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "یک نفس بنشین که میرم پیش تو",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای لحظه‌ای استراحت کن که من به سوی تو می‌روم تا زمانی که نفس در بدنم هست، شاید در روز پنجم یا ششم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "تا نفس باقیست پنج و یا ششم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "مور گر میرد نباشد خونبها",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مورچه‌ای بمیرد، خونبهای آن داده نمی‌شود. بنابراین، همانند سپر، زیر پای ابرها قرار بگیر و از خودت محافظت کن."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "پی سپر کن زیر پای ابرشم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ز آه خسرو، جان من، ایمن مباش",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از غم و درد خسرو، جان من، بی‌خیال نباش؛ چرا که آسمان همچون دوزخ است و تیرهای سنگین را به سوی من پرتاب می‌کند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "کاسمان دوز است تیر تر کشم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,630 @@
+{
+  "Id": 62681,
+  "CatId": 1859,
+  "Title": "شمارهٔ ۱۰۲ - در مدح شمس الکفاة خواجه احمدبن حسن میمندی",
+  "FullTitle": "فرخی سیستانی » دیوان اشعار » قصاید » شمارهٔ ۱۰۲ - در مدح شمس الکفاة خواجه احمدبن حسن میمندی",
+  "FullUrl": "/farrokhi/divanf/ghasidefk/sh102",
+  "RhymeLetters": "از",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف محفل خوش‌فرح و شادابی می‌پردازد که در آن ساقی و معشوقه و دوستان با هم به خوشی و بزم نشسته‌اند. تصاویری از گل‌ها، ماهروی زیبا و نغمه‌های دل‌انگیز مطرب کشیده می‌شود. شاعر به ستایش وزیر بزرگی به نام سید احمد می‌پردازد که در خدمت پادشاه است و فضل و مهارت او در اداره امور کشور به چشم می‌آید. او به قدرت و شجاعت وزیر اشاره کرده و از پیروزی‌هایش در جنگ‌ها سخن می‌گوید. در نهایت، شعر به شادی در بهار و لذت بردن از زندگی و عشق دعوت می‌کند و امیدوار است که همه در کنار هم به خوشی و افکار خوب بپردازند.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "از",
+      "PlainText": "سرو ساقی وماه رود نواز\r\nپرده بر بسته در ره شهناز\r\nزخمه رودزن نه پست ونه تیز\r\nزلف ساقی نه کوته ونه دراز\r\nمجلس خوب خسروانی وار\r\nاز سخن چین تهی واز غماز\r\nبوستانی ز لاله و سوسن\r\nهمچوروی تذرو و سینه باز\r\nدوستانی مساعد و یکدل\r\nکه توان گفت پیش ایشان راز\r\nماهرویی نشانده اندر پیش\r\nخوش زبان و موافق و دمساز\r\nجعد او بر پرند کشتی گیر\r\nزلف اوبر حریرچوگان باز\r\nباده چون گلاب روشن و تلخ\r\nمانده در خم ز گاه آدم باز\r\nاز چنین باده و چنین مجلس\r\nهیچ زاهد مرا ندارد باز\r\nساقیا ساتگینی اندر ده\r\nمطربا رود نرم و خوش بنواز\r\nغزلی خوان چو حله یی که بود\r\nنام صاحب بر او بجای طراز\r\nصاحب سید احمد آنکه ملوک\r\nنام او را همی برند نماز\r\nدر جهان هیچ شاه و خسرو نیست\r\nکه نه او را به فضل اوست نیاز\r\nکس نبیند فرو شده به نشیب\r\nهر که را خواجه بر کشد به فراز\r\nمهر و کینش مثل دو دربانند\r\nدر دولت کنندباز و فراز\r\nبربداندیش او فراز کنند\r\nباز دارند بر موافق باز\r\nبه در دولت اندرون نشود\r\nهر که زایشان نیافته ست جواز\r\nگر خلافش بکوه در فکنی\r\nکوه گیرد چو تب گرفته گداز\r\nماه را گر خلاف او طلبد\r\nمطلب جز به چاه نخشب باز\r\nخدمت او گزین که خدمت او\r\nخویشتن را کند فزون انداز\r\nبه در او دو هفته خدمت کن\r\nوز در او بآسمان در یاز\r\nآسمان بر ترست ز ابر بلند\r\nآسمان یافتی بر ابر مناز\r\nآز اگر بر تو غالبست مترس\r\nسوی آن خدمت مبارک تاز\r\nآب آن خدمت شریف کشد\r\nآتش آرزو وآتش آز\r\nهیچ شه را چنین وزیر نبود\r\nمملکت دار و کار ملک طراز\r\nدر همه چیزها که بینی هست\r\nخلق را عجز و خواجه را اعجاز\r\nبر شه شرق فرخست به فال\r\nفال او را سعادتست انباز\r\nتا ولایت بدو سپرد ملک\r\nگشت گیتی چو کلبه بزاز\r\nمتواتر شده ست نامه فتح\r\nگشته ره پر مرتب و جماز\r\nفتح مکران و در پیش کرمان\r\nری و قزوین و ساوه و اهواز\r\nور نکو بنگری براه در است\r\nنامه فتح بصره و شیراز\r\nاز پس فتح بصره فتح یمن\r\nوز پس هردو فتح شام و حجاز\r\nشاد باش ای وزیر فرخ پی\r\nدل به شادی و خرمی پرداز\r\nدوستان را بیافتی به مراد\r\nسر دشمن بکوفتی به جواز\r\nشکر شاهیت از طراز گذشت\r\nمی خور از دست لعبتان طراز\r\nنو بهارست و مطرب ازبر گل\r\nبر کشیده بر آسمان آواز\r\nخوش بود بر نوای بلبل و گل\r\nدل سپردن به رامش و بگماز\r\nخوش خورو خوش زی ای بهار کرم\r\nدر مراد و هوای دل بگراز\r\nتو بر این بالش و فکنده خدای\r\nاز تو اندر همه جهان آواز\r\nفرخی بنده تو بر در تو\r\nاز بساط تو بر کشیده دهاز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرو ساقی وماه رود نواز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپرده بر بسته در ره شهناز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزخمه رودزن نه پست ونه تیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلف ساقی نه کوته ونه دراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجلس خوب خسروانی وار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سخن چین تهی واز غماز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوستانی ز لاله و سوسن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچوروی تذرو و سینه باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوستانی مساعد و یکدل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه توان گفت پیش ایشان راز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماهرویی نشانده اندر پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش زبان و موافق و دمساز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجعد او بر پرند کشتی گیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلف اوبر حریرچوگان باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباده چون گلاب روشن و تلخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانده در خم ز گاه آدم باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چنین باده و چنین مجلس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ زاهد مرا ندارد باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساقیا ساتگینی اندر ده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمطربا رود نرم و خوش بنواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغزلی خوان چو حله یی که بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنام صاحب بر او بجای طراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحب سید احمد آنکه ملوک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنام او را همی برند نماز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جهان هیچ شاه و خسرو نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نه او را به فضل اوست نیاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس نبیند فرو شده به نشیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر که را خواجه بر کشد به فراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهر و کینش مثل دو دربانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دولت کنندباز و فراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبربداندیش او فراز کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز دارند بر موافق باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه در دولت اندرون نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر که زایشان نیافته ست جواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خلافش بکوه در فکنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوه گیرد چو تب گرفته گداز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eماه را گر خلاف او طلبد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمطلب جز به چاه نخشب باز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدمت او گزین که خدمت او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویشتن را کند فزون انداز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه در او دو هفته خدمت کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز در او بآسمان در یاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآسمان بر ترست ز ابر بلند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسمان یافتی بر ابر مناز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآز اگر بر تو غالبست مترس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی آن خدمت مبارک تاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب آن خدمت شریف کشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش آرزو وآتش آز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهیچ شه را چنین وزیر نبود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمملکت دار و کار ملک طراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر همه چیزها که بینی هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخلق را عجز و خواجه را اعجاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر شه شرق فرخست به فال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفال او را سعادتست انباز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا ولایت بدو سپرد ملک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشت گیتی چو کلبه بزاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمتواتر شده ست نامه فتح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشته ره پر مرتب و جماز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفتح مکران و در پیش کرمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eری و قزوین و ساوه و اهواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور نکو بنگری براه در است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنامه فتح بصره و شیراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پس فتح بصره، فتح یمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز پس هردو، فتح شام و حجاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاد باش ای وزیر فرخ پی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل به شادی و خرمی پرداز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوستان را بیافتی به مراد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر دشمن بکوفتی به جواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکر شاهیت از طراز گذشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی خور از دست لعبتان طراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنو بهارست و مطرب ازبر گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر کشیده بر آسمان آواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش بود بر نوای بلبل و گل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل سپردن به رامش و بگماز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش خورو خوش زی ای بهار کرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر مراد و هوای دل بگراز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو بر این بالش و فکنده خدای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تو اندر همه جهان آواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرخی بنده تو بر در تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بساط تو بر کشیده دهاز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 40
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سرو ساقی وماه رود نواز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرو زیبا و دلربا، در کنار ماه که به نرمی آب نوازش می‌کند، پرده‌ای را به خاطر زیبایی‌های شهناز بر افکنده‌اند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پرده بر بسته در ره شهناز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "زخمه رودزن نه پست ونه تیز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای ساز در رودزن نه ملایم است و نه تند، و موهای ساقی نه کوتاه است و نه بلند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "زلف ساقی نه کوته ونه دراز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مجلس خوب خسروانی وار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مجلس باید شبیه محفل‌های خسروانی باشد، خالی از افرادی که از دیگران سخن می‌گویند یا غیبت می‌کنند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از سخن چین تهی واز غماز",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بوستانی ز لاله و سوسن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک باغ پر از لاله و سوسن، مانند چهره‌ی زیبا و سینه‌ی باز طاووس."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "همچوروی تذرو و سینه باز",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دوستانی مساعد و یکدل",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دوستانی خوب و همفکر که می‌توان با خیال راحت در مورد رازهایمان با آنها صحبت کرد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "که توان گفت پیش ایشان راز",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ماهرویی نشانده اندر پیش",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک چهره زیبا و دلنشین در برابر من نشسته است، با لحن دلپذیر و هم‌دل که بسیار با من هماهنگ است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خوش زبان و موافق و دمساز",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "جعد او بر پرند کشتی گیر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: موهای مجعد او مانند پرهایی است که در جریان باد قرار گرفته‌اند و زلف‌هایش به نرمی حریر به نظر می‌آید، همچون یک بازیکن چغانی که در زمین بازی به نمایش خود ادامه می‌دهد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "زلف اوبر حریرچوگان باز",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "باده چون گلاب روشن و تلخ",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شراب مانند گلاب، روشن و تلخ است و در ظرفی باقی مانده، به یاد روزهای آدم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "مانده در خم ز گاه آدم باز",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "از چنین باده و چنین مجلس",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از این نوع باده و این گونه مجلس، هیچ زاهدی نمی‌تواند مرا به دور کند یا منصرف سازد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "هیچ زاهد مرا ندارد باز",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ساقیا ساتگینی اندر ده",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ساقی، به من شرابی بده که در اینجا مطرب به نواختن سازهای دلنشین مشغول است. بیا و با نواهای زیبا و ملایم، فضای دل را پر کن."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "مطربا رود نرم و خوش بنواز",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "غزلی خوان چو حله یی که بود",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی غزلی را می‌خوانی، مانند پارچه‌ای زیبا است که نام صاحب آن بر رویش نقش بسته است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "نام صاحب بر او بجای طراز",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "صاحب سید احمد آنکه ملوک",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سید احمد، کسی است که به او لقب ملوک داده‌اند و در مورد او احترام زیادی وجود دارد. او فردی است که در انجام نماز و عبادت اهمیت ویژه‌ای دارد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "نام او را همی برند نماز",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "در جهان هیچ شاه و خسرو نیست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این جهان هیچ شاه و بزرگی وجود ندارد که به نعمت‌ها و فضایل خود نیازمند نباشد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "که نه او را به فضل اوست نیاز",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "کس نبیند فرو شده به نشیب",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌بیند کسی را که در دره‌ای افتاده است، مگر آنکه شخصی او را به بلندی بکشد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "هر که را خواجه بر کشد به فراز",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "مهر و کینش مثل دو دربانند",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و دشمنی مانند دو دربان هستند که بر ورود و خروج هیجان‌ها کنترل دارند و در زندگی ما تأثیر می‌گذارند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "در دولت کنندباز و فراز",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "بربداندیش او فراز کنند",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: افراد بداندیش را مهار می‌کنند و مانع از پیشرفت آنها می‌شوند، در حالی که در برابر کسانی که با آنها هم‌راستا هستند، به آنها اجازه پیشرفت می‌دهند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "باز دارند بر موافق باز",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "به در دولت اندرون نشود",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که مجوزی از آن‌ها نگرفته باشد، نمی‌تواند وارد عرصه قدرت و ثروت شود."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "هر که زایشان نیافته ست جواز",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "گر خلافش بکوه در فکنی",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در برابر آن عمل خشمگین شوی، مانند کوهی که در آتش می‌سوزد، به سرعت ذوب می‌شود."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "کوه گیرد چو تب گرفته گداز",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "ماه را گر خلاف او طلبد",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی بخواهد ماه را به دست آورد، باید بداند که هیچ چیزی جز تلاش واقعی برای رسیدن به آن ممکن نیست. در واقع، هر خواسته‌ای که به طور غیرقانونی یا نادرست دنبال شود، به جایی نخواهد رسید."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "مطلب جز به چاه نخشب باز",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "خدمت او گزین که خدمت او",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به افرادی که به شما خدمت می‌کنند، اهمیت بدهید و از کنارشان بی‌تفاوت نگذرید؛ زیرا خدمت به آن‌ها باعث می‌شود ارزش و توانایی‌های خودتان افزایش یابد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "خویشتن را کند فزون انداز",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "به در او دو هفته خدمت کن",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دو هفته به در خانه‌اش برو و خدمت کن، سپس از در او به سمت آسمان پرواز کن."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "وز در او بآسمان در یاز",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "آسمان بر ترست ز ابر بلند",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان از ابرهای بلند تر است، بنابراین به خاطر ابرها با آن درگیر نشوید."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "آسمان یافتی بر ابر مناز",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "آز اگر بر تو غالبست مترس",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بر تو ترس غلبه کرده، نگران نباش و به سوی آن خدمت ارزشمند برو."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "سوی آن خدمت مبارک تاز",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "آب آن خدمت شریف کشد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب می‌تواند آرزوها و آتش‌های آز را خاموش کند و کمک کند تا انسان به آرامش برسد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "آتش آرزو وآتش آز",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "هیچ شه را چنین وزیر نبود",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ پادشاهی اینچنین وزیری برای اداره مملکت و انجام کارهای دولتی نداشته است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "مملکت دار و کار ملک طراز",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "در همه چیزها که بینی هست",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر چیزی که مشاهده کنی، مردم ناتوانی خود را نشان می‌دهند و در مقابل، بزرگان و صاحب‌نظران توانایی‌های فوق‌العاده‌ای دارند."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "خلق را عجز و خواجه را اعجاز",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "بر شه شرق فرخست به فال",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بر پادشاه سرزمین شرق، شادمان و خوشبخت بخت او را به فال نیک می‌زنند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "فال او را سعادتست انباز",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "تا ولایت بدو سپرد ملک",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که حکومت به او واگذار شد، جهان مانند کلبه یک بازرگان شد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "گشت گیتی چو کلبه بزاز",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "متواتر شده ست نامه فتح",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خبر فتح به سرعت در حال پخش شدن است و راه‌ها به شکل منظم و مرتب در حال آماده‌سازی برای ورود به جشن و شادی هستند."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "گشته ره پر مرتب و جماز",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "فتح مکران و در پیش کرمان",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پیروزی در مکران و در مسیر شهرهای کرمان، ری، قزوین، ساوه و اهواز."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "ری و قزوین و ساوه و اهواز",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "ور نکو بنگری براه در است",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به درستی بنگری، در این مسیر نامه‌ای وجود دارد که فتح بصره و شیراز را به تصویر می‌کشد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "نامه فتح بصره و شیراز",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "از پس فتح بصره، فتح یمن",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس از آنکه بصره به تصرف درآمد، یمن نیز فتح شد و پس از آن، شام و حجاز نیز به همین ترتیب تسخیر شدند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "وز پس هردو، فتح شام و حجاز",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "شاد باش ای وزیر فرخ پی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای وزیر خوشبخت، خوشحال باش و به شادی و خوشی بپرداز."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "دل به شادی و خرمی پرداز",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "دوستان را بیافتی به مراد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دوستان را به هدفی برسانی، می‌توانی به تنهایی به دشمن ضربه بزنی و مجوز این کار را داشته باشی."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "سر دشمن بکوفتی به جواز",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "شکر شاهیت از طراز گذشت",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عزت و مقام تو فراتر از حد و اندازه‌های معمول است، پس از دست بازیگرانی که در اوج زیبایی و جاذبه هستند، لذت ببر."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "می خور از دست لعبتان طراز",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "نو بهارست و مطرب ازبر گل",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهار نو فرا رسیده و نوازنده از روی گل‌ها آواز دلنوازی را به آسمان می‌فرستد."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "بر کشیده بر آسمان آواز",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "خوش بود بر نوای بلبل و گل",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شنیدن صدای دل‌انگیز بلبل و زیبایی گل، بسیار خوشایند است و انسان را به دنیای دل‌نشین موسیقی و آرامش می‌کشاند."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "دل سپردن به رامش و بگماز",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "خوش خورو خوش زی ای بهار کرم",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهار زیبا و خوشبو، از زندگی و لذت‌هایش بهره‌مند باش و به خواسته‌ها و آرزوهای دل خود بپرداز."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "در مراد و هوای دل بگراز",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "تو بر این بالش و فکنده خدای",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو بر این بالش نشسته‌ای و خداوند صدای تو را در همه جهان پراکنده کرده است."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "از تو اندر همه جهان آواز",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "فرخی بنده تو بر در تو",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرخی در درگاه تو ایستاده و از نعمت‌های تو بهره‌مند شده است."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "از بساط تو بر کشیده دهاز",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    }
+  ]
+}

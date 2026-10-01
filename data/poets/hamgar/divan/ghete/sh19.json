@@ -1,0 +1,555 @@
+{
+  "Id": 120597,
+  "CatId": 2780,
+  "Title": "شمارهٔ ۱۹",
+  "FullTitle": "مجد همگر » دیوان اشعار » قطعات » شمارهٔ ۱۹",
+  "FullUrl": "/hamgar/divan/ghete/sh19",
+  "RhymeLetters": "ینکنند",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر حاکی از زیبایی و بزرگی دائمی دریایی است که همیشه به انسان‌ها نعمت‌ها و برکت‌ها می‌دهد. شاعر با توصیفات زیبا از عطر گل‌ها، نظم جهان و ارتباط با دل‌های عاشق، به ما یادآوری می‌کند که حتی در سختی‌ها و ناامیدی‌ها نیز امید و آشتی وجود دارد. او به بزرگی و مهربانی خداوند اشاره کرده و می‌گوید که نعمت‌ها باید به دل‌های خستگان برسد. همچنین، به اهمیت دعا و صداقت در ارتباط با خدا و دیگران پرداخته شده است. در نهایت، شاعر از مشکلات و چالش‌های زندگی سخن می‌گوید و امیدوار است که زندگی پر از برکت و شادکامی باشد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ورفرستد",
+      "PlainText": "ای بحر براعت که ضمیر تو جهان را\r\nدایم به عطا لولو منثور فرستد\r\nکلکت در ناسفته به اقطار رساند\r\nطبعت زر ناسخته به جمهور فرستد\r\nنظمی که فرستادیم از روی تفضل\r\nزانهاست که خورشید به گنجور فرستد\r\nآری چه شود کم اگر آن گلبن دولت\r\nبویی به دل خسته رنجور فرستد\r\nزان خلق معطر چه کم آید که نسیمی\r\nنزدیک یکی عاشق مهجور فرستد\r\nدر حوصله این دل مهموم نگنجد\r\nنوباوه کز آن خاطر مسرور فرستد\r\nکس هسته شهباز به دراج نماید\r\nیا طعمه سیمرغ به عصفور فرستد\r\nدل خواست که ترتیب دعایی کند از صدق\r\nوانگه سوی آن ساحت معمور فرستد\r\nعقلش ز سر طعنه قفایی به سزا داد\r\nیعنی که کس آن خدره سوی طور فرستد\r\nبر ماه چه منت بود ار ابر به نوروز\r\nاز هاله ورا خرمن کافور فرستد\r\nدر علم عطارد چه فزاید گرش از جهل\r\nاستاد لغت تخته مسطور فرستد\r\nباشد ز در خنده چو چوبک زن لوری\r\nخاتون فلک را دف و طنبور فرستد\r\nچون سایه سیه رو بود آن کز مه نخشب\r\nخورشید جهان را مدد از نور فرستد\r\nکیوان نشود مفتخر از رای به یاریش\r\nآنکس که به تو رقعه ناجور فرستد\r\nآن مستی غفلت بود آنکو به تقرب\r\nنزدیک خضر جرعه مخمور فرستد\r\nاز ساده دلی باشد کز ماک ده شوخ\r\nلختی جگر سوخته زی حور فرستد\r\nشینی بود از خرمگسی قطره شوری\r\nزی خانه شش گوشه زنبور فرستد\r\nکی بر طبق بید بر خوشه پروین\r\nدهقان خرف خوشه انگور فرستد\r\nپیروزی از آنکس نتوان داشت طمع کو\r\nپیروزه کرمان به نشابور فرستد\r\nکس نسخه نقش در گرمابه به تحفه\r\nبر دیبه چینی سوی فغفور فرستد\r\nآنجا همه از عقل شنیده دل و این نظم\r\nمر شاه سخن را به چه دستور فرستد\r\nجان علی و جسم حسین و دل زهرا\r\nکز روضه رسولش سوی جان نور فرستد\r\nآن خسرو سادات که چرخش به سعادت\r\nاتمام سیادت را همه منشور فرستد\r\nای بحر گهرزای که موج تو عدو را\r\nاز نکبت نکبا سوی در دور فرستد\r\nقانع شو ازین خاک به یکذره ز اخلاص\r\nکز جان به مهر آمده میسور فرستد\r\nتقصیر مدان گر رهی از کثرت اشغال\r\nنزدیک تو این قصه مسطور فرستد\r\nاستاد سخندانی و کی عیب نماید\r\nبا قطعه اگر جایزه مزدور فرستد\r\nاز خوان وی این ماحضری سرد نماید\r\nخاصه چو زمستان ز ره دور فرستد\r\nتو گرم مزاج کرمی وز ره حکمت\r\nشاید که به وارد سوی محرور فرستد\r\nترسد که دلش سرد شود کز دل تنگش\r\nمر صدر ترا تفته مصدور فرستد\r\nآن به که ثناهای ترا خفیه سراید\r\nو اوراد دعاهای تو مستور فرستد\r\nتا شام ابد بخت تو بیدار بماناد\r\nتا چرخ ز خور سایه به دیجور فرستد\r\nبرکام جهان باش تو منصور و مظفر\r\nتا خور به جهان رایت منصور فرستد\r\nخصمت شده در خواب شبی تا دم صبحی\r\nکایام به بالینش دم صور فرستد\r\nاز قدر قدر روزی تو جام طرب باد\r\nتا واهب جان روزی مقدور فرستد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بحر براعت که ضمیر تو جهان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدائم به عطا لولو منثور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکلکت در ناسفته به اقطار رساند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطبعت زر ناسخته به جمهور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظمی که فرستادیم از روی تفضل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانهاست که خورشید به گنجور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآری چه شود کم اگر آن گلبن دولت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوئی به دل خسته رنجور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان خلق معطر چه کم آید که نسیمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزدیک یکی عاشق مهجور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حوصله این دل مهموم نگنجد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوباوه کز آن خاطر مسرور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس هسته شهباز به دراج نماید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا طعمه سیمرغ به عصفور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل خواست که ترتیب دعائی کند از صدق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانگه سوی آن ساحت معمور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقلش ز سر طعنه قفائی به سزا داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی که کس آن خدره سوی طور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر ماه چه منت بود ار ابر به نوروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز هاله ورا خرمن کافور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر علم عطارد چه فزاید گرش از جهل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاستاد لغت تخته مسطور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباشد ز در خنده چو چوبک زن لوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاتون فلک را دف و طنبور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سایه سیه رو بود آن کز مه نخشب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید جهان را مدد از نور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکیوان نشود مفتخر از رای به یاریش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکس که به تو رقعه ناجور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن مستی غفلت بود آنکو به تقرب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزدیک خضر جرعه مخمور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ساده دلی باشد کز ماک ده شوخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلختی جگر سوخته زی حور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشینی بود از خرمگسی قطره شوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزی خانه شش گوشه زنبور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکی بر طبق بید بر خوشه پروین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدهقان خرف خوشه انگور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیروزی از آنکس نتوان داشت طمع کو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیروزه کرمان به نشابور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکس نسخه نقش در گرمابه به تحفه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دیبه چینی سوی فغفور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنجا همه از عقل شنیده دل و این نظم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر شاه سخن را به چه دستور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان علی و جسم حسین و دل زهرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز روضه رسولش سوی جان نور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن خسرو سادات که چرخش به سعادت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاتمام سیادت را همه منشور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بحر گهرزای که موج تو عدو را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نکبت نکبا سوی در دور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقانع شو ازین خاک به یکذره ز اخلاص\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز جان به مهر آمده میسور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتقصیر مدان گر رهی از کثرت اشغال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزدیک تو این قصه مسطور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاستاد سخندانی و کی عیب نماید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا قطعه اگر جایزه مزدور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز خوان وی این ماحضری سرد نماید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاصه چو زمستان ز ره دور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو گرم مزاج کرمی وز ره حکمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاید که به وارد سوی محرور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترسد که دلش سرد شود کز دل تنگش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر صدر ترا تفته مصدور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن به که ثناهای ترا خفیه سراید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو اوراد دعاهای تو مستور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا شام ابد بخت تو بیدار بماناد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چرخ ز خور سایه به دیجور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرکام جهان باش تو منصور و مظفر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا خور به جهان رایت منصور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخصمت شده در خواب شبی تا دم صبحی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکایام به بالینش دم صور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز قدر قدر روزی تو جام طرب باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا واهب جان روزی مقدور فرستد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 35
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای بحر براعت که ضمیر تو جهان را",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دریاى شگفتی که وجود تو مداوم به جهان جواهرات و نعمت‌های گرانبها هدیه می‌دهد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دائم به عطا لولو منثور فرستد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کلکت در ناسفته به اقطار رساند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای نشاط و خوشحالی تو، مانند طلاي ناب و خالصی است که هنوز به بهترین شکل در نیامده و شما باید آن را به همه معرفی کنی و در میان مردم پخش کنی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "طبعت زر ناسخته به جمهور فرستد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "نظمی که فرستادیم از روی تفضل",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نظمی که ما به شما هدیه داده‌ایم، از روی لطف و محبت است، همان‌طور که خورشید برای گنجشک‌ها هدیه می‌فرستد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "زانهاست که خورشید به گنجور فرستد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آری چه شود کم اگر آن گلبن دولت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر باغ خوشبختی بویی به دل خسته و رنجورم بفرستد، چه ضرری دارد؟"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بوئی به دل خسته رنجور فرستد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "زان خلق معطر چه کم آید که نسیمی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آن مردم خوشبو چه کم است که نسیمی به سمت یک عاشق دورافتاده بفرستند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "نزدیک یکی عاشق مهجور فرستد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "در حوصله این دل مهموم نگنجد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل غمگین و دل‌شکسته‌ام به اندازه‌ای بزرگ نیست که بتواند شادی و سروری که از یک خوشحالی نوظهور به یاد می‌آورم را در خود جای دهد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نوباوه کز آن خاطر مسرور فرستد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "کس هسته شهباز به دراج نماید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نمی‌تواند پرنده‌ای بزرگ و قدرتمند را به پرنده‌ای کوچک و بی‌ارزش بفروشد یا طعمه‌ای را که ارزشش بالاست، به جانداری کوچک و کم‌اهمیت بدهد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "یا طعمه سیمرغ به عصفور فرستد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "دل خواست که ترتیب دعائی کند از صدق",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل خواست که با صداقت دعایی بسازد و سپس آن را به سوی مکان مقدسی بفرستد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "وانگه سوی آن ساحت معمور فرستد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "عقلش ز سر طعنه قفائی به سزا داد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل او به طعنه و کنایه به او پاسخ داد که هیچ‌کس نمی‌تواند آن مبارز را به سوی کوه طور بفرستد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "یعنی که کس آن خدره سوی طور فرستد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "بر ماه چه منت بود ار ابر به نوروز",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که اگر ابر در روز نوروز بر ماه سایه بیفکند، چه نیازی به منت کشیدن از ماه خواهد بود؟ در واقع، شاعر به زیبایی و اهمیت ماه اشاره می‌کند و می‌گوید که اگر کسی بتواند چنین نیکی را به او هدیه دهد، ارزش آن کم نیست."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "از هاله ورا خرمن کافور فرستد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "در علم عطارد چه فزاید گرش از جهل",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حتی اگر عطارد در علم و دانش پیشرفت کند، چرا که می‌تواند تنها واژه‌های معمولی را از استاد بی‌دانش بشنود و به کاغذ منتقل کند."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "استاد لغت تخته مسطور فرستد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "باشد ز در خنده چو چوبک زن لوری",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در شادی و خندیدن همچون چوبک در دستان نوازنده باشی، آنگاه آسمان نیز برای تو ساز و طرب می‌آورد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "خاتون فلک را دف و طنبور فرستد",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "چون سایه سیه رو بود آن کز مه نخشب",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که سایه‌ای تاریک بر می‌افتد، از آنجا که ماه نوری درخشنده دارد، خورشید برای روشن کردن جهان از آن نور بهره می‌گیرد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "خورشید جهان را مدد از نور فرستد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "کیوان نشود مفتخر از رای به یاریش",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کیوان (سیاره زحل) نمی‌تواند به خاطر حمایت از کسی، خود را به مقام و افتخار برساند، اگر آن شخص برای تو پیامی ناخوشایند و ناپسند بفرستد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "آنکس که به تو رقعه ناجور فرستد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "آن مستی غفلت بود آنکو به تقرب",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن کسی که در حالت غفلت و بی‌خبر از حقیقت به نزدیک خضر (نماد دانش و آگاهی) می‌رسد، همانند کسی است که جرعه‌ای از نوشیدنی مست‌کننده دریافت می‌کند. در واقع، او در حالتی است که از اصل ماجرا غافل است و به سمت روشنایی و دانش نمی‌رود."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "نزدیک خضر جرعه مخمور فرستد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "از ساده دلی باشد کز ماک ده شوخ",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از روی سادگی، کسی که از ماک ده (ممکن است به مکانی اشاره داشته باشد) شوخی می‌کند و دلش سوخته است، به حور (زنان بهشتی) چیزی می‌فرستد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "لختی جگر سوخته زی حور فرستد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "شینی بود از خرمگسی قطره شوری",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره به یک شین (نوعی موجود) است که از خرمگس می‌آید و قطره‌ای از مایع شور را به خانه‌ای شش گوشه، که نماد کندوی زنبور است، می‌فرستد. این تصویرسازی بیان‌گر ارتباط و انتقال چیزی از طبیعت به جایی خاص است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "زی خانه شش گوشه زنبور فرستد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "کی بر طبق بید بر خوشه پروین",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کی، دلاوری بر شانه بید و در کنار خوشه پروین، کشاورز انگورهای خوشمزه را برای تو می‌فرستد؟"
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "دهقان خرف خوشه انگور فرستد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "پیروزی از آنکس نتوان داشت طمع کو",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که بر پیروزی دیگران حساب باز کند، هرگز موفق نخواهد بود. به عنوان مثال، کسی که انتظار داشته باشد قهرمان کرمان برای کمک به نشابور بیاید، در واقع در اشتباه است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "پیروزه کرمان به نشابور فرستد",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "کس نسخه نقش در گرمابه به تحفه",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس نسخه‌ای از نقوش را در حمام به عنوان هدیه روی دیبۀ چینی به سوی فغفور نمی‌فرستد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "بر دیبه چینی سوی فغفور فرستد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "آنجا همه از عقل شنیده دل و این نظم",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آنجا همه چیز بر اساس عقل و فکر است و از دل هیچ خبری نیست. حالا این نظم و شعر را چگونه می‌توان به شاه سخن ارائه داد؟"
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "مر شاه سخن را به چه دستور فرستد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "جان علی و جسم حسین و دل زهرا",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: علی روح بزرگ و زنده‌ای است، حسین جسمی شجاع و دل‌نگران است که فاطمه دارد، و از باغی که پیامبرش می‌سازد، نور و زندگی را به سوی جان‌ها فرستاده می‌شود."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "کز روضه رسولش سوی جان نور فرستد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "آن خسرو سادات که چرخش به سعادت",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن پادشاه بزرگ سادات که سرنوشتش به خوشبختی ختم می‌شود، همه نشانه‌های شکوه و رهبری را برای دیگران می‌فرستد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "اتمام سیادت را همه منشور فرستد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "ای بحر گهرزای که موج تو عدو را",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دریا که جوهرهای قیمتی را از خود می‌زاید، امواج تو دشمن را از بدی‌ها و ناپاکی‌ها به دور می‌رانند."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "از نکبت نکبا سوی در دور فرستد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "قانع شو ازین خاک به یکذره ز اخلاص",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیش از این از دنیای مادی و این خاک انتظار نداشته باش، زیرا از دل و با اخلاص، عشق و مهر به تو هدیه خواهد شد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "کز جان به مهر آمده میسور فرستد",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "تقصیر مدان گر رهی از کثرت اشغال",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به خاطر شلوغی و مشغله‌های زیاد نمی‌توانی به من نزدیک شوی، تقصیر تو نیست. این داستان را برایت نوشتم تا بدانی."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "نزدیک تو این قصه مسطور فرستد",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "استاد سخندانی و کی عیب نماید",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی در سخنوری استاد باشد، چه کسی می‌تواند او را سرزنش کند، حتی اگر خوابی از جایزه و پاداش برای او به ارمغان آورد؟"
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "با قطعه اگر جایزه مزدور فرستد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "از خوان وی این ماحضری سرد نماید",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از میهمانی او، این سرما به شدت احساس می‌شود، به ویژه زمانی که در زمستان از راه دور منتقل شود."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "خاصه چو زمستان ز ره دور فرستد",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "تو گرم مزاج کرمی وز ره حکمت",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو دارای طبیعتی گرم و پرنشاطی هستی و شاید از راه دانش و آگاهی، به فردی با شور و احساس شدید فرستاده شوی."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "شاید که به وارد سوی محرور فرستد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "ترسد که دلش سرد شود کز دل تنگش",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او نگران است که مبادا دلش بی‌احساس و سرد شود؛ از دل نگران او ممکن است پیامی پر از غصه و درد به سوی تو ارسال شود."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "مر صدر ترا تفته مصدور فرستد",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "آن به که ثناهای ترا خفیه سراید",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهتر است کسی که در پنهان از تو مدح و ستایش کند و دعاهای تو را به طور مخفیانه بفرستد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "و اوراد دعاهای تو مستور فرستد",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "تا شام ابد بخت تو بیدار بماناد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا روزی که همه‌ی بخت و خوش‌شانسی تو بیدار و آماده باشد، مقصد و زمان حرکت تقدیر به سمت تو تغییر نکند و سایه‌ی خورشید بر تو بیفکند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "تا چرخ ز خور سایه به دیجور فرستد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "برکام جهان باش تو منصور و مظفر",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زندگی خود باید پیروز و کامیاب باشی تا اینکه در نهایت، موفقیت و پیروزی‌ات را به دیگران نیز منتقل کنی."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "تا خور به جهان رایت منصور فرستد",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "خصمت شده در خواب شبی تا دم صبحی",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در خواب شب، با کسی که با او خصومت داری، درگیری پیدا کردی تا صبحی که بامداد به کنار بسترش برسی و نفحات الهی را به او برسانی."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "کایام به بالینش دم صور فرستد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "از قدر قدر روزی تو جام طرب باد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: باشد که از ارزش روزی تو شادی و خوشحالی به دست آید تا آنکه بخشنده جان، روزی مناسب را برایت بفرستد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "تا واهب جان روزی مقدور فرستد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    }
+  ]
+}

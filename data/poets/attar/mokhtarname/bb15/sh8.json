@@ -1,0 +1,60 @@
+{
+  "Id": 34675,
+  "CatId": 816,
+  "Title": "شمارهٔ ۸",
+  "FullTitle": "عطار » مختارنامه » باب پانجدهم: در نیازمندی به ملاقات همدمی محرم » شمارهٔ ۸",
+  "FullUrl": "/attar/mokhtarname/bb15/sh8",
+  "RhymeLetters": "ویممن",
+  "SourceName": "کتابخانه تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات از احساس عمیق خود نسبت به عشق و دردهای آن سخن می‌گوید. او می‌گوید که در جستجوی عشق و دردی که با آن همراه است، خود را غرق در آن می‌یابد. او به دنبال نشانه‌هایی از عشق و سوختن دل محبوب است تا او نیز بتواند درک کند که چه احساسی دارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ویممن",
+      "PlainText": "چندانکه به درد عشق می پویم من\r\nدر دردم و درد عشق می جویم من\r\nکو سوخته ای که جان او می سوزد\r\nتا بو که بداند که چه می گویم من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندانکه به درد عشق می‌پویم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دردم و دردِ عشق می‌جویم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو سوخته‌ای که جان او می‌سوزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بو که بداند که چه می‌گویم من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چندانکه به درد عشق می‌پویم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به اندازه‌ای که در عشق دچار درد هستم، در آن درد غرق شده‌ام و در جستجوی درد عشق می‌باشم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در دردم و دردِ عشق می‌جویم من",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کو سوخته‌ای که جان او می‌سوزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شخصی در تلاش است تا بفهمد احساسات و افکار عمیق او چیست و به دنبال درک واقعیت‌هایی است که خودش را در آتش سوختن نشان می‌دهد. او امیدوار است که دیگران هم این درد و دلتنگی را درک کنند و بدانند که او چه می‌گوید."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا بو که بداند که چه می‌گویم من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,1946 @@
+{
+  "Id": 8079,
+  "CatId": 105,
+  "Title": "بخش ۱۵ - فروختن صوفیان بهیمهٔ مسافر را جهت سماع",
+  "FullTitle": "مولانا » مثنوی معنوی » دفتر دوم » بخش ۱۵ - فروختن صوفیان بهیمهٔ مسافر را جهت سماع",
+  "FullUrl": "/moulavi/masnavi/daftar2/sh15",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، داستانی از یک صوفی روایت می‌شود که به خانقاهی می‌رسد و پس از آن شرایطی به وجود می‌آید که او و دیگر صوفیان به سراغ لذت و خوشی می‌روند. این صوفی از مسافری کمک می‌گیرد و همه به سماع و شادمانی می‌پردازند. در این اثنا، شریطی به وجود می‌آید که مشکلاتی بر سر راه صوفی و خر او پیش می‌آید.\n\nموضوع اصلی شعر انتقاد از تقلید کورکورانه و سوءاستفاده از دین و معنویت برای رسیدن به خواسته‌های مادی است. همچنین، به ضرورت آگاهی و بینش در پیروی از آموزه‌های دینی و شناخت خود اشاره می‌شود. در نهایت، تصوّر نادرست از صوفیانه بودن و دوری از حقیقت در این مقوله، پیغام کلیدی این اثر است.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "صوفیی در خانقاه از ره رسید\r\nمرکب خود برد و در آخر کشید\r\nآبکش داد و علف از دست خویش\r\nنه چنان صوفی که ما گفتیم پیش\r\nاحتیاطش کرد از سهو و خباط\r\nچون قضا آید چه سودست احتیاط\r\nصوفیان تقصیر بودند و فقیر\r\nکاد فقرا ان یکن کفرا یبیر\r\nای توانگر که تو سیری هین مخند\r\nبر کژی آن فقیر دردمند\r\nاز سر تقصیر آن صوفی رمه\r\nخرفروشی در گرفتند آن همه\r\nکز ضرورت هست مرداری مباح\r\nبس فسادی کز ضرورت شد صلاح\r\nهم در آن دم آن خرک بفروختند\r\nلوت آوردند و شمع افروختند\r\nولوله افتاد اندر خانقه\r\nکامشبان لوت و سماعست و وله\r\nچند ازین صبر و ازین سه روزه چند\r\nچند ازین زنبیل و این دریوزه چند\r\nما هم از خلقیم و جان داریم ما\r\nدولت امشب میهمان داریم ما\r\nتخم باطل را از آن می کاشتند\r\nکانک آن جان نیست جان پنداشتند\r\nوان مسافر نیز از راه دراز\r\nخسته بود و دید آن اقبال و ناز\r\nصوفیانش یک به یک بنواختند\r\nنرد خدمتهای خوش می باختند\r\nگفت چون می دید میلانش به وی\r\nگر طرب امشب نخواهم کرد کی\r\nلوت خوردند و سماع آغاز کرد\r\nخانقه تا سقف شد پر دود و گرد\r\nدود مطبخ گرد آن پا کوفتن\r\nز اشتیاق و وجد جان آشوفتن\r\nگاه دست افشان قدم می کوفتند\r\nگه به سجده صفه را می روفتند\r\nدیر یابد صوفی آز از روزگار\r\nزان سبب صوفی بود بسیارخوار\r\nجز مگر آن صوفیی کز نور حق\r\nسیر خورد او فارغست از ننگ دق\r\nاز هزاران اندکی زین صوفیند\r\nباقیان در دولت او می زیند\r\nچون سماع آمد ز اول تا کران\r\nمطرب آغازید یک ضرب گران\r\nخر برفت و خر برفت آغاز کرد\r\nزین حرارت جمله را انباز کرد\r\nزین حرارت پای کوبان تا سحر\r\nکف زنان خر رفت و خر رفت ای پسر\r\nاز ره تقلید آن صوفی همین\r\nخر برفت آغاز کرد اندر حنین\r\nچون گذشت آن نوش و جوش و آن سماع\r\nروز گشت و جمله گفتند الوداع\r\nخانقه خالی شد و صوفی بماند\r\nگرد از رخت آن مسافر می فشاند\r\nرخت از حجره برون آورد او\r\nتا به خر بر بندد آن همراه جو\r\nتا رسد در همرهان او می شتافت\r\nرفت در آخر خر خود را نیافت\r\nگفت آن خادم به آبش برده است\r\nزانک خر دوش آب کمتر خورده است\r\nخادم آمد گفت صوفی خر کجاست\r\nگفت خادم ریش بین جنگی بخاست\r\nگفت من خر را به تو بسپرده ام\r\nمن تو را بر خر موکل کرده ام\r\nاز تو خواهم آنچ من دادم به تو\r\nباز ده آنچ فرستادم به تو\r\nبحث با توجیه کن حجت میار\r\nآنچ من بسپردمت وا پس سپار\r\nگفت پیغمبر که دستت هر چه برد\r\nبایدش در عاقبت وا پس سپرد\r\nور نه ای از سرکشی راضی بدین\r\nنک من و تو خانه قاضی دین\r\nگفت من مغلوب بودم صوفیان\r\nحمله آوردند و بودم بیم جان\r\nتو جگربندی میان گربگان\r\nاندر اندازی و جویی زان نشان\r\nدر میان صد گرسنه گرده ای\r\nپیش صد سگ گربه پژمرده ای\r\nگفت گیرم کز تو ظلما بستدند\r\nقاصد خون من مسکین شدند\r\nتو نیایی و نگویی مر مرا\r\nکه خرت را می برند ای بی نوا\r\nتا خر از هر که بود من وا خرم\r\nورنه توزیعی کنند ایشان زرم\r\nصد تدارک بود چون حاضر بدند\r\nاین زمان هر یک به اقلیمی شدند\r\nمن که را گیرم که را قاضی برم\r\nاین قضا خود از تو آمد بر سرم\r\nچون نیایی و نگویی ای غریب\r\nپیش آمد این چنین ظلمی مهیب\r\nگفت والله آمدم من بارها\r\nتا ترا واقف کنم زین کارها\r\nتو همی گفتی که خر رفت ای پسر\r\nاز همه گویندگان با ذوق تر\r\nباز می گشتم که او خود واقفست\r\nزین قضا راضیست مردی عارفست\r\nگفت آن را جمله می گفتند خوش\r\nمر مرا هم ذوق آمد گفتنش\r\nمر مرا تقلیدشان بر باد داد\r\nکه دو صد لعنت بر آن تقلید باد\r\nخاصه تقلید چنین بی حاصلان\r\nخشم ابراهیم با بر آفلان\r\nعکس ذوق آن جماعت می زدی\r\nوین دلم زان عکس ذوقی می شدی\r\nعکس چندان باید از یاران خوش\r\nکه شوی از بحر بی عکس آب کش\r\nعکس کاول زد تو آن تقلید دان\r\nچون پیاپی شد شود تحقیق آن\r\nتا نشد تحقیق از یاران مبر\r\nاز صدف مگسل نگشت آن قطره در\r\nصاف خواهی چشم و عقل و سمع را\r\nبر دران تو پرده های طمع را\r\nزانک آن تقلید صوفی از طمع\r\nعقل او بر بست از نور و لمع\r\nطمع لوت و طمع آن ذوق و سماع\r\nمانع آمد عقل او را ز اطلاع\r\nگر طمع در آینه بر خاستی\r\nدر نفاق آن آینه چون ماستی\r\nگر ترازو را طمع بودی به مال\r\nراست کی گفتی ترازو وصف حال\r\nهر نبیی گفت با قوم از صفا\r\nمن نخواهم مزد پیغام از شما\r\nمن دلیلم حق شما را مشتری\r\nداد حق دلالیم هر دو سری\r\nچیست مزد کار من دیدار یار\r\nگرچه خود بوبکر بخشد چل هزار\r\nچل هزار او نباشد مزد من\r\nکی بود شبه شبه در عدن\r\nیک حکایت گویمت بشنو بهوش\r\nتا بدانی که طمع شد بند گوش\r\nهر که را باشد طمع الکن شود\r\nبا طمع کی چشم و دل روشن شود\r\nپیش چشم او خیال جاه و زر\r\nهمچنان باشد که موی اندر بصر\r\nجز مگر مستی که از حق پر بود\r\nگرچه بدهی گنجها او حر بود\r\nهر که از دیدار برخوردار شد\r\nاین جهان در چشم او مردار شد\r\nلیک آن صوفی ز مستی دور بود\r\nلاجرم در حرص او شبکور بود\r\nصد حکایت بشنود مدهوش حرص\r\nدر نیاید نکته ای در گوش حرص",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفیی در خانقاه از ره رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرکب خود برد و در آخُر کشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآبکش داد و علف از دست خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه چنان صوفی که ما گفتیم پیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاحتیاطش کرد از سهو و خباط\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون قضا آید چه سودست احتیاط\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفیان تقصیر بودند و فقیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاد فقراً ان یکن کفراً یبیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای توانگر که تو سیری هین مخند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر کژی آن فقیر دردمند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سر تقصیر آن صوفی رمه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرفروشی در گرفتند آن همه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکز ضرورت هست مرداری مباح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس فسادی کز ضرورت شد صلاح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم در آن دم آن خرک بفروختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلوت آوردند و شمع افروختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولوله افتاد اندر خانقه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامشبان لوت و سماعست و وله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچند ازین صبر و ازین سه روزه چند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند ازین زنبیل و این دریوزه چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما هم از خلقیم و جان داریم ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدولت امشب میهمان داریم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتخم باطل را از آن می‌کاشتند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکانک آن جان نیست جان پنداشتند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوان مسافر نیز از راه دراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخسته بود و دید آن اقبال و ناز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفیانش یک به یک بنواختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنرد خدمتهای خوش می‌باختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت چون می‌دید میلانش به وی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر طرب امشب نخواهم کرد کی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلوت خوردند و سماع آغاز کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخانقه تا سقف شد پر دود و گرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدود مطبخ گرد آن پا کوفتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اشتیاق و وجد جان آشوفتن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه دست‌افشان قدم می‌کوفتند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه به سجده صفه را می‌روفتند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیر یابد صوفی آز از روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان سبب صوفی بود بسیارخوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز مگر آن صوفیی کز نور حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیر خورد او فارغست از ننگ دق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز هزاران اندکی زین صوفیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباقیان در دولت او می‌زیند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سماع آمد ز اول تا کران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمطرب آغازید یک ضرب گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخر برفت و خر برفت آغاز کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین حرارت جمله را انباز کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین حرارت پای‌کوبان تا سحر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکف‌زنان خر رفت و خر رفت ای پسر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ره تقلید آن صوفی همین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخر برفت آغاز کرد اندر حنین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون گذشت آن نوش و جوش و آن سماع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز گشت و جمله گفتند الوداع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانقه خالی شد و صوفی بماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد از رخت آن مسافر می‌فشاند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخت از حجره برون آورد او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به خر بر بندد آن همراه‌جو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا رسد در همرهان او می‌شتافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفت در آخُر خر خود را نیافت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن خادم به آبش برده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانک خر دوش آب کمتر خورده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخادم آمد گفت صوفی خر کجاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت خادم ریش بین، جنگی بخاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت من خر را به تو بسپرده‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن تو را بر خر موکل کرده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تو خواهم آنچ من دادم به تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز ده آنچ فرستادم به تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبحث با توجیه کن حجت میار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنچ من بسپردمت وا پس سپار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت پیغمبر که دستت هر چه برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبایدش در عاقبت وا پس سپرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور نه‌ای از سرکشی راضی بدین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنک من و تو خانهٔ قاضی دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت من مغلوب بودم صوفیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحمله آوردند و بودم بیم جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو جگربندی میان گربگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر اندازی و جویی زان نشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر میان صد گرسنه گرده‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش صد سگ گربهٔ پژمرده‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت گیرم کز تو ظلما بستدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقاصد خون من مسکین شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو نیایی و نگویی مر مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خرت را می‌برند ای بی‌نوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا خر از هر که بود من وا خرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه توزیعی کنند ایشان زرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد تدارک بود چون حاضر بدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین زمان هر یک به اقلیمی شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن که را گیرم که را قاضی برم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین قضا خود از تو آمد بر سرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نیایی و نگویی ای غریب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش آمد این چنین ظلمی مهیب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت والله آمدم من بارها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ترا واقف کنم زین کارها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو همی‌گفتی که خر رفت ای پسر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز همه گویندگان با ذوق‌تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز می‌گشتم که او خود واقفست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین قضا راضیست مردی عارفست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن را جمله می‌گفتند خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر مرا هم ذوق آمد گفتنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر مرا تقلیدشان بر باد داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دو صد لعنت بر آن تقلید باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاصه تقلید چنین بی‌حاصلان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخشم ابراهیم با بر آفلان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعکس ذوق آن جماعت می‌زدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین دلم زان عکس ذوقی می‌شدی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعکس چندان باید از یاران خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شوی از بحر بی‌عکس آب‌کش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعکس کاول زد تو آن تقلید دان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون پیاپی شد شود تحقیق آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نشد تحقیق از یاران مبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز صدف مگسل نگشت آن قطره در\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاف خواهی چشم و عقل و سمع را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دران تو پرده‌های طمع را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانک آن تقلید صوفی از طمع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل او بر بست از نور و لمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطمع لوت و طمع آن ذوق و سماع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانع آمد عقل او را ز اطلاع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر طمع در آینه بر خاستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر نفاق آن آینه چون ماستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر ترازو را طمع بودی به مال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراست کی گفتی ترازو وصف حال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn61\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر نبیی گفت با قوم از صفا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن نخواهم مزد پیغام از شما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn62\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن دلیلم حق شما را مشتری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداد حق دلالیم هر دو سری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn63\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچیست مزد کار من دیدار یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه خود بوبکر بخشد چل هزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn64\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچل هزار او نباشد مزد من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی بود شِبهِ شَبَه دُر عَدَن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn65\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک حکایت گویمت بشنو بهوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بدانی که طمع شد بند گوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn66\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که را باشد طمع الکن شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا طمع کی چشم و دل روشن شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn67\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش چشم او خیال جاه و زر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچنان باشد که موی اندر بصر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn68\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز مگر مستی که از حق پُر بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه بدهی گنجها او حُر بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn69\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که از دیدار برخوردار شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین جهان در چشم او مردار شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn70\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک آن صوفی ز مستی دور بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاجرم در حرص او شبکور بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn71\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد حکایت بشنود مدهوش حرص\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر نیاید نکته‌ای در گوش حرص\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 71
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "صوفیی در خانقاه از ره رسید\r\nمرکب خود برد و در آخر کشید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفیی در خانقاه از ره رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرکب خود برد و در آخُر کشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یش",
+      "PlainText": "آبکش داد و علف از دست خویش\r\nنه چنان صوفی که ما گفتیم پیش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآبکش داد و علف از دست خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه چنان صوفی که ما گفتیم پیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اط",
+      "PlainText": "احتیاطش کرد از سهو و خباط\r\nچون قضا آید چه سودست احتیاط",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاحتیاطش کرد از سهو و خباط\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون قضا آید چه سودست احتیاط\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یر",
+      "PlainText": "صوفیان تقصیر بودند و فقیر\r\nکاد فقرا ان یکن کفرا یبیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفیان تقصیر بودند و فقیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاد فقراً ان یکن کفراً یبیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ند",
+      "PlainText": "ای توانگر که تو سیری هین مخند\r\nبر کژی آن فقیر دردمند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای توانگر که تو سیری هین مخند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر کژی آن فقیر دردمند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مه",
+      "PlainText": "از سر تقصیر آن صوفی رمه\r\nخرفروشی در گرفتند آن همه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سر تقصیر آن صوفی رمه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرفروشی در گرفتند آن همه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اح",
+      "PlainText": "کز ضرورت هست مرداری مباح\r\nبس فسادی کز ضرورت شد صلاح",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکز ضرورت هست مرداری مباح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس فسادی کز ضرورت شد صلاح\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فروختند",
+      "PlainText": "هم در آن دم آن خرک بفروختند\r\nلوت آوردند و شمع افروختند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم در آن دم آن خرک بفروختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلوت آوردند و شمع افروختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ه",
+      "PlainText": "ولوله افتاد اندر خانقه\r\nکامشبان لوت و سماعست و وله",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولوله افتاد اندر خانقه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامشبان لوت و سماعست و وله\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وزهچند",
+      "PlainText": "چند ازین صبر و ازین سه روزه چند\r\nچند ازین زنبیل و این دریوزه چند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچند ازین صبر و ازین سه روزه چند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند ازین زنبیل و این دریوزه چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "انداریمما",
+      "PlainText": "ما هم از خلقیم و جان داریم ما\r\nدولت امشب میهمان داریم ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما هم از خلقیم و جان داریم ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدولت امشب میهمان داریم ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اشتند",
+      "PlainText": "تخم باطل را از آن می کاشتند\r\nکانک آن جان نیست جان پنداشتند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتخم باطل را از آن می‌کاشتند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکانک آن جان نیست جان پنداشتند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "از",
+      "PlainText": "وان مسافر نیز از راه دراز\r\nخسته بود و دید آن اقبال و ناز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوان مسافر نیز از راه دراز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخسته بود و دید آن اقبال و ناز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اختند",
+      "PlainText": "صوفیانش یک به یک بنواختند\r\nنرد خدمتهای خوش می باختند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصوفیانش یک به یک بنواختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنرد خدمتهای خوش می‌باختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ی",
+      "PlainText": "گفت چون می دید میلانش به وی\r\nگر طرب امشب نخواهم کرد کی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت چون می‌دید میلانش به وی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر طرب امشب نخواهم کرد کی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "لوت خوردند و سماع آغاز کرد\r\nخانقه تا سقف شد پر دود و گرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلوت خوردند و سماع آغاز کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخانقه تا سقف شد پر دود و گرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وفتن",
+      "PlainText": "دود مطبخ گرد آن پا کوفتن\r\nز اشتیاق و وجد جان آشوفتن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدود مطبخ گرد آن پا کوفتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اشتیاق و وجد جان آشوفتن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وفتند",
+      "PlainText": "گاه دست افشان قدم می کوفتند\r\nگه به سجده صفه را می روفتند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه دست‌افشان قدم می‌کوفتند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه به سجده صفه را می‌روفتند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "دیر یابد صوفی آز از روزگار\r\nزان سبب صوفی بود بسیارخوار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیر یابد صوفی آز از روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان سبب صوفی بود بسیارخوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ق",
+      "PlainText": "جز مگر آن صوفیی کز نور حق\r\nسیر خورد او فارغست از ننگ دق",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز مگر آن صوفیی کز نور حق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیر خورد او فارغست از ننگ دق\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یند",
+      "PlainText": "از هزاران اندکی زین صوفیند\r\nباقیان در دولت او می زیند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز هزاران اندکی زین صوفیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباقیان در دولت او می‌زیند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ران",
+      "PlainText": "چون سماع آمد ز اول تا کران\r\nمطرب آغازید یک ضرب گران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سماع آمد ز اول تا کران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمطرب آغازید یک ضرب گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ازکرد",
+      "PlainText": "خر برفت و خر برفت آغاز کرد\r\nزین حرارت جمله را انباز کرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخر برفت و خر برفت آغاز کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین حرارت جمله را انباز کرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "زین حرارت پای کوبان تا سحر\r\nکف زنان خر رفت و خر رفت ای پسر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین حرارت پای‌کوبان تا سحر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکف‌زنان خر رفت و خر رفت ای پسر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "از ره تقلید آن صوفی همین\r\nخر برفت آغاز کرد اندر حنین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز ره تقلید آن صوفی همین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخر برفت آغاز کرد اندر حنین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اع",
+      "PlainText": "چون گذشت آن نوش و جوش و آن سماع\r\nروز گشت و جمله گفتند الوداع",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون گذشت آن نوش و جوش و آن سماع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز گشت و جمله گفتند الوداع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اند",
+      "PlainText": "خانقه خالی شد و صوفی بماند\r\nگرد از رخت آن مسافر می فشاند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانقه خالی شد و صوفی بماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد از رخت آن مسافر می‌فشاند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 29,
+      "Number": 29,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "و",
+      "PlainText": "رخت از حجره برون آورد او\r\nتا به خر بر بندد آن همراه جو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخت از حجره برون آورد او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به خر بر بندد آن همراه‌جو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 30,
+      "Number": 30,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "افت",
+      "PlainText": "تا رسد در همرهان او می شتافت\r\nرفت در آخر خر خود را نیافت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا رسد در همرهان او می‌شتافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفت در آخُر خر خود را نیافت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 31,
+      "Number": 31,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ردهاست",
+      "PlainText": "گفت آن خادم به آبش برده است\r\nزانک خر دوش آب کمتر خورده است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن خادم به آبش برده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانک خر دوش آب کمتر خورده است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 32,
+      "Number": 32,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "است",
+      "PlainText": "خادم آمد گفت صوفی خر کجاست\r\nگفت خادم ریش بین جنگی بخاست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخادم آمد گفت صوفی خر کجاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفت خادم ریش بین، جنگی بخاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 33,
+      "Number": 33,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ردهام",
+      "PlainText": "گفت من خر را به تو بسپرده ام\r\nمن تو را بر خر موکل کرده ام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت من خر را به تو بسپرده‌ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن تو را بر خر موکل کرده‌ام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 34,
+      "Number": 34,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ادمبهتو",
+      "PlainText": "از تو خواهم آنچ من دادم به تو\r\nباز ده آنچ فرستادم به تو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تو خواهم آنچ من دادم به تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز ده آنچ فرستادم به تو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 35,
+      "Number": 35,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "بحث با توجیه کن حجت میار\r\nآنچ من بسپردمت وا پس سپار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبحث با توجیه کن حجت میار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنچ من بسپردمت وا پس سپار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 36,
+      "Number": 36,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "برد",
+      "PlainText": "گفت پیغمبر که دستت هر چه برد\r\nبایدش در عاقبت وا پس سپرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت پیغمبر که دستت هر چه برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبایدش در عاقبت وا پس سپرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 37,
+      "Number": 37,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دین",
+      "PlainText": "ور نه ای از سرکشی راضی بدین\r\nنک من و تو خانه قاضی دین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور نه‌ای از سرکشی راضی بدین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنک من و تو خانهٔ قاضی دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 38,
+      "Number": 38,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "گفت من مغلوب بودم صوفیان\r\nحمله آوردند و بودم بیم جان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت من مغلوب بودم صوفیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحمله آوردند و بودم بیم جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 39,
+      "Number": 39,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "تو جگربندی میان گربگان\r\nاندر اندازی و جویی زان نشان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو جگربندی میان گربگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندر اندازی و جویی زان نشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 40,
+      "Number": 40,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ردهای",
+      "PlainText": "در میان صد گرسنه گرده ای\r\nپیش صد سگ گربه پژمرده ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر میان صد گرسنه گرده‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش صد سگ گربهٔ پژمرده‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 41,
+      "Number": 41,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دند",
+      "PlainText": "گفت گیرم کز تو ظلما بستدند\r\nقاصد خون من مسکین شدند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت گیرم کز تو ظلما بستدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقاصد خون من مسکین شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 42,
+      "Number": 42,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ا",
+      "PlainText": "تو نیایی و نگویی مر مرا\r\nکه خرت را می برند ای بی نوا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو نیایی و نگویی مر مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خرت را می‌برند ای بی‌نوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 43,
+      "Number": 43,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رم",
+      "PlainText": "تا خر از هر که بود من وا خرم\r\nورنه توزیعی کنند ایشان زرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا خر از هر که بود من وا خرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه توزیعی کنند ایشان زرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 44,
+      "Number": 44,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دند",
+      "PlainText": "صد تدارک بود چون حاضر بدند\r\nاین زمان هر یک به اقلیمی شدند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد تدارک بود چون حاضر بدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین زمان هر یک به اقلیمی شدند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 45,
+      "Number": 45,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رم",
+      "PlainText": "من که را گیرم که را قاضی برم\r\nاین قضا خود از تو آمد بر سرم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن که را گیرم که را قاضی برم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین قضا خود از تو آمد بر سرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 46,
+      "Number": 46,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یب",
+      "PlainText": "چون نیایی و نگویی ای غریب\r\nپیش آمد این چنین ظلمی مهیب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نیایی و نگویی ای غریب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش آمد این چنین ظلمی مهیب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 47,
+      "Number": 47,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ارها",
+      "PlainText": "گفت والله آمدم من بارها\r\nتا ترا واقف کنم زین کارها",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت والله آمدم من بارها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ترا واقف کنم زین کارها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 48,
+      "Number": 48,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "تو همی گفتی که خر رفت ای پسر\r\nاز همه گویندگان با ذوق تر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو همی‌گفتی که خر رفت ای پسر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز همه گویندگان با ذوق‌تر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 49,
+      "Number": 49,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فست",
+      "PlainText": "باز می گشتم که او خود واقفست\r\nزین قضا راضیست مردی عارفست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباز می‌گشتم که او خود واقفست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین قضا راضیست مردی عارفست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 50,
+      "Number": 50,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ش",
+      "PlainText": "گفت آن را جمله می گفتند خوش\r\nمر مرا هم ذوق آمد گفتنش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن را جمله می‌گفتند خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمر مرا هم ذوق آمد گفتنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 51,
+      "Number": 51,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اد",
+      "PlainText": "مر مرا تقلیدشان بر باد داد\r\nکه دو صد لعنت بر آن تقلید باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمر مرا تقلیدشان بر باد داد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دو صد لعنت بر آن تقلید باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 52,
+      "Number": 52,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لان",
+      "PlainText": "خاصه تقلید چنین بی حاصلان\r\nخشم ابراهیم با بر آفلان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاصه تقلید چنین بی‌حاصلان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخشم ابراهیم با بر آفلان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 53,
+      "Number": 53,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دی",
+      "PlainText": "عکس ذوق آن جماعت می زدی\r\nوین دلم زان عکس ذوقی می شدی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعکس ذوق آن جماعت می‌زدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین دلم زان عکس ذوقی می‌شدی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 54,
+      "Number": 54,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ش",
+      "PlainText": "عکس چندان باید از یاران خوش\r\nکه شوی از بحر بی عکس آب کش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعکس چندان باید از یاران خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شوی از بحر بی‌عکس آب‌کش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 55,
+      "Number": 55,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "عکس کاول زد تو آن تقلید دان\r\nچون پیاپی شد شود تحقیق آن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعکس کاول زد تو آن تقلید دان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون پیاپی شد شود تحقیق آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 56,
+      "Number": 56,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "تا نشد تحقیق از یاران مبر\r\nاز صدف مگسل نگشت آن قطره در",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نشد تحقیق از یاران مبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز صدف مگسل نگشت آن قطره در\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 57,
+      "Number": 57,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "معرا",
+      "PlainText": "صاف خواهی چشم و عقل و سمع را\r\nبر دران تو پرده های طمع را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاف خواهی چشم و عقل و سمع را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر دران تو پرده‌های طمع را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 58,
+      "Number": 58,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مع",
+      "PlainText": "زانک آن تقلید صوفی از طمع\r\nعقل او بر بست از نور و لمع",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانک آن تقلید صوفی از طمع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل او بر بست از نور و لمع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 59,
+      "Number": 59,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اع",
+      "PlainText": "طمع لوت و طمع آن ذوق و سماع\r\nمانع آمد عقل او را ز اطلاع",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطمع لوت و طمع آن ذوق و سماع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانع آمد عقل او را ز اطلاع\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 60,
+      "Number": 60,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "استی",
+      "PlainText": "گر طمع در آینه بر خاستی\r\nدر نفاق آن آینه چون ماستی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر طمع در آینه بر خاستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر نفاق آن آینه چون ماستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 61,
+      "Number": 61,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ال",
+      "PlainText": "گر ترازو را طمع بودی به مال\r\nراست کی گفتی ترازو وصف حال",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر ترازو را طمع بودی به مال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراست کی گفتی ترازو وصف حال\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 62,
+      "Number": 62,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ا",
+      "PlainText": "هر نبیی گفت با قوم از صفا\r\nمن نخواهم مزد پیغام از شما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر نبیی گفت با قوم از صفا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن نخواهم مزد پیغام از شما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 63,
+      "Number": 63,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ری",
+      "PlainText": "من دلیلم حق شما را مشتری\r\nداد حق دلالیم هر دو سری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن دلیلم حق شما را مشتری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداد حق دلالیم هر دو سری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 64,
+      "Number": 64,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "چیست مزد کار من دیدار یار\r\nگرچه خود بوبکر بخشد چل هزار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچیست مزد کار من دیدار یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه خود بوبکر بخشد چل هزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 65,
+      "Number": 65,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "چل هزار او نباشد مزد من\r\nکی بود شبه شبه در عدن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچل هزار او نباشد مزد من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکی بود شِبهِ شَبَه دُر عَدَن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 66,
+      "Number": 66,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وش",
+      "PlainText": "یک حکایت گویمت بشنو بهوش\r\nتا بدانی که طمع شد بند گوش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک حکایت گویمت بشنو بهوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بدانی که طمع شد بند گوش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 67,
+      "Number": 67,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نشود",
+      "PlainText": "هر که را باشد طمع الکن شود\r\nبا طمع کی چشم و دل روشن شود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که را باشد طمع الکن شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا طمع کی چشم و دل روشن شود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 68,
+      "Number": 68,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "پیش چشم او خیال جاه و زر\r\nهمچنان باشد که موی اندر بصر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش چشم او خیال جاه و زر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچنان باشد که موی اندر بصر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 69,
+      "Number": 69,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ربود",
+      "PlainText": "جز مگر مستی که از حق پر بود\r\nگرچه بدهی گنجها او حر بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز مگر مستی که از حق پُر بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرچه بدهی گنجها او حُر بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 70,
+      "Number": 70,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ردارشد",
+      "PlainText": "هر که از دیدار برخوردار شد\r\nاین جهان در چشم او مردار شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که از دیدار برخوردار شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین جهان در چشم او مردار شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 71,
+      "Number": 71,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وربود",
+      "PlainText": "لیک آن صوفی ز مستی دور بود\r\nلاجرم در حرص او شبکور بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلیک آن صوفی ز مستی دور بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاجرم در حرص او شبکور بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 72,
+      "Number": 72,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وشحرص",
+      "PlainText": "صد حکایت بشنود مدهوش حرص\r\nدر نیاید نکته ای در گوش حرص",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد حکایت بشنود مدهوش حرص\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر نیاید نکته‌ای در گوش حرص\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صوفیی در خانقاه از ره رسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "صوفی مسافری به خانقاه رسید و\u00A0 مرکبش(خر) را به به اصطبل برد و بست."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "مرکب خود برد و در آخُر کشید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آبکش داد و علف از دست خویش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "با دست خود به خر آب و علف داد و او همانند صوفی هایی که پیش از این از آنان یاد کرده ایم نبود( گویا از حقیقت عرفان بهره ای نبرده بود و تنها لباس صوفی بر تن داشت )\u00A0"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نه چنان صوفی که ما گفتیم پیش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "احتیاطش کرد از سهو و خباط",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "او بسیار از خطا و اشتباه احتیاط می کرد اما وقتی قضای الهی فرا برسد احتیاط سودی نخواهد داشت ."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون قضا آید چه سودست احتیاط",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "صوفیان تقصیر بودند و فقیر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "صوفیان آنجا کم بضاعت و فقیر بودند و همانطور که پیامبر فرمود: فقر انسان را در آستانه کفر قرار می دهد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کاد فقراً ان یکن کفراً یبیر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ای توانگر که تو سیری هین مخند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "ای شخص توانگر و ثروتمند که سیر هستی٬ کج روی و انحراف فقیر درمانده را مایه خنده و مضحکه قرار نده."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بر کژی آن فقیر دردمند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "از سر تقصیر آن صوفی رمه",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "صوفیان با کوتاهی و قصوری که کردند نقشه ی فروش خر صوفی مسافر را کشیدند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خرفروشی در گرفتند آن همه",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "کز ضرورت هست مرداری مباح",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "صوفیان برای خود توجیه شرعی\u00A0 می آورند\u00A0 : زمانی که انسان در ناچاری و دام مرگ باشد خوردن گوشت مردار مباح و حلال است ( پس فروختن خر نیز مانعی ندارد )٬ چه بسیار فساد هایی که به بهانه و به واسطه توجیه برای ضرورت صلاح و درست در نظر گرفته شدند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بس فسادی کز ضرورت شد صلاح",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "هم در آن دم آن خرک بفروختند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "در همان لحظه آن خر را فروختند و غذایی فراهم آوردند و شمع روشن کردند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "لوت آوردند و شمع افروختند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ولوله افتاد اندر خانقه",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "همهمه و شورشی در خانقاه به راه افتاد ( به دلیل آن که ): امشب شبِ غذا و سماع و وجد فراوان است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "کامشبان لوت و سماعست و وله",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "چند ازین صبر و ازین سه روزه چند",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: چقدر باید صبر کرد و چند روز دیگر باقی مانده است؟ چقدر از این بار سنگین باید حمل کرد و این تحقیرها را تحمل کرد؟"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "چند ازین زنبیل و این دریوزه چند",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "ما هم از خلقیم و جان داریم ما",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "( صوفیان گفتند: ) ما نیز آفریده خداوند هستیم و جان داریم و امشب شادکامی و بخت خوش میهمان ماست."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "دولت امشب میهمان داریم ما",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "تخم باطل را از آن می‌کاشتند",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: آنها تخم چیزی بی‌اساس و نادرست را می‌کاشتند و گمان می‌کردند که آن چیز اصلی و باارزش است، در حالی که در واقع جان و حیات ندارد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "کانک آن جان نیست جان پنداشتند",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "وان مسافر نیز از راه دراز",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: مسافر از سفر طولانی خسته شده بود و زیبایی و خوشبختی را در آنجا مشاهده کرد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "خسته بود و دید آن اقبال و ناز",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "صوفیانش یک به یک بنواختند",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: صوفیان به نوبت به یکدیگر توجه می‌کردند و در انجام خدمات خوب، با همکاری و بازی‌گوشی به هم می‌باختند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "نرد خدمتهای خوش می‌باختند",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "گفت چون می‌دید میلانش به وی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: چون می‌دید که تمایل او به سویش است، گفت: اگر امشب شادمانی نکنم، چه زمانی خواهم کرد؟"
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "گر طرب امشب نخواهم کرد کی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "لوت خوردند و سماع آغاز کرد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: مردم در حال می‌خوری بودند و صدای ساز و آواز در خانقاه بلند شد. فضا تا بالای سقف پر از دود و گرد و غبار شد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "خانقه تا سقف شد پر دود و گرد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "دود مطبخ گرد آن پا کوفتن",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: دود آشپزخانه دور آن پا می‌چرخد، به خاطر اشتیاق و حس عمیق و درون‌نوشته‌ای که جانم را به هم می‌ریزد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "ز اشتیاق و وجد جان آشوفتن",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "گاه دست‌افشان قدم می‌کوفتند",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: گاهی دست‌ها را به نشانه‌ی خوش‌حالی بلند می‌کردند و با شوق و احساس، بر زمین می‌کوبیدند و گاه به سجده می‌افتادند."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "گه به سجده صفه را می‌روفتند",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "دیر یابد صوفی آز از روزگار",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: صوفی به علت نداشتن عشق و اشتیاق واقعی به دنیا، دیرتر از دیگران به لذت‌های زمانه دست می‌یابد و به همین دلیل ارزش او در نظر دیگران کم‌تر می‌شود."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "زان سبب صوفی بود بسیارخوار",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "جز مگر آن صوفیی کز نور حق",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: تنها آن صوفی که از نور حق بهره‌مند است، از رسوایی و زشتی دنیا آزاد است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "سیر خورد او فارغست از ننگ دق",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "از هزاران اندکی زین صوفیند",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: از میان هزاران، تنها عده‌ی کمی از صوفیان باقی مانده‌اند که در حال حاضر در نعمت و خوشبختی او زندگی می‌کنند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "باقیان در دولت او می‌زیند",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "چون سماع آمد ز اول تا کران",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: زمانی که آواز و موسیقی شروع شد، از ابتدای آن تا دورترین نقطه، نوازنده با قوت و شدت بالا نواخت."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "مطرب آغازید یک ضرب گران",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "خر برفت و خر برفت آغاز کرد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: خر که رفت، شروع به صدا زدن کرد و از این شدت حرارت، همه را در کنار هم جمع کرد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "زین حرارت جمله را انباز کرد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "زین حرارت پای‌کوبان تا سحر",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: از شدت شوق و شادی، او تا صبح با موسیقی و رقص به راه خود ادامه داد و هیچگاه از حرکت بازنایستاد، پسر!"
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "کف‌زنان خر رفت و خر رفت ای پسر",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "از ره تقلید آن صوفی همین",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26,
+      "CoupletSummary": "به خاطر مقلد بودن صوفی هم شروع کرد به گفتن خر برفت\u00A0 در نوحه ای که میخواندند"
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "خر برفت آغاز کرد اندر حنین",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "چون گذشت آن نوش و جوش و آن سماع",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن لحظات شاد و پرهیجان و آن حالت وجد و نشاط به پایان رسید، روز به پایان رسید و همه به یکدیگر خداحافظی کردند."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "روز گشت و جمله گفتند الوداع",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "خانقه خالی شد و صوفی بماند",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: خانقاه از جمعیت خالی شد و تنها صوفی باقی‌ماند که غبار یاد آن مسافر به رویش نشسته است."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "گرد از رخت آن مسافر می‌فشاند",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "رخت از حجره برون آورد او",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: او لباسش را از اتاق بیرون آورد تا آن دوست همسفر را بر روی خر ببندد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "تا به خر بر بندد آن همراه‌جو",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "تا رسد در همرهان او می‌شتافت",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: او تلاش می‌کرد تا به دوستانش برسد، اما در پایان نتوانست الاغ خود را پیدا کند."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "رفت در آخُر خر خود را نیافت",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "گفت آن خادم به آبش برده است",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: خادم گفت که او را به آب برده‌اند، زیرا خر شب گذشته کمتر آب نوشیده است."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "زانک خر دوش آب کمتر خورده است",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "خادم آمد گفت صوفی خر کجاست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32,
+      "CoupletSummary": "خادم آمد و صوفی از او پرسید خر کجاست؟ خادم گفت این ابله را ببین. و دعوا شد"
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "گفت خادم ریش بین، جنگی بخاست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "گفت من خر را به تو بسپرده‌ام",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: من وظیفه نگهداری خر را به تو سپرده‌ام و تو مسئول مراقبت از آن هستی."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "من تو را بر خر موکل کرده‌ام",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "از تو خواهم آنچ من دادم به تو",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: از تو می‌خواهم چیزی را بازگردانی که من به تو داده‌ام، همانند چیزی که برایت فرستاده‌ام."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "باز ده آنچ فرستادم به تو",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "بحث با توجیه کن حجت میار",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: در این بیت گفته شده است که وقتی بحث و گفتگو می‌کنی، نیازی نیست که برای توجیه سخنان خود حجت و دلیل بیاوری. آنچه را که به من سپردی، به خودت برمی‌گردانم."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "آنچ من بسپردمت وا پس سپار",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "گفت پیغمبر که دستت هر چه برد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: پیامبر فرمودند: هر اقدامی که انجام می‌دهی، باید در نظر داشته باشی که باید در پایان کار مسئولیت آن را بپذیری و نتایج آن را قبول کنی."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "بایدش در عاقبت وا پس سپرد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 36
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "ور نه‌ای از سرکشی راضی بدین",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: اگر تو از خودرأیی و سرکشی راضی نیستی، پس بیایید در این مورد بیشتر گفتگو کنیم و به الفت و دوستی بپردازیم."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "نک من و تو خانهٔ قاضی دین",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 37
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "گفت من مغلوب بودم صوفیان",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: شخصی اظهار می‌کند که در برابر صوفیان شکست خورده و آن‌ها به او حمله کرده‌اند، و او از جان خود ترسیده است."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "حمله آوردند و بودم بیم جان",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 38
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "تو جگربندی میان گربگان",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: تو با مهارت و توانایی، تلاش می‌کنی تا در دنیای پر از چالش و رقابت، جایگاه خود را پیدا کنی و نشانه‌هایی از موفقیت را دنبال کنی."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "اندر اندازی و جویی زان نشان",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 39
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "در میان صد گرسنه گرده‌ای",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: با وجود آنکه تعداد زیادی گرسنه در اطراف وجود دارد، تو توجهی به درد و رنج آن‌ها نداری و در عوض به یک وضعیت نامناسب و ناراحت‌کننده خود می‌پردازی."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "پیش صد سگ گربهٔ پژمرده‌ای",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 40
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "گفت گیرم کز تو ظلما بستدند",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: می‌گوید اگر کسی به ناحق از تو چیزی بگیرد، بگذار برود، اما من که سال‌هاست بی‌دفاع و مظلوم مانده‌ام، چه کسی بر سر من می‌آورد؟"
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "قاصد خون من مسکین شدند",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 41
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "تو نیایی و نگویی مر مرا",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: اگر تو نیایی و به من نگویی که غم و اندوه من چه می‌شود، وای بر تو که در این وضعیت بی‌کمک و بی‌چاره‌ام."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "که خرت را می‌برند ای بی‌نوا",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 42
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "تا خر از هر که بود من وا خرم",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: من هرچه که هستم، به من مربوط است و اگر دیگران بخواهند به من آسیب برسانند، من آرام نخواهم نشست."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "ورنه توزیعی کنند ایشان زرم",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 43
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "صد تدارک بود چون حاضر بدند",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: این زمان هر کس به منطقه‌ای رفت و مشغول آماده‌سازی و مهیا کردن کارها شد."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "این زمان هر یک به اقلیمی شدند",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 44
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "من که را گیرم که را قاضی برم",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌دانم به کجا بروم و کدام قاضی به من کمک کند، زیرا این سرنوشت و تقدیر خود به خاطر تو برای من پیش آمده است."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "این قضا خود از تو آمد بر سرم",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 45
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "چون نیایی و نگویی ای غریب",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: وقتی تو نیای و نگویی، ای غریبه، این چنین ظلم بزرگ و وحشتناکی پیش آمده است."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "پیش آمد این چنین ظلمی مهیب",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 46
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "گفت والله آمدم من بارها",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: به خدا قسم، من بارها به سراغ تو آمده‌ام تا تو را از این امور آگاه سازم."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "تا ترا واقف کنم زین کارها",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 47
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "تو همی‌گفتی که خر رفت ای پسر",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 48,
+      "CoupletSummary": "هوش مصنوعی: تو همواره می‌گفتی که ای پسر، از میان همه سخن‌رانان، تو با ذوق‌تر هستی."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "از همه گویندگان با ذوق‌تر",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 48
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "باز می‌گشتم که او خود واقفست",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 49,
+      "CoupletSummary": "هوش مصنوعی: به من اجازه بدهید به گذشته برگردم، زیرا او از این وضعیت آگاه است و با آن راضی است. او فردی دانشمند و عارف است."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "زین قضا راضیست مردی عارفست",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 49
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "گفت آن را جمله می‌گفتند خوش",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "SectionIndex2": 50,
+      "CoupletSummary": "هوش مصنوعی: می‌گفتند همه که این را خوب می‌گویند، برای من هم خوشایند است که این را بشنوم."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "مر مرا هم ذوق آمد گفتنش",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "SectionIndex2": 50
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "مر مرا تقلیدشان بر باد داد",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "SectionIndex2": 51,
+      "CoupletSummary": "هوش مصنوعی: تقلید آنها باعث شد که من دچار خسارت شوم، پس هزاران لعنت بر این تقلید نازل شود."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "که دو صد لعنت بر آن تقلید باد",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "SectionIndex2": 51
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "خاصه تقلید چنین بی‌حاصلان",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 52,
+      "CoupletSummary": "هوش مصنوعی: این بیت به نوعی به بی‌نتیجه بودن تقلید از کسانی اشاره دارد که ارزش و عمق کمتری دارند. در واقع، ممکن است این کار باعث خشم و نارضایتی شود، مشابه خشم ابراهیم از این عمل."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "خشم ابراهیم با بر آفلان",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "SectionIndex2": 52
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "عکس ذوق آن جماعت می‌زدی",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 53,
+      "CoupletSummary": "هوش مصنوعی: تو با نواختن عکس ذوق آن گروه و احساساتشان را به نمایش می‌گذاشتی و این دل من به خاطر آن تصویر از خوشحالی شاداب می‌شد."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "وین دلم زان عکس ذوقی می‌شدی",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "SectionIndex2": 53
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "عکس چندان باید از یاران خوش",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 54,
+      "CoupletSummary": "هوش مصنوعی: برای این که در فضای بی‌نهایت و خالی از عشق و دوستی غرق نشوید، باید به اندازه کافی از محبت و زیبایی‌های دوستان خود بهره‌مند شوید."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "که شوی از بحر بی‌عکس آب‌کش",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "SectionIndex2": 54
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "عکس کاول زد تو آن تقلید دان",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 55,
+      "CoupletSummary": "هوش مصنوعی: تصویری که از آن می‌گیری، به دلیل تقلید از آن چیزی که در ذهن داری است. به تدریج و با تکرار، به حقیقت نزدیک‌تر خواهد شد."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "چون پیاپی شد شود تحقیق آن",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "SectionIndex2": 55
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "تا نشد تحقیق از یاران مبر",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 56,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که از دوستان به حقیقت نرسیده‌ای، از تلاش برای رسیدن به دانش و فهم دست نکش. قطره‌ای معنوی نمی‌تواند در صدف بدون تلاش و کوشش شکل بگیرد."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "از صدف مگسل نگشت آن قطره در",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "SectionIndex2": 56
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "صاف خواهی چشم و عقل و سمع را",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "SectionIndex2": 57,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی که چشم، عقل و گوش تو صاف و بدون غش باشد، باید از پرده‌های طمع و خواسته‌های دنیوی فاصله بگیری."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "بر دران تو پرده‌های طمع را",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "SectionIndex2": 57
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "زانک آن تقلید صوفی از طمع",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 58,
+      "CoupletSummary": "هوش مصنوعی: زیرا آنچه صوفی از عقل خود به دست می‌آورد، او را از نور و روشنایی دور می‌سازد."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "عقل او بر بست از نور و لمع",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "SectionIndex2": 58
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "طمع لوت و طمع آن ذوق و سماع",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 59,
+      "CoupletSummary": "هوش مصنوعی: انسان وقتی به دنبال خواسته‌ها و لذت‌هاست، از درک و آگاهی خود دور می‌شود و عقل او تحت تأثیر آن تمایلات قرار می‌گیرد."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "مانع آمد عقل او را ز اطلاع",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "SectionIndex2": 59
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "گر طمع در آینه بر خاستی",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 60,
+      "CoupletSummary": "هوش مصنوعی: اگر به آینه نگاه کنی و دل‌بستگی به آن داشته باشی، باید بدانی که این آینه هم مانند خودت دچار نفاق و تقلب است."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "در نفاق آن آینه چون ماستی",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "SectionIndex2": 60
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "گر ترازو را طمع بودی به مال",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 61,
+      "CoupletSummary": "هوش مصنوعی: اگر ترازویی به مال و ثروت طمع داشته باشد، آیا می‌تواند راست و صحیح به وصف حال بپردازد؟"
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "راست کی گفتی ترازو وصف حال",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "SectionIndex2": 61
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "هر نبیی گفت با قوم از صفا",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "SectionIndex2": 62,
+      "CoupletSummary": "هوش مصنوعی: هر پیامبری به مردم خود گفت که من خواستار هیچ پاداشی از شما نیستم و هدفم تنها رساندن پیام الهی است."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "من نخواهم مزد پیغام از شما",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "SectionIndex2": 62
+    },
+    {
+      "VOrder": 123,
+      "Position": "Right",
+      "Text": "من دلیلم حق شما را مشتری",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "SectionIndex2": 63,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر شما دلیل آوردم و حق شما را به دست آوردم، حالا به لطف من هر دو از این موضوع بهره‌مند هستیم."
+    },
+    {
+      "VOrder": 124,
+      "Position": "Left",
+      "Text": "داد حق دلالیم هر دو سری",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "SectionIndex2": 63
+    },
+    {
+      "VOrder": 125,
+      "Position": "Right",
+      "Text": "چیست مزد کار من دیدار یار",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "SectionIndex2": 64,
+      "CoupletSummary": "هوش مصنوعی: پاداش زحمات من، دیدار محبوب است، هرچند که اگر کسی به من پول زیادی هم بدهد، برایم اهمیت ندارد."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Left",
+      "Text": "گرچه خود بوبکر بخشد چل هزار",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "SectionIndex2": 64
+    },
+    {
+      "VOrder": 127,
+      "Position": "Right",
+      "Text": "چل هزار او نباشد مزد من",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "SectionIndex2": 65,
+      "CoupletSummary": "هوش مصنوعی: چهل هزار او برای من پاداش نیست، چه کسی می‌تواند مانند شب درخشش گوهر بهشتی باشد؟"
+    },
+    {
+      "VOrder": 128,
+      "Position": "Left",
+      "Text": "کی بود شِبهِ شَبَه دُر عَدَن",
+      "CoupletIndex": 63,
+      "SectionIndex1": 0,
+      "SectionIndex2": 65
+    },
+    {
+      "VOrder": 129,
+      "Position": "Right",
+      "Text": "یک حکایت گویمت بشنو بهوش",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "SectionIndex2": 66,
+      "CoupletSummary": "هوش مصنوعی: یک داستانی را برایت تعریف می‌کنم، به خوبی گوش بده تا متوجه شوی که چطور طمع می‌تواند انسان را به دام بیندازد."
+    },
+    {
+      "VOrder": 130,
+      "Position": "Left",
+      "Text": "تا بدانی که طمع شد بند گوش",
+      "CoupletIndex": 64,
+      "SectionIndex1": 0,
+      "SectionIndex2": 66
+    },
+    {
+      "VOrder": 131,
+      "Position": "Right",
+      "Text": "هر که را باشد طمع الکن شود",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "SectionIndex2": 67,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که به آرزوها و انتظارهای بی‌پایه دل ببندد، دل و دنیايش تیره و تار می‌شود، زیرا هیچ چیز به او نخواهد رسید."
+    },
+    {
+      "VOrder": 132,
+      "Position": "Left",
+      "Text": "با طمع کی چشم و دل روشن شود",
+      "CoupletIndex": 65,
+      "SectionIndex1": 0,
+      "SectionIndex2": 67
+    },
+    {
+      "VOrder": 133,
+      "Position": "Right",
+      "Text": "پیش چشم او خیال جاه و زر",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "SectionIndex2": 68,
+      "CoupletSummary": "هوش مصنوعی: در برابر دیدگان او، آرزوهای مربوط به مقام و ثروت به اندازه مویی که در نظر می‌آید، کم‌اهمیت و ناچیز است."
+    },
+    {
+      "VOrder": 134,
+      "Position": "Left",
+      "Text": "همچنان باشد که موی اندر بصر",
+      "CoupletIndex": 66,
+      "SectionIndex1": 0,
+      "SectionIndex2": 68
+    },
+    {
+      "VOrder": 135,
+      "Position": "Right",
+      "Text": "جز مگر مستی که از حق پُر بود",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "SectionIndex2": 69,
+      "CoupletSummary": "هوش مصنوعی: این بیت به بیان شخصیتی می‌پردازد که در اثر عشق یا حقیقتی عمیق، سرشار از حالتی مستی و شور و شوق است. در واقع، این فرد با وجود اینکه ممکن است از نظر مادی چیزهای زیادی نداشته باشد، اما از نظر روحی و معنوی غنی و آزاد است. این حالت نشان می‌دهد که ارزش واقعی انسان فقط به دارایی‌های مادی او نیست، بلکه به درک و عشقش به حقیقت و حقوق انسانی‌اش بستگی دارد."
+    },
+    {
+      "VOrder": 136,
+      "Position": "Left",
+      "Text": "گرچه بدهی گنجها او حُر بود",
+      "CoupletIndex": 67,
+      "SectionIndex1": 0,
+      "SectionIndex2": 69
+    },
+    {
+      "VOrder": 137,
+      "Position": "Right",
+      "Text": "هر که از دیدار برخوردار شد",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "SectionIndex2": 70,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که از جمال و زیبایی معشوق بهره‌مند شده باشد، برای او دنیا دیگر ارزش و حیات ندارد و به نظرش بی‌معنا و مرده می‌آید."
+    },
+    {
+      "VOrder": 138,
+      "Position": "Left",
+      "Text": "این جهان در چشم او مردار شد",
+      "CoupletIndex": 68,
+      "SectionIndex1": 0,
+      "SectionIndex2": 70
+    },
+    {
+      "VOrder": 139,
+      "Position": "Right",
+      "Text": "لیک آن صوفی ز مستی دور بود",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "SectionIndex2": 71,
+      "CoupletSummary": "هوش مصنوعی: اما آن صوفی از حالت مستی و نشئگی دور بود و به همین دلیل در حرص و آرزوهایش مانند فردی نابینا بود."
+    },
+    {
+      "VOrder": 140,
+      "Position": "Left",
+      "Text": "لاجرم در حرص او شبکور بود",
+      "CoupletIndex": 69,
+      "SectionIndex1": 0,
+      "SectionIndex2": 71
+    },
+    {
+      "VOrder": 141,
+      "Position": "Right",
+      "Text": "صد حکایت بشنود مدهوش حرص",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0,
+      "SectionIndex2": 72,
+      "CoupletSummary": "هوش مصنوعی: در اینجا کلام بر این نکته تأکید دارد که هیچ مقدار داستان و روایت نیز نمی‌تواند حریص را از حرص و طمع وادار به تامل و دریافت نکته‌ای کند. به عبارت دیگر، افراد حریص در برابر شنیدن حکایات و نصایح نمی‌توانند به درک درست و علمی برسند و همچنان در طمع خود باقی خواهند ماند."
+    },
+    {
+      "VOrder": 142,
+      "Position": "Left",
+      "Text": "در نیاید نکته‌ای در گوش حرص",
+      "CoupletIndex": 70,
+      "SectionIndex1": 0,
+      "SectionIndex2": 72
+    }
+  ]
+}

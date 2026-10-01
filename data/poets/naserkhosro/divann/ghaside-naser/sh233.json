@@ -1,0 +1,810 @@
+{
+  "Id": 14122,
+  "CatId": 214,
+  "Title": "قصیدهٔ شمارهٔ ۲۳۳",
+  "FullTitle": "ناصرخسرو » دیوان اشعار » قصاید » قصیدهٔ شمارهٔ ۲۳۳",
+  "FullUrl": "/naserkhosro/divann/ghaside-naser/sh233",
+  "RhymeLetters": "اری",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن به بررسی وضعیت بشر و نادانی انسان‌ها می‌پردازد. شاعر به این نکته اشاره می‌کند که زندگی اکثر مردم به شکار و تأمین نیازهای اولیه محدود است و آن‌ها از دانش و خرد واقعی بی‌بهره‌اند. او به خطرات محاصره نادانی و جاهلیت اشاره می‌کند و می‌گوید که کسانی که از دانش دور هستند، تنها بار ناتوانی و درد را به دوش می‌کشند. \n\nسپس، شاعر به اهمیت دوستی و یاری دهی به یکدیگر تأکید می‌کند و می‌گوید که ارتباط با افراد نادان و جهل مایه درد و آزار است. همچنین، او به مقام علم و دانش اشاره کرده و می‌گوید که تنها با یادگیری می‌توان مشکلات را حل کرد و به آرامش رسید.\n\nشاعر به اهمیت علم آل پیامبر (ص) نیز اشاره می‌کند و بیان می‌دارد که با پیروی از آن‌ها و یادگیری از دانش ایشان، می‌توان به سعادت و شفا رسید. در نهایت، او به این نتیجه می‌رسد که بی‌دانشی و نادانی تنها به پشیمانی و شکست منجر می‌شود و پیروزی در گرو کسب علم و خردورزی است.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اری",
+      "PlainText": "جهان را نیست جز مردم شکاری\r\nنه جز خور هست کس را نیز کاری\r\nیکی مر گاو بر پروار را کس\r\nجز از قصاب ناید خواستاری\r\nکسی کو زاد و خورد و مرد چون خر\r\nازین بدترش باشد نیز عاری\r\nچه دزدی زی خردمندان چه موشی\r\nچه بدگویی سوی دانا چه ماری\r\nخلنده تر ز جاهل بر نروید\r\nهگرز ای پور ز آب و خاک خاری\r\nزجاهل بید به زیراک اگر بید\r\nنیارد بار نازاردت باری\r\nحذر دار از درخت جاهل ایراک\r\nنیارد بر تو زو جز خار باری\r\nچه باید هر که او سر گین بشولد\r\nمگر رنج تن و ناخوش بخاری\r\nچو خلق این است و حال این تو نیابی\r\nز تنهایی به ای خواجه حصاری\r\nبه از تنهاییت یاری نباید\r\nکه تنهایی به از بد مهر یاری\r\nخرد را اختیار این است و زی من\r\nازین به کس نکرده است اختیاری\r\nپیاده به بسی از بسته برخر\r\nتهی غاری به از پر گرگ غاری\r\nمرا یاری است چون تنها نشینم\r\nسخن گویی امینی رازداری\r\nهمی گوید که هر کو نشنود خود\r\nندارد غم ولیکن غم گساری\r\nیکی پشتستش و صد روی هستش\r\nبه خوبی هر یکی همچون بهاری\r\nبه پشتش بر زنم دستی چو دانم\r\nکه بنشسته است بر رویش غباری\r\nسخن گویی بی آوازی ولیکن\r\nنگوید تا نیابد هوشیاری\r\nنبینی نشنوی تو قول او را\r\nنبیند کس چنین هرگز عیاری\r\nبه هر وقت از سخن های حکیمان\r\nبه رویش بر ببینم یادگاری\r\nنگوید تا به رویش ننگرم من\r\nنه چون هر ژاژخایی بادساری\r\nبه تاریکی سخن هرگز نگوید\r\nچو با حشمت مشهر شهریاری\r\nبه صحبت با چنین یاری به یمگان\r\nبه سر بردم به پیری روزگاری\r\nبه زندان سلیمانم ز دیوان\r\nنمی بینم نه یاری نه زواری\r\nسلیمان وار دیوانم براندند\r\nسلیمانم سلیمانم من آری\r\nبه دریا باری افتاد او بدان وقت\r\nز دست دیو و من بر کوهساری\r\nبجز پرهیز و دانش بر تن من\r\nنیابد کس نه عیبی نه عواری\r\nمرا تا بر سر از دین آمد افسر\r\nرهی و بنده بد هر بی فساری\r\nزمن تیمار نامدشان ازیرا\r\nنپرهیزد حماری از حماری\r\nگرفته ستند اکنون از من آزار\r\nچو از پرهیز بر بستم ازاری\r\nز بهر آل پیغمبر بخوردم\r\nچنین بر جان مسکین زینهاری\r\nتبار و ال من شد خوار زی من\r\nز بهر بهترین آل و تباری\r\nبه فر آل پیغمبر ببارید\r\nمرا بر دل ز علم دین نثاری\r\nبه هر فضلی پیاده و کند بودم\r\nبه فر آل او گشتم سواری\r\nبه فر آل پیغمبر شود مرد\r\nاگر بدبخت باشد بختیاری\r\nبه فر علم آلش روزه دار است\r\nهمان بی طاعتی بسیار خواری\r\nبه جان بی قرار اندر بدیشان\r\nپدید آید زعلم دین قراری\r\nستمگاری به جز کز علم ایشان\r\nدر این عالم کجا شد حق گزاری\r\nبه فر آل پیغمبر شفا یافت\r\nز بیماری دل هر دل فگاری\r\nبه حله دین حق در پود تنزیل\r\nبه ایشان یافت از تاویل تاری\r\nنبیند جز به ایشان چشم دانا\r\nنهانی را به زیر آشکاری\r\nنهان آشکارا کس ندیده است\r\nجز از تعلیم حری نامداری\r\nنگارنده نهانی آشکار است\r\nسوی دانا به زیر هر نگاری\r\nبدین دار اندرون بایدت دیدن\r\nکه بیرون زین و به زین هست داری\r\nلطیف است آن و خوش مشمر خبیثش\r\nزخاک و خارو خس چون مرغزاری\r\nازیراک از قیاس آن شادمانی است\r\nسوی دانای دین وین سوکواری\r\nچو شورستان نباشد بوستانی\r\nچو کاشانه نباشد ره گذاری\r\nگر آگاهی که اندر ره گذاری\r\nچه افتادی چنین در کاروباری\r\nچو دیوانه به طمع بار خرما\r\nچه افشانی همی بی بر چناری\r\nشکار خویش کردت چرخ و نامد\r\nبه دستت جز پشیمانی شکاری\r\nبسی خفتی کنون بر کن سر از خواب\r\nخری خیره مده مستان خیاری\r\nکه روزی زین شمرده روزگارت\r\nبباید داد ناچاره شماری\r\nبخوان اشعار حجت را که ندهد\r\nبه از شعرش خرد جان را شعاری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان را نیست جز مردم شکاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه جز خور هست کس را نیز کاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی مر گاو بر پروار را کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز از قصاب ناید خواستاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکسی کو زاد و خورد و مرد چون خر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازین بدترش باشد نیز عاری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه دزدی زی خردمندان چه موشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه بدگوئی سوی دانا چه ماری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلنده‌تر ز جاهل بر نروید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهگرز، ای پور، ز آب و خاک خاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزجاهل بید به زیراک اگر بید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیارد بار نازاردت باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحذر دار از درخت جاهل ایراک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیارد بر تو زو جز خار باری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه باید هر که او سر گین بشولد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر رنج تن و ناخوش بخاری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو خلق این است و حال این، تو نیابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز تنهائی به، ای خواجه، حصاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه از تنهائیت یاری نباید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تنهائی به از بد مهر یاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرد را اختیار این است و زی من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازین به کس نکرده است اختیاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیاده به بسی از بسته برخر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتهی غاری به از پر گرگ غاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا یاری است چون تنها نشینم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن گوئی امینی رازداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی گوید که «هر کو نشنود خود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندارد غم ولیکن غم‌گساری»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی پشتستش و صد روی هستش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه خوبی هر یکی همچون بهاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پشتش بر زنم دستی چو دانم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بنشسته است بر رویش غباری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخن‌گوئی بی‌آوازی ولیکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگوید تا نیابد هوشیاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبینی نشنوی تو قول او را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبیند کس چنین هرگز عیاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر وقت از سخن‌های حکیمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه رویش بر ببینم یادگاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگوید تا به رویش ننگرم من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه چون هر ژاژخائی بادساری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه تاریکی سخن هرگز نگوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو با حشمت مشهر شهریاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه صحبت با چنین یاری به یمگان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سر بردم به پیری روزگاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زندان سلیمانم ز دیوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنمی‌بینم نه یاری نه زواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسلیمان‌وار دیوانم براندند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسلیمانم، سلیمانم من آری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دریا باری افتاد او بدان وقت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز دست دیو و من بر کوهساری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبجز پرهیز و دانش بر تن من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیابد کس نه عیبی نه عواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا تا بر سر از دین آمد افسر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرهی و بنده بد هر بی‌فساری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزمن تیمار نامدشان ازیرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنپرهیزد حماری از حماری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرفته‌ستند اکنون از من آزار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو از پرهیز بر بستم ازاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بهر آل پیغمبر بخوردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنین بر جان مسکین زینهاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتبار و ال من شد خوار زی من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بهر بهترین آل و تباری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه فر آل پیغمبر ببارید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا بر دل ز علم دین نثاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هر فضلی پیاده و کند بودم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه فر آل او گشتم سواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه فر آل پیغمبر شود مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاگر بدبخت باشد بختیاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه فر علم آلش روزه‌دار است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمان بی‌طاعتی بسیار خواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه جان بی‌قرار اندر، بدیشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپدید آید زعلم دین قراری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eستمگاری به جز کز علم ایشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر این عالم کجا شد حق گزاری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه فر آل پیغمبر شفا یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بیماری دل هر دل‌فگاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه حلهٔ دین حق در پود تنزیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه ایشان یافت از تاویل تاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبیند جز به ایشان چشم دانا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنهانی را به زیر آشکاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنهان آشکارا کس ندیده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز از تعلیم حری نامداری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگارنده نهانی آشکار است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی دانا به زیر هر نگاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدین دار اندرون بایدت دیدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بیرون زین و به زین هست داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلطیف است آن و خوش، مشمر خبیثش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزخاک و خارو خس چون مرغزاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازیراک از قیاس، آن شادمانی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی دانای دین، وین سوکواری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو شورستان نباشد بوستانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو کاشانه نباشد ره گذاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر آگاهی که اندر ره‌گذاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه افتادی چنین در کاروباری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو دیوانه به طمع بار خرما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه افشانی همی بی‌بر چناری؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکار خویش کردت چرخ و نامد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دستت جز پشیمانی شکاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسی خفتی، کنون بر کن سر از خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخری خیره مده مستان خیاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه روزی زین شمرده روزگارت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبباید داد ناچاره شماری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبخوان اشعار حجت را که ندهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه از شعرش خرد جان را شعاری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 52
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جهان را نیست جز مردم شکاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا فقط انسان‌ها هستند که به دنبال شکار و کسب روزی می‌باشند و هیچ‌کس دیگر هدف خاصی ندارد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه جز خور هست کس را نیز کاری",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یکی مر گاو بر پروار را کس",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس جز قصاب نمی‌تواند خواستار گرفتن گاو پروار باشد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "جز از قصاب ناید خواستاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "کسی کو زاد و خورد و مرد چون خر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی تنها زندگی‌اش را به زاد و خوردن و مرگ بگذراند، او به اندازه یک خر بی‌فایده‌تر خواهد بود. آیا چنین فردی از هر گونه ارزش و معنایی نیز عاری است؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ازین بدترش باشد نیز عاری؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چه دزدی زی خردمندان چه موشی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر فردی از افراد دانا و بیدار باشد، می‌تواند از سخنان بد و ناپسند دیگران، مانند دزدی کردن از خردمندان یا موش‌های پنهان، آزرده نشود و به سوی دانایی و حقیقت حرکت کند. این نشان می‌دهد که نباید به حرف‌های بی‌محتوا و زهرآلود توجه کرد و باید بر روی دانش و آگاهی متمرکز شد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چه بدگوئی سوی دانا چه ماری",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خلنده‌تر ز جاهل بر نروید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از آب و خاک، درختی روییده باشد، هرگز نمی‌تواند از بی‌خودان و نادانان زودتر شکوفا و خندان باشد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هگرز، ای پور، ز آب و خاک خاری",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "زجاهل بید به زیراک اگر بید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی جاهل و نادان باشد، نمی‌تواند به خوبی بار مشکلات را تحمل کند و در این صورت نمی‌تواند به تو آسیبی برساند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نیارد بار نازاردت باری",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "حذر دار از درخت جاهل ایراک",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مراقب باش از درختی که از آن علم و دانش نمی‌آموزی، زیرا نمی‌تواند برای تو چیزی جز درد و رنج به ارمغان بیاورد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "نیارد بر تو زو جز خار باری",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "چه باید هر که او سر گین بشولد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که سر خود را به گناه آلوده کند، چه انتظاری می‌تواند از خود داشته باشد جز اینکه رنج و زحمت را تحمل کند و از درد و ناراحتی فرار نکند؟"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "مگر رنج تن و ناخوش بخاری؟",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "چو خلق این است و حال این، تو نیابی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که اوضاع و احوال مردم این گونه است، تو در تنهایی خود نمی‌توانی به آرامش برسی، ای عزیز، به مانند داشتن یک دیوار دور خود."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "ز تنهائی به، ای خواجه، حصاری",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "به از تنهائیت یاری نباید",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهتر است که تنها باشی تا اینکه یاری داشته باشی که بدی‌ها و نیرنگ‌ها را به تو تحمیل کند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "که تنهائی به از بد مهر یاری",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "خرد را اختیار این است و زی من",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خرد فقط به خود اختیار دارد و هیچ کس دیگری به آن اختیار نداده است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "ازین به کس نکرده است اختیاری",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "پیاده به بسی از بسته برخر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر پیاده و بی‌چیز باشی، بهتر است که در جایی دورافتاده و خالی از سکنه باشی تا اینکه در میان مردم ناپاک و پرخطر قرار بگیری."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "تهی غاری به از پر گرگ غاری",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "مرا یاری است چون تنها نشینم",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی تنها می‌نشینم، کسی هست که به من کمک می‌کند و با او می‌توانم با خیال راحت صحبت کنم و رازهایم را با او در میان بگذارم."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "سخن گوئی امینی رازداری",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "همی گوید که «هر کو نشنود خود",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کس که درد و غم را نمی‌شنود، خود را آزاد و بی‌غم می‌داند، اما در حقیقت کسی که می‌تواند غم‌ها را از بین ببرد، در این مسائل نقش دارد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "ندارد غم ولیکن غم‌گساری»",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "یکی پشتستش و صد روی هستش",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، به زیبایی و چندین جنبه مثبت و دلپذیر یک مفهوم یا یک شخص اشاره شده است. اگرچه فقط یک موضوع وجود دارد، اما زوایای مختلف و خوبی‌های بسیاری از آن موجود است که هر کدام مانند بهاری تازه و خوشبو شناخته می‌شوند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "به خوبی هر یکی همچون بهاری",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "به پشتش بر زنم دستی چو دانم",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به او کمک می‌کنم و بر او تکیه می‌زنم، چون می‌دانم که بر رویش غباری نشسته است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "که بنشسته است بر رویش غباری",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "سخن‌گوئی بی‌آوازی ولیکن",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بی‌صدا صحبت کردن ممکن است، اما اگر کسی چیزی نگوید، ممکن است نتواند خوب درک کند و هوشیار شود."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "نگوید تا نیابد هوشیاری",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "نبینی نشنوی تو قول او را",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو نه او را می‌دیدی و نه از سخن او باخبر بودی؛ هیچ‌کس چنین دلیری را ندیده است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "نبیند کس چنین هرگز عیاری",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "به هر وقت از سخن‌های حکیمان",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر بار که به گفته‌های حکیمان گوش می‌دهم، یادگاری از آن‌ها در ذهنم باقی می‌ماند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "به رویش بر ببینم یادگاری",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "نگوید تا به رویش ننگرم من",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نمی‌گوید که من به چهره‌اش نگاه نکنم، چون من مانند هر مفت‌گویی نیستم که با باد و ناز صحبت کند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "نه چون هر ژاژخائی بادساری",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "به تاریکی سخن هرگز نگوید",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در تاریکی هیچ وقت سخن نمی‌گوید، چون با شکوه و قدرت پادشاهی در معرض دید است."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "چو با حشمت مشهر شهریاری",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "به صحبت با چنین یاری به یمگان",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با دوستی در دل صحبت کرده‌ام و در کنار او لحظاتی از زندگی را سپری کرده‌ام."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "به سر بردم به پیری روزگاری",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "به زندان سلیمانم ز دیوان",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا فرد به نوعی حس تنهایی و انزوا را بیان می‌کند. او خود را در زندانی تشبیه می‌کند که هیچ یار و همراهی ندارد و از کسی در این وضعیت کمک نمی‌کند. این احساس به فقدان پشتیبانی و ارتباطات انسانی اشاره دارد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "نمی‌بینم نه یاری نه زواری",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "سلیمان‌وار دیوانم براندند",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرا همچون سلیمان از جمع خود دور کردند، اما من همچنان سلیمان هستم، بله، من سلیمانم."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "سلیمانم، سلیمانم من آری",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "به دریا باری افتاد او بدان وقت",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آن زمان که او در دریا به مشکل برخورد کرد، به خاطر دیو و مشکلاتش، من در کوهستان مشغول بودم."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "ز دست دیو و من بر کوهساری",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "بجز پرهیز و دانش بر تن من",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جز دانایی و خودداری، هیچ کس نمی‌تواند عیب یا نقصی به من وارد کند."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "نیابد کس نه عیبی نه عواری",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "مرا تا بر سر از دین آمد افسر",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من تا زمانی که تاج بر سرم گذاشته شد، به راه و رسم دین پایبند بودم و هر بی‌خود و بی‌نظم را بنده خود می‌دانستم."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "رهی و بنده بد هر بی‌فساری",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "زمن تیمار نامدشان ازیرا",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که از من هیچ اطلاعی به آنها نرسیده است، زیرا هیچ‌یک از آن‌ها از دیگری احتیاط نمی‌کند. به عبارت دیگر، انسان‌ها معمولاً در میان خود به یکدیگر آسیب می‌زنند و مراقب رفتار یکدیگر نیستند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "نپرهیزد حماری از حماری",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "گرفته‌ستند اکنون از من آزار",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اکنون دیگران از من رنجیده‌اند چون من خود را از آزار دیگران دور کرده‌ام."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "چو از پرهیز بر بستم ازاری",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "ز بهر آل پیغمبر بخوردم",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای نجات آل پیغمبر، به جان بی‌نوا این‌گونه رنج بردم و پایداری کردم."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "چنین بر جان مسکین زینهاری",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "تبار و ال من شد خوار زی من",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از نسل و خانواده خودم کم‌ارزش شدم، زیرا به خاطر بهترین نسل و تبار از آن‌ها فاصله گرفتم."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "ز بهر بهترین آل و تباری",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "به فر آل پیغمبر ببارید",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من از ویژگی‌های پیامبر اطلاع دهید و بر قلب من از دانش دین نثر کنید."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "مرا بر دل ز علم دین نثاری",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "به هر فضلی پیاده و کند بودم",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در هر فضیلتی به صورت پیاده و راحت حرکت می‌کردم، اما به هویت او وابسته شدم و حالا مثل سوارکاری شجاع درخدمت او هستم."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "به فر آل او گشتم سواری",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "به فر آل پیغمبر شود مرد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مردی که خوشبخت نیست، به مقام و مقامتی از فر آل پیامبر هم برسد، باز هم به او خوشبختی نخواهد رسید."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "اگر بدبخت باشد بختیاری",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "به فر علم آلش روزه‌دار است",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در سایه‌ی مقام و علم خاندان او، روزه‌داری و بندگی میسر است، ولی بی‌اطاعتی و سرپیچی از دستورات او، انسان را به ذلت و خواری می‌کشاند."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "همان بی‌طاعتی بسیار خواری",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "به جان بی‌قرار اندر، بدیشان",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دل پر آشوب و بی‌قرار، با علم دین، آرامشی برای آن‌ها به وجود می‌آید."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "پدید آید زعلم دین قراری",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "ستمگاری به جز کز علم ایشان",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ظلم و ستمی که از علم و دانش آن‌ها نشأت می‌گیرد، در این دنیا از کجا می‌توان یافت که حق و انصاف را رعایت کند؟"
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "در این عالم کجا شد حق گزاری؟",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "به فر آل پیغمبر شفا یافت",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به شخصیت والای پیامبر، افرادی که دلشان بیمار بود و دچار درد و غم بودند، شفا و آرامش یافتند."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "ز بیماری دل هر دل‌فگاری",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "به حلهٔ دین حق در پود تنزیل",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در لباس دین حق، حقیقتی را که در آیات نازل شده وجود دارد، به آن‌ها (مفسرین و عالمان) نشان داده شده است و از تفسیر و تأویل این آیات، پرده‌برداری شده است."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "به ایشان یافت از تاویل تاری",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "نبیند جز به ایشان چشم دانا",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم آگاه تنها آنچه را که در اینجا معلوم است می‌بیند و به جز آن، هیچ چیز دیگری را نمی‌تواند مشاهده کند."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "نهانی را به زیر آشکاری",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "نهان آشکارا کس ندیده است",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس راز حقیقت را از نزدیک ندیده است، مگر آنکه به آموزش و راهنمایی شخصی بزرگ و معتبر دست یافته باشد."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "جز از تعلیم حری نامداری",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "نگارنده نهانی آشکار است",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگارنده‌ای که کارش پنهان است، در واقع خود را به وضوح به کسی که دانا باشد، نشان می‌دهد و حتی زیر هر نقشی که کشیده شده، وجود او قابل شناسایی است."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "سوی دانا به زیر هر نگاری",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "بدین دار اندرون بایدت دیدن",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای درک صحیح اوضاع و احوال درونی خود، باید به دقت به آنچه در درونتان می‌گذرد توجه کنید؛ زیرا آنچه در بیرون وجود دارد، تنها بخشی از واقعیت است و فهم عمیق‌تر درون شما را نمایان می‌سازد."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "که بیرون زین و به زین هست داری",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "لطیف است آن و خوش، مشمر خبیثش",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبا و دلنشین است، اما نباید آن را با چیزهای زشت و بی‌ارزش کنار بگذاریم، همچون زیبایی یک دشت پرگل در میان خار و خس."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "زخاک و خارو خس چون مرغزاری",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "ازیراک از قیاس، آن شادمانی است",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که شادمانی و خوشحالی واقعی از درک و فهم دین به دست می‌آید، در حالی که اندوه و غم از جهل و نادانی نسبت به مسائل دینی ناشی می‌شود. در واقع، دانایی و آگاهی از دین، موجب خوشحالی و رضایت در زندگی می‌شود."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "سوی دانای دین، وین سوکواری",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "چو شورستان نباشد بوستانی",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر جایی برای شادابی و نشاط نباشد، نمی‌توان از آن به عنوان یک محیط دلپذیر یاد کرد؛ همان‌طور که اگر خانه‌ای نباشد، راهی برای عبور و مرور وجود نخواهد داشت."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "چو کاشانه نباشد ره گذاری",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "گر آگاهی که اندر ره‌گذاری",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌دانی که در راه زندگی چه تجربیاتی را پشت سر گذاشتی، چرا این‌گونه در کار و شغل خود مشغول هستی؟"
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "چه افتادی چنین در کاروباری؟",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "چو دیوانه به طمع بار خرما",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انسانی شبیه دیوانه که به خاطر خوش‌خوری خرما به پا می‌افتد، در حالی‌که فاقد درخت چنار است، تنها به خیال و آرزو می‌پردازد و از خود بی‌خود می‌شود."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "چه افشانی همی بی‌بر چناری؟",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "شکار خویش کردت چرخ و نامد",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرنوشت تو را به دام انداخته و هیچ چیزی جز پشیمانی از آن شکار نصیبت نشده است."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "به دستت جز پشیمانی شکاری",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "بسی خفتی، کنون بر کن سر از خواب",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بسیار خوابیده‌ای، حالا از خواب بیدار شو و سر خود را از خواب بردار. به خری که بی‌هدف و بی‌خبر خوابیده، بی‌اشتیاق نگاه نکن."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "خری خیره مده مستان خیاری",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "که روزی زین شمرده روزگارت",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزی خواهد رسید که به خاطر روزهایی که در زندگی گذرانده‌ای، نیاز به یاری و کمکی احساس خواهی کرد."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "بباید داد ناچاره شماری",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "بخوان اشعار حجت را که ندهد",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اشعار حجت را بخوان که هیچ چیز به اندازه شعر او نمی‌تواند روح را به زندگی وادارد."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "به از شعرش خرد جان را شعاری",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    }
+  ]
+}

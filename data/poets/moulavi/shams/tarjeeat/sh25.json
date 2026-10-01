@@ -1,0 +1,920 @@
+{
+  "Id": 5879,
+  "CatId": 101,
+  "Title": "بیست و پنجم",
+  "FullTitle": "مولانا » دیوان شمس » ترجیعات » بیست و پنجم",
+  "FullUrl": "/moulavi/shams/tarjeeat/sh25",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: غزل بالا بیانگر حال و هوای عاشقانه و شوریدگی شاعر است. او در مستی و شیدایی به یار و زیبایی او می‌نگرد و از عشق و محبتش مست می‌شود. شاعر در توصیف یار به زیبایی‌ها و جذابیت‌های او اشاره می‌کند و می‌گوید که آسمان‌ها به عشق او به حرکت درآمده‌اند و هر ذره‌ای به مدح و ثنای او زبان می‌گشاید. او همچنین از احساس ضعف چشمانش در برابر نور یار صحبت می‌کند و از تأثیرات عشق و محبت بر جان و دل خود می‌گوید. شاعر بیان می‌کند که سال نو سال عشق و خوشی است و اشاره به جشن و شادی دارد. در نهایت، او از سلوک صوفیانه و فراز و نشیب‌های زندگی سخن می‌گوید و به اهمیت توکل بر خدا تأکید می‌کند، در حالی که به تلاش برای نزدیک شدن به حقیقت و فضیلت دعوت می‌کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "شب مست یار بودم و در های های او\r\nحیران آن جمال خوش و شیوهای او\r\nگه دست می زدم که زهی وقت روزگار\r\nگه مست می فتادم بر خاک پای او\r\nهفت آسمان ز عشق معلق زنان او\r\nفربه شده ز جام خوش جانفزای او\r\nدر هوشها فتاده نهایات بیهشی\r\nدر گوشها فتاده صریر صلای او\r\nهر بره گوش شیر گرفته ز عدل او\r\nهر ذره گشاده دهان در ثنای او\r\nهرجا وفاست حاصل و هرجا که بوالوفاست\r\nبگداخته زخجلت و شرم وفای او\r\nچشمت ضعیف می شود از قرص آفتاب\r\nصد همچو آفتاب ضعیف از لقای او\r\nچندان بود ضعیف که یک روز چشم را\r\nسرمه کشد به لطف و کرم توتیای او\r\nآن نقدهای قلب که بنهاده به پیش\r\nچون ژیوه می طپند پی کیمیای او\r\nهر سوت می کشند خیالات آن و این\r\nوالله کشنده نیست به جز اقتضای او\r\nهریک چو کشتییم که برهم همی زنیم\r\nبحر کرم وی آمد و ما آشنای او\r\nجانم دهی ولی نکشی ور کشی بگو\r\nمن بارها گزارده ام خونبهای او\r\nفرع عنایت تو بود کوشش مرید\r\nفرع دعای تست حنین و دعای او\r\nبر بوی آب تست ورا در سراب میل\r\nبر بوی نقد تست سوی قلب رای او\r\nچون تاج عشق بر سر تست ای مرید صدق\r\nسرمست می خرام به زیر لوای او\r\nترجیع هم بگویم زیرا که یار خواست\r\nهر کژ که من بگویم گردد ز یار راست\r\nامسال سال عشرت و ولت در استوا\r\nای شاد آنکسی که بود طالعش چو ما\r\nدف می خرید زهره و برهم همی نهاد\r\nمی ساخت چنگ را سر و پهلو و گردنا\r\nدر طبع می نهاد هزاران خروش جوش\r\nدر نای نی نهاد ز انفاس خود نوا\r\nبنیاد عشرتی که جهان آن ندیده است\r\nخورشید را چه کار به جز گرمی و ضیا\r\nامسال سال تست اگر زهره طالعی\r\nزهره جنی ببست ازین مژده دست و پا\r\nخوان ابد نهاد خدا و اساس نو\r\nمن سال و ماه گفتم از غیرت خدا\r\nای شاه کژنهاده از مستی آن کلاه\r\nچندان گرو شود به خرابات ما قبا\r\nجانها فنا شوند ز جام خدای خویش\r\nز اندیشه باز رسته و از جنگ و ماجرا\r\nگوید که  چون بدیت دران غربت دراز \r\nگویند   آنچنان که بود درد بی دوا\r\nچون ماهیان طپان شده بر ریگهای گرم\r\nمهجور از لقای تو ای ماه کبریا\r\nدر بحر زاده ایم و به خشکی فتاده ایم \r\nای زاده وفاش تو چونی درین جفا\r\nمنت خدای راست که بازآمدی به بحر\r\nچون صوفیان ببند لب از ذکر مامضی\r\nزیرا که ذکر وحشت هم وحشتیست نو\r\nگفتن ز بعد صلح  چنین گفته مرا \r\nدر بزم اولیا نه شکوفه نه عربده ست\r\nدر خرمن خدای نه رخصست و نی غلا\r\nآنجا سعادتیست که آن را قیاس نیست\r\nهر لحظه نو به نو متراقیست اجتبا\r\nترجیع سیومست اگر حق نخواستی\r\nجان را به نظم کردن پروا کجاستی\r\nدر روضه ریاحین می گرد چپ و راست\r\nگل دسته بستن تو ندانم پی کراست\r\nگل دسته در هوای عفن پایدار نیست\r\nآن را کشیدن این سو هم حیف و هم خطاست\r\nزنجیر بسکلد بسوی اصل خود رود\r\nزیرا که پروریده آن معتدل هواست\r\nاینجا قباش ماند یعنی عبارتی\r\nاما قبای یوسف دلرا چو توتیاست\r\nهین جهد کن تو نیز که بیرون کنی قبا\r\nدر بحر بی قبا شدنت شرط آشناست\r\nای مرد یک قبا تو قبا بر قبا مپوش\r\nگر بحریی تجمل و پوشش ترا عراست\r\nالفقر فخر گفت رسول خدای ازین\r\nسباح فحل و شاه سباحات مصطفاست\r\nکشتی که داشت هم ز برای عوام داشت\r\nبهر پیاده چو پیاده شوی سخاست\r\nاما دغل بسیست تو کشتی شناس باش\r\nزیرا که کار دنیا سحرست و سیمیاست\r\nدنیا چو کهرباست و همه که رباید او\r\nگندم که مغز دارد فارغ ز کهرباست\r\nهرکو سفر به بحر کند در سفینه اش\r\nاو ساکن و رونده و همراه انبیاست\r\nدر نان بسی برفتی در آب هم برو\r\nاز بعد سیر آب یقین مفرشت سماست\r\nزین سان طبق طبق متعالی همی شوی\r\nاما علای مرتبه جز صورت علاست\r\nاین ره چنین دراز به یکدم میسرست\r\nاین روضه دور نیست چو رهبر ترا رضاست\r\nآری دراز و کوته در عالم تنست\r\nاما بر خدا نه صباحست و نی مساست\r\nگر در جفا رود ره و گر در وفا رود\r\nجان توست جان تو از تو کجا رود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب مست یار بودم و در های های او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحیران آن جمال خوش و شیوهای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه دست می‌زدم که زهی وقت روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه مست می‌فتادم بر خاک پای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهفت آسمان ز عشق معلق زنان او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفربه شده ز جام خوش جانفزای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هوشها فتاده نهایات بیهشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر گوشها فتاده صریر صلای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر بره گوش شیر گرفته ز عدل او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر ذره گشاده دهان در ثنای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرجا وفاست حاصل، و هرجا که بوالوفاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگداخته زخجلت و شرم وفای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمت ضعیف می‌شود از قرص آفتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد همچو آفتاب ضعیف از لقای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندان بود ضعیف که یک روز چشم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمه کشد به لطف و کرم توتیای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن نقدهای قلب که بنهادهٔ به پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون ژیوه می‌طپند پی کیمیای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر سوت می‌کشند خیالات آن و این\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوالله کشنده نیست به جز اقتضای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهریک چو کشتییم که برهم همی زنیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحر کرم وی آمد و ما آشنای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانم دهی ولی نکشی، ور کشی بگو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بارها گزارده‌ام خونبهای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرع عنایت تو بود کوشش مرید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرع دعای تست حنین و دعای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر بوی آب تست ورا در سراب میل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر بوی نقد تست سوی قلب رای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تاج عشق بر سر تست ای مرید صدق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمست می‌خرام به زیر لوای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn16\u0022\u003E\u003Cp\u003Eترجیع هم بگویم زیرا که یار خواست\u003C/p\u003E\r\n\u003Cp\u003Eهر کژ که من بگویم، گردد ز یار راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامسال سال عشرت و ولت در استوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای شاد آنکسی که بود طالعش چو ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدف می‌خرید زهره و برهم همی نهاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌ساخت چنگ را سر و پهلو و گردنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر طبع می‌نهاد هزاران خروش جوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر نای نی نهاد ز انفاس خود نوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنیاد عشرتی که جهان آن ندیده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید را چه کار به جز گرمی و ضیا؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامسال سال تست، اگر زهره طالعی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهره جنی ببست ازین مژده دست و پا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوان ابد، نهاد خدا و اساس نو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن سال و ماه گفتم، از غیرت خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه، کژنهادهٔ از مستی آن کلاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندان گرو شود به خرابات ما قبا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانها فنا شوند ز جام خدای خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اندیشه باز رسته و از جنگ و ماجرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوید که: « چون بدیت دران غربت دراز »\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویند : « آنچنان که بود درد بی‌دوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ماهیان طپان شده بر ریگهای گرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهجور از لقای تو ای ماه کبریا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بحر زاده‌ایم و به خشکی فتاده‌ایم »\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای زادهٔ وفاش تو چونی درین جفا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنت خدای راست که بازآمدی به بحر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون صوفیان ببند لب از ذکر مامضی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزیرا که ذکر وحشت هم وحشتیست نو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتن ز بعد صلح: « چنین گفتهٔ مرا »\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بزم اولیا نه شکوفه نه عربده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خرمن خدای، نه رخصست و نی غلا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنجا سعادتیست که آن را قیاس نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر لحظه نو به نو متراقیست اجتبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn32\u0022\u003E\u003Cp\u003Eترجیع سیومست، اگر حق نخواستی\u003C/p\u003E\r\n\u003Cp\u003Eجان را به نظم کردن پروا کجاستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر روضهٔ ریاحین می‌گرد چپ و راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل دسته بستن تو ندانم پی کراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل دسته در هوای عفن پایدار نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن را کشیدن این سو، هم حیف و هم خطاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنجیر بسکلد، بسوی اصل خود رود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیرا که پروریدهٔ آن معتدل هواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاینجا قباش ماند، یعنی عبارتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما قبای یوسف، دلرا چو توتیاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهین جهد کن تو نیز، که بیرون کنی قبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بحر، بی‌قبا شدنت شرط آشناست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرد یک قبا، تو قبا بر قبا مپوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر بحریی، تجمل و پوشش ترا عراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالفقر فخر گفت رسول خدای ازین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسباح فحل و شاه سباحات مصطفاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشتی که داشت، هم ز برای عوام داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر پیادهٔ چو پیاده شوی، سخاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاما دغل بسیست، تو کشتی شناس باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیرا که کار دنیا سحرست و سیمیاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدنیا چو کهرباست و همه که رباید او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگندم که مغز دارد، فارغ ز کهرباست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکو سفر به بحر کند در سفینه‌اش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو ساکن و رونده و همراه انبیاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر نان بسی برفتی، در آب هم برو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بعد سیر آب یقین مفرشت سماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین‌سان طبق طبق، متعالی همی شوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما علای مرتبه جز صورت علاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین ره چنین دراز به یکدم میسرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین روضه دور نیست، چو رهبر ترا رضاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآری، دراز و کوته در عالم تنست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما بر خدا، نه صباحست و نی مساست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn48\u0022\u003E\u003Cp\u003Eگر در جفا رود ره و گر در وفا رود\u003C/p\u003E\r\n\u003Cp\u003Eجان توست، جان تو از تو کجا رود؟!\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "TarjeeBand",
+      "CoupletsCount": 48
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ایاو",
+      "PlainText": "شب مست یار بودم و در های های او\r\nحیران آن جمال خوش و شیوهای او\r\nگه دست می زدم که زهی وقت روزگار\r\nگه مست می فتادم بر خاک پای او\r\nهفت آسمان ز عشق معلق زنان او\r\nفربه شده ز جام خوش جانفزای او\r\nدر هوشها فتاده نهایات بیهشی\r\nدر گوشها فتاده صریر صلای او\r\nهر بره گوش شیر گرفته ز عدل او\r\nهر ذره گشاده دهان در ثنای او\r\nهرجا وفاست حاصل و هرجا که بوالوفاست\r\nبگداخته زخجلت و شرم وفای او\r\nچشمت ضعیف می شود از قرص آفتاب\r\nصد همچو آفتاب ضعیف از لقای او\r\nچندان بود ضعیف که یک روز چشم را\r\nسرمه کشد به لطف و کرم توتیای او\r\nآن نقدهای قلب که بنهاده به پیش\r\nچون ژیوه می طپند پی کیمیای او\r\nهر سوت می کشند خیالات آن و این\r\nوالله کشنده نیست به جز اقتضای او\r\nهریک چو کشتییم که برهم همی زنیم\r\nبحر کرم وی آمد و ما آشنای او\r\nجانم دهی ولی نکشی ور کشی بگو\r\nمن بارها گزارده ام خونبهای او\r\nفرع عنایت تو بود کوشش مرید\r\nفرع دعای تست حنین و دعای او\r\nبر بوی آب تست ورا در سراب میل\r\nبر بوی نقد تست سوی قلب رای او\r\nچون تاج عشق بر سر تست ای مرید صدق\r\nسرمست می خرام به زیر لوای او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشب مست یار بودم و در های های او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحیران آن جمال خوش و شیوهای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه دست می‌زدم که زهی وقت روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگه مست می‌فتادم بر خاک پای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهفت آسمان ز عشق معلق زنان او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفربه شده ز جام خوش جانفزای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر هوشها فتاده نهایات بیهشی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر گوشها فتاده صریر صلای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر بره گوش شیر گرفته ز عدل او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر ذره گشاده دهان در ثنای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرجا وفاست حاصل، و هرجا که بوالوفاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگداخته زخجلت و شرم وفای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمت ضعیف می‌شود از قرص آفتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد همچو آفتاب ضعیف از لقای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچندان بود ضعیف که یک روز چشم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمه کشد به لطف و کرم توتیای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن نقدهای قلب که بنهادهٔ به پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون ژیوه می‌طپند پی کیمیای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر سوت می‌کشند خیالات آن و این\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوالله کشنده نیست به جز اقتضای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهریک چو کشتییم که برهم همی زنیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبحر کرم وی آمد و ما آشنای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانم دهی ولی نکشی، ور کشی بگو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن بارها گزارده‌ام خونبهای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرع عنایت تو بود کوشش مرید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرع دعای تست حنین و دعای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر بوی آب تست ورا در سراب میل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر بوی نقد تست سوی قلب رای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تاج عشق بر سر تست ای مرید صدق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسرمست می‌خرام به زیر لوای او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 15
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ا",
+      "PlainText": "امسال سال عشرت و ولت در استوا\r\nای شاد آنکسی که بود طالعش چو ما\r\nدف می خرید زهره و برهم همی نهاد\r\nمی ساخت چنگ را سر و پهلو و گردنا\r\nدر طبع می نهاد هزاران خروش جوش\r\nدر نای نی نهاد ز انفاس خود نوا\r\nبنیاد عشرتی که جهان آن ندیده است\r\nخورشید را چه کار به جز گرمی و ضیا\r\nامسال سال تست اگر زهره طالعی\r\nزهره جنی ببست ازین مژده دست و پا\r\nخوان ابد نهاد خدا و اساس نو\r\nمن سال و ماه گفتم از غیرت خدا\r\nای شاه کژنهاده از مستی آن کلاه\r\nچندان گرو شود به خرابات ما قبا\r\nجانها فنا شوند ز جام خدای خویش\r\nز اندیشه باز رسته و از جنگ و ماجرا\r\nگوید که  چون بدیت دران غربت دراز \r\nگویند   آنچنان که بود درد بی دوا\r\nچون ماهیان طپان شده بر ریگهای گرم\r\nمهجور از لقای تو ای ماه کبریا\r\nدر بحر زاده ایم و به خشکی فتاده ایم \r\nای زاده وفاش تو چونی درین جفا\r\nمنت خدای راست که بازآمدی به بحر\r\nچون صوفیان ببند لب از ذکر مامضی\r\nزیرا که ذکر وحشت هم وحشتیست نو\r\nگفتن ز بعد صلح  چنین گفته مرا \r\nدر بزم اولیا نه شکوفه نه عربده ست\r\nدر خرمن خدای نه رخصست و نی غلا\r\nآنجا سعادتیست که آن را قیاس نیست\r\nهر لحظه نو به نو متراقیست اجتبا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامسال سال عشرت و ولت در استوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای شاد آنکسی که بود طالعش چو ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدف می‌خرید زهره و برهم همی نهاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمی‌ساخت چنگ را سر و پهلو و گردنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر طبع می‌نهاد هزاران خروش جوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر نای نی نهاد ز انفاس خود نوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنیاد عشرتی که جهان آن ندیده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید را چه کار به جز گرمی و ضیا؟!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامسال سال تست، اگر زهره طالعی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزهره جنی ببست ازین مژده دست و پا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوان ابد، نهاد خدا و اساس نو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن سال و ماه گفتم، از غیرت خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شاه، کژنهادهٔ از مستی آن کلاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندان گرو شود به خرابات ما قبا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانها فنا شوند ز جام خدای خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز اندیشه باز رسته و از جنگ و ماجرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوید که: « چون بدیت دران غربت دراز »\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگویند : « آنچنان که بود درد بی‌دوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون ماهیان طپان شده بر ریگهای گرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهجور از لقای تو ای ماه کبریا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بحر زاده‌ایم و به خشکی فتاده‌ایم »\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای زادهٔ وفاش تو چونی درین جفا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنت خدای راست که بازآمدی به بحر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون صوفیان ببند لب از ذکر مامضی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزیرا که ذکر وحشت هم وحشتیست نو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگفتن ز بعد صلح: « چنین گفتهٔ مرا »\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر بزم اولیا نه شکوفه نه عربده‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خرمن خدای، نه رخصست و نی غلا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنجا سعادتیست که آن را قیاس نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر لحظه نو به نو متراقیست اجتبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 15
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "است",
+      "PlainText": "در روضه ریاحین می گرد چپ و راست\r\nگل دسته بستن تو ندانم پی کراست\r\nگل دسته در هوای عفن پایدار نیست\r\nآن را کشیدن این سو هم حیف و هم خطاست\r\nزنجیر بسکلد بسوی اصل خود رود\r\nزیرا که پروریده آن معتدل هواست\r\nاینجا قباش ماند یعنی عبارتی\r\nاما قبای یوسف دلرا چو توتیاست\r\nهین جهد کن تو نیز که بیرون کنی قبا\r\nدر بحر بی قبا شدنت شرط آشناست\r\nای مرد یک قبا تو قبا بر قبا مپوش\r\nگر بحریی تجمل و پوشش ترا عراست\r\nالفقر فخر گفت رسول خدای ازین\r\nسباح فحل و شاه سباحات مصطفاست\r\nکشتی که داشت هم ز برای عوام داشت\r\nبهر پیاده چو پیاده شوی سخاست\r\nاما دغل بسیست تو کشتی شناس باش\r\nزیرا که کار دنیا سحرست و سیمیاست\r\nدنیا چو کهرباست و همه که رباید او\r\nگندم که مغز دارد فارغ ز کهرباست\r\nهرکو سفر به بحر کند در سفینه اش\r\nاو ساکن و رونده و همراه انبیاست\r\nدر نان بسی برفتی در آب هم برو\r\nاز بعد سیر آب یقین مفرشت سماست\r\nزین سان طبق طبق متعالی همی شوی\r\nاما علای مرتبه جز صورت علاست\r\nاین ره چنین دراز به یکدم میسرست\r\nاین روضه دور نیست چو رهبر ترا رضاست\r\nآری دراز و کوته در عالم تنست\r\nاما بر خدا نه صباحست و نی مساست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر روضهٔ ریاحین می‌گرد چپ و راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل دسته بستن تو ندانم پی کراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل دسته در هوای عفن پایدار نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن را کشیدن این سو، هم حیف و هم خطاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنجیر بسکلد، بسوی اصل خود رود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیرا که پروریدهٔ آن معتدل هواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاینجا قباش ماند، یعنی عبارتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما قبای یوسف، دلرا چو توتیاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهین جهد کن تو نیز، که بیرون کنی قبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر بحر، بی‌قبا شدنت شرط آشناست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرد یک قبا، تو قبا بر قبا مپوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر بحریی، تجمل و پوشش ترا عراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالفقر فخر گفت رسول خدای ازین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسباح فحل و شاه سباحات مصطفاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشتی که داشت، هم ز برای عوام داشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهر پیادهٔ چو پیاده شوی، سخاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاما دغل بسیست، تو کشتی شناس باش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیرا که کار دنیا سحرست و سیمیاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدنیا چو کهرباست و همه که رباید او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگندم که مغز دارد، فارغ ز کهرباست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهرکو سفر به بحر کند در سفینه‌اش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو ساکن و رونده و همراه انبیاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر نان بسی برفتی، در آب هم برو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بعد سیر آب یقین مفرشت سماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین‌سان طبق طبق، متعالی همی شوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما علای مرتبه جز صورت علاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین ره چنین دراز به یکدم میسرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین روضه دور نیست، چو رهبر ترا رضاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآری، دراز و کوته در عالم تنست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاما بر خدا، نه صباحست و نی مساست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 15
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "ترجیع هم بگویم زیرا که یار خواست\r\nهر کژ که من بگویم گردد ز یار راست\r\nترجیع سیومست اگر حق نخواستی\r\nجان را به نظم کردن پروا کجاستی\r\nگر در جفا رود ره و گر در وفا رود\r\nجان توست جان تو از تو کجا رود",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eترجیع هم بگویم زیرا که یار خواست\u003C/p\u003E\r\n\u003Cp\u003Eهر کژ که من بگویم، گردد ز یار راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eترجیع سیومست، اگر حق نخواستی\u003C/p\u003E\r\n\u003Cp\u003Eجان را به نظم کردن پروا کجاستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eگر در جفا رود ره و گر در وفا رود\u003C/p\u003E\r\n\u003Cp\u003Eجان توست، جان تو از تو کجا رود؟!\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "است",
+      "PlainText": "ترجیع هم بگویم زیرا که یار خواست\r\nهر کژ که من بگویم گردد ز یار راست",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eترجیع هم بگویم زیرا که یار خواست\u003C/p\u003E\r\n\u003Cp\u003Eهر کژ که من بگویم، گردد ز یار راست\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "استی",
+      "PlainText": "ترجیع سیومست اگر حق نخواستی\r\nجان را به نظم کردن پروا کجاستی",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eترجیع سیومست، اگر حق نخواستی\u003C/p\u003E\r\n\u003Cp\u003Eجان را به نظم کردن پروا کجاستی\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "ارود",
+      "PlainText": "گر در جفا رود ره و گر در وفا رود\r\nجان توست جان تو از تو کجا رود",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eگر در جفا رود ره و گر در وفا رود\u003C/p\u003E\r\n\u003Cp\u003Eجان توست، جان تو از تو کجا رود؟!\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "شب مست یار بودم و در های های او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: در شب، به نشانه‌ی عشق و سرمستی، در حالتی از شگفتی و حیرت به زیبایی و جذابیت معشوق خود نگاه می‌کردم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حیران آن جمال خوش و شیوهای او",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گه دست می‌زدم که زهی وقت روزگار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: گاه خود را سرگرم می‌کردم و شاد بودم که چه زمانه‌ی خوبی است، و گاه در حال مستی بر زمین می‌افتادم به پای او."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گه مست می‌فتادم بر خاک پای او",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "هفت آسمان ز عشق معلق زنان او",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: هفت آسمان به خاطر عشق، در حال چرخش و حرکت است و به واسطهٔ نوشیدنی لذت‌بخش او، به شکوفایی و فراخی رسیده است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "فربه شده ز جام خوش جانفزای او",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "در هوشها فتاده نهایات بیهشی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: در ذهن‌ها، نشانه‌هایی از نابخردی وجود دارد و در گوش‌ها، صدای زنگ او به گوش می‌رسد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در گوشها فتاده صریر صلای او",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "هر بره گوش شیر گرفته ز عدل او",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: هر بره و گوسفند به برکت عطای او به عدالت او پی‌برده و در ستایش او سخن می‌گویند. حتی کوچک‌ترین ذره‌ها نیز به ستایش او زبان باز کرده‌اند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هر ذره گشاده دهان در ثنای او",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "هرجا وفاست حاصل، و هرجا که بوالوفاست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: هر جا که وفا و صداقت وجود دارد، نتیجه‌اش خوب و مثبت است. اما در جایی که بی‌وفایی و بی‌وفایی حکم‌فرماست، شخص به خاطر شرم و خجلت وفای واقعی خود را از دست می‌دهد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بگداخته زخجلت و شرم وفای او",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چشمت ضعیف می‌شود از قرص آفتاب",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: چشمانت به خاطر تابش آفتاب ضعیف می‌شود و این در حالی است که آفتاب نیز از ملاقات با او ضعیف می‌گردد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "صد همچو آفتاب ضعیف از لقای او",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "چندان بود ضعیف که یک روز چشم را",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که فردی به قدری ضعیف و آسیب‌پذیر است که تنها با یک بار نگریستن به نوازش و محبت تو، می‌تواند به زیبایی و قدرتی دست یابد. این تأکید بر تأثیر لطافت و مهربانی بر روح و روان انسان است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "سرمه کشد به لطف و کرم توتیای او",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "آن نقدهای قلب که بنهادهٔ به پیش",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: عشق و احساساتی که در دل دارم، مانند جیوه در حال تپش و جنب و جوش هستند، و این نشان می‌دهد که من برای رسیدن به حقیقت و اصل وجودی که آن را جستجو می‌کنم، تلاش می‌کنم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "چون ژیوه می‌طپند پی کیمیای او",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "هر سوت می‌کشند خیالات آن و این",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: این جمله اشاره دارد به اینکه هر بار که کسی کاری انجام می‌دهد یا چیزی فکر می‌کند، در واقع تحت تأثیر شرایط و لوازمی است که برای او پیش آمده و این شرایط گاهی به نظر می‌رسد کشنده و خطرناک باشد، اما در واقع فقط نتیجه‌ی طبیعی آن وضعیت است. در واقع، آنچه او تجربه می‌کند ناشی از ضرورت‌های زندگی‌اش است و نه چیزی فراتر از آن."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "والله کشنده نیست به جز اقتضای او",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "هریک چو کشتییم که برهم همی زنیم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: هر یک از ما مانند کشتی‌هایی هستیم که به یکدیگر برخورد می‌کنند. دریای لطف و رحمت او وجود دارد و ما با او آشنا هستیم."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "بحر کرم وی آمد و ما آشنای او",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "جانم دهی ولی نکشی، ور کشی بگو",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: اگر جانم را به من بدهی و مرا نکشی، و اگر هم مرا بکشی، بگو که من بارها بهای جان او را پرداخته‌ام."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "من بارها گزارده‌ام خونبهای او",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "فرع عنایت تو بود کوشش مرید",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: تلاش و کوشش مرید نتیجه توجه و عنایت توست و دعا و نجوای او وابسته به دعای توست."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "فرع دعای تست حنین و دعای او",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "بر بوی آب تست ورا در سراب میل",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: به عطر آب، تو را در آن تصویر خیالی می‌پسندم و به عطر حقیقت، به سمت دل رأی او تمایل دارم."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "بر بوی نقد تست سوی قلب رای او",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "چون تاج عشق بر سر تست ای مرید صدق",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای مرید صدق، چون عشق تو مانند تاجی بر سرم است، من با شادی و سرخوشی زیر سایه او قدم می‌زنم."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "سرمست می‌خرام به زیر لوای او",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 31,
+      "Position": "CenteredVerse1",
+      "Text": "ترجیع هم بگویم زیرا که یار خواست",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "SectionIndex3": 6,
+      "CoupletSummary": "هوش مصنوعی: می‌خواهم داستانی را بگویم، زیرا دوستم خواسته است. هر چه را که بگویم، در نهایت به حقیقتی که او می‌خواهد برسد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "CenteredVerse2",
+      "Text": "هر کژ که من بگویم، گردد ز یار راست",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "SectionIndex3": 6
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "امسال سال عشرت و ولت در استوا",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: امسال سال خوشی و شادی است و تو در اوج خوشبختی به سر می‌بری. خوشبخت کسی است که سرنوشتش شبیه ماست."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "ای شاد آنکسی که بود طالعش چو ما",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "دف می‌خرید زهره و برهم همی نهاد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زهره، دف می‌خرید و برهم (مُشغول) می‌شد تا ساز چنگ را به شکلی زیبا بسازد، با سر و پهلو و گردانی خاص."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "می‌ساخت چنگ را سر و پهلو و گردنا",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "در طبع می‌نهاد هزاران خروش جوش",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در درون خود هزاران صدا و احساس را جای داده بود و با نفس‌هایش، آهنگی را در نای نی ایجاد کرد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "در نای نی نهاد ز انفاس خود نوا",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "بنیاد عشرتی که جهان آن ندیده است",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: عشرت و خوشی‌ای که در این دنیا وجود ندارد، چه نیازی به خورشید دارد جز اینکه گرما و روشنی ببخشد؟"
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "خورشید را چه کار به جز گرمی و ضیا؟!",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "امسال سال تست، اگر زهره طالعی",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: امسال سال امتحان است؛ اگر ستاره زهره، که نشانه خوشبختی است، ارتباطی با ستاره جن داشته باشد، از این خبر خوش، خود را برای تلاش آماده کنید."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "زهره جنی ببست ازین مژده دست و پا",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "خوان ابد، نهاد خدا و اساس نو",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: خداوند میهمانی جاودانی را ترتیب داده و اساس جدیدی برپا کرده است. من درباره سال و ماه صحبت می‌کنم که به خاطر غیرت خدا به وجود آمده‌اند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "من سال و ماه گفتم، از غیرت خدا",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "ای شاه، کژنهادهٔ از مستی آن کلاه",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ای پادشاه، این کلاه که بر سر دارد به خاطر مستی از کجا می‌تواند در جمع ما در خرابه‌ها به کار بیاید؟"
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "چندان گرو شود به خرابات ما قبا؟",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "جانها فنا شوند ز جام خدای خویش",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: آدم‌ها از شر جنگ‌ها و نگرانی‌ها رها می‌شوند و جان‌هایشان با نوشیدن از جام الهی زنده می‌شود."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "ز اندیشه باز رسته و از جنگ و ماجرا",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "گوید که: « چون بدیت دران غربت دراز »",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: می‌گوید: «چون به این وضعیت در غربت طولانی دچار شدم» و پاسخ می‌دهند: «مثل همان درد است که هیچ درمانی ندارد.»"
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "گویند : « آنچنان که بود درد بی‌دوا",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "چون ماهیان طپان شده بر ریگهای گرم",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: مانند ماهیانی که بر شن‌های گرم و دور از دسترس تو در حال تقلا هستند، من نیز در آرزوی لقای تو به تلاطم افتاده‌ام، ای ماه بزرگ و باعظمت."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "مهجور از لقای تو ای ماه کبریا",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "در بحر زاده‌ایم و به خشکی فتاده‌ایم »",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: ما در دریا به دنیا آمده‌ایم و اکنون به خشکی افتاده‌ایم. ای فرزند وفا، حالا چطور می‌توانی در این بدعهدی زندگی کنی؟"
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "ای زادهٔ وفاش تو چونی درین جفا؟",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "منت خدای راست که بازآمدی به بحر",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: خوشحالی و شکرگزاری از خدا که دوباره به مکان و حالتی روحانی برگشته‌ام، به مانند عارفان، باید زبانم را از یادآوری گذشته‌ها ببندم."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "چون صوفیان ببند لب از ذکر مامضی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "زیرا که ذکر وحشت هم وحشتیست نو",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زیرا که یادآوری ترس هم خود ترسی تازه است، وقتی که از پس فراموشی وضعیت صلح، به یاد می‌آوریم که گفته‌ام: «این چنین بوده است»."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "گفتن ز بعد صلح: « چنین گفتهٔ مرا »",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "در بزم اولیا نه شکوفه نه عربده‌ست",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در محفل عارفان نه خبری از شادی و زیبایی است و نه سر و صدا. در میکده الهی، نه اجازه‌ای برای خوشگذرانی وجود دارد و نه بازی‌های سرگرم‌کننده."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "در خرمن خدای، نه رخصست و نی غلا",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "آنجا سعادتیست که آن را قیاس نیست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: در آنجا، خوشبختی وجود دارد که قابل مقایسه نیست و هر لحظه به شکلی تازه و نو خود را نمایان می‌کند."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "هر لحظه نو به نو متراقیست اجتبا",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 63,
+      "Position": "CenteredVerse1",
+      "Text": "ترجیع سیومست، اگر حق نخواستی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "SectionIndex3": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر به دنبال حق نیستی، پس چرا جان خود را در نظم و ترتیب به زحمت می‌ندازید؟"
+    },
+    {
+      "VOrder": 64,
+      "Position": "CenteredVerse2",
+      "Text": "جان را به نظم کردن پروا کجاستی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "SectionIndex3": 7
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "در روضهٔ ریاحین می‌گرد چپ و راست",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در باغی پر از گل، در حال چپ و راست رفتن هستم و نمی‌دانم که این گل‌ها را برای چه کسی دسته می‌کنم."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "گل دسته بستن تو ندانم پی کراست",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "گل دسته در هوای عفن پایدار نیست",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: گل، در هوای آلوده و نامساعد نمی‌ماند و تلاش برای جابجایی آن به این سمت، هم نادرست است و هم غم‌انگیز."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "آن را کشیدن این سو، هم حیف و هم خطاست",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "زنجیر بسکلد، بسوی اصل خود رود",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: زنجیر، به خاطر طبیعت خود، به سوی جایی که از آن آمده حرکت می‌کند، چرا که به خوبی تحت شرایط مناسب رشد کرده است."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "زیرا که پروریدهٔ آن معتدل هواست",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "اینجا قباش ماند، یعنی عبارتی",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این جمله به نوعی به زیبایی و جذابیت اشاره دارد که شخصی به وضوح خاص و منحصر به فرد است. به عبارت دیگر، این فرد مانند قبا (لباس) یوسف، که نماد زیبایی و جذابیت است، دل را تحت تأثیر قرار می‌دهد و برای قلب‌ها دلنشین و شیرین است، مانند توت که طعم خوشایندی دارد."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "اما قبای یوسف، دلرا چو توتیاست",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "هین جهد کن تو نیز، که بیرون کنی قبا",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: تلاش کن تا بتوانی خود را از محدودیت‌ها رها کنی، زیرا برای آشنا شدن، نیاز است که از شرایط فعلی و قید و بندها آزاد شوی."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "در بحر، بی‌قبا شدنت شرط آشناست",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "ای مرد یک قبا، تو قبا بر قبا مپوش",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ای مرد با وقار، تو نباید بر روی لباس‌های دیگر لباسی بپوشی. اگر در دریایی از تجمل و زیورآلات هستی، آنها را کنار بگذار و آنچه که درونت است را نشان بده."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "گر بحریی، تجمل و پوشش ترا عراست",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "الفقر فخر گفت رسول خدای ازین",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: فقر در واقع افتخار است، زیرا پیامبر خدا فرمود که این حالت از میان برکت‌ها و مقام‌های برتر است و این نیز از ویژگی‌های عالی پیامبر مصطفی (ص) است."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "سباح فحل و شاه سباحات مصطفاست",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "کشتی که داشت، هم ز برای عوام داشت",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: کشتی که او داشت، برای مردم عادی نیز به کار می‌آمد. اما اگر کسی پیاده شود، برای او به‌واقع مفید خواهد بود."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "بهر پیادهٔ چو پیاده شوی، سخاست",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "اما دغل بسیست، تو کشتی شناس باش",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا بسیاری از نیرنگ‌ها و فریب‌ها وجود دارد. بنابراین، باید هوشیار و آگاه باشی، زیرا زندگی همچون جادو و شعبده بازی است که در آن ظرافت‌های پنهانی نهفته است."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "زیرا که کار دنیا سحرست و سیمیاست",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "دنیا چو کهرباست و همه که رباید او",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: دنیا مانند کهربا است و هر چیزی که بخواهد به خود جذب کند، مانند گندم که دارای مغز است و از کهربا بی‌خبر است و به آن اعتنا نمی‌کند."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "گندم که مغز دارد، فارغ ز کهرباست",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "هرکو سفر به بحر کند در سفینه‌اش",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هر کس که به دریا سفر کند و در کشتی‌اش قرار گیرد، در واقع همواره در حال حرکت و در کنار پیامبران است."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "او ساکن و رونده و همراه انبیاست",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "در نان بسی برفتی، در آب هم برو",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: اگر در نان تلاش کردی، در آب هم باید تلاش کنی. وقتی سیراب شدی، دیگر نباید از آب بیاوری."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "از بعد سیر آب یقین مفرشت سماست",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "زین‌سان طبق طبق، متعالی همی شوی",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: بدین ترتیب، با تلاش و پیشرفت گام به گام، می‌توانی به اوج و تعالی برسی، اما باید بدان که نشانه‌های تعالی تنها به ظاهر و شکل‌های بیرونی محدود نمی‌شوند."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "اما علای مرتبه جز صورت علاست",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "این ره چنین دراز به یکدم میسرست",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این مسیر بسیار طولانی است، اما به‌راحتی می‌توان در یک لحظه به آن دست یافت. این باغ زیبا دور از دسترس نیست، وقتی که خود هدایت‌گر تو میل به رضایت دارد."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "این روضه دور نیست، چو رهبر ترا رضاست",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "آری، دراز و کوته در عالم تنست",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: بله، در دنیای مادی، عمر انسان‌ها کوتاه و بلند می‌شود، اما در حقیقت و نزد خداوند، نه صبح و نه عصر به معنای واقعی زمان ندارند."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "اما بر خدا، نه صباحست و نی مساست",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 95,
+      "Position": "CenteredVerse1",
+      "Text": "گر در جفا رود ره و گر در وفا رود",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "SectionIndex3": 8,
+      "CoupletSummary": "هوش مصنوعی: اگر در راه بی‌رحمی پیش بروی و یا در مسیر وفاداری، مهم نیست؛ جان و وجود تو به خودت تعلق دارد، پس چگونه ممکن است وجودت از خودت جدا شود؟"
+    },
+    {
+      "VOrder": 96,
+      "Position": "CenteredVerse2",
+      "Text": "جان توست، جان تو از تو کجا رود؟!",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "SectionIndex3": 8
+    }
+  ]
+}

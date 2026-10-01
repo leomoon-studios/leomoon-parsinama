@@ -1,0 +1,765 @@
+{
+  "Id": 68817,
+  "CatId": 2027,
+  "Title": "شمارهٔ ۳۹ -  در مدح محمد بن ابراهیم طائی",
+  "FullTitle": "عنصری » قصاید » شمارهٔ ۳۹ -  در مدح محمد بن ابراهیم طائی",
+  "FullUrl": "/onsori/oghas/sh39",
+  "RhymeLetters": "ار",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف افرادی می‌پردازد که هر یک ویژگی‌های متفاوتی دارند. برخی شخصیت‌ها نه کاملاً بیدارند و نه کاملاً خواب، و نه مست هستند و نه هشیار. شخصیت‌های مختلف به دو دسته تقسیم می‌شوند: یکی در حالتی روشن و دیگران در حالتی تاریک، و میان آنها دوگانگی و تضاد وجود دارد. این تضادها در شکل و ظاهر آنها نیز دیده می‌شود، به طوری که بعضی از آنها زیبا و لطیف‌اند و برخی دیگر تلخ و دردآور.\n\nشاعر همچنین به تأثیرات مثبت و منفی این شخصیت‌ها بر یکدیگر اشاره می‌کند و از ویژگی‌های نیک و بد آنها صحبت می‌کند. در نهایت، شعر به تأمل در روابط انسانی و تأثیری که هر فرد بر دیگری می‌گذارد، پرداخته و به نوعی به سیرت و سرنوشت افراد اشاره دارد. در شعر، حس همکاری و تضاد میان افراد، به یکدیگر و جامعه‌ای که در آن زندگی می‌کنند، به تصویر کشیده شده است.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "نه خفته ست آن سیه چشم و نه بیدار\r\nنه مستست آن سیه زلف و نه هشیار\r\nیکی بیدار طبع و خفته صورت\r\nیکی هشیار طبع و مست کردار\r\nسر جعد و سر زلفش نگه کن\r\nچو خط دایره برسیم گلنار\r\nیکی شد مستوی بی رنج مسطر\r\nیکی شد منحنی بی رنج پرگار\r\nبروی و موی او مر مانوی را\r\nز مذهب آشکارا کرده اسرار\r\nیکی را حجت اهریمن آمد \r\nیکی را حجت یزدان دادار\r\nز عطاری و نقاشی دو گنج است\r\nبزلف تیره و رخشنده رخسار\r\nیکی برسان عطاران تبت\r\nیک برسان نقاشان فرخار\r\nرخ و جعدش ز دو رنگ مخالف\r\nهمی بی اصل بنماید نمودار\r\nیکی مانندۀ زهره است رویش\r\nیکی مانند هاروت نگونسار\r\nیکی شنگرف جوی و رنگ شنگرف\r\nیکی زنگار جوی و رنگ زنگار\r\nگل ار با خار و بی خارست نرگس\r\nرخ و چشمش چرا بی خار و با خار\r\nیکی چون سرخ گل بیخار و دلبند\r\nیکی چون نرگس و خارش جگر خوار\r\nمرا جان و خرد هر دو عزیزست\r\nندارم هر دو را جز شاد هموار\r\nیکی را نام بخشنده پیمبر\r\nیکی را بنده بخشاینده جبار \r\nمحمد ابن ابراهیم طایی\r\nکه امرش در دو جان آرد دو ابار\r\nیکی در جسمها روشن تر از جان\r\nیکی در چشمها خوشتر ز دیدار\r\nگرامی تر ندانم نزد او چیز\r\nز نام شاعران و نام زوار\r\nیکی را بر طراز جامه پیوست\r\nیکی بر داغ اسب و مرد دینار\r\nنشاند بر جهان آزاد مردی\r\nولی را دو کف رادش دو بازار\r\nیکی را برزه گر دریای سبزست\r\nیکی را پیشکاره ابر آزار\r\nوگر یک نکته از فضلش کنی شرح\r\nوگر یک نکته از حلمش کنی بار\r\nیکی را بر نتابد نفس ناطق\r\nیکی را بر نگیرد چرخ دوار\r\nندارد مشتری بر برج کیوان\r\nجز افزودن دگر کاری بی آوار\r\nیکی بر تاج او گوهر فزاید\r\nیکی بر بند خود خواهانش مسمار\r\nمبارک طلعت خورشید روشن\r\nچراغ اوست بی شک نام بردار\r\nیکی یابند اندر جان دشمن\r\nیکی دانند اندر ملک بیمار\r\nبمهرش گر بجوید دیو الفت\r\nبکینش گر بجوید شیر پیکار\r\nیکی باشد برای خویش موقف\r\nیکی باشد بخون خود گرفتار\r\nمیان نیزۀ خطی و اسبش\r\nچو روز جنگ باشد چار و ناچار\r\nیکی بیرون جهد از کوه آهن \r\nیکی اندر جهد با دیدۀ مار\r\nبه هیجا تیغ او انبار دارست\r\nسنانش رود بار کشور آغار\r\nیکی انبار دارد خم گیسو\r\nیکی راند ز خون خسته انبار\r\nبدو چون دولت و رایش به پیوست\r\nکه عدل و فضل او دارد باقرار\r\nیکی را بی عمارت گشت معنی\r\nیکی را بی نهایت گشت مقدار\r\nکجا تو عادتی بینی ستوده\r\nکجا تو مدحتی بینی سزاوار\r\nیکی از طبع او باشد بتعلیم\r\nیکی از مدح او باشد بتکرار\r\nدو مرکز را همی مردی و رایش \r\nبدو آسان نماید هر دو دشوار\r\nیکی از مرکز احسان و دولت\r\nیکی از مرکز ارواح و انوار\r\nمدان جز اختلاف و اتفاقش\r\nنخیزد اختیار اندر دو سالار\r\nیکی مختار را مجبور کردست\r\nیکی مجبور را کردست مختار\r\nایا رادی کجا علم و شجاعت \r\nبتو رسته شدند از رنج و تیمار\r\nیکی را با دل تو تازه چهره\r\nیکی را با دل تو تازه بازار\r\nهمی تا فروردین ماه نشاطست \r\nچنان چون مهرگان دزدست و عیار\r\nیکی زیور ببندد بر درختان\r\nیکی بر باید آن زیور ز اشجار\r\nبقایادت بکام و بخت فیروز\r\nمطیعت باد سعد و نحس دیار\r\nیکی در بزم او عیار و خدام\r\nیکی در رزم او اعوان و انصار\r\nولایت مر ترا دایم شکارست\r\nسعادت مر ترا دایم پرستار\r\nیکی را تا همی باید همی گیر \r\nیکی را تا همی پاید همی دار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه خفته ست آن سیه چشم و نه بیدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه مستست آن سیه زلف و نه هشیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی بیدار طبع و خفته صورت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی هشیار طبع و مست کردار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر جعد و سر زلفش نگه کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو خطّ دایره برسیم گلنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی شد مستوی بی رنج مسطر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی شد منحنی بی رنج پرگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبروی و موی او مر مانوی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز مذهب آشکارا کرده اسرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی را حجت اهریمن آمد \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی را حجت یزدان دادار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز عطاری و نقاشی دو گنج است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبزلف تیره و رخشنده رخسار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی برسان عطاران تبت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک برسان نقاشان فرخار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخ و جعدش ز دو رنگ مخالف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی بی اصل بنماید نمودار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی مانندۀ زهره است رویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی مانند هاروت نگونسار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی شنگرف جوی و رنگ شنگرف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی زنگار جوی و رنگ زنگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل ار با خار و بی خارست نرگس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرخ و چشمش چرا بی خار و با خار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی چون سرخ گل بیخار و دلبند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی چون نرگس و خارش جگر خوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا جان و خرد هر دو عزیزست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eندارم هر دو را جز شاد هموار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی را نام بخشنده پیمبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی را بنده بخشاینده جبار \u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحمد ابن ابراهیم طایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه امرش در دو جان آرد دو ابار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی در جسمها روشن تر از جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی در چشمها خوشتر ز دیدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرامی تر ندانم نزد او چیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز نام شاعران و نام زوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی را بر طراز جامه پیوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی بر داغ اسب و مرد دینار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشاند بر جهان آزاد مردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولی را دو کف رادش دو بازار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی را برزه گر دریای سبزست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی را پیشکاره ابر آزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوگر یک نکته از فضلش کنی شرح\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگر یک نکته از حلمش کنی بار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی را بر نتابد نفس ناطق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی را بر نگیرد چرخ دوّار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eندارد مشتری بر برج کیوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز افزودن دگر کاری بی آوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی بر تاج او گوهر فزاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی بر بند خود خواهانش مسمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمبارک طلعت خورشید روشن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچراغ اوست بی شک نام بردار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی یابند اندر جان دشمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی دانند اندر ملک بیمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبمهرش گر بجوید دیو الفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبکینش گر بجوید شیر پیکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی باشد برای خویش موقف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی باشد بخون خود گرفتار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیان نیزۀ خطّی و اسبش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو روز جنگ باشد چار و ناچار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی بیرون جهد از کوه آهن \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی اندر جهد با دیدۀ مار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه هیجا تیغ او انبار دارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسنانش رود بار کشور آغار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی انبار دارد خمّ گیسو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی راند ز خون خسته انبار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدو چون دولت و رایش به پیوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عدل و فضل او دارد باقرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی را بی عمارت گشت معنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی را بی نهایت گشت مقدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجا تو عادتی بینی ستوده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجا تو مدحتی بینی سزاوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی از طبع او باشد بتعلیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی از مدح او باشد بتکرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو مرکز را همی مردی و رایش \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدو آسان نماید هر دو دشوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی از مرکز احسان و دولت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی از مرکز ارواح و انوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمدان جز اختلاف و اتفاقش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنخیزد اختیار اندر دو سالار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی مختار را مجبور کردست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی مجبور را کردست مختار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایا رادی کجا علم و شجاعت \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبتو رسته شدند از رنج و تیمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی را با دل تو تازه چهره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی را با دل تو تازه بازار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی تا فروردین ماه نشاطست \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنان چون مهرگان دزدست و عیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی زیور ببندد بر درختان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی بر باید آن زیور ز اشجار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبقایادت بکام و بخت فیروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمطیعت باد سعد و نحس دیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی در بزم او عیار [و] خدّام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی در رزم او اعوان و انصار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولایت مر ترا دایم شکارست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسعادت مر ترا دایم پرستار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی را تا همی باید همی گیر \u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی را تا همی پاید همی دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 49
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نه خفته ست آن سیه چشم و نه بیدار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او نه در خواب است و نه در بیداری، نه مستی در چشمانش دیده می‌شود و نه هشیاری در زلف‌های سیاهش."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نه مستست آن سیه زلف و نه هشیار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "یکی بیدار طبع و خفته صورت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، به دو حالت متفاوت اشاره شده است. یکی از افراد دارای طبع بیدار و آگاهی است، در حالی که ظاهر او خواب‌آلود به نظر می‌رسد. در عوض، فرد دیگر شاید به ظاهر هشیار و آگاه باشد، اما در واقع در اعمال و رفتار خود مست و ناآگاه است. این تعادل بین درون و بیرون، واقعیت و ظاهر را به چالش می‌کشد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یکی هشیار طبع و مست کردار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سر جعد و سر زلفش نگه کن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به موها و زلف‌های او دقت کن، که همچون خط دایره‌ای زیبا به نظر می‌رسند، مشابه زیبایی یک گل نارنجی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چو خطّ دایره برسیم گلنار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "یکی شد مستوی بی رنج مسطر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی به راحتی و بدون زحمت به حالت درست و مستقیم درآمد، و دیگری بدون زحمت و تلاش به حالت منحنی و خمیده تغییر شکل داد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یکی شد منحنی بی رنج پرگار",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بروی و موی او مر مانوی را",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به چهره و موهای تو، آن چیزی را که مانویان پنهان می‌داشتند، به وضوح نشان داده‌ای."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز مذهب آشکارا کرده اسرار",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "یکی را حجت اهریمن آمد ",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی برای او دلایل شیطان را به نمایش گذاشت و دیگری دلایل خداوند دادار را به او عطا کرد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "یکی را حجت یزدان دادار",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ز عطاری و نقاشی دو گنج است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از عطاری و نقاشی، دو چیز باارزش به وجود آمده‌اند: یکی موهای تیره و دیگری چهره‌ای درخشان."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بزلف تیره و رخشنده رخسار",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "یکی برسان عطاران تبت",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من بگو که عطاران تبت در کجا هستند و همچنین نقاشان فرخار کجا هستند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "یک برسان نقاشان فرخار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "رخ و جعدش ز دو رنگ مخالف",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره و موهای او به خاطر تضاد رنگ‌های مختلف، به گونه‌ای غیرعادی و بی‌پایه جلوه می‌کنند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "همی بی اصل بنماید نمودار",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "یکی مانندۀ زهره است رویش",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره‌اش مانند زهره زیبا و دلرباست و حالتی دارد که مانند هاروت، آن فرشته که به زمین آمده و دچار سرنوشت بدی شده، اندکی افسرده و گوشه‌گیر به نظر می‌رسد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "یکی مانند هاروت نگونسار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "یکی شنگرف جوی و رنگ شنگرف",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی مانند شنگرف، جستجو و خواستار زیبایی و رنگش است، و دیگری به دنبال زنگار و نازیبایی و رنگ آن می‌گردد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "یکی زنگار جوی و رنگ زنگار",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "گل ار با خار و بی خارست نرگس",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر گل به خار و یا بدون خار باشد، چرا چهره و چشمان نرگس همواره با خار و هم بدون خار دیده می‌شود؟"
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "رخ و چشمش چرا بی خار و با خار",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "یکی چون سرخ گل بیخار و دلبند",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک نفر مانند گل سرخ است که بی‌خواب و عاشق است و فرد دیگری مانند نرگس است که دل را می‌آزارد و دردناک است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "یکی چون نرگس و خارش جگر خوار",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "مرا جان و خرد هر دو عزیزست",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جان و خرد، هر دو برای من ارزشمند هستند و من هیچ کدام را جز در حالتی که شاد باشم نمی‌خواهم."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "ندارم هر دو را جز شاد هموار",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "یکی را نام بخشنده پیمبر",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی از آنها را به عنوان بخشنده می‌شناسند که پیامبر است و دیگری را به عنوان بندۀ خداوند بزرگ و بخشاینده می‌دانند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "یکی را بنده بخشاینده جبار ",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "محمد ابن ابراهیم طایی",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محمد ابن ابراهیم طایی کسی است که تأثیرش بر روح و جان انسان‌ها بسیار عمیق و نافذ است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "که امرش در دو جان آرد دو ابار",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "یکی در جسمها روشن تر از جان",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در میان انسان‌ها، یکی از دیگران از نظر وجود و روشنایی برتر است و دیگری در دیدگاه‌ها و چشم‌ها زیباتر و دلپذیرتر از دیدن است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "یکی در چشمها خوشتر ز دیدار",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "گرامی تر ندانم نزد او چیز",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای او هیچ چیز ارزشمندتر از نام شاعران و زائران نیست."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "ز نام شاعران و نام زوار",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "یکی را بر طراز جامه پیوست",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی لباس و جامه‌ای به خود بسته و دیگری بر روی اسب زخمی و داغ نشسته است و مردی هم در حال شمارش دینارها است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "یکی بر داغ اسب و مرد دینار",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "نشاند بر جهان آزاد مردی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردی آزاد و بزرگ، در دنیا نشانه‌ای از قدرت و اراده‌اش را به نمایش گذاشته است؛ او همانند دو دست قوی، در دو بازار مختلف قدرت خود را نشان می‌دهد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "ولی را دو کف رادش دو بازار",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "یکی را برزه گر دریای سبزست",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی دریا را به رنگ سبز می‌بیند و دیگری ابر را به عنوان عذابی می‌نگارد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "یکی را پیشکاره ابر آزار",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "وگر یک نکته از فضلش کنی شرح",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی حتی یک نکته از دانش و فضایل او را توضیح دهی، یا یک نکته از صبر و بردباری‌اش را بیان کنی، کار بسیار سنگینی است."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "وگر یک نکته از حلمش کنی بار",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "یکی را بر نتابد نفس ناطق",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زندگی، برخی افراد نمی‌توانند وجود دیگران را تحمل کنند، در حالی که برخی دیگر به سختی می‌توانند با تغییرات و ناپایداری‌های زندگی کنار بیایند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "یکی را بر نگیرد چرخ دوّار",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "ندارد مشتری بر برج کیوان",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ مشتری‌ای برای برج کیوان وجود ندارد جز این که کار دیگری انجام دهد و بر آواری بیفزاید."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "جز افزودن دگر کاری بی آوار",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "یکی بر تاج او گوهر فزاید",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک نفر بر روی تاج او جواهری اضافه می‌شود و یکی دیگر بر دستان خود به دنبال خواسته‌اش می‌افتد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "یکی بر بند خود خواهانش مسمار",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "مبارک طلعت خورشید روشن",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به راستی، چهره‌ی تابناک خورشید، روشنایی‌بخش و علامت بارزی است که همگان او را می‌شناسند و به خوبی از او نام می‌برند."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "چراغ اوست بی شک نام بردار",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "یکی یابند اندر جان دشمن",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی در دل دشمن به دنبال یک فرد می‌گردد، و یکی دیگر در سرزمین بیمار به دنبال کسی می‌داند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "یکی دانند اندر ملک بیمار",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "بمهرش گر بجوید دیو الفت",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی به محبت او تمسک جسته و تلاش کند، مثل دیوی که در محبتش گرفتار شده است، باید بدانید که این محبت مانند شیر در میدان جنگ است."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "بکینش گر بجوید شیر پیکار",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "یکی باشد برای خویش موقف",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای خود باید یک موقعیت مشخص داشته باشی، و به خاطر خودت، به مشکلات و چالش‌ها بپردازی."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "یکی باشد بخون خود گرفتار",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "میان نیزۀ خطّی و اسبش",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز نبرد، بین نیزه و اسبش، هیچ راهی جز جنگیدن وجود ندارد."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "چو روز جنگ باشد چار و ناچار",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "یکی بیرون جهد از کوه آهن ",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک نفر تلاش می‌کند تا از کوه آهنی بیرون بیاید، در حالی که نفر دیگر با چشمی مانند چشم مار در حال تلاش است."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "یکی اندر جهد با دیدۀ مار",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "به هیجا تیغ او انبار دارست",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تیغ او در هر جا آماده و به کار است و نیز تیرهایش مانند سیلاب، سرزمین را پر از نیرو و قدرت می‌کند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "سنانش رود بار کشور آغار",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "یکی انبار دارد خمّ گیسو",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک نفر موهای بلند و پرپشتی دارد که به نوعی مثل انباری پر از گنجینه است، و دیگری از خستگی و درد به حالت نامتعادل در آمده و مانند انباری پر از خون به نظر می‌رسد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "یکی راند ز خون خسته انبار",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "بدو چون دولت و رایش به پیوست",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دولت و قدرتش به او ملحق شود، بدان که او به عدالت و فضل خود پایبند است."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "که عدل و فضل او دارد باقرار",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "یکی را بی عمارت گشت معنی",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی بدون خانه یا مکان مشخص، به معنا و مفهوم واقعی رسید، در حالی که دیگری بدون هیچ حد و اندازه‌ای، به بی‌نهایت راه یافت."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "یکی را بی نهایت گشت مقدار",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "کجا تو عادتی بینی ستوده",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جا که تو عادت‌های خوب و ستوده‌ای را ببینی، هر جا که تو صفات و ویژگی‌های زنده‌ای را ببینی که شایسته ستایش باشند."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "کجا تو مدحتی بینی سزاوار",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "یکی از طبع او باشد بتعلیم",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی از ویژگی‌های او به سبب آموزش اوست و یکی دیگر از ستایش‌های او به خاطر تکرار است."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "یکی از مدح او باشد بتکرار",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "دو مرکز را همی مردی و رایش ",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک مرد می‌تواند دو مرکز را به راحتی مدیریت کند، اما این کار برای دیگران دشوار است."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "بدو آسان نماید هر دو دشوار",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "یکی از مرکز احسان و دولت",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرکزی برای نیکوکاری و خوشبختی وجود دارد و همچنین مرکز دیگری برای وجود و نورهای روحانی."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "یکی از مرکز ارواح و انوار",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "مدان جز اختلاف و اتفاقش",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تنها در اختلاف و توافق آن، اختیار در دست دو سرور نمی‌افتد."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "نخیزد اختیار اندر دو سالار",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "یکی مختار را مجبور کردست",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات افرادی که به نظر می‌رسد قدرتی در تصمیم‌گیری دارند، در واقع تحت فشار و اجبار قرار دارند. و برعکس، کسانی که به نظر می‌رسد تحت فشار هستند، در واقع انتخاب‌های خود را می‌سازند و مستقل عمل می‌کنند."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "یکی مجبور را کردست مختار",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "ایا رادی کجا علم و شجاعت ",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌دانی که علم و شجاعت چگونه از رنج و مشکلات به تو رسیدند؟"
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "بتو رسته شدند از رنج و تیمار",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "یکی را با دل تو تازه چهره",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک نفر با عشق و احساسی که در دل تو دارد، زیبا و تازه به نظر می‌آید و نفر دیگری نیز با عشق و احساس تو، به رونق و زندگی می‌آید."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "یکی را با دل تو تازه بازار",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "همی تا فروردین ماه نشاطست ",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا فروردین ماه، حال و هوای شادابی وجود دارد، مانند مهرگان که به شکل دزدی و فریبنده جلوه می‌کند."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "چنان چون مهرگان دزدست و عیار",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "یکی زیور ببندد بر درختان",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی به درختان زیور می‌آویزد و دیگری باید آن زیور را از درختان بگیرد."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "یکی بر باید آن زیور ز اشجار",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "بقایادت بکام و بخت فیروز",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امیدوارم که در کنار تو زندگی خوب و خوشی داشته باشم و بختی خوب و موفقیت‌های فراوان پیش رویت باشد."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "مطیعت باد سعد و نحس دیار",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "یکی در بزم او عیار [و] خدّام",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یکی در میخانه او، شیوه‌ای خاص و ظریف دارد و دیگری در میدان نبرد، یاوران و همراهانی وفادار است."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "یکی در رزم او اعوان و انصار",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "ولایت مر ترا دایم شکارست",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ولایت همیشه در جستجوی توست و سعادت همیشه از تو مراقبت می‌کند."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "سعادت مر ترا دایم پرستار",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "یکی را تا همی باید همی گیر ",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرکس را باید به نوعی در آغوش کشید و محبت کرد، و برای هر شخصی باید به گونه‌ای که شایسته اوست، حمایت و پشتیبانی کنم."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "یکی را تا همی پاید همی دار",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    }
+  ]
+}

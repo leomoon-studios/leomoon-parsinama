@@ -1,0 +1,285 @@
+{
+  "Id": 72758,
+  "CatId": 2062,
+  "Title": "شمارهٔ ۱۵۶ - فاجابه",
+  "FullTitle": "کمال‌الدین اسماعیل » قصاید » شمارهٔ ۱۵۶ - فاجابه",
+  "FullUrl": "/kamal/ghasidek/sh156",
+  "RhymeLetters": "اکردن",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به ستایش و مدح شخصی بزرگ و فرزانه می‌پردازد و شاعری را توصیف می‌کند که در بیان محبت و زیبایی‌های او ناتوان است. شاعر از قدرت کلام و سخنوری خود می‌گوید و ابراز می‌کند که زبانش قادر به بیان همه شایستگی‌های محبوبش نیست. همچنین به این موضوع اشاره دارد که چگونه صفات و ویژگی‌های عالی او باعث خجالت شاعر شده و او را در برابر عظمت شخصیت محبوبش درمانده کرده است. در پایان، شاعر به این نتیجه می‌رسد که تنها می‌تواند دعا کند و آرزو کند تا از آن صفات عالی بهره‌مند شود، چرا که کلام او از بیان خلوص و صفای محبوب ناتوان است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اکردن",
+      "PlainText": "اثیرالدین را رسمست بر زبان قلم\r\nپیام روح قدس دم بدم ادا کردن\r\nبنوک کلک گهر را جگر همی سفتن\r\nبگام صیت مجارات با صبا کردن\r\nچرا زتیغ زبانت گهر همی بارد\r\nگهر زتیغ چو مشکل توان جدا کردن\r\nچو تو همی زنی خشک طوطی انگیزی\r\nعجب نباشد از چوب اژدها کردن\r\nانامل تو چو گردد سوار زرده ی کلک\r\nز طاعتش نتواند خرد ابا کردن\r\nز زنگبار خورد آب و دم بروم زند\r\nعنان او نتوان از بنان رها کردن\r\nاگرچه هر نفس اندر سرآید از سرعت\r\nبدولت تو بود ایمن از خطا کردن\r\nشکر ز طوطی و طوطی ز شکر آموزد\r\nحکایت سخنانت بذوق وا کردن\r\nچو نکته های تو از پرده روی بنماید\r\nستاره را نبود روی جز قفا کردن\r\nسخن ز مدح تو بیگانگی همی جوید\r\nکه مشکلست درین بحر آشنا کردن\r\nشروع در غرضی کان بعجز انجامد\r\nهزار بار ز کردن بهست نا کردن\r\nمن از مکارم اخلاقت ای خلاصۀ فضل\r\nخجل شدم ز بس انواع لطفها کردن\r\nچو در هوای تو داعی دم خلوص زند\r\nزلال را نرسد دعوی صفا کردن\r\nچو نیست قوت انشا چه حیلتست مرا\r\nبجزا عادت لفظ تو چون صدا کردن\r\nبراه مدح تو چون پای فکر آبله شد\r\nمرا بدست چه باشد بجز دعا کردن\r\nسخن خریدم و آنرا سخن عوض دادم\r\nسخن فروشی نتوان بشهر ما کردن\r\nهم از کساد سخن باشد اهل معنی را\r\nبمن یزید سخن را سخن بها کردن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاثیرالدین را رسمست بر زبان قلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیام روح قدس دم بدم ادا کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنوک کلک گهر را جگر همی سفتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگام صیت مجارات با صبا کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرا زتیغ زبانت گهر همی بارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهر زتیغ چو مشکل توان جدا کردن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو تو همی زنی خشک طوطی انگیزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعجب نباشد از چوب اژدها کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانامل تو چو گردد سوار زرده ی کلک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز طاعتش نتواند خرد ابا کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز زنگبار خورد آب و دم بروم زند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعنان او نتوان از بنان رها کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگرچه هر نفس اندر سرآید از سرعت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدولت تو بود ایمن از خطا کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکر ز طوطی و طوطی ز شکر آموزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحکایت سخنانت بذوق وا کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو نکته های تو از پرده روی بنماید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eستاره را نبود روی جز قفا کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخن ز مدح تو بیگانگی همی جوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه مشکلست درین بحر آشنا کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشروع در غرضی کان بعجز انجامد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار بار ز کردن بهست نا کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن از مکارم اخلاقت ای خلاصۀ فضل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخجل شدم ز بس انواع لطفها کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو در هوای تو داعی دم خلوص زند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزلال را نرسد دعوی صفا کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو نیست قوّت انشا، چه حیلتست مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبجزا عادت لفظ تو چون صدا کردن؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبراه مدح تو چون پای فکر آبله شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا بدست چه باشد بجز دعا کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخن خریدم و آنرا سخن عوض دادم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن فروشی نتوان بشهر ما کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم از کساد سخن باشد اهل معنی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبمن یزید، سخن را سخن بها کردن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 17
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "اثیرالدین را رسمست بر زبان قلم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اثیرالدین با قلم خود پیام روح القدس را به طور مداوم و پیوسته بیان می‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پیام روح قدس دم بدم ادا کردن",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بنوک کلک گهر را جگر همی سفتن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نوک قلم، سنگی باارزش را محکم نگه داشتن، در حالی که با نسیم صبحگاهی به شکوهمندی و زیبایی زندگی می‌پردازیم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بگام صیت مجارات با صبا کردن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چرا زتیغ زبانت گهر همی بارد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا از لبه‌ی زبان تو مثل جواهری می‌درخشد، در حالی که مثل لبه‌ی شمشیر نمی‌توانی مشکلی را جدا کنی؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گهر زتیغ چو مشکل توان جدا کردن؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چو تو همی زنی خشک طوطی انگیزی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی تو به طوطی خشک و بی‌جان عصای خود را می‌زنی، چه عجیب است که آن عصا به شکل اژدها درآید."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "عجب نباشد از چوب اژدها کردن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "انامل تو چو گردد سوار زرده ی کلک",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر انگشتان تو بر زین فرمانروایی پای بگذارند، خرد از اطاعت او ناتوان خواهد بود و نمی‌تواند در برابرش سرکشی کند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز طاعتش نتواند خرد ابا کردن",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ز زنگبار خورد آب و دم بروم زند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از زنگبار آب نوشیدم و وقتی می‌خواهم بروم، نمی‌توانم افسار او را از دستم رها کنم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "عنان او نتوان از بنان رها کردن",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "اگرچه هر نفس اندر سرآید از سرعت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چند هر لحظه ممکن است به سرنوشت نزدیک شویم، اما در هر حال باید از اشتباه کردن در امان باشیم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بدولت تو بود ایمن از خطا کردن",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "شکر ز طوطی و طوطی ز شکر آموزد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: طوطی از شیرینی شکر یاد می‌گیرد و این شیرینی موجب می‌شود که او توانایی سخن گفتن پیدا کند. سخنان تو نیز باعث ایجاد شوق و نشاط در دیگران می‌شود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "حکایت سخنانت بذوق وا کردن",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "چو نکته های تو از پرده روی بنماید",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی نکات لطیف و ظریف تو از پرده بیرون بیاید، ستاره‌ای نخواهد بود که جز از پشت به آن نگاه شود."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "ستاره را نبود روی جز قفا کردن",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "سخن ز مدح تو بیگانگی همی جوید",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سخن درباره تو و ستایش تو به راحتی امکان‌پذیر نیست، زیرا در این دریای گسترده، آشنا کردن دیگران با تو کار دشواری است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "که مشکلست درین بحر آشنا کردن",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "شروع در غرضی کان بعجز انجامد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کار یا هدفی را آغاز کنی که به خاطر ناتوانی به نتیجه نرسد، بهتر است که هزار بار تلاش کنی و رها کنی تا اینکه به بی‌فایده بودن آن ادامه دهی."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "هزار بار ز کردن بهست نا کردن",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "من از مکارم اخلاقت ای خلاصۀ فضل",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از خوبی‌ها و اخلاق نیکت شرمنده‌ام، چون به خاطر لطف‌ها و مهربانی‌های فراوانی که به من کردی، احساس کوچکی می‌کنم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "خجل شدم ز بس انواع لطفها کردن",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "چو در هوای تو داعی دم خلوص زند",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی در عشق تو کسی به صمیمیت و خلوص دل می‌زند، آب زلال نمی‌تواند ادعای پاکی و صفا کند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "زلال را نرسد دعوی صفا کردن",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "چو نیست قوّت انشا، چه حیلتست مرا",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی قدرت بیان نداشته باشم، چه ترفندی می‌توانم به کار ببرم که غیر از عادت کلمات تو، مثل صدا زدن باشد؟"
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "بجزا عادت لفظ تو چون صدا کردن؟",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "براه مدح تو چون پای فکر آبله شد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که زمانی که من در ستایش و تعریف تو به اندازه‌ی فکر و هوش خودم ضعیف شده‌ام، چه چیز دیگری جز دعا کردن از من برمی‌آید. یعنی در شرایطی که توان و ظرفیت من محدود است، تنها راهی که می‌توانم به تو و کمبود خودم ابراز کنم، دعا و آرزو برای تو است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "مرا بدست چه باشد بجز دعا کردن",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "سخن خریدم و آنرا سخن عوض دادم",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من کلامی را خریدم و آن را با کلامی دیگر عوض کردم. اما در شهر ما نمی‌شود کلام فروخت."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "سخن فروشی نتوان بشهر ما کردن",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "هم از کساد سخن باشد اهل معنی را",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر حرفی از کسانی شنیده شود که اهل اندیشه و معنی هستند، می‌تواند به من افزوده شود. باید بدانیم که حقیقت کلام ارزش دارد و سخن باید به درست‌ترین شکل بیان شود."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "بمن یزید، سخن را سخن بها کردن",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    }
+  ]
+}

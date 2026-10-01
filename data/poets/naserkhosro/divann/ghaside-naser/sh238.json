@@ -1,0 +1,585 @@
+{
+  "Id": 14127,
+  "CatId": 214,
+  "Title": "قصیدهٔ شمارهٔ ۲۳۸",
+  "FullTitle": "ناصرخسرو » دیوان اشعار » قصاید » قصیدهٔ شمارهٔ ۲۳۸",
+  "FullUrl": "/naserkhosro/divann/ghaside-naser/sh238",
+  "RhymeLetters": "نی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بررسی بی‌فایده و عبث بودن زندگی و اهمیت خرد و دانش می‌پردازد. شاعر از انسان می‌خواهد که به دنبال نیکی و دانایی باشد و از مشغول شدن به کارهای بی‌معنا و ناپسند خودداری کند. او زندگی را به یک درخت پر از بار و خار تشبیه می‌کند که باید با عمل کردن به خوبی‌ها و دوری از جهل، آن را پالایش کرد. همچنین به این نکته اشاره می‌شود که انسان باید در تلاش باشد تا از بخت و سرنوشت خوب خود بهره‌برداری کند و تنها در تلاش برای نیکی و طاعت موفق خواهد بود. در نهایت، شاعر به اهمیت خرد و حکمت اشاره کرده و از آدمی می‌خواهد که خود را از تنهایی و ناشایستگی‌ها رها کند و به دانش و خوبی توجه کند.",
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نی",
+      "PlainText": "ای شده مشغول به ناکردنی\r\nگرد جهان بیهده تا کی دنی\r\nآهن اگر چند گران شد تورا\r\nسلسله بایدت ازو ده منی\r\nچونکه نشویی به خرد روی جهل\r\nبرنکشی از سرت آهرمنی\r\nآنچه نه خوش است و نه نیکو برش\r\nتخمش خواهیم که نپراگنی\r\nعمرت شاخی است پر از بار و خار\r\nچون تو همه خار همی برچنی\r\nمردم اگر جان و تن است از چه روی\r\nفتنه تو بر جانت نه ای بر تنی\r\nجانت برهنه است و تو این تار و پود\r\nبر تن تاریک همی برتنی\r\nجوشن روشن خرد توست تن\r\nتو نه همه این تن چون جوشنی\r\nجان تو چون بفگند این جوشنت\r\nباز دهد جوشنت این روشنی\r\nتنت به جان ای پسر آبستن است\r\nباز رهد روزی از آبستنی\r\nمادر تن را پسر این جان توست\r\nمادر باقی و پسر رفتنی\r\nدر شکم مادر خود بخت نیک\r\nچونکه نکوشی که به حاصل کنی\r\nبر طلب طاعت و نیکی و زهد\r\nچونکه نه دامن به کمر در زنی\r\nمریم عمران نشد از قانتین\r\nجز که به پرهیز برو برزنی\r\nطاعت و نیکی و صلاح است بخت\r\nخوردنی ای نیست نه پوشیدنی\r\nجهد کن ار عهد تو را بشکنند\r\nتا تو مگر عهد کسی نشکنی\r\nآز نگردد ابدا گرد آنک\r\nدر شکم مادر گردد غنی\r\nچون تو که باشد چو تو را بخت نیک\r\nمادرزادی بود و معدنی\r\nگرت مراد است کز این ژرف چاه\r\nخویشتن ای پیر برون افگنی\r\nزین رمه یک سو شو و از دل بشوی\r\nریم فرومایگی و ریمنی\r\nتو به مثل بی خرد و علم و زهد\r\nراست چو کنجاره بی روغنی\r\nروز تو کی نیک شود تا چنین\r\nفتنه این خانه بی روزنی\r\nدیو دل از صحبت تو برکند\r\nچون تو دل از مهر جهان برکنی\r\nبسته در این خانه تاریک و تنگ\r\nشاد چرایی که نه در گلشنی\r\nچرخ همی خرد بخواهدت کوفت\r\nخردتر از سرمه گر از آهنی\r\nچون تو بسی خورده است این گنده پیر\r\nاز چه نشستی تو بدین ایمنی\r\nدی شد و امروز نپاید همی\r\nدی شد و تو منتظر بهمنی\r\nگاه گریزانی از باد سرد\r\nگاه بر امید گل و سوسنی\r\nروی به دانش کن و رنجه مکن\r\nدل به غم این تن فرسودنی\r\nتا نشود جانت به دانش تمام\r\nفخر نشاید که کنی نه منی\r\nدشمن دانا شدی از فضل او\r\nفضل طلب کن چه کنی دشمنی\r\nمؤذن ما را مزن و بدمگوی\r\nلحن خوش آموز و تو کن مؤذنی\r\nجای حکیمان مطلب بی هنر\r\nزانکه نیاید ز کدو هاونی\r\nمرد خردمند به حکمت شود\r\nتو چه خردمند به پیراهنی\r\nبار خدایی به سرشت اندر است\r\nمردم را گر بکند کردنی\r\nجای تو ایوان و گه گلشن است\r\nکاهلیت کرد چنین گلخنی\r\nور به بسندی به ستوری چنین\r\nتا به ابد یار غم و شیونی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای شده مشغول به ناکردنی،\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد جهان بیهده تا کی دنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآهن اگر چند گران شد، تورا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسلسله بایدت ازو ده منی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچونکه نشوئی به خرد روی جهل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرنکشی از سرت آهرمنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچه نه خوشّ است و نه نیکو برش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتخمش خواهیم که نپراگنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمرت شاخی است پر از بار و خار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون تو همه خار همی برچنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردم اگر جان و تن است از چه روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفتنه تو بر جانت نه‌ای بر تنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجانت برهنه است و تو این تار و پود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر تن تاریک همی برتنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجوشن روشن خرد توست تن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نه همه این تن چون جوشنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان تو چون بفگند این جوشنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز دهد جوشنت این روشنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتنت به جان، ای پسر، آبستن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز رهد روزی از آبستنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمادر تن را پسر این جان توست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمادر باقیّ و پسر رفتنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر شکم مادر خود بخت نیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچونکه نکوشی که به حاصل کنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر طلب طاعت و نیکیّ و زهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچونکه نه دامن به کمر در زنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمریم عمران نشد از قانتین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز که به پرهیز برو برزنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطاعت و نیکی و صلاح است بخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوردنی‌ای نیست نه پوشیدنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهد کن ار عهد تو را بشکنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا تو مگر عهد کسی نشکنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآز نگردد ابدا گرد آنک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر شکم مادر گردد غنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تو که باشد چو تو را بخت نیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمادرزادی بود و معدنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرت مراد است کز این ژرف چاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویشتن، ای پیر، برون افگنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین رمه یک سو شو و از دل بشوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eریم فرومایگی و ریمنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو به مثل بی‌خرد و علم و زهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراست چو کنجارهٔ بی‌روغنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز تو کی نیک شود تا چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفتنهٔ این خانهٔ بی‌روزنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیو، دل از صحبت تو برکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون تو دل از مهرِ جهان برکنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسته در این خانهٔ تاریک و تنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاد چرائی؟ که نه در گلشنی!\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچرخ همی خُرد بخواهدت کوفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخردتر از سرمه‌گر از آهنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تو بسی خورده است این گنده پیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز چه نشستی تو بدین ایمنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی شد و امروز نپاید همی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدی شد و تو منتظر بهمنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاه گریزانی از باد سرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاه بر امید گل و سوسنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی به دانش کن و رنجه مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل به غم این تن فرسودنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا نشود جانت به دانش تمام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفخر نشاید که کنی، نه منی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدشمن دانا شدی از فضل او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفضل طلب کن چه کنی دشمنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمؤذن ما را مزن و بدمگوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلحن خوش آموز و تو کن مؤذنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجای حکیمان مطلب بی‌هنر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه نیاید ز کدو هاونی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرد خردمند به حکمت شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو چه خردمند به پیراهنی؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبار خدائی به سرشت اندر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمردم را، گر بکند کردنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجای تو ایوان و گه گلشن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاهلیت کرد چنین گلخنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور به بسندی به ستوری چنین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به ابد یار غم و شیونی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 37
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای شده مشغول به ناکردنی،",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که مشغول به کارهایی هستی که هیچ فایده‌ای ندارند، تا کی می‌خواهی بیهودگی و سرگرمی در دنیا را ادامه دهی؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "گرد جهان بیهده تا کی دنی؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آهن اگر چند گران شد، تورا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه آهن ممکن است قیمت بالایی پیدا کند، اما تو باید به دنبال زنجیرهایی باشی که به تو وابسته هستند و از آن فاصله نگیری."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سلسله بایدت ازو ده منی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چونکه نشوئی به خرد روی جهل",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که به دانایی نروی، چگونه می‌توانی از جهل و نادانی دور بمانی؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "برنکشی از سرت آهرمنی؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آنچه نه خوشّ است و نه نیکو برش",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که زیبا و پسندیده نیست، نباید آن را پخش کنیم یا به دیگران منتقل کنیم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تخمش خواهیم که نپراگنی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عمرت شاخی است پر از بار و خار",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی‌ات مانند درختی پر از میوه و تیغ است، اما چرا فقط به برداشت تیغ‌ها می‌پردازی؟"
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چون تو همه خار همی برچنی؟",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "مردم اگر جان و تن است از چه روی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مردم خود زندگی و وجودشان را دارند، پس چرا فتنه و آشوب تو بر جانشان اثر نمی‌گذارد؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "فتنه تو بر جانت نه‌ای بر تنی؟",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "جانت برهنه است و تو این تار و پود",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح تو خالی و عریان است، اما تو در حال کشیدن این لباس تیره و نامناسب بر تن خود هستی."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بر تن تاریک همی برتنی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "جوشن روشن خرد توست تن",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خرد تو همچون زره‌ای درخشنده است و بدن تو تنها یک پوسته خارجی محسوب می‌شود، نه همه‌چیز تو."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "تو نه همه این تن چون جوشنی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "جان تو چون بفگند این جوشنت",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که جان تو از بین برود، این انرژی و شور تو دوباره به تو روشنی و زندگی می‌بخشد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "باز دهد جوشنت این روشنی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "تنت به جان، ای پسر، آبستن است",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدن تو، ای پسر، به مانند زنی که از بیماری باردار است، روزی به سلامت از این حالتی که در آن هستی رهایی خواهد یافت."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "باز رهد روزی از آبستنی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "مادر تن را پسر این جان توست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مادر بدن، پسر توست که جان تو را نمایان می‌کند. اما باقی‌مانده‌ها و فرزندانی که در این دنیا هستند، همه در حال گذر و زودگذرند."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "مادر باقیّ و پسر رفتنی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "در شکم مادر خود بخت نیک",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در زندگی تلاش نکنی، چگونه می‌توانی به موفقیت دست یابی، حتی اگر در آغاز با خوشبختی متولد شده باشی؟"
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "چونکه نکوشی که به حاصل کنی؟",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "بر طلب طاعت و نیکیّ و زهد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا زمانی که برای انجام کارهای نیک و عبادت می‌کوشی، نباید خود را آماده و متعهد کنی؟"
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "چونکه نه دامن به کمر در زنی؟",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "مریم عمران نشد از قانتین",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مریم، دختر عمران، جز به پرهیزگاری و دیانت به مقام والایی نرسید."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "جز که به پرهیز برو برزنی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "طاعت و نیکی و صلاح است بخت",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: طاعت، نیکی و شرایط خوب به مانند غذایی هستند که می‌توان آن‌ها را دریافت کرد و نمی‌توان مانند لباس به تن کرد. این‌ها فقط با عمل و رفتار درست به دست می‌آیند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "خوردنی‌ای نیست نه پوشیدنی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "جهد کن ار عهد تو را بشکنند",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کوشش کن اگر کسی بخواهد عهد و پیمان تو را بشکند، تو خود عهد کسی را نشکنی."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "تا تو مگر عهد کسی نشکنی",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "آز نگردد ابدا گرد آنک",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آدمی هرگز به فقر و تنگدستی دچار نمی‌شود، اگر در رحم مادر توانگر و بی‌نیاز باشد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "در شکم مادر گردد غنی",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "چون تو که باشد چو تو را بخت نیک",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چگونه ممکن است کسی مثل تو پیدا شود وقتی که سرنوشت نیک و ذاتی تو این‌قدر برجسته است؟"
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "مادرزادی بود و معدنی؟",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "گرت مراد است کز این ژرف چاه",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر می‌خواهی به آرزوی خود برسی و از دل این چاه عمیق رهایی یابی، ای حکیم، باید خودت را از آن بیرون بکشی."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "خویشتن، ای پیر، برون افگنی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "زین رمه یک سو شو و از دل بشوی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از این جمع دور شو و درون خود را از تفکرات و احساسات پست و بی‌ارزش پاک کن."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "ریم فرومایگی و ریمنی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "تو به مثل بی‌خرد و علم و زهد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو مانند کسی هستی که بی‌خود و بی‌علم و بی‌زهد است، مانند یک گوشه‌نشین که فاقد روشنایی و روشنی است."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "راست چو کنجارهٔ بی‌روغنی",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "روز تو کی نیک شود تا چنین",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روز تو کی خوب خواهد شد تا این آشفتگی و بی‌نظمی در این خانه که بدون نور است، برطرف شود؟"
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "فتنهٔ این خانهٔ بی‌روزنی؟",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "دیو، دل از صحبت تو برکند",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی تو دل خود را از محبت و عشق به دنیای مادی جدا کنی، دیو درونت نیز از ارتباط با تو دست برمی‌دارد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "چون تو دل از مهرِ جهان برکنی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "بسته در این خانهٔ تاریک و تنگ",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این خانهٔ تاریک و باریک چرا این‌قدر شاد هستی؟ در حالی که حتی در یک گلستان هم نیستی!"
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "شاد چرائی؟ که نه در گلشنی!",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "چرخ همی خُرد بخواهدت کوفت",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرخ، با نیرویی که دارد، هر چیزی را به سمت خودش می‌کشاند و وقتی که از چیزی کوچک‌تر و ریزتر از سرمه باشد، حتی قوی‌تر از آهن هم نمی‌تواند او را متوقف کند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "خردتر از سرمه‌گر از آهنی",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "چون تو بسی خورده است این گنده پیر",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا تو با این که این فرد سالخورده تجربه‌های زیادی را پشت سر گذاشته، اینجا نشسته‌ای و احساس امنیت می‌کنی؟"
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "از چه نشستی تو بدین ایمنی؟",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "دی شد و امروز نپاید همی",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روز گذشته سپری شده و دیگر باز نخواهد گشت. امروز هم در حال گذر است و تو در انتظار آینده‌ای نامعلوم نشسته‌ای."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "دی شد و تو منتظر بهمنی",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "گاه گریزانی از باد سرد",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی از وزش باد سرد فرار می‌کنی و گاهی به امید دیدن گل و سوسن هستی."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "گاه بر امید گل و سوسنی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "روی به دانش کن و رنجه مکن",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به یادگیری و دانش بپرداز و دل را به ناراحتی‌های این جسمی که گذرا و ناپایدار است، مشغول نکن."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "دل به غم این تن فرسودنی",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "تا نشود جانت به دانش تمام",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دانشت کامل نشود، هیچ شایستگی برای فخر کردن نداری، نه من و نه هیچ کس دیگر."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "فخر نشاید که کنی، نه منی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "دشمن دانا شدی از فضل او",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دشمنی دانا و آگاه شده‌ای، از ویژگی‌های خوب او بهره ببر و فضیلت را از او بیاموز. چه فایده‌ای از دشمنی بی‌خود داری؟"
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "فضل طلب کن چه کنی دشمنی؟",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "مؤذن ما را مزن و بدمگوی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مؤذنی که صدای اذانت را از دور می‌شنویم، به ما نگو که چه بگوییم، بلکه خودت به ما بیاموز که چطور با خوش‌لحنی اذان بگوییم و از این فن بهره‌مند شویم."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "لحن خوش آموز و تو کن مؤذنی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "جای حکیمان مطلب بی‌هنر",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حکیمان هیچ مطلبی را از کسی که بی‌هنر است، نمی‌پذیرند، زیرا از افراد بی‌ارزش نمی‌توان انتظار رشد و تولید چیزهای با ارزش را داشت."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "زانکه نیاید ز کدو هاونی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "مرد خردمند به حکمت شود",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرد با درک و دانایی، به علم و حکمت دست می‌یابد. اما تو که به ظاهر خود اهمیت می‌دهی، چه اندازه به دانش و فهم واقعی اهمیت می‌دهی؟"
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "تو چه خردمند به پیراهنی؟",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "بار خدائی به سرشت اندر است",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند به طبیعت انسان‌ها ویژگی‌هایی نهاده است و اگر فردی بخواهد چیزی انجام دهد، آن ویژگی‌ها در او تأثیرگذار خواهند بود."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "مردم را، گر بکند کردنی",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "جای تو ایوان و گه گلشن است",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جای تو در باغ و بوستان است، اما بی‌توجهی و سستی‌ات باعث شده که چنین حالتی برایت پیش بیاید."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "کاهلیت کرد چنین گلخنی",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "ور به بسندی به ستوری چنین",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو در زندگی به یک مرکز و هدف محکم دست پیدا کنی، تا ابد در کنار تو خواهد بود و با تو در غم و شادی شریک خواهد شد."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "تا به ابد یار غم و شیونی",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    }
+  ]
+}

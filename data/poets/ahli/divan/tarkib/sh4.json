@@ -1,0 +1,777 @@
+{
+  "Id": 104629,
+  "CatId": 2547,
+  "Title": "شمارهٔ  ۴ - ترکیب بند در مرثیه افضل الدین میرک گوید",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » اشعار ترکیبی » شمارهٔ  ۴ - ترکیب بند در مرثیه افضل الدین میرک گوید",
+  "FullUrl": "/ahli/divan/tarkib/sh4",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به مفهوم زندگی و مرگ و ارتباط انسان با وجود و حقیقت پرداخته است. شاعر به این نکته اشاره می‌کند که افرادی که به هدف نهایی خود دست یافته‌اند، در حقیقت از روز تولد خود به نوعی مرده‌اند و به زندگی دنیوی وابسته نیستند. آن‌ها که از نور هدایت بهره‌مند هستند، می‌توانند در مقابل دشواری‌ها و فانی بودن زندگی ایستادگی کنند.\n\nشاعر بر این اعتقاد است که دنیا و آنچه در آن است، فریب و دام است و تنها افرادی که از آن‌ها دوری کنند و به سمت حقیقت و معنویت بروند، می‌توانند از رنج و مشقت خلاص شوند. او به یاد یاران بزرگ و انسان‌های عارف اشاره می‌کند و برای آن‌ها طلب رحمت و مغفرت می‌کند. در نهایت، شاعر از خداوند درخواست می‌کند تا دوستداران و پاکان را در جوار خود قرار دهد و بر آن‌ها رحمت کند.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "آنان که ره بمنزل مقصود برده اند\r\nروزیکه زاده اند همانروز مرده اند\r\nچون نقش تن ز خانه هستی ستردنی است\r\nایشان بدست خود رقم خود سترده اند\r\nخوش وقت عارفان که نمیرند همچو خضر\r\nکاب بقا ز مشرب توحید خورده اند\r\nآزاده همچو سر و ز عالم نه چون خسان\r\nدل بسته همچو غنچه بیک مشت خرده اند\r\nآنان که زنده دل نه بنور هدایتند\r\nگر آتشند جمله که چون یخ فسرده اند\r\nسیل اجل در آمد و شیران ز جای برد\r\nروبه وشان خام طمع پا فشرده اند\r\nتا هست و بود دشمن جان است روزگار\r\nبیچاره مردمی که بیارش شمرده اند\r\nگریاریی زمانه بدمهر داشتی\r\nمهر جهانیان بجهان واگذاشتی\r\nدنیا وفا بمردم دانا نمیکند\r\nخوش وقت آنکه میل بدنیا نمیکند\r\nدنیا و هر چه هست در او دام و دانه است\r\nاو مرغ زیرک است که پروا نمیکند\r\nآندم که یار گشت فلک تیغ میزند\r\nهرگز حیا نکرده و قطعا نمیکند\r\nمعشوقه ایست ناکس و بر جای اینجهان\r\nمرد آن بود که دل او جا نمیکند\r\nزحمت مکش که کس نگشاید در بقا\r\nوین در بزور دست کسی وا نمیکند\r\nگردهر ز هر جور به نیکان نمی دهد\r\nور چرخ قصد مردم دانا نمیکند\r\nآن گنج رشد و مرشد حکمت پناه کو\r\nوان بحر علم و مظهر لطف اله کو\r\nسر رشته وجود کسی را بدست نیست\r\nجز واجب الوجود دگر چه هست نیست\r\nما شیشه ایم و سنگ اجل در کمین ماست\r\nواحسرتا که چاره بغیر از شکست نیست\r\nدر عالم خرابه نشستن هوس مکن\r\nبگذر ازین خرابه که جای نشست نیست\r\nگردنکشی مکن که سری کی بلند شد\r\nکامروز زیر پای تو چون خاک پست نیست\r\nشستی گشاده چرخ مشبک بگرد ما\r\nیعنی تو ماهیی و گزیرت زشست نیست\r\nآسوده از زمانه نه عاقل نه جاهل است\r\nجام مراد در کف هشیار و مست نیست\r\nگردن بنه بهر چه رسید از زمانه ات\r\nکاینها بجز نصیبه روز الست نیست\r\nگر موجب حیات دل زیرک آمدی\r\nکی این جفا به افضل دین میرک آمدی\r\nجان جهانیان ز جهان شد دریغ ازو\r\nگنج وفا بخاک نهان شد دریغ ازو\r\nآن روشنی دیده که بودی چراغ جمع\r\nاز دیده همچو برق یمان شد دریغ ازو\r\nمادر میان تیرگی غم چنین اسیر\r\nشمع مراد ما ز میان شد دریغ ازو\r\nعیسی دمی که بود روانبخش مردمان\r\nدر زیر گل چو آب روان شد دریغ ازو\r\nصاحبدلی که چشم وچراغ زمانه بود\r\nآخر بچشم زخم زمان شد دریغ ازو\r\nآن یار محترم چو روان شد سوی عدم\r\nتاریخ رحلتش طلب از از یار محترم\r\nیارب بفضل خود که بپاکان قرین کنش\r\nبا محرمان صدر نشین همنشین کنش\r\nاز بزم عیش همنفسان چون جدا افتاد\r\nاز لطف خویش همنفس حور عین کنش\r\nچون مرغ روحش از قفس تن پریده شد\r\nآسوده در حدیقه خلد برین کنش\r\nدر سایه لوای محمد در آورش\r\nیارب بآبروی نبی کاینچنین کنش\r\nدر روز حشر خرده مگیر از کرم بر او\r\nحشری که میکنی ببزرگان دین کنش\r\nکاری که کرده است نه در خورد آفرین\r\nعفو از کمال لطف جهان آفرین کنش\r\nجز رحمت تو هیچ هنر دستگیر نیست\r\nرحمی نما و ختم عمل برهمین کنش\r\nروحش همیشه از کرم خویش شاد کن\r\nعمر برادر و پسرانش زیاد کن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان که ره بمنزل مقصود برده اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزیکه زاده اند همانروز مرده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نقش تن ز خانه هستی ستردنی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایشان بدست خود رقم خود سترده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش وقت عارفان که نمیرند همچو خضر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاب بقا ز مشرب توحید خورده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآزاده همچو سر و ز عالم نه چون خسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل بسته همچو غنچه بیک مشت خرده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان که زنده دل نه بنور هدایتند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر آتشند جمله که چون یخ فسرده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیل اجل در آمد و شیران ز جای برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروبه وشان خام طمع پا فشرده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا هست و بود دشمن جان است روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیچاره مردمی که بیارش شمرده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn8\u0022\u003E\u003Cp\u003Eگریاریی زمانه بدمهر داشتی\u003C/p\u003E\r\n\u003Cp\u003Eمهر جهانیان بجهان واگذاشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدنیا وفا بمردم دانا نمیکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش وقت آنکه میل بدنیا نمیکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدنیا و هر چه هست در او دام و دانه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو مرغ زیرک است که پروا نمیکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآندم که یار گشت فلک تیغ میزند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز حیا نکرده و قطعا نمیکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعشوقه ایست ناکس و بر جای اینجهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرد آن بود که دل او جا نمیکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزحمت مکش که کس نگشاید در بقا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین در بزور دست کسی وا نمیکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردهر ز هر جور به نیکان نمی دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور چرخ قصد مردم دانا نمیکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn15\u0022\u003E\u003Cp\u003Eآن گنج رشد و مرشد حکمت پناه کو\u003C/p\u003E\r\n\u003Cp\u003Eوان بحر علم و مظهر لطف اله کو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر رشته وجود کسی را بدست نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز واجب الوجود دگر چه هست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما شیشه ایم و سنگ اجل در کمین ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواحسرتا که چاره بغیر از شکست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عالم خرابه نشستن هوس مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذر ازین خرابه که جای نشست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردنکشی مکن که سری کی بلند شد؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامروز زیر پای تو چون خاک پست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشستی گشاده چرخ مشبک بگرد ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی تو ماهیی و گزیرت زشست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآسوده از زمانه نه عاقل نه جاهل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجام مراد در کف هشیار و مست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردن بنه بهر چه رسید از زمانه ات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاینها بجز نصیبه روز الست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn23\u0022\u003E\u003Cp\u003Eگر موجب حیات دل زیرک آمدی\u003C/p\u003E\r\n\u003Cp\u003Eکی این جفا به افضل دین میرک آمدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان جهانیان ز جهان شد دریغ ازو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنج وفا بخاک نهان شد دریغ ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن روشنی دیده که بودی چراغ جمع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دیده همچو برق یمان شد دریغ ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمادر میان تیرگی غم چنین اسیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمع مراد ما ز میان شد دریغ ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعیسی دمی که بود روانبخش مردمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر زیر گل چو آب روان شد دریغ ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحبدلی که چشم وچراغ زمانه بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر بچشم زخم زمان شد دریغ ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn29\u0022\u003E\u003Cp\u003Eآن یار محترم چو روان شد سوی عدم\u003C/p\u003E\r\n\u003Cp\u003Eتاریخ رحلتش طلب از از یار محترم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارب بفضل خود که بپاکان قرین کنش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا محرمان صدر نشین همنشین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بزم عیش همنفسان چون جدا افتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز لطف خویش همنفس حور عین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مرغ روحش از قفس تن پریده شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسوده در حدیقه خلد برین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سایه لوای محمد در آورش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیارب بآبروی نبی کاینچنین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر روز حشر خرده مگیر از کرم بر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحشری که میکنی ببزرگان دین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاری که کرده است نه در خورد آفرین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعفو از کمال لطف جهان آفرین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز رحمت تو هیچ هنر دستگیر نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرحمی نما و ختم عمل برهمین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn37\u0022\u003E\u003Cp\u003Eروحش همیشه از کرم خویش شاد کن\u003C/p\u003E\r\n\u003Cp\u003Eعمر برادر و پسرانش زیاد کن\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "TarkibBand",
+      "CoupletsCount": 37
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ردهاند",
+      "PlainText": "آنان که ره بمنزل مقصود برده اند\r\nروزیکه زاده اند همانروز مرده اند\r\nچون نقش تن ز خانه هستی ستردنی است\r\nایشان بدست خود رقم خود سترده اند\r\nخوش وقت عارفان که نمیرند همچو خضر\r\nکاب بقا ز مشرب توحید خورده اند\r\nآزاده همچو سر و ز عالم نه چون خسان\r\nدل بسته همچو غنچه بیک مشت خرده اند\r\nآنان که زنده دل نه بنور هدایتند\r\nگر آتشند جمله که چون یخ فسرده اند\r\nسیل اجل در آمد و شیران ز جای برد\r\nروبه وشان خام طمع پا فشرده اند\r\nتا هست و بود دشمن جان است روزگار\r\nبیچاره مردمی که بیارش شمرده اند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان که ره بمنزل مقصود برده اند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزیکه زاده اند همانروز مرده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون نقش تن ز خانه هستی ستردنی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایشان بدست خود رقم خود سترده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوش وقت عارفان که نمیرند همچو خضر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاب بقا ز مشرب توحید خورده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآزاده همچو سر و ز عالم نه چون خسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل بسته همچو غنچه بیک مشت خرده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنان که زنده دل نه بنور هدایتند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر آتشند جمله که چون یخ فسرده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسیل اجل در آمد و شیران ز جای برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروبه وشان خام طمع پا فشرده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا هست و بود دشمن جان است روزگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیچاره مردمی که بیارش شمرده اند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 7
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "انمیکند",
+      "PlainText": "دنیا وفا بمردم دانا نمیکند\r\nخوش وقت آنکه میل بدنیا نمیکند\r\nدنیا و هر چه هست در او دام و دانه است\r\nاو مرغ زیرک است که پروا نمیکند\r\nآندم که یار گشت فلک تیغ میزند\r\nهرگز حیا نکرده و قطعا نمیکند\r\nمعشوقه ایست ناکس و بر جای اینجهان\r\nمرد آن بود که دل او جا نمیکند\r\nزحمت مکش که کس نگشاید در بقا\r\nوین در بزور دست کسی وا نمیکند\r\nگردهر ز هر جور به نیکان نمی دهد\r\nور چرخ قصد مردم دانا نمیکند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدنیا وفا بمردم دانا نمیکند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش وقت آنکه میل بدنیا نمیکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدنیا و هر چه هست در او دام و دانه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاو مرغ زیرک است که پروا نمیکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآندم که یار گشت فلک تیغ میزند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگز حیا نکرده و قطعا نمیکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمعشوقه ایست ناکس و بر جای اینجهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرد آن بود که دل او جا نمیکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزحمت مکش که کس نگشاید در بقا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین در بزور دست کسی وا نمیکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردهر ز هر جور به نیکان نمی دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور چرخ قصد مردم دانا نمیکند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 6
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ستنیست",
+      "PlainText": "سر رشته وجود کسی را بدست نیست\r\nجز واجب الوجود دگر چه هست نیست\r\nما شیشه ایم و سنگ اجل در کمین ماست\r\nواحسرتا که چاره بغیر از شکست نیست\r\nدر عالم خرابه نشستن هوس مکن\r\nبگذر ازین خرابه که جای نشست نیست\r\nگردنکشی مکن که سری کی بلند شد\r\nکامروز زیر پای تو چون خاک پست نیست\r\nشستی گشاده چرخ مشبک بگرد ما\r\nیعنی تو ماهیی و گزیرت زشست نیست\r\nآسوده از زمانه نه عاقل نه جاهل است\r\nجام مراد در کف هشیار و مست نیست\r\nگردن بنه بهر چه رسید از زمانه ات\r\nکاینها بجز نصیبه روز الست نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر رشته وجود کسی را بدست نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز واجب الوجود دگر چه هست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما شیشه ایم و سنگ اجل در کمین ماست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواحسرتا که چاره بغیر از شکست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عالم خرابه نشستن هوس مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگذر ازین خرابه که جای نشست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردنکشی مکن که سری کی بلند شد؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکامروز زیر پای تو چون خاک پست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشستی گشاده چرخ مشبک بگرد ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیعنی تو ماهیی و گزیرت زشست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآسوده از زمانه نه عاقل نه جاهل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجام مراد در کف هشیار و مست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردن بنه بهر چه رسید از زمانه ات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاینها بجز نصیبه روز الست نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 7
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "انشددریغازو",
+      "PlainText": "جان جهانیان ز جهان شد دریغ ازو\r\nگنج وفا بخاک نهان شد دریغ ازو\r\nآن روشنی دیده که بودی چراغ جمع\r\nاز دیده همچو برق یمان شد دریغ ازو\r\nمادر میان تیرگی غم چنین اسیر\r\nشمع مراد ما ز میان شد دریغ ازو\r\nعیسی دمی که بود روانبخش مردمان\r\nدر زیر گل چو آب روان شد دریغ ازو\r\nصاحبدلی که چشم وچراغ زمانه بود\r\nآخر بچشم زخم زمان شد دریغ ازو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان جهانیان ز جهان شد دریغ ازو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنج وفا بخاک نهان شد دریغ ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن روشنی دیده که بودی چراغ جمع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دیده همچو برق یمان شد دریغ ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمادر میان تیرگی غم چنین اسیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمع مراد ما ز میان شد دریغ ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعیسی دمی که بود روانبخش مردمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر زیر گل چو آب روان شد دریغ ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحبدلی که چشم وچراغ زمانه بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآخر بچشم زخم زمان شد دریغ ازو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ینکنش",
+      "PlainText": "یارب بفضل خود که بپاکان قرین کنش\r\nبا محرمان صدر نشین همنشین کنش\r\nاز بزم عیش همنفسان چون جدا افتاد\r\nاز لطف خویش همنفس حور عین کنش\r\nچون مرغ روحش از قفس تن پریده شد\r\nآسوده در حدیقه خلد برین کنش\r\nدر سایه لوای محمد در آورش\r\nیارب بآبروی نبی کاینچنین کنش\r\nدر روز حشر خرده مگیر از کرم بر او\r\nحشری که میکنی ببزرگان دین کنش\r\nکاری که کرده است نه در خورد آفرین\r\nعفو از کمال لطف جهان آفرین کنش\r\nجز رحمت تو هیچ هنر دستگیر نیست\r\nرحمی نما و ختم عمل برهمین کنش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارب بفضل خود که بپاکان قرین کنش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا محرمان صدر نشین همنشین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بزم عیش همنفسان چون جدا افتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز لطف خویش همنفس حور عین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مرغ روحش از قفس تن پریده شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسوده در حدیقه خلد برین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سایه لوای محمد در آورش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیارب بآبروی نبی کاینچنین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر روز حشر خرده مگیر از کرم بر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحشری که میکنی ببزرگان دین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاری که کرده است نه در خورد آفرین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعفو از کمال لطف جهان آفرین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجز رحمت تو هیچ هنر دستگیر نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرحمی نما و ختم عمل برهمین کنش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 7
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "گریاریی زمانه بدمهر داشتی\r\nمهر جهانیان بجهان واگذاشتی\r\nآن گنج رشد و مرشد حکمت پناه کو\r\nوان بحر علم و مظهر لطف اله کو\r\nگر موجب حیات دل زیرک آمدی\r\nکی این جفا به افضل دین میرک آمدی\r\nآن یار محترم چو روان شد سوی عدم\r\nتاریخ رحلتش طلب از از یار محترم\r\nروحش همیشه از کرم خویش شاد کن\r\nعمر برادر و پسرانش زیاد کن",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eگریاریی زمانه بدمهر داشتی\u003C/p\u003E\r\n\u003Cp\u003Eمهر جهانیان بجهان واگذاشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eآن گنج رشد و مرشد حکمت پناه کو\u003C/p\u003E\r\n\u003Cp\u003Eوان بحر علم و مظهر لطف اله کو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eگر موجب حیات دل زیرک آمدی\u003C/p\u003E\r\n\u003Cp\u003Eکی این جفا به افضل دین میرک آمدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eآن یار محترم چو روان شد سوی عدم\u003C/p\u003E\r\n\u003Cp\u003Eتاریخ رحلتش طلب از از یار محترم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eروحش همیشه از کرم خویش شاد کن\u003C/p\u003E\r\n\u003Cp\u003Eعمر برادر و پسرانش زیاد کن\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 5
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "داشتی",
+      "PlainText": "گریاریی زمانه بدمهر داشتی\r\nمهر جهانیان بجهان واگذاشتی",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eگریاریی زمانه بدمهر داشتی\u003C/p\u003E\r\n\u003Cp\u003Eمهر جهانیان بجهان واگذاشتی\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "هکو",
+      "PlainText": "آن گنج رشد و مرشد حکمت پناه کو\r\nوان بحر علم و مظهر لطف اله کو",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eآن گنج رشد و مرشد حکمت پناه کو\u003C/p\u003E\r\n\u003Cp\u003Eوان بحر علم و مظهر لطف اله کو\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "یرکامدی",
+      "PlainText": "گر موجب حیات دل زیرک آمدی\r\nکی این جفا به افضل دین میرک آمدی",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eگر موجب حیات دل زیرک آمدی\u003C/p\u003E\r\n\u003Cp\u003Eکی این جفا به افضل دین میرک آمدی\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "م",
+      "PlainText": "آن یار محترم چو روان شد سوی عدم\r\nتاریخ رحلتش طلب از از یار محترم",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eآن یار محترم چو روان شد سوی عدم\u003C/p\u003E\r\n\u003Cp\u003Eتاریخ رحلتش طلب از از یار محترم\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Third",
+      "RhymeLetters": "ادکن",
+      "PlainText": "روحش همیشه از کرم خویش شاد کن\r\nعمر برادر و پسرانش زیاد کن",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eروحش همیشه از کرم خویش شاد کن\u003C/p\u003E\r\n\u003Cp\u003Eعمر برادر و پسرانش زیاد کن\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "آنان که ره بمنزل مقصود برده اند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: افرادی که به هدف خود رسیده‌اند، در واقع از همان روزی که به دنیا آمده‌اند، نمرده‌اند. این بیان نشان می‌دهد که آنها تمام تلاش خود را برای رسیدن به مقصودشان کرده و زندگی خود را به گونه‌ای معنا بخشیده‌اند که انگار به پایان رسیده‌اند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "روزیکه زاده اند همانروز مرده اند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چون نقش تن ز خانه هستی ستردنی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: زمانی که جسم انسان از وجود و هستی پاک شود، این افراد خود به دست خود خطوط زندگی‌ و سرنوشت خود را پاک کرده‌اند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ایشان بدست خود رقم خود سترده اند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خوش وقت عارفان که نمیرند همچو خضر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: عارفان خوشبختند که مانند خضر از عمر جاودان برخوردارند؛ زیرا از سرچشمه‌ی توحید بهره‌مند شده‌اند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "کاب بقا ز مشرب توحید خورده اند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آزاده همچو سر و ز عالم نه چون خسان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: آزادگان مانند سر و پرچم از دنیای مادّی و مشکلاتش فاصله می‌گیرند، در حالی که ضعفای جامعه مانند غنچه‌هایی هستند که در دست دیگران گرفتارند و نمی‌توانند به آزادی برسند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "دل بسته همچو غنچه بیک مشت خرده اند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "آنان که زنده دل نه بنور هدایتند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: افرادی که دارای دل زنده و پرشور هستند، به روشنی هدایت می‌شوند. در حالی که دیگران که به ظاهری داغ و آتشین می‌رسند، در حقیقت به مانند یخ سرد و بی‌روح هستند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گر آتشند جمله که چون یخ فسرده اند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "سیل اجل در آمد و شیران ز جای برد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: زمان مرگ فرا رسیده و کسانی که قوی و شجاع بودند، از مکان خودشان بیرون رفته‌اند. افرادی که هنوز به امید و آرزوی رسیدن به خواسته‌هایشان ایستاده‌اند، در حال مواجهه با این واقعیت هستند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "روبه وشان خام طمع پا فشرده اند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "تا هست و بود دشمن جان است روزگار",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که زندگی هست، دشمن جان انسان است. عمر مردم بیچاره‌ای که به حساب او آمده‌اند، درگیر مشکلات و سختی‌هاست."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بیچاره مردمی که بیارش شمرده اند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 15,
+      "Position": "CenteredVerse1",
+      "Text": "گریاریی زمانه بدمهر داشتی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "SectionIndex3": 8,
+      "CoupletSummary": "هوش مصنوعی: زمانه را که نسبت به من بی‌رحم بود، ترک کردی و محبتت را به جهانیان سپردی."
+    },
+    {
+      "VOrder": 16,
+      "Position": "CenteredVerse2",
+      "Text": "مهر جهانیان بجهان واگذاشتی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "SectionIndex3": 8
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "دنیا وفا بمردم دانا نمیکند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دنیا به افرادی که باهوش و آگاه هستند، وفاداری نمی‌کند. خوشحالی و سعادت برای کسی است که به دنیا وابسته نیست و تمایلی به آن ندارد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "خوش وقت آنکه میل بدنیا نمیکند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "دنیا و هر چه هست در او دام و دانه است",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: دنیا و تمام چیزهایی که در آن وجود دارد، نقشی به‌عنوان دام و طعمه دارند. او همچون پرنده‌ای زیرک و حیله‌گر است که از این موانع و خطرات هراس ندارد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "او مرغ زیرک است که پروا نمیکند",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "آندم که یار گشت فلک تیغ میزند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زمانی که معشوق به محبوبیت می‌رسد، آسمان هرگز از به کار بردن قساوت و بی‌حیایی ابا نداشته و نخواهد داشت."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "هرگز حیا نکرده و قطعا نمیکند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "معشوقه ایست ناکس و بر جای اینجهان",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: معشوقه‌ای وجود دارد که به هیچ‌وجه شایسته نیست و در این دنیا کسی که واقعاً مرد به حساب می‌آید، کسی است که نتواند دلش را به او بسپارد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "مرد آن بود که دل او جا نمیکند",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "زحمت مکش که کس نگشاید در بقا",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: به خودت زحمت نده، زیرا هیچکس نمی‌تواند به ابدیت دست یابد و این در به زور کسی باز نمی‌شود."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "وین در بزور دست کسی وا نمیکند",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "گردهر ز هر جور به نیکان نمی دهد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: هرگونه خوشی و نعمت، تنها به نیکان و افراد صالح نمی‌رسد و سرنوشت نیز به افراد با معرفت و دانا توجهی نمی‌کند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "ور چرخ قصد مردم دانا نمیکند",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 29,
+      "Position": "CenteredVerse1",
+      "Text": "آن گنج رشد و مرشد حکمت پناه کو",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "SectionIndex3": 9,
+      "CoupletSummary": "هوش مصنوعی: کجا می‌توان گنجی از رشد و مرشد حکمت را پیدا کرد؟ کجا است آن دریای علم و نماد لطف الهی؟"
+    },
+    {
+      "VOrder": 30,
+      "Position": "CenteredVerse2",
+      "Text": "وان بحر علم و مظهر لطف اله کو",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "SectionIndex3": 9
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "سر رشته وجود کسی را بدست نیست",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس نمی‌تواند سرنوشت یا وجود خود را به دست بگیرد، جز آن وجودی که خود واجب و مستقل است؛ هر چه دیگر وجود دارد، از حقیقت بی‌بنیادی برخوردار است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "جز واجب الوجود دگر چه هست نیست",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "ما شیشه ایم و سنگ اجل در کمین ماست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: ما مانند شیشه هستیم و سنگ مرگ در انتظار ماست و افسوس که راهی جز شکستن نداریم."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "واحسرتا که چاره بغیر از شکست نیست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "در عالم خرابه نشستن هوس مکن",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در دنیا به دنبال چیزهای ناامیدکننده نرو، از این مکان خراب و خالی عبور کن، چون اینجا جای ماندن نیست."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "بگذر ازین خرابه که جای نشست نیست",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "گردنکشی مکن که سری کی بلند شد؟",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: به خود مغرور نشو و خود را بالا نبر، زیرا هیچ‌کس به خاطر حاکمیت و قدرتش جاویدان نیست. امروز تو در اوج قدرتی، اما ممکن است فردا به اندازه خاکی بی‌ارزش باشی."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "کامروز زیر پای تو چون خاک پست نیست",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "شستی گشاده چرخ مشبک بگرد ما",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: چرخ مشبک یعنی آسمان پرستاره، به حرکت درآمده و دائماً در حال چرخش است. در اینجا اشاره به تو ماهی و وجودی زنده و دلنشین دارد، اما این وجود نتوانسته خود را از این چرخش آزاد کند و بنابراین درگیر این حرکت است. در واقع اشاره به زیبایی و دشواری‌های زندگی و زمان دارد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "یعنی تو ماهیی و گزیرت زشست نیست",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "آسوده از زمانه نه عاقل نه جاهل است",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کدام از مردم، چه عاقل و چه نادان، در زمانه‌ی پرچالش فعلی آرامش ندارند. حتی کسی که به خواسته‌ها و آرزوهایش رسیده و سرشار از آگاهی و بیرحمی است، هنوز از مشکلات و تنش‌های زندگی رهایی نیافته است."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "جام مراد در کف هشیار و مست نیست",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "گردن بنه بهر چه رسید از زمانه ات",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: هرچه در طول عمرت به دست آورده‌ای، ناشی از سرنوشت و تقدیر توست و این‌ها جز بخشی از قسمت و نصیب تو در روز آغازین خلقت نیست."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "کاینها بجز نصیبه روز الست نیست",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 45,
+      "Position": "CenteredVerse1",
+      "Text": "گر موجب حیات دل زیرک آمدی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "SectionIndex3": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر سبب زنده‌نگه‌داشتن دل‌های هوشیار تو شده‌ای، پس چگونه است که این بدرفتاری در حق بهترین دین به وجود آمده است؟"
+    },
+    {
+      "VOrder": 46,
+      "Position": "CenteredVerse2",
+      "Text": "کی این جفا به افضل دین میرک آمدی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "SectionIndex3": 10
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "جان جهانیان ز جهان شد دریغ ازو",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: زندگی و وجود مردم دنیا، از این دنیا رخت بربسته و افسوس که ذخیره‌ای از وفا و صداقت، به خاک سپرده شده است و حسرت آن باقی مانده است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "گنج وفا بخاک نهان شد دریغ ازو",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "آن روشنی دیده که بودی چراغ جمع",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: آن نوری که در چشمان تو بود، مانند چراغ روشنایی بخش جمع، اکنون همچون برقی ناپدید شده است و افسوس بر آن."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "از دیده همچو برق یمان شد دریغ ازو",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "مادر میان تیرگی غم چنین اسیر",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این بیت به توصیف حالت غم و افسردگی می‌پردازد که مادر در آن غرق شده است. او مانند شمعی است که در تاریکی گرفتار شده و آرزوهایش به ناگاه از دست رفته‌اند و از این موضوع حسرت می‌خورد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "شمع مراد ما ز میان شد دریغ ازو",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "عیسی دمی که بود روانبخش مردمان",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: عیسی در لحظه‌ای که جانبخش انسان‌ها بود، مانند آبی که در زیر خاک جاری است، از دست رفت و کاش که او باقی می‌ماند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "در زیر گل چو آب روان شد دریغ ازو",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "صاحبدلی که چشم وچراغ زمانه بود",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: انسان با دلی آگاه و روشنی‌بخش برای دوران خویش در نهایت به زخم زمانه دچار شد و برای او حسرت‌بار است."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "آخر بچشم زخم زمان شد دریغ ازو",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 57,
+      "Position": "CenteredVerse1",
+      "Text": "آن یار محترم چو روان شد سوی عدم",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "SectionIndex3": 11,
+      "CoupletSummary": "هوش مصنوعی: وقتی آن دوست عزیز به سوی عدم رفت، تاریخ وفات او را از دوستانش بپرسید."
+    },
+    {
+      "VOrder": 58,
+      "Position": "CenteredVerse2",
+      "Text": "تاریخ رحلتش طلب از از یار محترم",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "SectionIndex3": 11
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "یارب بفضل خود که بپاکان قرین کنش",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: خدایا، به لطف خود، پاکان را همدم و همراه با کسانی قرار بده که در درجه‌ی بالا نشسته‌اند."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "با محرمان صدر نشین همنشین کنش",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "از بزم عیش همنفسان چون جدا افتاد",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: وقتی از محفل دوستان دور افتاد، به لطف خود، دوستانش را به شکل حوریانی زیبا و دلربا تبدیل کند."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "از لطف خویش همنفس حور عین کنش",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "چون مرغ روحش از قفس تن پریده شد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: زمانی که روح او از قفس بدنش آزاد شد، در باغی از نعمت و آسایش قرار می‌گیرد."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "آسوده در حدیقه خلد برین کنش",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "در سایه لوای محمد در آورش",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در زیر سایه پرچم محمد، یارب به خاطر آبروی نبی، اینچنین کن که رفتار ایشان را به راستی نمایان سازد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "یارب بآبروی نبی کاینچنین کنش",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "در روز حشر خرده مگیر از کرم بر او",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در روز قیامت، از کوچک‌نفس بودن بر او خرده نگیرید؛ زیرا آن روزی که شما در برابر بزرگان دین قرار می‌گیرید، حتی کوچک‌ترین گناهان شما مورد بازخواست قرار می‌گیرد."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "حشری که میکنی ببزرگان دین کنش",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "کاری که کرده است نه در خورد آفرین",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: آنچه انجام داده، شایسته ستایش نیست، بلکه فقط به خاطر بزرگی و مهربانی خداوند است که او را عفو کرده است."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "عفو از کمال لطف جهان آفرین کنش",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "جز رحمت تو هیچ هنر دستگیر نیست",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تنها رحمت تو می‌تواند کمکم کند، پس با لطف خود مرا دریاب و همین را به عنوان پایان کار من قرار بده."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "رحمی نما و ختم عمل برهمین کنش",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 73,
+      "Position": "CenteredVerse1",
+      "Text": "روحش همیشه از کرم خویش شاد کن",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "SectionIndex3": 12,
+      "CoupletSummary": "هوش مصنوعی: برای روح آن شخص همیشه خوشی بیاور و عمر برادر و فرزندانش را طولانی‌تر کن."
+    },
+    {
+      "VOrder": 74,
+      "Position": "CenteredVerse2",
+      "Text": "عمر برادر و پسرانش زیاد کن",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "SectionIndex3": 12
+    }
+  ]
+}

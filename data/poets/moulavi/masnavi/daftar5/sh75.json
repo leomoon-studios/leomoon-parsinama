@@ -1,0 +1,731 @@
+{
+  "Id": 8621,
+  "CatId": 108,
+  "Title": "بخش ۷۵ - بیان آنک آنچ بیان کرده می‌شود صورت قصه است وانگه آن صورتیست کی در خورد این صورت گیرانست و درخورد آینهٔ تصویر ایشان و از قدوسیتی کی حقیقت این قصه راست نطق را ازین تنزیل شرم می‌آید و از خجالت سر و ریش و قلم گم می‌کند و العاقل یکفیه الاشاره",
+  "FullTitle": "مولانا » مثنوی معنوی » دفتر پنجم » بخش ۷۵ - بیان آنک آنچ بیان کرده می‌شود صورت قصه است وانگه آن صورتیست کی در خورد این صورت گیرانست و درخورد آینهٔ تصویر ایشان و از قدوسیتی کی حقیقت این قصه راست نطق را ازین تنزیل شرم می‌آید و از خجالت سر و ریش و قلم گم می‌کند و العاقل یکفیه الاشاره",
+  "FullUrl": "/moulavi/masnavi/daftar5/sh75",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از حالت عاشقانه و جنون عشق سخن می‌گوید. او به زیبایی محبوس در عشق اشاره دارد و بیان می‌کند که چگونه عشق او را دچار دگرگونی کرده است. شاعر به خطاهای عقل و درک انسان اشاره می‌کند و می‌گوید که عشق از او عقل و هوش را گرفته و به جنون تبدیلش کرده است. همچنین، او به مقایسه میان موسی و کوه می‌پردازد و می‌گوید که کوه نمی‌تواند حقیقت را بفهمد، زیرا از علم و درک محدود خود آگاه است. در نهایت، شاعر به قدرت عشق اشاره می‌کند و می‌گوید که هیچ زنجیری نمی‌تواند او را از عشق بازدارد و در این حالت دیوانه‌وار، از شنیدن و تجربه عشق دعوت می‌کند.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "زانکه پیلم دید هندستان به خواب\r\nاز خراج اومید بر ده شد خراب\r\nکیف یأتی النظم لی والقافیه\r\nبعد ما ضاعت أصول العافیه\r\nما جنون واحد لی فی الشجون\r\nبل جنون فی جنون فی جنون\r\nذاب جسمی من إشارات الکنی\r\nمنذ عاینت البقاء فی الفنا\r\nای ایاز از عشق تو گشتم چو موی\r\nماندم از قصه تو قصه من بگوی\r\nبس فسانه عشق تو خواندم به جان\r\nتو مرا که افسانه گشتستم بخوان\r\nخود تو می خوانی نه من ای مقتدی\r\nمن که طورم تو موسی وین صدا\r\nکوه بیچاره چه داند گفت چیست\r\nزانکه موسی می بداند که تهیست\r\nکوه می داند به قدر خویشتن\r\nاندکی دارد ز لطف روح تن\r\nتن چو اصطرلاب باشد ز احتساب\r\nآیتی از روح هم چون آفتاب\r\nآن منجم چون نباشد چشم تیز\r\nشرط باشد مرد اصطرلاب ریز\r\nتا صطرلابی کند از بهر او\r\nتا برد از حالت خورشید بو\r\nجان کز اصطرلاب جوید او صواب\r\nچه قدر داند ز چرخ و آفتاب\r\nتو که ز اصطرلاب دیده بنگری\r\nدر جهان دیدن یقین بس قاصری\r\nتو جهان را قدر دیده دیده ای\r\nکو جهان سبلت چرا مالیده ای\r\nعارفان را سرمه ای هست آن بجوی\r\nتا که دریا گردد این چشم چو جوی\r\nذره ای از عقل و هوش ار با منست\r\nاین چه سودا و پریشان گفتنست\r\nچونکه مغز من ز عقل و هش تهیست\r\nپس گناه من درین تخلیط چیست\r\nنه گناه او راست که عقلم ببرد\r\nعقل جمله عاقلان پیشش بمرد\r\nیا مجیر العقل فتان الحجی\r\nما سواک للعقول مرتجی\r\nما اشتهیت العقل مذ جننتنی\r\nما حسدت الحسن مذ زینتنی\r\nهل جنونی فی هواک مستطاب\r\nقل بلی والله یجزیک الثواب\r\nگر به تازی گوید او ور پارسی\r\nگوش و هوشی کو که در فهمش رسی\r\nباده او درخور هر هوش نیست\r\nحلقه او سخره هر گوش نیست\r\nبار دیگر آمدم دیوانه وار\r\nرو رو ای جان زود زنجیری بیار\r\nغیر آن زنجیر زلف دلبرم\r\nگر دو صد زنجیر آری بر درم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانکه پیلم دید هندُستان به خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خراج اومید بُر دِه شد خراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکَیفَ یَأتِی النَّظمُ لی وَالقافِیَه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبَعدَ ما ضاعَت أُصولُ العافِیَه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما جُنُونٌ واحِدٌ لی فی الشُّجُون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبَل جُنونٌ فی جُنونٍ فی جُنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذابِ جِسمی مِن إِشاراتِ الکُنَی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمُنذُ عایَنتُ البَقاءَ فی الفَنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ایاز از عشقِ تو گشتم چو موی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماندم از قصّه تو قصّهٔ من بگوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس فسانهٔ عشقِ تو خواندم به جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو مرا که افسانه گشتَستم بخوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود تو می‌خوانی نه من ای مُقتَدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن کُهِ طورم تو موسی وین صدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوهِ بیچاره چه داند گفت چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه موسی می‌بداند کُه تهیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوه می‌داند به قدرِ خویشتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندکی دارد ز لطفِ روح تن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن چو اصطرلاب باشد ز احتساب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیتی از روحِ هم‌چون آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن منجّم چون نباشد چشم‌تیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرط باشد مَردِ اصطرلاب‌ریز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا صطرلابی کند از بهرِ او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بَرَد از حالتِ خورشید بو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان کز اصطرلاب جوید او صواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه قَدَر داند ز چرخ و آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو که ز اصطرلاب دیده بنگری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جهان دیدن یقین بس قاصری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو جهان را قدرِ دیده دیده‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو جهان سَبلت چرا مالیده‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعارفان را سرمه‌ای هست آن بجوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا که دریا گردد این چشم چو جوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذره‌ای از عقل و هوش ار با مَنَست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین چه سودا و پریشان گفتنست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچونکه مغزِ من ز عقل و هُش تهیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس گناهِ من درین تخلیط چیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه گناه او راست که عقلم ببُرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقلِ جملهٔ عاقلان پیشش بمُرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا مُجیرَ العَقلِ فَتّانِ الحِجَی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما سِواکَ لِلعُقُولِ مُرتَجَی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما اشتَهَیتُ العَقلَ مُذ جَنَّنتَنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما حَسَدتُ الحُسنَ مُذ زَیَّنتَنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهَل جُنُونی فی هَواکَ مُستَطاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقُل بَلی واللهُ یَجزِیکَ الثَّواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر به تازی گوید او ور پارسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوش و هوشی کو که در فهمش رسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبادهٔ او درخورِ هر هوش نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحلقهٔ او سخرهٔ هر گوش نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبارِ دیگر آمدم دیوانه‌وار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرو رو ای جان زود زنجیری بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیرِ آن زنجیرِ زلفِ دلبرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر دو صد زنجیر آری بر دَرَم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 26
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "زانکه پیلم دید هندستان به خواب\r\nاز خراج اومید بر ده شد خراب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزانکه پیلم دید هندُستان به خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خراج اومید بُر دِه شد خراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "افیه",
+      "PlainText": "کیف یأتی النظم لی والقافیه\r\nبعد ما ضاعت أصول العافیه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکَیفَ یَأتِی النَّظمُ لی وَالقافِیَه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبَعدَ ما ضاعَت أُصولُ العافِیَه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ون",
+      "PlainText": "ما جنون واحد لی فی الشجون\r\nبل جنون فی جنون فی جنون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما جُنُونٌ واحِدٌ لی فی الشُّجُون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبَل جُنونٌ فی جُنونٍ فی جُنون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نی",
+      "PlainText": "ذاب جسمی من إشارات الکنی\r\nمنذ عاینت البقاء فی الفنا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذابِ جِسمی مِن إِشاراتِ الکُنَی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمُنذُ عایَنتُ البَقاءَ فی الفَنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وی",
+      "PlainText": "ای ایاز از عشق تو گشتم چو موی\r\nماندم از قصه تو قصه من بگوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ایاز از عشقِ تو گشتم چو موی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eماندم از قصّه تو قصّهٔ من بگوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "بس فسانه عشق تو خواندم به جان\r\nتو مرا که افسانه گشتستم بخوان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس فسانهٔ عشقِ تو خواندم به جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو مرا که افسانه گشتَستم بخوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دی",
+      "PlainText": "خود تو می خوانی نه من ای مقتدی\r\nمن که طورم تو موسی وین صدا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود تو می‌خوانی نه من ای مُقتَدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن کُهِ طورم تو موسی وین صدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یست",
+      "PlainText": "کوه بیچاره چه داند گفت چیست\r\nزانکه موسی می بداند که تهیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوهِ بیچاره چه داند گفت چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه موسی می‌بداند کُه تهیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "تن",
+      "PlainText": "کوه می داند به قدر خویشتن\r\nاندکی دارد ز لطف روح تن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوه می‌داند به قدرِ خویشتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندکی دارد ز لطفِ روح تن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "تن چو اصطرلاب باشد ز احتساب\r\nآیتی از روح هم چون آفتاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن چو اصطرلاب باشد ز احتساب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیتی از روحِ هم‌چون آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یز",
+      "PlainText": "آن منجم چون نباشد چشم تیز\r\nشرط باشد مرد اصطرلاب ریز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن منجّم چون نباشد چشم‌تیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرط باشد مَردِ اصطرلاب‌ریز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "و",
+      "PlainText": "تا صطرلابی کند از بهر او\r\nتا برد از حالت خورشید بو",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا صطرلابی کند از بهرِ او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بَرَد از حالتِ خورشید بو\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "جان کز اصطرلاب جوید او صواب\r\nچه قدر داند ز چرخ و آفتاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان کز اصطرلاب جوید او صواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه قَدَر داند ز چرخ و آفتاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ری",
+      "PlainText": "تو که ز اصطرلاب دیده بنگری\r\nدر جهان دیدن یقین بس قاصری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو که ز اصطرلاب دیده بنگری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جهان دیدن یقین بس قاصری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یدهای",
+      "PlainText": "تو جهان را قدر دیده دیده ای\r\nکو جهان سبلت چرا مالیده ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو جهان را قدرِ دیده دیده‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکو جهان سَبلت چرا مالیده‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "جوی",
+      "PlainText": "عارفان را سرمه ای هست آن بجوی\r\nتا که دریا گردد این چشم چو جوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعارفان را سرمه‌ای هست آن بجوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا که دریا گردد این چشم چو جوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نست",
+      "PlainText": "ذره ای از عقل و هوش ار با منست\r\nاین چه سودا و پریشان گفتنست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذره‌ای از عقل و هوش ار با مَنَست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین چه سودا و پریشان گفتنست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یست",
+      "PlainText": "چونکه مغز من ز عقل و هش تهیست\r\nپس گناه من درین تخلیط چیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچونکه مغزِ من ز عقل و هُش تهیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس گناهِ من درین تخلیط چیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "نه گناه او راست که عقلم ببرد\r\nعقل جمله عاقلان پیشش بمرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه گناه او راست که عقلم ببُرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقلِ جملهٔ عاقلان پیشش بمُرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "جی",
+      "PlainText": "یا مجیر العقل فتان الحجی\r\nما سواک للعقول مرتجی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا مُجیرَ العَقلِ فَتّانِ الحِجَی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما سِواکَ لِلعُقُولِ مُرتَجَی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نتنی",
+      "PlainText": "ما اشتهیت العقل مذ جننتنی\r\nما حسدت الحسن مذ زینتنی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما اشتَهَیتُ العَقلَ مُذ جَنَّنتَنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما حَسَدتُ الحُسنَ مُذ زَیَّنتَنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "هل جنونی فی هواک مستطاب\r\nقل بلی والله یجزیک الثواب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهَل جُنُونی فی هَواکَ مُستَطاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقُل بَلی واللهُ یَجزِیکَ الثَّواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رسی",
+      "PlainText": "گر به تازی گوید او ور پارسی\r\nگوش و هوشی کو که در فهمش رسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر به تازی گوید او ور پارسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوش و هوشی کو که در فهمش رسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وشنیست",
+      "PlainText": "باده او درخور هر هوش نیست\r\nحلقه او سخره هر گوش نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبادهٔ او درخورِ هر هوش نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحلقهٔ او سخرهٔ هر گوش نیست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "بار دیگر آمدم دیوانه وار\r\nرو رو ای جان زود زنجیری بیار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبارِ دیگر آمدم دیوانه‌وار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرو رو ای جان زود زنجیری بیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رم",
+      "PlainText": "غیر آن زنجیر زلف دلبرم\r\nگر دو صد زنجیر آری بر درم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیرِ آن زنجیرِ زلفِ دلبرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر دو صد زنجیر آری بر دَرَم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "زانکه پیلم دید هندُستان به خواب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: زیرا من در خواب هندستان، دیدم که پیلم (فیل) از خراج (مالیات) دچار مشکلاتی شده و بر سر ده (روستا) خراب آمده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از خراج اومید بُر دِه شد خراب",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کَیفَ یَأتِی النَّظمُ لی وَالقافِیَه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "حالا که پایه‌های سلامت و آرامش از دست رفته،\u00A0دیگر شعر و قافیه از کجا می‌تواند به سراغ من بیاید؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بَعدَ ما ضاعَت أُصولُ العافِیَه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ما جُنُونٌ واحِدٌ لی فی الشُّجُون",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "من فقط یک دیوانگی در میان این اندوه ندارم؛\u00A0دیوانگی پشتِ دیوانگی است،\u00A0دیوانگی در دلِ دیوانگی!"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بَل جُنونٌ فی جُنونٍ فی جُنون",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ذابِ جِسمی مِن إِشاراتِ الکُنَی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "از اشاره‌ها و رمز و رازهای عشق،\u00A0تنم آب شده و از میان رفته؛\u00A0از روزی که در دلِ نابودی و فنا، حقیقتِ جاودانگی و بقا را دیدم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مُنذُ عایَنتُ البَقاءَ فی الفَنا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "ای ایاز از عشقِ تو گشتم چو موی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "ای ایاز! از عشق تو آن‌قدر باریک و نحیف شده‌ام که مثل یک تار مو شده‌ام.\u00A0دیگر خودم چیزی برای گفتن ندارم؛\u00A0حالا تو از داستانِ من بگو."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ماندم از قصّه تو قصّهٔ من بگوی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بس فسانهٔ عشقِ تو خواندم به جان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "آن‌قدر حکایت عشق تو را با جان و دل خوانده‌ام،\u00A0که خودم دیگر تبدیل به افسانه شده‌ام؛\u00A0حالا که من خود افسانه شده‌ام، تو مرا بخوان."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "تو مرا که افسانه گشتَستم بخوان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "خود تو می‌خوانی نه من ای مُقتَدی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "در حقیقت، این تویی که می‌خوانی، نه من، ای راهبر و پیشوا.\u00A0من کوهِ طورم و تو موسی؛\u00A0و این صدایی که می‌شنوی، از آنِ توست."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "من کُهِ طورم تو موسی وین صدا",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "کوهِ بیچاره چه داند گفت چیست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "کوه بیچاره از کجا بداند این صدا چیست؟\u00A0موسی می‌داند، چون می‌داند که کوه در برابر آن تجلی،\u00A0دیگر چیزی جز نیستی و تهی‌بودن نیست."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "زانکه موسی می‌بداند کُه تهیست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "کوه می‌داند به قدرِ خویشتن",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "کوه فقط به اندازهٔ ظرفیت خودش می‌فهمد؛\u00A0تنِ او اندکی از لطف و روح را در خود جای داده است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "اندکی دارد ز لطفِ روح تن",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "تن چو اصطرلاب باشد ز احتساب",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "تن مانند یک اسطرلاب است؛\u00A0ابزاری برای سنجش و محاسبه،\u00A0و نشانه‌ای از روحِ همچون خورشید."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "آیتی از روحِ هم‌چون آفتاب",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "آن منجّم چون نباشد چشم‌تیز",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "اما اگر آن ستاره‌شناس چشمِ تیزبین نداشته باشد،\u00A0برای کار با اسطرلاب باید کسی باشد که واقعاً راه و رسم آن را بداند؛"
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "شرط باشد مَردِ اصطرلاب‌ریز",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "تا صطرلابی کند از بهرِ او",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "تا اسطرلاب را برای او به کار گیرد\u00A0و از وضعیت و حال خورشید باخبرش کند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "تا بَرَد از حالتِ خورشید بو",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "جان کز اصطرلاب جوید او صواب",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "آن کسی که حقیقت را فقط از راهِ اسطرلاب می‌جوید،\u00A0چه اندازه می‌تواند از آسمان و خورشید حقیقت بداند؟"
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "چه قَدَر داند ز چرخ و آفتاب",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "تو که ز اصطرلاب دیده بنگری",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "تو که با چشمِ اسطرلاب‌گونه‌ات به جهان نگاه می‌کنی،\u00A0در شناختن حقیقتِ جهان، هنوز بسیار ناتوانی."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "در جهان دیدن یقین بس قاصری",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "تو جهان را قدرِ دیده دیده‌ای",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "تو جهان را فقط به اندازهٔ چشم و دید خودت دیده‌ای؛\u00A0پس چرا این‌قدر به خود می‌نازی و بر سبیلِ غرور دست می‌کشی؟"
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "کو جهان سَبلت چرا مالیده‌ای",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "عارفان را سرمه‌ای هست آن بجوی",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "عارفان سرمه‌ای دارند که باید آن را پیدا کنی؛\u00A0سرمه‌ای که اگر به چشم بزنی،\u00A0این جویبار کوچکِ چشم،\u00A0به دریایی پهناور تبدیل می‌شود."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "تا که دریا گردد این چشم چو جوی",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "ذره‌ای از عقل و هوش ار با مَنَست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "اگر ذره‌ای عقل و هوش در من باقی مانده باشد،\u00A0پس این حرف‌های آشفته و سوداهای دیوانه‌وار چیست؟"
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "این چه سودا و پریشان گفتنست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "چونکه مغزِ من ز عقل و هُش تهیست",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "وقتی مغز و وجود من از عقل و هوش خالی شده،\u00A0پس در این آمیختگی و پریشان‌گویی،\u00A0دیگر چه گناهی متوجه من است؟"
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "پس گناهِ من درین تخلیط چیست",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "نه گناه او راست که عقلم ببُرد",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "این تقصیر او نیست که عقل مرا از من ربوده؛\u00A0عقلِ همهٔ عاقلان در برابر او از پا افتاده و مرده است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "عقلِ جملهٔ عاقلان پیشش بمُرد",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "یا مُجیرَ العَقلِ فَتّانِ الحِجَی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "ای آن‌که عقلِ افسونگر و خردهای حیران را نجات می‌دهی!\u00A0برای عقل‌ها، جز تو هیچ امید و پناهی نیست."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "ما سِواکَ لِلعُقُولِ مُرتَجَی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "ما اشتَهَیتُ العَقلَ مُذ جَنَّنتَنی",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "از وقتی مرا دیوانهٔ خود کردی،\u00A0دیگر آرزوی عقل نکرده‌ام؛\u00A0و از وقتی مرا با زیبایی خود آراستی،\u00A0دیگر به زیباییِ هیچ‌کس حسادت نکرده‌ام."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "ما حَسَدتُ الحُسنَ مُذ زَیَّنتَنی",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "هَل جُنُونی فی هَواکَ مُستَطاب",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "آیا این دیوانگی در عشق تو،\u00A0دیوانگیِ شیرین و خواستنی است؟\u00A0بگو: آری، به خدا سوگند چنین است؛\u00A0و خداوند به تو پاداش نیک دهد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "قُل بَلی واللهُ یَجزِیکَ الثَّواب",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "گر به تازی گوید او ور پارسی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24,
+      "CoupletSummary": "فرقی نمی‌کند او به عربی سخن بگوید یا فارسی؛\u00A0گوش و هوشی در من باقی نمانده که بتوانم به فهم سخنش برسم."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "گوش و هوشی کو که در فهمش رسی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "بادهٔ او درخورِ هر هوش نیست",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25,
+      "CoupletSummary": "بادهٔ عشق او درخورِ هر عقل و هوشی نیست؛\u00A0و حلقهٔ او جای بازی و تمسخر هر گوشی نیست."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "حلقهٔ او سخرهٔ هر گوش نیست",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "بارِ دیگر آمدم دیوانه‌وار",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26,
+      "CoupletSummary": "باز هم دیوانه‌وار به سراغت آمدم؛\u00A0ای جان، برو و زود برایم زنجیری بیاور!"
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "رو رو ای جان زود زنجیری بیار",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "غیرِ آن زنجیرِ زلفِ دلبرم",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27,
+      "CoupletSummary": "اما اگر چیزی جز آن زنجیرِ زلفِ دلبرم می‌آوری، حتی اگر دویست زنجیر هم بر درِ خانه‌ام بیاویزی، باز هم به کار نمی‌آید."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "گر دو صد زنجیر آری بر دَرَم",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27
+    }
+  ]
+}

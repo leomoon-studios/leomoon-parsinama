@@ -1,0 +1,240 @@
+{
+  "Id": 44673,
+  "CatId": 1401,
+  "Title": "غزل شمارهٔ ۲۶۰۵",
+  "FullTitle": "بیدل دهلوی » غزلیات » غزل شمارهٔ ۲۶۰۵",
+  "FullUrl": "/bidel/ghazalbi/sh2605",
+  "RhymeLetters": "استنگاه",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر با استفاده از استعاره‌ها و تصاویر زیبا، به توصیف نگاه و تأثیر آن بر احساسات و درک انسان می‌پردازد. شاعر از نگاه به عنوان عاملی حیرت‌انگیز و رازآلود یاد می‌کند که دنیای بیرونی را به تصویر می‌کشد. هر نگاهی، آغوشی برای کشف شگفتی‌های جدید است و نوعی ارتباط عمیق با وجود و جهان را نشان می‌دهد. همچنین، چشم‌ها به عنوان دریچه‌ای به احساسات و تفکرات درونی و بیرونی توصیف می‌شوند. این نگاه‌ها می‌توانند عمیقاً تأثیرگذار باشند و دنیای زیبایی‌ها و غم‌ها را به نمایش بگذارند. در نهایت، شاعر به پیوند بین زندگی و زیبایی‌های موجود در آن اشاره می‌کند و نشان می‌دهد که سامنے نهادن این زیبایی‌ها، تنها با یک نگاه امکان‌پذیر است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "استنگاه",
+      "PlainText": "تار پیراهن حیاست نگاه\r\nکاسه چشم را صداست نگاه\r\nحیرت آیینه زمینگیری ست\r\nمژه تا نیست بی عصاست نگاه\r\nشبنم من به وصل گل چه کند\r\nکه ز چشم ترم جداست نگاه\r\nهمه آفاق نرگسستان ست\r\nچشم گو باز شو کجاست نگاه\r\nبی تمیزی تمیزها دارد\r\nکور را مسح دست و پاست نگاه\r\nنیست نقشی برون پرده خاک\r\nحیرتست این که بر هواست نگاه\r\nحاصل ما در این تماشاگاه\r\nانتها حیرت  ابتداست نگاه\r\nمژه بسته آشیان غناست\r\nورنه هر جا رسد گداست نگاه\r\nفطرتت پای در رکاب هواست\r\nکه ترا بر پر هماست نگاه\r\nکثرت جلوه مفت دیدنها\r\nگر کند احولی بجاست نگاه\r\nشمع فانوس انتظار توایم\r\nگرد پرواز رنگ ماست نگاه\r\nزندگی ساز جلوه مشتاقی ست\r\nشمع را رشته بقاست نگاه\r\nبس که عالم بهار جلوه اوست\r\nبر رخ اوست هرکجاست نگاه\r\nبید ل از جلوه قانعم به خیال\r\nچه توان کرد نارساست نگاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتار پیراهن حیاست نگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکاسهٔ چشم را صداست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحیرت آیینهٔ زمینگیری‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمژه تا نیست بی‌عصاست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبنم من به وصل گل چه کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ز چشم ترم جداست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه آفاق نرگسستان‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم گو باز شو کجاست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌تمیزی تمیزها دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکور را مسح دست و پاست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست نقشی برون پردهٔ خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحیرتست این‌که بر هواست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاصل ما در این تماشاگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eانتها حیرت‌، ابتداست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمژهٔ بسته آشیان غناست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه هر جا رسد گداست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفطرتت پای در رکاب هواست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه ترا بر پر هماست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکثرت جلوه مفت دیدنها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر کند احولی بجاست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشمع فانوس انتظار توایم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد پرواز رنگ ماست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزندگی ساز جلوه مشتاقی‌ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشمع را رشتهٔ بقاست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس که عالم بهار جلوهٔ اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر رخ اوست هرکجاست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبید‌ل از جلوه قانعم به خیال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه توان کرد نارساست نگاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 14
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تار پیراهن حیاست نگاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا گفته شده که بافت و زیبایی حیا مانند تار پیراهنی است که بر روی نگاه انسان تأثیر می‌گذارد و این نگاه در واقع ندا و صدایی است که احساسات و عواطف درونی فرد را به نمایش می‌گذارد. در واقع، حیا باعث می‌شود تا انسان در ظرافت‌های نگاه و احساسات خود بیشتر تأمل کند و آن‌ها را به خوبی نشان دهد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کاسهٔ چشم را صداست نگاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "حیرت آیینهٔ زمینگیری‌ست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به تصویر کشیده شده که چشمان کسی که در حیرت و شگفتی به زمین نگاه می‌کند، به مانند آیینه‌ای است که جهان را منعکس می‌کند. زمانی که نگاهش بی‌انگیزه و بدون قدرت است، این حیرت به نوعی زمین‌گیرش کرده و باعث می‌شود در نوعی سکون و بی‌حرکتی باقی بماند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "مژه تا نیست بی‌عصاست نگاه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "شبنم من به وصل گل چه کند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شبنم من هیچ کاری را نمی‌تواند برای وصل کمال گل انجام دهد، زیرا نگاه من از چشمانم دور و جدا شده است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که ز چشم ترم جداست نگاه",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "همه آفاق نرگسستان‌ست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه جا پر از زیبایی و جذابیت است، چشم‌هایت را باز کن و ببین کجا می‌توانی نگاه کنی."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چشم گو باز شو کجاست نگاه",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بی‌تمیزی تمیزها دارد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمیزها با عدم پاکیزگی خود، نشانه‌ای از خود را دارند و برای فرد نابینا، نشانه‌ای از پاکی در لمس و نگاه وجود دارد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "کور را مسح دست و پاست نگاه",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "نیست نقشی برون پردهٔ خاک",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ تصویری فراتر از لایه‌های مادی و خاکی وجود ندارد؛ آنچه که در آسمان می‌بینیم، حیرت و شگفتی است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "حیرتست این‌که بر هواست نگاه",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "حاصل ما در این تماشاگاه",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نتیجه اصلی ما از این نمایشگاه، حیرت و شگفتی است که در آغاز، نگاهی جدید به همه چیز را به ما می‌بخشد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "انتها حیرت‌، ابتداست نگاه",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "مژهٔ بسته آشیان غناست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مژه‌های بسته مثل لانه‌ای است که پر از زیبایی و هنر است، و اگر این چشم‌ها باز شوند، فقط فقیر و نیازمند را می‌بینند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ورنه هر جا رسد گداست نگاه",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "فطرتت پای در رکاب هواست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: طبیعت تو به دنبال خواسته‌ها و تمایلاتت است که تو را بر بلندای عزت و مقام می‌برد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "که ترا بر پر هماست نگاه",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "کثرت جلوه مفت دیدنها",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر انسان‌ها به زیبایی‌ها و جلوه‌های فراوان دنیای اطراف توجه نکنند و آنها را نادیده بگیرند، بهتر است که نگاهشان را به مسائل عمیق‌تری معطوف کنند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "گر کند احولی بجاست نگاه",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "شمع فانوس انتظار توایم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در انتظار تو همچون شمعی روشن هستیم و چهره‌ی ما به رنگ نگاه تو بستگی دارد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "گرد پرواز رنگ ماست نگاه",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "زندگی ساز جلوه مشتاقی‌ست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زندگی همچون ساز می‌ماند که شمع در تلاش است تا شعله‌اش را زنده نگه دارد و نگاه انسان به این شعله، نشانه‌ای از خواسته و آرزوهای اوست."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "شمع را رشتهٔ بقاست نگاه",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "بس که عالم بهار جلوهٔ اوست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به قدری زیبایی و جذابیت بهار از وجود او می‌تابد که هرجا که نگاه کنی، ردپای آن را بر چهره‌اش می‌بینی."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "بر رخ اوست هرکجاست نگاه",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "بید‌ل از جلوه قانعم به خیال",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیدل از زیبایی‌ها راضی‌ام، اما با خیال خود نمی‌توانم کاری کنم، زیرا نگاه من ناقص و ناتوان است."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "چه توان کرد نارساست نگاه",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    }
+  ]
+}

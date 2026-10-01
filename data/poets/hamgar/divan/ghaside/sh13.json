@@ -1,0 +1,555 @@
+{
+  "Id": 120426,
+  "CatId": 2777,
+  "Title": "شمارهٔ ۱۳",
+  "FullTitle": "مجد همگر » دیوان اشعار » قصاید » شمارهٔ ۱۳",
+  "FullUrl": "/hamgar/divan/ghaside/sh13",
+  "RhymeLetters": "ارنگیرد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به عشق و دردها و آرزوهای عاشقانه می‌پردازد. شاعر در زبان درس‌آموز و زیبا، احساسات عمیق خود را نسبت به معشوق بیان می‌کند و به تمایزاتی میان عشق واقعی و ظاهری اشاره دارد. او از تلخی‌ها و زخم‌های عشق صحبت می‌کند که باعث عدم آرامش و درد در دلش می‌شود. همچنین به موانع و مشکلاتی که عشق با خود به همراه دارد، از جمله حسرت، غم و دوری اشاره می‌کند. شاعر در پایان به قدرت و زیبایی عشق اشاره دارد و می‌گوید که عشق واقعی هیچ گاه از باور و دل جدا نمی‌شود.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارنگیرد",
+      "PlainText": "تا لعل تو از تنگ شکر بار نگیرد\r\nدل از غم آن لعل شکر بار نگیرد\r\nدر جام لبان چاشنی از قند فکندی\r\nتا لعل لبت تلخی گفتار نگیرد\r\nمن بر سمن و سنبل تو زار نگردم\r\nگر سنبل تو طرف سمنزار نگیرد\r\nاز آتش دل گرد رخت راه ببندم\r\nتا گرد گلستان رخت خار نگیرد\r\nاز دیدن تو زاهد صد ساله شگفت است\r\nگر خرقه نیندازد و زنار نگیرد\r\nمن گریم و گویی به اشارت که مریزاشک\r\nتا دشمنت از چشم و دل اقرار نگیرد\r\nگر لعل در آن لولو شهوار نگیری\r\nروی از مژه ام لولو شهوار نگیرد\r\nمن دل به هوای لب و دندان تو دادم\r\nمانا که بدین جرمم دادار نگیرد\r\nتا دل نشود عاشق هستی نپذیرد\r\nتا زر نشود خالص مقدار نگیرد\r\nروزی دو سه دستی به طرب با تو برآرم\r\nگر پای دلم در گل تیمار نگیرد\r\nانکار مدار از من ار انکار نداری\r\nتا لوح دلت صورت انکار نگیرد\r\nاز یار کم آزار خود آزار چه گیری\r\nکز یار کم آزار کس آزار نگیرد\r\nبرق نفس گرم من آفاق گرفته ست\r\nوندر دل تو شوخ ستمکار نگیرد\r\nآهم عجب ار در دل خارا ننشیند\r\nسوزم عجب ار در در و دیوار نگیرد\r\nخود بر دل تو مهر به مسمار که بندد\r\nکآن سنگ سیاه است که مسمار نگیرد\r\nگر فاش شود راز جفاهای تو بر من\r\nکس را هوس یار دگربار نگیرد\r\nزینسان که تو در یاری من راه سپردی\r\nزین پس به جهان هیچ کسی یار نگیرد\r\nزر رخ و دردانه غلطان سر شکم\r\nنقدیست که در پیش تو بازار نگیرد\r\nآهم همه دودیست که بر کس ننشیند\r\nاشکم همه آبیست که بر کار نگیرد\r\nزین پس نکنم گریه ننالم نزنم آه\r\nتا آینه روی تو زنگار نگیرد\r\nگفتی که دلت را به نصیحت ادبی کن\r\nتا کار سر زلف مرا خوار نگیرد\r\nیا در خم این زلف چو زنجیر نپیچد\r\nیا جای در این طره طرار نگیرد\r\nیا پای به خود دارد و خاموش نشیند\r\nیا دست بر این زلف زره دار نگیرد\r\nدر عرض یکی تار کزآن زلف کم آید\r\nصد قافله از تبت و تاتار نگیرد\r\nاو زنگی مست است سبکبار و سرانداز\r\nخون صد از آن دل به یکی تار نگیرد\r\nای دوست بنه عذر دلم کز همه رویی\r\nکس نکته بر آن سوخته زار نگیرد\r\nگر دل سر زلف تو یکی بار گرفته ست\r\nگوید که دلت از دل من بار نگیرد\r\nکو شیفته رای است و به زنجیر گرفتار\r\nتا خرده بر آن شیفته بسیار نگیرد\r\nزنهار مخور با دل من کز همه جرمی\r\nکس را به گنه سخت چو زنهار نگیرد\r\nاین شعر چو زر نقد روان است وزین روی\r\nاز مجد کسی صره دینار نگیرد\r\nبس پیرهن کاغذی از دست پوشم\r\nگر دست تو زو کاغذ اشعار نگیرد\r\nمن صاحب دیوان شوم ار صاحب دیوان\r\nاز نسبت همنامی من عار نگیرد\r\nآن خواجه که بی واسطه منت خوانش\r\nچرخ از مه و خور قرصه ادرار نگیرد\r\nآن شمس که بی رهبری رایت رایش\r\nخور مملکت گنبد دوار نگیرد\r\nبی رقعه پروانه او منشی گردون\r\nدر کف و بنان خامه و طومار نگیرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا لعل تو از تنگ شکر بار نگیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل از غم آن لعل شکر بار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جام لبان چاشنی از قند فکندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا لعل لبت تلخی گفتار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بر سمن و سنبل تو زار نگردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر سنبل تو طرف سمنزار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آتش دل گرد رخت راه ببندم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا گرد گلستان رخت خار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دیدن تو زاهد صد ساله شگفت است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر خرقه نیندازد و زنار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن گریم و گوئی به اشارت که مریزاشک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا دشمنت از چشم و دل اقرار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر لعل در آن لولو شهوار نگیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروی از مژه ام لولو شهوار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن دل به هوای لب و دندان تو دادم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانا که بدین جرمم دادار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا دل نشود عاشق هستی نپذیرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا زر نشود خالص مقدار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزی دو سه دستی به طرب با تو برآرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر پای دلم در گل تیمار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانکار مدار از من ار انکار نداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا لوح دلت صورت انکار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز یار کم آزار خود آزار چه گیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز یار کم آزار کس آزار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرق نفس گرم من آفاق گرفته ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوندر دل تو شوخ ستمکار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآهم عجب ار در دل خارا ننشیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوزم عجب ار در در و دیوار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخود بر دل تو مهر به مسمار که بندد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآن سنگ سیاه است که مسمار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر فاش شود راز جفاهای تو بر من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس را هوس یار دگربار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزینسان که تو در یاری من راه سپردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین پس به جهان هیچ کسی یار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزر رخ و دردانه غلطان سر شکم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنقدیست که در پیش تو بازار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآهم همه دودیست که بر کس ننشیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاشکم همه آبیست که بر کار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین پس نکنم گریه ننالم نزنم آه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا آینه روی تو زنگار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتی که دلت را به نصیحت ادبی کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا کار سر زلف مرا خوار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا در خم این زلف چو زنجیر نپیچد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا جای در این طره طرار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا پای به خود دارد و خاموش نشیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا دست بر این زلف زره دار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر عرض یکی تار کزآن زلف کم آید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد قافله از تبت و تاتار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو زنگی مست است سبکبار و سرانداز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخون صد از آن دل به یکی تار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دوست بنه عذر دلم کز همه روئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نکته بر آن سوخته زار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دل سر زلف تو یکی بار گرفته ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوید که دلت از دل من بار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکو شیفته رای است و به زنجیر گرفتار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا خرده بر آن شیفته بسیار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزنهار مخور با دل من کز همه جرمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس را به گنه سخت چو زنهار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین شعر چو زر نقد روان است وزین روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز مجد کسی صره دینار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبس پیرهن کاغذی از دست پوشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر دست تو زو کاغذ اشعار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن صاحب دیوان شوم ار صاحب دیوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نسبت همنامی من عار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن خواجه که بی واسطه منت خوانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرخ از مه و خور قرصه ادرار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن شمس که بی رهبری رایت رایش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخور مملکت گنبد دوار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی رقعه پروانه او منشی گردون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کف و بنان خامه و طومار نگیرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 35
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "تا لعل تو از تنگ شکر بار نگیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که زیبایی تو از شکرین بودنش مایه نگیرد، دلم از غم آن زیبایی شکرین رها نمی‌شود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "دل از غم آن لعل شکر بار نگیرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "در جام لبان چاشنی از قند فکندی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در فنجان تو کمی قند می‌افکنی تا طعم تلخ حرف‌هایت را نرم‌تر کند و شیرینتر جلوه کند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تا لعل لبت تلخی گفتار نگیرد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "من بر سمن و سنبل تو زار نگردم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: می‌گوید که هرگز برای زیبایی و ظرافت گل‌ها و گیاهان تو ناراحت نخواهم شد، حتی اگر تو به سوی آن باغ‌های پر از سمن و سنبل نروی."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گر سنبل تو طرف سمنزار نگیرد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از آتش دل گرد رخت راه ببندم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از آتش دل من، دوری تو را مانع می‌شوم تا هیچ چیز بد و زشتی به گلستان عشق تو آسیب نرساند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تا گرد گلستان رخت خار نگیرد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از دیدن تو زاهد صد ساله شگفت است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیدن تو باعث شگفتی است حتی برای زاهدی که صد سال عبادت کرده؛ زیرا او نه تنها لباس تقدس را کنار نمی‌گذارد، بلکه دل به امور دنیوی هم نمی‌بندد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گر خرقه نیندازد و زنار نگیرد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "من گریم و گوئی به اشارت که مریزاشک",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در حال گریه‌ام و تو با یک اشاره به من می‌گویی که اشک‌هایم را نریز. زیرا نمی‌خواهی که دشمن تو از چشمانم و از دل من پی به احساساتم ببرد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "تا دشمنت از چشم و دل اقرار نگیرد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "گر لعل در آن لولو شهوار نگیری",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آن لؤلؤی زیبا را به دست نیاوری، مروارید زیبای من هم از چشمانم دور نخواهد شد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "روی از مژه ام لولو شهوار نگیرد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "من دل به هوای لب و دندان تو دادم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر زیبایی لب‌ها و دندان‌های تو عاشق شدم و امیدوارم که خداوند به خاطر این عشق مرا مجازات نکند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "مانا که بدین جرمم دادار نگیرد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "تا دل نشود عاشق هستی نپذیرد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که دل عاشق نشود، عشق حقیقی را نمی‌پذیرد و تا زمانی که طلا خالص نشود، ارزش واقعی خود را نخواهد یافت."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "تا زر نشود خالص مقدار نگیرد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "روزی دو سه دستی به طرب با تو برآرم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روزهایی که حال و هوای شادی دارم، می‌خواهم با تو خوش بگذرانم، به شرطی که دل‌نگرانی‌ها و مشکلاتم مرا متوقف نکند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "گر پای دلم در گل تیمار نگیرد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "انکار مدار از من ار انکار نداری",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر نمی‌توانی منکر شوی، پس از من انکار نکن؛ چرا که تا زمانی که دل تو درگیر انکار نشود، آن را از یاد نخواهی برد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "تا لوح دلت صورت انکار نگیرد",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "از یار کم آزار خود آزار چه گیری",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر از دوست کم آزار خود رنجیده‌خاطر شوی، از چه کسی آزار می‌بینی؟ چون هیچ‌کس از دوست کم آزار آزار نمی‌بیند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "کز یار کم آزار کس آزار نگیرد",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "برق نفس گرم من آفاق گرفته ست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نفسم به قدری گرم و پرتوان است که همه جا را تحت تأثیر قرار داده و در دل تو، این معشوقه‌ی شوخ و ستمکار، تاثیری نمی‌گذارد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "وندر دل تو شوخ ستمکار نگیرد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "آهم عجب ار در دل خارا ننشیند",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عجب است که اگر صدای آه من در دل سنگ نفوذ نکند، و عجیب‌تر این که اگر سوزش این درد بر دیوار و اطراف تأثیری نگذارد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "سوزم عجب ار در در و دیوار نگیرد",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "خود بر دل تو مهر به مسمار که بندد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محبت تو بر دل من چنان محکم و استوار است که هیچ گونه دلیلی نمی‌تواند آن را از بین ببرد. این احساس به حدی قوی و عمیق است که هیچ چیز قادر به تغییر آن نیست."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "کآن سنگ سیاه است که مسمار نگیرد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "گر فاش شود راز جفاهای تو بر من",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر روزی بیفتد که آزارها و ستم‌های تو بر من آشکار شود، هیچ‌کس دیگر به عشق و محبت دیگری تمایل نخواهد داشت."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "کس را هوس یار دگربار نگیرد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "زینسان که تو در یاری من راه سپردی",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون تو به من کمک کردی و در کنارم بودی، از این پس هیچ کس در دنیا یاری نخواهد داشت."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "زین پس به جهان هیچ کسی یار نگیرد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "زر رخ و دردانه غلطان سر شکم",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره زیبا و درخشان تو مانند جواهرات و گرانبهاست، اما این زیبایی واقعی و ارزشمند نیست، چون در دنیای واقعی کسی برایش بهای درستی نمی‌پردازد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "نقدیست که در پیش تو بازار نگیرد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "آهم همه دودیست که بر کس ننشیند",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم و اندوه من مانند دودی است که هیچ‌کس آن را نمی‌بیند و اشک‌هایم همچون آبی هستند که بر هیچ چیزی تأثیر نمی‌گذارد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "اشکم همه آبیست که بر کار نگیرد",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "زین پس نکنم گریه ننالم نزنم آه",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از این به بعد دیگر گریه نمی‌کنم و ناله نمی‌زنم و آه نمی‌کشم، تا چهره‌ات در آینه دچار لک و ناهنجاری نشود."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "تا آینه روی تو زنگار نگیرد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "گفتی که دلت را به نصیحت ادبی کن",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتی که با نصیحت و پند خوب، دل خود را آرام کن تا اینطور نشود که کار من را بی‌احترامی کنی."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "تا کار سر زلف مرا خوار نگیرد",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "یا در خم این زلف چو زنجیر نپیچد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یا اینکه در حلقه‌ی این موهای پیچ‌خورده گرفتار می‌شود یا اینکه جایی در این دسته‌ی لطیف نخواهد گرفت."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "یا جای در این طره طرار نگیرد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "یا پای به خود دارد و خاموش نشیند",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یا باید به خود توجه کند و در سکوت بماند، یا دستش بر روی زلفی که مانند زره است، قرار نگیرد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "یا دست بر این زلف زره دار نگیرد",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "در عرض یکی تار کزآن زلف کم آید",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مدت زمانی که یک تار از موی او دراز است، صدها قافله از سرزمین‌های دور و نزدیک نمی‌توانند به او نزدیک شوند."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "صد قافله از تبت و تاتار نگیرد",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "او زنگی مست است سبکبار و سرانداز",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او مست و بی‌خیال است، بدون هرگونه بار و مسئولیتی، و در حالی که با شجاعت در دلش حسی از عشق و شور وجود دارد، آماده است تا به تقدیر و چالش‌های زندگی روبرو شود."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "خون صد از آن دل به یکی تار نگیرد",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "ای دوست بنه عذر دلم کز همه روئی",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوست، از دل من عذرخواهی کن، زیرا که هیچ‌کس از سوختگی این دل غم‌زده خبر ندارد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "کس نکته بر آن سوخته زار نگیرد",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "گر دل سر زلف تو یکی بار گرفته ست",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دل کسی از موهای زلف تو غمگین شده و بار سنگینی را احساس کند، می‌گوید که دل تو نباید از دل من غمگین باشد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "گوید که دلت از دل من بار نگیرد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "کو شیفته رای است و به زنجیر گرفتار",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که به نظرات و افکار دیگران اهمیت می‌دهد و گرفتار تصورات خود شده، بهتر است که مراقب باشد چون اگر به این موضوع دقت نکند، ممکن است دیگران انتقادات زیادی نسبت به او داشته باشند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "تا خرده بر آن شیفته بسیار نگیرد",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "زنهار مخور با دل من کز همه جرمی",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مواظب باش که با دل من بازی نکن، زیرا من از همه گناهانم برائت می‌جویم و هیچ‌کس را به خاطر گناهش به شدت ملامت نمی‌کنم، مادام که او هم از من دوری کند."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "کس را به گنه سخت چو زنهار نگیرد",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "این شعر چو زر نقد روان است وزین روی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر مانند طلاست که به راحتی قابل دسترسی است و به همین دلیل هیچ‌کس از قدرت و اعتبارش نفعی نمی‌برد."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "از مجد کسی صره دینار نگیرد",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "بس پیرهن کاغذی از دست پوشم",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر دست تو از شعرهای من جدا نشود، من پیراهن‌های کاغذی زیادی را از تن بیرون می‌آورم."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "گر دست تو زو کاغذ اشعار نگیرد",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "من صاحب دیوان شوم ار صاحب دیوان",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی که دیوان (شعر یا اثر هنری) دارد، از هم‌نامی‌ام خجالت نکشد، من هم می‌توانم صاحب دیوان شوم."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "از نسبت همنامی من عار نگیرد",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "آن خواجه که بی واسطه منت خوانش",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن کسی که بدون واسطه و بی‌نیاز از دیگران، از زیبایی‌های آسمان و زمین بهره نمی‌گیرد، در واقع نمی‌تواند به کامیابی و خوشبختی دست یابد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "چرخ از مه و خور قرصه ادرار نگیرد",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "آن شمس که بی رهبری رایت رایش",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن خورشید که بدون راهنما و رهبری نمی‌تواند حکومت و سلطنت خود را بر جهان بچرخاند."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "خور مملکت گنبد دوار نگیرد",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "بی رقعه پروانه او منشی گردون",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من بدون هیچ سند و مدرکی در دستانم، فقط مانند پروانه‌ای که می‌رقصید، به دور او می‌چرخم و نمی‌توانم چیز خاصی را ثبت و ضبط کنم."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "در کف و بنان خامه و طومار نگیرد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    }
+  ]
+}

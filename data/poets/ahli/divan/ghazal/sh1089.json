@@ -1,0 +1,131 @@
+{
+  "Id": 104251,
+  "CatId": 2545,
+  "Title": "شمارهٔ ۱۰۸۹",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » غزلیات » شمارهٔ ۱۰۸۹",
+  "FullUrl": "/ahli/divan/ghazal/sh1089",
+  "RhymeLetters": "ارندیدیم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به بررسی احساس غم و رنج ناشی از دنیا می‌پردازد و دعوت به آسودگی و شادابی می‌کند. شاعر از تکرار ناراحتی‌ها و غم‌های بی‌فایده انتقاد می‌کند و خواهان نزدیکی به رندان و دوستانی است که می‌توانند دل را شاداب کنند. او بر این باور است که زندگی باید به صورت جشن و نشاط سپری شود و از غم‌هایی که تنها سبب رنج هستند، فاصله بگیرد. در نهایت، شاعر بر لزوم رهایی از بند غم و نگرانی تأکید می‌کند و به این نتیجه می‌رسد که باید از همه خُود را رها کنیم و آرامش یابیم.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارهیینمییابم",
+      "PlainText": "چو چاره از غم خونخواره نمییابم\r\nجز آنکه جان بدهم چاره یی نمی یابم\r\nبهار عمر خزان کردم از غمت ایگل\r\nهنوز فرصت نظاره یی نمی یابم\r\nز دست جور تو آواره جهان گشتم\r\nولیک همچو خود آواره یی نمی یابم\r\nهنوز تیره شبم با هزار مشعل آه\r\nشبی که همچو تو مهپاره یی نمی یابم\r\nخوشم بخواری دل با هزار زخم زبان\r\nبسختی دل خود خاره یی نمی یابم\r\nشبم نمیرود از غصه خواب اگر روزی\r\nملامتی ز ستمکاره یی نمی یابم\r\nبجان دوست که هرگز ز خانقه اهلی\r\nصفای محبت میخواره یی نمی یابم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو چاره از غم خونخواره نمییابم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز آنکه جان بدهم چاره یی نمی یابم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهار عمر خزان کردم از غمت ایگل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهنوز فرصت نظاره یی نمی یابم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز دست جور تو آواره جهان گشتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eولیک همچو خود آواره یی نمی یابم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهنوز تیره شبم با هزار مشعل آه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشبی که همچو تو مهپاره یی نمی یابم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوشم بخواری دل با هزار زخم زبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسختی دل خود خاره یی نمی یابم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبم نمیرود از غصه خواب اگر روزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eملامتی ز ستمکاره یی نمی یابم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبجان دوست که هرگز ز خانقه اهلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصفای محبت میخواره یی نمی یابم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "چو چاره از غم خونخواره نمییابم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که نمی‌توانم از غم و اندوهی عمیق رهایی یابم، جز اینکه جانم را فدای این درد کنم، هیچ راه‌حلی برای این وضعیت پیدا نمی‌کنم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "جز آنکه جان بدهم چاره یی نمی یابم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "بهار عمر خزان کردم از غمت ایگل",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر غم تو، دوران جوانی‌ام را به خزان تبدیل کردم و هنوز فرصتی برای دیدن زیبایی‌ها و لذت بردن ندارم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هنوز فرصت نظاره یی نمی یابم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز دست جور تو آواره جهان گشتم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ظلم و ستم تو در‌ به‌دری و آوارگی در دنیا افتادم، اما باز هم هیچ‌کس را مانند خودم در این آوارگی نمی‌بینم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ولیک همچو خود آواره یی نمی یابم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هنوز تیره شبم با هزار مشعل آه",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من هنوز در تاریکی شب هستم و با هزاران مشعل سعی در روشن کردن آن دارم، اما شبی که مانند تو، روشن و زیبا باشد، نمی‌توانم پیدا کنم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "شبی که همچو تو مهپاره یی نمی یابم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خوشم بخواری دل با هزار زخم زبان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من با هزار زخم زبان به سختی می‌سوزد، ولی هیچ نشانه‌ای از درد را در خود نمی‌یابم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بسختی دل خود خاره یی نمی یابم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "شبم نمیرود از غصه خواب اگر روزی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شب‌ها به خاطر غصه خوابم نمی‌برد، و اگر روزی مورد سرزنش کسی از اهل ستم قرار نگیرم، باز هم آرامش خاطر ندارم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ملامتی ز ستمکاره یی نمی یابم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بجان دوست که هرگز ز خانقه اهلی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر دوستی‌ام، هرگز از خانقاه به کسی که در عشق و محبت مانند می‌نوشید، چیزی به دست نمی‌آورم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "صفای محبت میخواره یی نمی یابم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

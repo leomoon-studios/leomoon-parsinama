@@ -1,0 +1,2004 @@
+{
+  "Id": 105525,
+  "CatId": 2555,
+  "Title": "بخش ۸ - دایره مرکب مدور",
+  "FullTitle": "اهلی شیرازی » دیوان اشعار » قصاید مصنوع » قصیدهٔ اول بنام امیر علیشیر » بخش ۸ - دایره مرکب مدور",
+  "FullUrl": "/ahli/divan/masnoo/gh1/sh8",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن شعری است که به ستایش و وصف شخصیت یا مقامی خاص می‌پردازد و از زبان استعاری و ادبیاتی زیبا استفاده می‌کند. شاعر در این شعر از کلمات و ترکیبات مختلف برای توصیف نعمت‌ها، بخشش‌ها، و فضاهایی که به واسطه‌ی آن شخصیت به وجود آمده، بهره می‌برد. \n\nمضامین اصلی شعر شامل حکمت، کرامت، بخشش و ارادت به آن شخصیت است. شاعر با مقایسهٔ شخصیت مورد نظر با خورشید، ابر، و دیگر نمادهای طبیعی، بزرگی، نیکی و جود او را به تصویر می‌کشد. علاوه بر این، شاعر به ضعف دشمنان و قدرت شخصیت مورد نظر نیز اشاره می‌کند و او را به عنوان یک رهبر و حاکم شایسته توصیف می‌کند. \n\nدر کل، این شعر به توصیف صفات برجسته شخصیتی موفق و نیکوکار می‌پردازد که زندگی و حیات اجتماعی را تحت تأثیر قرار داده و در میدان نبرد و رهبری نیز موفق عمل کرده است.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "خمیر مایه گرفته آفتاب از کرمت\r\nکه میبرد همه خشک و تر از وی این اذخار\r\nلوای فتح تو شد چون سحاب در خدمات\r\nکه می برد برکاتش شمال در اقطار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخمیر مایه گرفته آفتاب از کرمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه میبرد همه خشک و تر از وی این اذخار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلوای فتح تو شد چون سحاب در خدمات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه می برد برکاتش شمال در اقطار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "قرار جوست صبا سوی توسن تو زجرم\r\nبوادی این به غبار افکن آن نشان در غار\r\nتو رای نشو و نمایی زدی بخاری از آن\r\nشدست چون گل خندان عبیر پاشان خار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقرار جوست صبا سوی توسن تو زجرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوادی این به غبار افکن آن نشان در غار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو رای نشو و نمایی زدی بخاری، از آن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشدست چون گل خندان عبیر پاشان خار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "ادب نما نبود چون سگ تو خود را خواند\r\nکه هست او ملک و ما کم از سگ بازار\r\nاگر چه از ره نسبت نه ایم همچو سگت\r\nغبار راه وییم و غلام و خدمتکار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eادب نما نبود چون سگ تو خود را خواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هست او ملک و ما کم از سگ بازار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه از ره نسبت نه ایم همچو سگت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغبار راه وییم و غلام و خدمتکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "بهم عنایتت از جود و خلق و لطف که هست\r\nکه او نکرده کم از منعم و گدا ایثار\r\nدگر چو تو فلک اندر جهان ندیده یکی\r\nو گر هم آمده ننموده این هنر بسیار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهم عنایتت از جود و خلق و لطف که هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه او نکرده کم از منعم و گدا ایثار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدگر چو تو فلک اندر جهان ندیده یکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو گر هم آمده ننموده این هنر بسیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "یقین که دست تو چون ابر گوهر افشانست\r\nنه ابر میدهد آبی چو صد در شهوار\r\nاز آن نگفته ام آگه شدیم از تو چو گنج\r\nکه نیست گنج شما را کران بهیچ کنار\r\nرهین آن کرمم من که چون خوشان باشید\r\nهزار گنج ببخشید وزر دو صد خروار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین که دست تو چون ابر گوهر افشانست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه ابر میدهد آبی چو صد در شهوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن نگفته ام آگه شدیم از تو چو گنج\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نیست گنج شما را کران بهیچ کنار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرهین آن کرمم من که چون خوشان باشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهزار گنج ببخشید وزر دو صد خروار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "بود سگان تو در حمله جمله چون شیران\r\nکشند همچو سگ ا یشان گه وغا کفار\r\nهمین که شیرسگت حمله چون پلنگان کرد\r\nلبان بقهر هژبران گشاد و گشت هزار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود سگان تو در حمله جمله چون شیران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکشند همچو سگ ا یشان گه وغا کفار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمین که شیرسگت حمله چون پلنگان کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلبان بقهر هژبران گشاد و گشت هزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "یقین ما که بجولان تو چونکه در تازی\r\nبکان رسد گهر از خوی چکانی دینار\r\nدود چو گرم سمند تو سوی میدانها\r\nشوند غرقه بگوهر همه یمین و یسار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین ما که بجولان تو چونکه در تازی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبکان رسد گهر از خوی چکانی دینار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدود چو گرم سمند تو سوی میدانها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشوند غرقه بگوهر همه یمین و یسار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "وجود تو همه در سروری خوش استحکام\r\nشکوه تو همه در سروری خوش استقرار\r\nلقب ملایکه در کاملی ترا شه کرد\r\nسعادت ازلی داری ای سعادت یار\r\nترا خوشست بآیین و رسم راهبری\r\nچه حاکمی تو چه خوش داوری باستمرار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوجود تو همه در سروری خوش استحکام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکوه تو همه در سروری خوش استقرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلقب ملایکه در کاملی ترا شه کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسعادت ازلی داری ای سعادت یار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترا خوشست بآیین و رسم راهبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه حاکمی تو چه خوش داوری باستمرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "اگر چه خصم تو خواهد ز چاکران هم عذر\r\nکیش اجل بود این معذرت ورا عیار\r\nیکی که کج بود القصه گفتنش هیچست\r\nمخواه دیگر از اعداد شنیدن استعذار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه خصم تو خواهد ز چاکران هم عذر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکیش اجل بود این معذرت ورا عیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی که کج بود القصه گفتنش هیچست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمخواه دیگر از اعداد شنیدن استعذار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "نواز یار و بران دشمنان دولت را\r\nمکن بقول بدان گوش اگر کنند اقرار\r\nسرش ببر که نه عمرت دراز گفت و مهل\r\nکه هرزه پیش تو خایند وژاژ از انکار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنواز یار و بران دشمنان دولت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمکن بقول بدان گوش اگر کنند اقرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرش ببر که نه عمرت دراز گفت و مهل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هرزه پیش تو خایند وژاژ از انکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "وجود تو همه در سروری خوش استحکام\r\nشکوه تو همه در سروری خوش استقرار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوجود تو همه در سروری خوش استحکام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکوه تو همه در سروری خوش استقرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "لقب ملایکه در کاملی ترا شه کرد\r\nسعادت ازلی داری ای سعادت یار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلقب ملایکه در کاملی ترا شه کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسعادت ازلی داری ای سعادت یار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "اگر هم افعی گنج از ره کمین شد خصم\r\nبکش زکین عدوالبت ستان جهان زان مار\r\nیقین که زود بیابی نمایش عالم\r\nچو بر محیط گشایی قدم بدین پرگار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر هم افعی گنج از ره کمین شد خصم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبکش زکین عدوالبت ستان جهان زان مار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین که زود بیابی نمایش عالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بر محیط گشایی قدم بدین پرگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 11,
+      "Number": 12,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "هبا شمار و هدر سجده هر چه پیشت نیست\r\nکه جز به پیش تو بودست سجده بر دیوار\r\nهوای نفس ترا نیست لهوی و لغوی\r\nسخن درین بتو سهویست الحق استغفار\r\nدر سجده چو سهوست لهو و لغوی\r\nجز پیش تو بودست سجده سهوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهبا شمار و هدر سجده هر چه پیشت نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه جز به پیش تو بودست سجده بر دیوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهوای نفس ترا نیست لهوی و لغوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن درین بتو سهویست الحق استغفار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سجده چو سهوست لهو و لغوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز پیش تو بودست سجده سهوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "ترا خوشست بآیین و رسم راهبری\r\nچه حاکمی تو چه خوش داوری باستمرار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eترا خوشست بآیین و رسم راهبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه حاکمی تو چه خوش داوری باستمرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ری",
+      "PlainText": "در سروری خوش مقبلی در کامل خوش رهبری\r\nدر خسروی خوش عادلی در حاکمی خوش داوری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سروری خوش مقبلی در کامل خوش رهبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خسروی خوش عادلی در حاکمی خوش داوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 13,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "ملول شاد بود هم بعهد چون تو عزیز\r\nگل شکفته در ایام تو شدست هزار\r\nاز آنکه خوارزمانست تا بدانکه گل است\r\nکنند خار زمین در رهت ز راهگذار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملول شاد بود هم بعهد چون تو عزیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگل شکفته در ایام تو شدست هزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آنکه خوارزمانست تا بدانکه گل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنند خار زمین در رهت ز راهگذار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "اگر هم افعی گنج از ره کمین شد خصم\r\nبکش زکین عدوالبت ستان جهان زان مار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر هم افعی گنج از ره کمین شد خصم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبکش زکین عدوالبت ستان جهان زان مار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "در سروری مقبلی در کاملی رهبری\r\nدر خسروی عادلی در حاکمی داوری\r\nیقین که زود بیابی نمایش عالم\r\nچو بر محیط گشایی قدم بدین پرگار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سروری مقبلی در کاملی رهبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خسروی عادلی در حاکمی داوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین که زود بیابی نمایش عالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو بر محیط گشایی قدم بدین پرگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 13,
+      "Number": 14,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "تودادهمهروفلکرادوجامهاطلسوار",
+      "PlainText": "یقین که جامه تو دوزی ابر قدر هر کس\r\nتو داده مهر و فلک را دو جامه اطلس وار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین که جامه تو دوزی ابر قدر هر کس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو داده مهر و فلک را دو جامه اطلس وار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "هبا شمار و هدر سجده هر چه پیشت نیست\r\nکه جز به پیش تو بودست سجده بر دیوار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهبا شمار و هدر سجده هر چه پیشت نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه جز به پیش تو بودست سجده بر دیوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ری",
+      "PlainText": "در سروری مقبلی در کاملی رهبری\r\nدر خسروی عادلی در حاکمی داوری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سروری مقبلی در کاملی رهبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خسروی عادلی در حاکمی داوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "هوای نفس ترا نیست لهوی و لغوی\r\nسخن درین بتو سهویست الحق استغفار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهوای نفس ترا نیست لهوی و لغوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخن درین بتو سهویست الحق استغفار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 14,
+      "Number": 15,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "وجود نیست بعهد تواش ستم شاید\r\nکه همچو روز بدان اژدها کشد اعسار\r\nنه هیچ کوه چو حلمت نه قلزمی چو کفت\r\nنه لمعه ایست چو قهر تو قاطع الاعمار\r\nبه از تو نیست وجیهی بهیچ رو در دهر\r\nگشاده روی و بلند اختر و جهان سالار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوجود نیست بعهد تواش ستم شاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه همچو روز بدان، اژدها کشد اعسار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه هیچ کوه چو حلمت نه قلزمی چو کفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه لمعه ایست چو قهر تو قاطع الاعمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه از تو نیست وجیهی بهیچ رو در دهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشاده روی و بلند اختر و جهان سالار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "مفکن زره منشین ز پا بنما علم\r\nبشکن عدو بستان جهان بگشا قدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمفکن زره منشین ز پا بنما علم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشکن عدو بستان جهان بگشا قدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 15,
+      "Number": 16,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "از آن مهارت و آن لطف و طبع نیست محال\r\nکه استماع کنی در میان بحر اذکار\r\nدوان سواره چو خصم آمدت بره استاد\r\nشکسته حال شدست او بیاری دادار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن مهارت و آن لطف و طبع نیست محال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه استماع کنی در میان بحر اذکار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوان سواره چو خصم آمدت بره استاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکسته حال شدست او بیاری دادار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وی",
+      "PlainText": "در سجده چو سهوست لهو و لغوی\r\nجز پیش تو بودست سجده سهوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سجده چو سهوست لهو و لغوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز پیش تو بودست سجده سهوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 17,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "از آن کسی که ترا داده جان و خندیده\r\nبمال و دین همه بینند بیشش از اخیار\r\nمرید چون سر خود داده است و خشنودست\r\nمراد دیده و در سود دارد استشهار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز آن کسی که ترا داده جان و خندیده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبمال و دین همه بینند بیشش از اخیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرید چون سر خود داده است و خشنودست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمراد دیده و در سود دارد استشهار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 17,
+      "Number": 18,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "یقین که این هنر اهلی از کرامت شاه\r\nچو هست نیست هنرهای دیگران بشمار\r\nنوید ازین سخن آن دان که بشنود شاهش\r\nو گر نه موجب حرمان من شود اشعار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین که این هنر اهلی از کرامت شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو هست نیست هنرهای دیگران بشمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوید ازین سخن آن دان که بشنود شاهش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو گر نه موجب حرمان من شود اشعار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 18,
+      "Number": 19,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "یقین قضا شده تابع بحکم تو ایشاه\r\nفلک به موکب تو بنده و تو استظهارکذا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین قضا شده تابع بحکم تو ایشاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفلک به موکب تو بنده و تو استظهار(کذا)\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 20,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "مفکن زره منشین ز پا بنما علم\r\nبشکن عدو بستان جهان بگشا قدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمفکن زره منشین ز پا بنما علم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشکن عدو بستان جهان بگشا قدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "کهجزبهپیشتوبودستسجدهبردیوار",
+      "PlainText": "هبا شمار و هدر سجده هر چه پیشت نیست\r\nکه جز به پیش تو بودست سجده بر دیوار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهبا شمار و هدر سجده هر چه پیشت نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه جز به پیش تو بودست سجده بر دیوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 22,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "در سروری مقبلی در کاملی رهبری\r\nدر خسروی عادلی در حاکمی داوری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سروری مقبلی در کاملی رهبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خسروی عادلی در حاکمی داوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "بکشزکینعدوالبتستانجهانزانمار",
+      "PlainText": "اگر هم افعی گنج از ره کمین شد خصم\r\nبکش زکین عدوالبت ستان جهان زان مار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر هم افعی گنج از ره کمین شد خصم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبکش زکین عدوالبت ستان جهان زان مار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 24,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "در سروری خوش مقبلی در کامل خوش رهبری\r\nدر خسروی خوش عادلی در حاکمی خوش داوری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سروری خوش مقبلی در کامل خوش رهبری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خسروی خوش عادلی در حاکمی خوش داوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "دل برد از نقش سنگین",
+      "CoupletIndex": 0,
+      "CoupletSummary": "هوش مصنوعی: دل را از مشغولیات و بارهای سنگین آزاد کن."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "خمیر مایه گرفته آفتاب از کرمت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نور خورشید از کرم زندگی و زیبایی تو الهام گرفته و همه چیز را تحت تأثیر قرار می‌دهد، به‌گونه‌ای که همه چیز را تحت تأثیر قرار می‌دهد و به زندگی می‌آورد."
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "که میبرد همه خشک و تر از وی این اذخار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 4,
+      "Position": "Right",
+      "Text": "لوای فتح تو شد چون سحاب در خدمات",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرچم پیروزی تو مانند ابر در حال خدمت است که برکاتش را در همه‌جا پخش می‌کند."
+    },
+    {
+      "VOrder": 5,
+      "Position": "Left",
+      "Text": "که می برد برکاتش شمال در اقطار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 6,
+      "Position": "Paragraph",
+      "Text": "آفتاب از کرمت در خدمات",
+      "CoupletIndex": 3,
+      "CoupletSummary": "هوش مصنوعی: آفتاب به خاطر خوبی‌های تو می‌تابد و به دیگران خدمت می‌کند."
+    },
+    {
+      "VOrder": 7,
+      "Position": "Paragraph",
+      "Text": "تقطیع: فاعلاتن فعلاتن فعلات",
+      "CoupletIndex": 4,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به معنی تقسیم یا جداسازی است و در اینجا به نوعی وزن یا قالب شعری اشاره دارد که به شکل \u0022فاعلاتن فعلاتن فعلات\u0022 تنظیم شده است. این ترتیب نشان‌دهندهٔ نحوهٔ توزیع ضرب‌ها و سکوت‌ها در شعری خاص است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Paragraph",
+      "Text": "قافیه: ایطاء جلی در الف و تا",
+      "CoupletIndex": 5,
+      "CoupletSummary": "هوش مصنوعی: قافیه: ایطاء جلی در حرف الف و تا"
+    },
+    {
+      "VOrder": 9,
+      "Position": "Paragraph",
+      "Text": "بحر: رمل مسدس مخبون مقصور صدر و ابتدا سالم",
+      "CoupletIndex": 6,
+      "CoupletSummary": "هوش مصنوعی: دریا: شنی که به شکل لوزی است، با حالت بسته و تمام اجزایش سالم و دست نخورده."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Paragraph",
+      "Text": "صنعت: جمع و مفرد",
+      "CoupletIndex": 7,
+      "CoupletSummary": "هوش مصنوعی: صنعت به معنای مجموعه‌ای از فعالیت‌ها و کارهایی است که در تولید کالا یا خدمات انجام می‌شود. همچنین می‌توان آن را به صورت جمع و مفرد استفاده کرد، به این صورت که می‌توان گفت \u0022صنعت‌ها\u0022 یا \u0022صنعت\u0022."
+    },
+    {
+      "VOrder": 11,
+      "Position": "Paragraph",
+      "Text": "میبرد خشک و تر از وی برکات",
+      "CoupletIndex": 8,
+      "CoupletSummary": "هوش مصنوعی: او از هر دو حالت، خوب و بد، بهره‌برداری می‌کند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Right",
+      "Text": "قرار جوست صبا سوی توسن تو زجرم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 1,
+      "CoupletSummary": "هوش مصنوعی: نسیم خوشبو به سمت اسب تو می‌وزد و مرا به این راهی که پر از گرد و غبار است، سوق می‌دهد. نشانی از تو در غاری وجود دارد که یادآور توست."
+    },
+    {
+      "VOrder": 13,
+      "Position": "Left",
+      "Text": "بوادی این به غبار افکن آن نشان در غار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 1
+    },
+    {
+      "VOrder": 14,
+      "Position": "Right",
+      "Text": "تو رای نشو و نمایی زدی بخاری، از آن",
+      "CoupletIndex": 10,
+      "SectionIndex1": 1,
+      "CoupletSummary": "هوش مصنوعی: تو به مانند بخاری که در دلش رایحه‌ای خوش دارد، بر افرازهای زندگی‌ات لبخند بزن. اما بدان که این زیبایی، در کنار چالش‌ها و مشکلاتی که مانند خارهای گل هستند، قرار دارد."
+    },
+    {
+      "VOrder": 15,
+      "Position": "Left",
+      "Text": "شدست چون گل خندان عبیر پاشان خار",
+      "CoupletIndex": 10,
+      "SectionIndex1": 1
+    },
+    {
+      "VOrder": 16,
+      "Position": "Paragraph",
+      "Text": "چو صبا و توسن تو ز زمین شوند خیزان",
+      "CoupletIndex": 11,
+      "CoupletSummary": "هوش مصنوعی: وقتی نسیم و اسب تو از زمین بلند شوند و به حرکت درآیند،"
+    },
+    {
+      "VOrder": 17,
+      "Position": "Paragraph",
+      "Text": "تقطیع: فعلات فاعلاتن فعلات فاعلاتان",
+      "CoupletIndex": 12,
+      "CoupletSummary": "هوش مصنوعی: این نوع تقطیع مربوط به وزن‌های شعری در ادبیات عربی است که معمولاً برای قافیه‌ها و لحن شعر مورد استفاده قرار می‌گیرد. در اینجا الگوهای مشخصی از هجاها و حرکات بیان شده است که نشان‌دهنده ترتیب و ساختار ریتمیک شعر می‌باشد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Paragraph",
+      "Text": "قافیه: ایطاء جلی در الف نون صفت",
+      "CoupletIndex": 13,
+      "CoupletSummary": "هوش مصنوعی: قافیه به معنای هماهنگی یا تکرار صداها در انتهای کلمات است. در این مورد، به نوع خاصی از قافیه که به صورت جلی و با حرف \u0022الف\u0022 و نون در صفت‌ها وجود دارد اشاره شده است. این نوع قافیه می‌تواند به زیبایی و آهنگین شدن شعر یا متن ادبی کمک کند."
+    },
+    {
+      "VOrder": 19,
+      "Position": "Paragraph",
+      "Text": "بحر: رمل مثمن مشکول(مسبغ)",
+      "CoupletIndex": 14,
+      "CoupletSummary": "هوش مصنوعی: بحر: نوعی وزن شعر است که از هجاهای خاصی تشکیل شده و با قاعده‌های معینی اجرا می‌شود. \u0022رمل مثمن مشکول\u0022 یکی از انواع بحرها است که در آن، ساختار خاصی از هجاها و کلمات ایجاد می‌شود. این نوع وزن به شکلی است که در آن رمل (یا همان وزن‌های خاص) در چندین بخش مختلف تکرار می‌شود و به شعر زیبایی و آهنگین بودن بیشتری می‌بخشد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Paragraph",
+      "Text": "صنعت: جمع و تفریق",
+      "CoupletIndex": 15,
+      "CoupletSummary": "هوش مصنوعی: صنعت شامل انجام عملیات جمع و تفریق می‌شود."
+    },
+    {
+      "VOrder": 21,
+      "Position": "Paragraph",
+      "Text": "بود این غبار افشان شود آن عبیر پاشان",
+      "CoupletIndex": 16,
+      "CoupletSummary": "هوش مصنوعی: این گرد و خاک به گونه‌ای پراکنده شود که بوی خوشی را پخش کند."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Right",
+      "Text": "ادب نما نبود چون سگ تو خود را خواند",
+      "CoupletIndex": 17,
+      "SectionIndex1": 2,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که انسان باید در برابر دیگران متواضع باشد و از خودبرتربینی بپرهیزد. به جای اینکه خود را بزرگ‌تر از دیگران ببیند، باید به جایگاه و ارزش‌های واقعی خود توجه کند، زیرا ممکن است در حقیقت از دیگران کم‌تر باشد. در اینجا، تشبیه کردن به سگ بازار نشان‌دهنده تواضع و نشانه‌ی این است که نباید خود را بالاتر از دیگران تصور کنیم."
+    },
+    {
+      "VOrder": 23,
+      "Position": "Left",
+      "Text": "که هست او ملک و ما کم از سگ بازار",
+      "CoupletIndex": 17,
+      "SectionIndex1": 2
+    },
+    {
+      "VOrder": 24,
+      "Position": "Right",
+      "Text": "اگر چه از ره نسبت نه ایم همچو سگت",
+      "CoupletIndex": 18,
+      "SectionIndex1": 2,
+      "CoupletSummary": "هوش مصنوعی: اگرچه ما از نظر نسبت به او نزدیک نیستیم، اما مانند سگی هستیم که در مسیر او بیافتیم و خدمتی به او ارائه دهیم."
+    },
+    {
+      "VOrder": 25,
+      "Position": "Left",
+      "Text": "غبار راه وییم و غلام و خدمتکار",
+      "CoupletIndex": 18,
+      "SectionIndex1": 2
+    },
+    {
+      "VOrder": 26,
+      "Position": "Paragraph",
+      "Text": "ما چو سگت از ره نسبت نه ایم",
+      "CoupletIndex": 19,
+      "CoupletSummary": "هوش مصنوعی: ما مانند سگی نیستیم که از روی نسبت و رابطه به تو وابسته باشیم."
+    },
+    {
+      "VOrder": 27,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفتعلن مفتعلن فاعلات",
+      "CoupletIndex": 20,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به معنای تقسیم و شکستن یک قالب یا الگو در شعر است. در اینجا به قالب معروفی اشاره شده که شامل سه بخش با ساختمان‌های مشخص است: \u0022مفتعلن\u0022 که به طور متناوب تکرار می‌شود و \u0022فاعلات\u0022 که یک الگوی دیگر را نمایندگی می‌کند. این ساختار به شاعران این امکان را می‌دهد که در نوشتار خود تنوع و رنگ‌آمیزی ایجاد کنند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Paragraph",
+      "Text": "قافیه: ایطاء جلی در جمع متکلم",
+      "CoupletIndex": 21,
+      "CoupletSummary": "هوش مصنوعی: قافیه: نوعی تلفیق و تطابق در واژه‌ها که در شعر و نثر استفاده می‌شود و به زیبایی و هماهنگی متن کمک می‌کند. ایطاء جلی نیز به معنای ارائهْ واضح و روشن در جمع سخنرانان یا متکلمین است."
+    },
+    {
+      "VOrder": 29,
+      "Position": "Paragraph",
+      "Text": "بحر: سریع مطوی موقوف",
+      "CoupletIndex": 22,
+      "CoupletSummary": "هوش مصنوعی: بحر: سریع، مختصر و بسته شدن."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Paragraph",
+      "Text": "صنعت: تفریق و تقسیم",
+      "CoupletIndex": 23,
+      "CoupletSummary": "هوش مصنوعی: صنعت: کاهش و تقسیم‌بندی"
+    },
+    {
+      "VOrder": 31,
+      "Position": "Paragraph",
+      "Text": "کو فلک وما سگ راه وییم",
+      "CoupletIndex": 24,
+      "CoupletSummary": "هوش مصنوعی: ما در این دنیا مانند سایه‌ای در کنار هم هستیم."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Right",
+      "Text": "بهم عنایتت از جود و خلق و لطف که هست",
+      "CoupletIndex": 25,
+      "SectionIndex1": 3,
+      "CoupletSummary": "هوش مصنوعی: به من توجهی کن، چرا که نعمت و بخشش تو بی‌نظیر است و این در حالی است که او، که بخشنده است، هیچ کمبودی نسبت به منِ دچار نیاز، از خود نشان نداده است."
+    },
+    {
+      "VOrder": 33,
+      "Position": "Left",
+      "Text": "که او نکرده کم از منعم و گدا ایثار",
+      "CoupletIndex": 25,
+      "SectionIndex1": 3
+    },
+    {
+      "VOrder": 34,
+      "Position": "Right",
+      "Text": "دگر چو تو فلک اندر جهان ندیده یکی",
+      "CoupletIndex": 26,
+      "SectionIndex1": 3,
+      "CoupletSummary": "هوش مصنوعی: هیچ کسی در دنیا چون تو را ندیدم و حتی اگر کسی هم مثل تو آمده باشد، این هنر و توانایی را از خود نشان نداده است."
+    },
+    {
+      "VOrder": 35,
+      "Position": "Left",
+      "Text": "و گر هم آمده ننموده این هنر بسیار",
+      "CoupletIndex": 26,
+      "SectionIndex1": 3
+    },
+    {
+      "VOrder": 36,
+      "Position": "Paragraph",
+      "Text": "همچو خلق و لطف تو اندر جهان ندیده یکی",
+      "CoupletIndex": 27,
+      "CoupletSummary": "هوش مصنوعی: چون محبت و زیبایی تو در دنیا دیده نشده است."
+    },
+    {
+      "VOrder": 37,
+      "Position": "Paragraph",
+      "Text": "تقطیع: فاعلات مفتعلن فاعلات مفتعلن",
+      "CoupletIndex": 28,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به معنای نظم و ترتیب بخش‌های یک شعر است. در اینجا، الگوی فاعلات مفتعلن برای ساختار شعری به کار رفته است که نشان‌دهنده نوعی ریتم مشخص و چهار بخشی در شعر می‌باشد. این الگو معمولاً در اشعار ایرانی و عربی استفاده می‌شود و به شاعران کمک می‌کند تا احساسات و مفاهیم خود را با یک قاعده آهنگین و موزون به تصویر بکشند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Paragraph",
+      "Text": "قافیه: ایطای جلی دریای تنکیر",
+      "CoupletIndex": 29,
+      "CoupletSummary": "هوش مصنوعی: قافیه: ایطای جلی دریای تنکیر به معنای تناقض و تضاد جالب در زندگی یا احساسات است. این عبارت نشان‌دهنده وجود تضاد بین چیزهایی است که به ظاهر مناسب به نظر می‌رسند ولی در واقعیت با هم تناقض دارند."
+    },
+    {
+      "VOrder": 39,
+      "Position": "Paragraph",
+      "Text": "بحر: مقتضب مطوی",
+      "CoupletIndex": 30,
+      "CoupletSummary": "هوش مصنوعی: بحر به معنای دریا است و \u0022مقتضب مطوی\u0022 به معنای مختصر و محتوای جمع‌وجور می‌باشد. به طور کلی، می‌توان گفت که \u0022بحر: مقتضب مطوی\u0022 به مفهوم عمق و وسعت موضوعی است که در عین اختصار، اطلاعات غنی و مفیدی را ارائه می‌دهد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Paragraph",
+      "Text": "صنعت: جمع و تقسیم",
+      "CoupletIndex": 31,
+      "CoupletSummary": "هوش مصنوعی: صنعت به معنای جمع‌آوری و تقسیم‌بندی اطلاعات و منابع است. در این زمینه، به تجزیه و تحلیل و سازماندهی داده‌ها به منظور بهبود فرآیندها و استفاده بهینه از منابع پرداخته می‌شود. این صنعت می‌تواند شامل فعالیت‌هایی باشد که به مدیریت بهتر داده‌ها، منابع مالی و انسانی، و بهینه‌سازی تولید و خدمات کمک می‌کند."
+    },
+    {
+      "VOrder": 41,
+      "Position": "Paragraph",
+      "Text": "کو نکرده منع گدا و کرم نموده بسی",
+      "CoupletIndex": 32,
+      "CoupletSummary": "هوش مصنوعی: نه تنها مانع گدایان نشده، بلکه بسیار به آنها نیکی کرده است."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Paragraph",
+      "Text": "چو خلق و لطف تو اندر جهان ندیده کسی",
+      "CoupletIndex": 33,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس در دنیا مانند تو را با این زیبایی و بزرگواری ندیده است."
+    },
+    {
+      "VOrder": 43,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفاعلن فعلاتن مفاعلن فعلن",
+      "CoupletIndex": 34,
+      "CoupletSummary": "هوش مصنوعی: تقطیع یعنی تقسیم یک شعر به بخش‌های کوچک‌تر با توجه به وزن و قافیه آن. در اینجا، الگوهای وزنی به شکل«مفاعلن فعلاتن مفاعلن فعلن» بیان شده‌اند. این الگوها به شاعر کمک می‌کنند تا ریتم و آهنگ شعر خود را تنظیم کند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Paragraph",
+      "Text": "قافیه: مطلق مجرد",
+      "CoupletIndex": 35,
+      "CoupletSummary": "هوش مصنوعی: قافیه به معنای هماهنگی و هم‌ساختی صداها در واژگان است که معمولاً در شعر و موزیک استفاده می‌شود. این مفهوم به ترکیب حروف و صداهای مشابه در پایان کلمات اشاره دارد و به ایجاد rhythm و زیبایی در متن کمک می‌کند. قافیه می‌تواند به شکل مطلق یا مجرد بیان شود که در آن به بیان یا به تصویر کشیدن معنای خاصی نیاز نیست و صرفاً به صداهای مشابه در کلمات توجه می‌شود."
+    },
+    {
+      "VOrder": 45,
+      "Position": "Paragraph",
+      "Text": "بحر: مجتث مخبون محذوف",
+      "CoupletIndex": 36,
+      "CoupletSummary": "هوش مصنوعی: بحر در اینجا به نوعی از وزن شعری اشاره دارد که به «مجتث» معروف است. این وزن شعری از چهار هجا تشکیل شده و دارای الگوی خاصی است. در اینجا، از اصطلاح «مخبون» نیز استفاده شده که به معنای حذف یک هجا در یک الگوی وزنی است. به این ترتیب، موزون بودن شعر و قافیه‌سازی تحت تأثیر این ویژگی‌ها قرار می‌گیرند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Paragraph",
+      "Text": "صنعت: جمع و تقسیم",
+      "CoupletIndex": 37,
+      "CoupletSummary": "هوش مصنوعی: جمع و تقسیم در صنعت به معنای فرآیندهایی است که در آن منابع و مواد خام جمع‌آوری و تقسیم‌بندی می‌شوند تا به تولید محصولات نهایی برسند. جمع به معنای انباشت داده‌ها، مواد یا منابع در یک نقطه خاص است، در حالی که تقسیم به فرآیند تفکیک و توزیع این منابع به بخش‌ها یا محصولات مختلف اشاره دارد. این دو فرآیند به طور عمده در بهینه‌سازی تولید و مدیریت زنجیره تأمین نقش کلیدی دارند."
+    },
+    {
+      "VOrder": 47,
+      "Position": "Paragraph",
+      "Text": "نکرده منع گدا و کرم نموده بسی",
+      "CoupletIndex": 38,
+      "CoupletSummary": "هوش مصنوعی: او به گدا هیچ منع نکرده و بسیار بخشش کرده است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Right",
+      "Text": "یقین که دست تو چون ابر گوهر افشانست",
+      "CoupletIndex": 39,
+      "SectionIndex1": 4,
+      "CoupletSummary": "هوش مصنوعی: بدون شک، دستان تو مانند ابرهایی هستند که جواهرات را بر زمین می‌بارند و هیچ ابر دیگری نمی‌تواند آبی به اندازه‌های بسیار فراوانی که تو می‌دهی، بباراند."
+    },
+    {
+      "VOrder": 49,
+      "Position": "Left",
+      "Text": "نه ابر میدهد آبی چو صد در شهوار",
+      "CoupletIndex": 39,
+      "SectionIndex1": 4
+    },
+    {
+      "VOrder": 50,
+      "Position": "Right",
+      "Text": "از آن نگفته ام آگه شدیم از تو چو گنج",
+      "CoupletIndex": 40,
+      "SectionIndex1": 4,
+      "CoupletSummary": "هوش مصنوعی: من از آنچه نگفته‌ای آگاه شدم، مانند گنجی که بی‌پایان است و مرز و حدی ندارد."
+    },
+    {
+      "VOrder": 51,
+      "Position": "Left",
+      "Text": "که نیست گنج شما را کران بهیچ کنار",
+      "CoupletIndex": 40,
+      "SectionIndex1": 4
+    },
+    {
+      "VOrder": 52,
+      "Position": "Right",
+      "Text": "رهین آن کرمم من که چون خوشان باشید",
+      "CoupletIndex": 41,
+      "SectionIndex1": 4,
+      "CoupletSummary": "هوش مصنوعی: من تحت تاثیر آن مهربانی هستم که وقتی خوشحال است، هزار گنج را بخشش می‌کند و دو صد خروار ثروت را نیز بر می‌دارد."
+    },
+    {
+      "VOrder": 53,
+      "Position": "Left",
+      "Text": "هزار گنج ببخشید وزر دو صد خروار",
+      "CoupletIndex": 41,
+      "SectionIndex1": 4
+    },
+    {
+      "VOrder": 54,
+      "Position": "Paragraph",
+      "Text": "چون ابر گهر افشان گفتم که شما باشید",
+      "CoupletIndex": 42,
+      "CoupletSummary": "هوش مصنوعی: به دلیل زیبایی و شکوه شما، همانند ابری که مروارید می‌افشاند، چنین می‌گویم که شما همانند آن ابر هستید."
+    },
+    {
+      "VOrder": 55,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفعول مفاعیلن مفعول مفاعیلان",
+      "CoupletIndex": 43,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به معنای تقسیم یک فرم شعری به بخش‌های کوچکتر است. در اینجا، نوع تقطیع شامل چهار بخش می‌باشد: \u0022مفعول مفاعیلن\u0022 و \u0022مفعول مفاعیلان\u0022. این ساختارها معمولاً در شعر عربی و فارسی برای وزن‌دهی و ایجاد ریتم استفاده می‌شوند."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Paragraph",
+      "Text": "قافیه: ایطاء جلی در جمع مخاطب(کذا)",
+      "CoupletIndex": 44,
+      "CoupletSummary": "هوش مصنوعی: قافیه: ارائه‌ای واضح و روشن در جمع حاضرین."
+    },
+    {
+      "VOrder": 57,
+      "Position": "Paragraph",
+      "Text": "بحر: هزج اخرب مسبغ",
+      "CoupletIndex": 45,
+      "CoupletSummary": "هوش مصنوعی: بحر هزج از انواع بحور شعر فارسی است که دارای وزن خاصی است. این وزن به این شکل است که هر مصراع از دو بخش تشکیل شده و الگوی هجایی خاصی دارد. این نوع بحر به شعر رونق و ریتم خاصی می‌دهد که شاعران در آثار خود از آن بهره می‌برند."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Paragraph",
+      "Text": "صنعت: جمع و تفریق و تقسیم",
+      "CoupletIndex": 46,
+      "CoupletSummary": "هوش مصنوعی: صنعت شامل فرایندهایی است که در آن جمع، تفریق و تقسیم انجام می‌شود. این عملیات‌ها به کمک ابزارها و تکنیک‌های مختلف، برای مدیریت و تحلیل داده‌ها یا تولید محصولات مختلف به کار می‌روند. هر یک از این روش‌ها نقش مهمی در بهبود کارایی و دقت در عملکردهای صنعتی دارند."
+    },
+    {
+      "VOrder": 59,
+      "Position": "Paragraph",
+      "Text": "نه ابر دهد آبی صد گنج شما بخشید",
+      "CoupletIndex": 47,
+      "CoupletSummary": "هوش مصنوعی: نه ابر می‌تواند آبی به اندازه صد گنج شما را فراهم کند."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Right",
+      "Text": "بود سگان تو در حمله جمله چون شیران",
+      "CoupletIndex": 48,
+      "SectionIndex1": 5,
+      "CoupletSummary": "هوش مصنوعی: در میدان جنگ، سگ‌های تو مانند شیران حمله می‌کنند و بر دشمنان خود به شدت می‌تازند."
+    },
+    {
+      "VOrder": 61,
+      "Position": "Left",
+      "Text": "کشند همچو سگ ا یشان گه وغا کفار",
+      "CoupletIndex": 48,
+      "SectionIndex1": 5
+    },
+    {
+      "VOrder": 62,
+      "Position": "Right",
+      "Text": "همین که شیرسگت حمله چون پلنگان کرد",
+      "CoupletIndex": 49,
+      "SectionIndex1": 5,
+      "CoupletSummary": "هوش مصنوعی: زمانی که سگان جنگی تو به مانند پلنگان به حمله آمدند، لبان شیر را از خشم باز کرد و هزاران خطر و چالش به وجود آمد."
+    },
+    {
+      "VOrder": 63,
+      "Position": "Left",
+      "Text": "لبان بقهر هژبران گشاد و گشت هزار",
+      "CoupletIndex": 49,
+      "SectionIndex1": 5
+    },
+    {
+      "VOrder": 64,
+      "Position": "Paragraph",
+      "Text": "سگانت جمله شیران و پلنگان",
+      "CoupletIndex": 50,
+      "CoupletSummary": "هوش مصنوعی: سگانت مانند شیران و پلنگان قوی و شجاع هستند."
+    },
+    {
+      "VOrder": 65,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفاعیلن مفاعیلن مفاعیل",
+      "CoupletIndex": 51,
+      "CoupletSummary": "هوش مصنوعی: تقطیع یک الگوی موسیقایی یا شعری است که شامل تکرار یک ساختار خاص است. این الگو به صورت مفاعیلن مفاعیلن مفاعیل بیان می‌شود و به نوعی ریتم و تنوع در شعر و موسیقی می‌بخشد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Paragraph",
+      "Text": "قافیه: ایطاء جلی در الف نون جمع",
+      "CoupletIndex": 52,
+      "CoupletSummary": "هوش مصنوعی: قافیه: ایطاء واضح در الف نون جمع"
+    },
+    {
+      "VOrder": 67,
+      "Position": "Paragraph",
+      "Text": "بحر: هزج مسدس مقصور",
+      "CoupletIndex": 53,
+      "CoupletSummary": "هوش مصنوعی: بحر هزج مسدس مقصور یک نوع وزن شعری در ادبیات فارسی است که دارای شش مصراع و به صورت خاصی از نظر قافیه و هجایی سازماندهی شده است. این بحر معمولاً در شعرهای مختلف استفاده می‌شود و دارای ریتم خاصی است که آن را متمایز می‌کند."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Paragraph",
+      "Text": "صنعت: سحر حلال",
+      "CoupletIndex": 54,
+      "CoupletSummary": "هوش مصنوعی: صنعت: جادو به شیوه حلال"
+    },
+    {
+      "VOrder": 69,
+      "Position": "Paragraph",
+      "Text": "سگ ایشان و غالب بر هژبران",
+      "CoupletIndex": 55,
+      "CoupletSummary": "هوش مصنوعی: سگ او و غالب بر هژبران."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Paragraph",
+      "Text": "مدام می شکند سنجق شهنشاهان",
+      "CoupletIndex": 56,
+      "CoupletSummary": "هوش مصنوعی: مدام سنجاق سلطنتی پادشاهان در حال شکستن است."
+    },
+    {
+      "VOrder": 71,
+      "Position": "Paragraph",
+      "Text": "کمینه غازی تو بلکه بندگان صغار",
+      "CoupletIndex": 57,
+      "CoupletSummary": "هوش مصنوعی: حداقل حداقل که غازی تو است، بلکه خدمتگزاران کوچک می‌باشند."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Paragraph",
+      "Text": "اشارتت بصلابت بسوخت تخم عدو",
+      "CoupletIndex": 58,
+      "CoupletSummary": "هوش مصنوعی: اشارت تو به قدرتی، دانه های دشمن را سوزاند."
+    },
+    {
+      "VOrder": 73,
+      "Position": "Paragraph",
+      "Text": "چنانکه بیخ بخیلی کرامت ستار",
+      "CoupletIndex": 59,
+      "CoupletSummary": "هوش مصنوعی: چنانکه درختان بی‌توجه به دیگران، تنها به فکر خود هستند."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Paragraph",
+      "Text": "شکند سنجق شاهان علامتت",
+      "CoupletIndex": 60,
+      "CoupletSummary": "هوش مصنوعی: شکست، نشانه‌ای از سلطنت و قدرت حکام است."
+    },
+    {
+      "VOrder": 75,
+      "Position": "Paragraph",
+      "Text": "بکند بیخ بخیلی کرامتت",
+      "CoupletIndex": 61,
+      "CoupletSummary": "هوش مصنوعی: تو را به کارهای نیک و خیر تشویق می‌کند و یادآور می‌شود که بزرگی و کرامت تو در انجام این کارهاست."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Paragraph",
+      "Text": "شکند سنجق شاهان علمت",
+      "CoupletIndex": 62,
+      "CoupletSummary": "هوش مصنوعی: شکند سنجق شاهان علمت به معنای از بین رفتن یا شکسته شدن چیزی است که به نوعی معطوف به مقام یا نفوذ شاهان و حاکمان است. به عبارتی دیگر، این عبارت می‌تواند به فروپاشی قدرت‌ها یا جایگاه‌های بلندمرتبه اشاره داشته باشد."
+    },
+    {
+      "VOrder": 77,
+      "Position": "Paragraph",
+      "Text": "تقطیع و بحر: فعلاتن فعلاتن مفاعلن: غریب مخبون- بیت دوم فعلاتن فعلاتن فعلن رمل مخبون محذوف",
+      "CoupletIndex": 63,
+      "CoupletSummary": "هوش مصنوعی: تقطیع و وزن شعر: وزن شعر اول شامل \u0022فعلاتن فعلاتن مفاعلن\u0022 است که به نوعی غریب و مخبون محسوب می‌شود. در بیت دوم، وزن \u0022فعلاتن فعلاتن فعلن\u0022 وجود دارد که از نوع رمل مخبون و محذوف به شمار می‌آید."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Paragraph",
+      "Text": "قافیه: مطلق مجرد- ایطاء جلی چون صلابت آرند و اگر علامت آرند صحیح بود",
+      "CoupletIndex": 64,
+      "CoupletSummary": "هوش مصنوعی: قافیه: یک مفهوم خالص و بدون قید، نمایانی برتر از پایداری را به نمایش می‌گذارد و در صورتی که نشانه‌ها درست باشند."
+    },
+    {
+      "VOrder": 79,
+      "Position": "Paragraph",
+      "Text": "صنعت: تضمین المزدوج",
+      "CoupletIndex": 65,
+      "CoupletSummary": "هوش مصنوعی: صنعت: تضمین مزدوج به معنای اطمینان از وجود دو یا چند جنبه متناسب یا همکاری بین عناصر مختلف در یک سیستم می‌باشد. این مفهوم معمولاً در زمینه‌های اقتصادی و اجتماعی مورد استفاده قرار می‌گیرد، جایی که برای موفقیت یک طرح یا پروژه، نیاز به همکاری و هماهنگی بین افراد یا نهادهای مختلف وجود دارد. این نوع تضمین می‌تواند شامل تأمین مالی، منابع انسانی یا سایر حمایت‌ها باشد که برای دستیابی به اهداف مشترک الزامی است."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Paragraph",
+      "Text": "بکند بیخ بخیلی کرمت",
+      "CoupletIndex": 66,
+      "CoupletSummary": "هوش مصنوعی: این جمله به نوعی به زبانی رمزآلود یا شاعرانه است و به نظر می‌رسد به احساساتی عمیق اشاره دارد. شاید به این موضوع اشاره کند که فردی در تلاش است تا از محدودیت‌ها و موانع عبور کند و به نوعی به آرزوها و خواسته‌های خود نزدیک‌تر شود. به طور کلی، این عبارت می‌تواند حاکی از تلاش و کوشش برای رهایی از دغدغه‌ها و ناامیدی‌ها باشد."
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "یقین ما که بجولان تو چونکه در تازی",
+      "CoupletIndex": 67,
+      "SectionIndex1": 6,
+      "CoupletSummary": "هوش مصنوعی: ما با اطمینان می‌گوییم که حضور تو موجب افتخار و ارزشمند شدن ماست، مانند این‌که وقتی طلا در دست کسی با شرافت قرار گیرد، بر ارزش آن می‌افزاید."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "بکان رسد گهر از خوی چکانی دینار",
+      "CoupletIndex": 67,
+      "SectionIndex1": 6
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "دود چو گرم سمند تو سوی میدانها",
+      "CoupletIndex": 68,
+      "SectionIndex1": 6,
+      "CoupletSummary": "هوش مصنوعی: وقتی دود ناشی از حرارت اسب تو به سمت میدان‌ها می‌رود، گویی در میان جواهراتی غرق شده است و همه جا را پر از زیبایی و درخشش می‌کند."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "شوند غرقه بگوهر همه یمین و یسار",
+      "CoupletIndex": 68,
+      "SectionIndex1": 6
+    },
+    {
+      "VOrder": 85,
+      "Position": "Paragraph",
+      "Text": "بجولان چونکه در تازد سمندت سوی میدانها",
+      "CoupletIndex": 69,
+      "CoupletSummary": "هوش مصنوعی: به حرکت درآی و با شجاعت به سوی میدان‌ها برو."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Paragraph",
+      "Text": "بگاه خوی چکانیدن شود غرقه بگوهرها",
+      "CoupletIndex": 70,
+      "CoupletSummary": "هوش مصنوعی: زمانی که فرد در حال عرق کردن است، غرق در زیبایی و ارزش‌ها می‌شود."
+    },
+    {
+      "VOrder": 87,
+      "Position": "Paragraph",
+      "Text": "بجولان چو در تازد سمندت چو اژدر",
+      "CoupletIndex": 71,
+      "CoupletSummary": "هوش مصنوعی: وقتی اسب تو با شور و شوق حرکت می‌کند، مانند یک اژدهایی است که به شدت در حال حرکت است."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Paragraph",
+      "Text": "گه خوی چکانیدن شود غرق گوهر",
+      "CoupletIndex": 72,
+      "CoupletSummary": "هوش مصنوعی: اگر فردی به خودپسندی و غرور دچار شود، در نهایت به مشکلات و زوال شخصیت دچار خواهد شد."
+    },
+    {
+      "VOrder": 89,
+      "Position": "Paragraph",
+      "Text": "بجولان چو تازد سمندت چو اژدر",
+      "CoupletIndex": 73,
+      "CoupletSummary": "هوش مصنوعی: زمانی که اسب تو مانند اژدها به جلو می‌جهد و می‌تازد، باید از آن لذت ببری و با قدرت پیش بروی."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Paragraph",
+      "Text": "تقطیع: بیت الو- مفاعیلن ۴ بار- بیت دوم- فعولن مفاعیلن ۲ بار، بیت سوم فعولن ۴ بار.",
+      "CoupletIndex": 74,
+      "CoupletSummary": "هوش مصنوعی: تقطیع این شعر به این صورت است: در بیت اول، وزن شعر به صورت \u0022مفاعیلن\u0022 چهار بار تکرار می‌شود. در بیت دوم، الگوی وزن \u0022فعولن مفاعیلن\u0022 دو بار دیده می‌شود. و در بیت سوم، وزن \u0022فعولن\u0022 چهار بار تکرار می‌گردد."
+    },
+    {
+      "VOrder": 91,
+      "Position": "Paragraph",
+      "Text": "بحر: بیت اول- هزج مثمن سالم، بیت دوم- طویل، بیت سوم- متقارب سالم",
+      "CoupletIndex": 75,
+      "CoupletSummary": "هوش مصنوعی: این متن به الگوی وزن شعری اشاره دارد. در بیت اول، وزن شعری \u0022هزج مثمن سالم\u0022 است که نوعی وزن متشکل از هجاهای بلند و کوتاه می‌باشد. بیت دوم دارای وزن \u0022طویل\u0022 است که نشان‌دهنده الگوی دیگری از هجاها است. در نهایت، بیت سوم با وزن \u0022متقارب سالم\u0022 است که باز هم نوع متفاوتی از ساختار وزنی را به کار می‌برد."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Paragraph",
+      "Text": "صنعت: مبسوط",
+      "CoupletIndex": 76,
+      "CoupletSummary": "هوش مصنوعی: صنعت یعنی مجموع فعالیت‌ها و فرآیندهایی که به تولید کالاها و خدمات مرتبط می‌شود. این شامل همه‌ی مراحل از استخراج مواد اولیه تا تولید و توزیع محصولات نهایی به مصرف‌کنندگان است. همچنین، صنعت می‌تواند به رشته‌های خاص و تخصص‌های مختلفی تقسیم‌بندی شود که هر یک نقش خاصی در اقتصاد و جامعه ایفا می‌کنند. به طور کلی، صنعت یکی از ارکان اصلی توسعه اقتصادی و اجتماعی یک کشور محسوب می‌شود."
+    },
+    {
+      "VOrder": 93,
+      "Position": "Paragraph",
+      "Text": "قافیه: مقید مجرد – اولی ایطاء بالف هاء جمع",
+      "CoupletIndex": 77,
+      "CoupletSummary": "هوش مصنوعی: قافیه: مقید و بدون افزونه – اولی با ارائه حرف هاء جمع"
+    },
+    {
+      "VOrder": 94,
+      "Position": "Paragraph",
+      "Text": "گه خوی چگانی شود غرق گوهر",
+      "CoupletIndex": 78,
+      "CoupletSummary": "هوش مصنوعی: گاهی اوقات، وقتی که رفتار یک فرد به گذشته‌اش برمی‌گردد، او تحت تأثیر ارزش‌ها و ویژگی‌های ذاتی خود قرار می‌گیرد و به سمت بروز استعدادها و توانایی‌های درونی‌اش می‌رود."
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "وجود تو همه در سروری خوش استحکام",
+      "CoupletIndex": 79,
+      "SectionIndex1": 7,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: وجود تو همیشه در حال تجلی است و شکوه و عظمت تو همواره در ثبات و استواری خود قرار دارد."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "شکوه تو همه در سروری خوش استقرار",
+      "CoupletIndex": 79,
+      "SectionIndex1": 7,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "لقب ملایکه در کاملی ترا شه کرد",
+      "CoupletIndex": 80,
+      "SectionIndex1": 7,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: با لطف و الطاف ملایکه، تو به کمال رسیدی و این باعث شده است که خوشبختی ابدی را در آغوش داشته باشی، ای خوشبختی همراه."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "سعادت ازلی داری ای سعادت یار",
+      "CoupletIndex": 80,
+      "SectionIndex1": 7,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "ترا خوشست بآیین و رسم راهبری",
+      "CoupletIndex": 81,
+      "SectionIndex1": 7,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تو در آیین و سنت راهنمایی کردن مهارت داری، چه در مقام حکومت‌داری و چه در قضاوت، و این امر برای تو بسیار دلپذیر است."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "چه حاکمی تو چه خوش داوری باستمرار",
+      "CoupletIndex": 81,
+      "SectionIndex1": 7,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "در سروری خوش مقبلی در کامل خوش رهبری",
+      "CoupletIndex": 82,
+      "SectionIndex1": 23,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: در خوشی و سعادت تو، از رهبری خوب و کامل برخورداری. در دوران پادشاهی‌ات، عدالت را به خوبی اجرا می‌کنی و در مقام حکمرانی، داوری‌ات نیز عادلانه و شایسته است."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "در خسروی خوش عادلی در حاکمی خوش داوری",
+      "CoupletIndex": 82,
+      "SectionIndex1": 23,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "در سروری مقبلی در کاملی رهبری",
+      "CoupletIndex": 83,
+      "SectionIndex1": 21,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: در جایگاهی بلندی قرار داری، که با کمال و هدایت خود، برتری و عدالت را به خوبی نمایان می‌سازی و در مقام حاکمیت، حکم و قضاوتی درست و عادلانه ارائه می‌دهی."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "در خسروی عادلی در حاکمی داوری",
+      "CoupletIndex": 83,
+      "SectionIndex1": 21,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 105,
+      "Position": "Paragraph",
+      "Text": "سروری مقبلی کاملی رهبری",
+      "CoupletIndex": 84,
+      "CoupletSummary": "هوش مصنوعی: سروری مقبلی کاملی رهبری به معنای اینکه یک فرد با ویژگی‌های خاص و مناسب، توانایی هدایت و رهبری دیگران را دارد. این شخص دارای دیدگاه بلندمدت، قدرت تصمیم‌گیری و قابلیت‌های ارتباطی مؤثر است که می‌تواند گروه یا سازمان را به سوی اهداف مشخص و موفقیت هدایت کند."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Paragraph",
+      "Text": "تقطیع: اولی: مستفعلن ۴ بار- دومی: مستفعلن فاعلن ۲بار- سومی: فاعلن ۴ بار",
+      "CoupletIndex": 85,
+      "CoupletSummary": "هوش مصنوعی: در این متن، نحوه تقطیع شعر بیان شده است. بخش اول چهار بار با الگوی \u0022مستفعلن\u0022 و بخش دوم دو بار با الگوی \u0022مستفعلن فاعلن\u0022 و بخش سوم چهار بار با الگوی \u0022فاعلن\u0022 تقطیع شده است."
+    },
+    {
+      "VOrder": 107,
+      "Position": "Paragraph",
+      "Text": "قافیه: ایطاء جلی بیاء نسبت اگر رهروی بود واگر رهبری باشد صحیح است.",
+      "CoupletIndex": 86,
+      "CoupletSummary": "هوش مصنوعی: قافیه: اگر رهرو وجود داشته باشد و رهبری هم باشد، این مسأله درست است."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Paragraph",
+      "Text": "بحر: اولی: رجز مثمن سالم- دومی: بسیط – سومی: متدارک",
+      "CoupletIndex": 87,
+      "CoupletSummary": "هوش مصنوعی: بحر: اولی: رجز با وزن مثمن سالم - دومی: وزن بسیط - سومی: وزن متدارک."
+    },
+    {
+      "VOrder": 109,
+      "Position": "Paragraph",
+      "Text": "صنعت: حشو قبیح (کذا)",
+      "CoupletIndex": 88,
+      "CoupletSummary": "هوش مصنوعی: صنعت: چیزی که بی‌فایده و زاید به نظر می‌رسد."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Paragraph",
+      "Text": "خسروی عادلی حاکمی داوری",
+      "CoupletIndex": 89,
+      "CoupletSummary": "هوش مصنوعی: خسروی عادلی، حاکمی است که به انصاف و عدالت در قضاوت مشهور است."
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "اگر چه خصم تو خواهد ز چاکران هم عذر",
+      "CoupletIndex": 90,
+      "SectionIndex1": 8,
+      "CoupletSummary": "هوش مصنوعی: اگرچه دشمن تو تلاش می‌کند تا از پیروان تو عذری بگیرد، اما این عذر به خاطر قدرت مرگ و سرنوشت است که نمی‌تواند او را نجات دهد."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "کیش اجل بود این معذرت ورا عیار",
+      "CoupletIndex": 90,
+      "SectionIndex1": 8
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "یکی که کج بود القصه گفتنش هیچست",
+      "CoupletIndex": 91,
+      "SectionIndex1": 8,
+      "CoupletSummary": "هوش مصنوعی: شخصی که راست نمی‌گوید، در نهایت حرفی برای گفتن ندارد. بهتر است دیگر از او به دنبال اطلاعات نباشی."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "مخواه دیگر از اعداد شنیدن استعذار",
+      "CoupletIndex": 91,
+      "SectionIndex1": 8
+    },
+    {
+      "VOrder": 115,
+      "Position": "Paragraph",
+      "Text": "خصم تو خواهد اگر هم عذر کج القصه گفتن",
+      "CoupletIndex": 92,
+      "CoupletSummary": "هوش مصنوعی: اگر دشمن تو هم عذر و بهانه‌ای بیاورد، باز هم به هم می‌ریزد."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Paragraph",
+      "Text": "تقطیع: فاعلاتن فاعلاتن فاعلاتن فاعلاتن",
+      "CoupletIndex": 93,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به معنای تقسیم یا شکستن چیزی به بخش‌های کوچک‌تر است. در اینجا، اشاره به ساختار وزنی شعری دارد که با تکرار یک الگو یا مصراع مشخص می‌شود. در فرم بیان شده، یک الگوی ریتمیک مشاهده می‌شود که شامل تکرار یک نوع بخش یا لحن صوتی خاص است. "
+    },
+    {
+      "VOrder": 117,
+      "Position": "Paragraph",
+      "Text": "قافیه: ایطاء جلی چون شنیدن آرند ولی شنفتن صحیح و خالی از ایطاء است",
+      "CoupletIndex": 94,
+      "CoupletSummary": "هوش مصنوعی: قافیه: در شعر، قافیه‌ای که به شکل \u0022ایطاء جلی\u0022 بیان می‌شود، وقتی استفاده می‌شود که گفته شده \u0022شنیدن\u0022، اما درست‌تر این است که بگوییم \u0022شنفتن\u0022، زیرا این شکل خالی از ایراد است."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Paragraph",
+      "Text": "بحر: رمل مثمن سالم",
+      "CoupletIndex": 95,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به معنای یک منطقه خاص اشاره شده که به شکل رمل (دشت شنی) و با ویژگی‌های خاصی توصیف شده است."
+    },
+    {
+      "VOrder": 119,
+      "Position": "Paragraph",
+      "Text": "صنعت: حشو متوسط",
+      "CoupletIndex": 96,
+      "CoupletSummary": "هوش مصنوعی: حشو متوسط به معنای اضافه‌گویی و یا پر کردن مطالب به گونه‌ای است که به محتوا ارزش افزوده‌ای ندهد، بلکه تنها متن را طولانی‌تر کند. در این نوع حشو، کلمات و جملات اضافه بدون اینکه اطلاعاتی جدید ارائه دهند، به متن افزوده می‌شوند و ممکن است خواننده را خسته کنند. این نوع نگارش معمولاً در زمانی استفاده می‌شود که نویسنده بخواهد یک متن را به صورت مصنوعی طولانی کند، اما این کار می‌تواند تأثیر منفی بر کیفیت محتوا داشته باشد."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Paragraph",
+      "Text": "کی اجل این معذرت را خواهد از اعدا شنیدن",
+      "CoupletIndex": 97,
+      "CoupletSummary": "هوش مصنوعی: کی می‌دانیم که چه زمانی دشمنان این عذر را خواهند شنید؟"
+    },
+    {
+      "VOrder": 121,
+      "Position": "Paragraph",
+      "Text": "خصم تو خواهد اگر عذر کج القصه گفتن",
+      "CoupletIndex": 98,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی از رفتارت عذرخواهی کنی، باید به طور واضح و منطقی صحبت کنی."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Paragraph",
+      "Text": "کی اجل این معذرت را خواهد از اعدا شنفتن",
+      "CoupletIndex": 99,
+      "CoupletSummary": "هوش مصنوعی: کی باشد که این عذر را از دشمنان بشنود؟"
+    },
+    {
+      "VOrder": 123,
+      "Position": "Paragraph",
+      "Text": "خصم تو خواهد اگر عذر کج القصه گفت",
+      "CoupletIndex": 100,
+      "CoupletSummary": "هوش مصنوعی: اگر دشمن تو عذری بیاورد که راست و درست نباشد، آن را نمی‌پذیرد."
+    },
+    {
+      "VOrder": 124,
+      "Position": "Paragraph",
+      "Text": "کی اجل این معذرت را خواهد از اعدا شنفت",
+      "CoupletIndex": 101,
+      "CoupletSummary": "هوش مصنوعی: کی می‌داند که دشمنان چه زمانی از این معذرت خواهی خواهند شنید؟"
+    },
+    {
+      "VOrder": 125,
+      "Position": "Paragraph",
+      "Text": "ایندو بیت هم از بالا مستخرج است",
+      "CoupletIndex": 102,
+      "CoupletSummary": "هوش مصنوعی: این دو بیت نیز از متن فوق برداشت شده است."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Right",
+      "Text": "نواز یار و بران دشمنان دولت را",
+      "CoupletIndex": 103,
+      "SectionIndex1": 9,
+      "CoupletSummary": "هوش مصنوعی: نوازش دوستان و محبت به آن‌ها را فراموش نکن و مبادا به دشمنان و بدخواهان بی‌توجهی کنی. اگر گوش دل به حرف حق بسپارند، باید به آن اعتراف کنند."
+    },
+    {
+      "VOrder": 127,
+      "Position": "Left",
+      "Text": "مکن بقول بدان گوش اگر کنند اقرار",
+      "CoupletIndex": 103,
+      "SectionIndex1": 9
+    },
+    {
+      "VOrder": 128,
+      "Position": "Right",
+      "Text": "سرش ببر که نه عمرت دراز گفت و مهل",
+      "CoupletIndex": 104,
+      "SectionIndex1": 9,
+      "CoupletSummary": "هوش مصنوعی: سرش را ببر که عمر تو طولانی نیست و هرزه‌گویی‌ها را به راحتی نشنیده بگیر و انکار کن."
+    },
+    {
+      "VOrder": 129,
+      "Position": "Left",
+      "Text": "که هرزه پیش تو خایند وژاژ از انکار",
+      "CoupletIndex": 104,
+      "SectionIndex1": 9
+    },
+    {
+      "VOrder": 130,
+      "Position": "Paragraph",
+      "Text": "بران دشمنان را که عمرت دراز",
+      "CoupletIndex": 105,
+      "CoupletSummary": "هوش مصنوعی: دشمنان را زیر فشار قرار بده که زندگی‌ات طولانی باشد."
+    },
+    {
+      "VOrder": 131,
+      "Position": "Paragraph",
+      "Text": "تقطیع: فعولن فعولن فعولن فعول",
+      "CoupletIndex": 106,
+      "CoupletSummary": "هوش مصنوعی: این نوع وزن شعری شامل چهار گروه از هجای \u0022فعولن\u0022 است که هر گروه از دو بخش تشکیل شده است. به طور کلی، این الگو در شعر به ایجاد ریتم و آهنگ کمک می‌کند و به شاعر اجازه می‌دهد تا احساسات و معانی خود را به شیوه‌ای موزون و زیبا بیان کند."
+    },
+    {
+      "VOrder": 132,
+      "Position": "Paragraph",
+      "Text": "قافیه: اکفاء",
+      "CoupletIndex": 107,
+      "CoupletSummary": "هوش مصنوعی: قافیه: همتایان"
+    },
+    {
+      "VOrder": 133,
+      "Position": "Paragraph",
+      "Text": "بحر: متقارب مقصور",
+      "CoupletIndex": 108,
+      "CoupletSummary": "هوش مصنوعی: بحر متقارب مقصور یکی از قالب‌های شعر فارسی است که دارای وزنی خاص و قواعد مشخصی می‌باشد. این نوع شعر به خاطر ریتم و آهنگ زیبا و همچنین مضامین خاص خود، مورد توجه شاعران و ادیبان قرار گرفته است. عمدتاً در این قالب، شاعران به بیان احساسات عمیق و موضوعات اجتماعی و فلسفی می‌پردازند."
+    },
+    {
+      "VOrder": 134,
+      "Position": "Paragraph",
+      "Text": "صنعت: حشو ملیح",
+      "CoupletIndex": 109,
+      "CoupletSummary": "هوش مصنوعی: صنعت حشو ملیح به معنای زیبایی و جذابیت در کارهای هنری و صنایع دستی است، که در آن توجه به جزئیات و استفاده از مواد با کیفیت، تأکید زیادی دارد. این صنعت معمولاً شامل خلق آثار هنری است که نه تنها از نظر ظاهری زیبا هستند، بلکه دارای معنا و ارزش‌های فرهنگی نیز می‌باشند. دلنشینی و ظرافت در این صنعت موجب جذب علاقه‌مندان و تأثیرگذاری بر مخاطب می‌شود."
+    },
+    {
+      "VOrder": 135,
+      "Position": "Paragraph",
+      "Text": "مکن گوش اگر هرزه خایند وژاژ",
+      "CoupletIndex": 110,
+      "CoupletSummary": "هوش مصنوعی: اگر گوش خود را به حرف‌های بیهوده و نامربوط بسپارید، ضرر خواهید کرد."
+    },
+    {
+      "VOrder": 136,
+      "Position": "Right",
+      "Text": "اگر هم افعی گنج از ره کمین شد خصم",
+      "CoupletIndex": 111,
+      "SectionIndex1": 10,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: اگرچه ممکن است دشمنان به شکل مکارانه‌ای از کمین بیرون بیایند، اما باید با شجاعت و دقت با آن‌ها مقابله کرد. در جهان، خطراتی وجود دارند که باید با آنها مواجه شد و از چنگال آنها رهایی یافت."
+    },
+    {
+      "VOrder": 137,
+      "Position": "Left",
+      "Text": "بکش زکین عدوالبت ستان جهان زان مار",
+      "CoupletIndex": 111,
+      "SectionIndex1": 10,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 138,
+      "Position": "Right",
+      "Text": "یقین که زود بیابی نمایش عالم",
+      "CoupletIndex": 112,
+      "SectionIndex1": 10,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: به زودی نمایان خواهد شد که عالم چطور است، وقتی که با قدم‌های روشن و حساب‌شده‌ات به دورش بگردی."
+    },
+    {
+      "VOrder": 139,
+      "Position": "Left",
+      "Text": "چو بر محیط گشایی قدم بدین پرگار",
+      "CoupletIndex": 112,
+      "SectionIndex1": 10,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 140,
+      "Position": "Right",
+      "Text": "مفکن زره منشین ز پا بنما علم",
+      "CoupletIndex": 113,
+      "SectionIndex1": 19,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: زره خود را درآور و درنگ نکن، نشان بده که در پا ایستاده‌ای، با قدرت علم را بشکن و از دشمن خود بازپس بگیر. جهان را باز کن و به جلو قدم بردار."
+    },
+    {
+      "VOrder": 141,
+      "Position": "Left",
+      "Text": "بشکن عدو بستان جهان بگشا قدم",
+      "CoupletIndex": 113,
+      "SectionIndex1": 19,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 142,
+      "Position": "Paragraph",
+      "Text": "قدم بگشا جهان بستان عدو بشکن",
+      "CoupletIndex": 114,
+      "CoupletSummary": "هوش مصنوعی: حرکت کن و با قدم‌های خود به جهانی جدید وارد شو و دشمنان را شکست بده."
+    },
+    {
+      "VOrder": 143,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مستفعلن ۳ بار- متفاعلن ۳ بار، بیت دوم مفاعیلن ۳ بار- مفاعلتن ۳ بار",
+      "CoupletIndex": 115,
+      "CoupletSummary": "هوش مصنوعی: تقطیع در اینجا به الگوی شعری اشاره دارد که شامل اندازه‌های مشخصی از هجاها است. در این الگو، یک وزن شعری به شکل \u0022مستفعلن\u0022 سه بار و بعد \u0022متفاعلن\u0022 سه بار تکرار می‌شود. در بیت دوم نیز ابتدا \u0022مفاعیلن\u0022 سه بار و سپس \u0022مفاعلتن\u0022 سه بار به کار می‌رود."
+    },
+    {
+      "VOrder": 144,
+      "Position": "Paragraph",
+      "Text": "بحر: بیت اول رجز- کامل بیت دوم: هزج- وافر",
+      "CoupletIndex": 116,
+      "CoupletSummary": "هوش مصنوعی: بحر شعری در اینجا به نوع و وزن شعر اشاره دارد. در این نوع، اولین بیت با وزن رجز شروع می‌شود و سپس بیت دوم به طور کامل با وزن هزج و وافر پی گرفته می‌شود. این توالی نشان‌دهنده ترکیبی از اوزان مختلف در شعر است."
+    },
+    {
+      "VOrder": 145,
+      "Position": "Paragraph",
+      "Text": "قافیه: لزوم مالایلزم",
+      "CoupletIndex": 117,
+      "CoupletSummary": "هوش مصنوعی: لزوم مالایلزم به معنای این است که یک چیز به‌ طور طبیعی یا منطقی از دیگری ناشی می‌شود و برای درک یا پذیرش آن لزوم وجود دارد. به عبارت دیگر، اگر چیزی الزامی باشد، باید حتماً توجه یا اقداماتی در راستای آن صورت گیرد. این مفهوم به ما کمک می‌کند تا بهتر بفهمیم که برخی از وقایع یا وضعیت‌ها به طور طبیعی نیازمند واکنش یا توجه خاصی هستند."
+    },
+    {
+      "VOrder": 146,
+      "Position": "Paragraph",
+      "Text": "صنعت: ذوبحرین – قلب مستوی",
+      "CoupletIndex": 118,
+      "CoupletSummary": "هوش مصنوعی: صنعت: ذوب بحرین - مرکز سطحی"
+    },
+    {
+      "VOrder": 147,
+      "Position": "Paragraph",
+      "Text": "علم بنما زپا منشین زره مفکن",
+      "CoupletIndex": 119,
+      "CoupletSummary": "هوش مصنوعی: علم را بیاموز و از زیر سایه جهل خارج شو."
+    },
+    {
+      "VOrder": 148,
+      "Position": "Right",
+      "Text": "هبا شمار و هدر سجده هر چه پیشت نیست",
+      "CoupletIndex": 120,
+      "SectionIndex1": 11,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: هر چه که در راه تو نیست و به پیش تو نمی‌آید، ارزشی ندارد. سجده کردن بر دیوار، یعنی احترام گذاشتن بی‌دلیل به چیزی که حقیقتاً بی‌معناست."
+    },
+    {
+      "VOrder": 149,
+      "Position": "Left",
+      "Text": "که جز به پیش تو بودست سجده بر دیوار",
+      "CoupletIndex": 120,
+      "SectionIndex1": 11,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 150,
+      "Position": "Right",
+      "Text": "هوای نفس ترا نیست لهوی و لغوی",
+      "CoupletIndex": 121,
+      "SectionIndex1": 11,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: تمایلات نفسانی تو بیهوده و غیرمفید نیست، بلکه صحبت کردن در مورد این مسائل تنها نشانه‌ای از غفلت است. حقیقت این است که باید از این موارد عذرخواهی کرد و به خود بازگشت."
+    },
+    {
+      "VOrder": 151,
+      "Position": "Left",
+      "Text": "سخن درین بتو سهویست الحق استغفار",
+      "CoupletIndex": 121,
+      "SectionIndex1": 11,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 152,
+      "Position": "Right",
+      "Text": "در سجده چو سهوست لهو و لغوی",
+      "CoupletIndex": 122,
+      "SectionIndex1": 11,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: هنگامی که در حال سجده هستیم و اگر دچار اشتباه یا بی‌توجهی شویم، فقط در پیشگاه توست که سجده‌ام به این خاطر محاسبه می‌شود."
+    },
+    {
+      "VOrder": 153,
+      "Position": "Left",
+      "Text": "جز پیش تو بودست سجده سهوی",
+      "CoupletIndex": 122,
+      "SectionIndex1": 11,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 154,
+      "Position": "Paragraph",
+      "Text": "در سجده چو سهو لهو و لغوی",
+      "CoupletIndex": 123,
+      "CoupletSummary": "هوش مصنوعی: در حین سجده، اگر فراموشی یا اشتباهی در کار باشد، نباید به آن اهمیت داد."
+    },
+    {
+      "VOrder": 155,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفعول مفاعیل فاعلاتن، دومی مفعول مفاعلن فعولن",
+      "CoupletIndex": 124,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به معنای تقسیم و بخش‌بندی ساختارهای موسیقایی یا شعری است. در اینجا به دو نوع مختلف از تقطیع اشاره شده است: یکی با الگوی \u0022مفعول مفاعیل فاعلاتن\u0022 و دیگری با الگوی \u0022مفعول مفاعلن فعولن\u0022. این الگوها نشان‌دهنده ساختارهای ریتمیک در شعر هستند که برای ایجاد آهنگ و قافیه در اثر مورد استفاده قرار می‌گیرند."
+    },
+    {
+      "VOrder": 156,
+      "Position": "Paragraph",
+      "Text": "بحر: قریب اخرب، دومی هزج مسدس اخرب مقبوض محذوف",
+      "CoupletIndex": 125,
+      "CoupletSummary": "هوش مصنوعی: بحر: نزدیک به نوعی دیگر، دومین نوع هزج مسدس به صورت مختصر و بدون برخی از اجزا."
+    },
+    {
+      "VOrder": 157,
+      "Position": "Paragraph",
+      "Text": "قافیه: معیوب باختلاف حرف قید",
+      "CoupletIndex": 126,
+      "CoupletSummary": "هوش مصنوعی: قافیه: ناهماهنگ با تفاوت در حرف قید."
+    },
+    {
+      "VOrder": 158,
+      "Position": "Paragraph",
+      "Text": "صنعت: تدارک",
+      "CoupletIndex": 127,
+      "CoupletSummary": "هوش مصنوعی: تدارک به فعالیت‌هایی اشاره دارد که در آن‌ها منابع و مواد لازم برای تولید یا ارائه خدمات تهیه و آماده می‌شود. این فرایند می‌تواند شامل برنامه‌ریزی، خرید مواد اولیه، سازماندهی و توزیع منابع باشد تا اطمینان حاصل شود که همه چیز به درستی و در زمان مناسب برای اجرا و راه‌اندازی آماده است. تدارک نقش مهمی در مدیریت زنجیره تأمین و تضمین کیفیت خدمات یا محصولات نهایی ایفا می‌کند."
+    },
+    {
+      "VOrder": 159,
+      "Position": "Paragraph",
+      "Text": "جز پیش تو بوده سجده سهوی",
+      "CoupletIndex": 128,
+      "CoupletSummary": "هوش مصنوعی: به جز در حضور تو، سجده‌ی ناخواسته‌ای انجام شده است."
+    },
+    {
+      "VOrder": 160,
+      "Position": "Right",
+      "Text": "ملول شاد بود هم بعهد چون تو عزیز",
+      "CoupletIndex": 129,
+      "SectionIndex1": 12,
+      "CoupletSummary": "هوش مصنوعی: غمگین هم خوشحال است چون تو عزیز، گلی که در روزگارت شکفته است، هزار بار زیبا و شاداب شده."
+    },
+    {
+      "VOrder": 161,
+      "Position": "Left",
+      "Text": "گل شکفته در ایام تو شدست هزار",
+      "CoupletIndex": 129,
+      "SectionIndex1": 12
+    },
+    {
+      "VOrder": 162,
+      "Position": "Right",
+      "Text": "از آنکه خوارزمانست تا بدانکه گل است",
+      "CoupletIndex": 130,
+      "SectionIndex1": 12,
+      "CoupletSummary": "هوش مصنوعی: همه چیز از موجودات کم ارزش تا چیزهای زیبا و گل‌ها به خاطر تو و در مسیر تو ساخته شده است. حتی خارهای زمین هم به خاطر تو به وجود آمده‌اند و در راه تو قرار گرفته‌اند."
+    },
+    {
+      "VOrder": 163,
+      "Position": "Left",
+      "Text": "کنند خار زمین در رهت ز راهگذار",
+      "CoupletIndex": 130,
+      "SectionIndex1": 12
+    },
+    {
+      "VOrder": 164,
+      "Position": "Paragraph",
+      "Text": "شد بعهدت عزیز خوار زمان",
+      "CoupletIndex": 131,
+      "CoupletSummary": "هوش مصنوعی: این جمله به معنای آن است که کسی در برابر چالش‌ها یا مشکلاتی که زمان به وجود می‌آورد، قوی و مقاوم باقی مانده است. در واقع، این بیان نشان‌دهنده توجه به وفاداری به یک عهد و پیمان در شرایط سخت است."
+    },
+    {
+      "VOrder": 165,
+      "Position": "Paragraph",
+      "Text": "تقطیع: فاعلاتن مفاعلن فعلان",
+      "CoupletIndex": 132,
+      "CoupletSummary": "هوش مصنوعی: تقطیع، به تقسیم و تنظیم سرود یا شعر براساس وزن و قافیه آن اشاره دارد. در اینجا سه نوع وزن شعری با الگوهای مشخص بیان شده است: “فاعلاتن”، “مفاعلن” و “فعلان”، که هر یک به نوعی از ساختار و ریتم در شعر اشاره دارد. این الگوها به شعر نظم و هماهنگی می‌بخشند و می‌توانند تأثیر زیادی بر آهنگ و خوانش آن داشته باشند."
+    },
+    {
+      "VOrder": 166,
+      "Position": "Paragraph",
+      "Text": "قافیه: سناد: اختلاف ردف",
+      "CoupletIndex": 133,
+      "CoupletSummary": "هوش مصنوعی: قافیه به معنای هماهنگی و تکرار صداها در پایان واژه‌ها است. سناد به معنای مرجع یا منابع مستند برای یک ادعا یا روایت می‌باشد. اختلاف ردف به معنای تفاوت یا انحراف در ترتیب واژه‌ها یا جملات است."
+    },
+    {
+      "VOrder": 167,
+      "Position": "Paragraph",
+      "Text": "بحر: خفیف مسدس محذوف صدر و ابتداء سالم",
+      "CoupletIndex": 134,
+      "CoupletSummary": "هوش مصنوعی: بحر: نوعی وزن شعری که دارای حروفی با ویژگی‌های خاص است. در این وزن، بخش ابتدایی و انتهایی آن حذف شده و قسمت میانی سالم و بدون تغییر باقی مانده است."
+    },
+    {
+      "VOrder": 168,
+      "Position": "Paragraph",
+      "Text": "صنعت: محتمل الضدین",
+      "CoupletIndex": 135,
+      "CoupletSummary": "هوش مصنوعی: صنعت: محتمل الضدین به معنای وجود دو احتمال متضاد یا مختلف در یک زمینه خاص است. این اصطلاح معمولاً در مباحث علمی و فلسفی به کار می‌رود و به بررسی شرایط، نتایج یا پیامدهای احتمالی مختلف اشاره دارد. در این زمینه، امکان بروز دو نتیجه مخالف به طور همزمان وجود دارد و تحلیل آن می‌تواند به انتخاب‌های هوشمندانه‌تر و تصمیم‌گیری‌های بهتری منجر شود."
+    },
+    {
+      "VOrder": 169,
+      "Position": "Paragraph",
+      "Text": "گل در ایام تست خار زمین",
+      "CoupletIndex": 136,
+      "CoupletSummary": "هوش مصنوعی: گل در زمان‌های سخت و دشوار به مانند خار زمین است."
+    },
+    {
+      "VOrder": 170,
+      "Position": "Right",
+      "Text": "یقین که جامه تو دوزی ابر قدر هر کس",
+      "CoupletIndex": 137,
+      "SectionIndex1": 13,
+      "CoupletSummary": "هوش مصنوعی: قطعاً تو مانند ابر نیکوکار، با دقت و ظرافت، برای هر کسی لباس دوخته‌ای و آسمان نیز به تو دو لباس بافته است که مانند اطلس زیبا و ارزشمند به نظر می‌رسند."
+    },
+    {
+      "VOrder": 171,
+      "Position": "Left",
+      "Text": "تو داده مهر و فلک را دو جامه اطلس وار",
+      "CoupletIndex": 137,
+      "SectionIndex1": 13
+    },
+    {
+      "VOrder": 172,
+      "Position": "Paragraph",
+      "Text": "جامه تو دوزی برقد هر کس",
+      "CoupletIndex": 138,
+      "CoupletSummary": "هوش مصنوعی: هر کس باید با مهارت و دقت لباس خود را بدوزد."
+    },
+    {
+      "VOrder": 173,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفتعلن فع مفتعلن فع",
+      "CoupletIndex": 139,
+      "CoupletSummary": "هوش مصنوعی: تقطیع در واقع تقسیم یک میان متن به اجزای کوچک‌تر است که به ما کمک می‌کند تا وزن یا ساختار شعری آن را بهتر درک کنیم. در اینجا، الگوی \u0022مفتعلن فع مفتعلن فع\u0022 نشان‌دهنده یک نوع قافیه و ریتم مشخص در شعر است. این الگو می‌تواند به شاعر کمک کند تا فرم شاعرانه را دقیقا رعایت کند و به آهنگین شدن شعر افزوده شود."
+    },
+    {
+      "VOrder": 174,
+      "Position": "Paragraph",
+      "Text": "قافیه: متواتر",
+      "CoupletIndex": 140
+    },
+    {
+      "VOrder": 175,
+      "Position": "Paragraph",
+      "Text": "بحر: منسرح مطوی منحور",
+      "CoupletIndex": 141,
+      "CoupletSummary": "هوش مصنوعی: این عبارت به نوعی توصیف شاعرانه یا ادبی می‌پردازد. به نظر می‌رسد که \u0022بحر\u0022 به معنای دریا یا اقیانوس است و \u0022منسرح مطوی منحور\u0022 نیز به توصیف ویژگی‌های زیبای این دریا اشاره می‌کند. به طور کلی، می‌توان گفت که این جمله با استفاده از واژگان نام آشنا، تصویری دلنشین و جذاب از دریا را به ذهن می‌آورد."
+    },
+    {
+      "VOrder": 176,
+      "Position": "Paragraph",
+      "Text": "صنعت: مدح موجه",
+      "CoupletIndex": 142,
+      "CoupletSummary": "هوش مصنوعی: صنعت: تحسین قابل توجیه"
+    },
+    {
+      "VOrder": 177,
+      "Position": "Paragraph",
+      "Text": "داده فلک را جامه اطلس",
+      "CoupletIndex": 143,
+      "CoupletSummary": "هوش مصنوعی: داده‌های آسمان را با لباس ابریشمی پوشانده‌اند."
+    },
+    {
+      "VOrder": 178,
+      "Position": "Right",
+      "Text": "وجود نیست بعهد تواش ستم شاید",
+      "CoupletIndex": 144,
+      "SectionIndex1": 14,
+      "CoupletSummary": "هوش مصنوعی: در این بیت، شاعر به این نکته اشاره می‌کند که وجود و هستی نمی‌تواند تحت ظلم و ستم قرار گیرد. بلکه ممکن است روزی به مانند گذشته، ثروتمندان و قدرتمندان را از روی زمین براندازد و افراد ضعیف و ستم‌کشیده را نجات دهد."
+    },
+    {
+      "VOrder": 179,
+      "Position": "Left",
+      "Text": "که همچو روز بدان، اژدها کشد اعسار",
+      "CoupletIndex": 144,
+      "SectionIndex1": 14
+    },
+    {
+      "VOrder": 180,
+      "Position": "Right",
+      "Text": "نه هیچ کوه چو حلمت نه قلزمی چو کفت",
+      "CoupletIndex": 145,
+      "SectionIndex1": 14,
+      "CoupletSummary": "هوش مصنوعی: تو مانند کوهی استقامت داری و هیچ چیز نمی‌تواند تو را از پا درآورد. خشم تو نیز همچون آتش قوی و مخرب است و هیچ چیز تاب مقاومت در برابر آن را ندارد."
+    },
+    {
+      "VOrder": 181,
+      "Position": "Left",
+      "Text": "نه لمعه ایست چو قهر تو قاطع الاعمار",
+      "CoupletIndex": 145,
+      "SectionIndex1": 14
+    },
+    {
+      "VOrder": 182,
+      "Position": "Right",
+      "Text": "به از تو نیست وجیهی بهیچ رو در دهر",
+      "CoupletIndex": 146,
+      "SectionIndex1": 14,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس در دنیا مانند تو چهره‌ای زیبا و دلپذیر ندارد و برتری تو از هر لحاظ و در هر زمان واضح و روشن است. تو در میان مردم رهبری فرزانه و بزرگوار به شمار می‌آیی."
+    },
+    {
+      "VOrder": 183,
+      "Position": "Left",
+      "Text": "گشاده روی و بلند اختر و جهان سالار",
+      "CoupletIndex": 146,
+      "SectionIndex1": 14
+    },
+    {
+      "VOrder": 184,
+      "Position": "Paragraph",
+      "Text": "چیست بدست شاه گو قلزمی از چهی بدر",
+      "CoupletIndex": 147,
+      "CoupletSummary": "هوش مصنوعی: بپرس از شاه که چرا قلزمی از چه چیزی به بیرون آمده است."
+    },
+    {
+      "VOrder": 185,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفتلعن مفاعلن مفتعلن مفاعلن",
+      "CoupletIndex": 148,
+      "CoupletSummary": "هوش مصنوعی: تقطیع شعری به معنای تقسیم و تحلیل وزن و آهنگ شعراست. در این شیوه، ابتدا الگوهای وزنی شعر شناسایی می‌شوند تا فهم بهتری از ساختار آن به دست آید. در این مثال، الگوی مشخصی از انواع هجای مفاعیل و مفتعلن استفاده شده که نمایان‌گر ریتم و جریانی خاص در شعر است."
+    },
+    {
+      "VOrder": 186,
+      "Position": "Paragraph",
+      "Text": "قافیه: متدارک",
+      "CoupletIndex": 149,
+      "CoupletSummary": "هوش مصنوعی: این واژه به معنای آماده و مهیا بودن برای انجام کاری و یا پاسخ‌گویی به نیازها و چالش‌هاست. به نوعی، به وضعیتی اشاره می‌کند که در آن فرد یا گروه برای رویارویی با مشکلات و مسائلی که ممکن است پیش بیاید، خود را آماده کرده‌اند."
+    },
+    {
+      "VOrder": 187,
+      "Position": "Paragraph",
+      "Text": "بحر: رجز مطوی مخبون",
+      "CoupletIndex": 150,
+      "CoupletSummary": "هوش مصنوعی: بحر: شعر یا سخن مختصری که به صورت مخفی و پنهان بیان شده است."
+    },
+    {
+      "VOrder": 188,
+      "Position": "Paragraph",
+      "Text": "صنعت: لغز«ذوالفقار»",
+      "CoupletIndex": 151,
+      "CoupletSummary": "هوش مصنوعی: لغز \u0022ذوالفقار\u0022 به نوعی اشاره به صنعت خاصی دارد، که ممکن است به یک زمینه تولیدی یا تجارتی معین مربوط شود. این لغز می‌تواند نمادی از پیشرفت‌ها، چالش‌ها یا ویژگی‌های بارز آن صنعت باشد."
+    },
+    {
+      "VOrder": 189,
+      "Position": "Paragraph",
+      "Text": "همچو زبان اژدها شعله آتشی دو سر",
+      "CoupletIndex": 152,
+      "CoupletSummary": "هوش مصنوعی: زبان او مانند زبان اژدها است که شعلۀ آتشی دو سر دارد."
+    },
+    {
+      "VOrder": 190,
+      "Position": "Right",
+      "Text": "از آن مهارت و آن لطف و طبع نیست محال",
+      "CoupletIndex": 153,
+      "SectionIndex1": 15,
+      "CoupletSummary": "هوش مصنوعی: دست‌یابی به هنر و لطف و روحیه‌ای که در اختیار داری، امکان‌پذیر است که در میان دریایی از ذکرها به سخنان او گوش بسپاری."
+    },
+    {
+      "VOrder": 191,
+      "Position": "Left",
+      "Text": "که استماع کنی در میان بحر اذکار",
+      "CoupletIndex": 153,
+      "SectionIndex1": 15
+    },
+    {
+      "VOrder": 192,
+      "Position": "Right",
+      "Text": "دوان سواره چو خصم آمدت بره استاد",
+      "CoupletIndex": 154,
+      "SectionIndex1": 15,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دشمن به سرعت به طرف تو می‌آید، بدان که مانند یک بره زخمی و بی‌چاره شده است و برای نجات او تنها یاری خداوند می‌تواند کمک کننده باشد."
+    },
+    {
+      "VOrder": 193,
+      "Position": "Left",
+      "Text": "شکسته حال شدست او بیاری دادار",
+      "CoupletIndex": 154,
+      "SectionIndex1": 15
+    },
+    {
+      "VOrder": 194,
+      "Position": "Paragraph",
+      "Text": "ز مهر و لطف بیحد آن سوار آمد بره استاد",
+      "CoupletIndex": 155,
+      "CoupletSummary": "هوش مصنوعی: با مهربانی و لطف فراوان آن سوار آمد و بر استاد خود نشست."
+    },
+    {
+      "VOrder": 195,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفاعیلن مفاعیلن مفاعیلن مفاعیلان",
+      "CoupletIndex": 156,
+      "CoupletSummary": "هوش مصنوعی: این نوع تقطیع شعری به فرم مفاعیلن و مفاعیلان اشاره دارد و نشان‌دهنده ساختار موزون و قافیه‌ای در شعر است. این الگو معمولاً در شعرهای کلاسیک فارسی و عربی به کار می‌رود و به ایجاد ریتم و هارمونی در متن کمک می‌کند."
+    },
+    {
+      "VOrder": 196,
+      "Position": "Paragraph",
+      "Text": "قافیه: مترادف",
+      "CoupletIndex": 157,
+      "CoupletSummary": "هوش مصنوعی: قافیه به معنای مترادف است."
+    },
+    {
+      "VOrder": 197,
+      "Position": "Paragraph",
+      "Text": "بحر:هزج مثمن مسبغ",
+      "CoupletIndex": 158,
+      "CoupletSummary": "هوش مصنوعی: بحر \u0022هزج مثمن مسبغ\u0022 یکی از انواع قالب های شعری در سبک عربی است که دارای ویژگی‌های خاصی است. این قالب شعری از هشت وزن متفاوت تشکیل شده و در آن هر بیت شعری دارای نوعی ریتم و قافیه خاص است. این نوع شعر معمولاً در ادبیات عربی به کار می‌رود و می‌تواند احساسات و مفاهیم مختلفی را به تصویر بکشد."
+    },
+    {
+      "VOrder": 198,
+      "Position": "Paragraph",
+      "Text": "صنعت: معما باسم شاه سلطان اسماعیل بهادر",
+      "CoupletIndex": 159,
+      "CoupletSummary": "هوش مصنوعی: موضوع این متن درباره صنعتی است که به نام شاه سلطان اسماعیل بهادر شناخته می‌شود. این صنعت ممکن است به یکی از حوزه‌های هنری، فرهنگی یا تکنولوژیکی مرتبط باشد که نام این شخصیت تاریخی را به خود اختصاص داده است. شاه سلطان اسماعیل بهادر ممکن است به عنوان یک الگو یا الهام‌بخش در این صنعت مورد توجه قرار گرفته باشد."
+    },
+    {
+      "VOrder": 199,
+      "Position": "Paragraph",
+      "Text": "سماعی در میان کشته حالش دست یاری داد",
+      "CoupletIndex": 160,
+      "CoupletSummary": "هوش مصنوعی: در میان کشته‌ها، حالتی به وجود آمد که دست یاری به شخصی رسید."
+    },
+    {
+      "VOrder": 200,
+      "Position": "Right",
+      "Text": "از آن کسی که ترا داده جان و خندیده",
+      "CoupletIndex": 161,
+      "SectionIndex1": 16,
+      "CoupletSummary": "هوش مصنوعی: به کسی که جان تو را به او سپرده‌ای و در کنار تو به خوشحالی می‌گذرانید، ابراز محبت کن و دین خود را به او بده، زیرا او از بسیاری از نیکان و افراد خوب بیشتر است."
+    },
+    {
+      "VOrder": 201,
+      "Position": "Left",
+      "Text": "بمال و دین همه بینند بیشش از اخیار",
+      "CoupletIndex": 161,
+      "SectionIndex1": 16
+    },
+    {
+      "VOrder": 202,
+      "Position": "Right",
+      "Text": "مرید چون سر خود داده است و خشنودست",
+      "CoupletIndex": 162,
+      "SectionIndex1": 16,
+      "CoupletSummary": "هوش مصنوعی: شاگرد چون به استاد خود تسلیم شده و از این کار راضی است، به هدف خود رسیده و در این مسیر درک روشنی پیدا کرده است."
+    },
+    {
+      "VOrder": 203,
+      "Position": "Left",
+      "Text": "مراد دیده و در سود دارد استشهار",
+      "CoupletIndex": 162,
+      "SectionIndex1": 16
+    },
+    {
+      "VOrder": 204,
+      "Position": "Paragraph",
+      "Text": "کسی خندیده چون سر داده خشنود",
+      "CoupletIndex": 163,
+      "CoupletSummary": "هوش مصنوعی: کسی به خوشحالی خندیده است، چون صدای شادی را از خود بیرون داده است."
+    },
+    {
+      "VOrder": 205,
+      "Position": "Paragraph",
+      "Text": "تقطیع: مفاعیلن مفاعیلن مفاعیل",
+      "CoupletIndex": 164,
+      "CoupletSummary": "هوش مصنوعی: تقطیع این حماسه به صورت مفاعیلن مفاعیلن مفاعیل است."
+    },
+    {
+      "VOrder": 206,
+      "Position": "Paragraph",
+      "Text": "قافیه: مترادف",
+      "CoupletIndex": 165,
+      "CoupletSummary": "هوش مصنوعی: قافیه به معنی واژه‌هایی است که در پایان خود به یکدیگر شباهت دارند و می‌توانند در شعرها و متون ادبی به کار بروند. همچنین، به معنای مترادف نیز به کار می‌رود، یعنی واژه‌هایی که مفهوم مشابهی دارند."
+    },
+    {
+      "VOrder": 207,
+      "Position": "Paragraph",
+      "Text": "بحر: هزج مسدس مقصور",
+      "CoupletIndex": 166,
+      "CoupletSummary": "هوش مصنوعی: بحر هزج مسدس مقصور به نوعی از وزن شعری اشاره دارد که دارای شش هجا و قافیه مشخصی است. این وزن معمولاً در شعر فارسی برای ایجاد اوزان موزون و ملایم استفاده می‌شود و به شعر حالت دلنشینی می‌بخشد. در این نوع شعر، بر روی برخی از هجاها تأکید بیشتری وجود دارد که به زیبایی آن افزوده و بر جذابیت کلام تأثیر می‌گذارد."
+    },
+    {
+      "VOrder": 208,
+      "Position": "Paragraph",
+      "Text": "صنعت: معما باسم شیخ نجم الدین ابواسحاق مسعود",
+      "CoupletIndex": 167,
+      "CoupletSummary": "هوش مصنوعی: عنوان این متن به یک صنعت اشاره دارد که به نام شیخ نجم الدین ابواسحاق مسعود شناخته می‌شود. این صنعت ممکن است به نوع خاصی از کار یا هنر مرتبط با این شخصیت تاریخی مربوط باشد و حاوی نکات یا موضوعات معمایی باشد که نیاز به بررسی و تحلیل دارد."
+    },
+    {
+      "VOrder": 209,
+      "Position": "Paragraph",
+      "Text": "بمال و دین مبینش دیده در سود",
+      "CoupletIndex": 168,
+      "CoupletSummary": "هوش مصنوعی: با زحمت و کوشش، به دست آوردن علم و دین حق را فراموش نکنید."
+    },
+    {
+      "VOrder": 210,
+      "Position": "Right",
+      "Text": "یقین که این هنر اهلی از کرامت شاه",
+      "CoupletIndex": 169,
+      "SectionIndex1": 17,
+      "CoupletSummary": "هوش مصنوعی: این هنر، به دلیل شخصیت والای شاه است که برجسته و منحصر به فرد است و هیچ یک از هنرهای دیگران به پای آن نمی‌رسد."
+    },
+    {
+      "VOrder": 211,
+      "Position": "Left",
+      "Text": "چو هست نیست هنرهای دیگران بشمار",
+      "CoupletIndex": 169,
+      "SectionIndex1": 17
+    },
+    {
+      "VOrder": 212,
+      "Position": "Right",
+      "Text": "نوید ازین سخن آن دان که بشنود شاهش",
+      "CoupletIndex": 170,
+      "SectionIndex1": 17,
+      "CoupletSummary": "هوش مصنوعی: این سخن نوید می‌دهد که اگر شاه آن را بشنود، خوب است؛ وگرنه ممکن است شعرهای من موجب ناامیدی من شود."
+    },
+    {
+      "VOrder": 213,
+      "Position": "Left",
+      "Text": "و گر نه موجب حرمان من شود اشعار",
+      "CoupletIndex": 170,
+      "SectionIndex1": 17
+    },
+    {
+      "VOrder": 214,
+      "Position": "Paragraph",
+      "Text": "هنر اهلی اگر شاه سخندان شنود",
+      "CoupletIndex": 171,
+      "CoupletSummary": "هوش مصنوعی: اگر شاه سخندان هنر اهلی را بشنود،"
+    },
+    {
+      "VOrder": 215,
+      "Position": "Paragraph",
+      "Text": "تقطیع: فعلاتن فعلاتن فعلاتن فعلن",
+      "CoupletIndex": 172,
+      "CoupletSummary": "هوش مصنوعی: تقطیع به تقسیم یک اثر ادبی یا موسیقایی به بخش‌های کوچکتر و مشخص اشاره دارد، و در اینجا به الگویی خاص از هجاها و وزن‌ها در شعر یا موسیقی اشاره می‌شود که شامل تکرار یک الگوی معین است. این الگو می‌تواند به صورت خاصی از هجاها تشکیل شده باشد که به نوعی ریتم و ساختار را در اثر ایجاد می‌کند."
+    },
+    {
+      "VOrder": 216,
+      "Position": "Paragraph",
+      "Text": "قافیه: متراکب",
+      "CoupletIndex": 173,
+      "CoupletSummary": "هوش مصنوعی: متراکب به معنای جمع شدن یا انباشتن چیزها به صورت لایه لایه یا در هم است. این واژه معمولاً به حالتی اشاره دارد که چندین عنصر یا لایه بر روی یکدیگر قرار می‌گیرند و یک مجموعه پیچیده یا چگال ایجاد می‌کنند. به عبارت دیگر، متراکب نشان‌دهنده توده‌ای از اجزاء است که به صورت فشرده و نزدیک به هم قرار گرفته‌اند."
+    },
+    {
+      "VOrder": 217,
+      "Position": "Paragraph",
+      "Text": "بحر: رمل مخبون محذوف",
+      "CoupletIndex": 174,
+      "CoupletSummary": "هوش مصنوعی: بحر به معنای نوعی قالب یا الگوی شعری است که در آن وزن و قافیه مشخصی پیروی می‌شود. رمل می‌تواند به نوعی قافیه یا وزن شعر اشاره داشته باشد که نسبت به باقی قالب‌ها شکل خاصی دارد. مخبون به معنای حذف یا نبود برخی از بخش‌ها در شعر یا متن است. محذوف نیز به حذف یا از دست رفتن اشاره می‌کند."
+    },
+    {
+      "VOrder": 218,
+      "Position": "Paragraph",
+      "Text": "صنعت: تضمین",
+      "CoupletIndex": 175,
+      "CoupletSummary": "هوش مصنوعی: صنعت تضمین به معنای اطمینان از کیفیت و امنیت محصولات و خدمات است. در این زمینه، شرکت‌ها و سازمان‌ها به دنبال ایجاد و حفظ استانداردهایی هستند که بتوانند اعتماد مشتریان را جلب کنند. این صنعت شامل فرآیندها و روش‌های مختلفی است که به تشخیص و ارزیابی ریسک‌ها می‌پردازد و تلاش می‌کند تا باعث به حداقل رساندن خطاها و مشکلات احتمالی شود. در نهایت هدف این است که مصرف‌کنندگان با خیال راحت از کالاها و خدمات استفاده کنند."
+    },
+    {
+      "VOrder": 219,
+      "Position": "Paragraph",
+      "Text": "چون هنرهای دگر موجب حرمان نشود",
+      "CoupletIndex": 176,
+      "CoupletSummary": "هوش مصنوعی: زیرا هنرهای دیگر باعث ضرر و آسیب نمی‌شوند."
+    },
+    {
+      "VOrder": 220,
+      "Position": "Right",
+      "Text": "یقین قضا شده تابع بحکم تو ایشاه",
+      "CoupletIndex": 177,
+      "SectionIndex1": 18,
+      "CoupletSummary": "هوش مصنوعی: به طور قطع سرنوشت به اراده تو وابسته است؛ ستاره‌ها در مسیر تو حرکت می‌کنند و بندگان تو از وجود تو یاری می‌طلبند."
+    },
+    {
+      "VOrder": 221,
+      "Position": "Left",
+      "Text": "فلک به موکب تو بنده و تو استظهار(کذا)",
+      "CoupletIndex": 177,
+      "SectionIndex1": 18
+    },
+    {
+      "VOrder": 222,
+      "Position": "Paragraph",
+      "Text": "قضا شد تابع حکم تو ایشاه فلک موکل",
+      "CoupletIndex": 178,
+      "CoupletSummary": "هوش مصنوعی: سرنوشت تحت تأثیر اراده و تصمیمات توست، زیرا در این روزگار، فرشتگان و نیروهای آسمانی نیز به انجام خواسته‌های تو مشغولند."
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "Id": 15929,
+  "CatId": 245,
+  "Title": "قصیدهٔ شمارهٔ ۲۰ - در مدح سلطان سنجر",
+  "FullTitle": "انوری » دیوان اشعار » قصاید » قصیدهٔ شمارهٔ ۲۰ - در مدح سلطان سنجر",
+  "FullUrl": "/anvari/divan-anvari/ghaside-anvari/sh20",
+  "RhymeLetters": "یناست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن در وصف قدرت و عظمت ملکی است که تحت سایه‌ی پروردگار قرار دارد. شاعر به بیان اهمیت عدالت و انصاف در سلطنت پرداخته و تأکید می‌کند که حکومت بدون عدالت، در معرض شکست و زوال است. او به ویژگی‌های شاهی به نام سنجر اشاره می‌کند که در عین قوت و اقتدار، حامی دین و قانون است. از ضربات و چالش‌های جنگ و صلح، هجمه‌های خصم و قدرت نیکوکار در حمایت از حق گفته می‌شود. در نهایت، این متن دعایی برای بقای حکومت و خوشبختی مردم و آرزوی نیکبختی و کمک الهی به پادشاه مشکل‌گشا دارد.",
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یناست",
+      "PlainText": "ملک مصونست و حصن ملک حصین است\r\nمنت وافر خدای را که چنین است\r\nشعله باسست هرچه عرصه ملکست\r\nسایه عدلست هرچه ساحت دین است\r\nخنجر تشویش با نیام به صلح است\r\nخامه انصاف با قرار مکین است\r\nخواب که در چشم فتنه هست نه صرفست\r\nبلکه به خونابه سرشک عجین است\r\nآب که در جوی ملک هست نه تنهاست\r\nبل ز روانی دور دوام قرین است\r\nجام سپهر افتاد و درد ستم ریخت\r\nدست جهان گو که دور ماء معین است\r\nعاقله آسمان که نزد وقوفش\r\nنیک و بد روزگار جمله یقین است\r\nگرچه نگوید که اعتصام جهان را\r\nاز ملکان کیست آنکه حبل متین است\r\nدور زمان داند آنکه وقت تمسک\r\nعروه وثقی خدایگان زمین است\r\nشاه جهان سنجر آنکه بسته امرش\r\nقیصر و فغفور و رای و خان و تگین است\r\nدیر زیاد آنکه در جبین نفاذش\r\nزیر یک آیه هزار سوره مبین است\r\nشیر شکاری که داغ طاعت فرضش\r\nشیر فلک را حروف لوح سرین است\r\nآنکه ز تاثیر عین نعل سمندش\r\nقلعه بدخواه ملک رخنه چو سین است\r\nآنکه یسارش به بزم حمل گرانست\r\nوآنکه یمینش به رزم حمله گزین است\r\nبحر نه از موج واله تب و لرز است\r\nکز غم آسیب آن یسار و یمین است\r\nتیغ جهادش کشیده دید ظفر گفت\r\nآنکه بدو قایمست ذات من این است\r\nراه حوادث بزد رزانت رایش\r\nخلق چه داند که آن چه رای رزین است\r\nباره نخواهد همی جهان که جهان را\r\nامن کنون خود نگاهبان امین است\r\nعمر نیابد ستم همی که ستم را\r\nروز نخستین چو روز بازپسین است\r\nفکرت او پی برد بجاش اگر چند\r\nدر رحم مادر زمانه جنین است\r\nنعمتش از مستحق گزیر نداند\r\nگر همه در طینتش بقیت طین است\r\nبا کرم او الف که هیچ ندارد\r\nدر سرش اکنون هوای ثروت شین است\r\nای به سزا سایه خدای که دین را\r\nسایه چترت هزار حصن حصین است\r\nقهر ترا هیبتی که در شب ظلش\r\nروز سیه را هزار گونه کمین است\r\nحکم ترا روزگار زیر رکابست\r\nرای ترا آفتاب زیر نگین است\r\nتا شرف خدمت رکاب تو یابد\r\nتوسن ایام را تمنی زین است\r\nخطبه ملک ترا که داند یا رب\r\nکیست خطیبش که عرش پیش نشین است\r\nنام ترا در کنایه سکه صحیفه است\r\nنعت ترا در قرینه خطبه قرین است\r\nبا قلم خود گرفت خازن و همت\r\nهرچه قضا را ز سر غیب دفین است\r\nبی شرف مهر مشرفان وقوفت\r\nکتم عدم را کدام غث و سمین است\r\nمردمک چشم جور آبله دارد\r\nتا که بر ابروی احتیاط تو چین است\r\nتا چه قدر قدرتی که شیر علم را\r\nدر صف رزم تو مسته شیر عرین است\r\nعکس سنان در کف تو معرکه سوز است\r\nچشم زره در بر تو حادثه بین است\r\nلازم ازین است خصم منهزمت را\r\nآنکه جبینش قفا قفاش جبین است\r\nدوزخ قهر تو در عقوبت خصمت\r\nآتش خشم خدا و دیو لعین است\r\nبنده در این مختصر غرض که تو گفتی\r\nآیت تحصیل آن چو روز مبین است\r\nقاعده تهنیت همی ننهد زانک\r\nخصم نه فغفور چین و غور نه چین است\r\nگرچه هنوز از غریو لشکر خصمت\r\nجمجمه کوه پر صدای انین است\r\nورچه ز تیغ مبارزان سپاهت\r\nسنگ به خون مبارزانش عجین است\r\nبا چو تو صاحب قران به ذکر نیرزد\r\nوین سخن الهام آسمان برین است\r\nذکر تو با ذکر کردگار کنم راست\r\nنام ترا نام کردگار قرین است\r\nگو برو از خطبه بازپرس و ز سکه\r\nهرکه یقینش به شک و ریب رهین است\r\nتا که به آمد شد شهور و سنین در\r\nطی شدن عمر شادمان و حزین است\r\nشادی و عمر تو باد کین دو سعادت\r\nمصلحت کلی شهور و سنین است\r\nناصر جاهت خدای عز و جل است\r\nکوست که در خیر ناصر است و معین است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک مصونست و حصن ملک حصین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنت وافر خدای را که چنین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشعلهٔ باسست هرچه عرصهٔ ملکست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسایهٔ عدلست هرچه ساحت دین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخنجر تشویش با نیام به صلح است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخامهٔ انصاف با قرار مکین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواب که در چشم فتنه هست نه صرفست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلکه به خونابهٔ سرشک عجین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب که در جوی ملک هست نه تنهاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبل ز روانی دور دوام قرین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجام سپهر افتاد و درد ستم ریخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست جهان گو که دور ماء معین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاقلهٔ آسمان که نزد وقوفش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیک و بد روزگار جمله یقین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه نگوید که اعتصام جهان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ملکان کیست آنکه حبل متین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدور زمان داند آنکه وقت تمسک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعروهٔ وثقی خدایگان زمین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاه جهان سنجر آنکه بستهٔ امرش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقیصر و فغفور و رای و خان و تگین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیر زیاد آنکه در جبین نفاذش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیر یک آیه هزار سوره مبین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشیر شکاری که داغ طاعت فرضش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشیر فلک را حروف لوح سرین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه ز تاثیر عین نعل سمندش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقلعهٔ بدخواه ملک رخنه چو سین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه یسارش به بزم حمل گرانست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآنکه یمینش به رزم حمله گزین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبحر نه از موج واله تب و لرز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز غم آسیب آن یسار و یمین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیغ جهادش کشیده دید ظفر گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه بدو قایمست ذات من این است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراه حوادث بزد رزانت رایش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخلق چه داند که آن چه رای رزین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباره نخواهد همی جهان که جهان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامن کنون خود نگاهبان امین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمر نیابد ستم همی که ستم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز نخستین چو روز بازپسین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفکرت او پی برد بجاش اگر چند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر رحم مادر زمانه جنین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنعمتش از مستحق گزیر نداند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر همه در طینتش بقیت طین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا کرم او الف که هیچ ندارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سرش اکنون هوای ثروت شین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای به سزا سایهٔ خدای که دین را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسایهٔ چترت هزار حصن حصین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقهر ترا هیبتی که در شب ظلش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز سیه را هزار گونه کمین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحکم ترا روزگار زیر رکابست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرای ترا آفتاب زیر نگین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا شرف خدمت رکاب تو یابد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتوسن ایام را تمنی زین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخطبهٔ ملک ترا که داند یا رب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکیست خطیبش که عرش پیش‌نشین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنام ترا در کنایه سکه صحیفه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنعت ترا در قرینه خطبه قرین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا قلم خود گرفت خازن و همت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچه قضا را ز سر غیب دفین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌شرف مهر مشرفان وقوفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکتم عدم را کدام غث و سمین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمردمک چشم جور آبله دارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا که بر ابروی احتیاط تو چین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا چه قدر قدرتی که شیر علم را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر صف رزم تو مسته شیر عرین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعکس سنان در کف تو معرکه سوز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم زره در بر تو حادثه‌بین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلازم ازین است خصم منهزمت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه جبینش قفا قفاش جبین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوزخ قهر تو در عقوبت خصمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآتش خشم خدا و دیو لعین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنده در این مختصر غرض که تو گفتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآیت تحصیل آن چو روز مبین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقاعدهٔ تهنیت همی ننهد زانک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخصم نه فغفور چین و غور نه چین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرچه هنوز از غریو لشکر خصمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجمجمهٔ کوه پر صدای انین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eورچه ز تیغ مبارزان سپاهت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسنگ به خون مبارزانش عجین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا چو تو صاحب‌قران به ذکر نیرزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سخن الهام آسمان برین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذکر تو با ذکر کردگار کنم راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنام ترا نام کردگار قرین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگو برو از خطبه بازپرس و ز سکه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرکه یقینش به شک و ریب رهین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا که به آمد شد شهور و سنین در\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطی شدن عمر شادمان و حزین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشادی و عمر تو باد کین دو سعادت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمصلحت کلی شهور و سنین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناصر جاهت خدای عز و جل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوست که در خیر ناصر است و معین است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 45
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ملک مصونست و حصن ملک حصین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرهنگ و حکومت نیازمند امنیت و محافظت هستند و از خداوند سپاسگزاری می‌شود که به ما چنین حکومتی داده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "منت وافر خدای را که چنین است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "شعلهٔ باسست هرچه عرصهٔ ملکست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که در زمین وجود دارد تحت تأثیر حکمت و قدرت الهی است و هر آنچه که مربوط به دین و عدالت می‌شود، در سایه‌ی این قدرت و حاکمیت احساس می‌شود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سایهٔ عدلست هرچه ساحت دین است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خنجر تشویش با نیام به صلح است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نگرانی و اضطراب مانند خنجری است که در غلاف خود به آرامش رسیده و کنار گذاشته شده است. همچنین، نوشتن و قضاوت بر اساس انصاف به نوعی به قرار و آرامش دست یافته است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "خامهٔ انصاف با قرار مکین است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خواب که در چشم فتنه هست نه صرفست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خواب در چشمان خراب‌کاری تنها یک حالت ساده نیست، بلکه با درد و غم عمیق همراه است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "بلکه به خونابهٔ سرشک عجین است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "آب که در جوی ملک هست نه تنهاست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آبی که در جوی مملکت جاری است، تنها نیست؛ بلکه به واسطه جریان و تداوم خود، همیشه همراه دارد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بل ز روانی دور دوام قرین است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "جام سپهر افتاد و درد ستم ریخت",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جام آسمان به زمین افتاد و درد ستم از وجود خارج شد. به جهان بگو که زمان نوشیدن آب زلال فرا رسیده است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "دست جهان گو که دور ماء معین است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "عاقلهٔ آسمان که نزد وقوفش",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عاقل و دانای آسمان به خوبی درک می‌کند که تمام خوبی‌ها و بدی‌های روزگار را باید با یقین و آگاهی شناخت."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "نیک و بد روزگار جمله یقین است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "گرچه نگوید که اعتصام جهان را",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه کسی نمی‌گوید که حمایت از جهان به عهده کیست، اما آنکه به وسیله‌ی رشته‌ی محکم و استواری متصل است، در این میان مشخص است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "از ملکان کیست آنکه حبل متین است",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "دور زمان داند آنکه وقت تمسک",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که درک عمیقی از زمان دارد، می‌داند که در چه زمانی باید به قوی‌ترین و مطمئن‌ترین حمایت‌های الهی و دینی تکیه کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "عروهٔ وثقی خدایگان زمین است",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "شاه جهان سنجر آنکه بستهٔ امرش",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاه سنجر، فرمانروایی است که حتی قیصر، فغفور، رای، خان و تگین هم تحت فرمان او هستند و تحت تاثیر اراده و قدرت او به سر می‌برند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "قیصر و فغفور و رای و خان و تگین است",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "دیر زیاد آنکه در جبین نفاذش",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدت زیادی است که کسی در پیشانی‌اش نشانه‌ای وجود دارد که حکایت از عمق فهم و دانش او می‌کند و در آن نشانه، معنای بسیاری از سوره‌ها نهفته است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "زیر یک آیه هزار سوره مبین است",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "شیر شکاری که داغ طاعت فرضش",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شیر شکاری که در داغ فرمانبری و اطاعت خود است، مثل حروفی است که بر روی لوح آسمان نوشته شده‌اند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "شیر فلک را حروف لوح سرین است",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "آنکه ز تاثیر عین نعل سمندش",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که تأثیر چشمانش باعث می‌شود قلعه‌ی دشمنانش مانند حرف سین آسیب ببیند و فرو بریزد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "قلعهٔ بدخواه ملک رخنه چو سین است",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "آنکه یسارش به بزم حمل گرانست",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که در مجالس خوش‌گذرانی سنگین و قوی است و کسی که در میدان جنگ شجاع و تهاجمی عمل می‌کند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "وآنکه یمینش به رزم حمله گزین است",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "بحر نه از موج واله تب و لرز است",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دریا تنها به خاطر موج‌های پر هیجان و لرزانش نیست، بلکه به خاطر غم و دردهایی است که در دلش نهفته دارد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "کز غم آسیب آن یسار و یمین است",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "تیغ جهادش کشیده دید ظفر گفت",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا، شاعر به فردی اشاره می‌کند که با تلاشی بزرگ و اراده‌ای قوی خود را در میدان جهاد پیدا کرده و می‌گوید که موفقیت و پیروزی مربوط به کسی است که به منبعی والا و حقیقی متکی است. به عبارت دیگر، او بر این باور است که کسانی که به اصول درست و ارزش‌های بزرگ پایبندند، می‌توانند به موفقیت دست یابند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "آنکه بدو قایمست ذات من این است",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "راه حوادث بزد رزانت رایش",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: راه حوادث را نمی‌توان پیش‌بینی کرد. مردم نمی‌دانند که بسیاری از آنچه به عنوان نظر درست مطرح می‌شود، در واقع بر پایه‌ای از ناپایداری و موقعیت‌های غیرقابل پیش‌بینی بنا شده است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "خلق چه داند که آن چه رای رزین است",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "باره نخواهد همی جهان که جهان را",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دنیا دیگر به خودی خود نمی‌تواند به امنیت و آرامش برسد، چرا که اکنون خود آن را باید با دقت و امانتداری نگه‌داری کرد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "امن کنون خود نگاهبان امین است",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "عمر نیابد ستم همی که ستم را",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عمری که به ظلم می‌گذرد، چنین عمری پایدار نمی‌ماند؛ زیرا که ستم از همان ابتدا مانند روزهای پایانی خود خواهد بود و در نهایت به زوال می‌رسد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "روز نخستین چو روز بازپسین است",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "فکرت او پی برد بجاش اگر چند",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه هنوز در شکم مادر قرار دارد و به دنیا نیامده است، اما ذهن و فکرش به جایگاه خود پی برده است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "در رحم مادر زمانه جنین است",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "نعمتش از مستحق گزیر نداند",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نعمت او از کسی که مستحق است فرار نمی‌کند، حتی اگر همه‌ی وجودش از خاک و material باشد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "گر همه در طینتش بقیت طین است",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "با کرم او الف که هیچ ندارد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معنی است که حتی کسی که هیچ چیزی ندارد، با لطف و کرم خداوند احساس می‌کند که به ثروت و بزرگی دست پیدا کرده است. در واقع، این شخص با ایمان و امید به آینده، آرزوهای بزرگ در سر دارد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "در سرش اکنون هوای ثروت شین است",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "ای به سزا سایهٔ خدای که دین را",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای که سایه‌ات بر سر دین همانند چتری است که هزار قلعه‌های محکم را در بر می‌گیرد و حمایت می‌کند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "سایهٔ چترت هزار حصن حصین است",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "قهر ترا هیبتی که در شب ظلش",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قهر تو مانند سایه‌ای است که در شب، روز تاریک را به هزار طریق در کمین دارد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "روز سیه را هزار گونه کمین است",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "حکم ترا روزگار زیر رکابست",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرنوشت تو مثل اسبی است که تحت فرمان زمان حرکت می‌کند و اندیشه‌ات مانند یک خورشید درخشان است که بر جواهر انگشتری می‌تابد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "رای ترا آفتاب زیر نگین است",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "تا شرف خدمت رکاب تو یابد",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که شرافت خدمت به تو را به دست آورم، میل و آرزوی روزگار بر توسن زندگی سوار است."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "توسن ایام را تمنی زین است",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "خطبهٔ ملک ترا که داند یا رب",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کیست که می‌تواند معرّفی کند خطبه‌ی باشکوه تو را، ای پروردگار؟ سخنران این خطبه کسی است که عرش را در زیر پای خود دارد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "کیست خطیبش که عرش پیش‌نشین است",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "نام ترا در کنایه سکه صحیفه است",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نام تو در زیر سکه‌ای نوشته شده و ویژگی‌هایت در کنار خطبه‌ای قرار گرفته است."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "نعت ترا در قرینه خطبه قرین است",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "با قلم خود گرفت خازن و همت",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با تلاش و اراده‌ای که دارد، هر نوع سرنوشت و قضا را از عالم غیب به دست می‌آورد و تحت کنترل خود می‌گیرد."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "هرچه قضا را ز سر غیب دفین است",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "بی‌شرف مهر مشرفان وقوفت",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا وجود بی‌مهر و بی‌احترامی نسبت به افراد بزرگ و مهم می‌تواند بر کم و کیف موجودیت چیزی تأثیر بگذارد؟ این پرسش به نوعی به ارزش و ماهیت مسائل مهم و بی‌ارزش اشاره دارد."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "کتم عدم را کدام غث و سمین است",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "مردمک چشم جور آبله دارد",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌های مردمک مانند علامتی مشکوک هستند، تا زمانی که ابروی احتیاط تو دچار چین و چروک است."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "تا که بر ابروی احتیاط تو چین است",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "تا چه قدر قدرتی که شیر علم را",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قدرت تو چقدر است که در میدان جنگ، دانش و علم همچون شیر درنده‌ای برای تو به جان می‌افتد و به قهرمانی تو تکیه می‌کند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "در صف رزم تو مسته شیر عرین است",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "عکس سنان در کف تو معرکه سوز است",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تصویر سنان در دستان تو، نشانه‌ای از شجاعت و دلیری است و چشمان تو چون زره‌ای، هر واقعه‌ای را به خوبی می‌بینند."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "چشم زره در بر تو حادثه‌بین است",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "لازم ازین است خصم منهزمت را",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای دشمن شکست‌خورده‌ای که پیشانی‌اش به پشتش شبیه است، ضروری است که او را در جایگاه خود قرار دهی."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "آنکه جبینش قفا قفاش جبین است",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "دوزخ قهر تو در عقوبت خصمت",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کیفر دشمن تو آتش خشم خدا و عذاب شیطان است که همچون دوزخی از قهر تو بر او نازل می‌شود."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "آتش خشم خدا و دیو لعین است",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "بنده در این مختصر غرض که تو گفتی",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من در این نوشته‌ای که دارم هدفم را بیان می‌کنم، روشن‌تری نسبت به آنچه تو گفتی دارم."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "آیت تحصیل آن چو روز مبین است",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "قاعدهٔ تهنیت همی ننهد زانک",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قانون تبریک و تهنیت به این خاطر پابرجا نیست که دشمن نه از قدرت چین برخوردار است و نه از قدرت غور."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "خصم نه فغفور چین و غور نه چین است",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "گرچه هنوز از غریو لشکر خصمت",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با وجود اینکه صدای لشکر دشمن همچنان در دل کوه‌ها طنین‌انداز است و اکو آن به گوش می‌رسد، من هنوز در تلاش و انتظارم."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "جمجمهٔ کوه پر صدای انین است",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "ورچه ز تیغ مبارزان سپاهت",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگرچه سپاه تو به دست جنگجویان پیکار می‌کند، اما سنگ‌های آن در خون مجاهدان آمیخته شده است."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "سنگ به خون مبارزانش عجین است",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "با چو تو صاحب‌قران به ذکر نیرزد",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی مانند تو که قرآن را در اختیار دارد، نتواند به یاد خدا مشغول شود، پس این کلامی که الهام گرفته شده از آسمان است، ارزش بالایی دارد."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "وین سخن الهام آسمان برین است",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "ذکر تو با ذکر کردگار کنم راست",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من یاد تو را هم‌زمان با یاد خداوند بزرگ ذکر می‌کنم؛ چرا که نام تو با نام خداوند به هم پیوسته است."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "نام ترا نام کردگار قرین است",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "گو برو از خطبه بازپرس و ز سکه",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به دنبال حقیقت هستی، از تردید و شک دوری کن و خود را در دام پرسش‌های بی‌پاسخ گرفتار نکن. اگر کسی در مسائل مالی و دنیوی شک دارد، بهتر است از آن دوری کند."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "هرکه یقینش به شک و ریب رهین است",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "تا که به آمد شد شهور و سنین در",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمان به سرعت در حال گذر است و با گذشت سال‌ها، زندگی پر از شادی و غم‌هاست."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "طی شدن عمر شادمان و حزین است",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "شادی و عمر تو باد کین دو سعادت",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشبختی و طول عمر تو آرزوی من است، زیرا این دو نعمت بزرگ، برای سال‌ها و روزهای عمر مفید هستند."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "مصلحت کلی شهور و سنین است",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "ناصر جاهت خدای عز و جل است",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ناصر، یاری کننده‌ای از سوی خداوند است که در کارهای نیک و خیر به یاری می‌آید و یاری‌رسنده است."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "کوست که در خیر ناصر است و معین است",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    }
+  ]
+}

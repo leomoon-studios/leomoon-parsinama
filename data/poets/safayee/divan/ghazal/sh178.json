@@ -1,0 +1,160 @@
+{
+  "Id": 129230,
+  "CatId": 2957,
+  "Title": "شمارهٔ ۱۷۸",
+  "FullTitle": "صفایی جندقی » دیوان اشعار » غزلیات » شمارهٔ ۱۷۸",
+  "FullUrl": "/safayee/divan/ghazal/sh178",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به زیبایی محبوبش می‌پردازد و ویژگی‌های او را با استعاره‌های زیبا توصیف می‌کند. او از زلف و چهره محبوبش سخن می‌گوید و آن را با گل‌ها و باغ بهشت مقایسه می‌کند. همچنین از عشق و وفاداری‌اش صحبت کرده و ناپایداری زندگی را به چالش می‌کشد. شاعر احساس می‌کند که با وجود غم‌ها، عشقش هنوز قوت دارد و در نهایت به زیبایی قد محبوب اشاره می‌کند که بر رقبایش چیره است و می‌خواهد عشقی عمیق و پایدار داشته باشد.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهیچند",
+      "PlainText": "به زلف جستم از آن دو خط گریز گاهی چند\r\nز کید دور قمر یافتم پناهی چند\r\nبه خط و طلعت او بین که باغبان بهشت\r\nدو دسته ی گل تر بسته بر گیاهی چند\r\nبیاض جبهه و زخ با سواد زلف تو چیست\r\nدمیده در شب تاریک مهر و ماهی چند\r\nبه قد و چهر تو تشبیه سرو و ماه خطاست\r\nمرنج اگر به غلط کردم اشتباهی چند\r\nنداده جان به وفایت ز بخت بد ماییم\r\nبه جرم هستی خویش از تو عذر خواهی چند\r\nبه بندگی نپذیرد چو من گدایی را\r\nبتی که بنده ی فرمان اوست شاهی چند\r\nبر آنچه که غمت با وجود ما کم و بیش\r\nنکرد آتش سوزان به پر کاهی چند\r\nدل از تطاول عشقم فتاده از تعمیر\r\nگذشت بر ده ویران ما سپاهی چند\r\nکمان چو ساخت صفایی قدت ستیز رقیب\r\nتو نیز بفکنش از پی خدنگ آهی چند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زلف جستم از آن دو خط گریز گاهی چند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز کید دور قمر یافتم پناهی چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه خط و طلعت او بین که باغبان بهشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو دسته ی گل تر بسته بر گیاهی چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیاض جبهه و زخ با سواد زلف تو چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدمیده در شب تاریک مهر و ماهی چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه قد و چهر تو تشبیه سرو و ماه خطاست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرنج اگر به غلط کردم اشتباهی چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنداده جان به وفایت ز بخت بد مائیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جرم هستی خویش از تو عذر خواهی چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بندگی نپذیرد چو من گدایی را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبتی که بنده ی فرمان اوست شاهی چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر آنچه که غمت با وجود ما کم و بیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنکرد آتش سوزان به پر کاهی چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل از تطاول عشقم فتاده از تعمیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگذشت بر ده ویران ما سپاهی چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکمان چو ساخت صفایی قدت ستیز رقیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو نیز بفکنش از پی خدنگ آهی چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "به زلف جستم از آن دو خط گریز گاهی چند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از زلف آن دو خط فرار کردم و در چند مرحله از مکر و فریب دور قمر، پناهی یافتم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز کید دور قمر یافتم پناهی چند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به خط و طلعت او بین که باغبان بهشت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به زیبایی و خط او نگاه کن؛ مانند باغبانی است که دسته‌ای از گل‌های تازه را بر روی چند گیاه آراسته است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دو دسته ی گل تر بسته بر گیاهی چند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "بیاض جبهه و زخ با سواد زلف تو چیست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سفیدی پیشانی و دلمه‌ای که بر موهای سیاه تو افتاده، چه چیزی است که در شب تاریک به روشنایی خورشید و ماه دمیده است؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دمیده در شب تاریک مهر و ماهی چند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به قد و چهر تو تشبیه سرو و ماه خطاست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تشبیه قامت و چهره تو به سرو و ماه نادرست است. اگر اشتباهی در قضاوت خود کردم، ناراحت نشو."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "مرنج اگر به غلط کردم اشتباهی چند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نداده جان به وفایت ز بخت بد مائیم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به خاطر بدی مقدر و سرنوشتمان، به تو به خاطر وجودمان معذرت می‌خواهیم و جانمان را به وفاداری‌ات نداده‌ایم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به جرم هستی خویش از تو عذر خواهی چند",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "به بندگی نپذیرد چو من گدایی را",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی مانند من، گدایی را به عنوان بنده نپذیرد، پس بت‌هایی که خودشان فرمانبردار هستند، چند شاه خواهند بود؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بتی که بنده ی فرمان اوست شاهی چند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "بر آنچه که غمت با وجود ما کم و بیش",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم تو بر دل ما تاثیر چندانی ندارد، مانند تاثیر آتش سوزانی که بر روی پر کاهی می‌افتد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "نکرد آتش سوزان به پر کاهی چند",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "دل از تطاول عشقم فتاده از تعمیر",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من که تحت تأثیر عشق قرار گرفته، دیگر توانایی ترمیم و بازسازی ندارد. اکنون از شهر و دیار ویران ما، گروهی از سپاهیان عبور می‌کنند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "گذشت بر ده ویران ما سپاهی چند",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "کمان چو ساخت صفایی قدت ستیز رقیب",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی کمان با زیبایی و قدرتمندی آماده می‌شود، رقیب تو هم برای مبارزه با تو آماده می‌شود. بنابراین، چندین نفس عمیق بکش و برای مقابله با او آماده شو."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "تو نیز بفکنش از پی خدنگ آهی چند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

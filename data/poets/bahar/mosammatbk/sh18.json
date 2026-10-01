@@ -1,0 +1,485 @@
+{
+  "Id": 51679,
+  "CatId": 1835,
+  "Title": "تا کی و تا چند؟",
+  "FullTitle": "ملک‌الشعرا بهار » مسمطات » تا کی و تا چند؟",
+  "FullUrl": "/bahar/mosammatbk/sh18",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: شاعر در این شعر با توجه به ناامیدی‌ها و مشکلات کشور، به وضعیت بغرنج وطن و ملت می‌پردازد. او از بلایای اجتماعی و سیاسی سخن می‌گوید و از بی‌عدالتی‌ها و ظلم‌هایی که بر ملت رفته، گله‌مند است. با یادآوری شکوه‌های گذشته، به دوگانگی در احساسات ملی و سرکردگی افراد نالایق اشاره می‌کند. در نهایت، شاعر خواستار نوآوری و تلاش برای احیای عزت و شرف ملی است و بر ضرورت بیداری و همبستگی مردم تأکید می‌کند تا از ظلم و ستم رهایی یابند.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "ای وطن خواهان سرگشته وحیران تاچند\r\nبدگمان  و دو دل و سر به گریبان  تا چند\r\nکشور دارا نادار و پریشان تا چند\r\nگنج کیخسرو در چنگ رضاخان  تا چند\r\nملک افریدون پامال ستوران تا چند\r\n\r\n\r\n\r\n\r\nای عجب دانا بازیچه نادان تا چند\r\n\r\n\r\n\r\n\r\nبهر نانی دل یک طایفه بریان تا چند\r\nیارب این کینه و این ظلم دمادم تاکی\r\nدل ایرانی  آماجگه غم تا کی\r\nپشت احرار به پیش سفها خم تاکی\r\nظلم ضحاکان  در مملکت جم تا کی\r\nسلطه دیوان در ملک سلیمان تا چند\r\nتا به کی شحنه و یارانش نمایند ستم\r\nچند ملت را دوشند بمانند غنم\r\nآن یک ازپرخوری و فربهی آورده ورم\r\nوآن دگر از غلیان خون  گردیده دژم\r\nمابقی لاغر همچون نی غلیان تا چند\r\n\r\n\r\n\r\n\r\nتیغ بهرام درین زاویه پنهان تا چند\r\nمحتسب راهزن و شحنه کمند انداز است\r\nجیش   غارتگر و سرخیل  سپه جانباز است\r\nره به هر بدگهری  بدکهران را باز است\r\nلوحش الله که به  هر حسن وطن  ممتاز است\r\nزین  سپس  ناشدنش روضه  رضوان تا چند\r\nحفظ ناموس به هرجا شرف نظمیه است\r\nشرف و ناموس اینجا هدف نظمیه است\r\nصف آدم کشی وننگ  صف نظمیه است\r\nاختیار شه و کشور به کف نظمیه است\r\nنشده ری کف خاکستر از ایشان تا چند\r\nباید از ملت  مردی بدر آید چاک\r\nیابد از دور فلک  طالع و هوش و ادراک\r\nانقلاب است که آرد گهری چونین پاک\r\nتا صدف گیرد چونین گهری را ز افلاک\r\nدیر باریدن آن ژاله نیسان تا چند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای وطن‌خواهان‌سرگشته وحیران‌تاچند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدگمان‌ و دو دل و سر به گریبان‌ تا چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشور دارا، نادار و پریشان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنج کیخسرو در چنگ رضاخان‌ تا چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eملک افریدون پامال ستوران تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E...\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E...\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E...\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E...\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eای عجب دانا، بازیچهٔ نادان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E...\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E...\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E...\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E...\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn9\u0022\u003E\u003Cp\u003Eبهر نانی دل یک طائفه بریان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارب این کینه و این ظلم دمادم تاکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل ایرانی‌، آماجگه غم تا کی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپشت احرار به پیش سفها خم تاکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eظلم ضحاکان‌، در مملکت جم تا کی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn12\u0022\u003E\u003Cp\u003Eسلطهٔ دیوان در ملک‌سلیمان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا به کی شحنه و یارانش نمایند ستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند ملت را دوشند، بمانند غنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن یک ازپرخوری و فربهی آورده ورم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن دگر از غلیان خون‌، گردیده دژم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn15\u0022\u003E\u003Cp\u003Eمابقی لاغر، همچون نی غلیان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E...\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E...\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E...\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003E...\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn18\u0022\u003E\u003Cp\u003Eتیغ بهرام درین زاویه پنهان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحتسب راهزن و شحنه کمند انداز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجیش‌،‌ غارتگر و سرخیل‌ سپه جانباز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eره به هر بدگهری‌، بدکهران را باز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلوحش‌الله که به‌ هر حسن وطن‌ ممتاز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn21\u0022\u003E\u003Cp\u003Eزین‌ سپس‌ ناشدنش روضهٔ‌ رضوان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحفظ ناموس به هرجا شرف نظمیه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرف و ناموس اینجا، هدف نظمیه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصف آدم کشی وننگ‌، صف نظمیه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاختیار شه و کشور به کف نظمیه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn24\u0022\u003E\u003Cp\u003Eنشده ری کف خاکستر از ایشان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباید از ملت‌، مردی بدر آید چاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیابد از دور فلک‌، طالع و هوش و ادراک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانقلاب است که آرد گهری چونین پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا صدف گیرد چونین گهری را ز افلاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn27\u0022\u003E\u003Cp\u003Eدیر باریدن آن ژالهٔ نیسان تا چند؟\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "Mosammat",
+      "CoupletsCount": 27
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "انتاچند",
+      "PlainText": "ای وطن خواهان سرگشته وحیران تاچند\r\nبدگمان  و دو دل و سر به گریبان  تا چند\r\nکشور دارا نادار و پریشان تا چند\r\nگنج کیخسرو در چنگ رضاخان  تا چند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای وطن‌خواهان‌سرگشته وحیران‌تاچند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبدگمان‌ و دو دل و سر به گریبان‌ تا چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشور دارا، نادار و پریشان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنج کیخسرو در چنگ رضاخان‌ تا چند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "متاکی",
+      "PlainText": "یارب این کینه و این ظلم دمادم تاکی\r\nدل ایرانی  آماجگه غم تا کی\r\nپشت احرار به پیش سفها خم تاکی\r\nظلم ضحاکان  در مملکت جم تا کی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارب این کینه و این ظلم دمادم تاکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل ایرانی‌، آماجگه غم تا کی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپشت احرار به پیش سفها خم تاکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eظلم ضحاکان‌، در مملکت جم تا کی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "تا به کی شحنه و یارانش نمایند ستم\r\nچند ملت را دوشند بمانند غنم\r\nآن یک ازپرخوری و فربهی آورده ورم\r\nوآن دگر از غلیان خون  گردیده دژم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا به کی شحنه و یارانش نمایند ستم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند ملت را دوشند، بمانند غنم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن یک ازپرخوری و فربهی آورده ورم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآن دگر از غلیان خون‌، گردیده دژم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ازاست",
+      "PlainText": "محتسب راهزن و شحنه کمند انداز است\r\nجیش   غارتگر و سرخیل  سپه جانباز است\r\nره به هر بدگهری  بدکهران را باز است\r\nلوحش الله که به  هر حسن وطن  ممتاز است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحتسب راهزن و شحنه کمند انداز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجیش‌،‌ غارتگر و سرخیل‌ سپه جانباز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eره به هر بدگهری‌، بدکهران را باز است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلوحش‌الله که به‌ هر حسن وطن‌ ممتاز است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "فنظمیهاست",
+      "PlainText": "حفظ ناموس به هرجا شرف نظمیه است\r\nشرف و ناموس اینجا هدف نظمیه است\r\nصف آدم کشی وننگ  صف نظمیه است\r\nاختیار شه و کشور به کف نظمیه است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحفظ ناموس به هرجا شرف نظمیه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرف و ناموس اینجا، هدف نظمیه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصف آدم کشی وننگ‌، صف نظمیه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاختیار شه و کشور به کف نظمیه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اک",
+      "PlainText": "باید از ملت  مردی بدر آید چاک\r\nیابد از دور فلک  طالع و هوش و ادراک\r\nانقلاب است که آرد گهری چونین پاک\r\nتا صدف گیرد چونین گهری را ز افلاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباید از ملت‌، مردی بدر آید چاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیابد از دور فلک‌، طالع و هوش و ادراک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانقلاب است که آرد گهری چونین پاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا صدف گیرد چونین گهری را ز افلاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 11,
+      "Number": 12,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "انتاچند",
+      "PlainText": "ملک افریدون پامال ستوران تا چند\r\nای عجب دانا بازیچه نادان تا چند\r\nبهر نانی دل یک طایفه بریان تا چند\r\nسلطه دیوان در ملک سلیمان تا چند\r\nمابقی لاغر همچون نی غلیان تا چند\r\nتیغ بهرام درین زاویه پنهان تا چند\r\nزین  سپس  ناشدنش روضه  رضوان تا چند\r\nنشده ری کف خاکستر از ایشان تا چند\r\nدیر باریدن آن ژاله نیسان تا چند",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eملک افریدون پامال ستوران تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eای عجب دانا، بازیچهٔ نادان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eبهر نانی دل یک طائفه بریان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eسلطهٔ دیوان در ملک‌سلیمان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eمابقی لاغر، همچون نی غلیان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eتیغ بهرام درین زاویه پنهان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn7\u0022\u003E\u003Cp\u003Eزین‌ سپس‌ ناشدنش روضهٔ‌ رضوان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn8\u0022\u003E\u003Cp\u003Eنشده ری کف خاکستر از ایشان تا چند؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn9\u0022\u003E\u003Cp\u003Eدیر باریدن آن ژالهٔ نیسان تا چند؟\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای وطن‌خواهان‌سرگشته وحیران‌تاچند؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: ای کسانی که برای وطن نگران و در تلاش هستید، تا کی در سردرگمی و تردید به سر می‌برید؟ چرا هنوز دچار بدگمانی و دلشوره هستید و سر به گریبانی می‌گذارید؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بدگمان‌ و دو دل و سر به گریبان‌ تا چند",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کشور دارا، نادار و پریشان تا چند؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: آیا این وضعیت نابرابری و پریشانی مردم در کشور دارای ثروت و قدرت، تا کی ادامه خواهد داشت؟ ثروت و گنج‌های بزرگ کیخسرو در دستان رضاخان، تا چه زمانی باقی خواهد ماند؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گنج کیخسرو در چنگ رضاخان‌ تا چند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 5,
+      "Position": "CenteredVerse1",
+      "Text": "ملک افریدون پامال ستوران تا چند؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: چقدر باید ظلم و ستم به انسان‌ها ادامه پیدا کند تا دیگر کافی باشد؟"
+    },
+    {
+      "VOrder": 6,
+      "Position": "Right",
+      "Text": "...",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که این بیت به احساسات و تجربیات عمیق انسانی اشاره دارد. به نوعی از تلاطمات روحی و دل‌شکستگی سخن می‌گوید و نشان‌دهنده‌ی مبارزه با احساسات و سختی‌های زندگی است. استفاده از توصیفاتی زیبا و عاطفی، تصویرگری از رنج و عشق را به همراه دارد. در نهایت، این اثر به ما یادآوری می‌کند که زندگی پر از چالش و زیبایی است و هر تجربه‌ای، حال چه خوب و چه بد، بخشی از مسیر زندگی ماست."
+    },
+    {
+      "VOrder": 7,
+      "Position": "Left",
+      "Text": "...",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 8,
+      "Position": "Right",
+      "Text": "...",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: این بیت اشاره به حالتی دارد که در آن فرد یا گروهی در حال گذر از مشکلات و چالش‌ها هستند، اما با هدفی روشن و امید به آینده پیش می‌روند. آنها با قوت اراده و تلاش مستمر، به دنبال رسیدن به مقاصد خود هستند و از موانع نمی‌ترسند. تجربیات گذشته را پشت سر می‌گذارند و به سمت جلو حرکت می‌کنند."
+    },
+    {
+      "VOrder": 9,
+      "Position": "Left",
+      "Text": "...",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 10,
+      "Position": "CenteredVerse1",
+      "Text": "ای عجب دانا، بازیچهٔ نادان تا چند؟",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: آیا جای تعجب نیست که یک فرد دانا همچنان برای نادانان بازیچه و دست‌دست تبدیل شده است؟ تا چه زمانی این وضعیت ادامه خواهد داشت؟"
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "...",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که کسی که در یادگیری و تجربه‌ای خاص به مهارت‌های لازم رسیده است، می‌تواند به راحتی از آن استفاده کند و به موفقیت‌های بزرگ‌تری دست یابد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "...",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "...",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که در یک موقعیت خاص، شخص به نوعی احساس تنهایی و isolation می‌کند، و این تجربه‌ی احساسی ممکن است به دلیل دوری از دیگران یا عدم ارتباط عاطفی با آن‌ها باشد. در این حال، این احساس می‌تواند به درک عمیق‌تری از خود و دنیای اطراف منجر شود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "...",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 15,
+      "Position": "CenteredVerse1",
+      "Text": "بهر نانی دل یک طائفه بریان تا چند؟",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تا کی باید به خاطر لقمه‌ای نان، دل یک گروه را بشکنیم و رنج و درد برای آن‌ها ایجاد کنیم؟"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Right",
+      "Text": "یارب این کینه و این ظلم دمادم تاکی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: ای خدای من، این کینه و ظلم که همیشه بر ما سایه افکنده، تا کی همچنان دل مردم ایران باید در معرض اندوه و درد باشد؟"
+    },
+    {
+      "VOrder": 17,
+      "Position": "Left",
+      "Text": "دل ایرانی‌، آماجگه غم تا کی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 18,
+      "Position": "Right",
+      "Text": "پشت احرار به پیش سفها خم تاکی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: این شعر به انتقاد از ظلم و ستم در جامعه اشاره دارد. شاعر به نارضایتی و ناامیدی از وضعیت موجود اشاره می‌کند، به طوری که افراد نیکوکار و آزاداندیش تحت فشار و ستم قرار دارند و به سوی نابخردان و ظالمان سر خم می‌کنند. او از وضعیت دشوار زندگی در سرزمین جم سخن می‌گوید و از خود می‌پرسد که این وضعیت تا چه زمانی ادامه خواهد داشت."
+    },
+    {
+      "VOrder": 19,
+      "Position": "Left",
+      "Text": "ظلم ضحاکان‌، در مملکت جم تا کی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 20,
+      "Position": "CenteredVerse1",
+      "Text": "سلطهٔ دیوان در ملک‌سلیمان تا چند؟",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: سلطۀ دیوان بر ملک سلیمان تا کی ادامه خواهد داشت؟"
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "تا به کی شحنه و یارانش نمایند ستم",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: تا کی باید شاهد باشیم که شحنه و یارانش ظلم کنند بر ملت‌ها و آن‌ها را همچون گوسفند به باد دهند؟"
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "چند ملت را دوشند، بمانند غنم",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "آن یک ازپرخوری و فربهی آورده ورم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: یک نفر به خاطر پرخوری و چاقی به حالت بیماری دچار شده و فرد دیگری به علت تلاطم و غلیان خون، به حالت اندوه و ناراحتی رسیده است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "وآن دگر از غلیان خون‌، گردیده دژم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 25,
+      "Position": "CenteredVerse1",
+      "Text": "مابقی لاغر، همچون نی غلیان تا چند؟",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: باقی‌مانده‌ها لاغر و نحیف هستند، مانند نی خاموشی که تا چه زمانی می‌تواند در این حالت بماند؟"
+    },
+    {
+      "VOrder": 26,
+      "Position": "Right",
+      "Text": "...",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: این بیت بیانگر این است که باید آموخت تا به بیداری و آگاهی دست یافت. در واقع، برای رسیدن به فهم عمیق‌تر و بینش بهتر در زندگی، لازم است که ذهن خود را پرورش دهیم و به مسائل با دقت بیشتری بنگریم."
+    },
+    {
+      "VOrder": 27,
+      "Position": "Left",
+      "Text": "...",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 28,
+      "Position": "Right",
+      "Text": "...",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در زندگی، وقتی با مشکلات و موانع روبرو می‌شوی، باید به توانایی‌ها و قابلیت‌های خود ایمان داشته باشی و به جلو حرکت کنی. این ایمان می‌تواند راهگشا و امیدبخش باشد."
+    },
+    {
+      "VOrder": 29,
+      "Position": "Left",
+      "Text": "...",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 30,
+      "Position": "CenteredVerse1",
+      "Text": "تیغ بهرام درین زاویه پنهان تا چند؟",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: تیغ بهرام در این گوشه پنهان چه زمانی نمایان خواهد شد؟"
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "محتسب راهزن و شحنه کمند انداز است",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: محتسب مانند دزدی است که در کمین نشسته و در حال صید و شکار است. او به نوعی همانند یک فرمانده با اقتدار و سرسخت است که در تلاش برای تسلط و کنترل بر موقعیت‌ها می‌باشد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "جیش‌،‌ غارتگر و سرخیل‌ سپه جانباز است",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "ره به هر بدگهری‌، بدکهران را باز است",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: راه رسیدن به هر بدعقیده‌ای باز است، اما دیوانگی آن‌ها توسط لوح الهی محفوظ مانده و در هر جایی که خوبی باشد، برتری وجود دارد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "لوحش‌الله که به‌ هر حسن وطن‌ ممتاز است",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 35,
+      "Position": "CenteredVerse1",
+      "Text": "زین‌ سپس‌ ناشدنش روضهٔ‌ رضوان تا چند؟",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: از این به بعد، تا کی در باغ بهشت به وجود نیامدنش باید صبر کنیم؟"
+    },
+    {
+      "VOrder": 36,
+      "Position": "Right",
+      "Text": "حفظ ناموس به هرجا شرف نظمیه است",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: حفظ آبرو و احترام به ناموس در هر جا ارزشی دارد و در این مکان نیز، شرف و ناموس در اولویت قرار دارند و هدف اصلی نظم و قانونگذاری به شمار می‌رود."
+    },
+    {
+      "VOrder": 37,
+      "Position": "Left",
+      "Text": "شرف و ناموس اینجا، هدف نظمیه است",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 38,
+      "Position": "Right",
+      "Text": "صف آدم کشی وننگ‌، صف نظمیه است",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: در صف آدم‌کشی و شرم، نظم و ترتیب کشف می‌شود. انتخاب شهر و کشور به دست نیروهای نظمیه است."
+    },
+    {
+      "VOrder": 39,
+      "Position": "Left",
+      "Text": "اختیار شه و کشور به کف نظمیه است",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 40,
+      "Position": "CenteredVerse1",
+      "Text": "نشده ری کف خاکستر از ایشان تا چند؟",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: آیا تا به حال شده که از این افراد، خاکستر و نشانی باقی نمانده باشد؟"
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "باید از ملت‌، مردی بدر آید چاک",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: باید از میان مردم، فردی برآید که از دور دست‌های آسمان، سرنوشت و هوش و درک را به دست آورد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "یابد از دور فلک‌، طالع و هوش و ادراک",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "انقلاب است که آرد گهری چونین پاک",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: انقلاب باعث می‌شود که گوهری با این پاکی به وجود بیاید تا صدف بتواند این گوهر را از آسمان دریافت کند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "تا صدف گیرد چونین گهری را ز افلاک",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 45,
+      "Position": "CenteredVerse1",
+      "Text": "دیر باریدن آن ژالهٔ نیسان تا چند؟",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: چرا باید منتظر بارش آن باران بهاری بمانیم که دیر به سراغ ما آمده است؟"
+    }
+  ]
+}

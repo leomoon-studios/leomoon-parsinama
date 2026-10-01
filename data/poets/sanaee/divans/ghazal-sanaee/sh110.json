@@ -1,0 +1,105 @@
+{
+  "Id": 12214,
+  "CatId": 190,
+  "Title": "شمارهٔ  ۱۱۰",
+  "FullTitle": "سنایی » دیوان اشعار » غزلیات » شمارهٔ  ۱۱۰",
+  "FullUrl": "/sanaee/divans/ghazal-sanaee/sh110",
+  "RhymeLetters": "ارنیرزد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر بیانگر ناامیدی و عدم ارزش عشق و وصال در برابر درد و رنجی است که معشوق به همراه دارد. شاعر به این نتیجه می‌رسد که حتی صحبت درباره معشوق و انتظار آن نیز ارزشی ندارد، چرا که زخم‌ها و غم‌های عشق بیشتر از خوشی‌های آن به چشم می‌آید. او از وصال و لذت‌های آن می‌گذرد و می‌گوید که این مدت کوتاه غم و جدایی، در برابر آشوبی که عشق به وجود می‌آورد، ارزش ندارد. در نهایت، شاعر به این نتیجه می‌رسد که تحمل درد و رنج عاشقانه، خود هیچ ارزشی ندارد.",
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارنیرزد",
+      "PlainText": "صحبت معشوق انتظار نیرزد\r\nبوی گل و لاله زخم خار نیرزد\r\nوصل نخواهم که هجر قاعده اوست\r\nخوردن می محنت خمار نیرزد\r\nز آن سوی دریای عشق گر همه سودست\r\nآن همه سود آفت گذار نیرزد\r\nاین دو سه روز غم وصال و فراقت\r\nاین همه آشوب کار و بار نیرزد\r\nروز شود در شمارم از غم جانان\r\nخود عمل عاشقی شمار نیرزد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصحبت معشوق انتظار نیرزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوی گل و لاله زخم خار نیرزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوصل نخواهم که هجر قاعدهٔ اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوردن می محنت خمار نیرزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آن سوی دریای عشق گر همه سودست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن همه سود آفتِ گذار نیرزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین دو سه روز غم وصال و فراقت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین همه آشوب کار و بار نیرزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروز شود در شمارم از غم جانان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود عمل عاشقی شمار نیرزد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 5
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صحبت معشوق انتظار نیرزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتگو با معشوق آنقدر ارزش ندارد که به خاطر آن زحمتی مثل بوی گل و لاله یا درد و زخم خار را تحمل کنم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بوی گل و لاله زخم خار نیرزد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وصل نخواهم که هجر قاعدهٔ اوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به وصال (دوستی) نخواهم رسید؛ چرا که جدا شدن از او طبیعت اوست. نوشیدن می و تحمل درد و رنج ناشی از آن نیز ارزشش را ندارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خوردن می محنت خمار نیرزد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ز آن سوی دریای عشق گر همه سودست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر همه‌چیز از طرف عشق به دست آید، اما آنچه به دست می‌آید موقتی و گذرا باشد، ارزشش را ندارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آن همه سود آفتِ گذار نیرزد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "این دو سه روز غم وصال و فراقت",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این چند روز که به خاطر دوری و نزدیکی عشق خود درگیر غم هستم، این همه آشفتگی و مشکلات زندگی ارزشش را ندارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این همه آشوب کار و بار نیرزد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "روز شود در شمارم از غم جانان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روز، به عنوان یک واحد زمان در زندگی من، محسوب می‌شود و چنانچه از درد و غم معشوق خود بگذرم، عمل عاشقی‌ام ارزش چندانی نخواهد داشت."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خود عمل عاشقی شمار نیرزد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "Id": 54409,
+  "CatId": 1852,
+  "Title": "غزل شمارهٔ ۲۲۱۱",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۲۱۱",
+  "FullUrl": "/saeb/divan-saeb/ghazalkasa/sh2211",
+  "RhymeLetters": "ازست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به زیبایی و رازهای درون عشق و حکمت اشاره دارد. \u0022می گلرنگ\u0022 و \u0022لب ساغر\u0022 نمادهایی از شراب و رازهای خموش هستند که با عقل و عرفان در تضادند. شاعر به تفاوت عشق و عقل اشاره می‌کند و بیان می‌کند که عشق به انسان زندگی و پرواز می‌دهد. همچنین، عشق به خاک پاک شیراز و زیبایی‌هایش اشاره شده و دل شاعر به شدت شوق و اشتیاق برای آنجا را تجربه می‌کند. در نهایت، شعر به تجلی عشق و معنویت در زندگی اشاره دارد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازست",
+      "PlainText": "می گلرنگ خونی رازست\r\nلب ساغر خموش غمازست\r\nدهن شیشه مغرب عقل است\r\nلب پیمانه مشرق رازست\r\nیک الف وار نیست گوشه امن\r\nصفحه خاک سینه بازست\r\nعقل با عشق مشتبه نشود\r\nذره از آفتاب ممتازست\r\nبلبل بوستان شوق ترا\r\nشکن دام بال پروازست\r\nطور آخر گل از تجلی چید\r\nکار افتادگان خداسازست\r\nدل صایب ز شوق آب شده است\r\nتشنه خاک پاک شیرازست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی گلرنگ خونی رازست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلب ساغر خموش غمازست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدهن شیشه مغرب عقل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلب پیمانه مشرق رازست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک الف وار نیست گوشه امن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصفحه خاک، سینه بازست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل با عشق مشتبه نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذره از آفتاب ممتازست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلبل بوستان شوق ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکن دام، بال پروازست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطور آخر گل از تجلی چید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکار افتادگان خداسازست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل صائب ز شوق آب شده است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتشنه خاک پاک شیرازست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می گلرنگ خونی رازست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: رنگ گل درخشان، نشانه‌ای از رازهای عمیق است و لب ساغر (جام) به‌طور خاموش داستان غم را روایت می‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "لب ساغر خموش غمازست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دهن شیشه مغرب عقل است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به نوعی به تفاوت‌های شناخت و دانش اشاره دارد. شیشه‌ای که در دهنش عقل قرار دارد، به مفهوم عقل و تفکر در سمت غرب اشاره می‌کند، در حالی که لب پیمانه که رازها را در خود دارد، به عالم هستی و اسرار در سمت شرق اشاره می‌کند. به عبارت دیگر، می‌توان گفت که عقل به جستجوی حقیقت در دنیای مادی و ظاهری می‌پردازد، در حالی که رازها و معانی عمیق‌تر در بُعد معنوی و باطنی وجود دارند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لب پیمانه مشرق رازست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یک الف وار نیست گوشه امن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در گوشه‌ای از این زمین، جایی امن وجود ندارد، بلکه دل‌ها و جان‌ها برای زندگی و مبارزه باز هستند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "صفحه خاک، سینه بازست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "عقل با عشق مشتبه نشود",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل و عشق نباید به هم混یده شوند، زیرا هر یک ویژگی‌های خاص خود را دارند؛ مانند اینکه یک ذره از آفتاب به راحتی از دیگر ذرات متمایز می‌شود."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ذره از آفتاب ممتازست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بلبل بوستان شوق ترا",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ای که در باغ نشسته، برای لذت بردن از زیبایی‌های تو تلاش می‌کند، و خواب پرواز به سوی تو را در سر دارد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "شکن دام، بال پروازست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "طور آخر گل از تجلی چید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، گل زیبایی از نور و جلوه خداوندی به دست آمده است، که نشان‌دهنده قدرت و هنر آفرینش است و به افرادی که از سختی‌ها می‌گذرند، امید و دلگرمی می‌دهد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "کار افتادگان خداسازست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دل صائب ز شوق آب شده است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل صائب به شدت شوق و اشتیاق دارد و به خاطر همین، مانند آب شده است. او به خاک پاک شیراز تشنه است و آرزوی دیدن آنجا را در دل دارد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "تشنه خاک پاک شیرازست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

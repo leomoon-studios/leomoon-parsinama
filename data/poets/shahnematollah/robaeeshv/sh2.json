@@ -1,0 +1,60 @@
+{
+  "Id": 47772,
+  "CatId": 1728,
+  "Title": "رباعی شمارهٔ ۲",
+  "FullTitle": "شاه نعمت‌الله ولی » رباعیات » رباعی شمارهٔ ۲",
+  "FullUrl": "/shahnematollah/robaeeshv/sh2",
+  "RhymeLetters": "اشدبهخدا",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف درویشی می‌پردازد که با تسلیم در برابر خدا، به مقام پادشاهی رسیده است. او از فقر و ثروت رها شده و به طور معنوی به خدا نزدیک شده است. شاعر اشاره می‌کند که این درویش به جایی رفته که نمی‌توان آن را درک کرد، اما با خداوند ارتباطی عمیق و معنوی یافته است.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اشدبهخدا",
+      "PlainText": "درویش عزیز پادشا شد به خدا\r\nوارسته ز فقر و ز غنا شد به خدا\r\nگویی که کجا رفت از اینجا که برفت\r\nآمد ز خدا و با خدا شد به خدا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرویش عزیز پادشا شد به خدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوارسته ز فقر و ز غنا شد به خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگویی که کجا رفت از اینجا که برفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآمد ز خدا و با خدا شد به خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "درویش عزیز پادشا شد به خدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درویش عزیز، به یاری خدا به مقام سلطنت رسید و از هر دو وضعیت فقر و ثروت رهایی یافت."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وارسته ز فقر و ز غنا شد به خدا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گویی که کجا رفت از اینجا که برفت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که شخصی از جایی رفته است و حالا به یک حالت جدید رسیده که با خداوند ارتباط دارد. این بیان نوعی احساس از دست‌رفتن و در عین حال پیوستن به یک حقیقت بالاتر و الهی را منتقل می‌کند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آمد ز خدا و با خدا شد به خدا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

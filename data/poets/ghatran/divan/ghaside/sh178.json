@@ -1,0 +1,720 @@
+{
+  "Id": 115385,
+  "CatId": 2680,
+  "Title": "شمارهٔ ۱۷۸ - فی المدیحه",
+  "FullTitle": "قطران تبریزی » دیوان اشعار » قصاید » شمارهٔ ۱۷۸ - فی المدیحه",
+  "FullUrl": "/ghatran/divan/ghaside/sh178",
+  "RhymeLetters": "ان",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن شعری از فردوسی است که به مسائل حکمت و رهبری در جنگ اشاره دارد. شاعر بیان می‌کند که هیچ چیزی از دانش و حکمت شاه پنهان نیست و او به خوبی می‌داند چه کسانی در نبرد پیروز خواهند شد. همچنین، او به اهمیت خرد و تدبیر در جنگ اشاره می‌کند و هشدار می‌دهد که پیروزی در نبرد به سواره نظام و تدبیر مناسب نیاز دارد، نه صرفاً به تعداد سپاهیان.\n\nشاعر از ویژگی‌های سپاه شاه و توانمندی آن‌ها در مبارزه می‌گوید و به پیروزی آن‌ها بر دشمنان اشاره می‌کند. این پیروزی نتیجه‌ی عقل و تدبیر شاه و حمایت خداوند از اوست. در نهایت، نویسنده به یادآوری این نکته می‌پردازد که انسانی که بر عقل و حکمت تکیه کند، همیشه در برابر مشکلات پیروز خواهد شد و برتری حق بر باطل در هر شرایطی حاکم است.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "هر آنچه هست نهان از منجمان جهان\r\nز رای روشن شاه زمانه نیست نهان\r\nهر آنچه خواهد بودن در آیدش بضمیر\r\nهر آنچه خواهد رفتن در آیدش بزیان\r\nببیند او بعیان هر چه نزد عقل خبر\r\nدر آیدش بیقین هر چه نزد خلق گمان\r\nسپه برون برد از رود ژرف بی کشتی\r\nگهر برآورد از سنگ خاره بی کهکان\r\nاگر چه شاه جوانست بخت او پیر است\r\nز عقل پیرش بختش همیشه هست جوان\r\nچو او ز گنجه بفال بهی برون آمد\r\nیکیش گفتی این و یکیش گفتی آن\r\nکه بی سپاه گران خصم را مدار سبک\r\nبجنگ خصم منه روی بی سپاه گران\r\nنبرد کس را فرمان و خیمه بیرون زد\r\nجز آن نکرد کجا آید از خرد فرمان\r\nز درد زود رها گردد آنکسی که کند\r\nباتفاق خرد درد خویش را درمان\r\nچو بدسگال ز کردار شاه شد آگاه\r\nدلش نژند شد از بیم و تن ز هول نوان\r\nچو دم بخواهش نگشاد آنکه رفتش پیش\r\nبجنگ جستن شاه جهان ببست میان\r\nبمال و ملک سپاهی بهم فرا آورد\r\nفزون ز برگ درختان و قطره باران\r\nسوارشان همه گردان ارمن و ابخاز\r\nپیاده شان همه شیران لگزی و شروان\r\nهمه بتیغ چو گیو و بنیزه چون بیژن\r\nهمه بحمله چو رستم بحیله چون دستان\r\nبرابر شه آران شدند بر کوهی\r\nکه بی دلیل نداند در آن شدن شیطان\r\nپناه خویش گرفتند بیشه بر سر کوه\r\nچنانکه سرش همی گفت راز با سرطان\r\nچور ایت شه گیتی بدشت پیدا شد\r\nنهان شدند سپه در درون یکان و دوگان\r\nملک بیامد آنجا بناز و فیروزی\r\nگشاده روی و گشاده دل و گشاده عنان\r\nدو روز خرم و خندان بگرد آن بنشست\r\nشده بدیدن او خلق خرم و خندان\r\nبرفت وی که بسوزد زمین دشمن دین\r\nمگر شود جگر دشمنان بدان سوزان\r\nسران لشگر ایشان رسید بر کوهی\r\nکه هیچ خلق بدان سرکشی نداد نشان\r\nسپاه شاه کشیدندشان ز کوه بدشت\r\nبیامدند ز دوده دل و ز دو ده سنان\r\nز نیره ها همه صحرا چو نیستان شده بود\r\nهمه چو شیران در نیستان گرفته مکان\r\nبسان طوفان از که برآمدند و لیک\r\nبخاست بر ز می از خون حلقشان طوفان\r\nبحمله سپه شاه خیل ایشان را\r\nبتیغ کرد دریده دل و رمیده روان\r\nبساعتی تنشان شد نشانه زوبین\r\nبساعتی دلشان شد نشانه پیکان\r\nز هول تیر سواران تیر قد عدو\r\nشدند گوژ و نوان اندران بسان کمان\r\nهوا برنگ شبه شد زمین برنگ عقیق\r\nیکی ز تیر روان و یکی ز خون روان\r\nبجان ز شاه نرسته از آن سپاه دو بهر\r\nبتن نرست و بمال آن کجا برست بجان\r\nسپاهشان را کشته سپاه شاه زمین\r\nامیرشان را کرده اسیر شاه زمان\r\nامیر همچو شبان باشد و سپه چو رمه\r\nشود رمیده رمه چون شود گرفته شبان\r\nنه مهتر است و نه کهتر بدین سپاه اندر\r\nکه نیست مهتری از کافرانش وز دزدان\r\nاگر نبودی تایید شاه شیر شکار\r\nوگر نبودی اقبال میر شهرستان\r\nبکار زاری از پیش لشگری چندین\r\nچگونه گشتی آواره لشگری چندان\r\nهمیشه نازش گردنکشان از من و روم\r\nبفتح ار کون بود و فتح ارزنگان\r\nولیکن ایشان ز انبوه خیل نازیدند\r\nملک ننازد الا بفره یزدان\r\nبآفتاب بر آورد افسر اسلام\r\nبزیر خاک فرو برد رایت کفران\r\nخدایگان بزمانی ز کافران بستد\r\nبتیغ کینه فضلون و کینه مملان\r\nکنون هر آنچه تو خواهی بگردنش برنه\r\nکنون هرانچه تو خواهی ز نعمتش بستان\r\nکنون اگر پسرشرا بدو فروشی بر\r\nبس است قلعه نشواد و ایدرش ارزان\r\nتو بر نشاطی و هر روز خصم بر تیمار\r\nتو بر فزونی و هر روز خصم بر نقصان\r\nتودی برون شده بودی بشهر خصم اندر\r\nکه تا بر آتش بوم و برش کنی ویران\r\nچنانکه موسی عمران بکوه آتش جست\r\nپیمبری یافت از کوه موسی عمران\r\nیکی سپاه شکستی دلیر و شاه شکن\r\nشهی گرفتی لشگر فروز و گردافشان\r\nهمیشه تا که بود در جهان هوان و هوا\r\nهمیشه تا که بود در جهان بهار و خزان\r\nخزان ناصح تو سال و ماه باد بهار\r\nهوای حاسد تو سال و ماه باد هوان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر آنچه هست نهان از منجمان جهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز رای روشن شاه زمانه نیست نهان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر آنچه خواهد بودن در آیدش بضمیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر آنچه خواهد رفتن در آیدش بزیان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eببیند او بعیان هر چه نزد عقل خبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر آیدش بیقین هر چه نزد خلق گمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپه برون برد از رود ژرف بی کشتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگهر برآورد از سنگ خاره بی کهکان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه شاه جوانست بخت او پیر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز عقل پیرش بختش همیشه هست جوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو او ز گنجه بفال بهی برون آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکیش گفتی این و یکیش گفتی آن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه بی سپاه گران خصم را مدار سبک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبجنگ خصم منه روی بی سپاه گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبرد کس را فرمان و خیمه بیرون زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجز آن نکرد کجا آید از خرد فرمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز درد زود رها گردد آنکسی که کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباتفاق خرد درد خویش را درمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو بدسگال ز کردار شاه شد آگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلش نژند شد از بیم و تن ز هول نوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو دم بخواهش نگشاد آنکه رفتش پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبجنگ جستن شاه جهان ببست میان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبمال و ملک سپاهی بهم فرا آورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفزون ز برگ درختان و قطره باران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوارشان همه گردان ارمن و ابخاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیاده شان همه شیران لگزی و شروان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه بتیغ چو گیو و بنیزه چون بیژن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه بحمله چو رستم بحیله چون دستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرابر شه آران شدند بر کوهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بی دلیل نداند در آن شدن شیطان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپناه خویش گرفتند بیشه بر سر کوه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنانکه سرش همی گفت راز با سرطان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچور ایت شه گیتی بدشت پیدا شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنهان شدند سپه در درون یکان و دوگان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک بیامد آنجا بناز و فیروزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگشاده روی و گشاده دل و گشاده عنان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو روز خرم و خندان بگرد آن بنشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشده بدیدن او خلق خرم و خندان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرفت وی که بسوزد زمین دشمن دین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر شود جگر دشمنان بدان سوزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسران لشگر ایشان رسید بر کوهی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هیچ خلق بدان سرکشی نداد نشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپاه شاه کشیدندشان ز کوه بدشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیامدند ز دوده دل و ز دو ده سنان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز نیره ها همه صحرا چو نیستان شده بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه چو شیران در نیستان گرفته مکان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسان طوفان از که برآمدند و لیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبخاست بر ز می از خون حلقشان طوفان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبحمله سپه شاه خیل ایشان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبتیغ کرد دریده دل و رمیده روان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبساعتی تنشان شد نشانه زوبین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبساعتی دلشان شد نشانه پیکان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز هول تیر سواران تیر قد عدو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشدند گوژ و نوان اندران بسان کمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهوا برنگ شبه شد زمین برنگ عقیق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی ز تیر روان و یکی ز خون روان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبجان ز شاه نرسته از آن سپاه دو بهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبتن نرست و بمال آن کجا برست بجان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپاهشان را کشته سپاه شاه زمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامیرشان را کرده اسیر شاه زمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامیر همچو شبان باشد و سپه چو رمه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشود رمیده رمه چون شود گرفته شبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه مهتر است و نه کهتر بدین سپاه اندر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نیست مهتری از کافرانش وز دزدان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر نبودی تایید شاه شیر شکار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگر نبودی اقبال میر شهرستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبکار زاری از پیش لشگری چندین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچگونه گشتی آواره لشگری چندان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمیشه نازش گردنکشان از من و روم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبفتح ار کون بود و فتح ارزنگان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eولیکن ایشان ز انبوه خیل نازیدند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eملک ننازد الا بفره یزدان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبآفتاب بر آورد افسر اسلام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبزیر خاک فرو برد رایت کفران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخدایگان بزمانی ز کافران بستد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبتیغ کینه فضلون و کینه مملان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون هر آنچه تو خواهی بگردنش برنه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنون هرانچه تو خواهی ز نعمتش بستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون اگر پسرشرا بدو فروشی بر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس است قلعه نشواد و ایدرش ارزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو بر نشاطی و هر روز خصم بر تیمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو بر فزونی و هر روز خصم بر نقصان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتودی برون شده بودی بشهر خصم اندر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تا بر آتش بوم و برش کنی ویران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنانکه موسی عمران بکوه آتش جست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیمبری یافت از کوه موسی عمران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی سپاه شکستی دلیر و شاه شکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشهی گرفتی لشگر فروز و گردافشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمیشه تا که بود در جهان هوان و هوا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمیشه تا که بود در جهان بهار و خزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخزان ناصح تو سال و ماه باد بهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهوای حاسد تو سال و ماه باد هوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 46
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "هر آنچه هست نهان از منجمان جهان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که در جهان وجود دارد و از دید منجمان پنهان است، از نظر ذهن روشنگر پادشاه زمانه پنهان نیست."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "ز رای روشن شاه زمانه نیست نهان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "هر آنچه خواهد بودن در آیدش بضمیر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که بخواهد وجود پیدا کند، در ذهن انسان شکل می‌گیرد و هر چیزی که بخواهد از بین برود، به ضرر او خواهد بود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "هر آنچه خواهد رفتن در آیدش بزیان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ببیند او بعیان هر چه نزد عقل خبر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او به روشنی هر چیزی را مشاهده می‌کند که عقل می‌تواند به یقین درک کند، اما مردم تنها بر اساس گمان به آنچه درک می‌کنند، پی می‌برند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در آیدش بیقین هر چه نزد خلق گمان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "سپه برون برد از رود ژرف بی کشتی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سربازان با دلاوری از رود عمیق عبور کردند و بدون نیاز به کشتی، جواهرات را از سنگ‌های سخت بیرون آوردند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "گهر برآورد از سنگ خاره بی کهکان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "اگر چه شاه جوانست بخت او پیر است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند شاه جوانی است، اما بخت او مانند یک فرد پیر است. عقل و بلوغ او باعث می‌شود که بختش همیشه جوان و پرامید باشد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ز عقل پیرش بختش همیشه هست جوان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چو او ز گنجه بفال بهی برون آمد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او از گنجینه‌ی فال بیرون آمد و یکی از آنها چیزی گفت و دیگری هم چیز دیگری گفت."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "یکیش گفتی این و یکیش گفتی آن",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "که بی سپاه گران خصم را مدار سبک",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدون داشتن نیروی قوی و قدرت، به درگیری با دشمن نرو و در برابر او بی‌هوا وارد نشو. با داشتن نیروی کافی و حمایت، به جنگ برو و خود را در موقعیت مناسب قرار بده."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بجنگ خصم منه روی بی سپاه گران",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "نبرد کس را فرمان و خیمه بیرون زد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ کس در میدان نبرد به خارج از سنگر نمی‌رود، مگر آنکه از عقل و فکرش پیروی کند و دستوری برای این کار داشته باشد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "جز آن نکرد کجا آید از خرد فرمان",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "ز درد زود رها گردد آنکسی که کند",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که به یاری جمع و همکاری دیگران به مشکل خود رسیدگی کند، از درد و رنج خود به سرعت رهایی می‌یابد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "باتفاق خرد درد خویش را درمان",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "چو بدسگال ز کردار شاه شد آگاه",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که بدخواهی از رفتار پادشاه آگاه شد، دلش از ترس به تپش افتاد و بدنش از هول به لرزه درآمد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "دلش نژند شد از بیم و تن ز هول نوان",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "چو دم بخواهش نگشاد آنکه رفتش پیش",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که شخصی درخواست را نپذیرفت، آن کس که برای جنگ به پیش رفت، شاه جهان را از میان برداشت و دیگر نتوانست به او دسترسی پیدا کند."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "بجنگ جستن شاه جهان ببست میان",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "بمال و ملک سپاهی بهم فرا آورد",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چه بخواهی از ثروت و نعمات دنیا جمع کن، آنان به اندازه برگ‌های درختان و قطرات باران زیاد هستند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "فزون ز برگ درختان و قطره باران",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "سوارشان همه گردان ارمن و ابخاز",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سواران آنها همگی از ارمن و آبخاز هستند و پیاده‌هایشان، شیران دلاوری از لگزی و شروان می‌باشند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "پیاده شان همه شیران لگزی و شروان",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "همه بتیغ چو گیو و بنیزه چون بیژن",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همه مانند گیو، با شمشیر آماده‌اند و مانند بیژن در نبرد حاضرند. همه به روش رستم، با تکیه بر برنامه‌ریزی و حیلتی که دارند، در میدان جنگ حاضر می‌شوند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "همه بحمله چو رستم بحیله چون دستان",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "برابر شه آران شدند بر کوهی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مردم آران در برابر پادشاه قرار گرفتند بر کوهی که نمی‌داند چگونه می‌تواند شیطان در آنجا حضور پیدا کند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "که بی دلیل نداند در آن شدن شیطان",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "پناه خویش گرفتند بیشه بر سر کوه",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درختان و گیاهان در جنگل، در بالای کوه جای گرفته‌اند و به گونه‌ای آرامش و امنیت یافته‌اند، به طوری که به نظر می‌رسد سر کوه با دقت و رازآلود با افکار و احساسات خود صحبت می‌کند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "چنانکه سرش همی گفت راز با سرطان",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "چور ایت شه گیتی بدشت پیدا شد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون این دنیا فانی شد و به پایان رسید، نیروهای نظامی در دل افراد پنهان شدند و دیگر قابل مشاهده نبودند."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "نهان شدند سپه در درون یکان و دوگان",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "ملک بیامد آنجا بناز و فیروزی",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرشته‌ای به آنجا آمد که با زیبایی و خوش‌رویی، دل‌نواز و آزادانه در حرکت بود."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "گشاده روی و گشاده دل و گشاده عنان",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "دو روز خرم و خندان بگرد آن بنشست",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دو روز شاد و خرم بگرد و از دیدن او لذت ببر. مردم هم در این حال شاد و خندان هستند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "شده بدیدن او خلق خرم و خندان",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "برفت وی که بسوزد زمین دشمن دین",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او رفت تا زمین دشمن دین را بسوزاند، مگر اینکه دل دشمنان به آن آتش بسوزد."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "مگر شود جگر دشمنان بدان سوزان",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "سران لشگر ایشان رسید بر کوهی",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرماندهان آنان به کوهی رسیدند که هیچ کس جرأت نکرد در آنجا بیاید یا نشانه‌ای از خود بگذارد."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "که هیچ خلق بدان سرکشی نداد نشان",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "سپاه شاه کشیدندشان ز کوه بدشت",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سپاه شاه از کوه پایین آمدند و به دشت رسیدند. آنان از خانواده‌ای شجاع و دلیر و از دو نژاد با سرنیزه‌های خود آمده بودند."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "بیامدند ز دوده دل و ز دو ده سنان",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "ز نیره ها همه صحرا چو نیستان شده بود",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در صحرا همه چیز شبیه نیستان شده بود و همه موجودات مانند شیران در میان نی‌ها جا گرفته بودند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "همه چو شیران در نیستان گرفته مکان",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "بسان طوفان از که برآمدند و لیک",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند طوفانی که از کسی برخاستند، اما در عوض از خون حلقومشان طوفانی به پا کردند."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "بخاست بر ز می از خون حلقشان طوفان",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "بحمله سپه شاه خیل ایشان را",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در حمله سپاه شاه، آن‌ها را با شمشیر به شدت مورد ضرب و شتم قرار داد و دل‌هایشان را شکسته و روح‌هایشان را ترسانده بود."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "بتیغ کرد دریده دل و رمیده روان",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "بساعتی تنشان شد نشانه زوبین",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدتی بدنشان به نشانه نیزه و مدتی دلشان به نشانه تیر تبدیل شد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "بساعتی دلشان شد نشانه پیکان",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "ز هول تیر سواران تیر قد عدو",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از ترس تیراندازان، دشمنان بی‌حال و خمیده شدند؛ مانند کمانی که به سمت عقب کشیده شده باشد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "شدند گوژ و نوان اندران بسان کمان",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "هوا برنگ شبه شد زمین برنگ عقیق",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هوا به رنگ شب درآمد و زمین به رنگ عقیق شد. یکی از تیرها به سمت روانی دیگر و یکی دیگر به سمت خون جاری شده می‌رود."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "یکی ز تیر روان و یکی ز خون روان",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "بجان ز شاه نرسته از آن سپاه دو بهر",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از جان شاهی که خود را از آن سپاه رهانیده، دوبرابر بر بدن نرسته و به کجا می‌تواند به جان برسد."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "بتن نرست و بمال آن کجا برست بجان",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "سپاهشان را کشته سپاه شاه زمین",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیروهای دشمن را کشته‌اند و سپاه شاه زمین، فرمانده آنها را اسیر کرده است."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "امیرشان را کرده اسیر شاه زمان",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "امیر همچو شبان باشد و سپه چو رمه",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پادشاه باید مانند شبان باشد و سپاه مانند گوسفندانی که گم شده‌اند. وقتی گوسفندان پراکنده شوند، شبان چگونه می‌تواند آنها را جمع کند؟"
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "شود رمیده رمه چون شود گرفته شبان",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "نه مهتر است و نه کهتر بدین سپاه اندر",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا بیان می‌شود که در این سپاه، نه کسی برتر است و نه کسی پست‌تر، زیرا در میان آن‌ها نه رهبری از کافران وجود دارد و نه کسی از دزدان."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "که نیست مهتری از کافرانش وز دزدان",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "اگر نبودی تایید شاه شیر شکار",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر حمایت و تأیید پادشاه شیر شکار وجود نداشت و اگر بخت و اقبال سرمایه‌داران و گردانندگان شهرستان نبود، اوضاع به گونه‌ای دیگر می‌بود."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "وگر نبودی اقبال میر شهرستان",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "بکار زاری از پیش لشگری چندین",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چگونه شدی که از پیش لشکری بزرگ، به زاری افتادی و آواره شدی؟"
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "چگونه گشتی آواره لشگری چندان",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "همیشه نازش گردنکشان از من و روم",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همیشه زیبایی و دلربایی او باعث غفلت من شده و اگر سرزمین عشق برایم دست یافتنی باشد، دیگران نیز می‌توانند به آن دست یابند."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "بفتح ار کون بود و فتح ارزنگان",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "ولیکن ایشان ز انبوه خیل نازیدند",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اما آنها از میان انبوه انسان‌ها افتخار کردند و تنها ملک به برکت خداوند افتخار می‌کند."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "ملک ننازد الا بفره یزدان",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "بآفتاب بر آورد افسر اسلام",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید اسلام درخشش خود را به نمایش گذاشت و پرچم کفر زیر خاک مدفون شد."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "بزیر خاک فرو برد رایت کفران",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "خدایگان بزمانی ز کافران بستد",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند در زمانی از بین کافران، با شمشیر کینه و نفرت فضولان و ظالمان انتقام گرفت."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "بتیغ کینه فضلون و کینه مملان",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "کنون هر آنچه تو خواهی بگردنش برنه",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حالا هر چیزی که بخواهی، آن را به دور خود جذب کن و از نعمات او بهره‌مند شو."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "کنون هرانچه تو خواهی ز نعمتش بستان",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "کنون اگر پسرشرا بدو فروشی بر",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر پسرش را به او بفروشی، کافی است که قلعه را نگه دارد و دیگر نیازی به ارزان فروشی نیست."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "بس است قلعه نشواد و ایدرش ارزان",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "تو بر نشاطی و هر روز خصم بر تیمار",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو همیشه در حال شادی هستی و دشمنان تو هر روز در تلاشند که تو را ناراحت و غمگین کنند. تو در حال پیشرفت و افزایش هستی و آن‌ها هر روز سعی می‌کنند که تو را به عقب برگردانند."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "تو بر فزونی و هر روز خصم بر نقصان",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "تودی برون شده بودی بشهر خصم اندر",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو به شهر دشمن رفته بودی تا بر آتش سرزمین و خانه‌هایش بیفکنی و آنها را ویران کنی."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "که تا بر آتش بوم و برش کنی ویران",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "چنانکه موسی عمران بکوه آتش جست",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مانند موسی، فرزند عمران، که به کوه آتش رفت و پیغامبری یافت، از کوه موسی عمران."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "پیمبری یافت از کوه موسی عمران",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "یکی سپاه شکستی دلیر و شاه شکن",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک لشگر دلیر و قهرمان را شکست دادی و با قدرت و شکوه، شهری را به تصرف درآوردی."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "شهی گرفتی لشگر فروز و گردافشان",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "همیشه تا که بود در جهان هوان و هوا",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به طور مداوم، وقتی در دنیا تغییرات و جریاناتی وجود داشته، همیشه بهار و پاییز هم در جریان بوده‌اند."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "همیشه تا که بود در جهان بهار و خزان",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "خزان ناصح تو سال و ماه باد بهار",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سال و ماهی که بهار است، نشان‌دهنده‌ی گرمی و زندگی است، اما ناصح و مدعی تو در این فصل، فقط نشانه‌ای از خزانی است که به سراغ تو آمده. هوای افرادی که حسد می‌ورزند، همواره هوایی سرد و ناخوشایند است و می‌تواند به تلخی روزها و ماه‌ها بیانجامد."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "هوای حاسد تو سال و ماه باد هوان",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    }
+  ]
+}

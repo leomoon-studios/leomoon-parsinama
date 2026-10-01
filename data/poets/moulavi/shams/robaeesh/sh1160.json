@@ -1,0 +1,60 @@
+{
+  "Id": 30618,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۱۶۰",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۱۶۰",
+  "FullUrl": "/moulavi/shams/robaeesh/sh1160",
+  "RhymeLetters": "ینیچکنم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از درد و رنج خود سخن می‌گوید. او می‌گوید اگر در کنار آدم‌های بی‌ارزش زندگی کند، چه باید بکند و چگونه می‌تواند از زیبایی‌های زندگی بهره ببرد. او به زیبایی‌های عالم و جذبه‌ی خاصی که وجود دارد اشاره می‌کند و ناامیدی خود از این که دیگران این زیبایی‌ها را نمی‌بینند، ابراز می‌کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینیچهکنم",
+      "PlainText": "ای دل چو به هر خسی نشینی چه کنم\r\nوز باغ مدام گل نچینی چه کنم\r\nعالم همه از جمال او روشن شد\r\nتو دیده نداری که ببینی چه کنم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای دل چو به هر خسی نشینی چه کنم؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز باغ، مدام گل نچینی چه کنم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم همه از جمال او روشن شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو دیده نداری که ببینی چه کنم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای دل چو به هر خسی نشینی چه کنم؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، اگر قرار است که برای آدم‌های بی‌ارزش و بی‌فایده زندگی کنی، چه فایده دارد؟ و اگر همیشه از باغ زندگی گل و شادی نچینی، پس چه می‌کنم؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز باغ، مدام گل نچینی چه کنم؟",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عالم همه از جمال او روشن شد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان به زیبایی او روشن شده است، اما تو چشمی نداری که این زیبایی را ببینی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "تو دیده نداری که ببینی چه کنم؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

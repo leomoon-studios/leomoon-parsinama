@@ -1,0 +1,225 @@
+{
+  "Id": 17708,
+  "CatId": 250,
+  "Title": "غزل شمارهٔ ۷۵۴",
+  "FullTitle": "اوحدی مراغه‌ای » دیوان اشعار » غزلیات » غزل شمارهٔ ۷۵۴",
+  "FullUrl": "/ouhadi/divano/ghazalo/sh754",
+  "RhymeLetters": "ینهای",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به وصف زیبایی و جذابیت معشوق و احساسات عمیق عاشقانه پرداخته است. شاعر به زیبایی چهره ماه و مشتری اشاره می‌کند و ابراز می‌کند که گیسوی معشوقش بویی مشابه عنبر دارد. او از غم و داغ عشق می‌گوید و اینکه چطور دلش به خاطر هجران معشوق می‌میرد. شاعر به اهمیت عشق و دشواری‌های آن اشاره می‌کند و از خداوند می‌خواهد که آرامش را به دل‌های داغدیده عطا کند. همچنین، بیان می‌کند که چشمان معشوقش هر گونه فتنه‌ای را به وجود می‌آورد و هر اشکی که می‌ریزد به منزله جواهراتی ارزشمند است. در نهایت، شاعر به کیفیت رابطه و درد جدایی اشاره می‌کند و از اینکه هیچ روزی از غم عشق معشوق رهایی نیافته، سخن به میان می‌آورد.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ینهای",
+      "PlainText": "ای ماه و مشتری ز جمالت قرینه ای\r\nوز گیسوی تو هر شکنی عنبرینه ای\r\nگر می زنی به تیغ نداریم سر دریغ\r\nسر چون توان کشید ز مهری به کینه ای\r\nمرغ دلم به داغ غمت تن فرو دهد\r\nگر باشدش ز دانه خال تو چینه ای\r\nهر لحظه آن دو ساعد سیمین نهان کنند\r\nدر جان من به دست محبت دفینه ای\r\nدل در خمار هجر تو می میرد ای نگار\r\nبفرست ازان شراب تعطف قنینه ای\r\nساکن نمی شود غم عشقت ز جان ما\r\nیارب فرو فرست به دلها سکینه ای\r\nقاصد نبرد نامه که از آب چشم خلق\r\nپیش تو آمدن نتوان بی سفینه ای\r\nپیغام ما چگونه رسد نزد آن حرم\r\nچندان رسولش آمده از هر مدینه ای\r\nچشمت ز فتنه بین که به پیش من آورد\r\nدر معرضی که زلف تو باشد پسینه ای\r\nاشکم چو سیم دیدی و زر خواستی ز من\r\nپنداشتی که باشد از آنم خزینه ای\r\nگر در بهای بوسه لبت زر طلب کند\r\nمشکل کشد کمان تو چون من کمینه ای\r\nروزی نشد که غمزه مست تو سنگدل\r\nبر راه اوحدی نشکست آبگینه ای\r\nصافی کجا شود دل او زین عتابها\r\nتا با تو سینه ای نرساند به سینه ای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ماه و مشتری ز جمالت قرینه‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز گیسوی تو هر شکنی عنبرینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر می‌زنی به تیغ، نداریم سر دریغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر چون توان کشید ز مهری به کینه‌ای؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغ دلم به داغ غمت تن فرو دهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر باشدش ز دانهٔ خال تو چینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر لحظه آن دو ساعد سیمین نهان کنند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر جان من به دست محبت دفینه‌ای؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل در خمار هجر تو می‌میرد، ای نگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبفرست ازان شراب تعطف قنینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eساکن نمی‌شود غم عشقت ز جان ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیارب، فرو فرست به دلها سکینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقاصد نبرد نامه، که از آب چشم خلق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش تو آمدن نتوان بی‌سفینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیغام ما چگونه رسد نزد آن حرم؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندان رسولش آمده از هر مدینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشمت ز فتنه بین که: به پیش من آورد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر معرضی که زلف تو باشد پسینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاشکم چو سیم دیدی و زر خواستی ز من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپنداشتی که باشد از آنم خزینه‌ای؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر در بهای بوسه لبت زر طلب کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمشکل کشد کمان تو چون من کمینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزی نشد که غمزهٔ مست تو سنگدل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر راه اوحدی نشکست آبگینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصافی کجا شود دل او زین عتابها؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا با تو سینه‌ای نرساند به سینه‌ای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 13
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای ماه و مشتری ز جمالت قرینه‌ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ماه و سیاره زهره، زیبایی تو نشانه‌ای از جمال توست و از تابش گیسوانت، عطر خوشی مانند عنبر به مشام می‌رسد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وز گیسوی تو هر شکنی عنبرینه‌ای",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر می‌زنی به تیغ، نداریم سر دریغ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ضربه‌ای به ما می‌زنی، ما را در درد و رنج نمی‌بینیم، چون وقتی که عشق بر کینه غلبه کند، دیگر چه جای اندوه است؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سر چون توان کشید ز مهری به کینه‌ای؟",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مرغ دلم به داغ غمت تن فرو دهد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده‌ی دل من به خاطر غم تو تسلیم می‌شود، حتی اگر در دلش از دانه‌ای که نمایانگر عشق توست، غمگینی وجود داشته باشد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گر باشدش ز دانهٔ خال تو چینه‌ای",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر لحظه آن دو ساعد سیمین نهان کنند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در هر لحظه آن دو بازوی نقره‌ای را پنهان می‌کنند و من در درونم حس محبت عمیق و گران‌بهایی را تجربه می‌کنم؟"
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در جان من به دست محبت دفینه‌ای؟",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دل در خمار هجر تو می‌میرد، ای نگار",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل در حسرتی عمیق از دوری تو به شدت رنج می‌برد، ای معشوق، لطفا از آن شراب دل‌انگیز برایم بفرست تا کمی آرامش پیدا کنم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بفرست ازان شراب تعطف قنینه‌ای",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ساکن نمی‌شود غم عشقت ز جان ما",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: غم عشق تو هرگز از دل ما آرام نمی‌گیرد، ای خدا، آرامشی به دل‌هایمان بفرست."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "یارب، فرو فرست به دلها سکینه‌ای",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "قاصد نبرد نامه، که از آب چشم خلق",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرستاده‌ای که پیغام نبرد را به تو می‌آورد، نمی‌تواند بدون نشانه‌ای از رنج و اشک مردم به تو نزدیک شود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "پیش تو آمدن نتوان بی‌سفینه‌ای",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "پیغام ما چگونه رسد نزد آن حرم؟",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پیام ما چگونه به آن حرم می‌رسد، در حالی که از هر شهری تعداد زیادی پیام‌آور آمده‌اند؟"
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "چندان رسولش آمده از هر مدینه‌ای",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "چشمت ز فتنه بین که: به پیش من آورد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به هوشیاری و دقت نگاه کن، چرا که چشمانت من را در وضعیتی قرار داده که موهای تو به عنوان پس‌زمینه‌ای برای این صحنه به نظر می‌رسد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "در معرضی که زلف تو باشد پسینه‌ای",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "اشکم چو سیم دیدی و زر خواستی ز من",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی اشک‌هایم را به شکل سیم دیدی و از من طلا خواستی، آیا فکر کردی که من یک گنجینه هستم؟"
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "پنداشتی که باشد از آنم خزینه‌ای؟",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "گر در بهای بوسه لبت زر طلب کند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی در برابر بوسه لبت درخواست زر و طلا کند، کمان تو که من در آن جایگاه کم‌ارزشی هستم، سختی خواهد کشید."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "مشکل کشد کمان تو چون من کمینه‌ای",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "روزی نشد که غمزهٔ مست تو سنگدل",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرگز پیش نیامد که زیبایی و ناز تو، دل سنگین اوحدی را نرم کند و به مانند شیشه، شکسته شود."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "بر راه اوحدی نشکست آبگینه‌ای",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "صافی کجا شود دل او زین عتابها؟",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل او از این همه سرزنش و reproach پاک و زلال نخواهد شد؛ تا زمانی که نتواند رابطه‌ای نزدیک و صمیمی با تو برقرار کند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "تا با تو سینه‌ای نرساند به سینه‌ای",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    }
+  ]
+}

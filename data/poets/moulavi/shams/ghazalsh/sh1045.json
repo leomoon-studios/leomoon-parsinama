@@ -1,0 +1,165 @@
+{
+  "Id": 3669,
+  "CatId": 99,
+  "Title": "غزل شمارهٔ ۱۰۴۵",
+  "FullTitle": "مولانا » دیوان شمس » غزلیات » غزل شمارهٔ ۱۰۴۵",
+  "FullUrl": "/moulavi/shams/ghazalsh/sh1045",
+  "RhymeLetters": "امدیگر",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر درخواست‌های شاعر از ساقی را نشان می‌دهد. او از ساقی می‌خواهد که در جامی دیگر به او بنوشاند و از آنجا که دیگر نمی‌تواند تحمل کند، خواهان آرامش و رحمت است. شاعر احساس می‌کند که در دام شدید مشکلات افتاده و هر لحظه برای او دشوار است. او می‌خواهد که عصف کامل از فکر و اندیشه‌اش رهایی یابد. همچنین، از ساقی می‌خواهد که زودتر او را نجات دهد و دیگر نامی جز غلام دردنوشان نداشته باشد؛ یعنی نمی‌خواهد که به مصائبی دیگر دچار شود. این شعر به شدت احساسی و نیازمند کمک و رهایی از درد و رنج است.",
+  "Metre": {
+    "Id": 12,
+    "Rhythm": "مفاعیلن مفاعیلن فعولن (هزج مسدس محذوف یا وزن دوبیتی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امدیگر",
+      "PlainText": "بگردان ساقیا آن جام دیگر\r\nبده جان مرا آرام دیگر\r\nبه جان تو که امروزم ببینی\r\nکه صبرم نیست تا ایام دیگر\r\nاگر یک ذره رحمت هست بر من\r\nمکن تأخیر تا هنگام دیگر\r\nخلاصم ده خلاصم ده خلاصی\r\nکه سخت افتاده ام در دام دیگر\r\nاگر امروز در بر من ببندی\r\nدرافتم هر دمی از بام دیگر\r\nمرا در دست اندیشه بمسپار\r\nکه اندیشه ست خون آشام دیگر\r\nمی خام ار نگردانی تو ساقی\r\nمرا زحمت دهد صد خام دیگر\r\nبگیر این دلق اگر چه وام دارم\r\nگرو کن زود بستان وام دیگر\r\nبنه نامم غلام دردنوشان\r\nنمی خواهم خدایا نام دیگر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگردان ساقیا آن جام دیگر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبده جان مرا آرام دیگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه جان تو که امروزم ببینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه صبرم نیست تا ایام دیگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر یک ذره رحمت هست بر من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمکن تأخیر تا هنگام دیگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلاصم ده خلاصم ده خلاصی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه سخت افتاده‌ام در دام دیگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر امروز در بر من ببندی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرافتم هر دمی از بام دیگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا در دست اندیشه بمسپار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه اندیشه‌ست خون آشام دیگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی خام ار نگردانی تو ساقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمرا زحمت دهد صد خام دیگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگیر این دلق اگر چه وام دارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرو کن زود بستان وام دیگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنه نامم غلام دردنوشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنمی‌خواهم خدایا نام دیگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بگردان ساقیا آن جام دیگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ساقی، لطفاً دوباره آن جام را به من بده تا آرامش دیگری پیدا کنم."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بده جان مرا آرام دیگر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "به جان تو که امروزم ببینی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر تو، امروز می‌خواهم بگویم که دیگر طاقت و صبر ندارم تا روزهای آینده را ببینم."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "که صبرم نیست تا ایام دیگر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اگر یک ذره رحمت هست بر من",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر ذره‌ای از رحمت به من عطا می‌شود، آن را به تأخیر نینداز، حتی تا زمان دیگری."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مکن تأخیر تا هنگام دیگر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خلاصم ده خلاصم ده خلاصی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مرا نجات بده، نجاتم بده، چرا که به شدت در چنگال دیگری گرفتار شده‌ام."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که سخت افتاده‌ام در دام دیگر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "اگر امروز در بر من ببندی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر امروز به من کمک کنی و در کنارم باشی، هر بار که از سنگینی مشکلات رها شوم، دوباره به اوج خواهم رسید."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "درافتم هر دمی از بام دیگر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "مرا در دست اندیشه بمسپار",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من نپارس، که در خود اندیشه را به دست نگیرید؛ چرا که تفکر، همچون خون‌آشامی می‌باشد که به جان می‌افتد و می‌خورد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که اندیشه‌ست خون آشام دیگر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "می خام ار نگردانی تو ساقی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو، ای ساقی، مرا از خود دور کنی، من هزاران درد و رنج دیگر را متحمل می‌شوم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "مرا زحمت دهد صد خام دیگر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "بگیر این دلق اگر چه وام دارم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله بیانگر این است که فردی دلق (نوعی لباس یا زینت) را به کسی می‌دهد و با اینکه خود او برای به دست آوردن آن وام گرفته است، از او می‌خواهد که سریعاً آن را بگیرد و وام دیگری را برایش فراهم کند. به طور کلی، این متن نشان‌دهنده نوعی وابستگی به دیگران و نیاز به کمک مالی است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "گرو کن زود بستان وام دیگر",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بنه نامم غلام دردنوشان",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این شعر، شاعر می‌گوید که از بودن و شناخته شدن به عنوان کسی که دردها و رنج‌های دیگران را تحمل می‌کند، رضایت ندارد و از خداوند می‌خواهد که نامی دیگر برای او برگزید. او به نوعی احساس می‌کند که این نام، بار سنگینی بر دوش او گذاشته و نمی‌خواهد همچنان با این عنوان شناخته شود."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "نمی‌خواهم خدایا نام دیگر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}

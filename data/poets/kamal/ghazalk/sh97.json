@@ -1,0 +1,240 @@
+{
+  "Id": 71666,
+  "CatId": 2060,
+  "Title": "شمارهٔ ۹۷",
+  "FullTitle": "کمال‌الدین اسماعیل » غزلیات » شمارهٔ ۹۷",
+  "FullUrl": "/kamal/ghazalk/sh97",
+  "RhymeLetters": "ارسید",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: این شعر به جشن نوروز و خوشی‌های این فصل اشاره دارد. شاعر از آمدن بهار و گل‌های رنگارنگ می‌گوید و با شوق و شادی از عید نوروز یاد می‌کند. او از باده و لذت‌های این روزها سخن به میان می‌آورد و احساس می‌کند که همه چیز به خوشی و زیبایی می‌رسد. همچنین از بوی خوش گل‌ها و نغمه بلبل‌ها در باغ صحبت می‌کند و به آرامش و آسایشی که با آمدن بهار به وجود آمده، اشاره می‌کند. شاعر با خوشحالی امیدوار است که این شادی‌ها همچنان ادامه داشته باشد.",
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارسید",
+      "PlainText": "لشکر نوروز بصحرا رسید\r\nموسم شادی و تماشا رسید\r\nز آمدن گل ببشارت ز پیش\r\nعید رسید اینک و زیبا رسید\r\nروزه شبانگاه بزد طبل کوچ\r\nبر سر این طارم مینا رسید\r\nبادة نوروز و گلشن همرهند\r\nعید مبارک نه بتنها رسید\r\nدر چمن از بس خوشی و رنگ بوی\r\nموکب گل یا برسد یا رسید\r\nباده بیاور که درین انتظار\r\nجان پیاله بلب ما رسید\r\nسرو چو زد دست در آزادگی\r\nلاجرمش کار ببالا رسید\r\nشاخ شکوفه ست ثریا وزین\r\nنعرۀ بلبل بثریا رسید\r\nلاله چو من خیمه بکهسار زد\r\nتا بدلش آتش سودا رسید\r\nداشت صبا بوی سر زلف یار\r\nنیم شبان دوش چو اینجا رسید\r\nآن همه آسایش و راحت چه بود\r\nکز دم آن باد بدلها رسید\r\nالحق از آنها که ز روی تم\r\nپار بروی گل رعنا رسید\r\nگفتم ازین پس نزند رای باغ\r\nشکر که امسال بما وا رسید\r\nبوی گل و نعرۀ بلبل ز باغ\r\nچون سخن من بهمه جا رسید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلشکر نوروز بصحرا رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموسم شادیّ و تماشا رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آمدن گل ببشارت ز پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعید رسید اینک و زیبا رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزه شبانگاه بزد طبل کوچ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر این طارم مینا رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبادة نوروز و گلشن همرهند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعید مبارک نه بتنها رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر چمن از بس خوشی و رنگ بوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموکب گل یا برسد، یا رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباده بیاور که درین انتظار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجان پیاله بلب ما رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرو چو زد دست در آزادگی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلاجرمش کار ببالا رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاخ شکوفه ست ثریّا وزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنعرۀ بلبل بثریّا رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلاله چو من خیمه بکهسار زد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بدلش آتش سودا رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداشت صبا بوی سر زلف یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیم شبان دوش چو اینجا رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن همه آسایش و راحت چه بود؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز دم آن باد بدلها رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالحق از آنها که ز روی تم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپار بروی گل رعنا رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفتم ازین پس نزند رای باغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکر که امسال بما وا رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوی گل و نعرۀ بلبل ز باغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون سخن من بهمه جا رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 14
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لشکر نوروز بصحرا رسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لشکر نوروز به دشت آمد و زمان شادی و تماشا فرا رسید."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "موسم شادیّ و تماشا رسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ز آمدن گل ببشارت ز پیش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با آمدن گل، نشانه‌ای از شادی و شگون به همراه عید نزدیک شده است و اینک به زیبایی فرارسیده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "عید رسید اینک و زیبا رسید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "روزه شبانگاه بزد طبل کوچ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در شب، وقتی طبل کوچ نواخته شد، به برزخ زیبا و شگفت‌انگیز رسیدیم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "بر سر این طارم مینا رسید",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بادة نوروز و گلشن همرهند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نوروز و باغ گل با هم آمده‌اند؛ عید مبارک که تنها نیست."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "عید مبارک نه بتنها رسید",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در چمن از بس خوشی و رنگ بوی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در باغ به خاطر شادی و رنگارنگی گل‌ها، یا باید کاروانی از گل‌ها بیاید، یا این که همین حالا آمده‌اند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "موکب گل یا برسد، یا رسید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "باده بیاور که درین انتظار",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مشروب را بیاور، زیرا در این لحظه‌ی طولانی و پرانتظار، جان و زندگی ما به پیاله‌امان نزدیک شده است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "جان پیاله بلب ما رسید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "سرو چو زد دست در آزادگی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سرو هنگامی که به آزادی دست پیدا کرد، به اوج و بالندگی خود رسید."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "لاجرمش کار ببالا رسید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "شاخ شکوفه ست ثریّا وزین",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درخت شکوفه‌ها به ستاره ثریا می‌رسد و صدای پرنده‌ای که می‌خواند، به این ستاره می‌آید."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "نعرۀ بلبل بثریّا رسید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "لاله چو من خیمه بکهسار زد",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لاله مانند من، در دشت خیمه‌ای برپا کرده و سپس آتش عشق و غم به او رسید."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "تا بدلش آتش سودا رسید",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "داشت صبا بوی سر زلف یار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صبح زود، باد خنکی بوی خوشی از تارهای موی محبوبم را به همراه آورد که وقتی به اینجا رسید، خاطرات زیبایی را زنده کرد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "نیم شبان دوش چو اینجا رسید",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "آن همه آسایش و راحت چه بود؟",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنجا که نوشته شده \u0022آن همه آسایش و راحت چه بود؟\u0022، به معنای این است که آن آرامش و راحتی که داشتیم، در واقع به دلیل یک تغییر یا حادثه ناگهانی ناچیز به نظر می‌آید. گویی با وزش یک نسیم، احساسات و حال و هواهای ما به یکباره تغییر می‌کند."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "کز دم آن باد بدلها رسید",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "الحق از آنها که ز روی تم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در واقع، از میان افرادی که به خاطر زیبایی و لطافت، بر روی گل خوش‌بو و نازک قدم گذاشته‌اند، حقیقتاً به آنجا رسیده‌اند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "پار بروی گل رعنا رسید",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "گفتم ازین پس نزند رای باغ",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گفتم که دیگر نباید نظر به باغ شکر انداخت، زیرا امسال خوشبختی و سعادت به ما رسیده است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "شکر که امسال بما وا رسید",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "بوی گل و نعرۀ بلبل ز باغ",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عطر گل و آواز بلبل از باغ به همه جا پراکنده شد، مانند سخنان من."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "چون سخن من بهمه جا رسید",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    }
+  ]
+}

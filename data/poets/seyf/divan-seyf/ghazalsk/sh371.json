@@ -1,0 +1,225 @@
+{
+  "Id": 63207,
+  "CatId": 1861,
+  "Title": "شمارهٔ ۳۷۱",
+  "FullTitle": "سیف فرغانی » دیوان اشعار » غزلیات » شمارهٔ ۳۷۱",
+  "FullUrl": "/seyf/divan-seyf/ghazalsk/sh371",
+  "RhymeLetters": "ارم",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از عشق خود به یار سخن می‌گوید و بیان می‌کند که یک نگاه یار او را به شدت در گیر کرده است. او از شور و شوقی که نسبت به یار دارد حرف می‌زند و می‌گوید که حتی اگر دیگر کسی را پیدا کند، عشق او همچنان برایش مهم است. شاعر به خداترصیف می‌کند که در شب‌ها خلوتی با یارش دارد و شب‌ها او را به یاد می‌آورد. او در عشق خود به یار، خود را مانند فرهاد می‌داند که برای رسیدن به شیرین با مشکلات می‌جنگد. در پایان، شاعر از تحولی در دلش می‌گوید که حالا در عشق بیدار شده و عشق را چون امانتی گرانبها می‌داند که باید به یار بسپارد.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارم",
+      "PlainText": "بیک نظر دل خلقی همی برد یارم\r\nبمن نگر که بدان یک نظر گرفتارم\r\nمرا خود از خبرش بود حال شوریده\r\nکنون بیک نظر او تمام شد کارم\r\nورا اگر دگری یافت و از طلب بنشست\r\nمن آن کسم که پس از یافتن طلب کارم\r\nشبی بخدمت او خلوتی خوهم تا روز\r\nکه او ز لب شکر و من ز دیده دربارم\r\nچراغ وارم از آن پس اگر کشند رواست\r\nستاره وار چو با مه شبی بروز آرم\r\nامیر ملک ورا طالب است و من در عشق\r\nنمی خوهم که فرومایه یی بود یارم\r\nتو همت من مسکین نگر که چون فرهاد\r\nبرای شیرین با خسرو است پیکارم\r\nمن از مدام املهای خویش بودم مست\r\nشراب عشقش از آن سکر کرد هشیارم\r\nکنون نخسبم جز بر درش چو سگ همه روز\r\nکه شب روان رهش کرده اند بیدارم\r\nبدین گنه که دلم قدر وصل تو نشناخت\r\nگرم بهجر عقوبت کند سزاوارم\r\nاگر چنانکه زدی لاف سیف فرغانی\r\nکه من ببذل درم سرخ رو چو دینارم\r\nمیان خلق تفاوت بسیست در گوهر\r\nکه دوست را تو بزر من بجان خریدارم\r\nطریق اهل دل اینست کاین امانت جان\r\nکه دوست داد بمن من بدوست بسپارم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیک نظر دل خلقی همی برد یارم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبمن نگر که بدان یک نظر گرفتارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرا خود از خبرش بود حال شوریده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکنون بیک نظر او تمام شد کارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eورا اگر دگری یافت و از طلب بنشست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن آن کسم که پس از یافتن طلب کارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبی بخدمت او خلوتی خوهم تا روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه او ز لب شکر و من ز دیده دربارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچراغ وارم از آن پس اگر کشند رواست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eستاره وار چو با مه شبی بروز آرم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامیر ملک ورا طالب است و من در عشق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنمی خوهم که فرومایه یی بود یارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو همت من مسکین نگر که چون فرهاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرای شیرین با خسرو است پیکارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن از مدام املهای خویش بودم مست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشراب عشقش از آن سکر کرد هشیارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنون نخسبم جز بر درش چو سگ همه روز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه شب روان رهش کرده اند بیدارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدین گنه که دلم قدر وصل تو نشناخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرم بهجر عقوبت کند سزاوارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چنانکه زدی لاف سیف فرغانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه من ببذل درم سرخ رو چو دینارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیان خلق تفاوت بسیست در گوهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دوست را تو بزر من بجان خریدارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطریق اهل دل اینست کاین امانت جان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه دوست داد بمن من بدوست بسپارم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 13
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیک نظر دل خلقی همی برد یارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یک نگاه از طرف محبوب می‌تواند دل مردم را به‌راحتی برباید. حالا به من نگاهی بینداز، زیرا من فقط با همان یک نگاه تو گرفتار شده‌ام."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بمن نگر که بدان یک نظر گرفتارم",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "مرا خود از خبرش بود حال شوریده",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من از حال و روز خودم به خاطر یاد او دچار آشفتگی شده‌ام و اکنون با یک نگاه او، تمام کارهایم پایان یافت."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کنون بیک نظر او تمام شد کارم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ورا اگر دگری یافت و از طلب بنشست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر او فرد دیگری را پیدا کند و از جستجو دست بکشد، من همان کسی هستم که بعد از پیدا کردن، همچنان در پی جستجو و خواستن هستم."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "من آن کسم که پس از یافتن طلب کارم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شبی بخدمت او خلوتی خوهم تا روز",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شبی در کنار او تنها می‌خواهم بود تا روزی که او با لب‌های شیرینش به من نگاه کند و من هم با چشمانم به او پاسخ دهم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "که او ز لب شکر و من ز دیده دربارم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "چراغ وارم از آن پس اگر کشند رواست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مرا بکشند، مانند چراغی که روشن است، مجاز است؛ زیرا من همچون ستاره‌ای هستم که در شب با ماه درخشش دارم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "ستاره وار چو با مه شبی بروز آرم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "امیر ملک ورا طالب است و من در عشق",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امیر برای وصال او تلاش می‌کند و من در عشق نمی‌خواهم که یارم کسی باشد که پایین‌رده و بی‌قدر است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نمی خوهم که فرومایه یی بود یارم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "تو همت من مسکین نگر که چون فرهاد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به من توجه کن که چگونه مانند فرهاد که برای شیرین می‌جنگید، من نیز برای تو تلاش می‌کنم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "برای شیرین با خسرو است پیکارم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "من از مدام املهای خویش بودم مست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همیشه در حال عشق ورزیدن بودم و به خاطر شراب عشق او، حتی در حالت هوشیاری هم دچار نشئه و شیدایی شده‌ام."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "شراب عشقش از آن سکر کرد هشیارم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "کنون نخسبم جز بر درش چو سگ همه روز",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حال که جز بر در او نمی‌خوابم مانند سگی که هر روز بیدار است و شب‌ها به راهش می‌رود."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "که شب روان رهش کرده اند بیدارم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "بدین گنه که دلم قدر وصل تو نشناخت",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من به خاطر این که نتوانستم ارزش و اهمیت وصال تو را درک کنم، حالا باید مجازات جدایی را تحمل کنم و این عادلانه است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "گرم بهجر عقوبت کند سزاوارم",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "اگر چنانکه زدی لاف سیف فرغانی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو به خود می‌بالید که چون شمشیر فرغانی هستی، من هم در مقابل این ادعا، به راحتی می‌توانم با کمک پولم که همچون دینار سرخ است، به دیگران رو نمایی کنم."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "که من ببذل درم سرخ رو چو دینارم",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "میان خلق تفاوت بسیست در گوهر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در میان مردم تفاوت‌های زیادی وجود دارد، اما من از تمام وجودم آماده‌ام تا دوست را با ارزش و گرانبها بدانم."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "که دوست را تو بزر من بجان خریدارم",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "طریق اهل دل اینست کاین امانت جان",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: راه و روش افرادی که دل‌هایشان در حقیقت زندگی را درک کرده‌اند، این است که جان و زندگی‌ای که از دوست (خدا) به من داده شده، دوباره به او برگردانم و به او بسپارم."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "که دوست داد بمن من بدوست بسپارم",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    }
+  ]
+}

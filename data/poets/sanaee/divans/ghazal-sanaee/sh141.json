@@ -1,0 +1,150 @@
+{
+  "Id": 12245,
+  "CatId": 190,
+  "Title": "شمارهٔ  ۱۴۱",
+  "FullTitle": "سنایی » دیوان اشعار » غزلیات » شمارهٔ  ۱۴۱",
+  "FullUrl": "/sanaee/divans/ghazal-sanaee/sh141",
+  "RhymeLetters": "ید",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از زیبایی و دلربایی معشوق صحبت می‌کند و به شبی که گذرانده اشاره دارد. او از مستی و شوق عشق می‌گوید و از معشوق می‌خواهد که با باده و شادی او را خوشحال کند. تصویرگری از عشق و درد دل در شعر دیده می‌شود و شاعر به مشکلات عشق و هجرت اشاره می‌کند. او به زیبایی معشوق تعظیم می‌کند و می‌گوید که هیچ‌کس به اندازه او در عشق زار و نزار نیست.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ید",
+      "PlainText": "لشکر شب رفت و صبح اندر رسید\r\nخیز و مهرویا فراز آور نبید\r\nچشم مست پر خمارت باز کن\r\nکز نشاطت صبرم از دل بر پرید\r\nمطرب سرمست را آواز ده\r\nچون ز میخانه عصیر اندر رسید\r\nپر مکن جام ای صنم امشب چو دوش\r\nکت همه جامه چکانه بر چکید\r\nنیست گویی آن حکایت راستی\r\nخون دل بر گرد چشم ما دوید\r\nکیست کز عشقت نه بر خاک اوفتاد\r\nکیست کز هجرت نه جامه بر درید\r\nچون خطت طغرای شاهنشاه یافت\r\nاز فنا خط گردد عالم بر کشید\r\nاز سنایی زارتر در عشق کیست\r\nیا چو تو دلبر به زیبایی که دید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلشکر شب رفت و صبح اندر رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخیز و مهرویا فراز آور نبید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم مست پر خمارت باز کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز نشاطت صبرم از دل بر پرید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمطرب سرمست را آواز ده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون ز میخانه عصیر اندر رسید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپر مکن جام ای صنم امشب چو دوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکت همه جامه چکانه بر چکید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیست گویی آن حکایت راستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخون دل بر گرد چشم ما دوید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکیست کز عشقت نه بر خاک اوفتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکیست کز هجرت نه جامه بر درید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون خطت طغرای شاهنشاه یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز فنا خط گردد عالم بر کشید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سنایی زارتر در عشق کیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا چو تو دلبر به زیبایی که دید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "لشکر شب رفت و صبح اندر رسید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لشکر شب رفته و صبح نابهنگام آمده است. برخیز و جام می شادی را به دست آور."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خیز و مهرویا فراز آور نبید",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم مست پر خمارت باز کن",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم زیبا و دلربایت را باز کن، زیرا شادی و سرزندگی‌ات باعث شده صبر و حوصله‌ام از دل خارج شود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز نشاطت صبرم از دل بر پرید",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مطرب سرمست را آواز ده",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آواز مطرب سرمست را بخوان، چون بوی عطر شراب از میخانه به مشام می‌رسد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "چون ز میخانه عصیر اندر رسید",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پر مکن جام ای صنم امشب چو دوش",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای معشوق، امشب مانند شب گذشته، جام را پر نکن، زیرا همه لباس‌ها به خاطر شراب پخش شده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کت همه جامه چکانه بر چکید",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نیست گویی آن حکایت راستی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که داستان واقعی، به تصویر کشیدن غم و اندوهی است که در دل ما موج می‌زند و مانند اشک‌هایی که دور چشم‌مان می‌چرخند، حس تاریکی و درد را بازگو می‌کند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خون دل بر گرد چشم ما دوید",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "کیست کز عشقت نه بر خاک اوفتاد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کیست که به خاطر عشق تو به خاک نیفتاده باشد؟ و کیست که به خاطر جدایی از تو، لباسش را ندریده باشد؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "کیست کز هجرت نه جامه بر درید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چون خطت طغرای شاهنشاه یافت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی خط زیبای تو، مانند امضای شاهانه‌ای درخشید، باعث شد که دنیا از نابودی نجات یابد و بسط پیدا کند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "از فنا خط گردد عالم بر کشید",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "از سنایی زارتر در عشق کیست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ‌کس در عشق، به اندازه سنایی نیست و هیچ‌کس به زیبایی تو، دلبر اینجا وجود ندارد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "یا چو تو دلبر به زیبایی که دید",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ]
+}

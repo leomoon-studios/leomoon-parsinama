@@ -1,0 +1,150 @@
+{
+  "Id": 12112,
+  "CatId": 190,
+  "Title": "شمارهٔ  ۸",
+  "FullTitle": "سنایی » دیوان اشعار » غزلیات » شمارهٔ  ۸",
+  "FullUrl": "/sanaee/divans/ghazal-sanaee/sh8",
+  "RhymeLetters": "احایپسرا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر، به دعوت به شادابی و بیداری در صبح اشاره دارد و با نگاهی به زیبایی‌های طبیعت و لذت‌های زندگی، به اهمیت خوشی و سرزندگی در زندگی می‌پردازد. شاعر به دوستانش می‌گوید که وقت صبح است و باید از زیبایی‌های طبیعت و لذت می‌های ناب بهره‌مند شوند. همچنین به عشق و زیبایی و تأثیر آن بر انسان‌ها اشاره می‌شود و نهایتاً بیان می‌کند که همه این‌ها حکایت از نعمت‌های الهی دارد.",
+  "Metre": {
+    "Id": 30,
+    "Rhythm": "فعلاتن فعلاتن فعلن (رمل مسدس مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "احایپسرا",
+      "PlainText": "انعم الله صباح ای پسرا\r\nوقت صبح آمده راح ای پسرا\r\nبا می و ماه و خرابات بهار\r\nخام خامست صلاح ای پسرا\r\nبا تو در صدر نشستیم هلا\r\nدر ده آواز مباح ای پسرا\r\nخام ما خام تو و پخته تست\r\nتو ز می دار صراح ای پسرا\r\nعاقبت خانه به زلف تو گذاشت\r\nصورت فخر و فلاح ای پسرا\r\nچشم بیمار تو ما را ببرید\r\nز صحیح و ز صحاح ای پسرا\r\nاز پی عارض چون صبح ترا\r\nبه نکورویی و راح ای پسرا\r\nهمه تسبیح سنایی این است\r\nکانعم الله صباح ای پسرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانعم‌الله صباح ای پسرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوقت صبح آمده راح ای پسرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا می و ماه و خرابات بهار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخام خامست صلاح ای پسرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا تو در صدر نشستیم هلا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ده آواز مباح ای پسرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخام ما خام تو و پختهٔ تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو ز می دار صراح ای پسرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاقبت خانه به زلف تو گذاشت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصورت فخر و فلاح ای پسرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم بیمار تو ما را ببرید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز صحیح و ز صحاح ای پسرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پی عارض چون صبح ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نکورویی و راح ای پسرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه تسبیح سنایی این است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکانعم الله صباح ای پسرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "انعم‌الله صباح ای پسرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حالتان ای پسران، صبح سر رسیده و زمان شادی و نشاط است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وقت صبح آمده راح ای پسرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "با می و ماه و خرابات بهار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با شراب و زیبایی و جاذبه‌های زندگی در بهار، جوانان باید بیاموزند که چگونه از زندگی لذت ببرند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "خام خامست صلاح ای پسرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "با تو در صدر نشستیم هلا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با تو در اوج خوشبختی هستیم، بیایید در محفل دلگشا از موسیقی و شادی لذت ببریم، ای جوانان."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در ده آواز مباح ای پسرا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خام ما خام تو و پختهٔ تست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا گفته می‌شود که من هنوز ناپخته و خام هستم، اما تو با تجربه و پخته‌ای. به همین دلیل، بهتر است که به سخن تو گوش دهم و از صحبت‌های تو که به مانند شراب زلال و خالص است، بهره‌مند شوم."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "تو ز می دار صراح ای پسرا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عاقبت خانه به زلف تو گذاشت",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، زیبایی و خوشبختی به زلف‌های تو وابسته است، ای فرزند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "صورت فخر و فلاح ای پسرا",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "چشم بیمار تو ما را ببرید",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم بیمار تو ما را از حال خوب و سالم دور کرد، ای پسران."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "ز صحیح و ز صحاح ای پسرا",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "از پی عارض چون صبح ترا",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر چهره‌ات همچون صبح، به زیبایی و لطافت تو درود می‌فرستم ای پسر."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "به نکورویی و راح ای پسرا",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "همه تسبیح سنایی این است",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام تسبیح سنایی به این است که خدا را شکر گزارید که صبح را به شما هدیه داده است، ای پسران."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "کانعم الله صباح ای پسرا",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "Id": 111484,
+  "CatId": 2630,
+  "Title": "شمارهٔ ۱۲۷",
+  "FullTitle": "فرخی یزدی » دیوان اشعار » غزلیات » شمارهٔ ۱۲۷",
+  "FullUrl": "/yazdi/divan/ghazal/sh127",
+  "RhymeLetters": "ابندارد",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف دردها و مشکلات انسان‌ها در زندگی می‌پردازد. شاعر به ناپایداری و ناتوانی احساسات در برابر دشواری‌ها اشاره می‌کند و به تضادهای موجود در جامعه و فردیت انسان‌ها می‌پردازد. برخی از مفاهیم کلیدی شامل نارضایتی از شرایط موجود، عدم توجه به نیازهای انسانی و تمرکز بر مادیات است. در نهایت، شاعر به این نتیجه می‌رسد که حتی در شرایط سخت، زندگی با حداقل‌ها می‌تواند قابل تحمل باشد.",
+  "Metre": {
+    "Id": 14,
+    "Rhythm": "مفتعلن فاعلات مفتعلن فع (منسرح مثمن مطوی منحور)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ابندارد",
+      "PlainText": "حلقه زلفی که غیر تاب ندارد\r\nتا چه کند با دلی که تاب ندارد\r\nکشمکش چین و اضطراب بشر چیست\r\nگیتی اگر حال انقلاب ندارد\r\nمجلس ما را هر آنکه دید به دل گفت\r\nملت جم حسن انتخاب ندارد\r\nخانه خدا یا به فکر خانه خود نیست\r\nیا خبر از خانه خراب ندارد\r\nخواجه پی جمع مال و توده بدبخت\r\nهیچ بجز فکر نان و آب ندارد\r\nزور به پشت حساب مشت زد و گفت\r\nحرف حسابی دگر جواب ندارد\r\nفرخی از زندگی خوش است به نانی\r\nگر نرسد آن هم اضطراب ندارد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحلقه زلفی که غیر تاب ندارد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چه کند با دلی که تاب ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشمکش چین و اضطراب بشر چیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگیتی اگر حال انقلاب ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجلس ما را هر آنکه دید به دل گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eملت جم، حسن انتخاب ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانه خدا یا به فکر خانه خود نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیا خبر از خانه خراب ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواجه پی جمع مال و توده بدبخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهیچ بجز فکر نان و آب ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزور به پشت حساب مشت زد و گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرف حسابی دگر جواب ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرخی از زندگی خوش است به نانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر نرسد آن هم، اضطراب ندارد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حلقه زلفی که غیر تاب ندارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حلقه زلف، نماد زیبایی و جذابیت است که در مقابل دل‌هایی که توان تحمل آن را ندارند، ناتوانی خود را نشان می‌دهد. در واقع، دلی که نمی‌تواند بار تحمل این زیبایی را بکشد، در برابر آن چه می‌تواند بکند؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "تا چه کند با دلی که تاب ندارد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کشمکش چین و اضطراب بشر چیست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کشمکش و تناقضی که در چین وجود دارد و نگرانی‌های بشر چه مفهومی دارند، اگر دنیا هیچ تغییری در وضعیت خود نداشته باشد؟"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "گیتی اگر حال انقلاب ندارد",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "مجلس ما را هر آنکه دید به دل گفت",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرکسی که به مجلس ما نگاهی انداخت، در دلش گفت که مردم این جمع، انتخاب خوبی نداشتند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "ملت جم، حسن انتخاب ندارد",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خانه خدا یا به فکر خانه خود نیست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خانه خدا یا به فکر وضعیت خود نیست یا از خرابی‌های دیگران بی‌خبر است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یا خبر از خانه خراب ندارد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "خواجه پی جمع مال و توده بدبخت",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آدم ثروتمند فقط به جمع‌آوری مال می‌اندیشد و افراد بدشانس جز نیاز به نان و آب چیز دیگری در فکرشان نیست."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "هیچ بجز فکر نان و آب ندارد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "زور به پشت حساب مشت زد و گفت",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زور با قدرت به پشت حساب کوبید و گفت که دیگر هیچ سخن منطقی‌ای را نمی‌توان جواب داد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "حرف حسابی دگر جواب ندارد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "فرخی از زندگی خوش است به نانی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرخی از زندگی راضی و خوشحال است، حتی اگر غذایی نصیبش نشود، از این بابت دلواپس نیست."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "گر نرسد آن هم، اضطراب ندارد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

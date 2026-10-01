@@ -1,0 +1,893 @@
+{
+  "Id": 39690,
+  "CatId": 1359,
+  "Title": "بخش ۲۵ - در معنی اینکه بقای نوع از امومت است و حفظ و احترام امومت اسلام است",
+  "FullTitle": "اقبال لاهوری » رموز بیخودی » بخش ۲۵ - در معنی اینکه بقای نوع از امومت است و حفظ و احترام امومت اسلام است",
+  "FullUrl": "/iqbal/romooz-bikhodi/sh25",
+  "SourceName": "سایت علامه اقبال",
+  "SourceUrlSlug": "allamaiqbal",
+  "PoemSummary": "هوش مصنوعی: این شعر به موضوع مادر و نقش پراهمیت او در زندگی انسان‌ها می‌پردازد. شاعر با استفاده از تمثیل‌ها و تصاویری زیبا، اهمیت عشق و محبت مادرانه را توصیف می‌کند و آن را به عنوان منبعی از رحمت و شفقت می‌داند. همچنین اشاره می‌کند که بنیان‌های فرهنگی و اجتماعی ملت‌ها از آغوش مادران سرچشمه می‌گیرد و تکریم مادران جزء ضروری زندگی است. وجود مادر به عنوان ناز و محبت در زندگی محسوب می‌شود و بی‌توجهی به ارزش‌های مادرانه را عامل عدم رشد و زندگی صحیح جامعه می‌خواند. در نهایت، شاعر بر این نکته تأکید می‌کند که محبت و توجه به مادران، به زندگی و هویت انسانی معنا می‌بخشد.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "نغمه خیز از زخمه زن ساز مرد\r\nاز نیاز او دو بالا ناز مرد\r\nپوشش عریانی مردان زن است\r\nحسن دلجو عشق را پیراهن است\r\nعشق حق پرورده آغوش او\r\nاین نوا از زخمه خاموش او\r\nآنکه نازد بر وجودش کاینات\r\nذکر او فرمود با طیب و صلوة\r\nمسلمی کو را پرستاری شمرد\r\nبهره یی از حکمت قرآن نبرد\r\nنیک اگر بینی امومت رحمت است\r\nزانکه او را با نبوت نسبت است\r\nشفقت او شفقت پیغمبر است\r\nسیرت اقوام را صورتگر است\r\nاز امومت پخته تر تعمیر ما\r\nدر خط سیمای او تقدیر ما\r\nهست اگر فرهنگ تو معنی رسی\r\nحرف امت نکته ها دارد بسی\r\nگفت آن مقصود حرف کن فکان\r\nزیر پای امهات آمد جنان\r\nملت از تکریم ارحام است و بس\r\nورنه کار زندگی خام است و بس\r\nاز امومت گرم رفتار حیات\r\nاز امومت کشف اسرار حیات\r\nاز امومت پیچ و تاب جوی ما\r\nموج و گرداب و حباب جوی ما\r\nآن دخ رستاق زادی جاهلی\r\nپست بالای سطبری بد گلی\r\nنا تراشی پرورش ناداده یی\r\nکم نگاهی کم زبانی ساده یی\r\nدل ز آلام امومت کرده خون\r\nگرد چشمش حلقه های نیلگون\r\nملت ار گیرد ز آغوشش بدست\r\nیک مسلمان غیور و حق پرست\r\nهستی ما محکم از آلام اوست\r\nصبح ما عالم فروز از شام اوست\r\nوان تهی آغوش نازک پیکری\r\nخانه پرورد نگاهش محشری\r\nفکر او از تاب مغرب روشن است\r\nظاهرش زن باطن او نازن است\r\nبندهای ملت بیضا گسیخت\r\nتا ز چشمش عشوه ها حل کرده ریخت\r\nشوخ چشم و فتنه زا آزادیش\r\nاز حیا نا آشنا آزادیش\r\nعلم او بار امومت بر نتافت\r\nبر سر شامش یکی اختر نتافت\r\nاین گل از بستان ما نارسته به\r\nداغش از دامان ملت شسته به\r\nلااله گویان چو انجم بی شمار\r\nبسته چشم اندر ظلام روزگار\r\nپا نبرده از عدم بیرون هنوز\r\nاز سواد کیف و کم بیرون هنوز\r\nمضمر اندر ظلمت موجود ما\r\nآن تجلی های نامشهود ما\r\nشبنمی بر برگ گل ننشسته یی\r\nغنچه هایی از صبا نا خسته یی\r\nبر دمد این لاله زار ممکنات\r\nاز خیابان ریاض امهات\r\nقوم را سرمایه ای صاحب نظر\r\nنیست از نقد و قماش و سیم و زر\r\nمال او فرزند های تندرست\r\nتر دماغ و سخت کوش و چاق و چست\r\nحافظ رمز اخوت مادران\r\nقوت قرآن و ملت مادران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنغمه خیز از زخمهٔ زن ساز مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نیاز او دو بالا ناز مرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپوشش عریانی مردان زن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحسن دلجو عشق را پیراهن است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق حق پروردهٔ آغوش او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین نوا از زخمهٔ خاموش او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه نازد بر وجودش کائنات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذکر او فرمود با طیب و صلوة\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمسلمی کو را پرستاری شمرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهره ئی از حکمت قرآن نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیک اگر بینی امومت رحمت است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه او را با نبوت نسبت است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشفقت او شفقت پیغمبر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیرت اقوام را صورتگر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز امومت پخته تر تعمیر ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خط سیمای او تقدیر ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست اگر فرهنگ تو معنی رسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرف امت نکته ها دارد بسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن مقصود حرف «کن فکان»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیر پای امهات آمد جنان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملت از تکریم ارحام است و بس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه کار زندگی خام است و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز امومت گرم رفتار حیات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز امومت کشف اسرار حیات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز امومت پیچ و تاب جوی ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموج و گرداب و حباب جوی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن دخ رستاق زادی جاهلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپست بالای سطبری بد گلی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنا تراشی پرورش ناداده ئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکم نگاهی کم زبانی ساده ئی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل ز آلام امومت کرده خون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد چشمش حلقه های نیلگون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملت ار گیرد ز آغوشش بدست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک مسلمان غیور و حق پرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستی ما محکم از آلام اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبح ما عالم فروز از شام اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوان تهی آغوش نازک پیکری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخانه پرورد نگاهش محشری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفکر او از تاب مغرب روشن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eظاهرش زن باطن او نازن است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبندهای ملت بیضا گسیخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ز چشمش عشوه ها حل کرده ریخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوخ چشم و فتنه زا آزادیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حیا نا آشنا آزادیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم او بار امومت بر نتافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر شامش یکی اختر نتافت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین گل از بستان ما نارسته به\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداغش از دامان ملت شسته به\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلااله گویان چو انجم بی شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسته چشم اندر ظلام روزگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپا نبرده از عدم بیرون هنوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سواد کیف و کم بیرون هنوز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمضمر اندر ظلمت موجود ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن تجلی های نامشهود ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبنمی بر برگ گل ننشسته ئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغنچه هائی از صبا نا خسته ئی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر دمد این لاله زار ممکنات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خیابان ریاض امهات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقوم را سرمایه ای صاحب نظر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست از نقد و قماش و سیم و زر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمال او فرزند های تندرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتر دماغ و سخت کوش و چاق و چست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحافظ رمز اخوت مادران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقوت قرآن و ملت مادران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 32
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ازمرد",
+      "PlainText": "نغمه خیز از زخمه زن ساز مرد\r\nاز نیاز او دو بالا ناز مرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنغمه خیز از زخمهٔ زن ساز مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نیاز او دو بالا ناز مرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ناست",
+      "PlainText": "پوشش عریانی مردان زن است\r\nحسن دلجو عشق را پیراهن است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپوشش عریانی مردان زن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحسن دلجو عشق را پیراهن است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وشاو",
+      "PlainText": "عشق حق پرورده آغوش او\r\nاین نوا از زخمه خاموش او",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعشق حق پروردهٔ آغوش او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین نوا از زخمهٔ خاموش او\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ت",
+      "PlainText": "آنکه نازد بر وجودش کاینات\r\nذکر او فرمود با طیب و صلوة",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه نازد بر وجودش کائنات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eذکر او فرمود با طیب و صلوة\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "مسلمی کو را پرستاری شمرد\r\nبهره یی از حکمت قرآن نبرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمسلمی کو را پرستاری شمرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبهره ئی از حکمت قرآن نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "تاست",
+      "PlainText": "نیک اگر بینی امومت رحمت است\r\nزانکه او را با نبوت نسبت است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیک اگر بینی امومت رحمت است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه او را با نبوت نسبت است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "راست",
+      "PlainText": "شفقت او شفقت پیغمبر است\r\nسیرت اقوام را صورتگر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشفقت او شفقت پیغمبر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیرت اقوام را صورتگر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یرما",
+      "PlainText": "از امومت پخته تر تعمیر ما\r\nدر خط سیمای او تقدیر ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز امومت پخته تر تعمیر ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خط سیمای او تقدیر ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "سی",
+      "PlainText": "هست اگر فرهنگ تو معنی رسی\r\nحرف امت نکته ها دارد بسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست اگر فرهنگ تو معنی رسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحرف امت نکته ها دارد بسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "گفت آن مقصود حرف کن فکان\r\nزیر پای امهات آمد جنان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگفت آن مقصود حرف «کن فکان»\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیر پای امهات آمد جنان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اماستوبس",
+      "PlainText": "ملت از تکریم ارحام است و بس\r\nورنه کار زندگی خام است و بس",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملت از تکریم ارحام است و بس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eورنه کار زندگی خام است و بس\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ارحیات",
+      "PlainText": "از امومت گرم رفتار حیات\r\nاز امومت کشف اسرار حیات",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز امومت گرم رفتار حیات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز امومت کشف اسرار حیات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ابجویما",
+      "PlainText": "از امومت پیچ و تاب جوی ما\r\nموج و گرداب و حباب جوی ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز امومت پیچ و تاب جوی ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموج و گرداب و حباب جوی ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "لی",
+      "PlainText": "آن دخ رستاق زادی جاهلی\r\nپست بالای سطبری بد گلی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن دخ رستاق زادی جاهلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپست بالای سطبری بد گلی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ادهیی",
+      "PlainText": "نا تراشی پرورش ناداده یی\r\nکم نگاهی کم زبانی ساده یی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنا تراشی پرورش ناداده ئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکم نگاهی کم زبانی ساده ئی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ون",
+      "PlainText": "دل ز آلام امومت کرده خون\r\nگرد چشمش حلقه های نیلگون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل ز آلام امومت کرده خون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرد چشمش حلقه های نیلگون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ست",
+      "PlainText": "ملت ار گیرد ز آغوشش بدست\r\nیک مسلمان غیور و حق پرست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملت ار گیرد ز آغوشش بدست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک مسلمان غیور و حق پرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اماوست",
+      "PlainText": "هستی ما محکم از آلام اوست\r\nصبح ما عالم فروز از شام اوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستی ما محکم از آلام اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبح ما عالم فروز از شام اوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ری",
+      "PlainText": "وان تهی آغوش نازک پیکری\r\nخانه پرورد نگاهش محشری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوان تهی آغوش نازک پیکری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخانه پرورد نگاهش محشری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ناست",
+      "PlainText": "فکر او از تاب مغرب روشن است\r\nظاهرش زن باطن او نازن است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفکر او از تاب مغرب روشن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eظاهرش زن باطن او نازن است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یخت",
+      "PlainText": "بندهای ملت بیضا گسیخت\r\nتا ز چشمش عشوه ها حل کرده ریخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبندهای ملت بیضا گسیخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ز چشمش عشوه ها حل کرده ریخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اازادیش",
+      "PlainText": "شوخ چشم و فتنه زا آزادیش\r\nاز حیا نا آشنا آزادیش",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوخ چشم و فتنه زا آزادیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حیا نا آشنا آزادیش\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رنتافت",
+      "PlainText": "علم او بار امومت بر نتافت\r\nبر سر شامش یکی اختر نتافت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلم او بار امومت بر نتافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر شامش یکی اختر نتافت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ستهبه",
+      "PlainText": "این گل از بستان ما نارسته به\r\nداغش از دامان ملت شسته به",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین گل از بستان ما نارسته به\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eداغش از دامان ملت شسته به\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "لااله گویان چو انجم بی شمار\r\nبسته چشم اندر ظلام روزگار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلااله گویان چو انجم بی شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبسته چشم اندر ظلام روزگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "مبیرونهنوز",
+      "PlainText": "پا نبرده از عدم بیرون هنوز\r\nاز سواد کیف و کم بیرون هنوز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپا نبرده از عدم بیرون هنوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز سواد کیف و کم بیرون هنوز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ودما",
+      "PlainText": "مضمر اندر ظلمت موجود ما\r\nآن تجلی های نامشهود ما",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمضمر اندر ظلمت موجود ما\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن تجلی های نامشهود ما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 29,
+      "Number": 29,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ستهیی",
+      "PlainText": "شبنمی بر برگ گل ننشسته یی\r\nغنچه هایی از صبا نا خسته یی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشبنمی بر برگ گل ننشسته ئی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغنچه هائی از صبا نا خسته ئی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 30,
+      "Number": 30,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ات",
+      "PlainText": "بر دمد این لاله زار ممکنات\r\nاز خیابان ریاض امهات",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر دمد این لاله زار ممکنات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خیابان ریاض امهات\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 31,
+      "Number": 31,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "قوم را سرمایه ای صاحب نظر\r\nنیست از نقد و قماش و سیم و زر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقوم را سرمایه ای صاحب نظر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنیست از نقد و قماش و سیم و زر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 32,
+      "Number": 32,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ست",
+      "PlainText": "مال او فرزند های تندرست\r\nتر دماغ و سخت کوش و چاق و چست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمال او فرزند های تندرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتر دماغ و سخت کوش و چاق و چست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 33,
+      "Number": 33,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "تمادران",
+      "PlainText": "حافظ رمز اخوت مادران\r\nقوت قرآن و ملت مادران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحافظ رمز اخوت مادران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقوت قرآن و ملت مادران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نغمه خیز از زخمهٔ زن ساز مرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: به خاطر نیاز مرد، ساز زن به صدا درمی‌آید و نغمه‌ای زیبا می‌سازد. از این طریق، احساسات و زیبایی‌های عشق و وابستگی به نمایش درمی‌آید."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از نیاز او دو بالا ناز مرد",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "پوشش عریانی مردان زن است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: عریانی مردان، به نوعی نشانه‌ای از جذابیت و زیبایی زنان است و عشق، همچون پیراهنی است که به دل کمک می‌کند تا به زندگی معنا بخشد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "حسن دلجو عشق را پیراهن است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عشق حق پروردهٔ آغوش او",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: عشق به گونه‌ای در آغوش او پرورش یافته است که این نوا از سکوت و خاموشی او به گوش می‌رسد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "این نوا از زخمهٔ خاموش او",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آنکه نازد بر وجودش کائنات",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: کسی که به وجودش تکیه می‌شود، کائنات درباره‌اش با نیکی و احترام صحبت کرده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ذکر او فرمود با طیب و صلوة",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "مسلمی کو را پرستاری شمرد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: کسی که تنها به ظواهر دین و عبادت می‌پردازد و عمق معانی و حکمت‌های قرآن را درک نمی‌کند، از دانش و بصیرت واقعی بی‌بهره است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "بهره ئی از حکمت قرآن نبرد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "نیک اگر بینی امومت رحمت است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: اگر به خوبی نگاه کنی، می‌بینی که اصلیت و جوهره‌ات در رحمت است، زیرا او به مقام نبوت مرتبط است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "زانکه او را با نبوت نسبت است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "شفقت او شفقت پیغمبر است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: شفقت او همانند شفقت پیامبران است؛ او ویژگی‌های اقوام را به زیبایی شکل می‌دهد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "سیرت اقوام را صورتگر است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "از امومت پخته تر تعمیر ما",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: تعمیر و بهبود حال‌مان به اندازه‌ی چهره و نمای او به خوبی مقدر شده است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "در خط سیمای او تقدیر ما",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "هست اگر فرهنگ تو معنی رسی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: اگر فرهنگ تو به درستی شکل گرفته باشد، می‌توانی از منظور و مقصود مردم به خوبی آگاه شوی، زیرا در این موضوع نکات و نکته‌سنجی‌های زیادی وجود دارد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "حرف امت نکته ها دارد بسی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "گفت آن مقصود حرف «کن فکان»",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: گفته شده است که هدف نهایی و مقصود همه چیز، در کلام «باش و آنچه باید، می‌شود» به زیر پای مادران و منبع زندگی آمده و به بهشت نزدیک شده است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "زیر پای امهات آمد جنان",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "ملت از تکریم ارحام است و بس",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: مردم فقط به احترام خانواده‌های خود اهمیت می‌دهند و اگر این احترام نباشد، زندگی بی‌ارزش و بی‌معنا می‌شود."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "ورنه کار زندگی خام است و بس",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "از امومت گرم رفتار حیات",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: از آن‌جا که مادر به ما زندگی و رفتار را می‌آموزد، به همین دلیل رازهای زندگی نیز از او کشف می‌شود."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "از امومت کشف اسرار حیات",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "از امومت پیچ و تاب جوی ما",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: از دلایل حیات و پیچیدگی‌های زندگی ما مانند موج و گرداب و حباب در آب است که نشان‌دهنده تحولات و تغییراتی است که در مسیر ما رخ می‌دهد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "موج و گرداب و حباب جوی ما",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "آن دخ رستاق زادی جاهلی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: دختر زاده‌ای از یک روستا که در زمان جاهلی و بی‌خبری به دنیا آمده، در بالای یک چاله گلی قرار دارد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "پست بالای سطبری بد گلی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "نا تراشی پرورش ناداده ئی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: تو بدون اینکه پرورشی یافتی، در نظر دیگران کم‌ارزش و بی‌محتوا به نظر می‌رسی، چرا که کلامت ساده و سطحی است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "کم نگاهی کم زبانی ساده ئی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "دل ز آلام امومت کرده خون",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: دل از دردهای مادرانه اش پر از غم شده و اشک‌هایش مانند حلقه‌های آبی دور چشمانش جمع شده است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "گرد چشمش حلقه های نیلگون",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "ملت ار گیرد ز آغوشش بدست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: اگر ملت در آغوش یک مسلمان غیور و حق‌پرست قرار گیرد، قدرت و عزت زیادی به دست خواهد آورد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "یک مسلمان غیور و حق پرست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "هستی ما محکم از آلام اوست",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: وجود ما به خاطر دردهای او است و روز ما به روشنی شب او بستگی دارد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "صبح ما عالم فروز از شام اوست",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "وان تهی آغوش نازک پیکری",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: آغوش خالی آن جسم نازک، همچون خانه‌ای است که پر از زیبایی و جاذبه چشم‌هایش می‌شود."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "خانه پرورد نگاهش محشری",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "فکر او از تاب مغرب روشن است",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: اندیشه و تفکر او به روشنی از مغرب تابیده می‌شود، در حالی که ظاهر او زن است و باطنش دارای لطافت و زیبایی است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "ظاهرش زن باطن او نازن است",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "بندهای ملت بیضا گسیخت",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: بندهای ملت بیضا پاره شد و از چشمانش ناز و عشوه‌ها به بیرون ریخت."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "تا ز چشمش عشوه ها حل کرده ریخت",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "شوخ چشم و فتنه زا آزادیش",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: چشم‌های بازی که سرشار از شوخی و فریبندگی‌اند، آزادی‌شان از حیا و خجالت برای کسی ناشناخته است."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "از حیا نا آشنا آزادیش",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "علم او بار امومت بر نتافت",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: علم و دانش او به قدری زیاد بود که بار هدایت و رهبری بر دوش او سنگینی نمی‌کرد؛ در شامگاه عمرش، هیچ ستاره‌ای بر سرش درخشید."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "بر سر شامش یکی اختر نتافت",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "این گل از بستان ما نارسته به",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: این گل از باغ ما نشسته و به خاطر دردش، از دامن ملت جدا شده است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "داغش از دامان ملت شسته به",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "لااله گویان چو انجم بی شمار",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: به افرادی که به توحید و یکتاپرستی اعتقاد دارند و به هیچ چیز جز خداوند اعتنایی نمی‌کنند، مانند ستاره‌های بیشماری هستند که در تاریکی دنیای پر از مشکلات و چالش‌ها، چشم‌های خود را بسته‌اند."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "بسته چشم اندر ظلام روزگار",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "پا نبرده از عدم بیرون هنوز",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: هنوز از حالت عدم و هیچ بودن خارج نشده‌ام و هنوز به مرحله‌ای از زندگی که بتوانم از لذت‌ها و دردها فاصله بگیرم نرسیده‌ام."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "از سواد کیف و کم بیرون هنوز",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "مضمر اندر ظلمت موجود ما",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در دل تاریکی وجود ما، جلوه‌های نامرئی و پنهان ما نهفته است."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "آن تجلی های نامشهود ما",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "شبنمی بر برگ گل ننشسته ئی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به زیبایی اشاره شده که هنوز شبنمی بر روی برگ گل نشسته و غنچه‌های شاداب از نسیم بهاری سرزنده و شگفت‌انگیز هستند. این تصویر به حس تازگی و شگفتی طبیعت اشاره دارد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "غنچه هائی از صبا نا خسته ئی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "بر دمد این لاله زار ممکنات",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره به زیبایی و سرسبزی طبیعت و زندگی می‌شود. با دمیدن سحر، لاله زارها و زیبایی‌های موجود در دنیا به جلوه‌گری می‌پردازند و آغازی تازه را نوید می‌دهند. این تصویر نشان‌دهنده‌ی شکوفایی و بیداری در دل طبیعت و زندگی است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "از خیابان ریاض امهات",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "قوم را سرمایه ای صاحب نظر",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: افرادی که در این جامعه هستند، توانایی و دانش کافی برای بهره‌برداری از دارایی‌ها و ثروت‌های مادی مانند پول و طلا را ندارند."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "نیست از نقد و قماش و سیم و زر",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "مال او فرزند های تندرست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: دارایی او فرزندانی سالم، با روحیه‌ای قوی و فعال و با نشاط به دنیا می‌آورد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "تر دماغ و سخت کوش و چاق و چست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "حافظ رمز اخوت مادران",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: برادری و دوستی در میان انسان‌ها به منش و تربیت والدین، به ویژه مادران، بستگی دارد. مادران با نقش مهمی که در تربیت فرزندان دارند، می‌توانند به تقویت ارزش‌های انسانی و فرهنگی، به خصوص آموزه‌های قرآن و اصول ملی کمک کنند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "قوت قرآن و ملت مادران",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33
+    }
+  ]
+}

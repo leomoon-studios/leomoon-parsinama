@@ -1,0 +1,1271 @@
+{
+  "Id": 1539,
+  "CatId": 59,
+  "Title": "بخش ۱۳ - سخن دقیقی",
+  "FullTitle": "فردوسی » شاهنامه » پادشاهی گشتاسپ صد و بیست سال بود » بخش ۱۳ - سخن دقیقی",
+  "FullUrl": "/ferdousi/shahname/goshtasp/sh13",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این بخش از داستان، سوارانی از ارتش ایران به میدان نبرد می‌آیند. یکی از آنان به نام گرامی، در نبردی شجاعانه با دشمنان چینی می‌جنگد و درفش کاویان (نماد ایرانیان) را از خاک برمی‌دارد. او بر دشمنان تاخته و شمشیر می‌زند، اما در نهایت کشته می‌شود. دیگر سواران هم با شجاعت به نبرد ادامه می‌دهند و کشته‌های زیادی بر زمین می‌افتند. میدان جنگ به شدت خونین می‌شود و زمین زیر پای‌شان پر از کشته‌ها و زخمی‌هاست. نبرد شدت می‌گیرد و دو طرف با قدرت به مبارزه ادامه می‌دهند.",
+  "Metre": {
+    "Id": 23,
+    "Rhythm": "فعولن فعولن فعولن فعل (متقارب مثمن محذوف یا وزن شاهنامه)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "بیامد سر سروران سپاه\r\nپسر تهم جاماسپ دستور شاه\r\nنبرده سواری گرامیش نام\r\nبه ماننده پور دستان سام\r\nیکی چرمه ای برنشسته سمند\r\nیکی گام زن باره بی گزند\r\nچماننده چرمه نونده جوان\r\nیکی کوه پاره ست گوی روان\r\nبه پیش صف چینیان ایستاد\r\nخداوند بهزاد را کرد یاد\r\nکدامست گفت از شما شیردل\r\nکه آید سوی نیزه جان گسل\r\nکجا باشد آن جادوی خویش کام\r\nکجا خواست نام و هزارانش نام\r\nبرفت آن زمان پیش او نامخواست\r\nتو گفتی که همچو ستونست راست\r\nبگشتند هر دو سوار هژیر\r\nبه گرز و به نیزه به شمشیر و تیر\r\nگرامی گوی بود با زور شیر\r\nنتابید با او سوار دلیر\r\nگرفت از گرامی نبرده گریغ\r\nگرامی کفش بود برنده تیغ\r\nگرامی خرامید با خشم تیز\r\nدل از کینه کشتگان پر ستیز\r\nمیان صف دشمن اندر فتاد\r\nپس از دامن کوه برخاست باد\r\nسپاه از دو رو بر هم آویختند\r\nو گرد از دو لشکر برانگیختند\r\nبدان شورش اندر میان سپاه\r\nازان زخم گردان و گرد سیاه\r\nبیفتاد از دست ایرانیان\r\nدرفش فروزنده کاویان\r\nگرامی بدید آن درفش چو نیل\r\nکه افگنده بودند از پشت پیل\r\nفرود آمد و بر گرفت آن ز خاک\r\nبیفشاند از خاک و بسترد پاک\r\nچو او را بدیدند گردان چین\r\nکه آن نیزه نامدار گزین\r\nازان خاک برداشت  بسترد و برد\r\nبه گردش گرفتند مردان گرد\r\nز هر سو به گردش همی تاختند\r\nبه شمشیر دستش بینداختند\r\nدرفش فریدون به دندان گرفت\r\nهمی زد به یک دست گرز ای شگفت\r\nسرانجام کارش بکشتند زار\r\nبران گرم خاکش فگندند خوار\r\nدریغ آن نبرده سوار هژبر\r\nکه بازش ندید آن خردمند پیر\r\nبیامد هم آنگاه بستور شیر\r\nنبرده کیان زاده پور زریر\r\nبکشت او ازان دشمنان بی شمار\r\nکه آویخت اندر بد روزگار\r\nسرانجام برگشت پیروز و شاد\r\nبه پیش پدر باز شد و ایستاد\r\nبیامد پس آن برگزیده سوار\r\nپس شهریار جهان نیوزار\r\nبه زیر اندرون تیزرو شولکی\r\nکه نبود چنان از هزاران یکی\r\nبیامد بران تیره آوردگاه\r\nبه آواز گفت ای گزیده سپاه\r\nکدامست مرد از شما نامدار\r\nجهاندیده و گرد و نیزه گزار\r\nکه پیش من آیند نیزه به دست\r\nکه امروز در پیش مرد آمدست\r\nسواران چین پیش او تاختند\r\nبرافگندنش را همی ساختند\r\nسوار جهانجوی مرد دلیر\r\nچو پیل دژآگاه و چون نره شیر\r\nهمی گشت بر گرد مردان چین\r\nتو گفتی همی بر نوردد زمین\r\nبکشت از گوان جهان شست مرد\r\nدران تاختنها به گرز نبرد\r\nسرانجامش آمد یکی تیر چرخ\r\nچنان آمده بودش از چرخ برخ\r\nبیفتاد زان شولک خوب رنگ\r\nبمرد و نرست اینت فرجام جنگ\r\nدریغ آن سوار گرانمایه نیز\r\nکه افگنده شد رایگان بر نه چیز\r\nکه همچون پدر بود و همتای اوی\r\nدریغ آن نکو روی و بالای اوی\r\nچو کشته شد آن نامبرده سوار\r\nز گردان به گردش هزاران هزار\r\nبهر گوشه ای بر هم آویختند\r\nز روی زمین گرد انگیختند\r\nبرآمد برین رزم کردن دو هفت\r\nکزیشان سواری زمانی نخفت\r\nزمینها پر از کشته و خسته شد\r\nسراپرده ها نیز بربسته شد\r\nدر و دشتها شد همه لاله گون\r\nبه دشت و بیابان همی رفت خون\r\nچنان بد ز بس کشته آن رزمگاه\r\nکه بد می توانست رفتن به راه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد سر سروران سپاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپسر تهم جاماسپ دستور شاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبرده سواری گرامیش نام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه مانندهٔ پور دستان سام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی چرمه‌ای برنشسته سمند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی گام زن بارهٔ بی‌گزند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچمانندهٔ چرمهٔ نونده جوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی کوه پاره ست گوی روان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پیش صف چینیان ایستاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخداوند بهزاد را کرد یاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکدامست گفت از شما شیردل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آید سوی نیزهٔ جان گسل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجا باشد آن جادوی خویش کام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجا خواست نام و هزارانش نام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرفت آن زمان پیش او نامخواست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو گفتی که همچو ستونست راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگشتند هر دو سوار هژیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه گرز و به نیزه به شمشیر و تیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرامی گوی بود با زور شیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتابید با او سوار دلیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرفت از گرامی نبرده گریغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرامی کفش بود برنده تیغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرامی خرامید با خشم تیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل از کینهٔ کشتگان پر ستیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیان صف دشمن اندر فتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس از دامن کوه برخاست باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپاه از دو رو بر هم آویختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو گرد از دو لشکر برانگیختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدان شورش اندر میان سپاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازان زخم گردان و گرد سیاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیفتاد از دست ایرانیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرفش فروزندهٔ کاویان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرامی بدید آن درفش چو نیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه افگنده بودند از پشت پیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرود آمد و بر گرفت آن ز خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیفشاند از خاک و بسترد پاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو او را بدیدند گردان چین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آن نیزهٔ نامدار گزین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازان خاک برداشت ، بسترد و برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه گردش گرفتند مردان گرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز هر سو به گردش همی تاختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه شمشیر دستش بینداختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرفش فریدون به دندان گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی زد به یک دست گرز ای شگفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرانجام کارش بکشتند زار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبران گرم خاکش فگندند خوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریغ آن نبرده سوار هژبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بازش ندید آن خردمند پیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد هم آنگاه بستور شیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبرده کیان زاده پور زریر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبکشت او ازان دشمنان بی‌شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آویخت اندر بد روزگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرانجام برگشت پیروز و شاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه پیش پدر باز شد و ایستاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد پس آن برگزیده سوار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس شهریار جهان نیوزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زیر اندرون تیزرو شولکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نبود چنان از هزاران یکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد بران تیره آوردگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه آواز گفت ای گزیده سپاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکدامست مرد از شما نامدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهاندیده و گرد و نیزه‌گزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه پیش من آیند نیزه به دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه امروز در پیش مرد آمدست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسواران چین پیش او تاختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرافگندنش را همی ساختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوار جهانجوی مرد دلیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو پیل دژآگاه و چون نره شیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی گشت بر گرد مردان چین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو گفتی همی بر نوردد زمین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبکشت از گوان جهان شست مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدران تاختنها به گرز نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرانجامش آمد یکی تیر چرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنان آمده بودش از چرخ برخ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیفتاد زان شولک خوب رنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبمرد و نرست اینت فرجام جنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریغ آن سوار گرانمایه نیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه افگنده شد رایگان بر نه چیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه همچون پدر بود و همتای اوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریغ آن نکو روی و بالای اوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو کشته شد آن نامبرده سوار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز گردان به گردش هزاران هزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر گوشه‌ای بر هم آویختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز روی زمین گرد انگیختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرآمد برین رزم کردن دو هفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکزیشان سواری زمانی نخفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزمینها پر از کشته و خسته شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسراپرده‌ها نیز بربسته شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر و دشتها شد همه لاله‌گون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دشت و بیابان همی رفت خون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان بد ز بس کشته آن رزمگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بد می‌توانست رفتن به راه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 46
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "بیامد سر سروران سپاه\r\nپسر تهم جاماسپ دستور شاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد سر سروران سپاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپسر تهم جاماسپ دستور شاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ام",
+      "PlainText": "نبرده سواری گرامیش نام\r\nبه ماننده پور دستان سام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنبرده سواری گرامیش نام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه مانندهٔ پور دستان سام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ند",
+      "PlainText": "یکی چرمه ای برنشسته سمند\r\nیکی گام زن باره بی گزند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیکی چرمه‌ای برنشسته سمند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی گام زن بارهٔ بی‌گزند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وان",
+      "PlainText": "چماننده چرمه نونده جوان\r\nیکی کوه پاره ست گوی روان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچمانندهٔ چرمهٔ نونده جوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیکی کوه پاره ست گوی روان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اد",
+      "PlainText": "به پیش صف چینیان ایستاد\r\nخداوند بهزاد را کرد یاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه پیش صف چینیان ایستاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخداوند بهزاد را کرد یاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ل",
+      "PlainText": "کدامست گفت از شما شیردل\r\nکه آید سوی نیزه جان گسل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکدامست گفت از شما شیردل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آید سوی نیزهٔ جان گسل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ام",
+      "PlainText": "کجا باشد آن جادوی خویش کام\r\nکجا خواست نام و هزارانش نام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکجا باشد آن جادوی خویش کام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکجا خواست نام و هزارانش نام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "است",
+      "PlainText": "برفت آن زمان پیش او نامخواست\r\nتو گفتی که همچو ستونست راست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرفت آن زمان پیش او نامخواست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو گفتی که همچو ستونست راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یر",
+      "PlainText": "بگشتند هر دو سوار هژیر\r\nبه گرز و به نیزه به شمشیر و تیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگشتند هر دو سوار هژیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه گرز و به نیزه به شمشیر و تیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یر",
+      "PlainText": "گرامی گوی بود با زور شیر\r\nنتابید با او سوار دلیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرامی گوی بود با زور شیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتابید با او سوار دلیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یغ",
+      "PlainText": "گرفت از گرامی نبرده گریغ\r\nگرامی کفش بود برنده تیغ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرفت از گرامی نبرده گریغ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرامی کفش بود برنده تیغ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "تیز",
+      "PlainText": "گرامی خرامید با خشم تیز\r\nدل از کینه کشتگان پر ستیز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرامی خرامید با خشم تیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل از کینهٔ کشتگان پر ستیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اد",
+      "PlainText": "میان صف دشمن اندر فتاد\r\nپس از دامن کوه برخاست باد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیان صف دشمن اندر فتاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس از دامن کوه برخاست باد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یختند",
+      "PlainText": "سپاه از دو رو بر هم آویختند\r\nو گرد از دو لشکر برانگیختند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسپاه از دو رو بر هم آویختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو گرد از دو لشکر برانگیختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "بدان شورش اندر میان سپاه\r\nازان زخم گردان و گرد سیاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدان شورش اندر میان سپاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eازان زخم گردان و گرد سیاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یان",
+      "PlainText": "بیفتاد از دست ایرانیان\r\nدرفش فروزنده کاویان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیفتاد از دست ایرانیان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرفش فروزندهٔ کاویان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یل",
+      "PlainText": "گرامی بدید آن درفش چو نیل\r\nکه افگنده بودند از پشت پیل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرامی بدید آن درفش چو نیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه افگنده بودند از پشت پیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اک",
+      "PlainText": "فرود آمد و بر گرفت آن ز خاک\r\nبیفشاند از خاک و بسترد پاک",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرود آمد و بر گرفت آن ز خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیفشاند از خاک و بسترد پاک\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "چو او را بدیدند گردان چین\r\nکه آن نیزه نامدار گزین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو او را بدیدند گردان چین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آن نیزهٔ نامدار گزین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "ازان خاک برداشت  بسترد و برد\r\nبه گردش گرفتند مردان گرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eازان خاک برداشت ، بسترد و برد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه گردش گرفتند مردان گرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اختند",
+      "PlainText": "ز هر سو به گردش همی تاختند\r\nبه شمشیر دستش بینداختند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز هر سو به گردش همی تاختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه شمشیر دستش بینداختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فت",
+      "PlainText": "درفش فریدون به دندان گرفت\r\nهمی زد به یک دست گرز ای شگفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرفش فریدون به دندان گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمی زد به یک دست گرز ای شگفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "سرانجام کارش بکشتند زار\r\nبران گرم خاکش فگندند خوار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرانجام کارش بکشتند زار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبران گرم خاکش فگندند خوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "دریغ آن نبرده سوار هژبر\r\nکه بازش ندید آن خردمند پیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریغ آن نبرده سوار هژبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بازش ندید آن خردمند پیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یر",
+      "PlainText": "بیامد هم آنگاه بستور شیر\r\nنبرده کیان زاده پور زریر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد هم آنگاه بستور شیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبرده کیان زاده پور زریر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "بکشت او ازان دشمنان بی شمار\r\nکه آویخت اندر بد روزگار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبکشت او ازان دشمنان بی‌شمار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آویخت اندر بد روزگار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اد",
+      "PlainText": "سرانجام برگشت پیروز و شاد\r\nبه پیش پدر باز شد و ایستاد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرانجام برگشت پیروز و شاد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه پیش پدر باز شد و ایستاد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 29,
+      "Number": 29,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "بیامد پس آن برگزیده سوار\r\nپس شهریار جهان نیوزار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد پس آن برگزیده سوار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس شهریار جهان نیوزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 30,
+      "Number": 30,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "کی",
+      "PlainText": "به زیر اندرون تیزرو شولکی\r\nکه نبود چنان از هزاران یکی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زیر اندرون تیزرو شولکی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نبود چنان از هزاران یکی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 31,
+      "Number": 31,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "بیامد بران تیره آوردگاه\r\nبه آواز گفت ای گزیده سپاه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیامد بران تیره آوردگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه آواز گفت ای گزیده سپاه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 32,
+      "Number": 32,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "کدامست مرد از شما نامدار\r\nجهاندیده و گرد و نیزه گزار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکدامست مرد از شما نامدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجهاندیده و گرد و نیزه‌گزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 33,
+      "Number": 33,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دست",
+      "PlainText": "که پیش من آیند نیزه به دست\r\nکه امروز در پیش مرد آمدست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه پیش من آیند نیزه به دست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه امروز در پیش مرد آمدست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 34,
+      "Number": 34,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اختند",
+      "PlainText": "سواران چین پیش او تاختند\r\nبرافگندنش را همی ساختند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسواران چین پیش او تاختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرافگندنش را همی ساختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 35,
+      "Number": 35,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یر",
+      "PlainText": "سوار جهانجوی مرد دلیر\r\nچو پیل دژآگاه و چون نره شیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوار جهانجوی مرد دلیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچو پیل دژآگاه و چون نره شیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 36,
+      "Number": 36,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "همی گشت بر گرد مردان چین\r\nتو گفتی همی بر نوردد زمین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمی گشت بر گرد مردان چین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو گفتی همی بر نوردد زمین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 37,
+      "Number": 37,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "بکشت از گوان جهان شست مرد\r\nدران تاختنها به گرز نبرد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبکشت از گوان جهان شست مرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدران تاختنها به گرز نبرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 38,
+      "Number": 38,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رخ",
+      "PlainText": "سرانجامش آمد یکی تیر چرخ\r\nچنان آمده بودش از چرخ برخ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرانجامش آمد یکی تیر چرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنان آمده بودش از چرخ برخ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 39,
+      "Number": 39,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "نگ",
+      "PlainText": "بیفتاد زان شولک خوب رنگ\r\nبمرد و نرست اینت فرجام جنگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیفتاد زان شولک خوب رنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبمرد و نرست اینت فرجام جنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 40,
+      "Number": 40,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یز",
+      "PlainText": "دریغ آن سوار گرانمایه نیز\r\nکه افگنده شد رایگان بر نه چیز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدریغ آن سوار گرانمایه نیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه افگنده شد رایگان بر نه چیز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 41,
+      "Number": 41,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ایاوی",
+      "PlainText": "که همچون پدر بود و همتای اوی\r\nدریغ آن نکو روی و بالای اوی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه همچون پدر بود و همتای اوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدریغ آن نکو روی و بالای اوی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 42,
+      "Number": 42,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "چو کشته شد آن نامبرده سوار\r\nز گردان به گردش هزاران هزار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو کشته شد آن نامبرده سوار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز گردان به گردش هزاران هزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 43,
+      "Number": 43,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یختند",
+      "PlainText": "بهر گوشه ای بر هم آویختند\r\nز روی زمین گرد انگیختند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبهر گوشه‌ای بر هم آویختند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز روی زمین گرد انگیختند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 44,
+      "Number": 44,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "فت",
+      "PlainText": "برآمد برین رزم کردن دو هفت\r\nکزیشان سواری زمانی نخفت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرآمد برین رزم کردن دو هفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکزیشان سواری زمانی نخفت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 45,
+      "Number": 45,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ستهشد",
+      "PlainText": "زمینها پر از کشته و خسته شد\r\nسراپرده ها نیز بربسته شد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزمینها پر از کشته و خسته شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسراپرده‌ها نیز بربسته شد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 46,
+      "Number": 46,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ون",
+      "PlainText": "در و دشتها شد همه لاله گون\r\nبه دشت و بیابان همی رفت خون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر و دشتها شد همه لاله‌گون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دشت و بیابان همی رفت خون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 47,
+      "Number": 47,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اه",
+      "PlainText": "چنان بد ز بس کشته آن رزمگاه\r\nکه بد می توانست رفتن به راه",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنان بد ز بس کشته آن رزمگاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بد می‌توانست رفتن به راه\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بیامد سر سروران سپاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: فرماندهی از گروه سروران به نزد پسر تهم جاماسپ، که دستور شاه بود، آمد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "پسر تهم جاماسپ دستور شاه",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نبرده سواری گرامیش نام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: شخصی که سوارکاری را تجربه نکرده، به اندازه‌ی پسری از نسل سام، باارزش و معروف نیست."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "به مانندهٔ پور دستان سام",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "یکی چرمه‌ای برنشسته سمند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: یک نفر بر روی اسبش نشسته و دیگر کسی در حال قدم زدن است، بدون اینکه آسیبی ببیند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "یکی گام زن بارهٔ بی‌گزند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چمانندهٔ چرمهٔ نونده جوان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به تصویر کشیده شده که جوانی پرخم و راست و شاداب مانند قطعه‌ای از کوه، با انرژی و قوتی بی‌نظیر، در حال حرکت و جلوه‌گری است. این تشبیه نشان می‌دهد که او همچون مکانی طبیعی و پابرجا، استوار و با روحیه‌ای سرزنده به نظر می‌رسد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "یکی کوه پاره ست گوی روان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "به پیش صف چینیان ایستاد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: خداوند بهزاد را در مقابل صف زودگذران قرار داد و یاد او را زنده کرد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خداوند بهزاد را کرد یاد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "کدامست گفت از شما شیردل",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: کدام یک از شما شجاعان است که به سمت نیزه‌ای که جان را می‌گیرد، می‌آید؟"
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که آید سوی نیزهٔ جان گسل",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "کجا باشد آن جادوی خویش کام",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: کجا می‌توان آن جادو را یافت که خواسته‌ها و آرزوهایم را برآورده کند و نام و شهرتی به من ببخشد؟"
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "کجا خواست نام و هزارانش نام",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "برفت آن زمان پیش او نامخواست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: در آن زمان که او رفت، نامی از تو نخواست. تو گفتی که او درست مثل یک ستون است و ایستاده است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "تو گفتی که همچو ستونست راست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "بگشتند هر دو سوار هژیر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هردو سوار دلیر به سلاح‌های خود، مانند گرز، نیزه، شمشیر و تیر، بازگشتند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "به گرز و به نیزه به شمشیر و تیر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "گرامی گوی بود با زور شیر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: اگر گفتار محترم و ارزشمندی باشد، با قدرت و شجاعت شیر، بر او سوار نمی‌شود."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "نتابید با او سوار دلیر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "گرفت از گرامی نبرده گریغ",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: از شخص محترم چیزی نگرفت و به دنبال او نرفت. در حالی که او از کفش‌اش به عنوان سلاحی برای دفاع استفاده کرد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "گرامی کفش بود برنده تیغ",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "گرامی خرامید با خشم تیز",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: شخصی با شکوه و وقار به آرامی حرکت می‌کند، در حالی که دل او از کینهٔ کسانی که در جنگ‌ها کشته شده‌اند، پر است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "دل از کینهٔ کشتگان پر ستیز",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "میان صف دشمن اندر فتاد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: نَفَسی ناگهان در میان صف دشمن ایجاد شد و این اتفاق پس از آن بود که بادی از دامن کوه برخاست."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "پس از دامن کوه برخاست باد",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "سپاه از دو رو بر هم آویختند",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: دو سپاه با هم درگیر شدند و گرد و غبار ناشی از نبردشان به هوا بلند شد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "و گرد از دو لشکر برانگیختند",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "بدان شورش اندر میان سپاه",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: در میان گروه جنگجویان، به خاطر آن زخم که ایجاد کرده، یک شورش و آشفتگی به وجود آمده است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "ازان زخم گردان و گرد سیاه",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "بیفتاد از دست ایرانیان",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: درفش درخشان کاویان از دست ایرانیان افتاد."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "درفش فروزندهٔ کاویان",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "گرامی بدید آن درفش چو نیل",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: دیدن آن پرچم گران‌قدر مانند نیل، که از پشت فیل‌ها بر افراشته شده بود، بسیار ارزشمند و محترم است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "که افگنده بودند از پشت پیل",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "فرود آمد و بر گرفت آن ز خاک",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: او از آسمان پایین آمد و آن چیز را از زمین برداشت و به دور ریخت و به طور پاک و درست قرار داد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "بیفشاند از خاک و بسترد پاک",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "چو او را بدیدند گردان چین",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: زمانی که او را دیدند که در حال چرخش است، آن نیزه‌ی معروف را انتخاب کردند."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "که آن نیزهٔ نامدار گزین",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "ازان خاک برداشت ، بسترد و برد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: از آن خاک برداشتند و آن را ترک کردند و مردان گرداگرد او را محاصره کردند."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "به گردش گرفتند مردان گرد",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "ز هر سو به گردش همی تاختند",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22,
+      "CoupletSummary": "هوش مصنوعی: از هر سمت به سوی او هجوم آوردند و با شمشیر به او حمله کردند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "به شمشیر دستش بینداختند",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "درفش فریدون به دندان گرفت",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23,
+      "CoupletSummary": "هوش مصنوعی: فریدون پرچم خود را به دندان گرفته بود و با یک دست گرزی را محکم می‌زد. شگفت‌انگیز است!"
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "همی زد به یک دست گرز ای شگفت",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 23
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "سرانجام کارش بکشتند زار",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، او را به طور غم‌انگیزی به قتل رساندند و بدنش را به خاک سپردند، به طوری که هیچ ارزشی برایش قائل نشدند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "بران گرم خاکش فگندند خوار",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 24
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "دریغ آن نبرده سوار هژبر",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25,
+      "CoupletSummary": "هوش مصنوعی: سوار هژبر (نوعی اسب یا نشانه‌ای از قدرت) از دست رفته‌اش را نمی‌بیند، اما آن حکیم سالخورده هنوز به یاد آن است و افسوس می‌خورد."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "که بازش ندید آن خردمند پیر",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "بیامد هم آنگاه بستور شیر",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26,
+      "CoupletSummary": "هوش مصنوعی: در زمانی که اهریمن به نام بستور به سرزمین کیان آمده بود، پور زریر، فرزند کیان، نیازی به ترس ندارد و شجاعانه با او روبرو خواهد شد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "نبرده کیان زاده پور زریر",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "بکشت او ازان دشمنان بی‌شمار",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27,
+      "CoupletSummary": "هوش مصنوعی: او از دشمنان بی‌شمار خود که در روزهای بد به او حمله‌ور بودند، به خوبی عبور کرد و پیروز شد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "که آویخت اندر بد روزگار",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "سرانجام برگشت پیروز و شاد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، او با خوشحالی و پیروزی به نزد پدرش برگشت و ایستاد."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "به پیش پدر باز شد و ایستاد",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 28
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "بیامد پس آن برگزیده سوار",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29,
+      "CoupletSummary": "هوش مصنوعی: پس از اینکه آن فرد برگزیده سوار بر اسب آمد، شهریار جهان نیز به او پیوست."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "پس شهریار جهان نیوزار",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 29
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "به زیر اندرون تیزرو شولکی",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30,
+      "CoupletSummary": "هوش مصنوعی: زیرزمین سرشار از شوق و نشاط است، این شادی و شور را نمی‌توان با هیچ چیز دیگری مقایسه کرد؛ برای یافتن چنین احساسی، باید هزار نفر را بررسی کرد، اما در نهایت یکی از آنها هم نمی‌تواند به اندازه این شور و حال باشد."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "که نبود چنان از هزاران یکی",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 30
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "بیامد بران تیره آوردگاه",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31,
+      "CoupletSummary": "هوش مصنوعی: به میدان نبرد تاریک آمد و با صدا گفت: ای بهترین افراد سپاه، به من گوش کنید."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "به آواز گفت ای گزیده سپاه",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 31
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "کدامست مرد از شما نامدار",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32,
+      "CoupletSummary": "هوش مصنوعی: کدام یک از شما شناخته‌شده و با تجربه است که در نبردها مهارت دارد و از سلاح‌های جنگی استفاده می‌کند؟"
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "جهاندیده و گرد و نیزه‌گزار",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 32
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "که پیش من آیند نیزه به دست",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33,
+      "CoupletSummary": "هوش مصنوعی: کسانی که به نزد من می‌آیند، نیزه به دست دارند، زیرا امروز با مردان قدرتمند رو به‌رو شده‌ایم."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "که امروز در پیش مرد آمدست",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "سواران چین پیش او تاختند",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34,
+      "CoupletSummary": "هوش مصنوعی: سواران چینی به سمت او حمله کردند و تلاش می‌کردند او را به زمین بیندازند."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "برافگندنش را همی ساختند",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 34
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "سوار جهانجوی مرد دلیر",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35,
+      "CoupletSummary": "هوش مصنوعی: سوار جنگجوی شجاع و دلیر مانند فیل، قدرتی بزرگ و آگاهی عمیق دارد و همچون شیر نر، در میدان نبرد با شجاعت و عظمت حاضر است."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "چو پیل دژآگاه و چون نره شیر",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "SectionIndex2": 35
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "همی گشت بر گرد مردان چین",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 36,
+      "CoupletSummary": "هوش مصنوعی: در اطراف مردان چین گرد و غیاب می‌کرد، گویی که زمین را می‌نوردد."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "تو گفتی همی بر نوردد زمین",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "SectionIndex2": 36
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "بکشت از گوان جهان شست مرد",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 37,
+      "CoupletSummary": "هوش مصنوعی: در اینجا اشاره به جنگی است که مردی شجاع و دلیر در آن، با نیرویی فراوان از دلاوری‌ها و نبردها، به جنگ با دشمنان می‌پردازد و با قدرت خود، بر بسیاری پیروز می‌شود. این تصویر، نشان‌دهنده‌ی شجاعت و جسارت در میدان نبرد است."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "دران تاختنها به گرز نبرد",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "SectionIndex2": 37
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "سرانجامش آمد یکی تیر چرخ",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 38,
+      "CoupletSummary": "هوش مصنوعی: در نهایت، یکی از تیرهای سرنوشت به او آسیب رساند، به گونه‌ای که گویی از آسمان و از چرخ روزگار به سویش آمده بود."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "چنان آمده بودش از چرخ برخ",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "SectionIndex2": 38
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "بیفتاد زان شولک خوب رنگ",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 39,
+      "CoupletSummary": "هوش مصنوعی: به خاطر آن شلوار زیبا، جانش را از دست داد و این چنین بود پایان جنگ."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "بمرد و نرست اینت فرجام جنگ",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "SectionIndex2": 39
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "دریغ آن سوار گرانمایه نیز",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 40,
+      "CoupletSummary": "هوش مصنوعی: متأسفانه، شخصی با ارزش و با ویژگی‌های برجسته، بدون هیچ دلیلی و به طور بی‌دلیل به زمین افتاده است."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "که افگنده شد رایگان بر نه چیز",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "SectionIndex2": 40
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "که همچون پدر بود و همتای اوی",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 41,
+      "CoupletSummary": "هوش مصنوعی: این بیت اشاره به شخصی دارد که مانند پدرش گران‌قدر و مورد احترام بوده و حیف است که آن چهره زیبا و ویژگی‌های برتر او از دست رفته است. در واقع، نویسنده حسرت و افسوس خود را از فقدان آن فرد بیان می‌کند."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "دریغ آن نکو روی و بالای اوی",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "SectionIndex2": 41
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "چو کشته شد آن نامبرده سوار",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 42,
+      "CoupletSummary": "هوش مصنوعی: وقتی که آن سوار معروف کشته شد، گرد و غباری به وجود آمد که هزاران هزار نفر را به حرکت درآورد."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "ز گردان به گردش هزاران هزار",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "SectionIndex2": 42
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "بهر گوشه‌ای بر هم آویختند",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 43,
+      "CoupletSummary": "هوش مصنوعی: در هر گوشه‌ای چیزی را به هم پیوسته‌اند و از روی زمین، گرد و غباری را به‌وجود آورده‌اند."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "ز روی زمین گرد انگیختند",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "SectionIndex2": 43
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "برآمد برین رزم کردن دو هفت",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 44,
+      "CoupletSummary": "هوش مصنوعی: دو روزگاری که در جنگ و نبرد سپری شد، در حالی که سوارکاران به مدت طولانی استراحت نکردند."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "کزیشان سواری زمانی نخفت",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "SectionIndex2": 44
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "زمینها پر از کشته و خسته شد",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 45,
+      "CoupletSummary": "هوش مصنوعی: زمین‌ها پر از مردگان و زخمی‌ها شده و چادرها نیز بسته و خاموش گردیده‌اند."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "سراپرده‌ها نیز بربسته شد",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "SectionIndex2": 45
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "در و دشتها شد همه لاله‌گون",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 46,
+      "CoupletSummary": "هوش مصنوعی: همه جا پر از لاله‌های زیبا و سرخ شده است و حتی در دشت‌ها و بیابان‌ها خونریزی به راه افتاده و زمین را رنگین کرده است."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "به دشت و بیابان همی رفت خون",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "SectionIndex2": 46
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "چنان بد ز بس کشته آن رزمگاه",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 47,
+      "CoupletSummary": "هوش مصنوعی: میدان جنگ آن‌قدر خونین و خطرناک بود که رفتن به آنجا بسیار دشوار و ناممکن به نظر می‌رسید."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "که بد می‌توانست رفتن به راه",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "SectionIndex2": 47
+    }
+  ]
+}

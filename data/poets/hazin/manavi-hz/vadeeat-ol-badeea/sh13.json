@@ -1,0 +1,569 @@
+{
+  "Id": 83617,
+  "CatId": 2182,
+  "Title": "بخش ۱۳",
+  "FullTitle": "حزین لاهیجی » مثنویات » ودیعة البدیعه (حدیقهٔ ثانی) » بخش ۱۳",
+  "FullUrl": "/hazin/manavi-hz/vadeeat-ol-badeea/sh13",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این متن بیانگر مفهوم وجود و عدم و نسبت آن‌ها با خدا و جهان است. به طور خلاصه می‌توان گفت که:\n\nوجود و عدم در عالم حقیقت معنا ندارند، زیرا در جایی که عقل حکم می‌کند، نمی‌توان وجود را به عدم تبدیل کرد. عالم علم فقط یک نوع رابطه با هستی و نیستی دارد. ذات ممکنات، به عنوان موجودات، تسلیم اراده خدا هستند و قابلیتی برای وجود دارند. وجود از اراده خدا ناشی می‌شود و این ارتباط بین فاعل (خداوند) و قابل (مخلوقات) به وضوح قابل درک است.\n\nدر اینجا وجود به دو نوع، عاجل و کامل تقسیم می‌شود و تأکید می‌شود که هیچ فعلی بدون نوری از خداوند تحقق نمی‌یابد. همچنین، این حقیقت برای کسانی که از درک و فهم صحیح بهره‌مند نیستند، نامشخص و محجوب باقی می‌ماند، در حالی که برای عارفان و محبوبان روشن و قابل درک است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "می نیارد عدم شود موجود\r\nاین عیان است پیش اهل شهود\r\nعقل در کشوری که هست حکم\r\nنتواند شدن وجود عدم\r\nعالم آنجا که صورت علمی ست\r\nنسبت آن به هست و نیست یکی ست\r\nذات ممکن که هست محض قبول\r\nکرده تسلیم امر و ترک فضول\r\nبود قابل وجود را و سبب\r\nقابلیت بود زبان طلب\r\nآفتاب اقضای روز کند\r\nهمه ذرات ازو بروز کند\r\nجلوه گر گشت اقتدار قدیر\r\nکه از آن می شود به کن تعبیر\r\nفیکون است آن قبول وجود\r\nمعنیش امتثال خواهد بود\r\nقابل کون بود چون ممکن\r\nکون در وی نهفته و کامن\r\nمتعلق چو شد اراده حی\r\nکون و کاین بروز کرد از وی\r\nباطن و ظاهر است اسم خدا\r\nلیک نسبت به ذات هست جدا\r\nهم چنین فاعل است و هم قابل\r\nفهم این نکته کی کند جاهل\r\nدر وجود اجتماع فعل و قبول\r\nپیش روشندلان بود معقول\r\nآن وجودی که عینی ذات است\r\nدو شیون است و دو اضافات است\r\nغیر مجعول عین حق باشد\r\nجعل مخصوص ما خلق باشد\r\nدو بدین است عاجل و کامل\r\nاز یکی فاعل از یکی قابل\r\nقابل و فاعل از یسار و یمین\r\nهر چه آن داد می پذیرد این\r\nفعل او جز به نور او نشود\r\nمظهرش جز ظهور او نشود\r\nمطلق از جمله صفات خود است\r\nمتعین به عین ذات خود است\r\nاین حقیقت به عین محجوبان\r\nچشم کور است و روی محبوبان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی نیارد عدم شود موجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین عیان است پیش اهل شهود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل در کشوری که هست حکم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتواند شدن وجود عدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم آنجا که صورت علمی ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنسبت آن به هست و نیست یکی ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذات ممکن که هست محض قبول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرده تسلیم امر و ترک فضول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود قابل وجود را و سبب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقابلیت بود زبان طلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفتاب اقضای روز کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه ذرات ازو بروز کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجلوه گر گشت اقتدار قدیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از آن می شود به کن تعبیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفیکون است آن قبول وجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعنیش امتثال خواهد بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقابل کون بود چون ممکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکون در وی نهفته و کامن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمتعلق چو شد ارادهٔ حی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکون و کاین بروز کرد از وی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباطن و ظاهر است اسم خدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک نسبت به ذات هست جدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم چنین فاعل است و هم قابل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفهم این نکته کی کند جاهل؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر وجود اجتماع فعل و قبول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش روشندلان بود معقول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن وجودی که عینی ذات است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو شئون است و دو اضافات است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر مجعول عین حق باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجعل مخصوص ما خلق باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو بدین است عاجل و کامل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز یکی فاعل از یکی قابل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقابل و فاعل از یسار و یمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چه آن داد می پذیرد این\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفعل او جز به نور او نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمظهرش جز ظهور او نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمطلق از جملهٔ صفات خود است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمتعین به عین ذات خود است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین حقیقت به عین محجوبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم کور است و روی محبوبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 20
+    },
+    {
+      "Index": 2,
+      "Number": 2,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ود",
+      "PlainText": "می نیارد عدم شود موجود\r\nاین عیان است پیش اهل شهود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی نیارد عدم شود موجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین عیان است پیش اهل شهود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 3,
+      "Number": 3,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "عقل در کشوری که هست حکم\r\nنتواند شدن وجود عدم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل در کشوری که هست حکم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتواند شدن وجود عدم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 4,
+      "Number": 4,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یست",
+      "PlainText": "عالم آنجا که صورت علمی ست\r\nنسبت آن به هست و نیست یکی ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعالم آنجا که صورت علمی ست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنسبت آن به هست و نیست یکی ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 5,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ول",
+      "PlainText": "ذات ممکن که هست محض قبول\r\nکرده تسلیم امر و ترک فضول",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eذات ممکن که هست محض قبول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرده تسلیم امر و ترک فضول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ب",
+      "PlainText": "بود قابل وجود را و سبب\r\nقابلیت بود زبان طلب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود قابل وجود را و سبب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقابلیت بود زبان طلب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 7,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "روزکند",
+      "PlainText": "آفتاب اقضای روز کند\r\nهمه ذرات ازو بروز کند",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفتاب اقضای روز کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه ذرات ازو بروز کند\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 8,
+      "Number": 8,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یر",
+      "PlainText": "جلوه گر گشت اقتدار قدیر\r\nکه از آن می شود به کن تعبیر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجلوه گر گشت اقتدار قدیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از آن می شود به کن تعبیر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ود",
+      "PlainText": "فیکون است آن قبول وجود\r\nمعنیش امتثال خواهد بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفیکون است آن قبول وجود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعنیش امتثال خواهد بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "قابل کون بود چون ممکن\r\nکون در وی نهفته و کامن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقابل کون بود چون ممکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکون در وی نهفته و کامن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ی",
+      "PlainText": "متعلق چو شد اراده حی\r\nکون و کاین بروز کرد از وی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمتعلق چو شد ارادهٔ حی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکون و کاین بروز کرد از وی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دا",
+      "PlainText": "باطن و ظاهر است اسم خدا\r\nلیک نسبت به ذات هست جدا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباطن و ظاهر است اسم خدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک نسبت به ذات هست جدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ل",
+      "PlainText": "هم چنین فاعل است و هم قابل\r\nفهم این نکته کی کند جاهل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم چنین فاعل است و هم قابل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفهم این نکته کی کند جاهل؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ول",
+      "PlainText": "در وجود اجتماع فعل و قبول\r\nپیش روشندلان بود معقول",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر وجود اجتماع فعل و قبول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش روشندلان بود معقول\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اتاست",
+      "PlainText": "آن وجودی که عینی ذات است\r\nدو شیون است و دو اضافات است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن وجودی که عینی ذات است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدو شئون است و دو اضافات است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "قباشد",
+      "PlainText": "غیر مجعول عین حق باشد\r\nجعل مخصوص ما خلق باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغیر مجعول عین حق باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجعل مخصوص ما خلق باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ل",
+      "PlainText": "دو بدین است عاجل و کامل\r\nاز یکی فاعل از یکی قابل",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو بدین است عاجل و کامل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز یکی فاعل از یکی قابل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ین",
+      "PlainText": "قابل و فاعل از یسار و یمین\r\nهر چه آن داد می پذیرد این",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقابل و فاعل از یسار و یمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چه آن داد می پذیرد این\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وراونشود",
+      "PlainText": "فعل او جز به نور او نشود\r\nمظهرش جز ظهور او نشود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفعل او جز به نور او نشود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمظهرش جز ظهور او نشود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اتخوداست",
+      "PlainText": "مطلق از جمله صفات خود است\r\nمتعین به عین ذات خود است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمطلق از جملهٔ صفات خود است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمتعین به عین ذات خود است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وبان",
+      "PlainText": "این حقیقت به عین محجوبان\r\nچشم کور است و روی محبوبان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین حقیقت به عین محجوبان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم کور است و روی محبوبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "می نیارد عدم شود موجود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: عدم نمی‌تواند موجود گردد، این موضوع برای کسانی که چشم بیدار دارند کاملاً واضح و مشخص است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "این عیان است پیش اهل شهود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "عقل در کشوری که هست حکم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: عقل در جایی که قوانین و قضاوت‌ها نمی‌توانند به درستی اجرا شوند، نمی‌تواند تأثیری داشته باشد و وجود ندارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "نتواند شدن وجود عدم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "عالم آنجا که صورت علمی ست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: در جایی که علم و معرفت وجود دارد، رابطه‌اش با هستی و نبودن یکی است. به این معنا که علم بر اساس واقعیت‌ها و وجودات شکل می‌گیرد و از این رو، ارتباطی مستقیم و نزدیک با حقیقت و غیرحقیقت دارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "نسبت آن به هست و نیست یکی ست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ذات ممکن که هست محض قبول",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: وجود موجودات از آن رو که تنها در طبق شرایط و قوانین حاکم بر جهان قرار دارند، به طور طبیعی تسلیم و پذیرای هر آنچه که تقدیرشان پیش‌بینی کرده است، می‌باشند و از اضافات و بی‌جهت‌گویی‌ها دوری می‌کنند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کرده تسلیم امر و ترک فضول",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "بود قابل وجود را و سبب",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: وجود دارای قابلیت است و زبان طلب، علت این قابلیت به شمار می‌آید."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "قابلیت بود زبان طلب",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "آفتاب اقضای روز کند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: خورشید نور روز را منتشر می‌کند و همه ذرات از این نور روشن می‌شوند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "همه ذرات ازو بروز کند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "جلوه گر گشت اقتدار قدیر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: به ناگهان قدرت و اقتدار خداوند نمایان شد که می‌توان از آن به عنوان نشانه‌ای الهی تعبیر کرد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که از آن می شود به کن تعبیر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "فیکون است آن قبول وجود",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9,
+      "CoupletSummary": "هوش مصنوعی: وقتی که چیزی به طور واقعی وجود داشته باشد، پذیرفتن آن به معنای اطاعت و پیروی از آن خواهد بود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "معنیش امتثال خواهد بود",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "قابل کون بود چون ممکن",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که وجود دارد، به دلیل این است که امکان وجود آن در ذاتش نهفته است و همه چیز از این ظرفیت نشأت می‌گیرد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "کون در وی نهفته و کامن",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "متعلق چو شد ارادهٔ حی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11,
+      "CoupletSummary": "هوش مصنوعی: زمانی که ارادهٔ وجود و کائنات به چیزی تعلق گرفت، آن چیز به وجود می‌آید و ظاهر می‌شود."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "کون و کاین بروز کرد از وی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 11
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "باطن و ظاهر است اسم خدا",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12,
+      "CoupletSummary": "هوش مصنوعی: خداوند درون و بیرونش یکی است، اما ذاتش از این دو جداست."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "لیک نسبت به ذات هست جدا",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 12
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "هم چنین فاعل است و هم قابل",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13,
+      "CoupletSummary": "هوش مصنوعی: این جمله می‌گوید که یک چیز هم می‌تواند سبب باشد و هم می‌تواند مورد فهم قرار گیرد. حالا این موضوع را چه کسی می‌داند؟ کسی که نادان است، نمی‌تواند به این نکته پی ببرد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "فهم این نکته کی کند جاهل؟",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 13
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "در وجود اجتماع فعل و قبول",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14,
+      "CoupletSummary": "هوش مصنوعی: اجتماع به معنای عمل و پذیرش در نزد افراد فرهیخته و روشنفکر، مفهوم قابل فهمی دارد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "پیش روشندلان بود معقول",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 14
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "آن وجودی که عینی ذات است",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15,
+      "CoupletSummary": "هوش مصنوعی: وجودی که ذاتش به طور عینی و واقعی است، دارای دو جنبه و دو رابطه مختلف می‌باشد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "دو شئون است و دو اضافات است",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 15
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "غیر مجعول عین حق باشد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که حقیقی و واقعی باشد، جزو حقیقت است و فقط چیزی که ساخته و پرداخته انسان باشد، مربوط به خلقت اوست."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "جعل مخصوص ما خلق باشد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "دو بدین است عاجل و کامل",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هوش مصنوعی: دو چیز وجود دارد که یکی از آن‌ها سبب و دیگری نتیجه است: یکی عمل‌کننده و دیگری عمل‌شونده."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "از یکی فاعل از یکی قابل",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "قابل و فاعل از یسار و یمین",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که در این جهان وجود دارد، از دو جنبه مختلف به آن نگاه می‌شود: یکی از سمت راست و دیگری از سمت چپ. هر دو جنبه قابل دریافت و پذیرش از سوی فرد هستند."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "هر چه آن داد می پذیرد این",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "فعل او جز به نور او نشود",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19,
+      "CoupletSummary": "هوش مصنوعی: عمل او جز با نور او جلوه‌گر نمی‌شود و هیچ ظهور و نمایشی جز به وجود او امکان‌پذیر نیست."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "مظهرش جز ظهور او نشود",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "مطلق از جملهٔ صفات خود است",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20,
+      "CoupletSummary": "هوش مصنوعی: وجود مطلق یکی از ویژگی‌های خود است که به طور خاص به ذات خود محدود می‌شود."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "متعین به عین ذات خود است",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "این حقیقت به عین محجوبان",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21,
+      "CoupletSummary": "هوش مصنوعی: این واقعیت برای افرادی که درک عمیق ندارند، نامشهود و غیرقابل رؤیت است، در حالی که برای افرادی که به محبوبان دسترسی دارند، واضح و روشن است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "چشم کور است و روی محبوبان",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 21
+    }
+  ]
+}

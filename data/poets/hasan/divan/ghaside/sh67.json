@@ -1,0 +1,300 @@
+{
+  "Id": 116278,
+  "CatId": 2696,
+  "Title": "شمارهٔ ۶۷",
+  "FullTitle": "سید حسن غزنوی » دیوان اشعار » قصاید » شمارهٔ ۶۷",
+  "FullUrl": "/hasan/divan/ghaside/sh67",
+  "RhymeLetters": "ان",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر اظهار ارادت و ستایش به یک پادشاه و قدرت او است. شاعر به قدرت و عظمت پادشاه اشاره می‌کند و او را به عنوان منبع عدل و انصاف معرفی می‌کند. همچنین به تأثیرات مثبت او بر مردم و کشورش می‌پردازد. در این شعر، هنرمندانه تصاویری از جنگ و قهرمانی نیز ارائه شده و با توصیفاتی قوی از شمشیر و تیر و کمان، نقش پادشاه در دفاع از کشورش به تصویر کشیده شده است. در پایان، شاعر از خداوند می‌خواهد که او را در خدمت به پادشاه یاری دهد و به او توفیق دهد. شعر به طور کلی تمجید از شجاعت، قدرت و مقام پادشاه است.",
+  "Metre": {
+    "Id": 1,
+    "Rhythm": "مفعول فاعلات مفاعیل فاعلن (مضارع مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "ای رایت آفتاب و محلت بر آسمان\r\nراضی همیشه از تو خدای و خدایگان\r\nای بر هزار میر و ملک تاج افتخار\r\nوی با دو پشت جد و پدر شاه و پهلوان\r\nگرگ از نهیب عدل تو اندر دیار تو\r\nاز بیم میش بدرقه گیرد سگ شبان\r\nروزی که تیغ تیز بگرید چو میغ کند\r\nوز خون تازه خاک بخندد چو گلستان\r\nگاهی بود ز هول گمان اجل یقین\r\nگاهی بود ز بیم یقین امل گمان\r\nآن در شکست پای امل را ز کوی دل\r\nوین برگشاد دست اجل را به سوی جان\r\nجویند جای فتنه دلیران جنگجوی\r\nسازند کار کینه شجاعان کاردان\r\nجان را شود ز هیبت گرز تو دل سبک\r\nدل را بود ز ضربت رمح تو سرگران\r\nگرزت چنان بکوبد خصم ترا بحرب\r\nکش از مسام جوشد خون مغز از استخوان\r\nگویی که شرزه شیر گشاید همی کمین\r\nروزی که در شکار شها در کشی کمان\r\nآرش اگر بدیدی تیر و کمانت را\r\nنشناختی ز سهم تو ترکش ز دوکدان\r\nای جفت رای پاک ترا همت بلند\r\nوی یار عقل پیر ترا دولت جوان\r\nاین بنده سوی حضرت عالی نهاد روی\r\nتا از حوادث فلکی باشدش امان\r\nبسته میان خدمت صدر رفیع تو\r\nبگشاده بر مدیح دل آویز تو زبان\r\nیابد اگر قبول خداوند بی خلاف\r\nخالی شود هوای دل بنده از هوان\r\nتایید گل نگردد و شمشاد یاسمن\r\nتا ارغوان سمن نشود سرو خیزران\r\nاندر حریم جود و جلال و بها به پای\r\nواندر سرای جاه و جلال و بقا بمان\r\nاز باد گرز خاک ضلالت به باد ده\r\nوز آب تیغ آتش فتنه فرو نشان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای رایت آفتاب و محلت بر آسمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراضی همیشه از تو خدای و خدایگان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای بر هزار میر و ملک تاج افتخار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی با دو پشت جد و پدر شاه و پهلوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرگ از نهیب عدل تو اندر دیار تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز بیم میش بدرقه گیرد سگ شبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروزی که تیغ تیز بگرید چو میغ کند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز خون تازه خاک بخندد چو گلستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگاهی بود ز هول گمان اجل یقین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهی بود ز بیم یقین امل گمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن در شکست پای امل را ز کوی دل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین برگشاد دست اجل را به سوی جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجویند جای فتنه دلیران جنگجوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسازند کار کینه شجاعان کاردان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان را شود ز هیبت گرز تو دل سبک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل را بود ز ضربت رمح تو سرگران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرزت چنان بکوبد خصم ترا بحرب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکش از مسام جوشد خون مغز از استخوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگوئی که شرزه شیر گشاید همی کمین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروزی که در شکار شها در کشی کمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآرش اگر بدیدی تیر و کمانت را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشناختی ز سهم تو ترکش ز دوکدان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای جفت رای پاک ترا همت بلند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی یار عقل پیر ترا دولت جوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین بنده سوی حضرت عالی نهاد روی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا از حوادث فلکی باشدش امان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبسته میان خدمت صدر رفیع تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگشاده بر مدیح دل آویز تو زبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیابد اگر قبول خداوند بی خلاف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخالی شود هوای دل بنده از هوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتایید گل نگردد و شمشاد یاسمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا ارغوان سمن نشود سرو خیزران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندر حریم جود و جلال و بها به پای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eواندر سرای جاه و جلال و بقا بمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز باد گرز خاک ضلالت به باد ده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز آب تیغ آتش فتنه فرو نشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 18
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای رایت آفتاب و محلت بر آسمان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای پرچم خورشید و مکان تو در آسمان، همیشه خدا و خدایان از تو راضی هستند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "راضی همیشه از تو خدای و خدایگان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای بر هزار میر و ملک تاج افتخار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که تاج افتخار بر سر داری و از تبار بزرگانی همچون شاهان و دلاوران هستی، تو به راستی در میان هزاران مورد افتخار یک نماینده برجسته هستی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "وی با دو پشت جد و پدر شاه و پهلوان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "گرگ از نهیب عدل تو اندر دیار تو",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در سرزمین تو، گرگ به خاطر ترس از عدالت تو، از میش فاصله می‌گیرد و حتی سگ شبان هم به او احترام می‌گذارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "از بیم میش بدرقه گیرد سگ شبان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "روزی که تیغ تیز بگرید چو میغ کند",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روزی که تیغ و سلاح به شدت بگریند و مانند باران اشک بریزند، و زمین با خون تازه‌ای که روی آن ریخته می‌شود، شاد و گل‌فشان گردد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "وز خون تازه خاک بخندد چو گلستان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "گاهی بود ز هول گمان اجل یقین",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی انسان به خاطر ترس از مرگ، به یقین می‌رسد و گاهی به خاطر این یقین، امید به زندگی پیدا می‌کند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گاهی بود ز بیم یقین امل گمان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "آن در شکست پای امل را ز کوی دل",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پای آرزوها در ابتدای عشق شکست و از دل بیرون آمد و دست تقدیر به سوی جان نشانه رفت."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "وین برگشاد دست اجل را به سوی جان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "جویند جای فتنه دلیران جنگجوی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مبارزان شجاع به دنبال جایی برای جنگ و نیرنگ هستند و دلیران با تجربه در زمینه کینه توزی کار می‌کنند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "سازند کار کینه شجاعان کاردان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "جان را شود ز هیبت گرز تو دل سبک",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جان به دلیل قدرت و هیبت گرز تو دچار ترس می‌شود، اما دل‌های بی‌دغدغه از ضربه‌های نیزه تو سرمست و شاداب هستند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "دل را بود ز ضربت رمح تو سرگران",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "گرزت چنان بکوبد خصم ترا بحرب",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تبر تو به قدری محکم بر دشمن بخورد که او را به نبرد بکشاند، خون مغز او از استخوانش به بیرون می‌جوشد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "کش از مسام جوشد خون مغز از استخوان",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "گوئی که شرزه شیر گشاید همی کمین",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به نظر می‌رسد که شیر نیرومندی به کمین نشسته است تا روزی را که در شکار شکارچی باید خود را نشان دهد، به انتظار بماند."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "روزی که در شکار شها در کشی کمان",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "آرش اگر بدیدی تیر و کمانت را",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر آرش را می‌دیدی، نمی‌توانستی تیر و کمان تو را بشناسی، چرا که از سهم تو، تیرک‌هایش از دوکدان‌ها جدا شده است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "نشناختی ز سهم تو ترکش ز دوکدان",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "ای جفت رای پاک ترا همت بلند",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای همدم با اندیشه‌های پاک، تو با اراده‌ای بلند و قوی هستی و یاری خردمندت، به تو رونق و موفقیت جوانی می‌دهد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "وی یار عقل پیر ترا دولت جوان",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "این بنده سوی حضرت عالی نهاد روی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این فرد به سوی شما روی آورده تا از مشکلات و سختی‌های زندگی در امان باشد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "تا از حوادث فلکی باشدش امان",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "بسته میان خدمت صدر رفیع تو",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زبان من برای ستایش تو و وصف مقام بلندت گشوده شده است، به گونه‌ای که در خدمتت احساس خوشبختی و شکرگزاری می‌کنم."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "بگشاده بر مدیح دل آویز تو زبان",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "یابد اگر قبول خداوند بی خلاف",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خداوند بنده را بپذیرد، هیچ چیز نمی‌تواند دل او را از آرزوهای بی‌پایه و واهی پر کند."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "خالی شود هوای دل بنده از هوان",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "تایید گل نگردد و شمشاد یاسمن",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که رنگ ارغوانی به سمن نداده باشد، نه گل تأیید می‌شود و نه شمشاد به یاسمن تبدیل می‌شود."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "تا ارغوان سمن نشود سرو خیزران",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "اندر حریم جود و جلال و بها به پای",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جایگاه و فضای بخشش و عظمت بایست و در محلی که مقام و بزرگی و جاودانگی است باقی بمان."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "واندر سرای جاه و جلال و بقا بمان",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "از باد گرز خاک ضلالت به باد ده",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از طوفان نادانی خود را رهانیده و آن را به باد بسپار و آتش فتنه را با آب شمشیر خاموش کن."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "وز آب تیغ آتش فتنه فرو نشان",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    }
+  ]
+}

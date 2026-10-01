@@ -1,0 +1,750 @@
+{
+  "Id": 10750,
+  "CatId": 149,
+  "Title": "قصیدهٔ شمارهٔ ۸",
+  "FullTitle": "پروین اعتصامی » دیوان اشعار » قصاید » قصیدهٔ شمارهٔ ۸",
+  "FullUrl": "/parvin/divanp/ghasidep/sh8",
+  "RhymeLetters": "است",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این متن از شاعری حکمت‌آمیز است که به انتقاد از مسیرهای نادرست و فریبنده‌ای می‌پردازد که انسان‌ها در زندگی انتخاب می‌کنند. شاعر می‌گوید که برخی انسان‌ها بدون آگاهی از مقصد، در راه‌های فریبنده و با رهنمایی شیطان حرکت می‌کنند. او به اهمیت توجه به درون و پاک‌سازی دل از آلودگی‌ها اشاره می‌کند و این که مادیات و ظاهرگرایی سبب انحراف از حقیقت می‌شود.\n\nشاعر توصیه می‌کند که فرد باید تا زمانی که شعله حقیقت را در دست دارد، از راه نورانی و درست پیروی کند و از نفوس شیطانی دوری گزید. او به انسان‌ها هشدار می‌دهد که اگر به چنگال خوی و هوی دچار شوند، از راه اصلی و مقصود خود دور می‌شوند. همچنین، بر اهمیت علم و معرفت برای رشد و تعالی روح تأکید دارد و از عشق و وابستگی به دنیا با عنوان درد و رنج یاد می‌کند. \n\nدر نهایت، او به مخاطب یادآوری می‌کند که زندگی معنایی عمیق‌تر از ظواهر دارد و انتخاب‌های درست می‌تواند راه را برای رسیدن به هدف نهایی هموار کند.",
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "است",
+      "PlainText": "ای عجب این راه نه راه خداست\r\nزانکه در آن اهرمنی رهنماست\r\nقافله بس رفت از این راه لیک\r\nکس نشد آگاه که مقصد کجاست\r\nراهروانی که درین معبرند\r\nفکرتشان یکسره آز و هواست\r\nای رمه این دره چراگاه نیست\r\nای بره این گرگ بسی ناشتاست\r\nتا تو ز بیغوله گذر میکنی\r\nرهزن طرار تو را در قفاست\r\nدیده ببندی و درافتی بچاه\r\nاین گنه تست نه حکم قضاست\r\nلقمه سالوس کرا سیر کرد\r\nچند بر این لقمه تو را اشتهاست\r\nنفس بسی وام گرفت و نداد\r\nوام تو چون باز دهد بینواست\r\nخانه جان هرچه توانی بساز\r\nهرچه توان ساخت درین یک بناست\r\nکعبه دل مسکن شیطان مکن\r\nپاک کن این خانه که جای خداست\r\nپیرو دیوانه شدن ز ابلهی است\r\nموعظت دیو شنیدن خطاست\r\nتا بودت شمع حقیقت بدست\r\nراه تو هرجا که روی روشناست\r\nتا تو قفس سازی و شکر خری\r\nطوطیک وقت ز دامت رهاست\r\nحمله نیارد بتو ثعبان دهر\r\nتا چو کلیمی تو و دینت عصاست\r\nای گل نوزاد فسرده مباش\r\nزانکه تو را اول نشو و نماست\r\nطایر جانرا چه کنی لاشخوار\r\nنزد کلاغش چه نشانی هماست\r\nکاهلیت خسته و رنجور کرد\r\nدرد تو دردیست که کارش دواست\r\nچاره کن آزردگی آز را\r\nتا که بدکان عمل مومیاست\r\nروی و ریا را مکن آیین خویش\r\nهرچه فساد است ز روی و ریاست\r\nشوخ تن و جامه چه شویی همی\r\nاین دل آلوده به کارت گواست\r\nپای تو همواره براه کج است\r\nدست تو هر شام و سحر بر دعاست\r\nچشم تو بر دفتر تحقیق لیک\r\nگوش تو بر بیهده و ناسزاست\r\nبار خود از دوش برافکنده ای\r\nپشت تو از پشته شیطان دوتاست\r\nنان تو گه سنگ بود گاه خاک\r\nتا به تنور تو هوی نانواست\r\nورطه و سیلاب نداری به پیش\r\nتا خردت کشتی و جان ناخداست\r\nقصر دل افروز روان محکم است\r\nکلبه تن را چه ثبات و بقاست\r\nجان بتو هرچند دهد منعم است\r\nتن ز تو هرچند ستاند گداست\r\nروغن قندیل تو آبست و بس\r\nتیرگی بزم تو بیش از ضیاست\r\nمنزل غولان ز چه شد منزلت\r\nگر ره تو از ره ایشان جداست\r\nجهل بلندی نپسندد چه است\r\nعجب سلامت نپذیرد بلاست\r\nآنچه که دوران نخرد یکدلیست\r\nآنچه که ایام ندارد وفاست\r\nدزد شد این شحنه بی نام و ننگ\r\nدزد کی از دزد کند بازخواست\r\nنزد تو چون سرد شود آتش است\r\nاز تو چرا درگذرد اژدهاست\r\nوقت گرانمایه و عمر عزیز\r\nطعمه سال و مه و صبح و مساست\r\nاز چه همی کاهدمان روز و شب\r\nگر که نه ما گندم و چرخ آسیاست\r\nگر که یمی هست در آخر نمی است\r\nگر که بنایی است در آخر هباست\r\nما بره آز و هوی سایلیم\r\nمورچه در خانه خود پادشاست\r\nخیمه ز دستیم و گه رفتن است\r\nغرق شدستیم و زمان شناست\r\nگلبن معنی نتوانی نشاند\r\nتا که درین باغچه خار و گیاست\r\nکشور جان تو چو ویرانه ایست\r\nملک دلت چون ده بی روستاست\r\nشعر من آینه کردار تست\r\nناید از آیینه به جز حرف راست\r\nروشنی اندوز که دلرا خوشی است\r\nمعرفت آموز که جانرا غذاست\r\nپایه قصر هنر و فضل را\r\nعقل نداند ز کجا ابتداست\r\nپرده الوان هوی را بدر\r\nتا بپس پرده ببینی چهاست\r\nبه که بجوی و جر دانش چرد\r\nآهوی جانست که اندر چراست\r\nخیره ز هر پویه ز میدان مرو\r\nبا فلک پیر ترا کارهاست\r\nاطلس نساج هوی و هوس\r\nچون گه تحقیق رسد بوریاست\r\nبیهده پروین در دانش مزن\r\nبا تو درین خانه چه کس آشناست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عجب! این راه نه راه خداست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه در آن اهرمنی رهنماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقافله بس رفت از این راه، لیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نشد آگاه که مقصد کجاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراهروانی که درین معبرند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفکرتشان یکسره آز و هواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای رمه، این دره چراگاه نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای بره، این گرگ بسی ناشتاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا تو ز بیغوله گذر میکنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرهزن طرار تو را در قفاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیده ببندی و درافتی بچاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین گنه تست، نه حکم قضاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلقمهٔ سالوس کرا سیر کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچند بر این لقمه تو را اشتهاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنفس، بسی وام گرفت و نداد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوام تو چون باز دهد؟ بینواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخانهٔ جان هرچه توانی بساز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچه توان ساخت درین یک بناست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکعبهٔ دل مسکن شیطان مکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپاک کن این خانه که جای خداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیرو دیوانه شدن ز ابلهی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموعظت دیو شنیدن خطاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بودت شمع حقیقت بدست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراه تو هرجا که روی روشناست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا تو قفس سازی و شکر خری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطوطیک وقت ز دامت رهاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحمله نیارد بتو ثعبان دهر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چو کلیمی تو و دینت عصاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای گل نوزاد فسرده مباش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه تو را اول نشو و نماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطائر جانرا چه کنی لاشخوار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزد کلاغش چه نشانی؟ هماست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاهلیت خسته و رنجور کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرد تو دردیست که کارش دواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچاره کن آزردگی آز را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا که بدکان عمل مومیاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی و ریا را مکن آئین خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرچه فساد است ز روی و ریاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشوخ‌تن و جامه چه شوئی همی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین دل آلوده به کارت گواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپای تو همواره براه کج است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدست تو هر شام و سحر بر دعاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم تو بر دفتر تحقیق، لیک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگوش تو بر بیهده و ناسزاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبار خود از دوش برافکنده‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشت تو از پشتهٔ شیطان دوتاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنان تو گه سنگ بود گاه خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا به تنور تو هوی نانواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eورطه و سیلاب نداری به پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا خردت کشتی و جان ناخداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقصر دل‌افروز روان محکم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلبهٔ تن را چه ثبات و بقاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان بتو هرچند دهد منعم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتن ز تو هرچند ستاند گداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروغن قندیل تو آبست و بس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیرگی بزم تو بیش از ضیاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمنزل غولان ز چه شد منزلت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر ره تو از ره ایشان جداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهل بلندی نپسندد، چه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعجب سلامت نپذیرد، بلاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنچه که دوران نخرد یکدلیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنچه که ایام ندارد وفاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدزد شد این شحنهٔ بی نام و ننگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدزد کی از دزد کند بازخواست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنزد تو چون سرد شود؟ آتش است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تو چرا درگذرد؟ اژدهاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقت گرانمایه و عمر عزیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطعمهٔ سال و مه و صبح و مساست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز چه همی کاهدمان روز و شب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر که نه ما گندم و چرخ آسیاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر که یمی هست، در آخر نمی‌است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر که بنائی است، در آخر هباست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eما بره آز و هوی سائلیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمورچه در خانهٔ خود پادشاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیمه ز دستیم و گه رفتن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغرق شدستیم و زمان شناست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگلبن معنی نتوانی نشاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا که درین باغچه خار و گیاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکشور جان تو چو ویرانه‌ایست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eملک دلت چون ده بی روستاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشعر من آینهٔ کردار تست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eناید از آئینه به جز حرف راست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروشنی اندوز که دلرا خوشی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمعرفت آموز که جانرا غذاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپایهٔ قصر هنر و فضل را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعقل نداند ز کجا ابتداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپردهٔ الوان هوی را بدر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بپس پرده ببینی چهاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه که بجوی و جر دانش چرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآهوی جانست که اندر چراست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیره ز هر پویه ز میدان مرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا فلک پیر ترا کارهاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاطلس نساج هوی و هوس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون گه تحقیق رسد بوریاست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیهده، پروین در دانش مزن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا تو درین خانه چه کس آشناست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 48
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای عجب! این راه نه راه خداست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عجبا! این مسیر به سوی خداوند نیست، زیرا راهنمای آن شیطانی است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "زانکه در آن اهرمنی رهنماست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قافله بس رفت از این راه، لیک",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کاروان از این راه رد شده، اما هیچ‌کس متوجه نشد که مقصد آنها کجاست."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کس نشد آگاه که مقصد کجاست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "راهروانی که درین معبرند",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسانی که در این مسیر حرکت می‌کنند، تمام دغدغه‌شان فقط خواسته‌ها و آرزوهای مادی است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "فکرتشان یکسره آز و هواست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "ای رمه، این دره چراگاه نیست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای گوسفندان، این دره مکان مناسبی برای چرا نیست؛ ای بره، اینجا گرگی وجود دارد که بسیار گرسنه است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "ای بره، این گرگ بسی ناشتاست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تا تو ز بیغوله گذر میکنی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که تو از این مکان دورافتاده عبور می‌کنی، دزد ماهر در کمین توست."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "رهزن طرار تو را در قفاست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دیده ببندی و درافتی بچاه",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چشمانت را ببندی و خود را در چاه بیفکنید، این تقصیر خودتان است و مربوط به سرنوشت نیست."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "این گنه تست، نه حکم قضاست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "لقمهٔ سالوس کرا سیر کرد",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌دانی که چند نفر با فریب و نیرنگ خود را سیر کرده‌اند؟ اما تو هنوز به همین لقمهٔ فریبنده تمایل داری."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چند بر این لقمه تو را اشتهاست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "نفس، بسی وام گرفت و نداد",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نفس انسان، مدت زیادی از تو خواسته و هیچگاه چیزی به تو برنگردانده است. حال وقتی بخواهد برگرداند، چه چیز می‌تواند به تو بدهد؟ در حقیقت، بیچاره است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "وام تو چون باز دهد؟ بینواست",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "خانهٔ جان هرچه توانی بساز",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این دنیا هرچقدر که می‌توانی تلاش کن و بهترین‌ها را بساز، زیرا همه چیز در همین زندگی و در همین جاست."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "هرچه توان ساخت درین یک بناست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "کعبهٔ دل مسکن شیطان مکن",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل را مانند خانه‌ای برای خدا قرار بده و از وجود هر گونه آلودگی و بدی پاکش کن، زیرا نباید اجازه دهی که شیطان در این جایگاه جای بگیرد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "پاک کن این خانه که جای خداست",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "پیرو دیوانه شدن ز ابلهی است",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیوانه شدن پیرو به خاطر نادانی است و گوش دادن به نصیحت‌های شیطانی کار نادرستی است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "موعظت دیو شنیدن خطاست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "تا بودت شمع حقیقت بدست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که حقیقت به دست تو شمع روشنی باشد، هرجا که بروی، آنجا روشنایی وجود دارد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "راه تو هرجا که روی روشناست",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "تا تو قفس سازی و شکر خری",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا وقتی که تو در قفس طوطی را نگه می‌داری و شکر خریداری می‌کنی، طوطی از دام تو رها خواهد بود."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "طوطیک وقت ز دامت رهاست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "حمله نیارد بتو ثعبان دهر",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ خطری به تو نزدیک نمی‌شود، همان‌طور که حضرت موسی (کلیمی) با ایمانش به خداوند توانست بر خطرات غلبه کند و از دین و ایمان خود محافظت کند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "تا چو کلیمی تو و دینت عصاست",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "ای گل نوزاد فسرده مباش",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای گل نازنین، ناراحت نباش، چون اکنون زمان اولیه رشد و شکوفایی توست."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "زانکه تو را اول نشو و نماست",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "طائر جانرا چه کنی لاشخوار",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرنده روح را چه می‌کنی؟ وقتی پرنده مرده، پیش کلاغش چه نشانه‌ای دارد؟ آنچه هست، همان هماست."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "نزد کلاغش چه نشانی؟ هماست",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "کاهلیت خسته و رنجور کرد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نتیجه‌ی بی‌عملی و سستی، باعث خستگی و رنجش شده است و درد تو نه تنها مشکلی است، بلکه درمانی برای آن وجود دارد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "درد تو دردیست که کارش دواست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "چاره کن آزردگی آز را",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای رفع ناراحتی و دلخوری، اقدام کن تا به نتیجه‌ای دلخواه و مثمر ثمر برسی."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "تا که بدکان عمل مومیاست",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "روی و ریا را مکن آئین خویش",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ظاهر و تظاهر را به عنوان راه و روش خودت نبر، زیرا هر چیزی که فساد است، از همین ظاهر و ریا ناشی می‌شود."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "هرچه فساد است ز روی و ریاست",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "شوخ‌تن و جامه چه شوئی همی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل آلوده‌ی من به خوبی‌های تو گواست، پس در برخورد با تو و ظاهر و لباس‌هایم چه شوخی می‌کنی؟"
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "این دل آلوده به کارت گواست",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "پای تو همواره براه کج است",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پای تو همیشه به سمت نادرستی می‌رود و دست تو هر شب و صبح مشغول دعا کردن است."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "دست تو هر شام و سحر بر دعاست",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "چشم تو بر دفتر تحقیق، لیک",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشمت به مطالعه و تحقیق است، اما گوشت به چیزهای بی‌فایده و ناپسند گوش می‌دهد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "گوش تو بر بیهده و ناسزاست",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "بار خود از دوش برافکنده‌ای",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو بار خود را از دوش برداشته‌ای و از پشت تو دو پشته شیطان دیده می‌شود."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "پشت تو از پشتهٔ شیطان دوتاست",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "نان تو گه سنگ بود گاه خاک",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نان تو گاهی به سختی سنگ است و گاهی به نرمی خاک، اما این تغییرات به خاطر این است که تو به عنوان نانوا، در تنور خود آن را می‌پزی."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "تا به تنور تو هوی نانواست",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "ورطه و سیلاب نداری به پیش",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در زندگی خود به مشکلات و چالش‌ها توجهی نداشته باشی، عقل و درایتت مانند کشتی‌ای می‌ماند که ناخدای آن جانش را به خطر می‌اندازد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "تا خردت کشتی و جان ناخداست",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "قصر دل‌افروز روان محکم است",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قلب و روح انسان به شدت محکم و قوی است، و در مقایسه با آن، بدن مادی و دنیوی هیچ ثبات و پایداری ندارد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "کلبهٔ تن را چه ثبات و بقاست",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "جان بتو هرچند دهد منعم است",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هرچند که روح من از تو بهره‌مند است، اما تن من اگرچه از تو بگیرد، همچنان فقیر و نیازمند است."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "تن ز تو هرچند ستاند گداست",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "روغن قندیل تو آبست و بس",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روغن چراغ تو در حال تمام شدن است و تاریکی مجلس تو بیشتر از نور است."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "تیرگی بزم تو بیش از ضیاست",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "منزل غولان ز چه شد منزلت",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا در جایی که غول‌ها زندگی می‌کنند منزل گزیده‌ای، در حالی که راه تو از راه آن‌ها جداست؟"
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "گر ره تو از ره ایشان جداست",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "جهل بلندی نپسندد، چه است",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهل و نادانی جایی در زندگی ندارد، زیرا شگفت انگیز است که کسی در سلامت کامل باشد اما بلا و مشکل را قبول کند."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "عجب سلامت نپذیرد، بلاست",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "آنچه که دوران نخرد یکدلیست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنچه که زمان نتوانسته به دست آورد و خرد کند، همدلی و دوستی است؛ همچنین آنچه که در طول زمان دوام و پایداری ندارد، محبت و عشق است."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "آنچه که ایام ندارد وفاست",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "دزد شد این شحنهٔ بی نام و ننگ",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به وضعیتی اشاره دارد که در آن افرادی که باید نظارت و سرکشی کنند، خود به گونه‌ای نادرست و غیراخلاقی عمل می‌کنند. در این وضعیت، کسی که مسئول پیگیری خطاها و مجازات دزدی است، خود به نوعی دزد و متجاوز شده و بنابراین نمی‌تواند متهمان را مورد بازخواست قرار دهد. در واقع، این وضعیت نشان‌دهنده فساد و بی‌نظمی در جامعه است."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "دزد کی از دزد کند بازخواست",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "نزد تو چون سرد شود؟ آتش است",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آتش عشق و احساس نسبت به تو هرگز خاموش نمی‌شود. همان‌طور که اژدها قدرت و سهمگینی خاصی دارد، عشق من نیز به تو قوی و بی‌پایان است."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "از تو چرا درگذرد؟ اژدهاست",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "وقت گرانمایه و عمر عزیز",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمان باارزش و عمر گرانبها، به آسانی در چنگال سال‌ها، ماه‌ها، صبح‌ها و شب‌ها گرفتار می‌شود."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "طعمهٔ سال و مه و صبح و مساست",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "از چه همی کاهدمان روز و شب",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا هر روز و شب درگیر ناتوانی هستیم، اگر که ما نه گندم هستیم و نه چرخ آرامش."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "گر که نه ما گندم و چرخ آسیاست",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "گر که یمی هست، در آخر نمی‌است",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چیزی وجود دارد، در نهایت به نیستی می‌رسد؛ اگر بنایی هست، بالاخره به ویرانی خواهد انجامید."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "گر که بنائی است، در آخر هباست",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "ما بره آز و هوی سائلیم",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در جستجوی آرزوها و خواسته‌های خود هستیم، اما حتی یک مورچه در خانه‌اش برای خود سلطانی دارد."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "مورچه در خانهٔ خود پادشاست",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "خیمه ز دستیم و گه رفتن است",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما در چادر و خیمه‌ای هستیم که به دست خودمان برپا شده و هنگام رفتن به سمت دیگری است. در حال غرق شدن هستیم و زمان هم به خوبی این وضعیت را درک می‌کند."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "غرق شدستیم و زمان شناست",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "گلبن معنی نتوانی نشاند",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای به نمایش گذاشتن مفهوم زیبا نمی‌توان آن را در مکانی نامناسب قرار داد، چرا که در این باغچه تنها خار و گیاه وجود دارد."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "تا که درین باغچه خار و گیاست",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "کشور جان تو چو ویرانه‌ایست",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح تو مانند یک ویرانه است و قلبت همچون دهی بدون سکنه و فارغ از زندگی به نظر می‌رسد."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "ملک دلت چون ده بی روستاست",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "شعر من آینهٔ کردار تست",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شعر من مانند آینه‌ای است که رفتار و کردار تو را نشان می‌دهد و از آینه تنها راست را می‌توان دید، نه چیز دیگر."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "ناید از آئینه به جز حرف راست",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "روشنی اندوز که دلرا خوشی است",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نور و روشنایی بگیر که دل را شاد می‌کند، و علم و معرفت را بیاموز که برای روح مانند غذاست."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "معرفت آموز که جانرا غذاست",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "پایهٔ قصر هنر و فضل را",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پایه و اساس فرهنگ و دانش را عقل نمی‌داند که از کجا شروع شده است."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "عقل نداند ز کجا ابتداست",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "پردهٔ الوان هوی را بدر",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای درک واقعیت و حقیقت، باید از زرق و برق و جذابیت‌های دنیوی فاصله بگیری و پرده‌هایی که حجاب بر عقل و دل انسان می‌زنند را کنار بگذاری. تنها در این صورت می‌توانی حقایق را ببینی و درک کنی."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "تا بپس پرده ببینی چهاست",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "به که بجوی و جر دانش چرد",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهتر است به دنبال علم و دانش باشی، چرا که مانند آهو که در مرتع می‌چراند، جان تو نیز به دنبال یادگیری و فهمیدن است."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "آهوی جانست که اندر چراست",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "خیره ز هر پویه ز میدان مرو",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از هر حرکتی که انجام می‌دهی، پلیدی و خطر به دور است. با این حال، دنیا به تو وابسته است و تو در آن مسئولیت‌هایی داری."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "با فلک پیر ترا کارهاست",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "اطلس نساج هوی و هوس",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پارچه‌ای که از آرزوها و خواسته‌ها بافته شده، زمانی که به حقیقت نزدیک می‌شود، دچار آسیب و نقصان می‌گردد."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "چون گه تحقیق رسد بوریاست",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "بیهده، پروین در دانش مزن",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پروین، بی‌دلیل با کسی که در این خانه است، بحث نکن؛ چون هیچ‌کس در اینجا با دانش تو آشنا نیست."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "با تو درین خانه چه کس آشناست",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    }
+  ]
+}

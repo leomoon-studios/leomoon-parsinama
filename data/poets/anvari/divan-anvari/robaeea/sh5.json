@@ -1,0 +1,60 @@
+{
+  "Id": 28827,
+  "CatId": 364,
+  "Title": "رباعی شمارهٔ ۵",
+  "FullTitle": "انوری » دیوان اشعار » رباعیات » رباعی شمارهٔ ۵",
+  "FullUrl": "/anvari/divan-anvari/robaeea/sh5",
+  "RhymeLetters": "ایتینیستترا",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این ابیات شاعر به غم جدایی و انتظار وصال معشوق اشاره می‌کند. او از هجران می‌پرسد که آیا پایانی دارد و به عشق خود که با درد و زاری همراه است، اشاره می‌کند و می‌گوید که این درد و رنج به تنهایی کافی است و بیشتر از آن نیاز ندارد.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتینیستترا",
+      "PlainText": "ای هجر مگر نهایتی نیست ترا\r\nوی وعده وصل غایتی نیست ترا\r\nای عشق مرا به صد هزاران زاری\r\nکشتی و جز این کفایتی نیست ترا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای هجر مگر نهایتی نیست ترا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی وعدهٔ وصل غایتی نیست ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عشق مرا به صد هزاران زاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکشتی و جز این کفایتی نیست ترا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای هجر مگر نهایتی نیست ترا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دوری، آیا برای تو پایانی وجود ندارد؟ و ای وعدهٔ دیدار، آیا برای تو هم پایانی هست؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "وی وعدهٔ وصل غایتی نیست ترا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای عشق مرا به صد هزاران زاری",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای عشق، تو با شکنجه‌ها و کوشش‌های فراوانی که به من وارد کرده‌ای، مرا به کشتن رساندی و این تنها چیزی است که تو به آن راضی هستی."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کشتی و جز این کفایتی نیست ترا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

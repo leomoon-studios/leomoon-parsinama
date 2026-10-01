@@ -1,0 +1,60 @@
+{
+  "Id": 29633,
+  "CatId": 102,
+  "Title": "رباعی شمارهٔ ۱۷۵",
+  "FullTitle": "مولانا » دیوان شمس » رباعیات » رباعی شمارهٔ ۱۷۵",
+  "FullUrl": "/moulavi/shams/robaeesh/sh175",
+  "RhymeLetters": "رماست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: شاعر در این ابیات به پاکی و خلوص یک شخص در حرم اشاره می‌کند و می‌گوید که آن شخص به حقیقت نیکویی رسیده است. او مانند پولی ارزشمند است که در کیسه‌ای قرار دارد. همچنین می‌فرماید که نباید به او نزدیک شد، چون اگر شخصی از ضد و ناپاکی پرهیز کند و محترم باشد، نمی‌تواند با او ارتباط برقرار کند.",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رماست",
+      "PlainText": "او پاک شده است و خام ار در حرم است\r\nدر کیسه بدان رود که نقد درم است\r\nقلاب نشاید که شود با او یار\r\nاز ضد بجهد یکی اگر محترم است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو پاک شده است و خام ار در حرم است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر کیسه بدان رود که نقد درم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقلاب نشاید که شود با او یار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز ضد بجهد یکی اگر محترم است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "او پاک شده است و خام ار در حرم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او پاک و بی‌گناه شده است و در حالتی ساده و خام به حرم می‌رود، در کیسه‌ای که همراه دارد، پولی که برای خرید نیاز دارد، وجود دارد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "در کیسه بدان رود که نقد درم است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قلاب نشاید که شود با او یار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی واقعاً محترم باشد، نمی‌تواند با کسی که به او احترام نمی‌گذارد، رابطه‌ای داشته باشد. ارتباط با افراد غیرمعتبر و بی‌احترامی به هویت خود آسیب می‌زند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "از ضد بجهد یکی اگر محترم است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

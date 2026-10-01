@@ -1,0 +1,145 @@
+{
+  "Id": 134322,
+  "CatId": 3068,
+  "Title": "شمارهٔ ۱۵۰",
+  "FullTitle": "سیدای نسفی » دیوان اشعار » غزلیات » شمارهٔ ۱۵۰",
+  "FullUrl": "/nasafi/divan/ghazal/sh150",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف محبت و جایگاه والای محمد (ص) می‌پردازد. شاعر قلب خود را به‌مثابه کعبه‌ای برای محبت محمد معرفی می‌کند و سینه‌اش را به مدینه‌ای برای او تشبیه می‌کند. او از بوی خوش و زیبایی‌های بهشت به‌واسطه پیامبر سخن می‌گوید و تأکید می‌کند که آسمان و زمین به خاطر وجود او خلق شده‌اند. همچنین، شاعر به محبت و عدم دعا به دشمنان اشاره می‌کند و بر نیکی پیامبر تأکید می‌کند. در نهایت، او به مقام والای محمد (ص) در روز قیامت و آرامش پیروان او اشاره می‌کند.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارمحمداست",
+      "PlainText": "دل در برم چو کعبه دیار محمد است\r\nهمچون مدینه سینه حصار محمد است\r\nآن نکهتی که تازه دماغ بهشت ازوست\r\nبوی گل همیشه بهار محمد است\r\nایجاد آسمان و زمین با طفیل اوست\r\nوینها همه برای نثار محمد است\r\nبر دشمنان خویش نکرده دعای بد\r\nخلق نکو به خصم شعار محمد است\r\nدر باغ شبنمی که به رخساره گل است\r\nاز قطره های گرم عذار محمد است\r\nمرغان شاخ سدره کبابی در آتشند\r\nطاووس باغ خلد شکار محمد است\r\nرضوان ز باغبانی فردوس فارغ است\r\nبر هر گل زمین که قرار محمد است\r\nاز هول روز حشر چو اصحاب ایمن است\r\nهر کس که سیدا به جوار محمد است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل در برم چو کعبه دیار محمد است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچون مدینه سینه حصار محمد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن نکهتی که تازه دماغ بهشت ازوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوی گل همیشه بهار محمد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eایجاد آسمان و زمین با طفیل اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوینها همه برای نثار محمد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر دشمنان خویش نکرده دعای بد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخلق نکو به خصم شعار محمد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر باغ شبنمی که به رخساره گل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز قطره های گرم عذار محمد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرغان شاخ سدره کبابی در آتشند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eطاووس باغ خلد شکار محمد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرضوان ز باغبانی فردوس فارغ است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر هر گل زمین که قرار محمد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز هول روز حشر چو اصحاب ایمن است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر کس که سیدا به جوار محمد است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 8
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "دل در برم چو کعبه دیار محمد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من همچون کعبه، محل پاکی و محبت محمد است و سینه‌ام به مانند مدینه، محافل و حریم محمد را در خود نگه داشته است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "همچون مدینه سینه حصار محمد است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آن نکهتی که تازه دماغ بهشت ازوست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آن عطر و بویی که در بهشت وجود دارد و انسان را به یاد زیبایی‌ها و خوشی‌ها می‌اندازد، همان بوی خوش گل محمدی است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بوی گل همیشه بهار محمد است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ایجاد آسمان و زمین با طفیل اوست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ساخت آسمان و زمین به خاطر وجود اوست و همه چیز در این جهان برای تقدیم به محمد (ص) است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "وینها همه برای نثار محمد است",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بر دشمنان خویش نکرده دعای بد",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شخص به دشمنان خود هیچ گونه دعا یا آرزوی بدی نمی‌کند، زیرا این کار با اصول نیکوی پیامبر محمد (ص) در تضاد است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خلق نکو به خصم شعار محمد است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "در باغ شبنمی که به رخساره گل است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در باغی که گل‌ها درخشان و زیبا هستند، شبنمی که بر روی گل‌ها نشسته، نشانه‌ای از لطافت و زیبایی چهره محمد است. این شبنم‌ها، گرمای محبت و عزت او را به تصویر می‌کشند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از قطره های گرم عذار محمد است",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "مرغان شاخ سدره کبابی در آتشند",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرندگان روی درخت سدر در آتش می‌سوزند، اما طاووس باغ بهشت برای محمد صید شده است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "طاووس باغ خلد شکار محمد است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "رضوان ز باغبانی فردوس فارغ است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهشت دیگر به باغبانی خود از کار افتاده است؛ زیرا آرامش هر گلی در زمین به خاطر وجود پیامبر محمد است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بر هر گل زمین که قرار محمد است",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "از هول روز حشر چو اصحاب ایمن است",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز قیامت، کسانی که در کنار پیامبر محمد (ص) قرار دارند و از اهل ایمان هستند، از ترس و هول آن روز در امان خواهند بود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "هر کس که سیدا به جوار محمد است",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    }
+  ]
+}

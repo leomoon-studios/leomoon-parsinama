@@ -1,0 +1,543 @@
+{
+  "Id": 39884,
+  "CatId": 1360,
+  "Title": "بخش ۱۸۵ - حدی",
+  "FullTitle": "اقبال لاهوری » پیام مشرق » بخش ۱۸۵ - حدی",
+  "FullUrl": "/iqbal/payam-mashregh/sh185",
+  "SourceName": "سایت علامه اقبال",
+  "SourceUrlSlug": "allamaiqbal",
+  "PoemSummary": "هوش مصنوعی: شعر \u0022نغمه ساربان حجاز\u0022 تمثیلی زیبا درباره سفر و عشق است. شاعر به توصیف زنی می‌پردازد که به مانند نغمه‌ای دلنشین و زیباست. او ویژگی‌های غیرت و زیبایی او را با تشبیهاتی به آهو، حور و لیلا بیان می‌کند. شاعر با بیانی عاشقانه و آرامش‌بخش به این نکته اشاره دارد که مقصدشان نزدیک است و دلش می‌خواهد که به آن زن دست یابد. او توصیفاتی از سفر در صحرا، تپش آفتاب و بافت‌های طبیعی دیگر را به تصویر می‌کشد که نشان‌دهنده تلاش و کوشش در این مسیر است. سرانجام، شعر با شعف و شوق به همراهی و رسیدن به معشوق پایان می‌یابد.",
+  "Metre": {
+    "Id": 15,
+    "Rhythm": "مفتعلن فاعلن مفتعلن فاعلن (منسرح مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "PlainText": "نغمه ساربان حجاز\r\nناقه سیار من\r\nآهوی تاتار من\r\nدرهم و دینار من\r\nاندک و بسیار من\r\nدولت بیدار من\r\nتیزترک گام زن منزل ما دور نیست\r\nدلکش و زیباستی\r\nشاهد رعناستی\r\nروکش حوراستی\r\nغیرت لیلاستی\r\nدختر صحراستی\r\nتیزترک گام زن منزل ما دور نیست\r\nدر تپش آفتاب\r\nغوطه زنی در سراب\r\nهم به شب ماهتاب\r\nتند روی چون شهاب\r\nچشم تو نادیده خواب\r\nتیزترک گام زن منزل ما دور نیست\r\nلکه ابر روان\r\nکشتی بی بادبان\r\nمثل خضر راه دان\r\nبر تو سبک هر گران\r\nلخت دل ساربان\r\nتیزترک گام زن منزل ما دور نیست\r\nسوز تو اندر زمام\r\nساز تو اندر خرام\r\nبی خورش و تشنه کام\r\nپا به سفر صبح و شام\r\nخسته شوی از مقام\r\nتیزترک گام زن منزل ما دور نیست\r\nشام تو اندر یمن\r\nصبح تو اندر قرن\r\nریگ درشت وطن\r\nپای ترا یاسمن\r\nای چو غزال ختن\r\nتیزترک گام زن منزل ما دور نیست\r\nمه ز سفر پا کشید\r\nدر پس تل آرمید\r\nصبح ز مشرق دمید\r\nجامه شب بر درید\r\nباد بیابان وزید\r\nتیزترک گام زن منزل ما دور نیست\r\nنغمه من دلگشای\r\nزیر و بمش جانفرای\r\nقافله ها را درای\r\nفتنه ربا فتنه زای\r\nای به حرم چهره سای\r\nتیزترک گام زن منزل ما دور نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنغمهٔ ساربان حجاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناقهٔ سیار من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآهوی تاتار من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرهم و دینار من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندک و بسیار من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eدولت بیدار من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلکش و زیباستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاهد رعناستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروکش حوراستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغیرت لیلاستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn8\u0022\u003E\u003Cp\u003Eدختر صحراستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn9\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر تپش آفتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغوطه زنی در سراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم به شب ماهتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتند روی چون شهاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn12\u0022\u003E\u003Cp\u003Eچشم تو نادیده خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn13\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلکه ابر روان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکشتی بی بادبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمثل خضر راه دان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر تو سبک هر گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn16\u0022\u003E\u003Cp\u003Eلخت دل ساربان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn17\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوز تو اندر زمام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساز تو اندر خرام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی خورش و تشنه کام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپا به سفر صبح و شام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn20\u0022\u003E\u003Cp\u003Eخسته شوی از مقام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn21\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشام تو اندر یمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبح تو اندر قرن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eریگ درشت وطن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپای ترا یاسمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn24\u0022\u003E\u003Cp\u003Eای چو غزال ختن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn25\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمه ز سفر پا کشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پس تل آرمید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبح ز مشرق دمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجامهٔ شب بر درید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn28\u0022\u003E\u003Cp\u003Eباد بیابان وزید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn29\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنغمهٔ من دلگشای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیر و بمش جانفرای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقافله ها را درای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفتنه ربا فتنه زای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn32\u0022\u003E\u003Cp\u003Eای به حرم چهره سای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn33\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E",
+      "PoemFormat": "MultiBand",
+      "CoupletsCount": 33
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ارمن",
+      "PlainText": "ناقه سیار من\r\nآهوی تاتار من\r\nدرهم و دینار من\r\nاندک و بسیار من",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eناقهٔ سیار من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآهوی تاتار من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدرهم و دینار من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندک و بسیار من\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "استی",
+      "PlainText": "دلکش و زیباستی\r\nشاهد رعناستی\r\nروکش حوراستی\r\nغیرت لیلاستی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلکش و زیباستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاهد رعناستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروکش حوراستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغیرت لیلاستی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "اب",
+      "PlainText": "در تپش آفتاب\r\nغوطه زنی در سراب\r\nهم به شب ماهتاب\r\nتند روی چون شهاب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر تپش آفتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغوطه زنی در سراب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم به شب ماهتاب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتند روی چون شهاب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ان",
+      "PlainText": "لکه ابر روان\r\nکشتی بی بادبان\r\nمثل خضر راه دان\r\nبر تو سبک هر گران",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلکه ابر روان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکشتی بی بادبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمثل خضر راه دان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر تو سبک هر گران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ام",
+      "PlainText": "سوز تو اندر زمام\r\nساز تو اندر خرام\r\nبی خورش و تشنه کام\r\nپا به سفر صبح و شام",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسوز تو اندر زمام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eساز تو اندر خرام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی خورش و تشنه کام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپا به سفر صبح و شام\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "شام تو اندر یمن\r\nصبح تو اندر قرن\r\nریگ درشت وطن\r\nپای ترا یاسمن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشام تو اندر یمن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصبح تو اندر قرن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eریگ درشت وطن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپای ترا یاسمن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "مه ز سفر پا کشید\r\nدر پس تل آرمید\r\nصبح ز مشرق دمید\r\nجامه شب بر درید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمه ز سفر پا کشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پس تل آرمید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبح ز مشرق دمید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجامهٔ شب بر درید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "Band",
+      "VerseType": "Second",
+      "RhymeLetters": "ای",
+      "PlainText": "نغمه من دلگشای\r\nزیر و بمش جانفرای\r\nقافله ها را درای\r\nفتنه ربا فتنه زای",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنغمهٔ من دلگشای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزیر و بمش جانفرای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقافله ها را درای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفتنه ربا فتنه زای\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "BandCouplets",
+      "VerseType": "Second",
+      "RhymeLetters": "",
+      "PlainText": "نغمه ساربان حجاز\r\nدولت بیدار من\r\nتیزترک گام زن منزل ما دور نیست\r\nدختر صحراستی\r\nتیزترک گام زن منزل ما دور نیست\r\nچشم تو نادیده خواب\r\nتیزترک گام زن منزل ما دور نیست\r\nلخت دل ساربان\r\nتیزترک گام زن منزل ما دور نیست\r\nخسته شوی از مقام\r\nتیزترک گام زن منزل ما دور نیست\r\nای چو غزال ختن\r\nتیزترک گام زن منزل ما دور نیست\r\nباد بیابان وزید\r\nتیزترک گام زن منزل ما دور نیست\r\nای به حرم چهره سای\r\nتیزترک گام زن منزل ما دور نیست",
+      "HtmlText": "\u003Cdiv class=\u0022b2\u0022 id=\u0022bn1\u0022\u003E\u003Cp\u003Eنغمهٔ ساربان حجاز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn2\u0022\u003E\u003Cp\u003Eدولت بیدار من\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn3\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn4\u0022\u003E\u003Cp\u003Eدختر صحراستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn5\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn6\u0022\u003E\u003Cp\u003Eچشم تو نادیده خواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn7\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn8\u0022\u003E\u003Cp\u003Eلخت دل ساربان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn9\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn10\u0022\u003E\u003Cp\u003Eخسته شوی از مقام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn11\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn12\u0022\u003E\u003Cp\u003Eای چو غزال ختن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn13\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn14\u0022\u003E\u003Cp\u003Eباد بیابان وزید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn15\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn16\u0022\u003E\u003Cp\u003Eای به حرم چهره سای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b2\u0022 id=\u0022bn17\u0022\u003E\u003Cp\u003Eتیزترک گام زن منزل ما دور نیست\u003C/p\u003E\u003C/div\u003E",
+      "CoupletsCount": 17
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "CenteredVerse1",
+      "Text": "نغمهٔ ساربان حجاز",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: این جمله به آواز و نغمه‌ای اشاره دارد که ساربان (شخصی که بار را حمل می‌کند) در سرزمین حجاز (مکانی معروف در عربستان) سر می‌دهد. این نغمه می‌تواند نماد شادی، حرکت و زندگی باشد. ساربان با این آواز، حال و هوای خود و سفرش را بیان می‌کند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Right",
+      "Text": "ناقهٔ سیار من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: من یک شتر بزرگ و چابک دارم که مانند آهو، سریع و پرجنب‌وجوش است."
+    },
+    {
+      "VOrder": 3,
+      "Position": "Left",
+      "Text": "آهوی تاتار من",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 4,
+      "Position": "Right",
+      "Text": "درهم و دینار من",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1,
+      "CoupletSummary": "هوش مصنوعی: پول و ثروت من کم و زیاد است، اما ارزش واقعی من بیشتر از اینهاست."
+    },
+    {
+      "VOrder": 5,
+      "Position": "Left",
+      "Text": "اندک و بسیار من",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "SectionIndex2": 1
+    },
+    {
+      "VOrder": 6,
+      "Position": "CenteredVerse1",
+      "Text": "دولت بیدار من",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: دولت بیدار من به معنای خوشبختی و موفقیتی است که در زندگی‌ام احساس می‌کنم و به نوعی نماد امید و انگیزه برای حرکت به جلو است. این دولت به من کمک می‌کند تا در چالش‌ها و سختی‌ها ادامه دهم و از زندگی لذت ببرم."
+    },
+    {
+      "VOrder": 7,
+      "Position": "CenteredVerse1",
+      "Text": "تیزترک گام زن منزل ما دور نیست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: با سرعت و توان بیشتری در حرکت باش، زودتر به مقصد تو خواهی رسید."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Right",
+      "Text": "دلکش و زیباستی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: تو دلنشین و زیبا هستی و همچنان که شاهدی، در زیبایی خود جذاب‌تر هم می‌شوی."
+    },
+    {
+      "VOrder": 9,
+      "Position": "Left",
+      "Text": "شاهد رعناستی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 10,
+      "Position": "Right",
+      "Text": "روکش حوراستی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2,
+      "CoupletSummary": "هوش مصنوعی: این بیت به زیبایی و غیرت اشاره دارد، به طوری که می‌گوید روکش زیبایی (مانند حوراها) نشان‌دهنده غیرت و شجاعت لیلا است. به عبارتی، این زیبایی تحت تأثیر قدرت و اراده‌ای است که در شخصیت لیلا نهفته است."
+    },
+    {
+      "VOrder": 11,
+      "Position": "Left",
+      "Text": "غیرت لیلاستی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "SectionIndex2": 2
+    },
+    {
+      "VOrder": 12,
+      "Position": "CenteredVerse1",
+      "Text": "دختر صحراستی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: تو دختری از سرزمین بیابان هستی."
+    },
+    {
+      "VOrder": 13,
+      "Position": "CenteredVerse1",
+      "Text": "تیزترک گام زن منزل ما دور نیست",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: با سرعت و انرژی بالا در حال حرکت به سمت ما هستی و فاصله‌ات از ما زیاد نیست."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Right",
+      "Text": "در تپش آفتاب",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در گرمای آفتاب، در حال غرق شدن در یک تصویر خیالی هستی."
+    },
+    {
+      "VOrder": 15,
+      "Position": "Left",
+      "Text": "غوطه زنی در سراب",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 16,
+      "Position": "Right",
+      "Text": "هم به شب ماهتاب",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3,
+      "CoupletSummary": "هوش مصنوعی: در دل شب، ماه مانند شهاب در حال حرکت و درخشش است."
+    },
+    {
+      "VOrder": 17,
+      "Position": "Left",
+      "Text": "تند روی چون شهاب",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "SectionIndex2": 3
+    },
+    {
+      "VOrder": 18,
+      "Position": "CenteredVerse1",
+      "Text": "چشم تو نادیده خواب",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: نگاه تو در خواب نادیده و پنهان است."
+    },
+    {
+      "VOrder": 19,
+      "Position": "CenteredVerse1",
+      "Text": "تیزترک گام زن منزل ما دور نیست",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: کسی که تند و سریع حرکت می‌کند، به زودی به منزل ما خواهد رسید."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Right",
+      "Text": "لکه ابر روان",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: تشبیه شده است به یک کشتی که در دریایی آرام و بدون باد در حال حرکت است. این تصویر بیانگر وضعیتی است که حرکت به سختی انجام می‌شود و یا احساس عدم توانایی در پیشرفت و ادامه‌ی مسیر را منتقل می‌کند. مانند حالتی که در زندگی یا کار با موانع و چالش‌های زیادی مواجه هستیم و نمی‌توانیم به جلو برویم."
+    },
+    {
+      "VOrder": 21,
+      "Position": "Left",
+      "Text": "کشتی بی بادبان",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 22,
+      "Position": "Right",
+      "Text": "مثل خضر راه دان",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4,
+      "CoupletSummary": "هوش مصنوعی: مانند خضر که دارای آگاهی و دانش عمیق است، همه چیز بر تو آسان و سبک می‌آید، حتی اگر کارها دشوار به نظر برسند."
+    },
+    {
+      "VOrder": 23,
+      "Position": "Left",
+      "Text": "بر تو سبک هر گران",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "SectionIndex2": 4
+    },
+    {
+      "VOrder": 24,
+      "Position": "CenteredVerse1",
+      "Text": "لخت دل ساربان",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: دل خسرو نشسته بود و بی‌قرار و حیران، مانند ناله‌های جانسوز یک ساربان که در غم گوسفندانش غمگین است و به فکر انجماد بی‌قراری‌اش می‌افتد."
+    },
+    {
+      "VOrder": 25,
+      "Position": "CenteredVerse1",
+      "Text": "تیزترک گام زن منزل ما دور نیست",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: سریعتر از آنچه فکر می‌کنیم، به مقصد خواهیم رسید."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Right",
+      "Text": "سوز تو اندر زمام",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: شور و شوق تو در روح تو نشان دارد و حرکت تو در زندگی نمایان است."
+    },
+    {
+      "VOrder": 27,
+      "Position": "Left",
+      "Text": "ساز تو اندر خرام",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 28,
+      "Position": "Right",
+      "Text": "بی خورش و تشنه کام",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5,
+      "CoupletSummary": "هوش مصنوعی: بدون غذا و با تشنگی، در سفر صبح و شب قدم می‌زنم."
+    },
+    {
+      "VOrder": 29,
+      "Position": "Left",
+      "Text": "پا به سفر صبح و شام",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "SectionIndex2": 5
+    },
+    {
+      "VOrder": 30,
+      "Position": "CenteredVerse1",
+      "Text": "خسته شوی از مقام",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: وقتی از جایگاه و موقعیت خود خسته می‌شوی، دیگر میل و انگیزه‌ای برای ادامه دادن نخواهی داشت."
+    },
+    {
+      "VOrder": 31,
+      "Position": "CenteredVerse1",
+      "Text": "تیزترک گام زن منزل ما دور نیست",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: سریع‌ترین رهگذران به زودی به منزل ما می‌رسند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Right",
+      "Text": "شام تو اندر یمن",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: شبت در یمن و روزت در قرن است. این یعنی که حال و هوای شب و روز تو هر کدام در جایی متفاوت و خاص قرار دارد."
+    },
+    {
+      "VOrder": 33,
+      "Position": "Left",
+      "Text": "صبح تو اندر قرن",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 34,
+      "Position": "Right",
+      "Text": "ریگ درشت وطن",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6,
+      "CoupletSummary": "هوش مصنوعی: در خاک وطن، سنگ‌های درشت و خشن مانند یاسمن پای تو را می‌فشارد."
+    },
+    {
+      "VOrder": 35,
+      "Position": "Left",
+      "Text": "پای ترا یاسمن",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 36,
+      "Position": "CenteredVerse1",
+      "Text": "ای چو غزال ختن",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای همچون غزال در سرزمین ختن،"
+    },
+    {
+      "VOrder": 37,
+      "Position": "CenteredVerse1",
+      "Text": "تیزترک گام زن منزل ما دور نیست",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: آدمی که با سرعت و دقت قدم برمی‌دارد، به زودی به ما می‌رسد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Right",
+      "Text": "مه ز سفر پا کشید",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: ماه از سفر بازگشت و در پشت تپه آرام گرفت."
+    },
+    {
+      "VOrder": 39,
+      "Position": "Left",
+      "Text": "در پس تل آرمید",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 40,
+      "Position": "Right",
+      "Text": "صبح ز مشرق دمید",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7,
+      "CoupletSummary": "هوش مصنوعی: صبح با نور خود از سمت مشرق آمد و شب را کنار زد."
+    },
+    {
+      "VOrder": 41,
+      "Position": "Left",
+      "Text": "جامهٔ شب بر درید",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "SectionIndex2": 7
+    },
+    {
+      "VOrder": 42,
+      "Position": "CenteredVerse1",
+      "Text": "باد بیابان وزید",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: باد از سوی بیابان وزیدن گرفت."
+    },
+    {
+      "VOrder": 43,
+      "Position": "CenteredVerse1",
+      "Text": "تیزترک گام زن منزل ما دور نیست",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: زودتر از آنچه که فکر می‌کنیم، به مقصد می‌رسیم."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Right",
+      "Text": "نغمهٔ من دلگشای",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: آوا و صدای من دل را شاد می‌کند و نغمه‌ام همچون جان‌افزا است."
+    },
+    {
+      "VOrder": 45,
+      "Position": "Left",
+      "Text": "زیر و بمش جانفرای",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 46,
+      "Position": "Right",
+      "Text": "قافله ها را درای",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8,
+      "CoupletSummary": "هوش مصنوعی: کاروان‌ها دچار فتنه و آشوب شده‌اند و این فتنه خود باعث به وجود آمدن فتنه‌های بیشتری می‌شود."
+    },
+    {
+      "VOrder": 47,
+      "Position": "Left",
+      "Text": "فتنه ربا فتنه زای",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "SectionIndex2": 8
+    },
+    {
+      "VOrder": 48,
+      "Position": "CenteredVerse1",
+      "Text": "ای به حرم چهره سای",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که چهره‌ات در حرم عشق سایه افکنده است،"
+    },
+    {
+      "VOrder": 49,
+      "Position": "CenteredVerse1",
+      "Text": "تیزترک گام زن منزل ما دور نیست",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "SectionIndex2": 10,
+      "CoupletSummary": "هوش مصنوعی: برای کسی که با اراده و سرعت پیش می‌رود، رسیدن به منزل ما چندان دور نیست."
+    }
+  ]
+}

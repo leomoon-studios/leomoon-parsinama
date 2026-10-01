@@ -1,0 +1,975 @@
+{
+  "Id": 41268,
+  "CatId": 1509,
+  "Title": "قصیدهٔ شمارهٔ ۶ - در مدح ابوالمظفر محمدشاه غازی طاب‌لله ثراه گوید",
+  "FullTitle": "قاآنی » قصاید » قصیدهٔ شمارهٔ ۶ - در مدح ابوالمظفر محمدشاه غازی طاب‌لله ثراه گوید",
+  "FullUrl": "/ghaani/ghasidegh/sh6",
+  "RhymeLetters": "ا",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر زیبایی و شکوه بهار را به تصویر می‌کشد و آن را به عنوان نماد renewal و زندگی جدید معرفی می‌کند. بهار به چمن و گل‌های زیبا و شکوفه‌ها جان می‌بخشد و هر گوشه‌ی طبیعت از سرزندگی و شادی پر می‌شود. شاعر از جلوه‌های بهار به عنوان نشانه‌ای از عشق و زیبایی یاد می‌کند و می‌گوید که در این فصل، همه چیز جوان و شاداب می‌شود. همچنین، ارتباطات انسانی، بوسه‌ها و عشق را در این فصل تجلی می‌دهد و به نوعی تأکید بر اهمیت محبت و دوستی در زندگی دارد. \n\nشاعر در انتها به عظمت و قدرت خداوند اشاره می‌کند و بیان می‌کند که همه چیز در دست اوست و توفیق و محبت الهی در زندگی انسان‌ها جاری است. بهار به عنوان نماد زیبایی و عشق، در نهایت از قدرت و رحمت الهی نشأت می‌گیرد.",
+  "Metre": {
+    "Id": 31,
+    "Rhythm": "مفعول مفاعلن مفاعیلن (هزج مسدس اخرب مقبوض)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "گسترد بهار در زمین دیبا\r\nچون چهر نگار شد چمن زیبا\r\nآثار پدید آب شد پنهان\r\nاسرار نهان خاک شد پیدا\r\nابر آمد و سیم ریخت بر هامون\r\nباد آمد و مشک بیخت بر صحرا\r\nاین تعبیه کرده نافه در دامن\r\nآن عاریه کرده گوهر از دریا\r\nاز سبزه چمن چو روضه رضوان\r\nاز لاله دمن چو سینه سینا\r\nآن مایه سوز سینه غمگین\r\nوین سرمه نور دیده بینا\r\nاین را به سر است کله از یاقوت\r\nآن را به بر است حله از مینا\r\nای عید من ای بهار روحانی\r\nای ماه من ای نگار بی همتا\r\nنوروز تویی و نوبهاران تو\r\nکز طلعت تو جوان شود دنیا\r\nاز روح روان سرشته یی گویی\r\nبر روی ز من فرشته یی مانا\r\nاز لعل تو نعل روح در آتش \r\nاز عشق تو مغز عقل پر سودا\r\nچون از خم زلف چهره بنمایی\r\nخورشید برآید از شب یلدا\r\nچون سلسله زلف تست پر حلقه\r\nچون زلزله عشق تست پر غوغا\r\nاین زلزله کوه راکند از بن\r\nاین سلسله عقل راکند شیدا\r\nبنما رخ تا ز شوق بی معجر\r\nاز خلد برین برون دود حورا\r\nبنشین و ببار خنده شیرین\r\nبرخیز و بیار باده حمرا\r\nبگشای کمرکه تاکمربندد\r\nدر خدمت تو در آسمان جوزا\r\nلبهای تو بهر بوسه خلقت کرد\r\nاز حکمت خویش خالق یکتا\r\nعاطل مگذار خلقت باری\r\nباطل مشمار حکمت دانا\r\nتو موی نموده یی کمند آیین\r\nمن پشت نموده ام کمان آسا\r\nچون تیر تو ازکمان ما عاجل\r\nچون تار من ازکمند تو دروا\r\nای ترک به عید بوسه آیین است\r\nدر شرع رسول و ملت بیضا\r\nحالی بنه این طبیعت غره\r\nشرمی بکن از شریعت غرا\r\nزان پس که مرا مباح شد بوسه\r\nپیش آی که تا ببوسمت عمدا\r\nاز بوسه مکن دریغ تات ای ترک\r\nصد بوسه زنم برآن رخ رخشا\r\nهل تا بگزم لبان شیرینت\r\nخوش خوش مزم آن دودانه خرما\r\nزان روی چنم ورق ورق سوری\r\nزان لعل خورم طبق طبق حلوا\r\nزان گرد زنخ که گوی را ماند\r\nدر رقص آیم چوگوی سر تا پا\r\nنی نیست به بوسه حاجتم امروز\r\nگر عمر بود ببوسمت فردا\r\nکامروز بس است لب مرا شیرین\r\nاز شکر شکر خسرو والا\r\nدارای جهان ستان محمد شاه\r\nکز هردو جهان فزون بود تنها\r\nاجزای وی است هرچه درگیتی\r\nباکل چه برابری کند اجزا\r\nاعضای وی است هرکه در عالم\r\nبا روح چه همسری کند اعضا\r\nافلاک مطاوعش به یک فرمان\r\nآفاق مسخرش به یک ایما\r\nکوهی که خورد قفای قهر او\r\nآسیمه دود چو باد در بیدا\r\nبادی که بود مطیع حزم او\r\nهمواره بود چوکوه پابرجا\r\nای خشم تو همچو مرگ بی تاخیر\r\nوی قهر تو همچو زهر جان فرسا\r\nخیل تو چو سیل کوه بنیان کن\r\nفوج تو چو موج بحر طوفان زا\r\nدر جانسوزی چو چرخ بی مهلت\r\nدرکین توزی چو دهر بی پروا\r\nنه ملک مخلد ترا مقطع\r\nنه ذات مؤید ترا مبدا\r\nصد جمله به حمله یی زنی برهم\r\nصد بقعه به وقعه یی کنی یغما\r\nاز دشنه توکه تشنه خون است\r\nبس کشته که پشته گشته در هیجا\r\nباطلعت رای گیتی افروزت\r\nخورشید برآید از شب یلدا\r\nبا نکهت خلق عنبرافشانت\r\nعنبر خیزد زکام اژدرها\r\nتوقیع ترا قدر برد فرمان\r\nفرمان ترا قضاکند امضا\r\nانکار تو نیست دهر را ممکن\r\nپیکار تو نیست چرخ را یارا\r\nانجم تار است و رای تو روشن\r\nگردون پستست و قدر تو والا\r\nشیر است به روز جنگ تو روبه\r\nموم است ز زور چنگ تو خارا\r\nفوجی ز صف سپاه تو انجم\r\nموجی زکف نوال تو دریا\r\nخلق تو زکام شیر انگیزد\r\nچون ناف غزال نافه سارا\r\nمهر تو ز صلب سنگ رویاند\r\nچون باد بهار لاله حمرا\r\nخورشیدی و برخلاف خورشیدی\r\nکز ابر شود به چرخ ناپیدا\r\nزیراکه هماره باکفی چون ابر\r\nخورشید صفت بتابدت سیما\r\nچون باد قلم دود در انگشتم\r\nگر مدح تکاورت کنم املا\r\nچون برق کشد ضمیر من شعله\r\nگر وصف بلارکت کنم انشا\r\nگر خشم کنی به چشمه خورشید\r\nچون شب پره زو حذرکند حربا\r\nور چشم زنی به جانب ناهید\r\nسوی تو چمد زگنبد خضرا\r\nاخلاق تو آبگینه یارد ساخت\r\nاز نرم دلی ز صخره صما\r\nگرد سپهت به چشم بدخواهان\r\nیک بادیه افعی است و اژدرها\r\nشخص تو جهان پیر برناکرد\r\nاز دانش پیرو طالع برنا\r\nرخسار تو آیینه است و خصمت دیو\r\nزان در تو چو بنگرد شود رسوا\r\nتا لمعه و نور خیزد از خورشید\r\nتا فتنه و شور زاید از صهبا\r\nدارم دو هزار شکوه از طالع\r\nلیک آن دو هزار شکوه باشد تا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگسترد بهار در زمین دیبا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون چهر نگار شد چمن زیبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآثار پدید آب شد پنهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاسرار نهان خاک شد پیدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابر آمد و سیم ریخت بر هامون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباد آمد و مشک بیخت بر صحرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین تعبیه‌کرده نافه در دامن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن عاریه کرده‌گوهر از دریا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز سبزه چمن چو روضهٔ رضوان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز لاله دمن چو سینهٔ سینا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن مایهٔ سوز سینهٔ غمگین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین سرمهٔ نور دیدهٔ بینا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین را به سر است‌کلّه از یاقوت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآن را به بر است حلّه از مینا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای عید من ای بهار روحانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eای ماه من ای نگار بی‌همتا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوروز تویی و نوبهاران تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز طلعت تو جوان شود دنیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز روح روان سرشته‌یی گویی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر روی ز من فرشته‌یی مانا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز لعل تو نعل روح در آتش‌\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز عشق تو مغز عقل پر سودا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون از خم زلف چهره بنمایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید برآید از شب یلدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سلسله زلف تست پر حلقه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون زلزله عشق تست پر غوغا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین زلزله‌کوه راکند از بن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین سلسله عقل راکند شیدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنما رخ تا ز شوق بی‌معجر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز خلد برین برون دود حورا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنشین و ببار خندهٔ شیرین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبرخیز و بیار بادهٔ حمرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگشای‌کمرکه تاکمربندد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر خدمت تو در آسمان جوزا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلبهای تو بهر بوسه خلقت‌کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز حکمت خویش خالق یکتا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاطل مگذار خلقت باری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباطل مشمار حکمت دانا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتو موی نموده‌یی‌کمند آیین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمن پشت نموده‌ام‌کمان‌آسا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون تیر تو ازکمان ما عاجل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون تار من ازکمند تو دروا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای ترک به‌عید بوسه آیین است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر شرع رسول و ملت بیضا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحالی بنه این طبیعت غره\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرمی بکن از شریعت غرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان پس‌که مرا مباح شد بوسه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیش آی‌که تا ببوسمت عمدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز بوسه مکن دریغ تات ای ترک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد بوسه‌زنم برآن رخ رخشا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهل تا بگزم لبان شیرینت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش خوش‌مزم آن دودانهٔ خرما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان روی چنم ورق ورق سوری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان لعل خورم طبق طبق حلوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزان‌گرد زنخ‌که‌گوی را ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر رقص آیم چوگوی سر تا پا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنی نیست به بوسه حاجتم امروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر عمر بود ببوسمت فردا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکامروز بس است لب مرا شیرین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز شکر شکر خسرو والا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدارای جهان ستان محمد شاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز هردو جهان فزون بود تنها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاجزای وی است هرچه درگیتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباکل چه برابری‌کند اجزا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاعضای وی است هرکه در عالم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا روح چه همسری‌کند اعضا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eافلاک مطاوعش به یک فرمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآفاق مسخرش به یک ایما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکوهی‌که خورد قفای قهر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسیمه دود چو باد در بیدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبادی‌که بود مطیع حزم او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمواره بود چوکوه پابرجا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای خشم تو همچو مرگ بی‌تاخیر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی قهر تو همچو زهر جان‌فرسا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخیل تو چو سیل‌کوه بنیان‌کن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفوج تو چو موج بحر طوفان‌زا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر جانسوزی چو چرخ بی‌مهلت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرکین‌توزی چو دهر بی‌پروا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه ملک مخلد ترا مقطع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه ذات مؤید ترا مبدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصد جمله به حمله‌یی زنی برهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصد بقعه به وقعه‌یی‌کنی یغما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دشنهٔ توکه تشنهٔ خون است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبس‌کشته‌که پشته‌گشته در هیجا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباطلعت رای‌گیتی افروزت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید برآید از شب یلدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا نکهت خلق عنبرافشانت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعنبر خیزد زکام اژدرها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتوقیع ترا قدر برد فرمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرمان ترا قضاکند امضا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانکار تو نیست دهر را ممکن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیکار تو نیست چرخ را یارا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eانجم تار است و رای تو روشن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردون پستست و قدر تو والا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشیر است به روز جنگ تو روبه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموم است ز زور چنگ تو خارا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفوجی ز صف سپاه تو انجم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموجی زکف نوال تو دریا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخلق تو زکام شیر انگیزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون ناف غزال نافهٔ سارا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمهر تو ز صلب سنگ رویاند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون باد بهار لالهٔ حمرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخورشیدی و برخلاف خورشیدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز ابر شود به چرخ ناپیدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزیراکه هماره باکفی چون ابر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخورشید صفت بتابدت سیما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون باد قلم دود در انگشتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر مدح تکاورت‌کنم املا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون برق‌کشد ضمیر من شعله\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر وصف بلارکت‌کنم انشا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خشم‌کنی به چشمهٔ خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شب‌پره زو حذرکند حربا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور چشم زنی به جانب ناهید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسوی تو چمد زگنبد خضرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاخلاق تو آبگینه یارد ساخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز نرم دلی ز صخرهٔ صما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگرد سپهت به چشم بدخواهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیک بادیه افعی است و اژدرها\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشخص تو جهان پیر برناکرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز دانش پیرو طالع برنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn61\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخسار تو آیینه است و خصمت دیو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان در تو چو بنگرد شود رسوا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn62\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا لمعه و نور خیزد از خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا فتنه و شور زاید از صهبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn63\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدارم دو هزار شکوه از طالع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک آن دو هزار شکوه باشد تا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 63
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "گسترد بهار در زمین دیبا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهار به شکلی زیبا و دلنشین در زمین گسترش یافته است، مانند پارچه‌ای لطیف و باکیفیت که چمن‌ها را به زیبایی چهره‌ای خوش‌پیدا می‌آراید."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "چون چهر نگار شد چمن زیبا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "آثار پدید آب شد پنهان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب آثار خود را نمایان کرد و رازهای نهانی که در خاک بود، آشکار شدند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "اسرار نهان خاک شد پیدا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ابر آمد و سیم ریخت بر هامون",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ابرها به آسمان آمده و باران را بر روی زمین ریخته‌اند، و باد نیز با خود بوی خوشی را به دشت‌ها آورده است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "باد آمد و مشک بیخت بر صحرا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "این تعبیه‌کرده نافه در دامن",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که گلی را در دامن خود دارد، در واقع از دریا جواهراتی را به امانت گرفته است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "آن عاریه کرده‌گوهر از دریا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "از سبزه چمن چو روضهٔ رضوان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چمن مانند بهشت زیبایی است و لاله‌ها در دشت همچون سینه‌ای هستند که رازها و زیبایی‌های عمیق را در خود جای داده‌اند."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "از لاله دمن چو سینهٔ سینا",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "آن مایهٔ سوز سینهٔ غمگین",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این سخن به احساسات عمیق و دردهای ناشی از فقدان و اندوه اشاره دارد. سوزی که در دل احساس می‌شود، نشانه‌ای از دلشکستگی و غم‌هایی است که انسان در زندگی تجربه می‌کند. همچنین، وجود نوری که در چشم بینا می‌درخشد، می‌تواند نمادی از امید و آگاهی باشد که حتی در تاریکی‌ها هم وجود دارد و به روشنایی می‌انجامد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "وین سرمهٔ نور دیدهٔ بینا",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "این را به سر است‌کلّه از یاقوت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به تصویر کشیدن زیبایی و ارزش دو چیز متفاوت است. یکی از آن‌ها که به سر تعلق دارد، از یاقوت ساخته شده و دیگری که به دامن مربوط است، از مینا (نوعی شیشه رنگی) ساخته شده است. به طور کلی، اشاره به این دارد که هر دو چیز زیبا و ارزشمند هستند، ولی از مواد مختلف و با ویژگی‌های خاص خود ساخته شده‌اند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "آن را به بر است حلّه از مینا",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ای عید من ای بهار روحانی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای عید من، ای بهار روح و جانم، ای ماه من، ای محبوب و بی‌نظیر من."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ای ماه من ای نگار بی‌همتا",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "نوروز تویی و نوبهاران تو",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو نماد نوروز و بهار هستی، زیرا به خاطر زیبایی و وجود تو، دنیا دوباره جوان و سرزنده می‌شود."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "کز طلعت تو جوان شود دنیا",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "از روح روان سرشته‌یی گویی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گویی موجودی زیبا و روح‌نواز از وجود من برآمده است که مانند فرشته‌ای باقی و ماندگار به نظر می‌رسد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "بر روی ز من فرشته‌یی مانا",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "از لعل تو نعل روح در آتش‌",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از زیبایی تو، زندگی و روانی در آتش عشق به تو به جانم می‌زند و ذهنم از عشق تو پر از خیال و اندیشه‌های دیوانه‌وار شده است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "از عشق تو مغز عقل پر سودا",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "چون از خم زلف چهره بنمایی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که تو از زیر موهای خود چهره‌ات را نشان می‌دهی، انگار که خورشید از شب یلدا بیرون می‌آید و روشنی می‌بخشد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "خورشید برآید از شب یلدا",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "چون سلسله زلف تست پر حلقه",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی و پیچیدگی موهای تو همچون زنجیری است که حلقه‌های آن به هم متصل‌اند. عشق تو همانند زلزه‌ای است که شور و غوغای زیادی به همراه دارد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "چون زلزله عشق تست پر غوغا",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "این زلزله‌کوه راکند از بن",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این زلزله‌ی کوه، ریشه‌های این سلسله را از بین می‌برد و عقل را دیوانه می‌کند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "این سلسله عقل راکند شیدا",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "بنما رخ تا ز شوق بی‌معجر",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صورت خود را به نمایش بگذار تا از شوق زیاد، بدون حجاب، از بهشت برین خارج شوم."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "از خلد برین برون دود حورا",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "بنشین و ببار خندهٔ شیرین",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بنشین و خنده‌ای خوش و شیرین داشته باش، سپس برخیز و شراب روشنی بیاور."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "برخیز و بیار بادهٔ حمرا",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "بگشای‌کمرکه تاکمربندد",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بیا و کمربندت را باز کن تا در خدمت تو در آسمان جوزا قرار بگیرم."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "در خدمت تو در آسمان جوزا",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "لبهای تو بهر بوسه خلقت‌کرد",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: لب‌های تو به خاطر بوسه، به گونه‌ای ساخته شده‌اند که نشان‌دهنده حكمت خالق یگانه هستند."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "از حکمت خویش خالق یکتا",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "عاطل مگذار خلقت باری",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وجود خود را بی‌فایده نگذار و کارهای خود را بی‌هدف قلمداد نکن؛ چرا که هر خلقتی دارای حکمت و هدفی از سوی دانا است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "باطل مشمار حکمت دانا",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "تو موی نموده‌یی‌کمند آیین",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو همچون مویی هستی که در دستان من به گیسو درمی‌آید و من نیز همچون کمانی آماده‌ام تا از تو محافظت کنم."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "من پشت نموده‌ام‌کمان‌آسا",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "چون تیر تو ازکمان ما عاجل",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چون تیر تو به سمت من شلیک شده، بی‌درنگ و فوری است مانند این که تار من از دام تو رها شده است."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "چون تار من ازکمند تو دروا",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "ای ترک به‌عید بوسه آیین است",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ترک، در روز عید، بوسه دادن روشی است که در شریعت پیامبر و پیروان ملت حضرت مسیح وجود دارد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "در شرع رسول و ملت بیضا",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "حالی بنه این طبیعت غره",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به طبیعت باج خواهی نکن و از قوانین و اصول درست و اخلاقی شرمنده باش."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "شرمی بکن از شریعت غرا",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "زان پس‌که مرا مباح شد بوسه",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پس از اینکه مرا اجازه بوسیدن عطا شد، بیا پیشم که بخواهم تو را عمداً ببوسم."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "پیش آی‌که تا ببوسمت عمدا",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "از بوسه مکن دریغ تات ای ترک",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای ترک، از بوسه زدن بر چهره زیبایت دریغ نکن، زیرا من صد بوسه بر آن رخ ماهتابی‌ات می‌زنم."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "صد بوسه‌زنم برآن رخ رخشا",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "هل تا بگزم لبان شیرینت",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌توانم لب‌های شیرینت را بمکید؟ طعم خوش آن همچون خرمای خوشمزه است."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "خوش خوش‌مزم آن دودانهٔ خرما",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "زان روی چنم ورق ورق سوری",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر آن چهره‌ی زیبا و دل‌ربا، من چون گلبرگ‌ها به هم می‌پیچم و به خاطر آن لب‌های خوش‌رنگ، مانند تکیه‌گاه‌هایی از شیرینی می‌شوم."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "زان لعل خورم طبق طبق حلوا",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "زان‌گرد زنخ‌که‌گوی را ماند",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر حلقه‌ای که بر گردن دارد، مانند گوی در رقص می‌آیم و از سر تا پا در حرکت هستم."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "در رقص آیم چوگوی سر تا پا",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "نی نیست به بوسه حاجتم امروز",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز به بوسه نیازی ندارم، اما اگر عمر دست دهد، فردا تو را می‌بوسم."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "گر عمر بود ببوسمت فردا",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "کامروز بس است لب مرا شیرین",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز کافی است که لب‌های من به شیرینی شکر باشد، مانند شکر که خسرو بزرگ را خوشبو کرده است."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "از شکر شکر خسرو والا",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "دارای جهان ستان محمد شاه",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: محمد شاه که در مقام پادشاهی قرار دارد، چنان بزرگ و باعظمت است که از هر دو دنیا بیشتر و بالاتر است و در حقیقت، او تنهاست و هیچ‌کس به پای او نمی‌رسد."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "کز هردو جهان فزون بود تنها",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "اجزای وی است هرچه درگیتی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که در جهان وجود دارد، جزء از وجود اوست و هر چیزی که با یکدیگر برابر است، نیز جزئی از اوست."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "باکل چه برابری‌کند اجزا",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "اعضای وی است هرکه در عالم",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کسی که در دنیا با روح و جان خود پیوندی برقرار کند، در واقع جزئی از وجود او محسوب می‌شود."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "با روح چه همسری‌کند اعضا",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "افلاک مطاوعش به یک فرمان",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان و آسمان‌ها به فرمان او هستند و همه چیز در اطرافش با یک اشاره تحت کنترل او قرار می‌گیرد."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "آفاق مسخرش به یک ایما",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "کوهی‌که خورد قفای قهر او",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کوهی که به خاطر قهر و خشمت لرزید، مثل این است که دود در باد به آرامی در فضا پخش می‌شود."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "آسیمه دود چو باد در بیدا",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "بادی‌که بود مطیع حزم او",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بادی که همیشه مطیع و تحت کنترل او بود، مانند کوهی استوار و محکم باقی ماند."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "همواره بود چوکوه پابرجا",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "ای خشم تو همچو مرگ بی‌تاخیر",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خشم تو مانند مرگ است که هیچ تأخیری ندارد و قهر تو همچون زهر، کشنده و خطرناک است."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "وی قهر تو همچو زهر جان‌فرسا",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "خیل تو چو سیل‌کوه بنیان‌کن",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو مانند سیل عظیمی هستی که به کوه‌ها ویرانی می‌‌آورد و گروه تو مانند امواج دریایی است که طوفانی ایجاد می‌کنند."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "فوج تو چو موج بحر طوفان‌زا",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "در جانسوزی چو چرخ بی‌مهلت",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در آتش جان‌سوزی، زمان به سرعت می‌گذرد و بدون امان، در برابر درد و رنج چون دنیا بی‌توجه و بی‌پرواست."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "درکین‌توزی چو دهر بی‌پروا",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "نه ملک مخلد ترا مقطع",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه اینکه تو به خاطر ثروت و مقام جاودانه‌ای یا به خاطر ارتباط با قدرت‌های الهی به وجود آمده‌ای."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "نه ذات مؤید ترا مبدا",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "صد جمله به حمله‌یی زنی برهم",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهی با یک حمله‌ی ناگهانی ضربه‌ای بزنید، می‌توانید از هزاران کلام و گفته‌های مختلف استفاده کنید. هر کدام از این کلمات می‌تواند مانند یک قلعه باشد که در یک وقوع یا رویداد به غارت می‌روید."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "صد بقعه به وقعه‌یی‌کنی یغما",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "از دشنهٔ توکه تشنهٔ خون است",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از تیغ تو که به خون تشنه است، تعداد زیادی کشته در زیر زمین انباشته شده‌اند."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "بس‌کشته‌که پشته‌گشته در هیجا",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "باطلعت رای‌گیتی افروزت",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با چهره‌ات، دنیا روشن می‌شود و خورشید از شب یلدا طلوع خواهد کرد."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "خورشید برآید از شب یلدا",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "با نکهت خلق عنبرافشانت",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با عطر خوشی که تو پخش می‌کنی، حتی بخار عطر عنبر هم از تن اژدها بیرون می‌آید."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "عنبر خیزد زکام اژدرها",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "توقیع ترا قدر برد فرمان",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امضای تو ارزش دارد و فرمان تو را قضا و قدر به انجام می‌رساند."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "فرمان ترا قضاکند امضا",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "انکار تو نیست دهر را ممکن",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: انكار تو براي زمان ممكن نيست، همان‌طور كه مقابله با چرخ فلک هم امكان‌پذير نيست."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "پیکار تو نیست چرخ را یارا",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "انجم تار است و رای تو روشن",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ستاره‌ها در تاریکی به نظر می‌رسند و افکار تو مانند نوری هستند که در این فضا می‌درخشد. زمین و جهان از نظر جایگاه و ارزش، پایین‌تر از تو قرار دارند و تو دارای مرتبه‌ای بلندتری هستی."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "گردون پستست و قدر تو والا",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "شیر است به روز جنگ تو روبه",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روز نبرد، تو مانند شیری قوی و نیرومند هستی، اما هنگام مواجهه با قدرت و فشار تو، دشمن به موم می‌ماند و به سادگی تغییر شکل می‌دهد و تسلیم می‌شود."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "موم است ز زور چنگ تو خارا",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "فوجی ز صف سپاه تو انجم",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گروهی از ستاره‌ها از صف سپاه تو به وجود آمده‌اند و موج‌هایی که از طوفان نیکی تو می‌آید، مانند امواج دریا هستند."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "موجی زکف نوال تو دریا",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "خلق تو زکام شیر انگیزد",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی و دلربایی تو چنان جذاب است که همچون عطر و بوی خوش گل‌ها و گیاهان، دیگران را به سمت خود می‌کشد و به وجد می‌آورد."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "چون ناف غزال نافهٔ سارا",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "مهر تو ز صلب سنگ رویاند",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عشق و محبت تو مانند بذر لاله‌ای است که از دل سنگی روییده و بر اثر نسیم بهاری شکوفا شده است."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "چون باد بهار لالهٔ حمرا",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "خورشیدی و برخلاف خورشیدی",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خورشید تو، مانند خورشیدی است که از پشت ابر پنهان شده و در آسمان ناپیداست."
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "کز ابر شود به چرخ ناپیدا",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "زیراکه هماره باکفی چون ابر",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چرا که همیشه باید با یک دست مانند ابر، صورتت را چون خورشید روشن نگه‌دارم."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "خورشید صفت بتابدت سیما",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "چون باد قلم دود در انگشتم",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی همچون باد قلم در دستم می‌چرخد، اگر بخواهم تو را در ستایش توصیف کنم، چگونه بنویسم؟"
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "گر مدح تکاورت‌کنم املا",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "چون برق‌کشد ضمیر من شعله",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که فکر و اندیشه‌ام به شدت روشن شود و با شدت و آتش به توصیف زیبایی‌ها بپردازم، این کار را آغاز می‌کنم."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "گر وصف بلارکت‌کنم انشا",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "گر خشم‌کنی به چشمهٔ خورشید",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خشمگین شوی، مانند شب‌پره‌ای که از نور خورشید فرار می‌کند، از تو دور خواهد شد."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "چون شب‌پره زو حذرکند حربا",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "ور چشم زنی به جانب ناهید",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر چشمان زنی به سوی ناهید نگاه کند، تو هم به خاطر او از دامان زمین بلند شو."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "سوی تو چمد زگنبد خضرا",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "اخلاق تو آبگینه یارد ساخت",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اخلاق تو مانند شیشه‌ای است که از دل نرم و مهربانت شکل گرفته، همچون صخره‌ای محکم و استوار."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "از نرم دلی ز صخرهٔ صما",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "گرد سپهت به چشم بدخواهان",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گرد و خاک تو در برابر بدخواهان، همچون بیابانی است که در آن افعی و مارهای بزرگ وجود دارند."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "یک بادیه افعی است و اژدرها",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "شخص تو جهان پیر برناکرد",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو که در این جهان کهن، جوانی را به دست آورده‌ای، با دانش و آگاهی خود به زندگی‌ات شکل می‌دهی و سرنوشتت را رقم می‌زنی."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "از دانش پیرو طالع برنا",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "رخسار تو آیینه است و خصمت دیو",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صورت زیبای تو مانند آینه‌ای است که اگر دشمن تو به آن نگاه کند، رسوا خواهد شد."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "زان در تو چو بنگرد شود رسوا",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 123,
+      "Position": "Right",
+      "Text": "تا لمعه و نور خیزد از خورشید",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که نور و درخشش از خورشید به‌وجود می‌آید، همواره آشفتگی و شور و هیجان از شراب نیز پدید می‌آید."
+    },
+    {
+      "VOrder": 124,
+      "Position": "Left",
+      "Text": "تا فتنه و شور زاید از صهبا",
+      "CoupletIndex": 61,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 125,
+      "Position": "Right",
+      "Text": "دارم دو هزار شکوه از طالع",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من دو هزار گلایه از سرنوشت دارم، اما این دو هزار گلایه تنها تا همین حد باقی می‌ماند."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Left",
+      "Text": "لیک آن دو هزار شکوه باشد تا",
+      "CoupletIndex": 62,
+      "SectionIndex1": 0
+    }
+  ]
+}

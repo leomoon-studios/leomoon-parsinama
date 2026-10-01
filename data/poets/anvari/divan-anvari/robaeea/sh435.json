@@ -1,0 +1,60 @@
+{
+  "Id": 29257,
+  "CatId": 364,
+  "Title": "رباعی شمارهٔ ۴۳۵",
+  "FullTitle": "انوری » دیوان اشعار » رباعیات » رباعی شمارهٔ ۴۳۵",
+  "FullUrl": "/anvari/divan-anvari/robaeea/sh435",
+  "RhymeLetters": "بینی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "بوعلی آبی از بزرگان سرخس بود\u00A0 انوری او را هجو گفته.\u00A0 و بزرگی بینی او را\u00A0 به افسوس گرفته اگر با بوعلی آبی هم نشین شوی\u00A0 از شش جهت بینی او را خواهی دید اگر ببرای دیدنش جای دو چشمت را\u00A0 چهار چشم کنی باز\u00A0 بجز بینی چیزی\u00A0 نمیبینی",
+  "Metre": {
+    "Id": 24,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعل (وزن رباعی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "بینی",
+      "PlainText": "با بوعلی آبی ار بهم بنشینی\r\nشخصی بینی شش جهت\u00A0 از او بینی\r\nگر دیده به دیدن رخش چار کنی\r\nچندان که ازو بینی بینی بینی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا بوعلی آبی ار بهم بنشینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشخصی بینی شش جهت\u00A0 از او بینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر دیده به دیدن رخش چار کنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندان که ازو بینی بینی بینی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "با بوعلی آبی ار بهم بنشینی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "اگر با بوعلی آبی بنشینی از شش جهتش\u00A0 بینی او\u00A0 میبینی\u00A0"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شخصی بینی شش جهت\u00A0 از او بینی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "گر دیده به دیدن رخش چار کنی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "\u00A0اگر چشمانت را بر روی دیدن او\u00A0 چهار کنی، باز هم بجز بینی از او نمیبینی"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "چندان که ازو بینی بینی بینی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

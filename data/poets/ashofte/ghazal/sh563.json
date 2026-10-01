@@ -1,0 +1,225 @@
+{
+  "Id": 100061,
+  "CatId": 2527,
+  "Title": "شمارهٔ  ۵۶۳",
+  "FullTitle": "آشفتهٔ شیرازی » غزلیات » شمارهٔ  ۵۶۳",
+  "FullUrl": "/ashofte/ghazal/sh563",
+  "RhymeLetters": "یر",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره زیبایی، عشق و دشواری‌های زندگی است. شاعر از پسته‌ای خندان و شیرینی‌اش صحبت می‌کند که نمادی از عشق و خوشحالی است. او به بازار و تبادلات آن اشاره می‌کند و از مشکلاتی که به خاطر محبت و عشق به محبوبش به وجود آمده، می‌گوید. در ادامه، شاعر به ناپایداری‌ها و خطرات عشق، به ویژه در مواجهه با افرادی ناآگاه، پرداخته و از درد سرهایی که ناشی از عشق است، صحبت می‌کند. در نهایت، او به خیالات و اندیشه‌های خود درباره محبت و دنیای پیرامونش اشاره می‌کند و به معانی عمیق‌تری در زندگی و عشق بین دو انسان می‌پردازد.",
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "پسته خندان گشود و لعل شکربار\r\nشکر که نرخ شکرشکست ببازار\r\nدلبر شیرین بلی چو کرد تبسم\r\nپسته عجب نیست کاورد شکری بار\r\nاینکه ببازار رفتی از پی یوسف\r\nسر بنه ار زر بکیسه نیست بمقدار\r\nشیشه بگو تا کند زسنگ کناری\r\nصحبت نااهل را ثمر بود آزار\r\nنشکندش قیمت وز نرخ نکاهد\r\nگر گهری را عیان نگشت خریدار\r\nدفتر پرهیز زآب میکده شستیم\r\nخرقه و دستار رهن خانه خمار\r\nمیدهدم شیخ دردسر که مخور می\r\nبیخبرند از خمار مردم هشیار\r\nگر شکنی آن شکنج زلف پریشان\r\nنافه چین بشکنی و طبله عطار\r\nشور حق از سر منه دلا تو چو منصور\r\nتا که سرافرازیت دهد بسر دار\r\nروی نمود و جهان اسیر جنون کرد\r\nچهره زمردم نهفت باز پریوار\r\nهست شبی در قفای روز و ززلفت\r\nروز مرا آمده عیان دو شب تار\r\nحال دل آشفته چیست در خم زلفش\r\nصعوه که منزل گرفته در دهن مار\r\nاز پی افسون مار جادوی ضحاک\r\nبه که پناه آورم بحیدر کرار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپسته خندان گشود و لعل شکربار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشکر که نرخ شکرشکست ببازار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدلبر شیرین بلی چو کرد تبسم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپسته عجب نیست کاورد شکری بار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاینکه ببازار رفتی از پی یوسف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر بنه ار زر بکیسه نیست بمقدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشیشه بگو تا کند زسنگ کناری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصحبت نااهل را ثمر بود آزار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشکندش قیمت وز نرخ نکاهد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر گهری را عیان نگشت خریدار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدفتر پرهیز زآب میکده شستیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرقه و دستار رهن خانه خمار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیدهدم شیخ دردسر که مخور می\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیخبرند از خمار مردم هشیار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر شکنی آن شکنج زلف پریشان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنافه چین بشکنی و طبله عطار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشور حق از سر منه دلا تو چو منصور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا که سرافرازیت دهد بسر دار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروی نمود و جهان اسیر جنون کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچهره زمردم نهفت باز پریوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهست شبی در قفای روز و ززلفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروز مرا آمده عیان دو شب تار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحال دل آشفته چیست در خم زلفش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصعوه که منزل گرفته در دهن مار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز پی افسون مار جادوی ضحاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه که پناه آورم بحیدر کرار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 13
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "پسته خندان گشود و لعل شکربار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پسته‌ای که خندان است، پوستش را باز کرد و لعل (که نشان‌دهنده زیبایی و ارزش است) مانند شکر به نظر می‌رسد. زیرا قیمت شکر در بازار پایین آمده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "شکر که نرخ شکرشکست ببازار",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "دلبر شیرین بلی چو کرد تبسم",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی محبوب شیرین لبانش را خنده می‌زند، تعجبی ندارد که مانند پسته با طعمی شیرین جذاب و خوشمزه باشد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "پسته عجب نیست کاورد شکری بار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "اینکه ببازار رفتی از پی یوسف",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر به بازار رفته‌ای تا یوسف را پیدا کنی، سرهایت را پایین بینداز، چون اگر زر و پولی در کیسه‌ات نیست، ارزشی در کار تو نخواهد بود."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سر بنه ار زر بکیسه نیست بمقدار",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "شیشه بگو تا کند زسنگ کناری",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به شیشه بگو که از سنگ کناری فاصله بگیرد، چون صحبت با آدم نادرست باعث آزار و زحمت می‌شود."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "صحبت نااهل را ثمر بود آزار",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نشکندش قیمت وز نرخ نکاهد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر قیمت چیزی نشکند و از ارزش آن کاسته نشود، حتی اگر جواهر خوبی برای خرید در دسترس نباشد، همچنان نیاز به خریدار خواهد بود."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "گر گهری را عیان نگشت خریدار",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دفتر پرهیز زآب میکده شستیم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما دفتر پرهیز و خودداری را با آب میکده شستیم و لباس و دستار خود را در خانه میخانه رها کردیم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خرقه و دستار رهن خانه خمار",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "میدهدم شیخ دردسر که مخور می",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به کسی که به دنبال خوش‌گذرانی و مسرت است، می‌گویم که از خوردن شراب و مستی پرهیز کند، چون دیگران از حال مردم بیدار و هوشیار بی‌خبرند و ممکن است برایشان دردسر ساز شود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "بیخبرند از خمار مردم هشیار",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "گر شکنی آن شکنج زلف پریشان",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر زلف پریشان و خمیده‌ات را بشکنی، مانند این است که بلبل و عطار را نیز بشکنی."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "نافه چین بشکنی و طبله عطار",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "شور حق از سر منه دلا تو چو منصور",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای دل، از عشق و حقیقت غرق شور باش مانند منصور، تا اینکه با شجاعت و افتخار به سر دار بروی."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "تا که سرافرازیت دهد بسر دار",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "روی نمود و جهان اسیر جنون کرد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی او ظاهر شد، دنیا را به دیوانگی کشاند و چهره زیبای مرا زیر پرده‌ای از راز و حجاب پنهان کرد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "چهره زمردم نهفت باز پریوار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "هست شبی در قفای روز و ززلفت",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به شب و تاریکی آن اشاره شده که در پی روز می‌آید و به نوعی نشان‌دهنده این است که شب و روز هر دو به هم مرتبط هستند. در این میان، زیبایی و دلربایی روز، به صورت واضح و عیانی در تاریکی شب نمایان می‌شود. این بیت، ترکیب پیچیدگی‌های زمان و زیبایی را به تصویر می‌کشد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "روز مرا آمده عیان دو شب تار",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "حال دل آشفته چیست در خم زلفش",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: احوال دل پریشان چیست؟ وقتی که پرنده‌ای در گودی زلف او نشسته و در دهن ماری خانه کرده است."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "صعوه که منزل گرفته در دهن مار",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "از پی افسون مار جادوی ضحاک",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای مقابله با جادوگری و حقه‌های ضحاک، به علی ابن ابی‌طالب که مردی شجاع و توانمند است پناه می‌آورم."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "به که پناه آورم بحیدر کرار",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,945 @@
+{
+  "Id": 122592,
+  "CatId": 2818,
+  "Title": "شمارهٔ ۹۸",
+  "FullTitle": "ادیب صابر » دیوان اشعار » قصاید » شمارهٔ ۹۸",
+  "FullUrl": "/saber/divan/ghaside/sh98",
+  "RhymeLetters": "انی",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به توصیف زیبایی و ویژگی‌های برجسته یک معشوق پرداخته است. شاعر به ستایش قامت و زیبایی اراده و اخلاق آن معشوق می‌پردازد و در عین حال اشاره به قدرت و عظمت شخصیتی دارد که او را وصف می‌کند. معشوق با زیبایی‌هایش، دل‌ها را می‌رباید و در دل‌ها آرامش و ایمان ایجاد می‌کند. شاعر همچنین اهمیت صداقت، سخاوت و صفات نیک را در شخصیت معشوق برجسته می‌کند و در نهایت به ارتباط قوی میان عشق و مقام‌های عالی انسانی اشاره دارد. این شعر به وضوح نشان‌دهنده عشق و ارادت شاعر به معشوق است و از زیبایی و صفات آن به زیبایی یاد می‌کند.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انی",
+      "PlainText": "ای به قامت چو سرو بستانی\r\nقیمت حسن خویش می دانی\r\nنیکویی را به روی معجزه ای\r\nدلبری را به زلف برهانی\r\nدر حلاوت برادر شکری\r\nدر لطافت برابر جانی\r\nدل نمازت برد که دلداری\r\nجانت سجده کند که جانانی\r\nهمه آرایش تو فردوسی\r\nهمه پیرایه تو رضوانی\r\nدل ستانی به جعد زنجیری\r\nدین ربایی به زلف چوگانی\r\nنه نگه داری آنچه بربایی\r\nنه نکو داری آنچه بستانی\r\nبر رخ لاله قطر شبگیری\r\nبر سر سرو شاخ ریحانی\r\nاگر این خوبتر بود اینی\r\nو گر آن طرفه تر بود آنی\r\nور تو را وصف خویش باید کرد\r\nهم تو از وصف خویش درمانی\r\nتن و جان را به غمزه آشوبی\r\nدل و دین را به بوسه درمانی\r\nبه زبان معجز مسیحایی\r\nبه دهان خاتم سلیمانی\r\nنشناسد زیوسف مصری\r\nگرت بیند رسول کنعانی\r\nدر سر من حریف سودایی\r\nدر دل من ندیم ایمانی\r\nسر زلف تو را همی ماند\r\nسر کار من از پریشانی\r\nبوسه ای را دلی است از تو بها\r\nگر بها بودی اینت ارزانی\r\nگر به یک غمزه صد جگر بخلی\r\nنبود در تو یک پشیمانی\r\nنیستی تیغ و وقت جان بردن\r\nبه سر تیغ دادبگ مانی\r\nصاحب الجیش سید العرب آنک\r\nنه معدی چنو نه عدنانی\r\nبوالغنایم امیر تاج الدین\r\nرافع بن علی شیبانی\r\nعدل او راحت مسلمانان\r\nتیغ او قوت مسلمانی\r\nکرد حاصل به قربت سلطان\r\nرتبت خسروی و سلطانی\r\nای به ذات تو معتبر گشته\r\nنسبت بحتری و قحطانی\r\nبه بنی شیبه انتساب کنی\r\nکه تو فهرست فخر ایشانی\r\nزین سبب را کلید کعبه خدای\r\nبه بنی شیبه داشت ارزانی\r\nکعبه داد و دین خراسان شد\r\nتا تو در خطه خراسانی\r\nبه سخا بحر مکرمت موجبی\r\nبه سخن ابر گوهر افشانی\r\nدر ضیا با ضیای خورشیدی\r\nدر علو با علو کیوانی\r\nدر فراست دلیر معرکه ای\r\nدر سیاست سوار میدانی\r\nصاحب دولت جهانگیری\r\nنایب خسرو جهانبانی\r\nگر خرد نقطه ای است پرگاری\r\nور هنر نامه ای است عنوانی\r\nدر کف دست عدل شمشیری\r\nبر سر کشت جود بارانی\r\nبه ظفر گوهر بهاگیری\r\nبه نظر اختر درفشانی\r\nچون قدر با کمال تاییدی\r\nچون قضا با نفاذ فرمانی\r\nمرتبت را بهار و نوروزی\r\nمنقبت را عیار و میزانی\r\nچون سلامت بزرگ فایده ای\r\nچون سعادت درست پیمانی\r\nنکته علم و نقطه خردی\r\nشرف دهر و فخر دورانی\r\nگر تو را باد و ابر گوید عقل\r\nراست گویی است عقل و برآنی\r\nبر موافق چو باد نوروزی\r\nبر مخالف چو ابر طوفانی\r\nمصطفایی گرفت سیرت تو\r\nزان گرفته است عقل حسانی\r\nنه رسولی و معجزاتت هست\r\nنه خدایی و نیستت ثانی\r\nدهن دوستان بخندد خوش\r\nچون سر کلک را بگریانی\r\nدیده دشمنان بگرید زار\r\nچون سر تیغ را بخندانی\r\nبر ولی و عدو به عفو و سخط\r\nآب حیوان و تیغ برانی\r\nآن یکی را ز نیست هست کنی\r\nوانکه هست است نیست گردانی\r\nغرض دور چرخ دواری\r\nسبب عز دین یزدانی\r\nدر خلاف تو رنج و دشواری\r\nدر وفاق تو ناز و آسانی\r\nگر شب و روز خوانمت شاید\r\nتا بر اسبی و تا در ایوانی\r\nکه ز تاثیر عدل و مالش ظلم\r\nچون شب وصل و روز هجرانی\r\nپیش بینی است کلک تو که نماند\r\nغیب را زو حدیث پنهانی\r\nوقت دانایی و گه حکمت\r\nدانیالی گرفت و لقمانی\r\nگر تو معمار عالمی زچه یافت\r\nاز تو بنیاد بخل ویرانی\r\nز آتش تیغ توست جان عدوت\r\nچون دل عاشقان بریانی\r\nتن بدخواهت از لباس حیات\r\nهمچو تیغ تو شد زعریانی\r\nنامه عز من بخواند چرخ\r\nگر تو این شعر من فروخوانی\r\nتا بود همچو روز تابستان\r\nبه درازی شب زمستانی\r\nنوبهار بقات باقی باد\r\nتا در او کام دل همی رانی\r\nتا بود دور آسمان باقی\r\nنشود دور دولتت فانی\r\nاثر خشم و سهم و صولت تو\r\nبه طرازی رسید و ختلانی\r\nضربت تیغ و جوش جیش تو کرد\r\nکرکسان را پلنگ مهمانی\r\nخاک ختلان زناوک تو گرفت\r\nگونه گوهر بدخشانی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای به قامت چو سرو بستانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقیمت حسن خویش می دانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیکویی را به روی معجزه ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدلبری را به زلف برهانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر حلاوت برادر شکری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر لطافت برابر جانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل نمازت برد که دلداری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجانت سجده کند که جانانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه آرایش تو فردوسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه پیرایه تو رضوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل ستانی به جعد زنجیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدین ربایی به زلف چوگانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه نگه داری آنچه بربایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه نکو داری آنچه بستانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر رخ لاله قطر شبگیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر سرو شاخ ریحانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر این خوبتر بود اینی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو گر آن طرفه تر بود آنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eور تو را وصف خویش باید کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم تو از وصف خویش درمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن و جان را به غمزه آشوبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل و دین را به بوسه درمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زبان معجز مسیحایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دهان خاتم سلیمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنشناسد زیوسف مصری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرت بیند رسول کنعانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر سر من حریف سودایی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر دل من ندیم ایمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر زلف تو را همی ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسر کار من از پریشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوسه ای را دلی است از تو بها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر بها بودی اینت ارزانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر به یک غمزه صد جگر بخلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنبود در تو یک پشیمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیستی تیغ و وقت جان بردن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سر تیغ دادبگ مانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحب الجیش سید العرب آنک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه معدی چنو نه عدنانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوالغنایم امیر تاج الدین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرافع بن علی شیبانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعدل او راحت مسلمانان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتیغ او قوت مسلمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرد حاصل به قربت سلطان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرتبت خسروی و سلطانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای به ذات تو معتبر گشته\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنسبت بحتری و قحطانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه بنی شیبه انتساب کنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه تو فهرست فخر ایشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین سبب را کلید کعبه خدای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه بنی شیبه داشت ارزانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکعبه داد و دین خراسان شد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا تو در خطه خراسانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه سخا بحر مکرمت موجبی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه سخن ابر گوهر افشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ضیا با ضیای خورشیدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر علو با علو کیوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر فراست دلیر معرکه ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر سیاست سوار میدانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصاحب دولت جهانگیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنایب خسرو جهانبانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خرد نقطه ای است پرگاری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور هنر نامه ای است عنوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر کف دست عدل شمشیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر سر کشت جود بارانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه ظفر گوهر بهاگیری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نظر اختر درفشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون قدر با کمال تاییدی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون قضا با نفاذ فرمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn35\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمرتبت را بهار و نوروزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمنقبت را عیار و میزانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn36\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون سلامت بزرگ فایده ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون سعادت درست پیمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn37\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنکته علم و نقطه خردی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرف دهر و فخر دورانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn38\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر تو را باد و ابر گوید عقل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراست گویی است عقل و برآنی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn39\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر موافق چو باد نوروزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر مخالف چو ابر طوفانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn40\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمصطفایی گرفت سیرت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان گرفته است عقل حسانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn41\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه رسولی و معجزاتت هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنه خدایی و نیستت ثانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn42\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدهن دوستان بخندد خوش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون سر کلک را بگریانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn43\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیده دشمنان بگرید زار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون سر تیغ را بخندانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn44\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر ولی و عدو به عفو و سخط\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآب حیوان و تیغ برانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn45\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن یکی را ز نیست هست کنی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوانکه هست است نیست گردانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn46\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغرض دور چرخ دواری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسبب عز دین یزدانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn47\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خلاف تو رنج و دشواری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر وفاق تو ناز و آسانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn48\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر شب و روز خوانمت، شاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بر اسبی و تا در ایوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn49\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه ز تاثیر عدل و مالش ظلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شب وصل و روز هجرانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn50\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیش بینی است کلک تو که نماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغیب را زو حدیث پنهانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn51\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوقت دانایی و گه حکمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدانیالی گرفت و لقمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn52\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر تو معمار عالمی زچه یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تو بنیاد بخل ویرانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn53\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز آتش تیغ توست جان عدوت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون دل عاشقان بریانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn54\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتن بدخواهت از لباس حیات\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو تیغ تو شد زعریانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn55\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنامه عز من بخواند چرخ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر تو این شعر من فروخوانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn56\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بود همچو روز تابستان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه درازی شب زمستانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn57\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوبهار بقات باقی باد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا در او کام دل همی رانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn58\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا بود دور آسمان باقی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشود دور دولتت فانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn59\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاثر خشم و سهم و صولت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه طرازی رسید و ختلانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn60\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eضربت تیغ و جوش جیش تو کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرکسان را پلنگ مهمانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn61\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاک ختلان زناوک تو گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگونه گوهر بدخشانی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 61
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای به قامت چو سرو بستانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که به زیبایی و قامت خود مانند سرو باغی می‌بالید، آیا می‌دانی که ارزش و زیبایی تو چقدر است؟"
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "قیمت حسن خویش می دانی",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "نیکویی را به روی معجزه ای",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی و نیکی را با نماد یک معجزه نشان بده و جذابیت و دلربایی را به زلفی از تماشایی و زیبایی منتقل کن."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "دلبری را به زلف برهانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "در حلاوت برادر شکری",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برادر در لطافت و شیرینی مانند شکر است و ارزشش برابر با جان انسان است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "در لطافت برابر جانی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "دل نمازت برد که دلداری",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل تو به خاطر محبت و عشق به معشوق، دچار حالتی شده که حتی روح تو نیز در برابرش به سجده درمی‌آید و از او دلجویی می‌کند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "جانت سجده کند که جانانی",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "همه آرایش تو فردوسی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام زیبایی‌های تو به مانند زیبایی‌های فردوسی، و همه زینت‌های تو همچون بهشتی است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "همه پیرایه تو رضوانی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دل ستانی به جعد زنجیری",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دلربایی و جذابیت به اندازه‌ی زنجیری است که اسیر می‌کند و زیبایی‌اش به زلفی می‌ماند که مانند چوبی است و انسان را در بند خودش نگه می‌دارد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "دین ربایی به زلف چوگانی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "نه نگه داری آنچه بربایی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آنچه را که از دیگران می‌گیری، برایت ارزش نخواهد داشت و همچنین چیزهایی که از دست می‌دهی، اهمیت واقعی ندارند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "نه نکو داری آنچه بستانی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "بر رخ لاله قطر شبگیری",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روی گل لاله، قطره‌های شبنم نشسته و بر روی درخت سرو، شاخه‌های ریحان قرار دارد."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "بر سر سرو شاخ ریحانی",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "اگر این خوبتر بود اینی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر این خوبتر است، اینجا هست و اگر آن بهتر است، آنجا است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "و گر آن طرفه تر بود آنی",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ور تو را وصف خویش باید کرد",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بخواهند تو را توصیف کنند، خودت هم از این توصیف درمان می‌یابی."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "هم تو از وصف خویش درمانی",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "تن و جان را به غمزه آشوبی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدن و جان را با یک نگاه پر از جاذبه به هم می‌ریزد و دل و ایمان را با یک بوسه به آرامش می‌آورد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "دل و دین را به بوسه درمانی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "به زبان معجز مسیحایی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به وجود یک قدرت خارق‌العاده و معجزه‌آسا در سخنانی اشاره دارد که می‌تواند بر زندگی انسان تأثیرگذار باشد. به نوعی بیانگر این است که کلام می‌تواند مانند معجزه‌ای در راه هدایت و روشن شدن مسیر زندگی عمل کند."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "به دهان خاتم سلیمانی",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "نشناسد زیوسف مصری",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی تو را ببیند و تو را نشناسد، مثل یوسف مصری است که اگر پیامبر کنعانی را ببیند، او را نمی‌شناسد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "گرت بیند رسول کنعانی",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "در سر من حریف سودایی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در درونم دو احساس مختلف وجود دارد؛ یکی شور و شوقی بی‌مهار و دیگری دوستی و ایمان عمیق."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "در دل من ندیم ایمانی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "سر زلف تو را همی ماند",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: موهای جلوی تو مرا به کاری مشغول کرده که از شدت نگرانی و پریشانی نمی‌توانم خودم را جمع و جور کنم."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "سر کار من از پریشانی",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "بوسه ای را دلی است از تو بها",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر بوسه‌ای از تو ارزش دارد، دل من نیز به خاطر آن بها دارد. اگر این بوسه ارزشمند باشد، من این احساس را به تو تقدیم می‌کنم."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "گر بها بودی اینت ارزانی",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "گر به یک غمزه صد جگر بخلی",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر با یک نگاه، دلها را به درد بیاوری، در تو هیچ نشانه‌ای از پشیمانی نخواهد بود."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "نبود در تو یک پشیمانی",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "نیستی تیغ و وقت جان بردن",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زمان خطر و در هنگامی که جان انسان در معرض تهدید است، نباید از ترس مرگ به خود اجازه دهید که به بی‌هویتی و رنجیدگی تن بدهید. باید با قدرت و قاطعیت به مقابله با دشواری‌ها بپردازید."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "به سر تیغ دادبگ مانی",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "صاحب الجیش سید العرب آنک",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به این معناست که کسی که در جایگاه و مقام بالایی قرار دارد، نباید خود را مستحق برتری و امتیاز بیشتری نسبت به سایرین بداند، چرا که او نیز از خاستگاهی ساده و معمولی برخاسته و نژاد یا موقعیت اجتماعی خاصی ندارد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "نه معدی چنو نه عدنانی",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "بوالغنایم امیر تاج الدین",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بوالغنایی امیر تاج الدین رافع بن علی شیبانی یکی از شخصیت‌های برجسته و معروف است. او به خاطر توانایی‌ها و ویژگی‌های خاصی که دارد، در میان مردم شناخته شده و مورد احترام قرار گرفته است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "رافع بن علی شیبانی",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "عدل او راحت مسلمانان",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عدالت خداوند باعث آسایش مسلمانان است و قدرت او نیروی ایمان مسلمانان را تقویت می‌کند."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "تیغ او قوت مسلمانی",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "کرد حاصل به قربت سلطان",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به دست آوردن مقام و منزلت در نزد پادشاه و در جایگاه سلطنت."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "رتبت خسروی و سلطانی",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "ای به ذات تو معتبر گشته",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو به قدری در خود ارزش و اعتبار داری که نسبت به بحتری و قحطانی نیز در مقام بالایی قرار می‌گیری."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "نسبت بحتری و قحطانی",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "به بنی شیبه انتساب کنی",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر خود را به بنی شیبه مرتبط کنی، به این معناست که تو نیز در فخر و ارجمندی آن‌ها سهمی داری."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "که تو فهرست فخر ایشانی",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "زین سبب را کلید کعبه خدای",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر این امر، خداوند کلید کعبه را به خانواده بنی شیبه عطا کرده است."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "به بنی شیبه داشت ارزانی",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "کعبه داد و دین خراسان شد",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کعبه در دیاری دیگر به وجود آمده و دین در سرزمین خراسان گسترده شده است تا تو در این منطقه حضور داری."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "تا تو در خطه خراسانی",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "به سخا بحر مکرمت موجبی",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به بزرگواری و سخاوت، همچون دریا، در کنار سخنانی که به مانند ابری که گوهرها را پراکنده می‌کند، انگیزشی برای بخشش و نیکی پیدا کن."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "به سخن ابر گوهر افشانی",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "در ضیا با ضیای خورشیدی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در روشنایی، مانند نور خورشید در اوج و بلندی، مانند مرتبه کیوان (زحل) هستیم."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "در علو با علو کیوانی",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "در فراست دلیر معرکه ای",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دانش و درک، شجاعی وجود دارد که در میدان سیاست به خوبی عمل می‌کند."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "در سیاست سوار میدانی",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "صاحب دولت جهانگیری",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به شخصی اشاره دارد که دارای قدرت و سلطه زیادی است و به عنوان سرباز یا مدافع جهان شناخته می‌شود. او به نوعی نماینده و جانشین یک پادشاه بزرگ و تواناست."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "نایب خسرو جهانبانی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "گر خرد نقطه ای است پرگاری",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر عقل به اندازه یک نقطه باشد، پس هنر مانند یک نامه با عنوان گسترده و مفصل است."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "ور هنر نامه ای است عنوانی",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "در کف دست عدل شمشیری",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دست عدالت، شمشیری وجود دارد که بر سر کشت و زرع بخشندگی و محبت باران می‌بارد."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "بر سر کشت جود بارانی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "به ظفر گوهر بهاگیری",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به پیروزی، ارزش خود را بشناس و در برابر نظر ستاره‌ها، خود را درخشان و باارزش نشان بده."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "به نظر اختر درفشانی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "چون قدر با کمال تاییدی",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که اندازه و حدود چیزی به طور کامل مشخص شود، مانند قضا که از قدرت و اجرای دستورات برخوردار است."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "چون قضا با نفاذ فرمانی",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "مرتبت را بهار و نوروزی",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فصل بهار و نوروز باعث نمایان شدن مقام و ارزش‌ها می‌شود، به‌طوری‌که این زمان به عنوان معیاری برای سنجش خوبی‌ها و شایستگی‌ها شناخته می‌شود."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "منقبت را عیار و میزانی",
+      "CoupletIndex": 34,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "چون سلامت بزرگ فایده ای",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سلامت به اندازه‌ای ارزشمند است که مانند سعادت، درستی و پایبندی به عهد و پیمان را به همراه دارد."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "چون سعادت درست پیمانی",
+      "CoupletIndex": 35,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 73,
+      "Position": "Right",
+      "Text": "نکته علم و نقطه خردی",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرهنگ و دانش، نقطه‌ای از خرد و فهم است که در طول زمان به عنوان نماد افتخار و بزرگواری شناخته می‌شود."
+    },
+    {
+      "VOrder": 74,
+      "Position": "Left",
+      "Text": "شرف دهر و فخر دورانی",
+      "CoupletIndex": 36,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 75,
+      "Position": "Right",
+      "Text": "گر تو را باد و ابر گوید عقل",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر باد و ابر به تو بگویند که عقل راست می‌گوید، باید بدانی که آن عقل واقعی است و باید به آن توجه کنی."
+    },
+    {
+      "VOrder": 76,
+      "Position": "Left",
+      "Text": "راست گویی است عقل و برآنی",
+      "CoupletIndex": 37,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 77,
+      "Position": "Right",
+      "Text": "بر موافق چو باد نوروزی",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر کسی با ما هم‌راستا باشد، مانند نسیم ملایم بهاری است و اگر کسی با ما در تضاد باشد، مثل ابرهای طوفانی خواهد بود."
+    },
+    {
+      "VOrder": 78,
+      "Position": "Left",
+      "Text": "بر مخالف چو ابر طوفانی",
+      "CoupletIndex": 38,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 79,
+      "Position": "Right",
+      "Text": "مصطفایی گرفت سیرت تو",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سیرت تو به اندازه‌ای زیباست که خداوند، عقل حسانی را از تو الهام گرفته است."
+    },
+    {
+      "VOrder": 80,
+      "Position": "Left",
+      "Text": "زان گرفته است عقل حسانی",
+      "CoupletIndex": 39,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 81,
+      "Position": "Right",
+      "Text": "نه رسولی و معجزاتت هست",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در اینجا به این اشاره می‌شود که نه فرستاده‌ای وجود دارد و نه نشانه‌های معنوی؛ همچنین به این نکته تأکید می‌شود که در عالم وجود، خدایی جز او وجود ندارد."
+    },
+    {
+      "VOrder": 82,
+      "Position": "Left",
+      "Text": "نه خدایی و نیستت ثانی",
+      "CoupletIndex": 40,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 83,
+      "Position": "Right",
+      "Text": "دهن دوستان بخندد خوش",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که دوستان بخندند و شاد باشند، این خوشی مانند آب کردن برف است که به همه سرایت می‌کند و دل‌ها را شاد می‌کند."
+    },
+    {
+      "VOrder": 84,
+      "Position": "Left",
+      "Text": "چون سر کلک را بگریانی",
+      "CoupletIndex": 41,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 85,
+      "Position": "Right",
+      "Text": "دیده دشمنان بگرید زار",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دشمنان از دیدن شادابی و خوشحالی تو به شدت غمگین و ناراحت می‌شوند، همان‌طور که اگر سر تیغ را بخندی، آن را به خطر می‌اندازی."
+    },
+    {
+      "VOrder": 86,
+      "Position": "Left",
+      "Text": "چون سر تیغ را بخندانی",
+      "CoupletIndex": 42,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 87,
+      "Position": "Right",
+      "Text": "بر ولی و عدو به عفو و سخط",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مقابل ولی و دشمن، با بخشش و خشم رفتار کن؛ مانند آب حیات و شمشیری که براننده است."
+    },
+    {
+      "VOrder": 88,
+      "Position": "Left",
+      "Text": "آب حیوان و تیغ برانی",
+      "CoupletIndex": 43,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 89,
+      "Position": "Right",
+      "Text": "آن یکی را ز نیست هست کنی",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شما می‌توانید کسی را که وجود ندارد به وجود آورید و کسی را که وجود دارد به گونه‌ای تغییر دهید که انگار وجود ندارد."
+    },
+    {
+      "VOrder": 90,
+      "Position": "Left",
+      "Text": "وانکه هست است نیست گردانی",
+      "CoupletIndex": 44,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 91,
+      "Position": "Right",
+      "Text": "غرض دور چرخ دواری",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هدف از چرخش دایره زمان، موجب فضیلت و بزرگی دین الهی است."
+    },
+    {
+      "VOrder": 92,
+      "Position": "Left",
+      "Text": "سبب عز دین یزدانی",
+      "CoupletIndex": 45,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 93,
+      "Position": "Right",
+      "Text": "در خلاف تو رنج و دشواری",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در مقابل تو، زحمت و سختی وجود دارد، اما در کنار تو، راحتی و آسایش است."
+    },
+    {
+      "VOrder": 94,
+      "Position": "Left",
+      "Text": "در وفاق تو ناز و آسانی",
+      "CoupletIndex": 46,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 95,
+      "Position": "Right",
+      "Text": "گر شب و روز خوانمت، شاید",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر شب و روز هم تو را بخوانم، ممکن است که تو بر سوارکاری یا در حیاطی حضور داشته باشی."
+    },
+    {
+      "VOrder": 96,
+      "Position": "Left",
+      "Text": "تا بر اسبی و تا در ایوانی",
+      "CoupletIndex": 47,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 97,
+      "Position": "Right",
+      "Text": "که ز تاثیر عدل و مالش ظلم",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر تاثیر عدالت و لطف او، ظلم و ستم به مانند شب هنگام وصال و روز جدایی است."
+    },
+    {
+      "VOrder": 98,
+      "Position": "Left",
+      "Text": "چون شب وصل و روز هجرانی",
+      "CoupletIndex": 48,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "پیش بینی است کلک تو که نماند",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به این معناست که تو با ذکاوت و هوشمندی‌ات به خوبی می‌دانی که نمی‌توانی از رازها و حقایق پنهانی در امان بمانی. در واقع، پیش‌بینی‌هایت نشان می‌دهد که هیچ چیزی نمی‌تواند به طور کامل پنهان بماند."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "غیب را زو حدیث پنهانی",
+      "CoupletIndex": 49,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 101,
+      "Position": "Right",
+      "Text": "وقت دانایی و گه حکمت",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که آگاهی و دانایی به دست می‌آید، مثل دانایی که دانیال و لقمان داشتند، انسان به شناخت و حکمت عمیق‌تری دست پیدا می‌کند."
+    },
+    {
+      "VOrder": 102,
+      "Position": "Left",
+      "Text": "دانیالی گرفت و لقمانی",
+      "CoupletIndex": 50,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 103,
+      "Position": "Right",
+      "Text": "گر تو معمار عالمی زچه یافت",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو معمار جهانی هستی، پس چرا بنیاد بخل و ویرانی از تو سرچشمه می‌گیرد؟"
+    },
+    {
+      "VOrder": 104,
+      "Position": "Left",
+      "Text": "از تو بنیاد بخل ویرانی",
+      "CoupletIndex": 51,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 105,
+      "Position": "Right",
+      "Text": "ز آتش تیغ توست جان عدوت",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جان دشمن تو مانند دل عاشقان از آتش تیغ تو در حال سوختن است."
+    },
+    {
+      "VOrder": 106,
+      "Position": "Left",
+      "Text": "چون دل عاشقان بریانی",
+      "CoupletIndex": 52,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "تن بدخواهت از لباس حیات",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدخواه تو به گونه‌ای شده که مانند تیغ، برهنه و بی‌پناه در آغوش زندگی است."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "همچو تیغ تو شد زعریانی",
+      "CoupletIndex": 53,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "نامه عز من بخواند چرخ",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو این شعر مرا بخوانی، چرخ زمان در حق من نامه‌ای زیبا خواهد نوشت."
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "گر تو این شعر من فروخوانی",
+      "CoupletIndex": 54,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "تا بود همچو روز تابستان",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که روزهای تابستانی به درازا کشیده می‌شوند، شب‌های زمستانی نیز طولانی خواهند بود."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "به درازی شب زمستانی",
+      "CoupletIndex": 55,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "نوبهار بقات باقی باد",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بهار تازه ای بیاید و تا زمانی که در آن خوشحالی و رضایت دل را به دست می‌آوری، ادامه داشته باشد."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "تا در او کام دل همی رانی",
+      "CoupletIndex": 56,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 115,
+      "Position": "Right",
+      "Text": "تا بود دور آسمان باقی",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که آسمان وجود دارد، دولت تو هرگز از بین نخواهد رفت."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Left",
+      "Text": "نشود دور دولتت فانی",
+      "CoupletIndex": 57,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 117,
+      "Position": "Right",
+      "Text": "اثر خشم و سهم و صولت تو",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خشم و قدرت تو به حدی رسید که به زیبایی و عظمت خاصی دست یافته است."
+    },
+    {
+      "VOrder": 118,
+      "Position": "Left",
+      "Text": "به طرازی رسید و ختلانی",
+      "CoupletIndex": 58,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "ضربت تیغ و جوش جیش تو کرد",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ضربت تیغ و جوش جیش، رمز موفقیت و قدرت توست که توانسته کرکس‌ها را از میدان به در کند، مانند پلنگی که در میهمانی ظاهر می‌شود."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "کرکسان را پلنگ مهمانی",
+      "CoupletIndex": 59,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "خاک ختلان زناوک تو گرفت",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خاک ختلان با زیبایی و درخشش تو، مانند گوهری ناب از بدخشان است."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "گونه گوهر بدخشانی",
+      "CoupletIndex": 60,
+      "SectionIndex1": 0
+    }
+  ]
+}

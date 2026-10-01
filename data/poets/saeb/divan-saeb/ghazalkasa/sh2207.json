@@ -1,0 +1,195 @@
+{
+  "Id": 54405,
+  "CatId": 1852,
+  "Title": "غزل شمارهٔ ۲۲۰۷",
+  "FullTitle": "صائب » دیوان اشعار » غزلیات » غزل شمارهٔ ۲۲۰۷",
+  "FullUrl": "/saeb/divan-saeb/ghazalkasa/sh2207",
+  "RhymeLetters": "رست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به احساسات و زیبایی‌های عاشقانه و زندگی اشاره دارد. شاعر به تمثیل‌هایی چون سبزه و شکر پرداخته تا از عشق و تلخی‌های آن بگوید. او می‌گوید که عشق، با اینکه شیرین است، می‌تواند درد و رنجی نیز به همراه داشته باشد. شاعر همچنین به ناپایداری زندگی و قدرت امید و همت در مواجه با مشکلات اشاره می‌کند. در نهایت، او به زیبایی‌های دنیا و لزوم افکار مثبت تاکید می‌کند و می‌گوید که برطرف کردن عیب‌ها و توجه به زیبایی‌ها هنر واقعی است.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رست",
+      "PlainText": "سبزه جوی شهد نیشترست\r\nحقه سبز زهر پرشکرست\r\nچشم پوشیده پرده دار دل است\r\nلب خامش نگاهبان سرست\r\nزهر چشمش میان خندیدن\r\nهمچو بادام تلخ در شکرست\r\nهر چه غیر از شراب بار دل است\r\nهر چه جز نغمه است دردسرست\r\nموشکافی هنر نمی باشد\r\nچشم از عیب دوختن هنرست\r\nمیوه ای نیست به ز آزادی\r\nنتوان گفت سرو بی ثمرست\r\nحقه سر به مهر آبله ام\r\nخونی صد کلید نیشترست\r\nنگه سیر چشم غواصم\r\nآبخوردم ز چشمه گهرست\r\nدر دیاری که ما ضعیفانیم\r\nشعله راچشم همت از شررست\r\nخنده صبح حشر با آن شور\r\nشب ما را نمکچش سحرست\r\nاز رگ ابر کلک من صایب\r\nدامن روزگار پرگهرست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسبزه جوی شهد، نیشترست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحقه سبز زهر، پرشکرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم پوشیده پرده دار دل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلب خامش نگاهبان سرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزهر چشمش میان خندیدن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو بادام تلخ در شکرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر چه غیر از شراب، بار دل است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چه جز نغمه است دردسرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eموشکافی هنر نمی باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچشم از عیب دوختن هنرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمیوه ای نیست به ز آزادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنتوان گفت سرو بی ثمرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E(حقه سر به مهر آبله ام\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخونی صد کلید نیشترست)\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E(نگه سیر چشم غواصم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآبخوردم ز چشمه گهرست)\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E(در دیاری که ما ضعیفانیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشعله راچشم همت از شررست)\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003E(خنده صبح حشر با آن شور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشب ما را نمکچش سحرست)\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز رگ ابر کلک من صائب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدامن روزگار پرگهرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 11
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "سبزه جوی شهد، نیشترست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سبزه‌ای که در کنار جوی آب رشد کرده، از نظر شیرینی و زیبایی به شدت جذاب است، اما در واقع ممکن است به نوعی زهرآگین باشد. به عبارت دیگر، چیزهایی که به نظر زیبا و دلپذیر می‌آیند، ممکن است در باطن خطرناک یا مضر باشند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "حقه سبز زهر، پرشکرست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "چشم پوشیده پرده دار دل است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌ها همانند پرده‌ای هستند که دل را می‌پوشانند و لب‌های خاموش به نوعی محافظ نگاه و مراقب احساسات درون هستند."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "لب خامش نگاهبان سرست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "زهر چشمش میان خندیدن",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی و خوشحالی او که به نظر می‌رسد دل‌انگیز است، در واقع پشتوانه‌ای از تلخی و درد دارد، مشابه بادام تلخی که در شکر پنهان شده باشد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "همچو بادام تلخ در شکرست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "هر چه غیر از شراب، بار دل است",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که غیر از شراب باشد، برای دل سنگینی می‌آورد و هر چیزی غیر از موزیک، درد و ناراحتی به همراه دارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هر چه جز نغمه است دردسرست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "موشکافی هنر نمی باشد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نقد و تفتیش دیگران هنر نیست، بلکه واقعاً هنرمندانه آن است که به جای عیب‌جویی، نگاه‌مان را به زیبایی‌ها و نقاط قوت متمرکز کنیم."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چشم از عیب دوختن هنرست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "میوه ای نیست به ز آزادی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هیچ چیز به اندازه آزادی ارزش ندارد و می‌توان گفت که زندگی بدون آزادی مانند درخت سروی است که میوه‌ای ندارد و بی‌ثمر است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "نتوان گفت سرو بی ثمرست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "(حقه سر به مهر آبله ام",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله بیانگر حالتی است که شخص احساس می‌کند به نوعی در زندگی خود گرفتار و آسیب‌پذیر است. او به نوعی به راز و مشکلات خود اشاره می‌کند که در دل دارد، و نشان می‌دهد که این مشکلات همچون زخم‌هایی است که ممکن است به بی‌نهایت درد و رنج منتهی شود. همچنین، اشاره به کلید نیشتر، به توانایی او برای گشودن قفل‌ها و مشکلاتش، اما در عین حال به خطرات و دردهای موجود در این مسیر نیز اشاره دارد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "خونی صد کلید نیشترست)",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "(نگه سیر چشم غواصم",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌هایم را به زیابی می‌نگرم و از چشمه‌ای که مملو از جواهرات است، سیراب می‌شوم."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "آبخوردم ز چشمه گهرست)",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "(در دیاری که ما ضعیفانیم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در جایی که ما افراد ضعیف هستیم، باید امیدوار باشیم که حتی کوچک‌ترین امید یا شعله‌ای از تلاش، می‌تواند به ما کمک کند و از آسیب‌ها دورمان کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "شعله راچشم همت از شررست)",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "(خنده صبح حشر با آن شور",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خنده صبح روز قیامت با آن هیجان شب، برای ما مانند چاشنی خوشمزه‌ای در سحرگاه است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "شب ما را نمکچش سحرست)",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "از رگ ابر کلک من صائب",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از دل ابرها، مایه خلاقیت و هنر من، زندگی پر از ثروت و زیبایی را در دامن روزگار به ارمغان می‌آورد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "دامن روزگار پرگهرست",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    }
+  ]
+}

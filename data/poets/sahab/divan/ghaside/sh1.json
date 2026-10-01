@@ -1,0 +1,521 @@
+{
+  "Id": 112269,
+  "CatId": 2636,
+  "Title": "شمارهٔ ۱ - فرید زمان",
+  "FullTitle": "سحاب اصفهانی » دیوان اشعار » قصاید » شمارهٔ ۱ - فرید زمان",
+  "FullUrl": "/sahab/divan/ghaside/sh1",
+  "RhymeLetters": "ا",
+  "SourceName": "چکامه",
+  "SourceUrlSlug": "chekameh",
+  "PoemSummary": "هوش مصنوعی: این متن در قالب شعر به تمجید و ستایش فرید، میرزا احمد، و ویژگی‌های برجسته او می‌پردازد. فرید به عنوان فردی استثنایی و بی‌نظیر توصیف می‌شود که از نور و علم برخوردار است و در عرصه‌های مختلف علم و فضیلت ممتاز است. او به عنوان نمونه‌ای از جمال و کمال معرفی می‌شود که برای بشریت نعمت و یادگاری است.\n\nشاعر به صفات والای او، از جمله جود و کرم، و همچنین علم و دانایی او اشاره می‌کند و وجودش را مایه‌ی افتخار و مباهات می‌داند. او به‌عنوان کسی که در عرصه‌های مختلف درخشان است، مورد ستایش قرار می‌گیرد و زندگی و فضیلت‌هایش به خوبی منعکس شده است.\n\nدر نهایت، شاعر به تأثیر مثبت فرید بر دنیای اطرافش اشاره می‌کند و زندگی او را به مثابه باغی از گل‌ها می‌داند که زیبایی و شکوفایی را برای دیگران به ارمغان می‌آورد.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "فرید زمان آنکه آمد به دنیا\r\nنظیر وعدیلش چو اکسیر و عنقا\r\nوحید زمان میرزا احمد آنکش\r\nز طلعت بود نور حق آشکارا\r\nملک پاسبانی فلک آستانی\r\nکه با قدرش ادنی بود چرخ اعلا\r\nبلند اختری کزو جود شریفش\r\nزند طعنه هر دم ثری بر ثریا\r\nپی خدمت و طاعت او به درگه\r\nمیان بسته کیوان کمر بسته جوزا\r\nملک دیده تا رفعت قدر او را\r\nزانجم خوی خجلتش بین بر اعضا\r\nبه علمش بود رمز عالم معاین\r\nبه رایش بود راز گیتی هویدا\r\nبه زیب وفاق است ذاتش مزین\r\nز عیب نفاق است رایش مبرا\r\nتهی گشته از بذل او زر زمخزن\r\nامان جسته از جود او درز دریا\r\nز بذلش بود خانه ی بخل ویران\r\nبه دستش بود رایت جود بر پا\r\nنه او راست سودی نه او را زیانی\r\nزکین اعادی زمهر احبا\r\nچه سود و زیان مهر را باشد آری\r\nز بی مهری و مهر خفاش و حربا\r\nبود ظاهر از رای و پیدا ز نطقش\r\nهم اعجاز موسی هم انفاس عیسا\r\nبود یوسف مصر اجلال از وی\r\nجوان گشته زال جهان چون زلیخا\r\nکف او گهر پاش چون چشم وامق\r\nدل او گهر زای چون لعل عذرا\r\nنگاهش به دیدار درویش خوشتر\r\nز نظاره ی سعد بر روی اسما\r\nبه گوشش چنان است آواز سایل\r\nکه در گوش خسرو سرود نکیسا\r\nزعمان طبعش خجل گشته عمان\r\nز بیضای رایش ضیا جسته بیضا\r\nاگر ذکر او صاف او نیست باعث\r\nزبان در دهان از چه گردید گویا\r\nاگر گوهر مدح او نیست مطلب\r\nچنین بحر طبع از چه آمد گهرزا\r\nچه از طالع سعد و بخت همایون\r\nشد اسباب عیشش به گیتی مهیا\r\nبرازنده فرزندیش داد ایزد\r\nکه بودش ز ایزد به دل این تمنا\r\nرخش زیور عالم و زیب دوران\r\nقدش غیرت سدره ورشک طوبا\r\nبه ذاتش فنون کمال است مضمر\r\nز رویش نشان جلال است هویدا\r\nچنانش بود ذهن و فرهنگ و دانش\r\nکه نادان بود در برش عقل دانا\r\nسزد گر پدر نازد از نسبت او\r\nکه نازان از او امهاتند و آبا\r\nیقین چون محمد علی گشت نامش\r\nشود دین آن هر دو را رونق افزا\r\nجهان چون شد از گلستان وجودش\r\nبه باغ ارم طعنه زن رشک فرما\r\nبه تاریخ کلک سحابش رقم زد\r\nکه آمد محمد علی فخر دنیا\r\nغرض چون شد از مدح آن خامه حیران\r\nغرض چون شد از وصف این عقل شیدا\r\nهم از مدح آن خامشی جستن انسب\r\nهم از وصف این لب فرو بستن اولی\r\nبه دل صاف صهبا به جان زهر حسرت\r\nبود تا مسرت ده و محنت افزا\r\nهم اعدای آن را به دل زهر حسرت\r\nهم احباب این را به لب صاف صهبا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرید زمان آنکه آمد به دنیا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنظیر وعدیلش چو اکسیر و عنقا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوحید زمان میرزا احمد آنکش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز طلعت بود نور حق آشکارا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک پاسبانی فلک آستانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه با قدرش ادنی بود چرخ اعلا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبلند اختری کزو جود شریفش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزند طعنه هر دم ثری بر ثریا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپی خدمت و طاعت او به درگه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمیان بسته کیوان، کمر بسته جوزا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eملک دیده تا رفعت قدر او را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانجم خوی خجلتش بین بر اعضا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه علمش بود رمز عالم معاین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه رایش بود راز گیتی هویدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زیب وفاق است ذاتش مزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز عیب نفاق است رایش مبرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتهی گشته از بذل او زر زمخزن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامان جسته از جود او درز دریا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بذلش بود خانه ی بخل ویران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه دستش بود رایت جود بر پا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنه او راست سودی نه او را زیانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزکین اعادی زمهر احبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه سود و زیان مهر را باشد آری\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بی مهری و مهر خفاش و حربا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود ظاهر از رای و پیدا ز نطقش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم اعجاز موسی هم انفاس عیسا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبود یوسف مصر اجلال از وی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجوان گشته زال جهان چون زلیخا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکف او گهر پاش چون چشم وامق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدل او گهر زای چون لعل عذرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنگاهش به دیدار درویش خوشتر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز نظاره ی سعد بر روی اسما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه گوشش چنان است آواز سائل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه در گوش خسرو سرود نکیسا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزعمان طبعش خجل گشته عمان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز بیضای رایش ضیا جسته بیضا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر ذکر او صاف او نیست باعث\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزبان در دهان از چه گردید گویا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر گوهر مدح او نیست مطلب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچنین بحر طبع از چه آمد گهرزا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه از طالع سعد و بخت همایون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد اسباب عیشش به گیتی مهیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرازنده فرزندیش داد ایزد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه بودش ز ایزد به دل این تمنا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخش زیور عالم و زیب دوران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقدش غیرت سدره ورشک طوبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه ذاتش فنون کمال است مضمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز رویش نشان جلال است هویدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچنانش بود ذهن و فرهنگ و دانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نادان بود در برش عقل دانا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسزد گر پدر نازد از نسبت او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه نازان از او امهاتند و آبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیقین چون محمد علی گشت نامش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشود دین آن هر دو را رونق افزا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجهان چون شد از گلستان وجودش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه باغ ارم طعنه زن رشک فرما\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه تاریخ کلک سحابش رقم زد:\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه آمد محمد علی فخر دنیا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغرض چون شد از مدح آن خامه حیران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eغرض چون شد از وصف این عقل شیدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم از مدح آن خامشی جستن انسب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم از وصف این لب فرو بستن اولی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه دل صاف صهبا به جان زهر حسرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبود تا مسرت ده و محنت افزا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم اعدای آن را به دل زهر حسرت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم احباب این را به لب صاف صهبا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 33
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "فرید زمان آنکه آمد به دنیا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرید در زمانی که وارد دنیا شد، همانند یک معجزه و موجود نادر بود."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نظیر وعدیلش چو اکسیر و عنقا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "وحید زمان میرزا احمد آنکش",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وحید زمان میرزا احمد، با چهره‌ای روشن و زیبا، تجلی نور الهی است که به وضوح دیده می‌شود."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "ز طلعت بود نور حق آشکارا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "ملک پاسبانی فلک آستانی",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرشته‌ای که از آسمان ها نگهداری می‌کند، درگاهی را پاسبانی می‌کند که به خاطر مقام والایش، مرتبه‌اش از دنیای بالاتر نیز مهم‌تر است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "که با قدرش ادنی بود چرخ اعلا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "بلند اختری کزو جود شریفش",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ستاره‌ای بلند که برکات و بخشش‌های باعزت او همواره بر دیگر ستاره‌ها نیشخند می‌زند و بر آنها برتری دارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "زند طعنه هر دم ثری بر ثریا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "پی خدمت و طاعت او به درگه",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برای خدمت و اطاعت او، به درگاهی که در میان ستاره‌ها بسته شده، آماده شده‌ام و خود را متعهد کرده‌ام."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "میان بسته کیوان، کمر بسته جوزا",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ملک دیده تا رفعت قدر او را",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این بیت شاعر به توصیف شخصی می‌پردازد که به واسطه مقام و منزلت خود، احساس خجالت و شرم را در وجودش حس می‌کند. ستاره‌ها به او غبطه می‌زنند و عظمت او را می‌ستایند، و او از این عظمت و توجه دیگران، بخصوص از دیده‌ها، شرمنده است. هر چه قدر او بالاتر برود، احساس ناامنی و خجالتش نیز بیشتر می‌شود."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "زانجم خوی خجلتش بین بر اعضا",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "به علمش بود رمز عالم معاین",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دانش او کلید درک جهان معین است و تفکر او اسرار دنیا را آشکار می‌سازد."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "به رایش بود راز گیتی هویدا",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "به زیب وفاق است ذاتش مزین",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این فرد به خاطر زیبایی و حسن نیتش شناخته می‌شود و از عیوب و نفاق آزاد است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "ز عیب نفاق است رایش مبرا",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "تهی گشته از بذل او زر زمخزن",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او به خاطر بخشش‌هایش، زر و جواهرات از خزانه‌ها تهی شده‌اند و در اثر سخاوتش، درهای دریا هم به روی نعمت‌ها باز شده‌اند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "امان جسته از جود او درز دریا",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "ز بذلش بود خانه ی بخل ویران",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از بخشش او، خانه‌ی بخیلان خراب می‌شود و پرچم generosity به دست او برپا است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "به دستش بود رایت جود بر پا",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "نه او راست سودی نه او را زیانی",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نه او به کسی سودی می‌رساند و نه کسی به او ضرری می‌زند، زیرا او در میان دوستانش مانند یک نیروی بی‌تاثیر است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "زکین اعادی زمهر احبا",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "چه سود و زیان مهر را باشد آری",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این بیت به بیان این موضوع می‌پردازد که عشق و محبت به خودی خود ارزش و معنایی ندارد، بلکه نتیجه‌اش به نوع رفتار و رابطه انسان‌ها با یکدیگر مرتبط است. در حقیقت، محبت حقیقی زمانی معنا پیدا می‌کند که در میان افراد احساس دلسوزی و توجه وجود داشته باشد، در غیر این صورت، مهر و محبت نمی‌تواند برای کسی سودی به همراه داشته باشد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "ز بی مهری و مهر خفاش و حربا",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "بود ظاهر از رای و پیدا ز نطقش",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ظاهر او از اندیشه‌اش نمایان است و سخن گفتنش مانند معجزه‌ی موسی و نفس‌های عیسا تأثیرگذار است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "هم اعجاز موسی هم انفاس عیسا",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "بود یوسف مصر اجلال از وی",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: یوسف در مصر به خاطر بزرگی و مقامش مورد احترام بود، و این باعث شد که جوانان زیادی به مانند زال (پدر رستم) تحت تأثیر قرار بگیرند و شگفتی زده شوند، همان‌طور که زلیخا به یوسف عشق ورزید."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "جوان گشته زال جهان چون زلیخا",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "کف او گهر پاش چون چشم وامق",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دست او مانند آب‌های درخشان و پرنقش و نگار است و دل او چون گوهرهایی گرانبها و زیبا، احساسات و عشق را به وجود می‌آورد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "دل او گهر زای چون لعل عذرا",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "نگاهش به دیدار درویش خوشتر",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم‌انتظار دیدار درویش برایم لذت‌بخش‌تر از تماشای زیبایی سعدی بر چهره اسماست."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "ز نظاره ی سعد بر روی اسما",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "به گوشش چنان است آواز سائل",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صدای خواهش‌کننده به گوش او همانند نغمه‌ای زیبا و دل‌انگیز است که به گوش پادشاه می‌رسد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "که در گوش خسرو سرود نکیسا",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "زعمان طبعش خجل گشته عمان",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زبان خود را به خاطر زیبایی و ظرافتش از شرم و افتخار به خلق و خوی عمانی‌ها (عمان) فرو می‌آید. به خاطر روشنایی و درخشانی خاصی که در وجودش دارد، با بیضا (که به معنی دانه یا گردی منسوب است) متفاوت و برتر است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "ز بیضای رایش ضیا جسته بیضا",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "اگر ذکر او صاف او نیست باعث",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر یاد و ذکر او خالص و بدون آلودگی نیست، پس چگونه است که زبان ما درباره او صحبت می‌کند و از او سخن می‌گوید؟"
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "زبان در دهان از چه گردید گویا؟",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "اگر گوهر مدح او نیست مطلب",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر در ستایش او چیزی ارزشمند نیست، پس چرا این سخن شگفت‌انگیز از عمق وجودم جوشیده است؟"
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "چنین بحر طبع از چه آمد گهرزا؟",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "چه از طالع سعد و بخت همایون",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر چیزی که ممکن بود باعث خوشحالی و لذت او در دنیا شود، به خاطر تقدیر نیک و خوشبختی برایش فراهم شده است."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "شد اسباب عیشش به گیتی مهیا",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "برازنده فرزندیش داد ایزد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند برازندگی فرزندیش را به او عطا کرد، چرا که در دلش از خداوند آرزوهایی داشت."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "که بودش ز ایزد به دل این تمنا",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "رخش زیور عالم و زیب دوران",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره‌اش زیور دنیای مادی و زیبایی روزگار است، او به قدری زیباست که حتی درخت طوبی هم به او حسد می‌برد."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "قدش غیرت سدره ورشک طوبا",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "به ذاتش فنون کمال است مضمر",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ذات او پر از هنرنمایی‌ها و کمالات است و از چهره‌اش جلوه‌گر زیبایی و عظمت او مشهود است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "ز رویش نشان جلال است هویدا",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "چنانش بود ذهن و فرهنگ و دانش",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او به قدری زیرک و بافرهنگ و با دانش بود که حتی فردی با عقل و دانایی هم در کنار او احساس نادانی می‌کرد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "که نادان بود در برش عقل دانا",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "سزد گر پدر نازد از نسبت او",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر پدر به نسبت خود افتخار کند، سزاوار است؛ زیرا کسانی که به او نسبت دارند، از مادران و نیاکان او هستند و این نشان‌دهنده‌ی شایستگی اوست."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "که نازان از او امهاتند و آبا",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "یقین چون محمد علی گشت نامش",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که یقین به اندازه‌ی محمد علی بزرگ و مشهور شود، نام او به دینی تبدیل خواهد شد که هر دو، یعنی یقین و نام، باعث رونق و پیشرفت یکدیگر می‌شوند."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "شود دین آن هر دو را رونق افزا",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "جهان چون شد از گلستان وجودش",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جهان وقتی که از زیبایی و وجود او به باغ ارم تبدیل شد، به او طعنه بزند و حسرت بیاورد."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "به باغ ارم طعنه زن رشک فرما",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "به تاریخ کلک سحابش رقم زد:",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به تاریخ، باران رحمتش را نازل کرد و نوید داد که محمد علی، بزرگ‌منش و فخر عالم، ظهور کرده است."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "که آمد محمد علی فخر دنیا",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "غرض چون شد از مدح آن خامه حیران",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زمانی که هدف مدح و ستایش آن شخص مشخص شد، قلم در حیرت می‌ماند و وقتی که هدف از توصیف این ذهن شیدا روشن شد، او نیز دچار شگفتی می‌گردد."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "غرض چون شد از وصف این عقل شیدا",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "هم از مدح آن خامشی جستن انسب",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدح و ستایش آن شخص باعث شده که خاموش بمانم و از طرفی وصف زیبایی این لب‌ها نیز دلیلی برای سکوت من است."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "هم از وصف این لب فرو بستن اولی",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "به دل صاف صهبا به جان زهر حسرت",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل پاک و صاف مانند نوشیدنی خوشمزه است، اما جان انسان از درد حسرت پر شده است. آرزو داریم که شادی به دل ما بیافزاید و رنج‌ها را بیشتر نکند."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "بود تا مسرت ده و محنت افزا",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "هم اعدای آن را به دل زهر حسرت",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دشمنان به دل از حسرت زهرآلود هستند و دوستان این موضوع را با لب‌های شاد و خوشحالی بیان می‌کنند."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "هم احباب این را به لب صاف صهبا",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    }
+  ]
+}

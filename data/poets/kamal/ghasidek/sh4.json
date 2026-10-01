@@ -1,0 +1,420 @@
+{
+  "Id": 72606,
+  "CatId": 2062,
+  "Title": "شمارهٔ ۴ - ایضا له یمدح الصّدر العالم نورالدّین المنشی",
+  "FullTitle": "کمال‌الدین اسماعیل » قصاید » شمارهٔ ۴ - ایضا له یمدح الصّدر العالم نورالدّین المنشی",
+  "FullUrl": "/kamal/ghasidek/sh4",
+  "RhymeLetters": "ادمرا",
+  "SourceName": "سیاوش جعفری",
+  "SourceUrlSlug": "sj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از نور امید و شادی‌ای صحبت می‌کند که از وجود محبوبش به دلش می‌تابد. او به زیبایی محبوب و تأثیر آن بر روح و دلش اشاره می‌کند و می‌گوید که این نور آن‌قدر قوی است که تاریکی‌ها و غم‌ها را فراموش کرده است. شاعر به رابطه‌اش با هنرمندی که او را تربیت کرده و به او الهام داده است، افتخار می‌کند و از عمق محبت و قدردانی خود نسبت به او می‌گوید.\n\nشاعر احساس فخر و شکرگزاری می‌کند که به خاطر این هنرمند، زندگی‌اش حتی در شرایط دشوار نیز معنادار و شاداب است. او از شدت عشق به محبوبش به خلق خطوط زیبا و معانی لطیف می‌پردازد و بیان می‌کند که چقدر وجود او بر دل و جانش تأثیرگذار است. در نهایت، شاعر با بیان این احساسات، به بندگی و وفاداری خود نسبت به این هنرمند و محبوبش اعتراف می‌کند.",
+  "Metre": {
+    "Id": 7,
+    "Rhythm": "فعلاتن فعلاتن فعلاتن فعلن (رمل مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ادمرا",
+      "PlainText": "نوری از روزن اقبال درافتاد مرا\r\nکه از و خانۀ دل شد طرب آباد مرا\r\nظلمت آباد دلم گشت چنان نورانی\r\nکآفتاب فلکی خود بشد از یاد مرا\r\nوین همه پرتوی از خاطره مخدوم منست\r\nآنکه جز بر در او بخت مبیناد مرا\r\nنوردین شاه هنرمندان کز نوک قلم\r\nهر زمان عرض دهد لعبت نوشاد مرا\r\nآنکه از یک اثر تربیت انعامش\r\nچرخ گردن زبن دندان بنهاد مرا\r\nخجلم از سرکلکش که ز دریای کرم\r\nدر ناسفته بسی سفته فرستاد مرا\r\nتا که با خاک درش دیدۀ من انس گرفت\r\nهمه لعل و گهر از چشم بیفتاد مرا\r\nای که از غایت غمخوارگی اهل هنر\r\nنزدآنست که بخشی تو دل شاد مرا\r\nمن ندانستم کز باد توان جان افزود\r\nکرد شاگردی انفاس تو استاد مرا\r\nتا که مرغول خطت دیدم و معنی لطیف\r\nپس از آن یاد نیامد گل و شمشاد مرا\r\nعاشق لفظ تو شد جانم و گویی دادند\r\nلب شیرین سخنت را دل فرهاد مرا\r\nلعبت چشمم با خط تو پیوند گرفت\r\nسبب اینست که از دیده گهر زاد مرا\r\nمن غلام سر کلک تو که بی ذل سوال\r\nهر چه در خاطرم آمد همه آن داد مرا\r\nشکر یکساعته انعام تو نتوانم گفت\r\nور کشد خود بمثل عمر به هفتاد مر ا\r\nطالعی دارم کز تشنگیم لب بفکد\r\nور همه غوطه دهد دجلۀ بغداد مرا\r\nزین مثالی که بیک حرف جهان بگشاید\r\nبجز از خون جگر هیچ بنگشاد مرا\r\nتیغ را گرچه جهانگیر بود گوهر او\r\nچه کنم چون نبو قوت انفاد مرا\r\nبا چنین تاختن لشکر حرمان چپ و راست\r\nوای من  گر نرسد لطف تو فریاد مرا\r\nسر مویی نبرم بی مدد دولت تو\r\nور سراپای شود خنجر پولاد مرا\r\nهیچ دانی که چه دادند مرا زین اقطاع\r\nریشخندی که بصد مرگ باستاد مرا\r\nآب رویی که نبد در سر این نان کردم\r\nوآش غصه جگر سوخت ز بیداد مرا\r\nاختیار خودم افکند بدین هیچ آبادی\r\nکآفرین بر نظر و عقل و خردباد مرا\r\nاندرین مزرعه یک قاعده دیدم منکر\r\nکه خود آن قاعده بر کند زبنیاد مرا\r\nخرمنی باشد بر باد و چو قسمت کردند\r\nخرمن آن قحبه زنان را بودو باد مرا\r\nکاغذین جامه بپوشید و بدرگاه آمد\r\nزادۀ خاطر من تا بدهی داد مرا\r\nبندگی در تو تا ابدم فرض شود\r\nگر کند خواجه ازین مقطعی آزاد مرا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوری از روزن اقبال درافتاد مرا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از و خانۀ دل شد طرب آباد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eظلمت آباد دلم گشت چنان نورانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآفتاب فلکی خود بشد از یاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوین همه پرتوی از خاطره مخدوم منست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنکه جز بر در او بخت مبیناد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنوردین، شاه هنرمندان ،کز نوک قلم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر زمان عرض دهد لعبت نوشاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآنکه از یک اثر تربیت انعامش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرخ گردن زبن دندان بنهاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخجلم از سرکلکش که ز دریای کرم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر ناسفته بسی سفته فرستاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا که با خاک درش دیدۀ من انس گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه لعل و گهر از چشم بیفتاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای که از غایت غمخوارگی اهل هنر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنزدآنست که بخشی تو دل شاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن ندانستم کز باد توان جان افزود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکرد شاگردی انفاس تو استاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا که مرغول خطت دیدم و معنیّ لطیف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپس از آن یاد نیامد گل و شمشاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاشق لفظ تو شد جانم و گویی دادند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلب شیرین سخنت را دل فرهاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلعبت چشمم با خط تو پیوند گرفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسبب اینست که از دیده گهر زاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن غلام سر کلک تو که بی ذلّ سوال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر چه در خاطرم آمد همه آن داد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشکر یکساعته انعام تو نتوانم گفت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور کشد خود بمثل عمر به هفتاد مر ا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eطالعی دارم کز تشنگیم لب بفکد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور همه غوطه دهد دجلۀ بغداد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزین مثالی که بیک حرف جهان بگشاید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبجز از خون جگر هیچ بنگشاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتیغ را گرچه جهانگیر بود گوهر او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه کنم چون نبو قوّت انفاد مرا؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا چنین تاختن لشکر حرمان چپ و راست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوای من ! گر نرسد لطف تو فریاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسر مویی نبرم بی مدد دولت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور سراپای شود خنجر پولاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهیچ دانی که چه دادند مرا زین اقطاع؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eریشخندی که بصد مرگ باستاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآب رویی که نبد در سر این نان کردم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوآش غصّه جگر سوخت ز بیداد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاختیار خودم افکند بدین هیچ آبادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآفرین بر نظر و عقل و خردباد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاندرین مزرعه یک قاعده دیدم منکر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه خود آن قاعده بر کند زبنیاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخرمنی باشد بر باد و چو قسمت کردند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرمن آن قحبه زنان را بودو باد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکاغذین جامه بپوشید و بدرگاه آمد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزادۀ خاطر من تا بدهی داد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبندگیّ در تو تا ابدم فرض شود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگر کند خواجه ازین مقطعی آزاد مرا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 26
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "نوری از روزن اقبال درافتاد مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نوری از امید به من تابید که دل من را شاد و سرزنده کرد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "که از و خانۀ دل شد طرب آباد مرا",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ظلمت آباد دلم گشت چنان نورانی",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل من که در تاریکی و ناامیدی به سر می‌برد، اکنون به قدری روشن و پرنور شده است که حتی یاد آفتاب عالم‌گیر نیز از ذهنم رفته است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کآفتاب فلکی خود بشد از یاد مرا",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "وین همه پرتوی از خاطره مخدوم منست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این همه نور و روشنایی از یاد کسی است که فقط خوشبختی من به درگاه او وابسته است و جز او کسی دیگر این خوشبختی را به من نمی‌دهد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آنکه جز بر در او بخت مبیناد مرا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "نوردین، شاه هنرمندان ،کز نوک قلم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خلق و خوی نوردین، که به عنوان بزرگ‌ترین هنرمند شناخته می‌شود، همیشه با هنرش و از طریق کارهایش جاذبه‌ای بی‌نظیر به من می‌دهد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "هر زمان عرض دهد لعبت نوشاد مرا",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "آنکه از یک اثر تربیت انعامش",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کسی که از اثر تربیت خود به من لطف و بخشش کرد و چون چرخ گردن، به گردن من ناز کشید."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "چرخ گردن زبن دندان بنهاد مرا",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "خجلم از سرکلکش که ز دریای کرم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از اینکه توانستم با خوبی و محبت او مواجه شوم، شرمنده‌ام، چون او از دریاهای بزرگ کرم و لطفش، بسیار از خوبی‌ها و مهربانی‌ها را به من بخشیده است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "در ناسفته بسی سفته فرستاد مرا",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "تا که با خاک درش دیدۀ من انس گرفت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که چشمم به خاک آن در آشنا شد، دیگر همه جواهرات و زیبایی‌ها از نظر من بی‌ارزش شدند."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "همه لعل و گهر از چشم بیفتاد مرا",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ای که از غایت غمخوارگی اهل هنر",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کسی که به خاطر دلسوزی و محبت به اهل هنر، به ما نزدیک شده‌ای، به من کمک کن تا دلم شاد شود."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "نزدآنست که بخشی تو دل شاد مرا",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "من ندانستم کز باد توان جان افزود",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌دانستم که با نفس‌های تو، جانم تقویت می‌شود و این آموزش‌ها را از تو به عنوان استاد دریافت می‌کنم."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "کرد شاگردی انفاس تو استاد مرا",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "تا که مرغول خطت دیدم و معنیّ لطیف",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی که خط زیبای تو را دیدم و مفهوم لطیف آن را درک کردم، دیگر نه به گل فکر کردم و نه به شمشاد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "پس از آن یاد نیامد گل و شمشاد مرا",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "عاشق لفظ تو شد جانم و گویی دادند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: جانم به عشق کلام تو آغشته شده و گویی شیرینی صحبت‌هایت به من دلی شاداب و سرشار از عشق داده است."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "لب شیرین سخنت را دل فرهاد مرا",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "لعبت چشمم با خط تو پیوند گرفت",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم من با نوشته‌های تو بازی کرد و به آن وابسته شد. به همین خاطر است که از چشمانم اشک به خاطر تو سرازیر می‌شود."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "سبب اینست که از دیده گهر زاد مرا",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "من غلام سر کلک تو که بی ذلّ سوال",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من بنده و شیفته‌ی هنر تو هستم و بدون هیچ نوع خجالتی هرچه را که به ذهنم می‌رسد، بی‌پروا به تو می‌گویم و تو همه‌ی آن‌ها را به من می‌دهی."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "هر چه در خاطرم آمد همه آن داد مرا",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "شکر یکساعته انعام تو نتوانم گفت",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نمی‌توانم به مدت یک ساعت از نعمت‌های تو سخن بگویم، حتی اگر عمرم به هفتاد سال طول بکشد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "ور کشد خود بمثل عمر به هفتاد مر ا",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "طالعی دارم کز تشنگیم لب بفکد",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من تقدیری دارم که اگر از تشنگی بمیرم، حتی اگر تمام آب دجله را بر سرم بریزند، باز هم حالم بهتر نمی‌شود."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "ور همه غوطه دهد دجلۀ بغداد مرا",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "زین مثالی که بیک حرف جهان بگشاید",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که تنها یک کلام و مثال می‌تواند دنیایی را برای من باز کند، اما جز از رنج و درد عمیق هیچ چیز دیگر نمی‌تواند در من گشایشی ایجاد کند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "بجز از خون جگر هیچ بنگشاد مرا",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "تیغ را گرچه جهانگیر بود گوهر او",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تیغ اگرچه در دنیا تاثیرگذار و قدرتمند است، اما چه فایده‌ای دارد وقتی که من قدرت استفاده از آن را ندارم؟"
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "چه کنم چون نبو قوّت انفاد مرا؟",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "با چنین تاختن لشکر حرمان چپ و راست",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با این سرعت و بی‌رحمی لشکر ناامیدی به سمتم می‌آیند، آه، اگر کمک تو به من نرسد، فریاد من در بی‌کسی می‌ماند."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "وای من ! گر نرسد لطف تو فریاد مرا",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "سر مویی نبرم بی مدد دولت تو",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من حتی یک تار موی خود را هم بدون کمک و حمایت تو رها نمی‌کنم، و اگر تمام وجودم مانند خنجر فولادین باشد، باز هم نمی‌توانم بدون دستگیری تو ادامه دهم."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "ور سراپای شود خنجر پولاد مرا",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "هیچ دانی که چه دادند مرا زین اقطاع؟",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌دانی که چه چیزی به من داده‌اند در این جهان؟ اینجا رنج و زخم‌هایی هستند که برایم به وجود آمده‌اند و من در برابر آن‌ها با صد بار مرگ مقاومت کرده‌ام."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "ریشخندی که بصد مرگ باستاد مرا",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "آب رویی که نبد در سر این نان کردم",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آب‌رویی که برای نان و زندگی‌ام داشتم، حالا با غم و اندوهی که از ظلم و بی‌عدالتی به من رسیده، سوخته است."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "وآش غصّه جگر سوخت ز بیداد مرا",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "اختیار خودم افکند بدین هیچ آبادی",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من اختیار و تصمیم خود را به هیچ‌وجه در دست کسی نمی‌گذارم، چون به من برکت و فهم داده شده است."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "کآفرین بر نظر و عقل و خردباد مرا",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "اندرین مزرعه یک قاعده دیدم منکر",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در این مزرعه، من قاعده‌ای را مشاهده کردم که خودش بر مبنای منکر است و همین قاعده، پایه‌ام را تهدید می‌کند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "که خود آن قاعده بر کند زبنیاد مرا",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "خرمنی باشد بر باد و چو قسمت کردند",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پشته‌ای از غلات به باد رفته است و وقتی آن را تقسیم کردند، سهم آن به قحبه‌ها رسید و من از آن بی‌نصیب ماندم."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "خرمن آن قحبه زنان را بودو باد مرا",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "کاغذین جامه بپوشید و بدرگاه آمد",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با لباس سفید و ظریف، فرزند آرزوهایم به درگاه آمد تا از من حساب و کتاب را بگیرد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "زادۀ خاطر من تا بدهی داد مرا",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "بندگیّ در تو تا ابدم فرض شود",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر مولای من از این نقطه به بعد مرا آزاد کند، تا ابد بر بندگی‌ات ادامه می‌دهم."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "گر کند خواجه ازین مقطعی آزاد مرا",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    }
+  ]
+}

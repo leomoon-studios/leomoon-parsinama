@@ -1,0 +1,390 @@
+{
+  "Id": 69627,
+  "CatId": 2039,
+  "Title": "شمارهٔ ۱۵۲",
+  "FullTitle": "امیر معزی » قصاید » شمارهٔ ۱۵۲",
+  "FullUrl": "/amir/ghasa/sh152",
+  "RhymeLetters": "ر",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر درباره بزرگی و شرافت سلطنت ابوالفتح ملکشاه، شاه قدرتمند و دین‌دوست، است. شاعر به توصیف ویژگی‌های مثبت او می‌پردازد و او را به عنوان الگوی کامل یک پادشاه متعهد به دین و عدالت معرفی می‌کند. قدرت و شوکت او نه تنها در میان عرب‌ها، بلکه در سرزمین‌های عجم نیز ستوده شده است. در اینجا تأکید بر blessings (برکات) مثله‌ی خدمت به او و تأثیر مثبت آن بر سعادت مردم است. شعر همچنین بااهمیت عید و روزهای خجسته او را مقایسه می‌کند و نوروز را تحت تأثیر جشن‌های او می‌داند. خلاصه‌ اینکه، این اثر ابراز وفاداری و تحسین شاعر به پادشاهی است که باعث پیشرفت و خوشبختی مردمش شده است.",
+  "Metre": {
+    "Id": 10,
+    "Rhythm": "مفعول مفاعیل مفاعیل فعولن (هزج مثمن اخرب مکفوف محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "عید عرب و سنت و آیین پیمبر\r\nفرخنده کناد ایزد بر شاه مظفر\r\nسلطان بلند اختر ابوالفتح ملکشاه\r\nشاهی  که عزیز است به او دین پیمبر\r\nفرمانش کشیدست خطی گرد جهان در\r\nدارند همه تاجوران بر خط او سر\r\nاز نامه و نامش همه اسلام مزین\r\nوز رایت و رایش همه آفاق منور\r\nفخر پدران است به او تاگه آدم\r\nجاه پسران است به او تاگه محشر\r\nبی  طاعت او شاخ سعادت ندهد بار\r\nبی خدمت او تخم سلامت ندهد بر\r\nپیروزی شاهان بود از اختر دولت\r\nپیروز شد از طلعت او دولت و اختر\r\nای تیغ  گهردار تو از فتح مرکب\r\nوی دست گهربار تو از جور مصور\r\nنازیدن شاهان بود از افسر و خاتم\r\nنازنده شد از سیرت تو خاتم و افسر\r\nرای تو سپهر است و دلت چشمه خورشید\r\nبزم تو بهشت است و کفت چشمه  کوثر\r\nخار از نم باران سخای تو شده  گل\r\nخاک از تف خورشید قبول تو شود زر\r\nگردد به یک انعام تو رنجور تن آسان\r\nگردد به یک احسان تو درویش توانگر\r\nدر ملک نبودست جهان را چو تو خسرو\r\nدر داد نبودست جهان را چو تو داور\r\nهم در عرب آثار تو گشته است مهیا\r\nهم در عجم اقبال تو گشته است مقرر\r\nچون مهر که از شرق  گراید سوی مغرب\r\nچون ماه که از باختر آید سوی خاور\r\nگه رایت عالی بری از بلخ به  بغداد\r\nگاهی کشی از دجله به جیحون صف لشکر\r\nرایات تو اندر ری و از نام خطابت\r\nدر مشرق و مغرب شرف خطبه و منبر\r\nتاریخ فتوح تو درست است و حقیقت\r\nافسانه شهنامه محال است و مزور\r\nشد خاطر ما چون فلک و مدح تو کوکب\r\nشد دفتر ما چون صدف و مدح تو گوهر\r\nهستیم ز مدحت همه افروخته خاطر\r\nهستیم ز مدحت همه آراسته دفتر\r\nتا شعله آذر نشود قطره باران\r\nتا قطره باران نشود شعله آذر\r\nبا امر تو تقدیر قدر باد موافق\r\nبا حکم تو دوران فلک باد برابر\r\nشاهان جهان رای تو را گشته متابع\r\nشیران ژیان حکم تو را گشته مسخر\r\nعید تو همایون و همه روز تو چون عید\r\nنوروز تو از عید تو خرم  تر و خوشتر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعید عرب و سنت و آیین پیمبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرخنده کناد ایزد بر شاه مظفر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسلطان بلند اختر ابوالفتح ملکشاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشاهی‌ که عزیز است به او دین پیمبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفرمانش کشیدست خطی گرد جهان در\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدارند همه تاجوران بر خط او سر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز نامه و نامش همه اسلام مزین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز رایت و رایش همه آفاق منور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eفخر پدران است به او تاگه آدم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجاه پسران است به او تاگه محشر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌ طاعت او شاخ سعادت ندهد بار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌خدمت او تخم سلامت ندهد بر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیروزی شاهان بود از اختر دولت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیروز شد از طلعت او دولت و اختر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تیغ‌ گهردار تو از فتح مرکب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی دست گهربار تو از جور مصوّر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنازیدن شاهان بود از افسر و خاتم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنازنده شد از سیرت تو خاتم و افسر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرای تو سپهر است و دلت چشمهٔ خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبزم تو بهشت است و کفت چشمهٔ‌ کوثر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخار از نم باران سخای تو شده‌ گُل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاک از تف خورشید قبول تو شود زر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگردد به یک انعام تو رنجور تن آسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگردد به یک احسان تو درویش توانگر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر ملک نبودست جهان را چو تو خسرو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر داد نبودست جهان را چو تو داور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهم در عرب آثار تو گشته است مهیا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم در عجم اقبال تو گشته است مقرّر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مهر که از شرق ‌گراید سوی مغرب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون ماه که از باختر آید سوی خاور\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگه رایت عالی بری از بلخ به‌ بغداد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگاهی کشی از دجله به جیحون صف لشکر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرایات تو اندر ری و از نام خطابت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر مشرق و مغرب شرف خطبه و منبر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتاریخ فتوح تو درست است و حقیقت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eافسانهٔ شهنامه محال است و مُزَوّر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد خاطر ما چون فلک و مدح تو کوکب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشد دفتر ما چون صدف و مدح تو گوهر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهستیم ز مَدحَت همه افروخته خاطر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهستیم ز مدحت همه آراسته دفتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا شعلهٔ آذر نشود قطرهٔ باران\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا قطرهٔ باران نشود شعلهٔ آذر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبا امر تو تقدیر قَدَر باد موافق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا حکم تو دوران فلک باد برابر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشاهان جهان رای تو را گشته متابع\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشیران ژیان حکم تو را گشته مسخر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعید تو همایون و همه روز تو چون عید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنوروز تو از عید تو خرم‌ تر و خوشتر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 24
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "عید عرب و سنت و آیین پیمبر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خداوند عید عرب و سنت و روش پیامبر را برای شاه مظفر خوشحال و فرخنده گرداند."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "فرخنده کناد ایزد بر شاه مظفر",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "سلطان بلند اختر ابوالفتح ملکشاه",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سلطان بزرگ و پرفروغ ابوالفتح ملکشاه، پادشاهی که به دلیل اعتقاداتش به دین پیامبر، مورد احترام و محبت قرار دارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "شاهی‌ که عزیز است به او دین پیمبر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "فرمانش کشیدست خطی گرد جهان در",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: فرمان او همچون خطی است که دور تا دور جهان را می‌پوشاند و همه حاکمان بر اساس این فرمان، سر تعظیم فرود می‌آورند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "دارند همه تاجوران بر خط او سر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "از نامه و نامش همه اسلام مزین",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از نامه و نام او، تمام اسلام زینت یافته و پرچم و فرمان او، همه جهان را روشن کرده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "وز رایت و رایش همه آفاق منور",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "فخر پدران است به او تاگه آدم",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله بیانگر این است که افتخار پدران به فرزند خود تا روز قیامت ادامه دارد و در حقیقت، مقام و جایگاه او نشانه‌ای از عظمت و شأن پدرانش خواهد بود. به عبارتی، شخصیت و دستاوردهای او نمایانگر ارزش و کرامت والدینش است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "جاه پسران است به او تاگه محشر",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "بی‌ طاعت او شاخ سعادت ندهد بار",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بی‌توجهی به او باعث نمی‌شود که خوشبختی به ما روی بیاورد و بدون خدمت به او، نمی‌توانیم به امنیت و آرامش دست پیدا کنیم."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بی‌خدمت او تخم سلامت ندهد بر",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "پیروزی شاهان بود از اختر دولت",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پیروزی و موفقیت شاهان به خاطر خوش شانسی و وضعیت خوب ستاره‌ها بود که از زیبایی و چهره‌ی آنها ناشی می‌شود."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "پیروز شد از طلعت او دولت و اختر",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "ای تیغ‌ گهردار تو از فتح مرکب",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای شمشیر نازک و برنده، تو به پیروزی بر مرکب (نشانه‌ شجاعت و توانمندی) دست یافته‌ای و تو در برابر ظلم، مثل گوهری ارزشمند هستی."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "وی دست گهربار تو از جور مصوّر",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "نازیدن شاهان بود از افسر و خاتم",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: شاهان به خاطر زرق و برق افسر و خاتم خود فخر می‌فروشند، اما زیبایی و ویژگی‌های درونی تو باعث می‌شود که این افسر و خاتم نیز به تو ناز کند."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "نازنده شد از سیرت تو خاتم و افسر",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "رای تو سپهر است و دلت چشمهٔ خورشید",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قضاوت تو مانند آسمان است و قلبت مانند چشمه‌ای از خورشید می‌درخشد. میهمانی تو بهشت است و زبانت مانند چشمهٔ کوثر شیرین و لذیذ است."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "بزم تو بهشت است و کفت چشمهٔ‌ کوثر",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "خار از نم باران سخای تو شده‌ گُل",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دروغی در وجود ندارد که بخواهد زیبایی و عظمت طبیعت به خاطر بخشش تو به وجود آمده است. خارها به واسطه باران رحمت تو به گل تبدیل می‌شوند و خاک نیز به لطف تابش آفتاب تو، به طلا تبدیل خواهد شد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "خاک از تف خورشید قبول تو شود زر",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "گردد به یک انعام تو رنجور تن آسان",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با لمسی از محبت تو، بیمار بهبود می‌یابد و فرد نیازمند با یک لطف و احسان تو، به ثروت و آزادی دست می‌یابد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "گردد به یک احسان تو درویش توانگر",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "در ملک نبودست جهان را چو تو خسرو",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در دنیا هیچ‌کس مانند تو سلطان نیست و در نظام عدالت نیز هیچ‌کس مانند تو قاضی وجود ندارد."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "در داد نبودست جهان را چو تو داور",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "هم در عرب آثار تو گشته است مهیا",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر دو ملت عرب و عجم (ایران) به وجود تو آشنا شده و به نوعی آماده‌سازی و استقبال از تو پرداخته‌اند."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "هم در عجم اقبال تو گشته است مقرّر",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "چون مهر که از شرق ‌گراید سوی مغرب",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: همان‌طور که خورشید از شرق به سمت غرب می‌رود و ماه از غرب به شرق می‌آید، تغییرات و حرکات طبیعت را نشان می‌دهد."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "چون ماه که از باختر آید سوی خاور",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "گه رایت عالی بری از بلخ به‌ بغداد",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: گاهی پیشروی لشکر تو از سوی بلخ به بغداد است و گاهی هم از سمت دجله به جیحون حرکت می‌کند."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "گاهی کشی از دجله به جیحون صف لشکر",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "رایات تو اندر ری و از نام خطابت",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پرچم‌های تو در ری برافراشته شده و نام خطابتت در شرق و غرب، نشان‌دهنده‌ی بزرگی خطبه و منبرت است."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "در مشرق و مغرب شرف خطبه و منبر",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "تاریخ فتوح تو درست است و حقیقت",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تاریخ نبردهای تو واقعی است، اما داستان‌هایی که در شاهنامه وجود دارد، غیر واقعی و ساخته پرده خیال است."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "افسانهٔ شهنامه محال است و مُزَوّر",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "شد خاطر ما چون فلک و مدح تو کوکب",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل ما مانند آسمان شده و ستایش تو برای ما مانند ستاره‌ای در دفتر زندگی‌مان می‌درخشد، كما اینکه دفتر ما مانند صدف و ستایش تو مانند گوهری ارزشمند است."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "شد دفتر ما چون صدف و مدح تو گوهر",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "هستیم ز مَدحَت همه افروخته خاطر",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ما به خاطر ستایش تو تمام وجودمان پر از شوق و شعف است و از همین ستایش، زندگی‌مان کمال و زیبایی یافته است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "هستیم ز مدحت همه آراسته دفتر",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "تا شعلهٔ آذر نشود قطرهٔ باران",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که قطرهٔ باران به آتش تبدیل نشود، آتش نیز نمی‌تواند از باران برآید."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "تا قطرهٔ باران نشود شعلهٔ آذر",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "با امر تو تقدیر قَدَر باد موافق",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: با فرمان تو، سرنوشت به گونه‌ای رقم می‌خورد که با اراده تو هماهنگ باشد و چرخش آسمان همواره در مسیر تو قرار گیرد."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "با حکم تو دوران فلک باد برابر",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "شاهان جهان رای تو را گشته متابع",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پادشاهان دنیا پیرو نظر تو شده‌اند و مانند شیران، در برابر قدرت تو تسلیم هستند. فرمان تو برای آنها، مانند یک قانون الزامی است."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "شیران ژیان حکم تو را گشته مسخر",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "عید تو همایون و همه روز تو چون عید",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عید تو بسیار بزرگ و باشکوه است و تمام روزهای تو مانند جشن نوروز، از عید تو شادتر و خوشحال‌تر هستند."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "نوروز تو از عید تو خرم‌ تر و خوشتر",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    }
+  ]
+}

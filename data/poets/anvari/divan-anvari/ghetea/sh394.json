@@ -1,0 +1,285 @@
+{
+  "Id": 28725,
+  "CatId": 246,
+  "Title": "شمارهٔ ۳۹۴ - در مدح",
+  "FullTitle": "انوری » دیوان اشعار » مقطعات » شمارهٔ ۳۹۴ - در مدح",
+  "FullUrl": "/anvari/divan-anvari/ghetea/sh394",
+  "RhymeLetters": "دولتودین",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: این شعر به ستایش جوانی به نام محمد یوسف پرداخته است که نماد امید و قدرت ملت و دین است. شاعر به ویژگی‌های برجسته او اشاره می‌کند و می‌گوید که نام او به عنوان علامت و نشانی از دولت و دین در تاریخ ثبت شده است. او تأکید می‌کند که محمد یوسف با علم و تدبیر خود، نقش مهمی در استحکام و پیشرفت جامعه دارد. در نهایت، شاعر با ابراز آرزوی موفقیت برای او، از او به عنوان شخصی با فضائل و شرافت یاد می‌کند که برای دین و ملت اهمیت دارد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "دولتودین",
+      "PlainText": "ای جوان بخت پیر ملت و ملک\r\nصدر دنیا امین دولت و دین\r\nای چهل سال نام و کنیت تو\r\nبوده نقش نگین دولت و دین\r\nچیست دانی محمد یوسف\r\nعلم آستین دولت و دین\r\nخاتم و خامه تواند هنوز\r\nدر یسار و یمین دولت و دین\r\nتخم ذکر جمیل کاشته ای\r\nسالها در زمین دولت و دین\r\nداغ نام نکو نهادستی\r\nعمرها بر سرین دولت و دین\r\nدیده در عزم تو قضا پیدا\r\nهم شک و هم یقین دولت و دین\r\nکرده در حزم تو قدر پنهان\r\nهمه غث و سمین دولت و دین\r\nنظر صایب ترا گوید\r\nآسمان پیش بین دولت و دین\r\nقلم منصف ترا خواند\r\nچرخ حبل متین دولت و دین\r\nچشم زخم قران کجا بیند\r\nتا تو باشی قرین دولت و دین\r\nراستی به ترا توان گفتن\r\nخواجه راستن دولت و دین\r\nاز تو معمور بود چندین گاه\r\nحصنهای حصین دولت و دین\r\nبی تو دیدی که از پی یک سهو\r\nچون قفا شد جبین دولت و دین\r\nتا قیامت چو باز دوخته چشم\r\nمانده شیر عرین و دولت و دین\r\nدیر مان ای به گونه گونه شرف\r\nاختیار و گزین دولت و دین\r\nتا کس از آفرین سخن گوید\r\nبر تو باد آفرین دولت و دین",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای جوان بخت پیر ملت و ملک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eصدر دنیا امین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای چهل سال نام و کنیت تو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبوده نقش نگین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچیست دانی محمد یوسف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعلم آستین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخاتم و خامهٔ تواند هنوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر یسار و یمین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتخم ذکر جمیل کاشته‌ای\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسالها در زمین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eداغ نام نکو نهادستی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعمرها بر سرین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیده در عزم تو قضا پیدا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهم شک و هم یقین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرده در حزم تو قدر پنهان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمه غث و سمین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنظر صائب ترا گوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآسمان پیش‌بین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقلم منصف ترا خواند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچرخ حبل متین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم زخم قران کجا بیند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا تو باشی قرین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eراستی به ترا توان گفتن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواجهٔ راستن دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تو معمور بود چندین گاه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحصنهای حصین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبی‌تو دیدی که از پی یک سهو\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون قفا شد جبین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا قیامت چو باز دوخته چشم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانده شیر عرین و دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیر مان ای به گونه گونه شرف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاختیار و گزین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا کس از آفرین سخن گوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر تو باد آفرین دولت و دین\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 17
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "ای جوان بخت پیر ملت و ملک",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای جوان، تو سرنوشت‌ساز و بزرگ ملت و کشور هستی و در دنیا، حافظ دولت و دین ما می‌باشی."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "صدر دنیا امین دولت و دین",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "ای چهل سال نام و کنیت تو",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو به مدت چهل سال نام و نسبت نماد قدرت و دیانت بوده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بوده نقش نگین دولت و دین",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چیست دانی محمد یوسف",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آیا می‌دانی محمد کیست؟ او مانند یوسف، معرفت و دانایی را به همراه دارد و نشانه‌ای از قدرت و دین است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "علم آستین دولت و دین",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "خاتم و خامهٔ تواند هنوز",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خاتم و قلم تو همچنان در دست راست و چپ قدرت و دین قرار دارد."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "در یسار و یمین دولت و دین",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "تخم ذکر جمیل کاشته‌ای",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سال‌هاست که در دل خود یاد و نام نیکو را کاشته‌ای، در سرزمین‌های موفقیت و دیانت."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "سالها در زمین دولت و دین",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "داغ نام نکو نهادستی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: درد و رنجی که به خاطر نام نیک بر دوش می‌کشی، سال‌ها باید بر گردن این مقام و دین تحمل کنی."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "عمرها بر سرین دولت و دین",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دیده در عزم تو قضا پیدا",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشمانم در پی عزم و ارادت توست و در اینجا هم کلا شک و تردید وجود دارد و هم ایمان به سعادت و دیانت."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "هم شک و هم یقین دولت و دین",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "کرده در حزم تو قدر پنهان",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به خاطر احتیاطی که تو دارا هستی، ارزش پنهان همه چیزهای بی‌ارزش و پرارزش در زمینه‌ی سلطنت و دیانت سنجیده شده است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "همه غث و سمین دولت و دین",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "نظر صائب ترا گوید",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: آسمان به تو می‌گوید که بر خیر و نیکی و پیشرفت‌ در دین و دنیای تو آگاهی دارد."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "آسمان پیش‌بین دولت و دین",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "قلم منصف ترا خواند",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قلم منصف تو را به عنوان نشانه‌ای از قدرت و ثبات در امور دینی و دنیوی شناخت."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "چرخ حبل متین دولت و دین",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "چشم زخم قران کجا بیند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم بد نمی‌بیند تا زمانی که تو در کنار موفقیت و دین باشی."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "تا تو باشی قرین دولت و دین",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "راستی به ترا توان گفتن",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: واقعاً می‌توان به تو گفت که صاحب قدرت و دین هستی."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "خواجهٔ راستن دولت و دین",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "از تو معمور بود چندین گاه",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این جمله به این معناست که به دلیل وجود و تأثیر تو، زمان‌های زیادی دولت و دین به استحکام و قدرت خود ادامه داده‌اند."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "حصنهای حصین دولت و دین",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "بی‌تو دیدی که از پی یک سهو",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدون تو، دیدی که چگونه بعد از یک اشتباه، سرنوشت و ایمان به قهری شدید تغییر کردند؟"
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "چون قفا شد جبین دولت و دین",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "تا قیامت چو باز دوخته چشم",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا آخر زمان، چشمان ما به شدت به سوی شیران دلاور و قدرت و ایمان خیره مانده است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "مانده شیر عرین و دولت و دین",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "دیر مان ای به گونه گونه شرف",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تغییرات و زیبایی‌های زندگی به ما فرصت انتخاب می‌دهند و هر کدام از ما می‌توانیم راه و مسیر خود را در زندگی برگزینیم."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "اختیار و گزین دولت و دین",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "تا کس از آفرین سخن گوید",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که کسی درباره تو سخن خوب و ستایش‌آمیز بگوید، برایت آرزوی موفقیت در دنیا و دین دارم."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "بر تو باد آفرین دولت و دین",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,2349 @@
+{
+  "Id": 41293,
+  "CatId": 1665,
+  "Title": "دیباچه",
+  "FullTitle": "سعدی » گلستان » دیباچه",
+  "FullUrl": "/saadi/golestan/dibache",
+  "SourceName": "ویکی‌نبشته",
+  "SourceUrlSlug": "wikisource",
+  "PoemSummary": "هوش مصنوعی: متن حاضر، مقدمه‌ای از کتاب \u0022گلستان\u0022 سعدی است که در آن به سپاسگزاری از خداوند و نعمت‌های بی‌پایان او اشاره می‌شود. سعدی به اهمیت شکرگزاری نسبت به نعمت‌ها و جلوگیری از غفلت از رحمت‌های الهی تأکید می‌کند. او به زیبایی‌های طبیعت و حکمت‌های زندگی بشری پرداخته و از شخصیت‌های بزرگ، خصوصاً پیامبر اسلام، و مقام والای او یاد می‌کند. همچنین، نویسنده به تأمل در گذر زمان و ارزش دوستی و محبت در زندگی اشاره می‌کند. در انتها، فصول مختلف کتاب را معرفی می‌کند که موضوعات متفاوتی از جمله سیرت پادشاهان، اخلاق درویشان، قناعت، مهمانی و صلح را شامل می‌شود. سعدی می‌کوشد تا از طریق این فصول، آموزه‌هایی را در مورد زندگی و رفتار انسانی به خواننده انتقال دهد.",
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راید",
+      "PlainText": "از دست و زبان که برآید\r\nکز عهده شکرش به در آید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز دست و زبان که برآید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز عُهدهٔ شکرش به در‌آید؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 1,
+      "Number": 2,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایاورد",
+      "PlainText": "بنده همان به که ز تقصیر خویش\r\nعذر به درگاه خدای آورد\r\nور نه سزاوار خداوندی اش\r\nکس نتواند که به جای آورد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبنده همان به که ز تقصیرِ خویش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eعُذر به درگاهِ خدای آورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوَر نه سِزاوار خداوندی‌اش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نتواند که به جای آورد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 2,
+      "Number": 3,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "رداری",
+      "PlainText": "ای کریمی که از خزانه غیب\r\nگبر و ترسا وظیفه خور داری\r\nدوستان را کجا کنی محروم\r\nتو که با دشمن این نظر داری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای کریمی که از خزانهٔ غیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگَبر و تَرسا وظیفه‌خور داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدوستان را کجا کنی محروم؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتو که با دشمن این نظر داری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 3,
+      "Number": 4,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ری",
+      "PlainText": "ابر و باد و مه و خورشید و فلک در کارند\r\nتا تو نانی به کف آری و به غفلت نخوری\r\nهمه از بهر تو سرگشته و فرمانبردار\r\nشرط انصاف نباشد که تو فرمان نبری",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eابر و باد و مَه و خورشید و فلک در کارند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا تو نانی به کف آری و به غفلت نخوری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه از بَهرِ تو سرگشته و فرمانبُردار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشرط انصاف نباشد که تو فرمان نبری\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 4,
+      "Number": 5,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یم",
+      "PlainText": "شفیع مطاع نبی کریم\r\nقسیم جسیم نسیم وسیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشفیعٌ مطاعٌ نَبیٌ کریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقسیمٌ جسیمٌ نسیمٌ وسیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 5,
+      "Number": 6,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ار",
+      "PlainText": "کرم بین و لطف خداوندگار\r\nگنه بنده کرده ست و او شرمسار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکَرَم بین و لطف خداوندْگار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگُنه بنده کرده‌ست و او شرمسار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 6,
+      "Number": 7,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "از",
+      "PlainText": "گر کسی وصف او ز من پرسد\r\nبی دل از بی نشان چه گوید باز\r\nعاشقان کشتگان معشوقند\r\nبر نیاید ز کشتگان آواز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر کسی وصف او ز من پرسد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبی‌دل از بی‌نشان چه گوید باز؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعاشقان، کشتگان معشوقند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبَر نیاید ز کشتگان آواز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 6,
+      "Number": 6,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یم",
+      "PlainText": "شفیع مطاع نبی کریم\r\nقسیم جسیم نسیم وسیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشفیعٌ مطاعٌ نَبیٌ کریم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eقسیمٌ جسیمٌ نسیمٌ وسیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 7,
+      "Number": 8,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ازنیامد",
+      "PlainText": "ای مرغ سحر عشق ز پروانه بیاموز\r\nکآن سوخته را جان شد و آواز نیامد\r\nاین مدعیان در طلبش بی خبرانند\r\nکآن را که خبر شد خبری باز نیامد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرغ سحر! عشق ز پروانه بیاموز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآن سوخته را جان شد و آواز نیامد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین مدعیان در طلبش بی‌خبرانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآن را که خبر شد، خبری باز نیامد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 8,
+      "Number": 9,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "راست",
+      "PlainText": "زآن گه که تو را بر من مسکین نظر است\r\nآثارم از آفتاب مشهورتر است\r\nگر خود همه عیب ها بدین بنده در است\r\nهر عیب که سلطان بپسندد هنر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآن گه که تو را بر من مسکین نظر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآثارم از آفتاب مشهورتر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خود همه عیب‌ها بدین بنده در است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر عیب که سلطان بپسندد، هنر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Robaee",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 9,
+      "Number": 9,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "کانسوختهراجانشدواوازنیامد",
+      "PlainText": "ای مرغ سحر عشق ز پروانه بیاموز\r\nکآن سوخته را جان شد و آواز نیامد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مرغ سحر! عشق ز پروانه بیاموز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآن سوخته را جان شد و آواز نیامد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 9,
+      "Number": 10,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "لقد سعد الدنیا به دام سعده\r\nو أیده المولیٰ بألویة النصر\r\nکذلک ینشأ لینة هو عرقها\r\nو حسن نبات الأرض من کرم البذر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eلَقَد سَعِدَ الدُنیا بهِ دامَ سَعدُه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوَ أَیَّدَهُ الْمَولیٰ بِأَلوِیَةِ النَّصرِ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکذلکَ یَنْشَأُ لینةٌ هو عِرقُها\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو حُسنُ نباتِ الْأَرضِ من کَرمِ الْبَذرِ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "Language": "ar",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 10,
+      "Number": 11,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ا",
+      "PlainText": "اقلیم پارس را غم از آسیب دهر نیست\r\nتا بر سرش بود چو تویی سایه خدا\r\nامروز کس نشان ندهد در بسیط خاک\r\nمانند آستان درت مأمن رضا\r\nبر توست پاس خاطر بیچارگان و شکر\r\nبر ما و بر خدای جهان آفرین جزا\r\nیا رب ز باد فتنه نگهدار خاک پارس\r\nچندان که خاک را بود و باد را بقا",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاقلیم پارس را غم از آسیب دهر نیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا بر سرش بُوَد چو تویی سایهٔ خدا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامروز کس نشان ندهد در بسیط خاک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانند آستان درت مأمن رضا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر توست پاس خاطر بیچارگان و شکر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر ما و بر خدای جهان‌آفرین جزا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیا رب! ز باد فتنه نگهدار خاک پارس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچندان که خاک را بُوَد و باد را بقا\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "د",
+      "PlainText": "این مدعیان در طلبش بی خبرانند\r\nکآن را که خبر شد خبری باز نیامد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین مدعیان در طلبش بی‌خبرانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآن را که خبر شد، خبری باز نیامد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 10,
+      "Number": 10,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "راست",
+      "PlainText": "این مدعیان در طلبش بی خبرانند\r\nکآن را که خبر شد خبری باز نیامد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاین مدعیان در طلبش بی‌خبرانند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکآن را که خبر شد، خبری باز نیامد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 11,
+      "Number": 11,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "راست",
+      "PlainText": "گر خود همه عیبها بدین بنده در است\r\nهر عیب که سلطان بپسندد هنر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خود همه عیبها بدین بنده در است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر عیب که سلطان بپسندد هنر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 0
+    },
+    {
+      "Index": 11,
+      "Number": 12,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "هر دم از عمر می رود نفسی\r\nچون نگه می کنم نمانده بسی\r\nای که پنجاه رفت و در خوابی\r\nمگر این پنج روز دریابی\r\nخجل آن کس که رفت و کار نساخت\r\nکوس رحلت زدند و بار نساخت\r\nخواب نوشین بامداد رحیل\r\nباز دارد پیاده را ز سبیل\r\nهر که آمد عمارتی نو ساخت\r\nرفت و منزل به دیگری پرداخت\r\nوآن دگر پخت همچنین هوسی\r\nوین عمارت به سر نبرد کسی\r\nیار ناپایدار دوست مدار\r\nدوستی را نشاید این غدار\r\nنیک و بد چون همی بباید مرد\r\nخنک آن کس که گوی نیکی برد\r\nبرگ عیشی به گور خویش فرست\r\nکس نیارد ز پس ز پیش فرست\r\nعمر برف است و آفتاب تموز\r\nاندکی ماند و خواجه غره هنوز\r\nای تهی دست رفته در بازار\r\nترسمت پر نیاوری دستار\r\nهر که مزروع خود بخورد به خوید\r\nوقت خرمنش خوشه باید چید",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دم از عمر می‌رود نفسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نگه می‌کنم نمانده بسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای که پنجاه رفت و در خوابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر این پنج روز دریابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخجل آن کس که رفت و کار نساخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوسِ رحلت زدند و بار نساخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوابِ نوشینِ بامدادِ رحیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز دارد پیاده را ز سبیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که آمد عمارتی نو ساخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفت و منزل به دیگری پرداخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن دگر پخت همچنین هوسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین عمارت به سر نبرد کسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارِ ناپایدار، دوست مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوستی را نشاید این غدّار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیک و بد چون همی بباید مُرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخُنُک آن کس که گویِ نیکی بُرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرگِ عیشی به گور خویش فرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نیارد ز پس، ز پیش فرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمر برف است و آفتابِ تموز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندکی ماند و خواجه غَرِّه هنوز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تهی‌دستْ رفته در بازار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترسمت پُر نیاوری دستار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که مزروع خود بخورد به خوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوقت خرمنش خوشه باید چید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 12
+    },
+    {
+      "Index": 12,
+      "Number": 12,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "گلی خوشبوی در حمام روزی\r\nرسید از دست محبوبی به دستم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگِلی خوشبوی در حمام روزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرسید از دست محبوبی به دستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 0
+    },
+    {
+      "Index": 12,
+      "Number": 13,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "کم",
+      "PlainText": "زبان بریده به کنجی نشسته صم بکم\r\nبه از کسی که نباشد زبانش اندر حکم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبان‌بریده به کنجی نشسته صُمٌّ بُکمْ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه از کسی که نباشد زبانش اندر حُکم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 13,
+      "Number": 14,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شی",
+      "PlainText": "کنونت که امکان گفتار هست\r\nبگو ای برادر به لطف و خوشی\r\nکه فردا چو پیک اجل در رسید\r\nبه حکم ضرورت زبان در کشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنونت که امکان گفتار هست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگو ای برادر به لطف و خَوشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکه فردا چو پیک اجل در رسید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه حکم ضرورت زبان در کَشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 13,
+      "Number": 13,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "سی",
+      "PlainText": "هر دم از عمر می رود نفسی\r\nچون نگه می کنم نمانده بسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دم از عمر می رود نفسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نگه می‌کنم نمانده بسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 0
+    },
+    {
+      "Index": 14,
+      "Number": 14,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ابی",
+      "PlainText": "ای که پنجاه رفت و در خوابی\r\nمگر این پنج روز دریابی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای که پنجاه رفت و در خوابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر این پنج روز دریابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 0
+    },
+    {
+      "Index": 14,
+      "Number": 15,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ر",
+      "PlainText": "زبان در دهان ای خردمند چیست\r\nکلید در گنج صاحب هنر\r\nچو در بسته باشد چه داند کسی\r\nکه جوهرفروش است یا پیله ور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبان در دهان ای خردمند چیست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلیدِ درِ گنجِ صاحب هنر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو در بسته باشد چه داند کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه جوهرفروش است یا پیله‌ور؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 15,
+      "Number": 16,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "یز",
+      "PlainText": "چو جنگ آوری با کسی بر ستیز\r\nکه از وی گزیرت بود یا گریز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو جنگ آوری با کسی بر ستیز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از وی گزیرت بُوَد یا گریز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 15,
+      "Number": 15,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ارنساخت",
+      "PlainText": "خجل آن کس که رفت و کار نساخت\r\nکوس رحلت زدند و بار نساخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخجل آن کس که رفت و کار نساخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوس رحلت زدند و بار نساخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 0
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یل",
+      "PlainText": "خواب نوشین بامداد رحیل\r\nباز دارد پیاده را ز سبیل\r\nزبان در دهان ای خردمند چیست\r\nکلید در گنج صاحب هنر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوابِ نوشینِ بامدادِ رحیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز دارد پیاده را ز سبیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبان در دهان ای خردمند چیست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلیدِ درِ گنجِ صاحب هنر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 16,
+      "Number": 17,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ختان",
+      "PlainText": "پیراهن برگ بر درختان\r\nچون جامه عید نیک بختان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیراهنِ برگ، بر درختان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون جامهٔ عیدِ نیک‌بختان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 16,
+      "Number": 16,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "خواب نوشین بامداد رحیل\r\nباز دارد پیاده را ز سبیل\r\nزبان در دهان ای خردمند چیست\r\nکلید در گنج صاحب هنر",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخوابِ نوشینِ بامدادِ رحیل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباز دارد پیاده را ز سبیل\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزبان در دهان ای خردمند چیست؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلیدِ درِ گنجِ صاحب هنر\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ر",
+      "PlainText": "هر که آمد عمارتی نو ساخت\r\nرفت و منزل به دیگری پرداخت\r\nچو در بسته باشد چه داند کسی\r\nکه جوهرفروش است یا پیله ور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که آمد عمارتی نو ساخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفت و منزل به دیگری پرداخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو در بسته باشد چه داند کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه جوهرفروش است یا پیله‌ور؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 17,
+      "Number": 18,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ون",
+      "PlainText": "روضة ماء نهرها سلسال\r\nدوحة سجع طیرها موزون\r\nآن پر از لاله های رنگارنگ\r\nوین پر از میوه های گوناگون\r\nباد در سایه درختانش\r\nگسترانیده فرش بوقلمون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eروضةٌ ماءُ نهرِها سَلسال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدَوحةٌ سَجعُ طَیرِها موزون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن پر از لاله‌های رنگارنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین پر از میوه‌های گوناگون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eباد در سایهٔ درختانش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگسترانیده فرشِ بوقلمون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 17,
+      "Number": 17,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اخت",
+      "PlainText": "هر که آمد عمارتی نو ساخت\r\nرفت و منزل به دیگری پرداخت\r\nچو در بسته باشد چه داند کسی\r\nکه جوهرفروش است یا پیله ور",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که آمد عمارتی نو ساخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرفت و منزل به دیگری پرداخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچو در بسته باشد چه داند کسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه جوهرفروش است یا پیله‌ور؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "سی",
+      "PlainText": "وآن دگر پخت همچنین هوسی\r\nوین عمارت به سر نبرد کسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن دگر پخت همچنین هوسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین عمارت به سر نبرد کسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 18,
+      "Number": 19,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "د",
+      "PlainText": "به چه کار آیدت ز گل طبقی\r\nاز گلستان من ببر ورقی\r\nگل همین پنج روز و شش باشد\r\nوین گلستان همیشه خوش باشد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه چه کار آیدت ز گل طبقی؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز گلستان من بِبَر ورقی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگل همین پنج روز و شَش باشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین گلستان همیشه خوش باشد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 18,
+      "Number": 18,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "سی",
+      "PlainText": "وآن دگر پخت همچنین هوسی\r\nوین عمارت به سر نبرد کسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوآن دگر پخت همچنین هوسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوین عمارت به سر نبرد کسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دار",
+      "PlainText": "یار ناپایدار دوست مدار\r\nدوستی را نشاید این غدار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارِ ناپایدار، دوست مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوستی را نشاید این غدّار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 19,
+      "Number": 20,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگیست",
+      "PlainText": "گر التفات خداوندی اش بیاراید\r\nنگارخانه چینی و نقش ارتنگی ست\r\nامید هست که روی ملال در نکشد\r\nاز این سخن که گلستان نه جای دلتنگی ست\r\nعلی الخصوص که دیباچه همایونش\r\nبه نام سعد ابوبکر سعد بن زنگی ست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر التفات خداوندی‌اش بیاراید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنگارخانهٔ چینی و نقش اَرتَنگی‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eامید هست که روی ملال در نکشد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز این سخن که گلستان نه جای دلتنگی‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعلی الخصوص که دیباچهٔ همایونش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه نام سعدِ ابوبکرِ سعدِ بِنْ زنگی‌ست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 19,
+      "Number": 19,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "دار",
+      "PlainText": "یار ناپایدار دوست مدار\r\nدوستی را نشاید این غدار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیارِ ناپایدار، دوست مدار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدوستی را نشاید این غدّار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 20,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "رد",
+      "PlainText": "نیک و بد چون همی بباید مرد\r\nخنک آن کس که گوی نیکی برد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنیک و بد چون همی بباید مُرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخُنُک آن کس که گویِ نیکی بُرد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 20,
+      "Number": 21,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وست",
+      "PlainText": "هر که در سایه عنایت اوست\r\nگنهش طاعت است و دشمن دوست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که در سایهٔ عنایت اوست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگنهش طاعت است و دشمن، دوست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 21,
+      "Number": 22,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "امرا",
+      "PlainText": "پشت دوتای فلک راست شد از خرمی\r\nتا چو تو فرزند زاد مادر ایام را\r\nحکمت محض است اگر لطف جهان آفرین\r\nخاص کند بنده ای مصلحت عام را\r\nدولت جاوید یافت هر که نکونام زیست\r\nکز عقبش ذکر خیر زنده کند نام را\r\nوصف تو را گر کنند ور نکنند اهل فضل\r\nحاجت مشاطه نیست روی دلارام را",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپشتِ دوتایِ فلک، راست شد از خرّمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا چو تو فرزند زاد، مادر ایّام را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحکمتِ محض است اگر لطفِ جهان‌آفرین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخاص کند بنده‌ای مصلحتِ عام را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدولت جاوید یافت هر که نکونام زیست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکز عقبش ذکر خیر، زنده کند نام را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eوصف تو را گر کنند، ور نکنند اهل فضل\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحاجت مَشّاطه نیست، رویِ دلارام را\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 21,
+      "Number": 21,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "یشفرست",
+      "PlainText": "برگ عیشی به گور خویش فرست\r\nکس نیارد ز پس ز پیش فرست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرگِ عیشی به گور خویش فرست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نیارد ز پس، ز پیش فرست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 22,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "وز",
+      "PlainText": "عمر برف است و آفتاب تموز\r\nاندکی ماند و خواجه غره هنوز",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعمر برف است و آفتابِ تموز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاندکی ماند و خواجه غَرِّه هنوز\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 22,
+      "Number": 23,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "سخندان پرورده پیر کهن\r\nبیندیشد آن گه بگوید سخن\r\nمزن تا توانی به گفتار دم\r\nنکو گوی گر دیر گویی چه غم\r\nبیندیش وآن گه بر آور نفس\r\nوز آن پیش بس کن که گویند بس\r\nبه نطق آدمی بهتر است از دواب\r\nدواب از تو به گر نگویی صواب",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخندانِ پرورده پیرِ کهن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیندیشد، آن‌گه بگوید سخن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزن تا توانی به گفتار، دم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنکو گوی، گر دیر گویی چه غم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیندیش، وآن‌گه بر آور نفس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز آن پیش بس کن، که گویند «بس»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نطقْ آدمی بهتر است از دَواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدَواب از تو به، گر نگویی صواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 23,
+      "Number": 24,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "",
+      "PlainText": "هر که گردن به دعوی افرازد\r\nخویشتن را به گردن اندازد\r\nسعدی افتاده ای ست آزاده\r\nکس نیاید به جنگ افتاده\r\nاول اندیشه وآن گهی گفتار\r\nپای بست آمده ست و پس دیوار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که گردن به دعوی افرازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویشتن را به گردن اندازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعدی افتاده‌ای‌ست آزاده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نیاید به جنگ افتاده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاول اندیشه وآن‌گهی گفتار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپای‌بست آمده‌ست و پس دیوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Masnavi",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 23,
+      "Number": 23,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "ای تهی دست رفته در بازار\r\nترسمت پر نیاوری دستار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای تهی‌دستْ رفته در بازار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eترسمت پُر نیاوری دستار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ید",
+      "PlainText": "هر که مزروع خود بخورد به خوید\r\nوقت خرمنش خوشه باید چید\r\nسخندان پرورده پیر کهن\r\nبیندیشد آن گه بگوید سخن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که مزروع خود بخورد به خوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوقت خرمنش خوشه باید چید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخندانِ پرورده پیرِ کهن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیندیشد، آن‌گه بگوید سخن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 24,
+      "Number": 24,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ن",
+      "PlainText": "هر که مزروع خود بخورد به خوید\r\nوقت خرمنش خوشه باید چید\r\nسخندان پرورده پیر کهن\r\nبیندیشد آن گه بگوید سخن",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که مزروع خود بخورد به خوید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوقت خرمنش خوشه باید چید\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسخندانِ پرورده پیرِ کهن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبیندیشد، آن‌گه بگوید سخن\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 24,
+      "Number": 25,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "نگ",
+      "PlainText": "گر چه شاطر بود خروس به جنگ\r\nچه زند پیش باز رویین چنگ\r\nگربه شیر است در گرفتن موش\r\nلیک موش است در مصاف پلنگ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر چه شاطر بود خروس به جنگ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه زند پیش باز رویین چنگ؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگربه شیر است در گرفتن موش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eلیک موش است در مصاف پلنگ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "مزن تا توانی به گفتار دم\r\nنکو گوی گر دیر گویی چه غم\r\nهر که گردن به دعوی افرازد\r\nخویشتن را به گردن اندازد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزن تا توانی به گفتار، دم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنکو گوی، گر دیر گویی چه غم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که گردن به دعوی افرازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویشتن را به گردن اندازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 25,
+      "Number": 25,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ازد",
+      "PlainText": "مزن تا توانی به گفتار دم\r\nنکو گوی گر دیر گویی چه غم\r\nهر که گردن به دعوی افرازد\r\nخویشتن را به گردن اندازد",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمزن تا توانی به گفتار، دم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنکو گوی، گر دیر گویی چه غم؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر که گردن به دعوی افرازد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخویشتن را به گردن اندازد\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 25,
+      "Number": 26,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایی",
+      "PlainText": "بماند سال ها این نظم و ترتیب\r\nز ما هر ذره خاک افتاده جایی\r\nغرض نقشی ست کز ما باز ماند\r\nکه هستی را نمی بینم بقایی\r\nمگر صاحب دلی روزی به رحمت\r\nکند در کار درویشان دعایی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبمانَد سال‌ها این نظم و ترتیب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز ما هر ذرّه خاک افتاده جایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eغرض نقشی‌ست کز ما باز ماند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه هستی را نمی‌بینم بقایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمگر صاحب‌دلی روزی به رحمت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکند در کار درویشان دعایی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 3
+    },
+    {
+      "Index": 26,
+      "Number": 27,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "م",
+      "PlainText": "در این مدت که ما را وقت خوش بود\r\nز هجرت شش صد و پنجاه و شش بود\r\nمراد ما نصیحت بود و گفتیم\r\nحوالت با خدا کردیم و رفتیم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر این مدت که ما را وقت خوش بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eز هجرت شش‌صد و پنجاه و شش بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمراد ما نصیحت بود و گفتیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحوالت با خدا کردیم و رفتیم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghete",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اده",
+      "PlainText": "بیندیش وآن گه بر آور نفس\r\nوز آن پیش بس کن که گویند بس\r\nسعدی افتاده ای ست آزاده\r\nکس نیاید به جنگ افتاده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیندیش، وآن‌گه بر آور نفس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز آن پیش بس کن، که گویند «بس»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعدی افتاده‌ای‌ست آزاده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نیاید به جنگ افتاده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 26,
+      "Number": 26,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "س",
+      "PlainText": "بیندیش وآن گه بر آور نفس\r\nوز آن پیش بس کن که گویند بس\r\nسعدی افتاده ای ست آزاده\r\nکس نیاید به جنگ افتاده",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبیندیش، وآن‌گه بر آور نفس\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز آن پیش بس کن، که گویند «بس»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسعدی افتاده‌ای‌ست آزاده\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکس نیاید به جنگ افتاده\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "واب",
+      "PlainText": "به نطق آدمی بهتر است از دواب\r\nدواب از تو به گر نگویی صواب\r\nاول اندیشه وآن گهی گفتار\r\nپای بست آمده ست و پس دیوار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نطقْ آدمی بهتر است از دَواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدَواب از تو به، گر نگویی صواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاول اندیشه وآن‌گهی گفتار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپای‌بست آمده‌ست و پس دیوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 27,
+      "Number": 27,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ار",
+      "PlainText": "به نطق آدمی بهتر است از دواب\r\nدواب از تو به گر نگویی صواب\r\nاول اندیشه وآن گهی گفتار\r\nپای بست آمده ست و پس دیوار",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه نطقْ آدمی بهتر است از دَواب\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدَواب از تو به، گر نگویی صواب\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاول اندیشه وآن‌گهی گفتار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپای‌بست آمده‌ست و پس دیوار\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 28,
+      "Number": 28,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "شتیبان",
+      "PlainText": "چه غم دیوار امت را که دارد چون تو پشتیبان\r\nچه باک از موج بحر آن را که باشد نوح کشتی بان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه غم دیوارِ امّت را که دارد چون تو پشتیبان؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه باک از موجِ بحر آن را که باشد نوح، کَشتی‌بان؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 29,
+      "Number": 29,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "شتیبان",
+      "PlainText": "چه غم دیوار امت را که دارد چون تو پشتیبان\r\nچه باک از موج بحر آن را که باشد نوح کشتی بان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه غم دیوارِ امّت را که دارد چون تو پشتیبان؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه باک از موجِ بحر آن را که باشد نوح، کَشتی‌بان؟\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 30,
+      "Number": 30,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "اله",
+      "PlainText": "بلغ العلیٰ بکماله کشف الدجیٰ بجماله\r\nحسنت جمیع خصاله صلوا علیه و آله",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبَلَغَ الْعُلیٰ بِکمالِهِ، کَشَفَ الدُّجیٰ بِجَمالِهِ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحَسُنتْ جَمیعُ خِصالِه، صَلُّوا علیه و آلِهِ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 31,
+      "Number": 31,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اله",
+      "PlainText": "بلغ العلیٰ بکماله کشف الدجیٰ بجماله\r\nحسنت جمیع خصاله صلوا علیه و آله",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبَلَغَ الْعُلیٰ بِکمالِهِ، کَشَفَ الدُّجیٰ بِجَمالِهِ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eحَسُنتْ جَمیعُ خِصالِه، صَلُّوا علیه و آلِهِ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "Language": "ar",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 32,
+      "Number": 32,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اندهایم",
+      "PlainText": "ای برتر از خیال و قیاس و گمان و وهم\r\nوز هر چه گفته اند و شنیدیم و خوانده ایم\r\nمجلس تمام گشت و به آخر رسید عمر\r\nما همچنان در اول وصف تو مانده ایم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای برتر از خیال و قیاس و گمان و وهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز هر چه گفته‌اند و شنیدیم و خوانده‌ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجلس تمام گشت و به آخر رسید عمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما همچنان در اوّلِ وصفِ تو مانده‌ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 33,
+      "Number": 33,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "راست",
+      "PlainText": "زآن گه که تو را بر من مسکین نظر است\r\nآثارم از آفتاب مشهورتر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزآن گه که تو را بر من مسکین نظر است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآثارم از آفتاب مشهورتر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 34,
+      "Number": 34,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ت",
+      "PlainText": "ای برتر از خیال و قیاس و گمان و وهم\r\nوز هر چه گفته اند و شنیدیم و خوانده ایم\r\nگر خود همه عیب ها بدین بنده در است\r\nهر عیب که سلطان بپسندد هنر است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای برتر از خیال و قیاس و گمان و وهم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز هر چه گفته‌اند و شنیدیم و خوانده‌ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر خود همه عیب‌ها بدین بنده در است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهر عیب که سلطان بپسندد، هنر است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 35,
+      "Number": 35,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "م",
+      "PlainText": "مجلس تمام گشت و به آخر رسید عمر\r\nما همچنان در اول وصف تو مانده ایم\r\nگلی خوش بوی در حمام روزی\r\nرسید از دست محبوبی به دستم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمجلس تمام گشت و به آخر رسید عمر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eما همچنان در اوّلِ وصفِ تو مانده‌ایم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگِلی خوش‌بوی در حمام روزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرسید از دست محبوبی به دستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 36,
+      "Number": 36,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ستم",
+      "PlainText": "گلی خوش بوی در حمام روزی\r\nرسید از دست محبوبی به دستم\r\nبدو گفتم که مشکی یا عبیری\r\nکه از بوی دلاویز تو مستم\r\nبگفتا من گلی ناچیز بودم\r\nو لیکن مدتی با گل نشستم\r\nکمال همنشین در من اثر کرد\r\nوگرنه من همان خاکم که هستم",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگِلی خوش‌بوی در حمام روزی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرسید از دست محبوبی به دستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدو گفتم که «مشکی یا عبیری؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از بوی دلاویز تو مستم؟»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگفتا: «من گِلی ناچیز بودم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو لیکن مدّتی با گُل نشستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکمال همنشین در من اثر کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگرنه من همان خاکم که هستم»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 4
+    },
+    {
+      "Index": 37,
+      "Number": 37,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ی",
+      "PlainText": "بدو گفتم که مشکی یا عبیری\r\nکه از بوی دلاویز تو مستم\r\nهر دم از عمر می رود نفسی\r\nچون نگه می کنم نمانده بسی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبدو گفتم که «مشکی یا عبیری؟\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه از بوی دلاویز تو مستم؟»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهر دم از عمر می‌رود نفسی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون نگه می‌کنم نمانده بسی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 38,
+      "Number": 38,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ی",
+      "PlainText": "بگفتا من گلی ناچیز بودم\r\nو لیکن مدتی با گل نشستم\r\nای که پنجاه رفت و در خوابی\r\nمگر این پنج روز دریابی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبگفتا: «من گِلی ناچیز بودم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eو لیکن مدّتی با گُل نشستم\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای که پنجاه رفت و در خوابی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمگر این پنج روز دریابی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 39,
+      "Number": 39,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ت",
+      "PlainText": "کمال همنشین در من اثر کرد\r\nوگرنه من همان خاکم که هستم\r\nخجل آن کس که رفت و کار نساخت\r\nکوس رحلت زدند و بار نساخت",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکمال همنشین در من اثر کرد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوگرنه من همان خاکم که هستم»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخجل آن کس که رفت و کار نساخت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکوسِ رحلت زدند و بار نساخت\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 40,
+      "Number": 40,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "وشی",
+      "PlainText": "اگر چه پیش خردمند خامشی ادب است\r\nبه وقت مصلحت آن به که در سخن کوشی\r\nدو چیز طیره عقل است دم فرو بستن\r\nبه وقت گفتن و گفتن به وقت خاموشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه پیشِ خردمند خامُشی ادب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه وقتِ مصلحت آن به، که در سخن کوشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو چیز طَیرهٔ عقل است، دم فرو بستن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه وقتِ گفتن و گفتن به وقتِ خاموشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 41,
+      "Number": 41,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "بهوقتمصلحتانبهکهدرسخنکوشی",
+      "PlainText": "اگر چه پیش خردمند خامشی ادب است\r\nبه وقت مصلحت آن به که در سخن کوشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاگر چه پیشِ خردمند خامُشی ادب است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه وقتِ مصلحت آن به، که در سخن کوشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 42,
+      "Number": 42,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "بهوقتگفتنوگفتنبهوقتخاموشی",
+      "PlainText": "دو چیز طیره عقل است دم فرو بستن\r\nبه وقت گفتن و گفتن به وقت خاموشی",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو چیز طَیرهٔ عقل است، دم فرو بستن\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه وقتِ گفتن و گفتن به وقتِ خاموشی\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 43,
+      "Number": 43,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ضبان",
+      "PlainText": "اول اردیبهشت  ماه جلالی\r\nبلبل گوینده بر منابر قضبان\r\nبر گل سرخ از نم اوفتاده لآلی\r\nهمچو عرق بر عذار شاهد غضبان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاوّلِ اردیبهشت‌ ماهِ جلالی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلبلْ گوینده بر منابرِ قُضبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر گل سرخ از نم اوفتاده لَآلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو عرق بر عُذارِ شاهدِ غَضْبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    },
+    {
+      "Index": 44,
+      "Number": 44,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "بلبلگویندهبرمنابرقضبان",
+      "PlainText": "اول اردیبهشت  ماه جلالی\r\nبلبل گوینده بر منابر قضبان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاوّلِ اردیبهشت‌ ماهِ جلالی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبلبلْ گوینده بر منابرِ قُضبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 45,
+      "Number": 45,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "همچوعرقبرعذارشاهدغضبان",
+      "PlainText": "بر گل سرخ از نم اوفتاده لآلی\r\nهمچو عرق بر عذار شاهد غضبان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر گل سرخ از نم اوفتاده لَآلی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهمچو عرق بر عُذارِ شاهدِ غَضْبان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    },
+    {
+      "Index": 46,
+      "Number": 46,
+      "SectionType": "Couplet",
+      "VerseType": "Second",
+      "RhymeLetters": "ختان",
+      "PlainText": "پیراهن برگ بر درختان\r\nچون جامه عید نیک بختان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپیراهنِ برگ، بر درختان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون جامهٔ عیدِ نیک‌بختان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "CoupletsCount": 1
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Paragraph",
+      "Text": "بِسْمِ اللَّهِ الرَّحْمنِ الرَّحیم",
+      "CoupletIndex": 0,
+      "CoupletSummary": ""
+    },
+    {
+      "VOrder": 2,
+      "Position": "Paragraph",
+      "Text": "مِنّت خدای را عَزَّ وَ جَلَّ که طاعتش موجبِ قُربَت است و به شُکر اندرش مَزیدِ نعمت. هر نفسی که فرو می‌رود مُمدِّ حیات است و چون بر می‌آید مُفَرِّحِ ذات. پس در هر نفسی دو نعمت موجود است و بر هر نعمتی شکری واجب.",
+      "CoupletIndex": 1,
+      "CoupletSummary": "سپاسگزاریم از خداوند -که عزیز و جلیل است- که فرمانبرداری از او باعث نزدیکی به اوست و شکرگزاری او سبب افزایش نعمت‌ها می‌شود. هر نفسی که به درون می‌کشیم، ادامه‌دهندهٔ حیات است و وقتی که نفس را بیرون می‌دهیم، شادی‌آفرین است. بنابراین، در هر نفسی دو نعمت وجود دارد و بر هر نعمتی شکرگزاری لازم است."
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "از دست و زبان که برآید",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "چه کسی می‌تواند از عهدهٔ شکرگزاری او بربیاید؟ (هیچکس)\u00A0"
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کز عُهدهٔ شکرش به در‌آید؟",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Paragraph",
+      "Text": "اِعمَلوا آلَ داودَ شُکراً وَ قَلیلٌ مِن عبادیَ الشَّکور",
+      "CoupletIndex": 3,
+      "CoupletSummary": "ای آل داوود، شکرگزاری کنید و کم هستند کسانی از بندگان من که شکرگزاری می‌کنند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Right",
+      "Text": "بنده همان به که ز تقصیرِ خویش",
+      "CoupletIndex": 4,
+      "SectionIndex1": 1,
+      "CoupletSummary": "بهتر است بنده و مخلوق به خاطر کوتاهی خود از خداوند عذرخواهی کند و به درگاه او متوسل شود."
+    },
+    {
+      "VOrder": 7,
+      "Position": "Left",
+      "Text": "عُذر به درگاهِ خدای آورد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 1
+    },
+    {
+      "VOrder": 8,
+      "Position": "Right",
+      "Text": "وَر نه سِزاوار خداوندی‌اش",
+      "CoupletIndex": 5,
+      "SectionIndex1": 1,
+      "CoupletSummary": "وگرنه که هیچکسی نمی‌تواند آنگونه که سزاوار و شایستهٔ خداوند است، شکرگزار باشد و شکرگزاری را به‌جا بیاورد.\u00A0"
+    },
+    {
+      "VOrder": 9,
+      "Position": "Left",
+      "Text": "کس نتواند که به جای آورد",
+      "CoupletIndex": 5,
+      "SectionIndex1": 1
+    },
+    {
+      "VOrder": 10,
+      "Position": "Paragraph",
+      "Text": "بارانِ رحمتِ بی‌حسابش همه را رسیده و خوانِ نعمتِ بی‌دَریغَش همه جا کشیده. پردهٔ ناموسِ بندگان به گناهِ فاحش نَدَرَد و وظیفهٔ روزی به خطایِ مُنکَر، نَبُرَد.",
+      "CoupletIndex": 6,
+      "CoupletSummary": "باران رحمت الهی بی‌حساب او بر همه نازل شده و سفرهٔ لطف و نعمت همه‌شمول او در همه جا گسترده است. پردهٔ عفت بندگان را به خاطر گناهان بزرگ هم ندراند و مقرر شدهٔ روزی آنها را به دلیل خطاهای ناپسند قطع نخواهد کرد."
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "ای کریمی که از خزانهٔ غیب",
+      "CoupletIndex": 7,
+      "SectionIndex1": 2,
+      "CoupletSummary": "ای بخشاینده، تو که از گنجینهٔ پنهان به همه، حتی آتش پرستان و مسیحیان، لطف و نعمت می‌رسانی."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "گَبر و تَرسا وظیفه‌خور داری",
+      "CoupletIndex": 7,
+      "SectionIndex1": 2
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "دوستان را کجا کنی محروم؟",
+      "CoupletIndex": 8,
+      "SectionIndex1": 2,
+      "CoupletSummary": "قطعا دوستانت را از خودت نمی‌رانی، تو که اینطور به دشمنان خودت لطف و نظر داری."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "تو که با دشمن این نظر داری",
+      "CoupletIndex": 8,
+      "SectionIndex1": 2
+    },
+    {
+      "VOrder": 15,
+      "Position": "Paragraph",
+      "Text": "فرّاشِ بادِ صبا را گفته تا فرشِ زُمُرُّدی بِگُستَرد و دایهٔ ابرِ بهاری را فرموده تا بَناتِ نَبات در مَهدِ زمین بپرورد. درختان را به خَلعَتِ نوروزی، قبایِ سبزِ ورق در بر گرفته و اَطفالِ شاخ را به قدومِ موسمِ ربیع، کلاهِ شکوفه بر سر نهاده. عصارهٔ نالی به قدرت او شهدِ فایق شده و تخم خرمایی به تربیتش نخلِ باسق گشته.",
+      "CoupletIndex": 9,
+      "CoupletSummary": "به باد صبا که مثل فرش‌گستری‌ست گفته تا بر روی زمین فرشی زمردین و سبز بگستراند و به ابرهای بهاری که مانند دایه‌های زمین هستند فرموده تا دخترکان گیاه را در گهوارهٔ زمین پرورش دهند. به درختان لباس پیشکش نوروزی بخشیده و انگار که عریانی درختان را با برگ‌های سبز پوشانده باشد و بر سر شاخه‌های جوان به میمنت رسیدن فصل بهار کلاهی از شکوفه گذاشته‌ است. افشردهٔ نی‌های باریک به لطف او شهدی برتر و خالص شده و دانه‌های خرما زیر نظر او به درختان بلند تبدیل شده‌اند."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Right",
+      "Text": "ابر و باد و مَه و خورشید و فلک در کارند",
+      "CoupletIndex": 10,
+      "SectionIndex1": 3,
+      "CoupletSummary": "همه‌ی عوامل مختلف طبیعت، از جمله ابر، باد، ماه، خورشید و حرکات آسمانی، همه تلاش می‌کنند تا تو بتوانی لقمه‌ای به دست بیاوری و به سادگی و بی‌توجهی از کنار آن گذر نکنی."
+    },
+    {
+      "VOrder": 17,
+      "Position": "Left",
+      "Text": "تا تو نانی به کف آری و به غفلت نخوری",
+      "CoupletIndex": 10,
+      "SectionIndex1": 3
+    },
+    {
+      "VOrder": 18,
+      "Position": "Right",
+      "Text": "همه از بَهرِ تو سرگشته و فرمانبُردار",
+      "CoupletIndex": 11,
+      "SectionIndex1": 3,
+      "CoupletSummary": "همه به خاطر تو سرگردان و مطیع هستند و این انصاف نیست که تو اطاعت نکنی."
+    },
+    {
+      "VOrder": 19,
+      "Position": "Left",
+      "Text": "شرط انصاف نباشد که تو فرمان نبری",
+      "CoupletIndex": 11,
+      "SectionIndex1": 3
+    },
+    {
+      "VOrder": 20,
+      "Position": "Paragraph",
+      "Text": "در خبر است از سَرور کائنات و مَفْخَرِ موجودات و رحمتِ عالَمیان و صَفوتِ آدمیان و تتمهٔ دورِ زمان، محمد مصطفی صلی الله علیه و سلم،",
+      "CoupletIndex": 12,
+      "CoupletSummary": "در خبر است از آقا و والامنسب کائنات و افتخار موجودات و رحمت جهانیان و برگزیدهٔ آدمیان و نتیجهٔ زمان، محمد مصطفی صلی الله علیه و سلم."
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "شفیعٌ مطاعٌ نَبیٌ کریم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 4,
+      "SectionIndex2": 6,
+      "CoupletSummary": "مردی شفاعت‌کننده، پیروی‌شونده، پیامبری بزرگوار و نیکو، زیبا، خوش‌اندام، گشاده‌رو و آراسته."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "قسیمٌ جسیمٌ نسیمٌ وسیم",
+      "CoupletIndex": 13,
+      "SectionIndex1": 4,
+      "SectionIndex2": 6
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "چه غم دیوارِ امّت را که دارد چون تو پشتیبان؟",
+      "CoupletIndex": 14,
+      "SectionIndex1": 28,
+      "SectionIndex2": 29,
+      "CoupletSummary": "\u00A0غم و نگرانی برای مومنان نیست ، وقتی تو پشتیبان آن هستی. از طوفان و امواج دریا ترسی نیست وقتی نوح، کشتی‌بان کشتی باشد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "چه باک از موجِ بحر آن را که باشد نوح، کَشتی‌بان؟",
+      "CoupletIndex": 14,
+      "SectionIndex1": 28,
+      "SectionIndex2": 29
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "بَلَغَ الْعُلیٰ بِکمالِهِ، کَشَفَ الدُّجیٰ بِجَمالِهِ",
+      "CoupletIndex": 15,
+      "SectionIndex1": 31,
+      "SectionIndex2": 30,
+      "CoupletSummary": "با پیمودن درجات کمال به اوج آن رسید، تاریکی‌ها را با زیبایی‌اش روشن کرد. ویژگی‌هایش همه زیبا و نیکو هستند، بر او و خاندانش درود بفرستید."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "حَسُنتْ جَمیعُ خِصالِه، صَلُّوا علیه و آلِهِ",
+      "CoupletIndex": 15,
+      "SectionIndex1": 31,
+      "SectionIndex2": 30
+    },
+    {
+      "VOrder": 27,
+      "Position": "Paragraph",
+      "Text": "هر گاه که یکی از بندگان گنهکارِ پریشان‌روزگار، دست اِنابت به امید اِجابت به درگاه حق جلَّ و علا بردارد، ایزد تعالی در وی نظر نکند. بازش بخواند باز اِعراض کند. بازش به تضرّع و زاری بخواند؛ حق سبحانه و تعالی فرماید:",
+      "CoupletIndex": 16,
+      "CoupletSummary": "هر زمان که یکی از بندگان گناهکار و دردمند، با امید به اجابت دعا، دست‌های خود را به قصد توبه به سوی خداوند-که جلیل و بلندمرتبه است- بلند کند، خداوند به او توجه نمی‌کند. اگر بار دیگر او دعا کند، باز هم خداوند روی برمی‌گرداند و اگر باز با زاری و التماس او را بخواند، خداوند -که پاک و برتر از توصیف است- می‌فرماید:"
+    },
+    {
+      "VOrder": 28,
+      "Position": "Paragraph",
+      "Text": "«یا ملائکتی قَد استَحْیَیتُ مِن عبدی و لَیس لَهُ غَیری فَقد غَفَرتُ لَهُ»",
+      "CoupletIndex": 17,
+      "CoupletSummary": "ای فرشتگانم، من از بنده‌ام شرمنده شده‌ام و او جز من هیچکسی را ندارد، پس من او را بخشیدم."
+    },
+    {
+      "VOrder": 29,
+      "Position": "Paragraph",
+      "Text": "دعوتش را اجابت کردم و حاجتش برآوردم که از بسیاریِ دعا و زاریِ بنده همی شرم دارم.",
+      "CoupletIndex": 18,
+      "CoupletSummary": "دعوتش را پذیرفتم و خواسته‌اش را برآوردم، چرا که از دعا و درخواست زیاد بنده شرمنده شده‌ام."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Right",
+      "Text": "کَرَم بین و لطف خداوندْگار",
+      "CoupletIndex": 19,
+      "SectionIndex1": 5,
+      "CoupletSummary": "لطف خداوند را ببین که گناه را بنده مرتکب شده است اما با این حال اوست که احساس شرمندگی می کند."
+    },
+    {
+      "VOrder": 31,
+      "Position": "Left",
+      "Text": "گُنه بنده کرده‌ست و او شرمسار",
+      "CoupletIndex": 19,
+      "SectionIndex1": 5
+    },
+    {
+      "VOrder": 32,
+      "Position": "Paragraph",
+      "Text": "عاکفانِ کعبهٔ جلالش به تقصیرِ عبادت معترف که «ما عَبَدْناکَ حقّ عبادتِک» و واصفانِ حلیهٔ جمالش به تحیّر منسوب که «ما عَرَفناکَ حقَّ مَعرِفتِک».",
+      "CoupletIndex": 20,
+      "CoupletSummary": "مقیمان کعبهٔ عظمتش به کوتاهی در عبادت اعتراف می‌کنند که ما نتوانسته‌ایم تو را به اندازهٔ شایسته‌ات بندگی کنیم و توصیف‌ کنندگان زیبایی‌اش متحیر و شگفت‌زده‌اند که ما نتوانسته‌ایم تو را به درستی بشناسیم."
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "گر کسی وصف او ز من پرسد",
+      "CoupletIndex": 21,
+      "SectionIndex1": 6,
+      "CoupletSummary": "اگر کسی درباره‌ی او از من بپرسد، منِ دل‌باخته‌ چیزی نمی‌توانم از او که بی‌نشان است بگویم."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "بی‌دل از بی‌نشان چه گوید باز؟",
+      "CoupletIndex": 21,
+      "SectionIndex1": 6
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "عاشقان، کشتگان معشوقند",
+      "CoupletIndex": 22,
+      "SectionIndex1": 6,
+      "CoupletSummary": "من مثل عاشقانی هستم که برای معشوق جان باخته‌اند و از کشته‌شدگان صدایی برنمی‌آید."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "بَر نیاید ز کشتگان آواز",
+      "CoupletIndex": 22,
+      "SectionIndex1": 6
+    },
+    {
+      "VOrder": 37,
+      "Position": "Paragraph",
+      "Text": "یکی از صاحبدلان سر به جَیبِ مراقبت فرو برده بود و در بحرِ مکاشفت مستغرَق شده. حالی که از این معامله باز آمد یکی از دوستان گفت: «از این بُستان که بودی ما را چه تحفه کرامت کردی؟» گفت: «به خاطر داشتم که چون به درخت گل رسم دامنی پر کنم هدیهٔ اصحاب را، چون برسیدم بوی گلم چنان مست کرد که دامنم از دست برفت».",
+      "CoupletIndex": 23,
+      "CoupletSummary": "یکی از افراد فرزانه در حال مراقبه بود و در دنیای مکاشفه غرق شده بود. وقتی به حالت عادی برگشت، یکی از دوستانش از او پرسید: چه چیزی از آن بوستان (کتاب دیگر سعدی) برای ما آورده‌ای؟ او گفت: به یاد داشتم که وقتی به درخت گل رسیدم، دامنم را پر از گل‌های هدیه کنم، اما وقتی به آنجا رسیدم، بوی گل چنان مرا مسحور کرد که از خود بی‌خود شدم."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Right",
+      "Text": "ای مرغ سحر! عشق ز پروانه بیاموز",
+      "CoupletIndex": 24,
+      "SectionIndex1": 7,
+      "SectionIndex2": 9,
+      "CoupletSummary": "ای پرنده صبح، عشق را از پروانه یاد بگیر که در راه رسیدن به معشوق سوخت، جانش را از دست داد اما صدایش درنیامد و اعتراضی نکرد."
+    },
+    {
+      "VOrder": 39,
+      "Position": "Left",
+      "Text": "کآن سوخته را جان شد و آواز نیامد",
+      "CoupletIndex": 24,
+      "SectionIndex1": 7,
+      "SectionIndex2": 9
+    },
+    {
+      "VOrder": 40,
+      "Position": "Right",
+      "Text": "این مدعیان در طلبش بی‌خبرانند",
+      "CoupletIndex": 25,
+      "SectionIndex1": 7,
+      "SectionIndex2": 10,
+      "CoupletSummary": "این افرادی که ادعا می‌کنند و فریاد برمی‌دارند که در جستجوی او هستند، بی‌خبرند و لاف دروغ می‌زنند. چرا که کسی که به آگاهی رسیده، از آگاهی‌ای که دارد، چیزی نمی‌گوید."
+    },
+    {
+      "VOrder": 41,
+      "Position": "Left",
+      "Text": "کآن را که خبر شد، خبری باز نیامد",
+      "CoupletIndex": 25,
+      "SectionIndex1": 7,
+      "SectionIndex2": 10
+    },
+    {
+      "VOrder": 42,
+      "Position": "Right",
+      "Text": "ای برتر از خیال و قیاس و گمان و وهم",
+      "CoupletIndex": 26,
+      "SectionIndex1": 32,
+      "SectionIndex2": 34,
+      "CoupletSummary": "ای که از هر نوع خیال، تصور، گمان، وهم، از هر آنچه که گفته‌اند، شنیده‌ایم یا خوانده‌ایم، برتر هستی...\u00A0"
+    },
+    {
+      "VOrder": 43,
+      "Position": "Left",
+      "Text": "وز هر چه گفته‌اند و شنیدیم و خوانده‌ایم",
+      "CoupletIndex": 26,
+      "SectionIndex1": 32,
+      "SectionIndex2": 34
+    },
+    {
+      "VOrder": 44,
+      "Position": "Right",
+      "Text": "مجلس تمام گشت و به آخر رسید عمر",
+      "CoupletIndex": 27,
+      "SectionIndex1": 32,
+      "SectionIndex2": 35,
+      "CoupletSummary": "میهمانی تمام شد و عمر ما به پایان رسید، اما ما هنوز در شروع توصیف مانده‌ و درمانده‌ایم."
+    },
+    {
+      "VOrder": 45,
+      "Position": "Left",
+      "Text": "ما همچنان در اوّلِ وصفِ تو مانده‌ایم",
+      "CoupletIndex": 27,
+      "SectionIndex1": 32,
+      "SectionIndex2": 35
+    },
+    {
+      "VOrder": 46,
+      "Position": "Paragraph",
+      "Text": "ذکر جمیل سعدی که در افواه عوام افتاده است و صِیت سخنش که در بسیط زمین رفته و قَصْبُ الْجَیبِ حدیثش که همچون شکر می‌خورند و رُقعهٔ مُنشئاتش که چون کاغذ زر می‌برند بر کمال فضل و بلاغت او حمل نتوان کرد؛ بلکه خداوند جهان و قطب دایرهٔ زمان و قائم‌مقام سلیمان و ناصر اهل ایمان اتابک اعظم مظفر الدنیا و الدین ابوبکر بن سعد بن زنگی ظِلُّ اللهِ تَعالیٰ في أَرضِهِ؛ رَبِّ ارْضَ عَنهُ و أَرْضِه، به عین عنایت نظر کرده است و تحسین بلیغ فرموده و ارادت صادق نموده، لاجرم کافّهٔ اَنام از خواص و عوام به محبت او گراییده‌اند که الناسُ عَلیٰ دینِ مُلُوکِهم.",
+      "CoupletIndex": 28,
+      "CoupletSummary": "ذکر خیر سعدی که در دهان‌ عامهٔ مردم رواج پیدا کرده و شهرت کلامش در سرتاسر زمین پخش شده است و نوشته‌های او (قصب الجیب لوله‌ای فلزی بوده از طلا یا نقره که مثل نی دارای بندها و گوه‌هایی بوده و در گذشته مطالب ضروری را در کاغذی نوشته، در آن لوله قرار داده و در گریبان می‌گذاشتند و به نوعی مانند دفترچهٔ همراه استفاده می‌شده. برای همین به آن قصب الجیب می‌گفتند که قَصب یعنی نی و جَیب یعنی گریبان) همچون شیرینی خورده می‌شود و برگهٔ نوشته‌هایش که مثل کاغذ زرین خرید و فروش می‌شود، نباید تنها عامل را سعدی در نظر گرفت. بلکه پادشاه عالم و مرکز دایرهٔ زمان و قائم مقام سلیمان و یاری دهندهٔ اهل ایمان، معلم بزرگ و کامیاب دنیا و دین، ابوبکر ابن سعد ابن زنگی، سایهٔ خداوند بر زمینش، خداوندا از او خشنود باش و خشنودش ساز، به چشم محبت و لطف به سعدی توجه داشته و او را بسیار تحسین کرده و دوستی صادق نموده. به همین دلیل، همه مردم، چه خاص و چه عام، به محبت او گرایش یافته‌اند؛ که مردم به دین پادشاهان خود عمل می‌کنند."
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "زآن گه که تو را بر من مسکین نظر است",
+      "CoupletIndex": 29,
+      "SectionIndex1": 8,
+      "SectionIndex2": 33,
+      "CoupletSummary": "از زمانی که نگاه تو بر منِ مسکین نگاه می‌کنی، آثار من از آفتاب هم مشهورتر شده است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "آثارم از آفتاب مشهورتر است",
+      "CoupletIndex": 29,
+      "SectionIndex1": 8,
+      "SectionIndex2": 33
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "گر خود همه عیب‌ها بدین بنده در است",
+      "CoupletIndex": 30,
+      "SectionIndex1": 8,
+      "SectionIndex2": 34,
+      "CoupletSummary": "حتی اگر تمام عیب‌ها در من وجود داشته باشد، چون آن عیب مورد پسند سلطان است، هنر محسوب می‌شود."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "هر عیب که سلطان بپسندد، هنر است",
+      "CoupletIndex": 30,
+      "SectionIndex1": 8,
+      "SectionIndex2": 34
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "گِلی خوش‌بوی در حمام روزی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 36,
+      "SectionIndex2": 35,
+      "CoupletSummary": "روزی در حمام، گِلی خوشبو از دستان دوستی به دستم رسید."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "رسید از دست محبوبی به دستم",
+      "CoupletIndex": 31,
+      "SectionIndex1": 36,
+      "SectionIndex2": 35
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "بدو گفتم که «مشکی یا عبیری؟",
+      "CoupletIndex": 32,
+      "SectionIndex1": 36,
+      "SectionIndex2": 37,
+      "CoupletSummary": "از او پرسیدم آیا تو مُشک هستی یا عنبر؟ که بوی دل‌انگیز تو مرا شگفت‌زده کرده است."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "که از بوی دلاویز تو مستم؟»",
+      "CoupletIndex": 32,
+      "SectionIndex1": 36,
+      "SectionIndex2": 37
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "بگفتا: «من گِلی ناچیز بودم",
+      "CoupletIndex": 33,
+      "SectionIndex1": 36,
+      "SectionIndex2": 38,
+      "CoupletSummary": "او گفت که من در ابتدا یک تکه گِل بی‌ارزش بودم، اما چون مدتی کنار گل‌هایی خوش‌بو بودم و با آن‌ها نشست و برخاست کردم، خوش‌بو شدم."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "و لیکن مدّتی با گُل نشستم",
+      "CoupletIndex": 33,
+      "SectionIndex1": 36,
+      "SectionIndex2": 38
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "کمال همنشین در من اثر کرد",
+      "CoupletIndex": 34,
+      "SectionIndex1": 36,
+      "SectionIndex2": 39,
+      "CoupletSummary": "دوستی و همراهی با هم‌نشینان باکمالات روی من اثر گذاشت و باعث شد که من هم باارزش بشوم، وگرنه من همان خاک و گِل ساده و بی‌ارزشی هستم که همیشه بوده‌ام."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "وگرنه من همان خاکم که هستم»",
+      "CoupletIndex": 34,
+      "SectionIndex1": 36,
+      "SectionIndex2": 39
+    },
+    {
+      "VOrder": 59,
+      "Position": "Paragraph",
+      "Text": "اللّهمَ مَتِّعِ المسلمینَ بطولِ حیاتِه و ضاعِفْ جمیلَ حَسَناتِه و ارْفَعْ دَرَجةَ أَوِدّائه و وُلاتِه وَ دَمِّرْ عَلیٰ أَعْدائه و شُناتِه بما تُلِيَ في القرآنِ مِنْ آیاتِهِ اللّهُم آمِنْ بَلَدَه و احْفَظْ وَلَدَه",
+      "CoupletIndex": 35,
+      "CoupletSummary": "خداوندا، مسلمانان را از طول حیات او بهره‌مند کن و خوبی‌هایش را چندین برابر کن و مقام دوستان و حاکمانش را بالا ببر. دشمنان و بدخواهانش را نابود کن و به حقِ آن‌چه در قرآن خوانده می‌شود؛ خداوندا، کشورشان را در امان نگه‌دار و فرزندانش را حفظ کن."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Right",
+      "Text": "لَقَد سَعِدَ الدُنیا بهِ دامَ سَعدُه",
+      "CoupletIndex": 36,
+      "SectionIndex1": 9,
+      "CoupletSummary": "به راستی که دنیا به وجود او سعادت یافت. سعادت او پاینده باشد و خداوند با پرچم‌های پیروزی او را یاری کند."
+    },
+    {
+      "VOrder": 61,
+      "Position": "Left",
+      "Text": "وَ أَیَّدَهُ الْمَولیٰ بِأَلوِیَةِ النَّصرِ",
+      "CoupletIndex": 36,
+      "SectionIndex1": 9
+    },
+    {
+      "VOrder": 62,
+      "Position": "Right",
+      "Text": "کذلکَ یَنْشَأُ لینةٌ هو عِرقُها",
+      "CoupletIndex": 37,
+      "SectionIndex1": 9,
+      "CoupletSummary": "که این‌چنین می‌رویَد ساقه‌ای که او ریشهٔ آن است. که خوبی و زیبایی گیاهِ زمین، بستگی به خوبی بذر آن دارد."
+    },
+    {
+      "VOrder": 63,
+      "Position": "Left",
+      "Text": "و حُسنُ نباتِ الْأَرضِ من کَرمِ الْبَذرِ",
+      "CoupletIndex": 37,
+      "SectionIndex1": 9
+    },
+    {
+      "VOrder": 64,
+      "Position": "Paragraph",
+      "Text": "ایزدِ تعالی و تقدّس، خطهٔ پاک شیراز را به هیبت حاکمان عادل و همت عالمان عامل تا زمان قیامت در امان سلامت نگه داراد.",
+      "CoupletIndex": 38,
+      "CoupletSummary": "انشاءالله خداوند -که بلندمرتبه و پاک است- سرزمین مقدس شیراز را به واسطهٔ وجود حاکمان عادل و تلاش علمای اهل عمل تا روز قیامت در امنیت و سلامت حفظ کند.\u00A0"
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "اقلیم پارس را غم از آسیب دهر نیست",
+      "CoupletIndex": 39,
+      "SectionIndex1": 10,
+      "CoupletSummary": "سرزمین پارس از درد و مشکلات زمانه رنج نمی‌برد، تا زمانی که کسی مثل تو که سایهٔ خدا هستی بر بالای سر آن قرار داری."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "تا بر سرش بُوَد چو تویی سایهٔ خدا",
+      "CoupletIndex": 39,
+      "SectionIndex1": 10
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "امروز کس نشان ندهد در بسیط خاک",
+      "CoupletIndex": 40,
+      "SectionIndex1": 10,
+      "CoupletSummary": "امروز هیچ‌کس نمی‌تواند مانند آستان تو که پناهگاه امنیت و آرامش است، هیچ نشانی از خود در این دنیای وسیع باقی بگذارد.\u00A0"
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "مانند آستان درت مأمن رضا",
+      "CoupletIndex": 40,
+      "SectionIndex1": 10
+    },
+    {
+      "VOrder": 69,
+      "Position": "Right",
+      "Text": "بر توست پاس خاطر بیچارگان و شکر",
+      "CoupletIndex": 41,
+      "SectionIndex1": 10,
+      "CoupletSummary": "بر عهدهٔ تو است که به یاد بیچارگان باشی و شکر نعمت‌ها بر عهدهٔ ما و جزا و پاداش نزد خداوند جهان آفرین است."
+    },
+    {
+      "VOrder": 70,
+      "Position": "Left",
+      "Text": "بر ما و بر خدای جهان‌آفرین جزا",
+      "CoupletIndex": 41,
+      "SectionIndex1": 10
+    },
+    {
+      "VOrder": 71,
+      "Position": "Right",
+      "Text": "یا رب! ز باد فتنه نگهدار خاک پارس",
+      "CoupletIndex": 42,
+      "SectionIndex1": 10,
+      "CoupletSummary": "الهی، از تو می‌خواهم که خاک ایران را از آسیب فتنه و نابودی حفظ کنی، همان‌طور که خودِ خاک و باد همیشه باقی خواهند ماند."
+    },
+    {
+      "VOrder": 72,
+      "Position": "Left",
+      "Text": "چندان که خاک را بُوَد و باد را بقا",
+      "CoupletIndex": 42,
+      "SectionIndex1": 10
+    },
+    {
+      "VOrder": 73,
+      "Position": "Paragraph",
+      "Text": "یک شب تأمل ایام گذشته می‌کردم و بر عمرِ تلف‌ کرده تأسف می‌خوردم و سنگِ سراچهٔ دل به الماسِ آب‌ِ دیده می‌سُفتم و این بیت‌ها مناسبِ حالِ خود می‌گفتم:",
+      "CoupletIndex": 43,
+      "CoupletSummary": "یک شب به یاد روزگار گذشته بودم و به‌خاطر عمری که بر باد دادم متأسف و ناراحت بودم و سنگ کوچک دلم را با اشک‌هایم که مانند الماس هستند، سوراخ می‌کردم و این بیت‌ها را متناسب با احوال خودم می‌گفتم:"
+    },
+    {
+      "VOrder": 74,
+      "Position": "Right",
+      "Text": "هر دم از عمر می‌رود نفسی",
+      "CoupletIndex": 44,
+      "SectionIndex1": 11,
+      "SectionIndex2": 37,
+      "CoupletSummary": "به اندازهٔ هر لحظه و هر دم، یک نفس از عمر کم می‌شود و وقتی به وضعیت خودم نگاه می‌کنم، می‌بینم که مدت زیادی از عمرم باقی نمانده است."
+    },
+    {
+      "VOrder": 75,
+      "Position": "Left",
+      "Text": "چون نگه می‌کنم نمانده بسی",
+      "CoupletIndex": 44,
+      "SectionIndex1": 11,
+      "SectionIndex2": 37
+    },
+    {
+      "VOrder": 76,
+      "Position": "Right",
+      "Text": "ای که پنجاه رفت و در خوابی",
+      "CoupletIndex": 45,
+      "SectionIndex1": 11,
+      "SectionIndex2": 38,
+      "CoupletSummary": "ای کسی که پنجاه سال از عمرت گذشته و در خواب غفلت به سر می‌بری، مگر اینکه حواست به این پنج روز و مدت زمان بسیار بسیار کمِ باقیمانده باشد و از آن استفاده کنی."
+    },
+    {
+      "VOrder": 77,
+      "Position": "Left",
+      "Text": "مگر این پنج روز دریابی",
+      "CoupletIndex": 45,
+      "SectionIndex1": 11,
+      "SectionIndex2": 38
+    },
+    {
+      "VOrder": 78,
+      "Position": "Right",
+      "Text": "خجل آن کس که رفت و کار نساخت",
+      "CoupletIndex": 46,
+      "SectionIndex1": 11,
+      "SectionIndex2": 39,
+      "CoupletSummary": "شرمنده است آن کسی که از دنیا رفت و کاری انجام نداد، اویی که طبل کوچ کردنش را زدند (زمان مرگش رسید) و توشه‌ای برای دنیای آخرت آماده نکرده بود.\u00A0"
+    },
+    {
+      "VOrder": 79,
+      "Position": "Left",
+      "Text": "کوسِ رحلت زدند و بار نساخت",
+      "CoupletIndex": 46,
+      "SectionIndex1": 11,
+      "SectionIndex2": 39
+    },
+    {
+      "VOrder": 80,
+      "Position": "Right",
+      "Text": "خوابِ نوشینِ بامدادِ رحیل",
+      "CoupletIndex": 47,
+      "SectionIndex1": 11,
+      "SectionIndex2": 16,
+      "CoupletSummary": "خواب دل‌انگیز صبح مسافر، مسافرِ پیاده را از مسیر و رفتن دور می‌کند."
+    },
+    {
+      "VOrder": 81,
+      "Position": "Left",
+      "Text": "باز دارد پیاده را ز سبیل",
+      "CoupletIndex": 47,
+      "SectionIndex1": 11,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 82,
+      "Position": "Right",
+      "Text": "هر که آمد عمارتی نو ساخت",
+      "CoupletIndex": 48,
+      "SectionIndex1": 11,
+      "SectionIndex2": 17,
+      "CoupletSummary": "هرکسی که به دنیا آمد، خانه‌ای جدید بنا کرد، رفت (مُرد) و جای خودش را به دیگری داد."
+    },
+    {
+      "VOrder": 83,
+      "Position": "Left",
+      "Text": "رفت و منزل به دیگری پرداخت",
+      "CoupletIndex": 48,
+      "SectionIndex1": 11,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 84,
+      "Position": "Right",
+      "Text": "وآن دگر پخت همچنین هوسی",
+      "CoupletIndex": 49,
+      "SectionIndex1": 11,
+      "SectionIndex2": 18,
+      "CoupletSummary": "و آن یکی هوس‌هایی در سر داشت و این به هیچ‌کجا نرسید."
+    },
+    {
+      "VOrder": 85,
+      "Position": "Left",
+      "Text": "وین عمارت به سر نبرد کسی",
+      "CoupletIndex": 49,
+      "SectionIndex1": 11,
+      "SectionIndex2": 18
+    },
+    {
+      "VOrder": 86,
+      "Position": "Right",
+      "Text": "یارِ ناپایدار، دوست مدار",
+      "CoupletIndex": 50,
+      "SectionIndex1": 11,
+      "SectionIndex2": 19,
+      "CoupletSummary": "دوستی که ناپایدار و باری به هر جهت است را دوست خود نگیر. چنین بی‌وفایی شایستهٔ دوستی نیست."
+    },
+    {
+      "VOrder": 87,
+      "Position": "Left",
+      "Text": "دوستی را نشاید این غدّار",
+      "CoupletIndex": 50,
+      "SectionIndex1": 11,
+      "SectionIndex2": 19
+    },
+    {
+      "VOrder": 88,
+      "Position": "Right",
+      "Text": "نیک و بد چون همی بباید مُرد",
+      "CoupletIndex": 51,
+      "SectionIndex1": 11,
+      "SectionIndex2": 20,
+      "CoupletSummary": "چون درنهایت چه نیک باشیم و چه بد بایست بمیریم، پس خوش به حال آن کسی که گوی نیکی و سعادت را با خود برد."
+    },
+    {
+      "VOrder": 89,
+      "Position": "Left",
+      "Text": "خُنُک آن کس که گویِ نیکی بُرد",
+      "CoupletIndex": 51,
+      "SectionIndex1": 11,
+      "SectionIndex2": 20
+    },
+    {
+      "VOrder": 90,
+      "Position": "Right",
+      "Text": "برگِ عیشی به گور خویش فرست",
+      "CoupletIndex": 52,
+      "SectionIndex1": 11,
+      "SectionIndex2": 21,
+      "CoupletSummary": "برگ و نامهٔ خوشی را برای آخرتت آماده کن. هیچکس بعد از مرگش دچار عافیت نخواهد شد. باید پیش از مرگ به فکر باشی."
+    },
+    {
+      "VOrder": 91,
+      "Position": "Left",
+      "Text": "کس نیارد ز پس، ز پیش فرست",
+      "CoupletIndex": 52,
+      "SectionIndex1": 11,
+      "SectionIndex2": 21
+    },
+    {
+      "VOrder": 92,
+      "Position": "Right",
+      "Text": "عمر برف است و آفتابِ تموز",
+      "CoupletIndex": 53,
+      "SectionIndex1": 11,
+      "SectionIndex2": 22,
+      "CoupletSummary": "زندگی مانند برف است و آفتاب تابستان را می‌بینم... زمان کمی مانده اما این خواجه هنوز غرق در غرور و توهم خود است."
+    },
+    {
+      "VOrder": 93,
+      "Position": "Left",
+      "Text": "اندکی ماند و خواجه غَرِّه هنوز",
+      "CoupletIndex": 53,
+      "SectionIndex1": 11,
+      "SectionIndex2": 22
+    },
+    {
+      "VOrder": 94,
+      "Position": "Right",
+      "Text": "ای تهی‌دستْ رفته در بازار",
+      "CoupletIndex": 54,
+      "SectionIndex1": 11,
+      "SectionIndex2": 23,
+      "CoupletSummary": "ای کسی که هیچ‌چیزی نداری و به بازار رفتی، می‌ترسم دستِ پُر برنگردی!"
+    },
+    {
+      "VOrder": 95,
+      "Position": "Left",
+      "Text": "ترسمت پُر نیاوری دستار",
+      "CoupletIndex": 54,
+      "SectionIndex1": 11,
+      "SectionIndex2": 23
+    },
+    {
+      "VOrder": 96,
+      "Position": "Right",
+      "Text": "هر که مزروع خود بخورد به خوید",
+      "CoupletIndex": 55,
+      "SectionIndex1": 11,
+      "SectionIndex2": 24,
+      "CoupletSummary": "هرکسی که کشت و محصول خود را در موقعی که کال و نارس بود خورد و استفاده کرد، در زمان جمع‌آوری به موقع و به جا، چیزی نخواهد داشت."
+    },
+    {
+      "VOrder": 97,
+      "Position": "Left",
+      "Text": "وقت خرمنش خوشه باید چید",
+      "CoupletIndex": 55,
+      "SectionIndex1": 11,
+      "SectionIndex2": 24
+    },
+    {
+      "VOrder": 98,
+      "Position": "Paragraph",
+      "Text": "بعد از تأمل این معنی، مصلحت چنان دیدم که در نشیمنِ عزلت نشینم و دامنِ صحبت فراهم چینم و دفتر از گفت‌های پریشان بشویم و مِن‌بعد پریشان نگویم.",
+      "CoupletIndex": 56,
+      "CoupletSummary": "پس از این که به این موضوع فکر کردم، به این نتیجه رسیدم بهترین کار این است که که کنج عزلت بگیرم و از هم‌نشینی با دیگران کناره بگیرم. دفترم را از این گفته‌های پریشان پاک کنم و از این به بعد هم دیگر این‌چنین ننویسم و نگویم."
+    },
+    {
+      "VOrder": 99,
+      "Position": "Right",
+      "Text": "زبان‌بریده به کنجی نشسته صُمٌّ بُکمْ",
+      "CoupletIndex": 57,
+      "SectionIndex1": 12,
+      "CoupletSummary": "کسی که زبان بریده باشد و در گوشه‌ای بی‌هیچ صدایی نشسته باشد، بهتر از کسی‌ست که زبانش را به درستی استفاده نمی‌کند."
+    },
+    {
+      "VOrder": 100,
+      "Position": "Left",
+      "Text": "به از کسی که نباشد زبانش اندر حُکم",
+      "CoupletIndex": 57,
+      "SectionIndex1": 12
+    },
+    {
+      "VOrder": 101,
+      "Position": "Paragraph",
+      "Text": "تا یکی از دوستان که در کجاوه انیس من بود و در حجره جلیس، به رسم قدیم از در در‌آمد. چندان که نشاطِ ملاعبت کرد و بساطِ مداعبت گسترد، جوابش نگفتم و سر از زانوی تعبّد بر نگرفتم. رنجیده نگه کرد و گفت:",
+      "CoupletIndex": 58,
+      "CoupletSummary": "تا روزی که یکی از دوستانم که در سفر با کاروان و کجاوه همراه من بود و در اتاق‌ها و سکون هم‌نشین؛ به روال گذشته از در وارد شد. او هر چقدر سعی کرد که با من سر صحبت و شوخی را باز کند و فضای گفت‌وگو را ایجاد، من جوابش را ندادم و سر از گوشه‌نشینی بیرون نیاوردم. او ناراحت شد و به من نگاهی کرد و گفت:"
+    },
+    {
+      "VOrder": 102,
+      "Position": "Right",
+      "Text": "کنونت که امکان گفتار هست",
+      "CoupletIndex": 59,
+      "SectionIndex1": 13,
+      "CoupletSummary": "ای برادر، اکنون که فرصت صحبت کردن داری، با نیکی و خوشحالی صحبت کن..."
+    },
+    {
+      "VOrder": 103,
+      "Position": "Left",
+      "Text": "بگو ای برادر به لطف و خَوشی",
+      "CoupletIndex": 59,
+      "SectionIndex1": 13
+    },
+    {
+      "VOrder": 104,
+      "Position": "Right",
+      "Text": "که فردا چو پیک اجل در رسید",
+      "CoupletIndex": 60,
+      "SectionIndex1": 13,
+      "CoupletSummary": "چرا که وقتی فردا فرشتهٔ مرگ بیاید، به‌ناچار از سخن گفتن باز می‌مانی."
+    },
+    {
+      "VOrder": 105,
+      "Position": "Left",
+      "Text": "به حکم ضرورت زبان در کَشی",
+      "CoupletIndex": 60,
+      "SectionIndex1": 13
+    },
+    {
+      "VOrder": 106,
+      "Position": "Paragraph",
+      "Text": "کسی از متعلّقانِ مَنَش بر حَسَب واقعه مطلّع گردانید که «فلان عزم کرده است و نیّت جزم، که بقیَّتِ عمر معتکف نشیند و خاموشی گزیند. تو نیز اگر توانی سرِ خویش گیر و راه مُجانبت پیش». گفتا: «به عزّتِ عظیم و صحبت قدیم که دم بر نیارم و قدم بر ندارم مگر آن گه که سخن گفته شود به عادتِ مألوف و طریقِ معروف که آزردن دوستان جهل است و کفّارتِ یمین سهل و خِلافِ راه صواب است و نقص رای اولوالالباب؛ ذوالفِقار علی در نیام و زبان سعدی در کام».",
+      "CoupletIndex": 61,
+      "CoupletSummary": "یکی از نزدیکان من او را از اتفاقی که افتاده آگاه کرد که سعدی تصمیمی قاطع گرفته تا باقی عمرش را در سکوت و انزوا بگذراند و تو هم اگر می‌توانی بیخیال او شو، راه خودت را بگیر و برو. که او چنین جواب داد: به احترام بزرگواری و دوستی دیرینه‌ام قسم، نفسی نخواهم کشید و هیچ قدمی بر نخواهم داشت مگر زمانی که سعدی لب به سخن باز کند به رسمی که آشنا بود و شکلی که پسندیده و هشدار که آزار دادن دوستان نادانی است و جبران سوگند ساده است و راه درستی نیست و برخلاف نظر و رأی خردمندان است که شمشیر علی در غلاف باشد و زبان سعدی در سکوت."
+    },
+    {
+      "VOrder": 107,
+      "Position": "Right",
+      "Text": "زبان در دهان ای خردمند چیست؟",
+      "CoupletIndex": 62,
+      "SectionIndex1": 14,
+      "SectionIndex2": 16,
+      "CoupletSummary": "ای خردمند، زبانِ در دهان چیست؟ زبانِ در دهان مانند کلیدِ درِ صندوقِ گنج کسی‌ست که هنری دارد."
+    },
+    {
+      "VOrder": 108,
+      "Position": "Left",
+      "Text": "کلیدِ درِ گنجِ صاحب هنر",
+      "CoupletIndex": 62,
+      "SectionIndex1": 14,
+      "SectionIndex2": 16
+    },
+    {
+      "VOrder": 109,
+      "Position": "Right",
+      "Text": "چو در بسته باشد چه داند کسی",
+      "CoupletIndex": 63,
+      "SectionIndex1": 14,
+      "SectionIndex2": 17,
+      "CoupletSummary": "وقتی درِ دهان بسته باشد، چیزی از هنر او مشخص نیست و کسی چه می‌داند که آیا او فروشندهٔ جواهر و جوهری است یا کسی که پیله می‌سازد؟ (تقابل دو حرفهٔ پرارزش و کم‌ارزش)\u00A0"
+    },
+    {
+      "VOrder": 110,
+      "Position": "Left",
+      "Text": "که جوهرفروش است یا پیله‌ور؟",
+      "CoupletIndex": 63,
+      "SectionIndex1": 14,
+      "SectionIndex2": 17
+    },
+    {
+      "VOrder": 111,
+      "Position": "Right",
+      "Text": "اگر چه پیشِ خردمند خامُشی ادب است",
+      "CoupletIndex": 64,
+      "SectionIndex1": 40,
+      "SectionIndex2": 41,
+      "CoupletSummary": "هرچند که در نظر افراد بافهم و آگاه، سکوت نشانهٔ ادب است و کار نیکویی است، اما در مواقع مصلحت و نیاز بهتر است که لب به سخن باز کنی."
+    },
+    {
+      "VOrder": 112,
+      "Position": "Left",
+      "Text": "به وقتِ مصلحت آن به، که در سخن کوشی",
+      "CoupletIndex": 64,
+      "SectionIndex1": 40,
+      "SectionIndex2": 41
+    },
+    {
+      "VOrder": 113,
+      "Position": "Right",
+      "Text": "دو چیز طَیرهٔ عقل است، دم فرو بستن",
+      "CoupletIndex": 65,
+      "SectionIndex1": 40,
+      "SectionIndex2": 42,
+      "CoupletSummary": "دو چیز نشان کمبود خرد و عقل و فهم است. یکی اینکه در زمانِ مناسبِ حرف زدن سکوت کنی و دوم این که در موقعی که باید سکوت کرد، حرف بزنی."
+    },
+    {
+      "VOrder": 114,
+      "Position": "Left",
+      "Text": "به وقتِ گفتن و گفتن به وقتِ خاموشی",
+      "CoupletIndex": 65,
+      "SectionIndex1": 40,
+      "SectionIndex2": 42
+    },
+    {
+      "VOrder": 115,
+      "Position": "Paragraph",
+      "Text": "فی الجمله زبان از مکالمهٔ او در کشیدن قوّت نداشتم و روی از محاورهٔ او گردانیدن مروّت ندانستم که یارْ موافق بود و ارادتْ صادق.",
+      "CoupletIndex": 66,
+      "CoupletSummary": "درنهایت، برای گفت‌وگو کردن با او توان نداشتم و بی‌توجهی کردن به گفتگوی او را کار درستی ندیدم زیرا او همراه خوبی بود و دوستی راست و درست."
+    },
+    {
+      "VOrder": 116,
+      "Position": "Right",
+      "Text": "چو جنگ آوری با کسی بر ستیز",
+      "CoupletIndex": 67,
+      "SectionIndex1": 15,
+      "CoupletSummary": "اگر می‌خواهی بجنگی، با کسی بجنگ که در جنگ با او یا راه چاره‌ای داری یا راه فرار."
+    },
+    {
+      "VOrder": 117,
+      "Position": "Left",
+      "Text": "که از وی گزیرت بُوَد یا گریز",
+      "CoupletIndex": 67,
+      "SectionIndex1": 15
+    },
+    {
+      "VOrder": 118,
+      "Position": "Paragraph",
+      "Text": "به حکم ضرورت سخن گفتم و تفرج‌کنان بیرون رفتیم در فصل ربیع که صولتِ بَرد آرمیده بود و ایام دولتِ وَردْ رسیده.",
+      "CoupletIndex": 68,
+      "CoupletSummary": "از سرِ ناچاری صحبت کردم و با خوشی به بیرون رفتیم در فصل بهار که حملهٔ سرما به پایان رفته بود و زمان گل‌های سرخ فرا رسیده بود."
+    },
+    {
+      "VOrder": 119,
+      "Position": "Right",
+      "Text": "پیراهنِ برگ، بر درختان",
+      "CoupletIndex": 69,
+      "SectionIndex1": 16,
+      "SectionIndex2": 46,
+      "CoupletSummary": "برگ‌های مانند پیراهنی بر تن درخت‌ها بودند. مانند جامه‌های عید بر تن انسان‌های خوشبخت."
+    },
+    {
+      "VOrder": 120,
+      "Position": "Left",
+      "Text": "چون جامهٔ عیدِ نیک‌بختان",
+      "CoupletIndex": 69,
+      "SectionIndex1": 16,
+      "SectionIndex2": 46
+    },
+    {
+      "VOrder": 121,
+      "Position": "Right",
+      "Text": "اوّلِ اردیبهشت‌ ماهِ جلالی",
+      "CoupletIndex": 70,
+      "SectionIndex1": 43,
+      "SectionIndex2": 44,
+      "CoupletSummary": "در آغاز اردیبهشت، بلبل با صدای خوشش بر سرِ شاخه‌های درخت که مانند منبرند آواز می‌خواند."
+    },
+    {
+      "VOrder": 122,
+      "Position": "Left",
+      "Text": "بلبلْ گوینده بر منابرِ قُضبان",
+      "CoupletIndex": 70,
+      "SectionIndex1": 43,
+      "SectionIndex2": 44
+    },
+    {
+      "VOrder": 123,
+      "Position": "Right",
+      "Text": "بر گل سرخ از نم اوفتاده لَآلی",
+      "CoupletIndex": 71,
+      "SectionIndex1": 43,
+      "SectionIndex2": 45,
+      "CoupletSummary": "بر روی گل سرخ، قطرات شبنم نشسته است، مانند عرقی که بر روی چهرهٔ معشوقه‌ای خشمگین، با رخساری سرخ‌ شده از خشم نشسته باشد."
+    },
+    {
+      "VOrder": 124,
+      "Position": "Left",
+      "Text": "همچو عرق بر عُذارِ شاهدِ غَضْبان",
+      "CoupletIndex": 71,
+      "SectionIndex1": 43,
+      "SectionIndex2": 45
+    },
+    {
+      "VOrder": 125,
+      "Position": "Paragraph",
+      "Text": "شب را به بوستان با یکی از دوستان اتفاقِ مبیت افتاد، موضعی خوش و خرّم و درختان درهم. گفتی که خردهٔ مینا بر خاکش ریخته و عِقدِ ثریا از تارِکَش آویخته.",
+      "CoupletIndex": 72,
+      "CoupletSummary": "شب را در باغی زیبا با یکی از دوستان گذراندیم. جایی خوش آب و هوا و پر از درختان. انگار که دانه‌های لعاب خرد کاشی مینا بر روی زمین ریخته و گردنبندی از ستاره‌های آسمان به درختان آویزان شده بودند."
+    },
+    {
+      "VOrder": 126,
+      "Position": "Right",
+      "Text": "روضةٌ ماءُ نهرِها سَلسال",
+      "CoupletIndex": 73,
+      "SectionIndex1": 17,
+      "CoupletSummary": "باغی است که آب نهرش گواراست و درختانش به زیبایی کنار هم قرار گرفته‌اند و پرندگانش با آهنگ و هماهنگی،\u00A0 با نوایی خوش می‌خوانند."
+    },
+    {
+      "VOrder": 127,
+      "Position": "Left",
+      "Text": "دَوحةٌ سَجعُ طَیرِها موزون",
+      "CoupletIndex": 73,
+      "SectionIndex1": 17
+    },
+    {
+      "VOrder": 128,
+      "Position": "Right",
+      "Text": "آن پر از لاله‌های رنگارنگ",
+      "CoupletIndex": 74,
+      "SectionIndex1": 17,
+      "CoupletSummary": "آن یکی پر از گل‌های زیبا و رنگارنگ است و این یکی پر از میوه‌های گوناگون."
+    },
+    {
+      "VOrder": 129,
+      "Position": "Left",
+      "Text": "وین پر از میوه‌های گوناگون",
+      "CoupletIndex": 74,
+      "SectionIndex1": 17
+    },
+    {
+      "VOrder": 130,
+      "Position": "Right",
+      "Text": "باد در سایهٔ درختانش",
+      "CoupletIndex": 75,
+      "SectionIndex1": 17,
+      "CoupletSummary": "باد در سایهٔ درختانش، مانند فرشی رنگارنگ در زیر پا گسترده است."
+    },
+    {
+      "VOrder": 131,
+      "Position": "Left",
+      "Text": "گسترانیده فرشِ بوقلمون",
+      "CoupletIndex": 75,
+      "SectionIndex1": 17
+    },
+    {
+      "VOrder": 132,
+      "Position": "Paragraph",
+      "Text": "بامدادان که خاطرِ باز آمدن بر رایِ نشستن غالب آمد، دیدمش دامنی گل و ریحان و سنبل و ضَیْمران فراهم آورده و رغبت شهر کرده. گفتم: «گل بُستان را چنان که دانی بقایی و عهد گلستان را وفایی نباشد» و حکما گفته‌اند: «هر چه نپاید دلبستگی را نشاید». گفتا: «طریق چیست»؟ گفتم: «برای نُزهت ناظران و فُسحت حاضران، کتاب گلستان توانم تصنیف کردن که باد خزان را بر ورق او دست تطاول نباشد و گردشِ زمانْ عَیش ربیعش را به طَیش خریف مبدَّل نکند».",
+      "CoupletIndex": 76,
+      "CoupletSummary": "صبح که اندیشهٔ برگشتن بر نشستن پیروز شد و پیشی گرفت، او را دیدم که با دامنی پر از گل و ریحان و سنبل و گیاهان معطر می‌آید و با این وضع عزم برگشتن به شهر کرده است. به او گفتم: گل‌های باغ همان‌طور که می‌دانی، باقی نمی‌مانند و روزگار گلستان هم ماندنی نیست. حکیمان هم گفته‌اند: بهتر است به هر چیزی که پایدار نیست، دل نبندیم. او پرسید: «چاره چیست؟» گفتم: «برای سرور ناظران و لذت حاضران، می‌توانم کتابی به نام گلستان بنویسم که بادهای خزان نتوانند به ورق‌های آن دست درازی کنند و ناملایمات زمان نتواند خوشی‌های بهار آن را به ناپسندیدگی و تلخی پاییز تبدیل کند.»"
+    },
+    {
+      "VOrder": 133,
+      "Position": "Right",
+      "Text": "به چه کار آیدت ز گل طبقی؟",
+      "CoupletIndex": 77,
+      "SectionIndex1": 18,
+      "CoupletSummary": "به چه درد تو می‌خورد طبقی از گل؟ از گلستان من یک ورق ببر!"
+    },
+    {
+      "VOrder": 134,
+      "Position": "Left",
+      "Text": "از گلستان من بِبَر ورقی",
+      "CoupletIndex": 77,
+      "SectionIndex1": 18
+    },
+    {
+      "VOrder": 135,
+      "Position": "Right",
+      "Text": "گل همین پنج روز و شَش باشد",
+      "CoupletIndex": 78,
+      "SectionIndex1": 18,
+      "CoupletSummary": "گل همین چند روز اندک دوام می‌آورد ولی این کتاب گلستان تا ابد ماناست."
+    },
+    {
+      "VOrder": 136,
+      "Position": "Left",
+      "Text": "وین گلستان همیشه خوش باشد",
+      "CoupletIndex": 78,
+      "SectionIndex1": 18
+    },
+    {
+      "VOrder": 137,
+      "Position": "Paragraph",
+      "Text": "حالی که من این بگفتم، دامنِ گل بریخت و در دامنم آویخت که «اَلْکریمُ إِذا وَعَدَ وَفا». فصلی در همان روزْ اتفاقِ بَیاض افتاد، در حسن معاشرت و آداب محاورت در لباسی که متکلمان را به کار آید و مترسِّلان را بَلاغت بیفزاید. فی‌الجمله هنوز از گلِ بُستان بقیّتی موجود بود که «کتاب گلستان» تمام شد.",
+      "CoupletIndex": 79,
+      "CoupletSummary": "وقتی که من این صحبت را کردم، دامن گل را به زمین ریخت و دست به دامان من شد و گفت که فرد بزرگوار باید به وعده‌ها وفا کند. در همان روز فصل دیگری در پاکنویس آغاز شد. در نیک‌رفتاری و آداب گفتگو در شکل لباسی که مناسب سخن‌وران باشد و بلاغت نامه‌نگاران را افزایش دهد. درنهایت، هنوز از باغ گل بخشی باقی مانده بود که کتاب گلستان به پایان رسید."
+    },
+    {
+      "VOrder": 138,
+      "Position": "Paragraph",
+      "Text": "و تمام آن گه شود به حقیقت که پسندیده آید در بارگاه شاهِ جهان‌پناه، سایهٔ کردگار و پرتو لطف پروردگار ذخر زمان و کهف امان، اَلمؤیِّدُ مِنَ السَّماء المنصورُ عَلَی الْأَعْداء، عَضُدُ الدَّولةِ الْقاهرة، سِراجُ الْمِلّةِ الْباهرةِ، جَمالُ الْأَنام، مَفخرُ الإِسلام، سَعدُ بنُ الاتابکِ الْاَعظم، شاهنشاه المعظم، مَولیٰ ملوکِ العربِ و العجم، سلطانُ الْبَرِّ وَ الْبَحر، وارثُ مُلْکِ سلیمان، مظفرالدین أَبی بکرِ بنِ سعدِ بنِ زنگی أَدامَ اللّهُ إِقبالَهُما و ضاعَفَ جَلالَهُما وَ جَعَلَ إِلیٰ کُلِّ خِیرٍ مَآلَهُما و به کرشمهٔ لطف خداوندی مطالعه فرماید.",
+      "CoupletIndex": 80,
+      "CoupletSummary": "و در حقیقت زمانی تمام شود که پسندیده بنماید در بارگاه شاه جهان‌پناه، سایهٔ خداوند، پرتو لطف و عنایت الهی، گنجی از زمان و پناهگاه امان، تایید شده از آسمان، پیروز بر دشمنان، بازوی دولت نیرومند، چراغ درخشان مردم، زیبایی انسانیت، افتخار اسلام، سعد بن اتابک بزرگوار، شاهنشاه بزرگ، فرمانروای پادشاهان عرب و ایران، سلطان خشکی و دریا، وارث پادشاهی سلیمان، آن‌که دینش مورد یاری قرار گرفته ابوبکر بن سعد بن زنگی. خداوند بخت آن دو (پدر و پسر) را پایدار سازد، عظمتشان را دو چندان کند و هر چه خیر است برای عاقبتشان به ارمغان آورد و به توجه لطف شاهانه مطالعه فرماید."
+    },
+    {
+      "VOrder": 139,
+      "Position": "Right",
+      "Text": "گر التفات خداوندی‌اش بیاراید",
+      "CoupletIndex": 81,
+      "SectionIndex1": 19,
+      "CoupletSummary": "اگر لطف و توجه خداوند متوجه کسی شود، او می‌تواند زیبایی و هنر را به طور شگفت‌آوری به تصویر بکشد، مانند یک کاخی پر نقش و نگار در چین و یا نقاشی‌های کتاب مانی پیامبر (ارتنگ یا ارژنگ نام کتاب مانی پیامبر است)."
+    },
+    {
+      "VOrder": 140,
+      "Position": "Left",
+      "Text": "نگارخانهٔ چینی و نقش اَرتَنگی‌ست",
+      "CoupletIndex": 81,
+      "SectionIndex1": 19
+    },
+    {
+      "VOrder": 141,
+      "Position": "Right",
+      "Text": "امید هست که روی ملال در نکشد",
+      "CoupletIndex": 82,
+      "SectionIndex1": 19,
+      "CoupletSummary": "امیدوارم که صحبت من باعث غم و ناراحتی‌ شما نشود، زیرا که گلستان، جایی برای احساس دلتنگی نیست."
+    },
+    {
+      "VOrder": 142,
+      "Position": "Left",
+      "Text": "از این سخن که گلستان نه جای دلتنگی‌ست",
+      "CoupletIndex": 82,
+      "SectionIndex1": 19
+    },
+    {
+      "VOrder": 143,
+      "Position": "Right",
+      "Text": "علی الخصوص که دیباچهٔ همایونش",
+      "CoupletIndex": 83,
+      "SectionIndex1": 19,
+      "CoupletSummary": "به ویژه برای اینکه مقدمهٔ فرخنده‌اش به نام مبارکِ ابوبکر ابن سعد ابن زنگی نوشته شده است."
+    },
+    {
+      "VOrder": 144,
+      "Position": "Left",
+      "Text": "به نام سعدِ ابوبکرِ سعدِ بِنْ زنگی‌ست",
+      "CoupletIndex": 83,
+      "SectionIndex1": 19
+    },
+    {
+      "VOrder": 145,
+      "Position": "Paragraph",
+      "Text": "دیگر عروسِ فکرِ من از بی جمالی سر بر نیارد و دیدهٔ یأس از پشتْ پایِ خجالت بر ندارد و در زمرهٔ صاحب‌دلان مُتَجَلِّی نشود مگر آن‌گه که مُتَحَلّي گردد به زیور قبول امیر کبیر، عالِم عادل، مؤیّد مظفّر منصور، ظهیر سریر سلطنت و مشیر تدبیر مملکت، کَهفُ الفقرا، مَلاذُ الغُرَبا، مُربِّی الفُضَلا، مُحِبُّ الأتقیا، افتخار آل فارس، یَمینُ الْمُلْک، مَلِکُ الْخَواص، فَخرُ الدّولةِ وَ الدّین، غیاثُ الْإِسلامِ و المسلمین، عُمْدةُ الْمُلوکِ و السَّلاطین، ابوبکرِ بنِ أَبي نَصر، أَطالَ اللّهُ عُمرَهُ و أَجَلَّ قَدرَهُ و شَرَحَ صَدرَهُ و ضاعَفَ أَجْرَهُ که ممدوحِ اکابر آفاق است و مجموع مکارم اخلاق.",
+      "CoupletIndex": 84,
+      "CoupletSummary": "دیگر عروس خیال من به خاطر نا‌زیبایی‌هایش سر بالا نمی‌آورد و نگاه ناامیدش را از شرم، به پشت پای خجالت دوخته است، به آن نگاه می‌کند و شرمگین است و در جمع صاحبان‌دلان حاضر نخواهد شد، مگر آن‌که آراسته شود به زیور پذیرش امیر بزرگ، عالم عادل، حامی پیروزی و نصرت، پناه تاج و تخت مملکت، مشاور حکمرانی و تدبیر کشور، پناهگاه بی‌نوایان، پناه غریبان، تربیت کنندهٔ مهان، دوستدار پرهیزکاران، افتخار خاندان فارس، دست راست سلطنت، پادشاه خواص‌، افتخار دولت و دین، فریادرس اسلام و مسلمین، تکیه‌گاهِ پادشاهان و سلاطین، ابوبکر بن ابی‌نصر، که خداوند عمرش را دراز گرداند و مقامش را ارجمند کند و سینه‌اش را سترگ سازد و پاداشش را مضاعف کند، که او مورد ستایش بزرگان عالم است و دارندهٔ باید و شایدهای اخلاق."
+    },
+    {
+      "VOrder": 146,
+      "Position": "Right",
+      "Text": "هر که در سایهٔ عنایت اوست",
+      "CoupletIndex": 85,
+      "SectionIndex1": 20,
+      "CoupletSummary": "هرکس تحت حمایت و نعمت او باشد، گناهش پیروی کردن به حساب می‌آید و دشمنی با او مانند دوستی است."
+    },
+    {
+      "VOrder": 147,
+      "Position": "Left",
+      "Text": "گنهش طاعت است و دشمن، دوست",
+      "CoupletIndex": 85,
+      "SectionIndex1": 20
+    },
+    {
+      "VOrder": 148,
+      "Position": "Paragraph",
+      "Text": "به هر یک از سایر بندگان حواشی، خدمتی مُتِعَیِّن است که اگر در ادای برخی از آن تهاوُن و تکاسُل روا دارند در معرضِ خطاب آیند و در محلِّ عتاب، مگر بر این طایفهٔ درویشان که شکرِ نعمت بزرگان واجب است و ذکرِ جمیل و دعایِ خیر و اداءِ چنین خدمتی در غیبت اوُلی‌ٰتر است که در حضور، که آن به تصنّع نزدیک است و این از تکلّف دور.",
+      "CoupletIndex": 86,
+      "CoupletSummary": "بر گردن هر یک از بندگان پیرامون بارگاه، وظیفهٔ خاصی هست که اگر در انجام برخی از آن‌ها کوتاهی کنند، مورد بازخواست و سرزنش قرار می‌گیرند. اما در مورد این گروه درویشان چنین است که باید شکر نعمت بزرگواران را به جا بیاورند و ذکر خوب و دعاهای خیر بگویند و انجام این کار در غیبت آن‌ها مهم‌تر است تا در حضورشان. چرا که ادای آن در حضور به مصنوعی بودن و دروغ نزدیک می‌شود و این از آن‌چه باید انجام بدهند فاصله می‌گیرد.\u00A0"
+    },
+    {
+      "VOrder": 149,
+      "Position": "Right",
+      "Text": "پشتِ دوتایِ فلک، راست شد از خرّمی",
+      "CoupletIndex": 87,
+      "SectionIndex1": 21,
+      "CoupletSummary": "آسمان‌ها که پشتی خمیده داشتند، از شادی به حالت راست درآمدند چرا که مادر روزگار فرزندی که تو باشی را به دنیا آورد."
+    },
+    {
+      "VOrder": 150,
+      "Position": "Left",
+      "Text": "تا چو تو فرزند زاد، مادر ایّام را",
+      "CoupletIndex": 87,
+      "SectionIndex1": 21
+    },
+    {
+      "VOrder": 151,
+      "Position": "Right",
+      "Text": "حکمتِ محض است اگر لطفِ جهان‌آفرین",
+      "CoupletIndex": 88,
+      "SectionIndex1": 21,
+      "CoupletSummary": "اگر لطف خداوند بنده‌ای را خاص کند، حکمت محض است و این برای مصلحت عوام مردم است."
+    },
+    {
+      "VOrder": 152,
+      "Position": "Left",
+      "Text": "خاص کند بنده‌ای مصلحتِ عام را",
+      "CoupletIndex": 88,
+      "SectionIndex1": 21
+    },
+    {
+      "VOrder": 153,
+      "Position": "Right",
+      "Text": "دولت جاوید یافت هر که نکونام زیست",
+      "CoupletIndex": 89,
+      "SectionIndex1": 21,
+      "CoupletSummary": "هرکس که زندگی‌اش پر از نیکی باشد و با نام نیکو زندگی کند، در نهایت به جاودانگی خواهد رسید، زیرا ذکر خیر او که به دنبالش می‌رود باعث زنده‌ ماندن نامش در ذهن‌ها خواهد شد."
+    },
+    {
+      "VOrder": 154,
+      "Position": "Left",
+      "Text": "کز عقبش ذکر خیر، زنده کند نام را",
+      "CoupletIndex": 89,
+      "SectionIndex1": 21
+    },
+    {
+      "VOrder": 155,
+      "Position": "Right",
+      "Text": "وصف تو را گر کنند، ور نکنند اهل فضل",
+      "CoupletIndex": 90,
+      "SectionIndex1": 21,
+      "CoupletSummary": "چه اهل علم و دانش دربارهٔ تو صحبت کنند و چه نکنند، تو نیازی به آن نداری. مثل رخسارهٔ دلارامی که آن‌قدر زیباست که نیازی به آرایشگر و زیور ندارد."
+    },
+    {
+      "VOrder": 156,
+      "Position": "Left",
+      "Text": "حاجت مَشّاطه نیست، رویِ دلارام را",
+      "CoupletIndex": 90,
+      "SectionIndex1": 21
+    },
+    {
+      "VOrder": 157,
+      "Position": "Paragraph",
+      "Text": "تقصیر و تَقاعدی که در مواظبتِ خدمتِ بارگاهِ خداوندی می‌رود، بنا بر آن است که طایفه‌ای حکماءِ هندوستان در فضایل بُزَرْجُمِهر سخن می‌گفتند. به آخِر جز این عیبش ندانستند که در سخن گفتن بَطیْ است، یعنی درنگ بسیار می‌کند و مُستمِع را بسی منتظِر باید بودن تا تقریرِ سخنی کند.\u00A0بزرجمهر\u00A0بشنید و گفت: «اندیشه کردن که چه گویم، به از پشیمانی خوردن که چرا گفتم».",
+      "CoupletIndex": 91,
+      "CoupletSummary": "کوتاهی و ضعفی که در ارائهٔ خدمت به حضرت پادشاه دارم به این دلیل است که تعدادی از حکمای هندوستان دربارهٔ فضایل بزرگمهر صحبت می‌کردند و در پایان تنها عیبی که برای او آوردند این بود که در سخن گفتن کند است و مخاطب باید مدت زیادی منتظر بماند تا او حرفی بزند. بزرگمهر این صحبت‌ها را شنید و گفت: فکر کردن در مورد آن‌که چه می‌گویم بهتر است از اینکه پشیمان باشم که چرا گفتم."
+    },
+    {
+      "VOrder": 158,
+      "Position": "Right",
+      "Text": "سخندانِ پرورده پیرِ کهن",
+      "CoupletIndex": 92,
+      "SectionIndex1": 22,
+      "SectionIndex2": 24,
+      "CoupletSummary": "آن کسی که به دانایی و تجربه رسیده است، ابتدا با تفکر و تعمق به موضوعی فکر می‌کند و سپس سخن می‌گوید."
+    },
+    {
+      "VOrder": 159,
+      "Position": "Left",
+      "Text": "بیندیشد، آن‌گه بگوید سخن",
+      "CoupletIndex": 92,
+      "SectionIndex1": 22,
+      "SectionIndex2": 24
+    },
+    {
+      "VOrder": 160,
+      "Position": "Right",
+      "Text": "مزن تا توانی به گفتار، دم",
+      "CoupletIndex": 93,
+      "SectionIndex1": 22,
+      "SectionIndex2": 25,
+      "CoupletSummary": "تا جایی که می‌توانی بیهوده چیزی نگو. حرف‌های مفید و سنجیده بزن و اگر لازم است برای سنجیدن حرفت و فکر کردن قبل از گفتن، کمی زمان بگذاری و دیرتر جواب بدهی، هیچ اشکالی ندارد."
+    },
+    {
+      "VOrder": 161,
+      "Position": "Left",
+      "Text": "نکو گوی، گر دیر گویی چه غم؟",
+      "CoupletIndex": 93,
+      "SectionIndex1": 22,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 162,
+      "Position": "Right",
+      "Text": "بیندیش، وآن‌گه بر آور نفس",
+      "CoupletIndex": 94,
+      "SectionIndex1": 22,
+      "SectionIndex2": 26,
+      "CoupletSummary": "فکر کن و بعد نفست را بیرون بده و حرف بزن و قبل از آن که دیگران بگویند کافی‌ست، بس کن و حرف نزن، خودت حرف زدن را بس کن."
+    },
+    {
+      "VOrder": 163,
+      "Position": "Left",
+      "Text": "وز آن پیش بس کن، که گویند «بس»",
+      "CoupletIndex": 94,
+      "SectionIndex1": 22,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 164,
+      "Position": "Right",
+      "Text": "به نطقْ آدمی بهتر است از دَواب",
+      "CoupletIndex": 95,
+      "SectionIndex1": 22,
+      "SectionIndex2": 27,
+      "CoupletSummary": "انسان به واسطهٔ نطق (در یک معنی سخن گفتن و در یک معنی تفکر و اندیشه که به نسبت مضمون بیت معنی دوم درست‌تر است) از حیوانات بهتر است. ولی اگر به صواب، درست و به‌جا حرف نمی‌زنی، همان حیوانات از تو بهتر باشند."
+    },
+    {
+      "VOrder": 165,
+      "Position": "Left",
+      "Text": "دَواب از تو به، گر نگویی صواب",
+      "CoupletIndex": 95,
+      "SectionIndex1": 22,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 166,
+      "Position": "Paragraph",
+      "Text": "فکَیف در نظرِ اعیانِ حضرتِ خداوندی عَزَّ نصرُهْ، که مجمعِ اهلِ دل است و مرکزِ علمای متبحِّر؟ اگر در سیاقتِ سخن دلیری کنم، شوخی کرده باشم و بضاعتِ مُزجاة به حضرت عزیز آورده و شَبَه در جوهریان جُوْیٖ نیارد و چراغْ پیش آفتاب پرتوی ندارد و منارهٔ\u00A0بلند بر دامن کوه الوند پست نماید.",
+      "CoupletIndex": 96,
+      "CoupletSummary": "در هر حال چگونه می‌توان در حضور پادشاه بزرگ -پیروزی‌اش بزرگ و گرامی باد- که جایگاه تجمع اهل دل و مرکز علمای برجسته است، سخن گفت؟ اگر بخواهم با شجاعت صحبت کنم، حماقت کرده باشم و کم‌ترین دستاوردی را به محضر عزیز (فروغی می‌نویسد: عزیز نام خوانسالار مصر است و این جمله اشاره به آیهٔ ۸۸ سورهٔ یوسف دارد که برادران یوسف به یوسف گفتند ای عزیز، ما و خانوادهٔ ما را سختی و قحطی رسیده و با مایه‌ای اندک پیش تو آمده‌ایم) برده باشم و مشخص است که گوهر بدلی در نزد جواهرفروشان ارزشی ندارد و چراغ در برابر عظمت و نور خورشید نوری ندارد و مناره‌ای بلند در دامنهٔ کوه الوند، پست و حقیر است."
+    },
+    {
+      "VOrder": 167,
+      "Position": "Right",
+      "Text": "هر که گردن به دعوی افرازد",
+      "CoupletIndex": 97,
+      "SectionIndex1": 23,
+      "SectionIndex2": 25,
+      "CoupletSummary": "هر کسی که با دعوی و ادعاهای بزرگ خود را به چالش بکشد، در واقع خودش را به خطر می‌اندازد."
+    },
+    {
+      "VOrder": 168,
+      "Position": "Left",
+      "Text": "خویشتن را به گردن اندازد",
+      "CoupletIndex": 97,
+      "SectionIndex1": 23,
+      "SectionIndex2": 25
+    },
+    {
+      "VOrder": 169,
+      "Position": "Right",
+      "Text": "سعدی افتاده‌ای‌ست آزاده",
+      "CoupletIndex": 98,
+      "SectionIndex1": 23,
+      "SectionIndex2": 26,
+      "CoupletSummary": "سعدی متواضعی یا بر زمین افتاده‌ای آزاده است. کسی به جنگ بر زمین افتادگان نمی‌آید (ایهامی در افتادهٔ نخست هست و جناسی بین دو واژه).\u00A0"
+    },
+    {
+      "VOrder": 170,
+      "Position": "Left",
+      "Text": "کس نیاید به جنگ افتاده",
+      "CoupletIndex": 98,
+      "SectionIndex1": 23,
+      "SectionIndex2": 26
+    },
+    {
+      "VOrder": 171,
+      "Position": "Right",
+      "Text": "اول اندیشه وآن‌گهی گفتار",
+      "CoupletIndex": 99,
+      "SectionIndex1": 23,
+      "SectionIndex2": 27,
+      "CoupletSummary": "ابتدا باید اندیشید و سپس به حرف زدن برخاست. همان طور که اول پای‌بست و پیِ خانه ساخته می‌شود و سپس دیوار آن."
+    },
+    {
+      "VOrder": 172,
+      "Position": "Left",
+      "Text": "پای‌بست آمده‌ست و پس دیوار",
+      "CoupletIndex": 99,
+      "SectionIndex1": 23,
+      "SectionIndex2": 27
+    },
+    {
+      "VOrder": 173,
+      "Position": "Paragraph",
+      "Text": "نخل‌بندی دانم، ولی نه در بستان و شاهدی فروشم، ولیکن نه در کنعان.",
+      "CoupletIndex": 100,
+      "CoupletSummary": "من می‌دانم که چگونه نخل‌بندی کنم اما نه در باغ که آن‌جا بهتر از من بلدند و بنده و غلام زیبارو می‌فروشم، اما نه در سرزمین کنعان که خودشان یوسف را دارند."
+    },
+    {
+      "VOrder": 174,
+      "Position": "Paragraph",
+      "Text": "لقمان را گفتند: «حکمت از که آموختی»؟ گفت: «از نابینایان که تا جای نبینند، پای ننهند».",
+      "CoupletIndex": 101,
+      "CoupletSummary": "از لقمان پرسیدند که از چه کسی حکمت آموخته‌ای؟ او پاسخ داد: از نابینایان، زیرا آن‌ها تا زمانی که چیزی را نسنجند، پا بر زمین نمی‌گذارند."
+    },
+    {
+      "VOrder": 175,
+      "Position": "Paragraph",
+      "Text": "قَدِّمِ الْخروجَ قبلَ الْوُلوج، مردیت بیازمای وآن‌گه زن کن.",
+      "CoupletIndex": 102,
+      "CoupletSummary": "قبل از ورود، خروج را بسنج. ابتدا مردانگی‌ات را بسنج و سپس زن بگیر."
+    },
+    {
+      "VOrder": 176,
+      "Position": "Right",
+      "Text": "گر چه شاطر بود خروس به جنگ",
+      "CoupletIndex": 103,
+      "SectionIndex1": 24,
+      "CoupletSummary": "هرچند که خروس در کار جنگیدن ماهر و چابک است، ولی نباید در برابر بازِ رویین چنگ ادعایی کند."
+    },
+    {
+      "VOrder": 177,
+      "Position": "Left",
+      "Text": "چه زند پیش باز رویین چنگ؟",
+      "CoupletIndex": 103,
+      "SectionIndex1": 24
+    },
+    {
+      "VOrder": 178,
+      "Position": "Right",
+      "Text": "گربه شیر است در گرفتن موش",
+      "CoupletIndex": 104,
+      "SectionIndex1": 24,
+      "CoupletSummary": "گربه در شکار موش قوی و توانا است، اما در برابر پلنگ، مانند موش ضعیف به شمار می‌آید."
+    },
+    {
+      "VOrder": 179,
+      "Position": "Left",
+      "Text": "لیک موش است در مصاف پلنگ",
+      "CoupletIndex": 104,
+      "SectionIndex1": 24
+    },
+    {
+      "VOrder": 180,
+      "Position": "Paragraph",
+      "Text": "اما به اعتماد سِعت اخلاق بزرگان که چشم از عوایب زیردستان بپوشند و در افشای جرائم کهتران نکوشند، کلمه‌ای چند به طریق اختصار از نوادر و امثال و شعر و حکایات و سیر ملوک ماضی رحمهم اللّه در این کتاب درج کردیم و برخی از عمر گرانمایه بر او خرج، موجب تصنیف کتاب این بود و بِاللّهِ التَّوفیق.",
+      "CoupletIndex": 105,
+      "CoupletSummary": "اما با تکیه بر بزرگواری و اخلاق نیک شخصیت‌های بزرگ که از نقص‌ها و خطاهای بندگان و زیردستان چشم می‌پوشند و در افشای اشتباهات خردمنسبان و افراد پست و حقیر تلاش نمی‌کنند، من چند کلمه به صورت مختصر از داستان‌ها، اشعار و حکایات و رفتارهای پادشاهان گذشته -که خداوند رحمتشان کند- در این کتاب آورده‌ام و بخشی از وقت و عمر گرانبهای خود را صرف نگارش این کتاب کرده‌ام، دلایل و ماجرای نوشتن این کتاب این‌ها بود و امیدواریم توفیق و یاری خداوند شامل حال ما شود که توفیق از سوی خداست."
+    },
+    {
+      "VOrder": 181,
+      "Position": "Right",
+      "Text": "بمانَد سال‌ها این نظم و ترتیب",
+      "CoupletIndex": 106,
+      "SectionIndex1": 25,
+      "CoupletSummary": "سال‌ها این نظم و ترتیب برجا بماند، حتی اگر از ما هر ذرهٔ خاکی در جایی پخش باشد."
+    },
+    {
+      "VOrder": 182,
+      "Position": "Left",
+      "Text": "ز ما هر ذرّه خاک افتاده جایی",
+      "CoupletIndex": 106,
+      "SectionIndex1": 25
+    },
+    {
+      "VOrder": 183,
+      "Position": "Right",
+      "Text": "غرض نقشی‌ست کز ما باز ماند",
+      "CoupletIndex": 107,
+      "SectionIndex1": 25,
+      "CoupletSummary": "هدف این است که رد و نقشی از ما به جا بماند، چون برای هستی و وجود خودم بقایی نمی‌بینم."
+    },
+    {
+      "VOrder": 184,
+      "Position": "Left",
+      "Text": "که هستی را نمی‌بینم بقایی",
+      "CoupletIndex": 107,
+      "SectionIndex1": 25
+    },
+    {
+      "VOrder": 185,
+      "Position": "Right",
+      "Text": "مگر صاحب‌دلی روزی به رحمت",
+      "CoupletIndex": 108,
+      "SectionIndex1": 25,
+      "CoupletSummary": "تا که شاید روزی فردی صاحبدل از سر مهر، برای حال درویشان دعا کند."
+    },
+    {
+      "VOrder": 186,
+      "Position": "Left",
+      "Text": "کند در کار درویشان دعایی",
+      "CoupletIndex": 108,
+      "SectionIndex1": 25
+    },
+    {
+      "VOrder": 187,
+      "Position": "Paragraph",
+      "Text": "امعان نظر در ترتیب کتاب و تهذیب ابواب، ایجاز سخن مصلحت دید تا بر این روضهٔ غَنّا و حدیقهٔ غَلبا چون بهشت، هشت باب اتفاق افتاد از آن مختصر آمد تا به ملال نینجامد.",
+      "CoupletIndex": 109,
+      "CoupletSummary": "با دقت در ساختار کتاب و پیراستن فصول، کوتاهی سخن حکم کرد که این باغ طرب‌انگیز و پردرخت، مانند بهشت از هشت باب (فصل) تشکیل شود و از هر کدام مختصر و کوتاه نوشته شد تا از خستگی و دلزدگی خواننده جلوگیری کند."
+    },
+    {
+      "VOrder": 188,
+      "Position": "Paragraph",
+      "Text": "باب اوّل: در سیرت پادشاهان",
+      "CoupletIndex": 110,
+      "CoupletSummary": "فصل اول: دربارهٔ شخصیت و ویژگی‌های پادشاهان"
+    },
+    {
+      "VOrder": 189,
+      "Position": "Paragraph",
+      "Text": "باب دوم: در اخلاق درویشان",
+      "CoupletIndex": 111,
+      "CoupletSummary": "فصل دوم: درمورد اخلاق درویشان"
+    },
+    {
+      "VOrder": 190,
+      "Position": "Paragraph",
+      "Text": "باب سوم: در فضیلت قناعت",
+      "CoupletIndex": 112,
+      "CoupletSummary": "فصل سوم: دربارهٔ ارزش قناعت"
+    },
+    {
+      "VOrder": 191,
+      "Position": "Paragraph",
+      "Text": "باب چهارم: در فواید خاموشی",
+      "CoupletIndex": 113,
+      "CoupletSummary": "فصل چهارم: دربارهٔ مزایای سکوت و خاموشی"
+    },
+    {
+      "VOrder": 192,
+      "Position": "Paragraph",
+      "Text": "باب پنجم: در عشق و جوانی",
+      "CoupletIndex": 114,
+      "CoupletSummary": "فصل پنجم: درمورد موضوع عشق و جوانی"
+    },
+    {
+      "VOrder": 193,
+      "Position": "Paragraph",
+      "Text": "باب ششم: در ضعف و پیری",
+      "CoupletIndex": 115,
+      "CoupletSummary": "فصل ششم: در مورد ناتوانی و پیری"
+    },
+    {
+      "VOrder": 194,
+      "Position": "Paragraph",
+      "Text": "باب هفتم: در تأثیر تربیت",
+      "CoupletIndex": 116,
+      "CoupletSummary": "فصل هفتم: درمورد اثر تربیت"
+    },
+    {
+      "VOrder": 195,
+      "Position": "Paragraph",
+      "Text": "باب هشتم: در آداب صحبت",
+      "CoupletIndex": 117,
+      "CoupletSummary": "فصل هشتم: درمورد راه و رسم گفتگو"
+    },
+    {
+      "VOrder": 196,
+      "Position": "Right",
+      "Text": "در این مدت که ما را وقت خوش بود",
+      "CoupletIndex": 118,
+      "SectionIndex1": 26,
+      "CoupletSummary": "در این مدت که ما از زندگی خوب و خوشی برخوردار بودیم، سال ششصد و پنجاه و ششم بعد از هجرت پیامبر بود (سال ۶۵۶ هجری قمری)."
+    },
+    {
+      "VOrder": 197,
+      "Position": "Left",
+      "Text": "ز هجرت شش‌صد و پنجاه و شش بود",
+      "CoupletIndex": 118,
+      "SectionIndex1": 26
+    },
+    {
+      "VOrder": 198,
+      "Position": "Right",
+      "Text": "مراد ما نصیحت بود و گفتیم",
+      "CoupletIndex": 119,
+      "SectionIndex1": 26,
+      "CoupletSummary": "ما هدفمان نصیحت بود و گفتیم که کار را به خدا سپرده‌ایم و رفتیم."
+    },
+    {
+      "VOrder": 199,
+      "Position": "Left",
+      "Text": "حوالت با خدا کردیم و رفتیم",
+      "CoupletIndex": 119,
+      "SectionIndex1": 26
+    }
+  ]
+}

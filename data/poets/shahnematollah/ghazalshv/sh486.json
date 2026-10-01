@@ -1,0 +1,135 @@
+{
+  "Id": 46461,
+  "CatId": 1724,
+  "Title": "غزل شمارهٔ ۴۸۶",
+  "FullTitle": "شاه نعمت‌الله ولی » غزلیات » غزل شمارهٔ ۴۸۶",
+  "FullUrl": "/shahnematollah/ghazalshv/sh486",
+  "RhymeLetters": "انبود",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر به توصیف عشق و جایگاه آن در دل انسان می‌پردازد. او به این نکته اشاره می‌کند که جان انسان بدون عشق بی‌معنا و بی‌ارزش است. عشق گنجی پنهان در دل است و در عین حال نمی‌توان آن را به وضوح دید. شاعر از پرتو عشق به عنوان روشنایی زندگی یاد می‌کند و عشق را به آفتاب تشبیه می‌کند که سایه‌اش عالم را می‌پوشاند. او دعوت می‌کند که دل را به دریا بسپاریم و با هم به تماشای این عشق بی‌پایان بنشینیم. این شعر به زیبایی از اتحاد بین صورت و معنی، موج و دریا سخن می‌گوید و در نهایت، اشاره به وجود نعمت‌های الهی در میخانه‌ها و نزد ساقی‌ها دارد.",
+  "Metre": {
+    "Id": 6,
+    "Rhythm": "فاعلاتن فاعلاتن فاعلن (رمل مسدس محذوف یا وزن مثنوی)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "انبود",
+      "PlainText": "جان بی جانان تن بی جان بود\r\nخوش نباشد جان که بی جانان بود\r\nکنج دل گنجینه عشق وی است\r\nآنچنان گنجی در این ویران بود\r\nچشم ما بسته خیالش در نظر\r\nروشنی دیده ما آن بود\r\nآفتابست او و عالم سایه بان\r\nاین چنین پیدا چنان پنهان بود\r\nدل به دریا ده بیا با ما نشین\r\nزانکه اینجا بحر بی پایان بود\r\nدو نماید صورت و معنی یکی است\r\nموج و دریا نزد ما یکسان بود\r\nنعمت الله در خرابات مغان\r\nدیدم او ساقی سرمستان بود",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eجان بی جانان تن بی جان بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخوش نباشد جان که بی جانان بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکنج دل گنجینهٔ عشق وی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآنچنان گنجی در این ویران بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچشم ما بسته خیالش در نظر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eروشنی دیدهٔ ما آن بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآفتابست او و عالم سایه بان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاین چنین پیدا چنان پنهان بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدل به دریا ده بیا با ما نشین\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزانکه اینجا بحر بی پایان بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدو نماید صورت و معنی یکی است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eموج و دریا نزد ما یکسان بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنعمت الله در خرابات مغان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیدم او ساقی سرمستان بود\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "جان بی جانان تن بی جان بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: روح آنانی که بی‌روح هستند، تن بی‌روحی دارد. خوشی در این نیست که روحی باشد که مختص بی‌روحان است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "خوش نباشد جان که بی جانان بود",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "کنج دل گنجینهٔ عشق وی است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در گوشهٔ دل، عشق او مانند یک گنج بزرگ است که در این ویرانی حضور دارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "آنچنان گنجی در این ویران بود",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "چشم ما بسته خیالش در نظر",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشم ما بسته است، اما خیال او همیشه در ذهن ما روشن و واضح است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "روشنی دیدهٔ ما آن بود",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "آفتابست او و عالم سایه بان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او همچون آفتاب است که نورش همه جا را روشن می‌کند، ولی جهان مانند سایه‌بان، وجود او را در پس خود پنهان می‌کند."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "این چنین پیدا چنان پنهان بود",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "دل به دریا ده بیا با ما نشین",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دل را به دلیرانه‌ای سپرده و بیا در کنار ما باش، زیرا اینجا دریایی بی انتها وجود دارد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زانکه اینجا بحر بی پایان بود",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "دو نماید صورت و معنی یکی است",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چهره و حقیقت یکی هستند؛ مانند موج و دریا که برای ما هیچ تفاوتی ندارند."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "موج و دریا نزد ما یکسان بود",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "نعمت الله در خرابات مغان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در خرابات مغان، به دیدار نعمت خدا رفتم و او را به عنوان ساقی سرمست‌ها دیدم."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "دیدم او ساقی سرمستان بود",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "Id": 48172,
+  "CatId": 1729,
+  "Title": "دوبیتی شمارهٔ ۸۱",
+  "FullTitle": "شاه نعمت‌الله ولی » دوبیتی‌ها » دوبیتی شمارهٔ ۸۱",
+  "FullUrl": "/shahnematollah/dobeytihash/sh81",
+  "RhymeLetters": "اهاست",
+  "SourceName": "کتابخانهٔ تصوف",
+  "SourceUrlSlug": "sufi",
+  "PoemSummary": "هوش مصنوعی: این ابیات به توصیف یک شاه می‌پردازند که دارای ویژگی‌های معنوی و جهانی است. او به عنوان نماد حکم و عدل شناخته می‌شود و در باطن خود مانند خورشید و در ظاهر مانند ماه است. همچنین، او به عنوان رند (عاشق) مست و زاهد هشیار معرفی می‌شود و به مقام سید بندگان درگاه خداوند اشاره دارد.",
+  "Metre": {
+    "Id": 9,
+    "Rhythm": "فعلاتن مفاعلن فعلن (خفیف مسدس مخبون)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "اهاست",
+      "PlainText": "حکم و عدل نام آن شاه است\r\nباطنا شمس و ظاهرا ماه است\r\nرند مست او زاهد هشیار\r\nسید بندگان درگاه است",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحکم و عدل نام آن شاه است\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eباطناً شمس و ظاهراً ماه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرند مست او زاهد هشیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسیّد بندگان درگاه است\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Generic",
+      "CoupletsCount": 2
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "حکم و عدل نام آن شاه است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قانون و انصاف ویژگی آن پادشاه است که در درونش مانند خورشید می‌درخشد و در ظاهر، مانند ماه آرام و زیباست."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "باطناً شمس و ظاهراً ماه است",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "رند مست او زاهد هشیار",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مست و سرگردان او، به نوعی همان زاهد باهوش و هوشیار است که در واقع، درگاه بندگان خدا را خدمت می‌کند و بر آن‌ها سیادت دارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "سیّد بندگان درگاه است",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    }
+  ]
+}

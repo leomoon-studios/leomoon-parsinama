@@ -1,0 +1,135 @@
+{
+  "Id": 21810,
+  "CatId": 321,
+  "Title": "شمارهٔ  ۶۷",
+  "FullTitle": "محتشم کاشانی » دیوان اشعار » غزلیات » شمارهٔ  ۶۷",
+  "FullUrl": "/mohtasham/divan-moh/ghazal-moh/sh67",
+  "RhymeLetters": "ارازانپیداست",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر با توصیف زیبایی‌های ظاهری معشوق، ویژگی‌های جذاب او را به تصویر می‌کشد. از «رخت» و «قد» گرفته تا «چهره» و «ابرو»، هر جزء آن، نشانه‌ای از دقت و قدرت آفریدگار است. شاعر با کنایه به حرکات و نگاه‌ها، تأثیر و جذبه‌ای که معشوق بر او دارد را بیان می‌کند و در نهایت با اشاره به زلف و بی‌قراری، نشان می‌دهد که چقدر این زیبایی‌ها او را تحت تأثیر قرار داده‌اند.",
+  "Metre": {
+    "Id": 3,
+    "Rhythm": "مفاعلن فعلاتن مفاعلن فعلن (مجتث مثمن مخبون محذوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ارازانپیداست",
+      "PlainText": "رخت که صورت صنع آشکار از آن پیداست\r\nنشان دقت صورت نگار از آن پیداست\r\nقدت که بر صفتش نیست هیچ کس قادر\r\nکمان قدرت پروردگار از آن پیداست\r\nسرت که گرم می لطف بود دوش امروز\r\nگرانی حرکات خمار از آن پیداست\r\nبه زیر دامن حسنت نهفته است هنوز\r\nخطی که گرد گلت صد بهار از آن پیداست\r\nکمان سخت کش است ابرویت ولی کششی\r\nبه جانب همه بی اختیار از آن پیداست\r\nکرشمه سازی از آن چشم را چه نام کنم\r\nکه عشوه های نهان صد هزار از آن پیداست\r\nز بی قراری زلفت جز این نمی گویم\r\nکه حال محتشم بی قرار از آن پیداست",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eرخت که صورت صنع آشکار از آن پیداست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eنشان دقت صورت نگار از آن پیداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eقدت که بر صفتش نیست هیچ کس قادر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکمان قدرت پروردگار از آن پیداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eسرت که گرم می لطف بود دوش امروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eگرانی حرکات خمار از آن پیداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبه زیر دامن حسنت نهفته است هنوز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخطی که گرد گلت صد بهار از آن پیداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکمان سخت کش است ابرویت ولی کششی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبه جانب همه بی‌اختیار از آن پیداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eکرشمه سازی از آن چشم را چه نام کنم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه عشوه‌های نهان صد هزار از آن پیداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eز بی‌قراری زلفت جز این نمی‌گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکه حال محتشم بی‌قرار از آن پیداست\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 7
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "رخت که صورت صنع آشکار از آن پیداست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی چهره‌ات به وضوح نمایان است و نشان‌دهنده‌ی ظرافت و دقت هنرمند در آفرینش آن است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "نشان دقت صورت نگار از آن پیداست",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "قدت که بر صفتش نیست هیچ کس قادر",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قد و قامت تو به گونه‌ای است که هیچ‌کس نمی‌تواند آن را وصف کند؛ بلکه قدرت و توانایی خداوند است که در این زیبایی نمایان شده است."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "کمان قدرت پروردگار از آن پیداست",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "سرت که گرم می لطف بود دوش امروز",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر سرت که به عشق و محبت مشغول بود، شب گذشته به خوبی نشان از سنگینی و خمار بودن حرکاتت وجود دارد."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "گرانی حرکات خمار از آن پیداست",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "به زیر دامن حسنت نهفته است هنوز",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: در زیر دامن زیبایی‌ات هنوز نشانه‌ای پنهان است که گرد گل تو، به‌مدت صد بهار آن را نمایان کرده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "خطی که گرد گلت صد بهار از آن پیداست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "کمان سخت کش است ابرویت ولی کششی",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ابروی تو مانند کمانی سفت و محکم است، اما این که هرکسی ناخواسته به سمت تو جلب می‌شود، نشان از جذابیت تو دارد."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "به جانب همه بی‌اختیار از آن پیداست",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "کرشمه سازی از آن چشم را چه نام کنم",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چشمی که این‌گونه ناز و کرشمه دارد چه نامی می‌تواند داشته باشد؟ زیرا از زیرکی و فریبندگی‌اش هزاران زیبایی نهفته نمایان است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "که عشوه‌های نهان صد هزار از آن پیداست",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "ز بی‌قراری زلفت جز این نمی‌گویم",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از بی‌قراری موهای تو فقط همین را می‌گویم که حالت بی‌قراری من از آن مشخص است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "که حال محتشم بی‌قرار از آن پیداست",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    }
+  ]
+}

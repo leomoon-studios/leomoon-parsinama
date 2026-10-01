@@ -1,0 +1,540 @@
+{
+  "Id": 69852,
+  "CatId": 2039,
+  "Title": "شمارهٔ ۳۷۷",
+  "FullTitle": "امیر معزی » قصاید » شمارهٔ ۳۷۷",
+  "FullUrl": "/amir/ghasa/sh377",
+  "RhymeLetters": "ان",
+  "SourceName": "پروژهٔ بازبینی OCR",
+  "SourceUrlSlug": "ocr",
+  "PoemSummary": "هوش مصنوعی: این شعر به توفیقات الهی و نعمت‌های خداوند در تاریخ اشاره دارد و ابراز شادی از وقایع مثبت در زندگی پیامبران و شخصیت‌های بزرگ دینی و تاریخی می‌باشد. شاعر از خداوند شکرگزاری می‌کند که در مشکلات، راه‌حل‌ها و نجات‌هایی برای بندگانش فراهم کرده است، مانند نجات یونس از شکم ماهی یا پیروزی پیامبر اسلام در مکه. او همچنین به شخصیت‌هایی چون بوالقاسم مقبل اشاره می‌کند و فضائل و ویژگی‌های خوب آن‌ها را می‌ستاید. در نهایت، شاعر بر اهمیت شکرگزاری و ستایش خداوند و تأثیر مثبت رهبری و خدمت به مردم تأکید می‌کند.",
+  "Metre": {
+    "Id": 16,
+    "Rhythm": "مستفعلن مستفعلن مستفعلن مستفعلن (رجز مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ان",
+      "PlainText": "المنه لله که خورشید خراسان\r\nاز برج شرف گشت دگرباره درخشان\r\nالمنه لله که گلزار به نوروز\r\nبشکفت اگر مرد ز سرمای زمستان\r\nالمنه لله که بر شخص براهیم\r\nآفت همه راحت شد و آتش همه ریحان\r\nالمنه لله که موسای پیمبر\r\nکلی فرجی یافت ز فرعون و ز هامان\r\nالمنه لله که یعقوب به یوسف\r\nخرم شد و در بست در کلبه احزان\r\nالمنه لله که یوسف به امارت\r\nبنشست و عدو گشت اسیر چه و زندان\r\nالمنه لله که اندر کف داود\r\nچون موم شد آهن نه به آتش نه به سندان\r\nالمنه لله که انگشتری ملک\r\nکردند دگرباره در انگشت سلیمان\r\nالمنه لله که یونس به سلامت\r\nرست از شکم ماهی و تاریکی ایوان\r\nالمنه لله  که در ظلمت بسیار\r\nپنهان نشد از خضر نبی چشمه حیوان\r\nالمنه لله  که در مکه ظفر یافت\r\nپیغمبر امی ز پس هجرت و هجران\r\nالمنه لله که شایسته دستور\r\nبنشست به دستوری دستور به دیوان\r\nالمنه لله که آراست دگر بار\r\nدیوان خراسان به سرافراز خراسان\r\nآن بار خدایی که معین آمد و ناصر\r\nبر ملْک شه مشرق و در دولت سلطان\r\nبوالقاسم مقبل که چو بوالقاسم مقبول\r\nبگزیده خلق است و پسندیده یزدان\r\nاو کارگزار است که کار ملکان را\r\nالا سر کلکش نشناسد سر و سامان\r\nدر دیده دین است خردمندی او نور\r\nدر پیکر ملک است هنرمندی او جان\r\nیک چند شد از خدمت مخدوم و خداوند\r\nدور از حسد حاسد و از فتنه شیطان\r\nحاسد شد و در زاویه افتاد ز محنت\r\nشیطان شد و در هاویه افتاد ز خذلان\r\nپای عدو از بند بفرسود که دستور\r\nبا خواجه ما دست بکردست به پیمان\r\nدی کان کفایت ز گهر سخت تهی بود\r\nامروز امید است که خیزد گهر از کان\r\nگر رنج بد از حسرت او بر تن احرار\r\nور درد بد از غیبت او بر دل اعیان\r\nشد کار عجم خوب ز نقش قلم او\r\nجامه ز علم خوب شود نامه ز عنوان\r\nای مهتری تو مدد دولت و اقبال\r\nوی سروری تو شرف ملکت و ایمان\r\nمحتاج بزرگان به تو چون دهر به خورشید\r\nمحتاج  کریمان به تو چون  کشت به  باران\r\nبرنامه تو چشم وزیر شه مشرق\r\nبر وعده تو گوش سپاه سر ایران\r\nزودا که نهی روی بدان حضرت میمون\r\nبا مرتبه و کوکبه و خیل فراوان\r\nزودا که پس از خواستن عمر تو گویم\r\nاز تو همه طاعت بود از ما همه عصیان\r\nدر خانه و در خیمه چو در شهر و چو در راه\r\nهرگه که نهی مجلس و هرگه که نهی خوان\r\nمن بیش تو خواهم که بوم در همه وقتی\r\nخالی نبود مجلس و خوانت ز ثناخوان\r\nچون مدح تو خوانم ز تو بینم همه احسنت\r\nچون شکر تو گویم ز تو یابم همه احسان\r\nتا ابر در افشان بود از مرکز علوی\r\nتا مهر درخشان بود از گنبد گردان\r\nاز فر تو تیمار خلایق شده شادی\r\nوز سعی تو دشوار خلایق شده آسان\r\nدیدار تو دیده ملک و خواجه لشکر\r\nایشان به تو دلشاد و تو دلشاد به ایشان",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنهٔ لله که خورشید خراسان\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز برج شرف گشت دگرباره درخشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنهٔ لِلِّه که گلزار به نوروز\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبشکفت اگر مُرد ز سرمای زمستان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنهٔ لِلّه که بر شخص بَراهیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eآفت همه راحت شد و آتش همه ریحان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنهٔ لله که موسای پیمبر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکلی فرجی یافت ز فرعون و ز هامان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنهٔ لله که یعقوب به یوسف\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخرم شد و در بست درِ کلبهٔ احزان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنهٔ لله که یوسف به اَمارت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنشست و عدو گشت اسیر چَه و زندان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنهٔ لله که اندر کف داود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون موم شد آهن نه به آتش نه به سندان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنهٔ لله که انگشتری ملک\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکردند دگرباره در انگشت سلیمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنهٔ لله که یونس به سلامت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eرست از شکم ماهی و تاریکی ایوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn10\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنهٔ لله‌ که در ظلمتِ بسیار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپنهان نشد از خضر نبی چشمهٔ حیوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn11\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنهٔ لله‌ که در مکه ظفر یافت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپیغمبر امّی ز پس هجرت و هجران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn12\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنهٔ لله که شایستهٔ دستور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبنشست به دستوری دستور به دیوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn13\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eالمنهٔ لله‌که آراست دگر بار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدیوان خراسان به سرافراز خراسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn14\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eآن بار خدایی‌که معین آمد و ناصر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر مُلْک شه مشرق و در دولت سلطان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn15\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبوالقاسم مُقبِل که چو بوالقاسم مقبول\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبگزیدهٔ خلق است و پسندیدهٔ یزدان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn16\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاو کارگزار است که کار ملکان را\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eالا سر کلکش نشناسد سر و سامان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn17\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر دیدهٔ دین است خردمندی او نور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدر پیکر ملک است هنرمندی او جان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn18\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eیک چند شد از خدمت مخدوم و خداوند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدور از حسد حاسد و از فتنهٔ شیطان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn19\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحاسد شد و در زاویه افتاد ز محنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eشیطان شد و در هاویه افتاد ز خذلان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn20\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپای عدو از بند بفرسود که دستور\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا خواجهٔ ما دست بکردست به پیمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn21\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدی کان کفایت ز گهر سخت تهی بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eامروز امید است که خیزد گهر از کان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn22\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر رنج بُد از حسرت او بر تن احرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eور درد بد از غیبت او بر دل اعیان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn23\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eشد کار عجم خوب ز نقش قلم او\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eجامه ز عَلَم خوب شود نامه ز عنوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn24\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eای مهتری تو مددِ دولت و اقبال\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوی سروری تو شرف مُلکَت و ایمان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn25\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمحتاج بزرگان به تو چون دهر به خورشید\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمحتاج‌ کریمان به تو چون‌ کِشت به‌ باران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn26\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبرنامهٔ تو چشم وزیرِ شهِ مشرق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر وعدهٔ تو گوش سپاهِ سرِ ایران\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn27\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزودا که نهی روی بدان حضرت میمون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبا مرتبه و کوکبه و خیل فراوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn28\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزودا که پس از خواستن عمر تو گویم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eاز تو همه طاعت بود از ما همه عصیان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn29\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدر خانه و در خیمه چو در شهر و چو در راه\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eهرگه‌که نهی مجلس و هرگه‌که نهی خوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn30\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمن بیش تو خواهم‌که بُوَم در همه وقتی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخالی نبود مجلس و خوانت ز ثناخوان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn31\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچون مدح تو خوانم ز تو بینم همه احسنت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچون شکر تو گویم ز تو یابم همه احسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn32\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eتا ابر در افشان بود از مرکز عِلوی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eتا مهر درخشان بود از گنبد گردان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn33\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز فر تو تیمار خلایق شده شادی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eوز سعی تو دشوار خلایق شده آسان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn34\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eدیدار تو دیده ملک و خواجهٔ لشکر\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eایشان به تو دلشاد و تو دلشاد به ایشان\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghaside",
+      "CoupletsCount": 34
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "المنهٔ لله که خورشید خراسان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سپاسگزارم از خداوند که خورشید خراسان بار دیگر در اوج خود درخشید و نورش را منتشر کرد."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "از برج شرف گشت دگرباره درخشان",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "المنهٔ لِلِّه که گلزار به نوروز",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به این معناست که اگرچه بهار و زیبایی‌های زندگی (مثل شکفتن گل‌ها در نوروز) ممکن است تحت تأثیر سرمای زمستان قرار گیرند و حتی از بین بروند، اما در نهایت همه چیز به لطف خداوند بهبود می‌یابد و زندگی دوباره جان می‌گیرد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "بشکفت اگر مُرد ز سرمای زمستان",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "المنهٔ لِلّه که بر شخص بَراهیم",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به لطف خدا، اوضاع برای ابراهیم به خوبی پیش رفت و تمام مشکلات او حل شد. آتش او را اذیت نکرد و به او آسیب نرساند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "آفت همه راحت شد و آتش همه ریحان",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "المنهٔ لله که موسای پیمبر",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سپاسگزاری برای این است که موسی، پیامبر، از دست فرعون و هامان نجات یافت و امیدی جدید پدید آمده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "کلی فرجی یافت ز فرعون و ز هامان",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "المنهٔ لله که یعقوب به یوسف",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشحالی و شکرگزاری به خاطر این است که یعقوب از دیدن یوسف شاد شد و در کلبه‌ی غم خود را بست."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خرم شد و در بست درِ کلبهٔ احزان",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "المنهٔ لله که یوسف به اَمارت",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشا به حال خدا که یوسف به مقام بلند رسید و دشمن او در چاه و زندان گرفتار شد."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "بنشست و عدو گشت اسیر چَه و زندان",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "المنهٔ لله که اندر کف داود",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سپاس و شکرگزاری خاص خداوند است که آهن در دستان داود مانند موم نرم شد، بدون نیاز به آتش یا چکش."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "چون موم شد آهن نه به آتش نه به سندان",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "المنهٔ لله که انگشتری ملک",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خدا را شکر که دوباره انگشتر سلطنتی در دست سلیمان قرار گرفت."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "کردند دگرباره در انگشت سلیمان",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "المنهٔ لله که یونس به سلامت",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خوشحالی و شکرگزاری به خاطر نجات یونس از شکم ماهی و تاریکی که در آن قرار داشت."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "رست از شکم ماهی و تاریکی ایوان",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 19,
+      "Position": "Right",
+      "Text": "المنهٔ لله‌ که در ظلمتِ بسیار",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سپاسگزاری از خدا که در تاریکی‌های فراوان، چشمه‌ی زندگی از خضر نبی آشکار نشد."
+    },
+    {
+      "VOrder": 20,
+      "Position": "Left",
+      "Text": "پنهان نشد از خضر نبی چشمهٔ حیوان",
+      "CoupletIndex": 9,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 21,
+      "Position": "Right",
+      "Text": "المنهٔ لله‌ که در مکه ظفر یافت",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سپاس خدا را که پیامبر بی‌سواد پس از هجرت و دوری، در مکه موفق شد."
+    },
+    {
+      "VOrder": 22,
+      "Position": "Left",
+      "Text": "پیغمبر امّی ز پس هجرت و هجران",
+      "CoupletIndex": 10,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 23,
+      "Position": "Right",
+      "Text": "المنهٔ لله که شایستهٔ دستور",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این متن اشاره دارد به اینکه نعمت و بخشش از سوی خداوند است و کسی که شایسته و لایق است، با دستور و هدایت می‌تواند به عالی‌ترین مقام‌ها و جایگاه‌ها دست یابد."
+    },
+    {
+      "VOrder": 24,
+      "Position": "Left",
+      "Text": "بنشست به دستوری دستور به دیوان",
+      "CoupletIndex": 11,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 25,
+      "Position": "Right",
+      "Text": "المنهٔ لله‌که آراست دگر بار",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: سپاس خداوندی را که بار دیگر دیوان خراسان را با شکوه و زیبایی آراسته است."
+    },
+    {
+      "VOrder": 26,
+      "Position": "Left",
+      "Text": "دیوان خراسان به سرافراز خراسان",
+      "CoupletIndex": 12,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 27,
+      "Position": "Right",
+      "Text": "آن بار خدایی‌که معین آمد و ناصر",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بار خدایی که به عنوان یاور و پشتیبان بر تخت سلطنت در سرزمین شرقی ظاهر شد و دولت سلطان را تقویت کرد."
+    },
+    {
+      "VOrder": 28,
+      "Position": "Left",
+      "Text": "بر مُلْک شه مشرق و در دولت سلطان",
+      "CoupletIndex": 13,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 29,
+      "Position": "Right",
+      "Text": "بوالقاسم مُقبِل که چو بوالقاسم مقبول",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بوالقاسم مُقبِل به عنوان شخصی شناخته می‌شود که مورد تایید و قبول مردم و خداوند قرار گرفته است."
+    },
+    {
+      "VOrder": 30,
+      "Position": "Left",
+      "Text": "بگزیدهٔ خلق است و پسندیدهٔ یزدان",
+      "CoupletIndex": 14,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 31,
+      "Position": "Right",
+      "Text": "او کارگزار است که کار ملکان را",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: او کسی است که به امور و کارهای پادشاهان می‌پردازد، اما در واقع تنها به خودخواهی و منافع شخصی‌اش می‌اندیشد و از مشکلات واقعی آنها بی‌خبر است."
+    },
+    {
+      "VOrder": 32,
+      "Position": "Left",
+      "Text": "الا سر کلکش نشناسد سر و سامان",
+      "CoupletIndex": 15,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 33,
+      "Position": "Right",
+      "Text": "در دیدهٔ دین است خردمندی او نور",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: خردمندی او در نظر دین نمایان است و هنر او همچون نوری در وجود پادشاهی می‌درخشد."
+    },
+    {
+      "VOrder": 34,
+      "Position": "Left",
+      "Text": "در پیکر ملک است هنرمندی او جان",
+      "CoupletIndex": 16,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 35,
+      "Position": "Right",
+      "Text": "یک چند شد از خدمت مخدوم و خداوند",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: مدتی از خدمت و همراهی آقا و صاحب‌منصب دور بودم، بی‌آنکه حسادت حسودان و وسوسه‌های شیطان مرا تحت تأثیر قرار دهد."
+    },
+    {
+      "VOrder": 36,
+      "Position": "Left",
+      "Text": "دور از حسد حاسد و از فتنهٔ شیطان",
+      "CoupletIndex": 17,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 37,
+      "Position": "Right",
+      "Text": "حاسد شد و در زاویه افتاد ز محنت",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حسادت او را به گوشه‌ای راند و از درد و رنج، به شکل شیطان درآمد و به تله‌ی بی‌پشتیبانی گرفتار شد."
+    },
+    {
+      "VOrder": 38,
+      "Position": "Left",
+      "Text": "شیطان شد و در هاویه افتاد ز خذلان",
+      "CoupletIndex": 18,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 39,
+      "Position": "Right",
+      "Text": "پای عدو از بند بفرسود که دستور",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: پای دشمن از بند رها شد زیرا که فرمان از سوی آقای ما اجرا شده است و توافقی برقرار شده است."
+    },
+    {
+      "VOrder": 40,
+      "Position": "Left",
+      "Text": "با خواجهٔ ما دست بکردست به پیمان",
+      "CoupletIndex": 19,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 41,
+      "Position": "Right",
+      "Text": "دی کان کفایت ز گهر سخت تهی بود",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: امروز امید دارم که از دل این سنگ خارا، که به نظر خالی می‌آید، جواهر ارزشمندی بیرون بیاید."
+    },
+    {
+      "VOrder": 42,
+      "Position": "Left",
+      "Text": "امروز امید است که خیزد گهر از کان",
+      "CoupletIndex": 20,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 43,
+      "Position": "Right",
+      "Text": "گر رنج بُد از حسرت او بر تن احرار",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر رنجی باشد از آرزوی دیدن او بر تن آزادگان، و اگر دردی باشد از نبودنش بر دل افراد برجسته."
+    },
+    {
+      "VOrder": 44,
+      "Position": "Left",
+      "Text": "ور درد بد از غیبت او بر دل اعیان",
+      "CoupletIndex": 21,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 45,
+      "Position": "Right",
+      "Text": "شد کار عجم خوب ز نقش قلم او",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: کار مردم عجم به خوبی پیش می‌رود، چون به خاطر هنر قلم او، لباس خوشی به دوش می‌کشند و نامه‌ها با عنوان زیبایی نوشته می‌شوند."
+    },
+    {
+      "VOrder": 46,
+      "Position": "Left",
+      "Text": "جامه ز عَلَم خوب شود نامه ز عنوان",
+      "CoupletIndex": 22,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 47,
+      "Position": "Right",
+      "Text": "ای مهتری تو مددِ دولت و اقبال",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو ای بزرگواری، کمک‌کننده به دولت و خوشبختی، سروری تو مایه‌ی افتخار ملکت و ایمان است."
+    },
+    {
+      "VOrder": 48,
+      "Position": "Left",
+      "Text": "وی سروری تو شرف مُلکَت و ایمان",
+      "CoupletIndex": 23,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 49,
+      "Position": "Right",
+      "Text": "محتاج بزرگان به تو چون دهر به خورشید",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: نیاز انسان‌های بزرگ به تو همانند نیاز دنیا به خورشید است و نیاز افراد بخشنده به تو شبیه نیاز زمین به باران می‌باشد."
+    },
+    {
+      "VOrder": 50,
+      "Position": "Left",
+      "Text": "محتاج‌ کریمان به تو چون‌ کِشت به‌ باران",
+      "CoupletIndex": 24,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 51,
+      "Position": "Right",
+      "Text": "برنامهٔ تو چشم وزیرِ شهِ مشرق",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: برنامهٔ تو مانند چشمان وزیر شاه مشرق، به وعدهٔ تو توجه دارد و سپاه سرزمین ایران به آن گوش می‌دهد."
+    },
+    {
+      "VOrder": 52,
+      "Position": "Left",
+      "Text": "بر وعدهٔ تو گوش سپاهِ سرِ ایران",
+      "CoupletIndex": 25,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 53,
+      "Position": "Right",
+      "Text": "زودا که نهی روی بدان حضرت میمون",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: ای کاش که به زودی چهره‌ات را در برابر آن وجود مبارک و خوشبو ببینم، همراه با مقام و منزلتی بزرگ و جمعیتی فراوان."
+    },
+    {
+      "VOrder": 54,
+      "Position": "Left",
+      "Text": "با مرتبه و کوکبه و خیل فراوان",
+      "CoupletIndex": 26,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 55,
+      "Position": "Right",
+      "Text": "زودا که پس از خواستن عمر تو گویم",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: به زودی، زمانی که از تو درباره عمرت بپرسم، می‌گویم که از جانب تو همه نیکی و فرمانبرداری بوده و از ما تنها نافرمانی و خطا بوده است."
+    },
+    {
+      "VOrder": 56,
+      "Position": "Left",
+      "Text": "از تو همه طاعت بود از ما همه عصیان",
+      "CoupletIndex": 27,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 57,
+      "Position": "Right",
+      "Text": "در خانه و در خیمه چو در شهر و چو در راه",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر جا که باشی، چه در خانه یا چادر، چه در شهر یا در مسافرت، هر وقت که بخواهی دور هم جمع می‌شویم و هر زمان که بخواهی سفره‌ای برای پذیرایی آماده می‌کنیم."
+    },
+    {
+      "VOrder": 58,
+      "Position": "Left",
+      "Text": "هرگه‌که نهی مجلس و هرگه‌که نهی خوان",
+      "CoupletIndex": 28,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 59,
+      "Position": "Right",
+      "Text": "من بیش تو خواهم‌که بُوَم در همه وقتی",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من همیشه آرزو دارم که در هر زمانی، در جمع تو و در کنار سفره‌ات وجود داشته باشم و کسی بر ستایشت نیفزاید."
+    },
+    {
+      "VOrder": 60,
+      "Position": "Left",
+      "Text": "خالی نبود مجلس و خوانت ز ثناخوان",
+      "CoupletIndex": 29,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 61,
+      "Position": "Right",
+      "Text": "چون مدح تو خوانم ز تو بینم همه احسنت",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: وقتی از تو تعریف می‌کنم، همه چیز را در تو زیبا می‌بینم. و وقتی به تو سپاسگزاری می‌کنم، تمام خوبی‌ها را از تو دریافت می‌کنم."
+    },
+    {
+      "VOrder": 62,
+      "Position": "Left",
+      "Text": "چون شکر تو گویم ز تو یابم همه احسان",
+      "CoupletIndex": 30,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 63,
+      "Position": "Right",
+      "Text": "تا ابر در افشان بود از مرکز عِلوی",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تا زمانی که ابرها در آسمان پخش بودند و نور خورشید از میان آنها می‌تابید، زیبایی و روشنی در آسمان وجود داشت."
+    },
+    {
+      "VOrder": 64,
+      "Position": "Left",
+      "Text": "تا مهر درخشان بود از گنبد گردان",
+      "CoupletIndex": 31,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 65,
+      "Position": "Right",
+      "Text": "از فر تو تیمار خلایق شده شادی",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زیبایی و درخشش تو باعث شده که مردم شاداب شوند و تلاش‌های تو باعث شده که کارهای سخت برای آن‌ها آسان‌تر به نظر برسد."
+    },
+    {
+      "VOrder": 66,
+      "Position": "Left",
+      "Text": "وز سعی تو دشوار خلایق شده آسان",
+      "CoupletIndex": 32,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 67,
+      "Position": "Right",
+      "Text": "دیدار تو دیده ملک و خواجهٔ لشکر",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دیدن تو باعث شادی و سرور همه، از جمله فرماندهان و سربازان شده است و آنها نیز از این دیدار خوشحالند."
+    },
+    {
+      "VOrder": 68,
+      "Position": "Left",
+      "Text": "ایشان به تو دلشاد و تو دلشاد به ایشان",
+      "CoupletIndex": 33,
+      "SectionIndex1": 0
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "Id": 12440,
+  "CatId": 190,
+  "Title": "شمارهٔ ۳۳۶",
+  "FullTitle": "سنایی » دیوان اشعار » غزلیات » شمارهٔ ۳۳۶",
+  "FullUrl": "/sanaee/divans/ghazal-sanaee/sh336",
+  "RhymeLetters": "ندازین",
+  "SourceName": "ویکی‌درج",
+  "SourceUrlSlug": "wikidorj",
+  "PoemSummary": "هوش مصنوعی: در این شعر، شاعر از مشکلات و دردهای ناشی از عشق می‌گوید. او احساس می‌کند که صبرش کم شده و عشقش روز به روز بیشتر می‌شود. دلش زخم خورده و دردی عمیق دارد. عشق و زیبایی های یار او را به وجد آورده اما همچنین موجب رنجش او شده است. با این حال، عشق و عقل در زندگی او نمی‌توانند کنار هم باشند و این موضوع او را خسته کرده است. در نهایت، شاعر به این نتیجه می‌رسد که عاشق شدن نوعی جنون است و در این مسیر، زندگی‌اش پر از پیچیدگی‌ها و فنون عشق است.",
+  "Metre": {
+    "Id": 16,
+    "Rhythm": "مستفعلن مستفعلن مستفعلن مستفعلن (رجز مثمن سالم)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ون",
+      "PlainText": "صبر کم گشت و عشق روز افزون\r\nکیسه بی سیم گشت و دل پرخون\r\nمی دهد درد می نهد منت\r\nیار ما را عجب گرفت زبون\r\nصنعتش سال و ماه عشوه و زرق\r\nسخنش روز و شب فنون و فسون\r\nپشت کوژ و تنم ضعیف شدست\r\nپشت چون نون و دل چو نقطه نون\r\nعقل با عشق در نمی گنجد\r\nزین دل خسته رخت برد برون\r\nحالم اینست و حرص و عشقم پیش\r\nراست گفتند ک الجنون فنون",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصبر کم گشت و عشق روز افزون\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eکیسه بی سیم گشت و دل پرخون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eمی‌دهد درد می‌نهد منت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eیار ما را عجب گرفت زبون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eصنعتش سال و ماه عشوه و زرق\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eسخنش روز و شب فنون و فسون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eپشت کوژ و تنم ضعیف شدست\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eپشت چون نون و دل چو نقطهٔ نون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eعقل با عشق در نمی‌گنجد\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزین دل خسته رخت برد برون\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eحالم اینست و حرص و عشقم پیش\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eراست گفتند ک «الجنون فنون»\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 6
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "صبر کم گشت و عشق روز افزون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: صبر کم شده و عشق روز به روز بیشتر می‌شود، در حالی که بی‌پولی و نداشتن امکانات موجب رنج و دل‌تنگی من شده است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "کیسه بی سیم گشت و دل پرخون",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "می‌دهد درد می‌نهد منت",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: دردی به ما می‌دهد و خود به شکلی ما را تحت فشار قرار می‌دهد. جالب اینجا است که زبان ما به حالتی عجیب درمی‌آید."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "یار ما را عجب گرفت زبون",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "صنعتش سال و ماه عشوه و زرق",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: این شعر به توصیف هنری و جذابیت شخصی اشاره دارد. شاعر به جزئیات و زیبایی‌های فردی می‌پردازد و می‌گوید که هنر و ذوق او در تمام روز و شب جلوه‌گر است، و با چشمان دلربایش توانسته است ماه و سال را تحت تأثیر قرار دهد. به طور کلی، این بیت به جذابیت و جاذبه‌های فردی می‌پردازد که بر زندگی و زمان تأثیرگذار هستند."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "سخنش روز و شب فنون و فسون",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "پشت کوژ و تنم ضعیف شدست",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: بدنم ضعیف و کمرم خمیده شده است، مانند نون که پشتش صاف است و دلم هم همچون نقطهٔ نون کوچک و ساده است."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "پشت چون نون و دل چو نقطهٔ نون",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "عقل با عشق در نمی‌گنجد",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: عقل و عشق نمی‌توانند در یک دل جا بگیرند. از این دل خسته و ناامید، عشق بیرون رفته است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "زین دل خسته رخت برد برون",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "حالم اینست و حرص و عشقم پیش",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: حال و روز من این است که به خاطر عشق و حسرت، دلم پر از آشفتگی شده است و این را به وضوح می‌توان درک کرد که جنون، به نوعی هنر است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "راست گفتند ک «الجنون فنون»",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    }
+  ]
+}

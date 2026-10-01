@@ -1,0 +1,165 @@
+{
+  "Id": 84780,
+  "CatId": 2211,
+  "Title": "شمارهٔ ۹۵",
+  "FullTitle": "حکیم سبزواری » دیوان اشعار » غزلیات » شمارهٔ ۹۵",
+  "FullUrl": "/asrar/divanhs/ghazal-hs/sh95",
+  "RhymeLetters": "ور",
+  "SourceName": "علی پی‌سپار",
+  "SourceUrlSlug": "ap",
+  "PoemSummary": "هوش مصنوعی: این شعر به تجربه‌های عاشقانه و روحانی می‌پردازد. شاعر به این معنا اشاره دارد که عشق واقعی می‌تواند فرد را از حالت خواب و مرگ عاطفی به زندگی و آگاهی برساند. او می‌گوید که اگر انسان با عشق زنده شود، می‌تواند از دنیای مادی و ظلمات رهایی یابد و به نور و روشنایی برسد. همچنین از چشمی که بی‌نوری را می‌بیند و نمی‌تواند زیبایی معشوق را درک کند، سخن گفته و می‌گوید که عشق، انسان را به درک و بینش عمیق‌تری می‌رساند. در نهایت، شاعر از مخاطب می‌خواهد که به عمق دل خود نگاه کند و اسرار عشق را کشف کند.",
+  "Metre": {
+    "Id": 19,
+    "Rhythm": "مفتعلن مفتعلن فاعلن (سریع مطوی مکشوف)"
+  },
+  "Sections": [
+    {
+      "Index": 0,
+      "Number": 1,
+      "SectionType": "WholePoem",
+      "VerseType": "First",
+      "RhymeLetters": "ایتولذیذ",
+      "PlainText": "بر دلم قهر و رضای تو لذیذ\r\nبر تنم رنج و شفای تو لذیذ\r\nهمه اطوار تو زیبا و پسند\r\nفرق سر تا کف پای تو لذیذ\r\nخواه مهر از تو رسد خواه جفا\r\nمهر تو نغز و جفای تو لذیذ\r\nچه بسازی چه بسوزی سازیم\r\nچه ولا و چه بلای تو لذیذ\r\nنسبتم را بسگ در گاهت\r\nخواه لاخواه بلای تو لذیذ\r\nگر برانی ز درت ور خوانی\r\nخود تو دانی همه رای تو لذیذ\r\nچه گذاری چه نوازی حکمی\r\nمانی و جمله نوای تو لذیذ\r\nزهر از دست توام نوش بود\r\nدرد یعنی که دوای تو لذیذ\r\nاز تناسب بر اسرار اسرار\r\nزان لب نکته سرای تو لذیذ",
+      "HtmlText": "\u003Cdiv class=\u0022b\u0022 id=\u0022bn1\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eبر دلم قهر و رضای تو لذیذ\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eبر تنم رنج و شفای تو لذیذ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn2\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eهمه اطوار تو زیبا و پسند\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eفرق سر تا کف پای تو لذیذ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn3\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eخواه مهر از تو رسد خواه جفا\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمهر تو نغز و جفای تو لذیذ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn4\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه بسازی چه بسوزی سازیم\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eچه ولا و چه بلای تو لذیذ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn5\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eنسبتم را بسگ در گاهت\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخواه لاخواه بلای تو لذیذ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn6\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eگر برانی ز درت ور خوانی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eخود تو دانی همه رای تو لذیذ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn7\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eچه گذاری چه نوازی حکمی\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eمانی و جمله نوای تو لذیذ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn8\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eزهر از دست توام نوش بود\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eدرد یعنی که دوای تو لذیذ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022b\u0022 id=\u0022bn9\u0022\u003E\u003Cdiv class=\u0022m1\u0022\u003E\u003Cp\u003Eاز تناسب بر اسرار اسرار\u003C/p\u003E\u003C/div\u003E\r\n\u003Cdiv class=\u0022m2\u0022\u003E\u003Cp\u003Eزان لب نکته سرای تو لذیذ\u003C/p\u003E\u003C/div\u003E\u003C/div\u003E",
+      "PoemFormat": "Ghazal",
+      "CoupletsCount": 9
+    }
+  ],
+  "Verses": [
+    {
+      "VOrder": 1,
+      "Position": "Right",
+      "Text": "بر دلم قهر و رضای تو لذیذ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: قهر و رضایت تو برای قلبم خوشایند است و درد و درمان تو برای بدنم لذت‌بخش است."
+    },
+    {
+      "VOrder": 2,
+      "Position": "Left",
+      "Text": "بر تنم رنج و شفای تو لذیذ",
+      "CoupletIndex": 0,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 3,
+      "Position": "Right",
+      "Text": "همه اطوار تو زیبا و پسند",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تمام رفتارها و ظاهر تو زیبا و دلپذیر است، از سر تا پای تو جذابیت خاصی دارد."
+    },
+    {
+      "VOrder": 4,
+      "Position": "Left",
+      "Text": "فرق سر تا کف پای تو لذیذ",
+      "CoupletIndex": 1,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 5,
+      "Position": "Right",
+      "Text": "خواه مهر از تو رسد خواه جفا",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: چه خوب باشد اگر محبت تو به من برسد و چه بد باشد اگر بی‌مهری کنی، زیرا محبت تو دلنشین و بی‌محبتیت شیرین است."
+    },
+    {
+      "VOrder": 6,
+      "Position": "Left",
+      "Text": "مهر تو نغز و جفای تو لذیذ",
+      "CoupletIndex": 2,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 7,
+      "Position": "Right",
+      "Text": "چه بسازی چه بسوزی سازیم",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: هر کاری که کنی، چه خوب و چه بد، باید با آرامش و لذت آن را پشت سر گذاشت."
+    },
+    {
+      "VOrder": 8,
+      "Position": "Left",
+      "Text": "چه ولا و چه بلای تو لذیذ",
+      "CoupletIndex": 3,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 9,
+      "Position": "Right",
+      "Text": "نسبتم را بسگ در گاهت",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: من نسبت به تو مثل سگ هستم که در دروازه‌ات نشسته است، چون در نهایت، بلا و گرفتاری تو برای من خوشایند است."
+    },
+    {
+      "VOrder": 10,
+      "Position": "Left",
+      "Text": "خواه لاخواه بلای تو لذیذ",
+      "CoupletIndex": 4,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 11,
+      "Position": "Right",
+      "Text": "گر برانی ز درت ور خوانی",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: اگر تو کسی را از در خانه‌ات برانی یا او را دعوت کنی، خودت بهتر از هر کس دیگری می‌دانی که تصمیم و دلخواه تو چقدر شیرین و دلپذیر است."
+    },
+    {
+      "VOrder": 12,
+      "Position": "Left",
+      "Text": "خود تو دانی همه رای تو لذیذ",
+      "CoupletIndex": 5,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 13,
+      "Position": "Right",
+      "Text": "چه گذاری چه نوازی حکمی",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: تو چه بهارانی و چه دل‌نوازی، که همواره حکمت و معنای تو در دل‌ها نقش بسته و تمامی نغمه‌های تو خوشایند و دل‌چسب است."
+    },
+    {
+      "VOrder": 14,
+      "Position": "Left",
+      "Text": "مانی و جمله نوای تو لذیذ",
+      "CoupletIndex": 6,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 15,
+      "Position": "Right",
+      "Text": "زهر از دست توام نوش بود",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: زهر دست تو برایم مثل نوشیدن است و درد به این معنی است که درمان تو خوشایند و لذت‌بخش است."
+    },
+    {
+      "VOrder": 16,
+      "Position": "Left",
+      "Text": "درد یعنی که دوای تو لذیذ",
+      "CoupletIndex": 7,
+      "SectionIndex1": 0
+    },
+    {
+      "VOrder": 17,
+      "Position": "Right",
+      "Text": "از تناسب بر اسرار اسرار",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0,
+      "CoupletSummary": "هوش مصنوعی: از هماهنگی و ارتباطی که در رازها وجود دارد، لذتی که از کلام تو به دست می‌آید، بسیار خوشایند و دلپذیر است."
+    },
+    {
+      "VOrder": 18,
+      "Position": "Left",
+      "Text": "زان لب نکته سرای تو لذیذ",
+      "CoupletIndex": 8,
+      "SectionIndex1": 0
+    }
+  ]
+}
