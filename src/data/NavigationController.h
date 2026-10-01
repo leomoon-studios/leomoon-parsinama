@@ -21,7 +21,6 @@ class NavigationController final : public QObject
     Q_PROPERTY(QString description READ description NOTIFY stateChanged)
     Q_PROPERTY(QString bookName READ bookName NOTIFY stateChanged)
     Q_PROPERTY(QVariantList breadcrumbs READ breadcrumbs NOTIFY stateChanged)
-    Q_PROPERTY(QVariantList sidebarPath READ sidebarPath NOTIFY stateChanged)
     Q_PROPERTY(qreal poetScroll READ poetScroll NOTIFY stateChanged)
     Q_PROPERTY(qreal collectionScroll READ collectionScroll NOTIFY stateChanged)
     Q_PROPERTY(int poemPosition READ poemPosition NOTIFY stateChanged)
@@ -43,7 +42,6 @@ public:
     QString description() const { return m_description; }
     QString bookName() const { return m_bookName; }
     QVariantList breadcrumbs() const { return m_breadcrumbs; }
-    QVariantList sidebarPath() const { return m_sidebarPath; }
     qreal poetScroll() const { return m_current.poetScroll; }
     qreal collectionScroll() const { return m_current.collectionScroll; }
     int poemPosition() const { return m_poemPosition; }
@@ -92,7 +90,6 @@ private:
     QString m_bookName;
     QString m_error;
     QVariantList m_breadcrumbs;
-    QVariantList m_sidebarPath;
     int m_poemPosition = 0;
     int m_poemCount = 0;
 };

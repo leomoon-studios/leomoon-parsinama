@@ -327,6 +327,12 @@ void DataTests::fullCatalogQueries()
     QCOMPARE(loader.readingRows()->rowCount(), 7);
     QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::PairedRole).toBool(), true);
     QVERIFY(!loader.summary().contains(QLatin1Char('\n')));
+    loader.loadByUrl(QStringLiteral("/shahriar/torki/sh3"));
+    QTRY_COMPARE_WITH_TIMEOUT(finished.size(), 3, 10000);
+    QVERIFY(finished.at(2).at(0).toBool());
+    QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::PairedRole).toBool(), false);
+    QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::PositionRole).toString(),
+             QStringLiteral("Single"));
 }
 
 QTEST_GUILESS_MAIN(DataTests)

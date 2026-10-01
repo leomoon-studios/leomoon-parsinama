@@ -63,7 +63,6 @@ bool NavigationController::applyLocation(const Location &location)
         m_poemPosition = 0;
         m_poemCount = 0;
         m_breadcrumbs = {crumb(QStringLiteral("شاعران"), QStringLiteral("poets"), {})};
-        m_sidebarPath.clear();
         m_current = location;
         setError({});
         emit stateChanged();
@@ -145,7 +144,6 @@ bool NavigationController::applyLocation(const Location &location)
     if (poem) {
         m_breadcrumbs.append(crumb(poem->title, QStringLiteral("poem"), poem->fullUrl));
     }
-    m_sidebarPath = m_breadcrumbs.mid(1, m_breadcrumbs.size() - (poem ? 2 : 1));
     setError({});
     emit stateChanged();
     return true;

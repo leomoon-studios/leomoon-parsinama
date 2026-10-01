@@ -9,7 +9,10 @@ Item {
     required property var navigationController
     required property var appTheme
     required property var typography
-    readonly property bool collapsed: width < 650 && navigationController.breadcrumbs.length > 3
+    readonly property real fullCrumbWidth: widthProbe.implicitWidth + 12
+    readonly property bool collapsed: navigationController.breadcrumbs.length > 3
+        && fullCrumbWidth > width
+    readonly property var hiddenEntries: navigationController.breadcrumbs.slice(1, -2)
     readonly property bool overflowVisible: hiddenCrumbs.visible
     signal activated(int index)
 
@@ -20,6 +23,24 @@ Item {
 
     implicitHeight: 38
     clip: true
+
+    Row {
+        id: widthProbe
+        opacity: 0
+        enabled: false
+        height: 0
+        spacing: 5
+        Repeater {
+            model: root.navigationController.breadcrumbs
+            delegate: Text {
+                required property var modelData
+                text: modelData && modelData.title ? modelData.title : ""
+                font.family: root.typography.family
+                font.pixelSize: 15
+                width: Math.min(220, implicitWidth + 24)
+            }
+        }
+    }
 
     RowLayout {
         anchors.fill: parent
@@ -37,8 +58,9 @@ Item {
                     id: crumbButton
                     Layout.maximumWidth: root.collapsed ? Math.max(90, (root.width - 50) / 3) : 220
                     implicitHeight: 34
-                    text: parent.modelData.title
+                    text: parent.modelData && parent.modelData.title ? parent.modelData.title : ""
                     font.family: root.typography.family
+                    font.pixelSize: 15
                     onClicked: root.activated(parent.index)
                     contentItem: Text {
                         LayoutMirroring.enabled: false
@@ -93,16 +115,18 @@ Item {
         closePolicy: Popup.CloseOnEscape | Popup.CloseOnPressOutside
         contentItem: Column {
             Repeater {
-                model: Math.max(0, root.navigationController.breadcrumbs.length - 3)
+                model: root.hiddenEntries
                 delegate: Button {
                     id: hiddenButton
                     required property int index
-                    readonly property var entry: root.navigationController.breadcrumbs[index + 1]
+                    required property var modelData
                     width: hiddenCrumbs.availableWidth
                     implicitHeight: 36
-                    text: entry.title
+                    text: modelData && modelData.title ? modelData.title : ""
                     font.family: root.typography.family
                     onClicked: {
+                        if (!hiddenButton.modelData)
+                            return
                         hiddenCrumbs.close()
                         root.activated(index + 1)
                     }

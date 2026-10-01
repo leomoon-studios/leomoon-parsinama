@@ -44,12 +44,12 @@ ApplicationWindow {
     LayoutMirroring.childrenInherit: true
 
     function selectPoet(fullUrl, name) {
-        if (navigationController.openPoet(fullUrl, poetList.contentY, collectionList.contentY))
+        if (navigationController.openPoet(fullUrl, poetList.contentY, collectionScrollOffset()))
             page = "poet"
     }
 
     function showPoets() {
-        navigationController.openPoets(poetList.contentY, collectionList.contentY)
+        navigationController.openPoets(poetList.contentY, collectionScrollOffset())
         selectedPoetName = ""
         selectedPoetUrl = ""
         poetFilter.text = ""
@@ -57,23 +57,49 @@ ApplicationWindow {
     }
 
     function openCategory(fullUrl) {
-        navigationController.openCategory(fullUrl, poetList.contentY, collectionList.contentY)
+        navigationController.openCategory(fullUrl, poetList.contentY, collectionScrollOffset())
     }
 
     function openPoem(fullUrl) {
-        navigationController.openPoem(fullUrl, poetList.contentY, collectionList.contentY)
+        navigationController.openPoem(fullUrl, poetList.contentY, collectionScrollOffset())
     }
 
     function openBreadcrumb(index) {
-        navigationController.openBreadcrumb(index, poetList.contentY, collectionList.contentY)
+        navigationController.openBreadcrumb(index, poetList.contentY, collectionScrollOffset())
     }
 
     function goBack() {
-        navigationController.back(poetList.contentY, collectionList.contentY)
+        navigationController.back(poetList.contentY, collectionScrollOffset())
     }
 
     function goForward() {
-        navigationController.forward(poetList.contentY, collectionList.contentY)
+        navigationController.forward(poetList.contentY, collectionScrollOffset())
+    }
+
+    function collectionScrollOffset() {
+        return Math.max(0, collectionList.contentY
+            + (collectionList.headerItem ? collectionList.headerItem.height : 0))
+    }
+
+    function restoreCollectionScroll() {
+        collectionList.contentY = root.navigationController.collectionScroll
+            - (collectionList.headerItem ? collectionList.headerItem.height : 0)
+    }
+
+    function restorePoemScroll() {
+        poemList.contentY = -(poemList.headerItem ? poemList.headerItem.height : 0)
+    }
+
+    Timer {
+        id: collectionScrollTimer
+        interval: 30
+        onTriggered: root.restoreCollectionScroll()
+    }
+
+    Timer {
+        id: poemScrollTimer
+        interval: 30
+        onTriggered: root.restorePoemScroll()
     }
 
     Connections {
@@ -84,8 +110,21 @@ ApplicationWindow {
             root.selectedPoetUrl = root.navigationController.poetUrl
             Qt.callLater(() => {
                 poetList.contentY = root.navigationController.poetScroll
-                collectionList.contentY = root.navigationController.collectionScroll
+                root.restoreCollectionScroll()
+                collectionScrollTimer.restart()
+                if (root.page === "poem") {
+                    root.restorePoemScroll()
+                    poemScrollTimer.restart()
+                }
             })
+        }
+    }
+
+    Connections {
+        target: root.poemLoader
+        function onRequestFinished() {
+            if (root.page === "poem")
+                poemScrollTimer.restart()
         }
     }
 
@@ -261,14 +300,26 @@ ApplicationWindow {
                         objectName: "poetFilter"
                         LayoutMirroring.enabled: false
                         Layout.fillWidth: true
-                        placeholderText: "جستجوی شاعر"
                         font.family: typography.family
                         font.pixelSize: 15
                         color: colors.foreground
-                        placeholderTextColor: colors.muted
                         horizontalAlignment: Text.AlignRight
                         inputMethodHints: Qt.ImhNoPredictiveText
+                        Accessible.name: "جستجوی شاعر"
                         onTextChanged: root.poetListModel.setFilterText(text)
+                        Text {
+                            objectName: "poetFilterPlaceholder"
+                            anchors.fill: parent
+                            anchors.leftMargin: 10
+                            anchors.rightMargin: 10
+                            LayoutMirroring.enabled: false
+                            visible: poetFilter.length === 0 && !poetFilter.activeFocus
+                            text: "جستجوی شاعر"
+                            color: colors.muted
+                            font: poetFilter.font
+                            horizontalAlignment: Text.AlignRight
+                            verticalAlignment: Text.AlignVCenter
+                        }
                         background: Rectangle {
                             radius: 9
                             color: colors.surface
@@ -289,6 +340,7 @@ ApplicationWindow {
                         ScrollBar.vertical: AppScrollBar {
                             id: poetScrollBar
                             objectName: "poetScrollBar"
+                            visible: poetList.contentHeight > poetList.height + 1
                             trackColor: colors.surfaceRaised
                             thumbColor: colors.muted
                             activeThumbColor: colors.accent
@@ -329,45 +381,6 @@ ApplicationWindow {
                                     border.width: poetRow.activeFocus ? 2 : 0
                                 }
                                 onClicked: root.selectPoet(poetEntry.fullUrl, poetEntry.name)
-                            }
-                        }
-                    }
-                    Label {
-                        visible: root.page !== "poets" && root.page !== "settings"
-                        text: "مسیر مجموعه"
-                        color: colors.muted
-                        font.pixelSize: 14
-                    }
-                    ListView {
-                        id: sidebarPath
-                        objectName: "sidebarPath"
-                        visible: root.page !== "poets" && root.page !== "settings"
-                        Layout.fillWidth: true
-                        Layout.preferredHeight: Math.min(160, count * 38)
-                        model: root.navigationController.sidebarPath
-                        clip: true
-                        spacing: 4
-                        delegate: Button {
-                            id: pathButton
-                            required property int index
-                            required property var modelData
-                            width: sidebarPath.width
-                            implicitHeight: 34
-                            text: modelData.title
-                            font.family: typography.family
-                            onClicked: root.openBreadcrumb(index + 1)
-                            contentItem: Text {
-                                LayoutMirroring.enabled: false
-                                text: pathButton.text
-                                font: pathButton.font
-                                color: colors.foreground
-                                horizontalAlignment: Text.AlignRight
-                                verticalAlignment: Text.AlignVCenter
-                                elide: Text.ElideRight
-                            }
-                            background: Rectangle {
-                                radius: 7
-                                color: pathButton.hovered ? colors.surfaceRaised : colors.surface
                             }
                         }
                     }
@@ -466,56 +479,6 @@ ApplicationWindow {
                         typography: typography
                         onActivated: (index) => root.openBreadcrumb(index)
                     }
-                    ScrollView {
-                        visible: root.page === "poet" && root.navigationController.poetDescription !== ""
-                        Layout.fillWidth: true
-                        Layout.preferredHeight: Math.min(150, biographyLabel.implicitHeight + 12)
-                        contentWidth: availableWidth
-                        clip: true
-                        ScrollBar.horizontal.policy: ScrollBar.AlwaysOff
-                        Label {
-                            id: biographyLabel
-                            objectName: "poetBiography"
-                            LayoutMirroring.enabled: false
-                            width: parent.width
-                            text: root.navigationController.poetDescription
-                            color: colors.foreground
-                            font.pixelSize: 15
-                            horizontalAlignment: Text.AlignRight
-                            wrapMode: Text.Wrap
-                        }
-                    }
-                    Label {
-                        visible: (root.page === "poet" || root.page === "collection")
-                            && root.navigationController.bookName !== ""
-                        LayoutMirroring.enabled: false
-                        text: root.navigationController.bookName
-                        color: colors.muted
-                        font.pixelSize: 15
-                        Layout.fillWidth: true
-                        horizontalAlignment: Text.AlignRight
-                    }
-                    Label {
-                        visible: (root.page === "poet" || root.page === "collection")
-                            && root.navigationController.description !== ""
-                        LayoutMirroring.enabled: false
-                        text: root.navigationController.description
-                        color: colors.foreground
-                        font.pixelSize: 15
-                        Layout.fillWidth: true
-                        horizontalAlignment: Text.AlignRight
-                        wrapMode: Text.Wrap
-                    }
-                    Label {
-                        visible: root.page === "poet" || root.page === "collection"
-                        LayoutMirroring.enabled: false
-                        text: root.collectionListModel.categoryCount + " مجموعه · "
-                            + root.collectionListModel.poemCount + " شعر"
-                        color: colors.muted
-                        font.pixelSize: 14
-                        Layout.fillWidth: true
-                        horizontalAlignment: Text.AlignRight
-                    }
                     SettingsPage {
                         objectName: "settingsPage"
                         visible: root.page === "settings"
@@ -535,9 +498,62 @@ ApplicationWindow {
                         model: root.collectionListModel
                         clip: true
                         spacing: 4
+                        onContentHeightChanged: {
+                            if (visible && root.navigationController.collectionScroll === 0
+                                && contentY <= 0)
+                                collectionScrollTimer.restart()
+                        }
+                        onMovementStarted: collectionScrollTimer.stop()
+                        header: ColumnLayout {
+                            width: collectionList.width - collectionList.rowGutter - 4
+                            x: collectionList.rowGutter
+                            spacing: 16
+                            Label {
+                                objectName: "poetBiography"
+                                visible: root.page === "poet" && root.navigationController.poetDescription !== ""
+                                LayoutMirroring.enabled: false
+                                Layout.fillWidth: true
+                                text: root.navigationController.poetDescription
+                                color: colors.foreground
+                                font.pixelSize: 15
+                                horizontalAlignment: Text.AlignRight
+                                wrapMode: Text.Wrap
+                            }
+                            Label {
+                                visible: root.navigationController.bookName !== ""
+                                LayoutMirroring.enabled: false
+                                text: root.navigationController.bookName
+                                color: colors.muted
+                                font.pixelSize: 15
+                                Layout.fillWidth: true
+                                horizontalAlignment: Text.AlignRight
+                            }
+                            Label {
+                                visible: root.navigationController.description !== ""
+                                    && (root.page !== "poet"
+                                        || root.navigationController.description !== root.navigationController.poetDescription)
+                                LayoutMirroring.enabled: false
+                                Layout.fillWidth: true
+                                text: root.navigationController.description
+                                color: colors.foreground
+                                font.pixelSize: 15
+                                horizontalAlignment: Text.AlignRight
+                                wrapMode: Text.Wrap
+                            }
+                            Label {
+                                LayoutMirroring.enabled: false
+                                text: root.collectionListModel.categoryCount + " مجموعه · "
+                                    + root.collectionListModel.poemCount + " شعر"
+                                color: colors.muted
+                                font.pixelSize: 14
+                                Layout.fillWidth: true
+                                horizontalAlignment: Text.AlignRight
+                            }
+                        }
                         ScrollBar.vertical: AppScrollBar {
                             id: collectionScrollBar
                             objectName: "collectionScrollBar"
+                            visible: collectionList.contentHeight > collectionList.height + 1
                             trackColor: colors.surfaceRaised
                             thumbColor: colors.muted
                             activeThumbColor: colors.accent
@@ -585,39 +601,19 @@ ApplicationWindow {
                             }
                         }
                     }
-                    Label {
-                        visible: collectionList.visible && root.collectionListModel.count > 0
-                        LayoutMirroring.enabled: false
-                        text: "مورد " + Math.max(1, collectionList.indexAt(1, collectionList.contentY + 1) + 1)
-                            + " از " + root.collectionListModel.count
-                        color: colors.muted
-                        font.pixelSize: 13
-                        Layout.fillWidth: true
-                        horizontalAlignment: Text.AlignRight
+                    Connections {
+                        target: collectionList.headerItem
+                        function onHeightChanged() {
+                            if (collectionList.visible
+                                && root.navigationController.collectionScroll === 0
+                                && collectionList.contentY <= 0)
+                                collectionScrollTimer.restart()
+                        }
                     }
                     ColumnLayout {
                         visible: root.page === "poem"
                         Layout.fillWidth: true
                         Layout.fillHeight: true
-                        Label {
-                            LayoutMirroring.enabled: false
-                            text: "شعر " + root.navigationController.poemPosition
-                                + " از " + root.navigationController.poemCount
-                            color: colors.muted
-                            font.pixelSize: 14
-                            Layout.fillWidth: true
-                            horizontalAlignment: Text.AlignRight
-                        }
-                        Label {
-                            visible: root.poemLoader.summary !== ""
-                            LayoutMirroring.enabled: false
-                            text: root.poemLoader.summary
-                            color: colors.muted
-                            font.pixelSize: 15
-                            Layout.fillWidth: true
-                            horizontalAlignment: Text.AlignJustify
-                            wrapMode: Text.Wrap
-                        }
                         ListView {
                             id: poemList
                             objectName: "poemList"
@@ -626,7 +622,40 @@ ApplicationWindow {
                             model: root.poemLoader.readingRows
                             clip: true
                             spacing: 8
+                            onContentHeightChanged: {
+                                if (visible && contentY <= 0)
+                                    poemScrollTimer.restart()
+                            }
+                            onMovementStarted: poemScrollTimer.stop()
+                            header: ColumnLayout {
+                                width: poemList.width - 20
+                                x: 20
+                                spacing: 16
+                                Label {
+                                    LayoutMirroring.enabled: false
+                                    text: "شعر " + root.navigationController.poemPosition
+                                        + " از " + root.navigationController.poemCount
+                                    color: colors.muted
+                                    font.pixelSize: 14
+                                    Layout.fillWidth: true
+                                    horizontalAlignment: Text.AlignRight
+                                }
+                                Label {
+                                    objectName: "poemSummary"
+                                    visible: root.poemLoader.summary !== ""
+                                    LayoutMirroring.enabled: false
+                                    Layout.fillWidth: true
+                                    text: root.poemLoader.summary
+                                    color: colors.muted
+                                    font.pixelSize: 15
+                                    horizontalAlignment: Text.AlignJustify
+                                    wrapMode: Text.Wrap
+                                }
+                            }
                             ScrollBar.vertical: AppScrollBar {
+                                id: poemScrollBar
+                                objectName: "poemScrollBar"
+                                visible: poemList.contentHeight > poemList.height + 1
                                 trackColor: colors.surfaceRaised
                                 thumbColor: colors.muted
                                 activeThumbColor: colors.accent
@@ -637,6 +666,7 @@ ApplicationWindow {
                                 required property string rightText
                                 required property string leftText
                                 required property string text
+                                required property string position
                                 readonly property bool stacked: poemList.width < 700
                                 width: poemList.width
                                 height: readingContent.height + 14
@@ -653,6 +683,7 @@ ApplicationWindow {
                                     Text {
                                         id: rightVerse
                                         visible: verseEntry.paired
+                                        LayoutMirroring.enabled: false
                                         width: verseEntry.stacked ? readingContent.width
                                             : (readingContent.width - 28) / 2
                                         x: verseEntry.stacked ? 0 : readingContent.width - width
@@ -660,13 +691,14 @@ ApplicationWindow {
                                         color: colors.foreground
                                         font.family: typography.family
                                         font.pixelSize: root.settingsStore.readingSize
-                                        horizontalAlignment: verseEntry.stacked ? Text.AlignRight
+                                        horizontalAlignment: verseEntry.stacked ? Text.AlignHCenter
                                             : lineCount > 1 ? Text.AlignJustify : Text.AlignHCenter
                                         wrapMode: Text.Wrap
                                     }
                                     Text {
                                         id: leftVerse
                                         visible: verseEntry.paired
+                                        LayoutMirroring.enabled: false
                                         width: verseEntry.stacked ? readingContent.width
                                             : (readingContent.width - 28) / 2
                                         y: verseEntry.stacked ? rightVerse.implicitHeight + 10 : 0
@@ -674,23 +706,33 @@ ApplicationWindow {
                                         color: colors.foreground
                                         font.family: typography.family
                                         font.pixelSize: root.settingsStore.readingSize
-                                        horizontalAlignment: verseEntry.stacked ? Text.AlignRight
+                                        horizontalAlignment: verseEntry.stacked ? Text.AlignHCenter
                                             : lineCount > 1 ? Text.AlignJustify : Text.AlignHCenter
                                         wrapMode: Text.Wrap
                                     }
                                     Text {
                                         id: singleVerse
                                         visible: !verseEntry.paired
+                                        LayoutMirroring.enabled: false
                                         width: readingContent.width
                                         text: verseEntry.text
                                         color: colors.foreground
                                         font.family: typography.family
                                         font.pixelSize: root.settingsStore.readingSize
-                                        horizontalAlignment: Text.AlignRight
+                                        horizontalAlignment: verseEntry.position === "Paragraph"
+                                            || verseEntry.position === "Comment"
+                                            ? Text.AlignJustify : Text.AlignHCenter
                                         wrapMode: Text.Wrap
                                     }
                                 }
                             }
+                        }
+                    }
+                    Connections {
+                        target: poemList.headerItem
+                        function onHeightChanged() {
+                            if (poemList.visible && poemList.contentY <= 0)
+                                poemScrollTimer.restart()
                         }
                     }
                 }
