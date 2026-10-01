@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=LeoMoon ParsiNama
+Name[fa]=لئومون پارسی‌نما
+Comment=Persian poetry reader
+Comment[fa]=خواندن شعر فارسی
+Exec=leomoon-parsinama
+Icon=com.leomoon.ParsiNama
+Terminal=false
+Categories=Education;
