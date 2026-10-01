@@ -8,6 +8,7 @@
 #include <QCoreApplication>
 #include <QColor>
 #include <QEventLoop>
+#include <QFileInfo>
 #include <QGuiApplication>
 #include <QIcon>
 #include <QQmlApplicationEngine>
@@ -59,8 +60,13 @@ int main(int argc, char *argv[])
     CollectionListModel collectionListModel(&catalogRepository);
     PoemLoader poemLoader(catalogPath);
     const bool smokeTest = application.arguments().contains(QStringLiteral("--smoke-test"));
-    QTemporaryDir smokeHome;
-    SettingsStore settingsStore(smokeTest ? smokeHome.path() : QString{});
+    QTemporaryDir smokeConfigBase;
+    SettingsStore settingsStore(smokeTest ? smokeConfigBase.path() : QString{});
+    if (smokeTest && (settingsStore.theme() != QLatin1String("light")
+        || !QFileInfo::exists(settingsStore.filePath()))) {
+        qCritical("The first launch did not create light-theme settings");
+        return EXIT_FAILURE;
+    }
 
     QQmlApplicationEngine engine;
     QObject::connect(&engine, &QQmlApplicationEngine::warnings, &application,
@@ -191,11 +197,17 @@ int main(int argc, char *argv[])
             qCritical("Returning to poets did not clear the previous selection");
             return EXIT_FAILURE;
         }
-        const QColor darkColor = window->property("color").value<QColor>();
-        settingsStore.toggleTheme();
+        const QColor lightColor = window->property("color").value<QColor>();
+        settingsStore.setTheme(QStringLiteral("dark"));
         QCoreApplication::processEvents();
-        if (window->property("color").value<QColor>() == darkColor) {
+        if (window->property("color").value<QColor>() == lightColor) {
             qCritical("The theme switch did not update the window");
+            return EXIT_FAILURE;
+        }
+        settingsStore.setTheme(QStringLiteral("light"));
+        QCoreApplication::processEvents();
+        if (window->property("color").value<QColor>() != lightColor) {
+            qCritical("The light theme did not restore the window color");
             return EXIT_FAILURE;
         }
         const QColor lightForeground = window->property("foregroundColor").value<QColor>();

@@ -1,19 +1,22 @@
 #include "UserDataPaths.h"
 
 #include <QDir>
+#include <QStandardPaths>
 
-QString UserDataPaths::directory(const QString &homePath)
+QString UserDataPaths::directory(const QString &configBasePath)
 {
-    const QString home = homePath.isEmpty() ? QDir::homePath() : homePath;
-    return QDir(home).filePath(QStringLiteral("leomoon-parsinama"));
+    const QString configBase = configBasePath.isEmpty()
+        ? QStandardPaths::writableLocation(QStandardPaths::GenericConfigLocation)
+        : configBasePath;
+    return QDir(configBase).filePath(QStringLiteral("leomoon-parsinama"));
 }
 
-QString UserDataPaths::settingsFile(const QString &homePath)
+QString UserDataPaths::settingsFile(const QString &configBasePath)
 {
-    return QDir(directory(homePath)).filePath(QStringLiteral("settings.json"));
+    return QDir(directory(configBasePath)).filePath(QStringLiteral("settings.json"));
 }
 
-bool UserDataPaths::ensureDirectory(const QString &homePath)
+bool UserDataPaths::ensureDirectory(const QString &configBasePath)
 {
-    return QDir().mkpath(directory(homePath));
+    return QDir().mkpath(directory(configBasePath));
 }

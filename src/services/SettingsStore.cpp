@@ -22,15 +22,15 @@ bool validAccentPreset(const QString &preset)
 }
 }
 
-SettingsStore::SettingsStore(QString homePath, QObject *parent)
-    : QObject(parent), m_homePath(std::move(homePath))
+SettingsStore::SettingsStore(QString configBasePath, QObject *parent)
+    : QObject(parent), m_configBasePath(std::move(configBasePath))
 {
     reload();
 }
 
 QString SettingsStore::filePath() const
 {
-    return UserDataPaths::settingsFile(m_homePath);
+    return UserDataPaths::settingsFile(m_configBasePath);
 }
 
 void SettingsStore::setError(const QString &error)
@@ -44,14 +44,13 @@ void SettingsStore::setError(const QString &error)
 
 bool SettingsStore::reload()
 {
-    if (!UserDataPaths::ensureDirectory(m_homePath)) {
+    if (!UserDataPaths::ensureDirectory(m_configBasePath)) {
         setError(QStringLiteral("ساخت پوشهٔ تنظیمات ممکن نشد."));
         return false;
     }
     QFile file(filePath());
     if (!file.exists()) {
-        setError({});
-        return true;
+        return save();
     }
     if (!file.open(QIODevice::ReadOnly)) {
         setError(QStringLiteral("خواندن تنظیمات ممکن نشد."));
@@ -89,7 +88,7 @@ bool SettingsStore::reload()
 
 bool SettingsStore::save()
 {
-    if (!UserDataPaths::ensureDirectory(m_homePath)) {
+    if (!UserDataPaths::ensureDirectory(m_configBasePath)) {
         setError(QStringLiteral("ساخت پوشهٔ تنظیمات ممکن نشد."));
         return false;
     }

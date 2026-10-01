@@ -5,6 +5,7 @@
 #include <QFile>
 #include <QJsonDocument>
 #include <QJsonObject>
+#include <QStandardPaths>
 #include <QTemporaryDir>
 #include <QtTest>
 
@@ -13,32 +14,58 @@ class SettingsTests final : public QObject
     Q_OBJECT
 
 private slots:
-    void pathsUseHomeDirectory();
+    void pathsUsePlatformConfigDirectory();
+    void createsDefaultSettingsOnFirstRun();
     void persistsThemeAndReadingSize();
     void rejectsInvalidSettings();
     void readsPreviousSettingsVersion();
 };
 
-void SettingsTests::pathsUseHomeDirectory()
+void SettingsTests::pathsUsePlatformConfigDirectory()
 {
-    QCOMPARE(UserDataPaths::directory(), QDir(QDir::homePath()).filePath(QStringLiteral("leomoon-parsinama")));
-    QTemporaryDir home;
-    QVERIFY(home.isValid());
-    QCOMPARE(UserDataPaths::settingsFile(home.path()),
-             QDir(home.path()).filePath(QStringLiteral("leomoon-parsinama/settings.json")));
+    QCOMPARE(UserDataPaths::directory(),
+             QDir(QStandardPaths::writableLocation(QStandardPaths::GenericConfigLocation))
+                 .filePath(QStringLiteral("leomoon-parsinama")));
+    QTemporaryDir configBase;
+    QVERIFY(configBase.isValid());
+    QCOMPARE(UserDataPaths::settingsFile(configBase.path()),
+             QDir(configBase.path()).filePath(QStringLiteral("leomoon-parsinama/settings.json")));
+}
+
+void SettingsTests::createsDefaultSettingsOnFirstRun()
+{
+    QTemporaryDir configBase;
+    QVERIFY(configBase.isValid());
+    const QString path = UserDataPaths::settingsFile(configBase.path());
+    QVERIFY(!QFile::exists(path));
+
+    SettingsStore settings(configBase.path());
+    QVERIFY(settings.error().isEmpty());
+    QCOMPARE(settings.filePath(), path);
+    QCOMPARE(settings.theme(), QStringLiteral("light"));
+    QCOMPARE(settings.accentPreset(), QStringLiteral("purple"));
+    QCOMPARE(settings.readingSize(), 22);
+
+    QFile file(path);
+    QVERIFY(file.open(QIODevice::ReadOnly));
+    const QJsonObject document = QJsonDocument::fromJson(file.readAll()).object();
+    QCOMPARE(document.value(QStringLiteral("version")).toInt(), 2);
+    QCOMPARE(document.value(QStringLiteral("theme")).toString(), QStringLiteral("light"));
+    QCOMPARE(document.value(QStringLiteral("accentPreset")).toString(), QStringLiteral("purple"));
+    QCOMPARE(document.value(QStringLiteral("readingSize")).toInt(), 22);
 }
 
 void SettingsTests::persistsThemeAndReadingSize()
 {
-    QTemporaryDir home;
-    QVERIFY(home.isValid());
+    QTemporaryDir configBase;
+    QVERIFY(configBase.isValid());
     {
-        SettingsStore settings(home.path());
-        QCOMPARE(settings.theme(), QStringLiteral("dark"));
+        SettingsStore settings(configBase.path());
+        QCOMPARE(settings.theme(), QStringLiteral("light"));
         QCOMPARE(settings.accentPreset(), QStringLiteral("purple"));
         QCOMPARE(settings.readingSize(), 22);
-        QVERIFY(QDir(UserDataPaths::directory(home.path())).exists());
-        settings.setTheme(QStringLiteral("light"));
+        QVERIFY(QDir(UserDataPaths::directory(configBase.path())).exists());
+        settings.setTheme(QStringLiteral("dark"));
         settings.setAccentPreset(QStringLiteral("teal"));
         settings.setAccentPreset(QStringLiteral("invalid"));
         QCOMPARE(settings.accentPreset(), QStringLiteral("teal"));
@@ -48,17 +75,17 @@ void SettingsTests::persistsThemeAndReadingSize()
         QCOMPARE(settings.readingSize(), 40);
         settings.setReadingSize(29);
     }
-    SettingsStore restored(home.path());
-    QCOMPARE(restored.theme(), QStringLiteral("light"));
+    SettingsStore restored(configBase.path());
+    QCOMPARE(restored.theme(), QStringLiteral("dark"));
     QCOMPARE(restored.accentPreset(), QStringLiteral("teal"));
     QCOMPARE(restored.readingSize(), 29);
     restored.toggleTheme();
-    QCOMPARE(restored.theme(), QStringLiteral("dark"));
+    QCOMPARE(restored.theme(), QStringLiteral("light"));
     QFile file(restored.filePath());
     QVERIFY(file.open(QIODevice::ReadOnly));
     const QJsonObject document = QJsonDocument::fromJson(file.readAll()).object();
     QCOMPARE(document.value(QStringLiteral("version")).toInt(), 2);
-    QCOMPARE(document.value(QStringLiteral("theme")).toString(), QStringLiteral("dark"));
+    QCOMPARE(document.value(QStringLiteral("theme")).toString(), QStringLiteral("light"));
     QCOMPARE(document.value(QStringLiteral("accentPreset")).toString(), QStringLiteral("teal"));
     QCOMPARE(document.value(QStringLiteral("readingSize")).toInt(), 29);
     QVERIFY(!QFile::exists(restored.filePath() + QStringLiteral(".tmp")));
@@ -66,14 +93,14 @@ void SettingsTests::persistsThemeAndReadingSize()
 
 void SettingsTests::readsPreviousSettingsVersion()
 {
-    QTemporaryDir home;
-    QVERIFY(home.isValid());
-    QVERIFY(UserDataPaths::ensureDirectory(home.path()));
-    QFile file(UserDataPaths::settingsFile(home.path()));
+    QTemporaryDir configBase;
+    QVERIFY(configBase.isValid());
+    QVERIFY(UserDataPaths::ensureDirectory(configBase.path()));
+    QFile file(UserDataPaths::settingsFile(configBase.path()));
     QVERIFY(file.open(QIODevice::WriteOnly));
     QVERIFY(file.write("{\"version\":1,\"theme\":\"light\",\"readingSize\":29}") > 0);
     file.close();
-    SettingsStore settings(home.path());
+    SettingsStore settings(configBase.path());
     QVERIFY(settings.error().isEmpty());
     QCOMPARE(settings.theme(), QStringLiteral("light"));
     QCOMPARE(settings.readingSize(), 29);
@@ -82,16 +109,16 @@ void SettingsTests::readsPreviousSettingsVersion()
 
 void SettingsTests::rejectsInvalidSettings()
 {
-    QTemporaryDir home;
-    QVERIFY(home.isValid());
-    SettingsStore settings(home.path());
+    QTemporaryDir configBase;
+    QVERIFY(configBase.isValid());
+    SettingsStore settings(configBase.path());
     QFile file(settings.filePath());
     QVERIFY(file.open(QIODevice::WriteOnly));
     QVERIFY(file.write("{\"version\":999,\"theme\":\"light\",\"readingSize\":21}") > 0);
     file.close();
     QVERIFY(!settings.reload());
     QVERIFY(!settings.error().isEmpty());
-    QCOMPARE(settings.theme(), QStringLiteral("dark"));
+    QCOMPARE(settings.theme(), QStringLiteral("light"));
 }
 
 QTEST_GUILESS_MAIN(SettingsTests)
