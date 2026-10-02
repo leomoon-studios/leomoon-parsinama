@@ -73,27 +73,22 @@ Item {
             }
         }
         Flow {
+            visible: root.availablePoetUrl !== "" || root.availableCategoryUrl !== ""
             Layout.fillWidth: true
             spacing: 7
-            SettingsChoice {
-                appTheme: root.appTheme
-                text: "همهٔ منابع"
-                selected: root.scope === "all"
-                onClicked: { root.scope = "all"; searchDelay.restart() }
-            }
             SettingsChoice {
                 visible: root.availablePoetUrl !== ""
                 appTheme: root.appTheme
                 text: "این شاعر"
                 selected: root.scope === "poet"
-                onClicked: { root.scope = "poet"; searchDelay.restart() }
+                onClicked: { root.scope = root.scope === "poet" ? "all" : "poet"; searchDelay.restart() }
             }
             SettingsChoice {
                 visible: root.availableCategoryUrl !== ""
                 appTheme: root.appTheme
                 text: "این مجموعه"
                 selected: root.scope === "collection"
-                onClicked: { root.scope = "collection"; searchDelay.restart() }
+                onClicked: { root.scope = root.scope === "collection" ? "all" : "collection"; searchDelay.restart() }
             }
         }
         Flow {
@@ -130,6 +125,8 @@ Item {
         ListView {
             id: results
             objectName: "searchResults"
+            readonly property real rowGutter: resultScrollBar.visible ? resultScrollBar.width + 8 : 8
+            LayoutMirroring.enabled: false
             Layout.fillWidth: true
             Layout.fillHeight: true
             model: root.searchRepository
@@ -137,71 +134,105 @@ Item {
             spacing: 6
             boundsBehavior: Flickable.StopAtBounds
             ScrollBar.vertical: AppScrollBar {
+                id: resultScrollBar
+                objectName: "searchResultsScrollBar"
+                x: 0
                 visible: results.contentHeight > results.height + 1
                 trackColor: root.appTheme.surfaceRaised
                 thumbColor: root.appTheme.muted
                 activeThumbColor: root.appTheme.accent
             }
-            delegate: ItemDelegate {
-                id: row
+            delegate: Item {
+                id: resultEntry
                 required property string entryType
                 required property string fullUrl
                 required property string title
                 required property string context
                 required property string snippet
-                width: results.width - 22
-                x: 18
-                implicitHeight: textColumn.implicitHeight + 20
-                hoverEnabled: true
-                Accessible.name: title + "، " + context
-                onClicked: root.activated(entryType === "verse" ? "poem" : entryType, fullUrl)
-                background: Rectangle {
-                    radius: 10
-                    color: row.hovered ? root.appTheme.surfaceRaised : root.appTheme.surface
-                    border.color: row.activeFocus ? root.appTheme.focus : root.appTheme.border
-                }
-                contentItem: Column {
-                    id: textColumn
-                    spacing: 3
-                    Text {
-                        width: parent.width
-                        text: row.title
-                        textFormat: Text.PlainText
-                        color: root.appTheme.foreground
-                        font.family: root.typography.family
-                        font.pixelSize: 17
-                        horizontalAlignment: Text.AlignRight
-                        elide: Text.ElideRight
+                width: results.width
+                height: row.implicitHeight
+                LayoutMirroring.enabled: false
+                ItemDelegate {
+                    id: row
+                    objectName: "searchResultRow"
+                    x: results.rowGutter
+                    width: resultEntry.width - results.rowGutter - 8
+                    implicitHeight: textColumn.implicitHeight + 20
+                    LayoutMirroring.enabled: false
+                    hoverEnabled: true
+                    Accessible.name: resultEntry.title + "، " + resultEntry.context
+                    onClicked: root.activated(resultEntry.entryType === "verse" ? "poem" : resultEntry.entryType,
+                                              resultEntry.fullUrl)
+                    background: Rectangle {
+                        radius: 10
+                        color: row.hovered ? root.appTheme.surfaceRaised : root.appTheme.surface
+                        border.color: row.activeFocus ? root.appTheme.focus : root.appTheme.border
                     }
-                    Text {
-                        width: parent.width
-                        text: row.context
-                        textFormat: Text.PlainText
-                        color: root.appTheme.muted
-                        font.family: root.typography.family
-                        font.pixelSize: 13
-                        horizontalAlignment: Text.AlignRight
-                        elide: Text.ElideRight
-                    }
-                    Text {
-                        visible: row.entryType === "verse"
-                        width: parent.width
-                        text: row.snippet
-                        textFormat: Text.PlainText
-                        color: root.appTheme.foreground
-                        font.family: root.typography.family
-                        font.pixelSize: 15
-                        horizontalAlignment: Text.AlignRight
-                        elide: Text.ElideRight
+                    contentItem: Item {
+                        implicitWidth: row.availableWidth
+                        implicitHeight: textColumn.implicitHeight
+                        LayoutMirroring.enabled: false
+                        Column {
+                            id: textColumn
+                            anchors.fill: parent
+                            spacing: 3
+                            Text {
+                                objectName: "searchResultTitle"
+                                width: textColumn.width
+                                LayoutMirroring.enabled: false
+                                text: resultEntry.title
+                                textFormat: Text.PlainText
+                                color: root.appTheme.foreground
+                                font.family: root.typography.family
+                                font.pixelSize: 17
+                                horizontalAlignment: Text.AlignRight
+                                elide: Text.ElideRight
+                            }
+                            Text {
+                                objectName: "searchResultContext"
+                                width: textColumn.width
+                                LayoutMirroring.enabled: false
+                                text: resultEntry.context
+                                textFormat: Text.PlainText
+                                color: root.appTheme.muted
+                                font.family: root.typography.family
+                                font.pixelSize: 13
+                                horizontalAlignment: Text.AlignRight
+                                elide: Text.ElideRight
+                            }
+                            Text {
+                                objectName: "searchResultSnippet"
+                                visible: resultEntry.entryType === "verse"
+                                width: textColumn.width
+                                LayoutMirroring.enabled: false
+                                text: resultEntry.snippet
+                                textFormat: Text.PlainText
+                                color: root.appTheme.foreground
+                                font.family: root.typography.family
+                                font.pixelSize: 15
+                                horizontalAlignment: Text.AlignRight
+                                elide: Text.ElideRight
+                            }
+                        }
                     }
                 }
             }
-            footer: Button {
-                visible: root.searchRepository.hasMore && !root.searchRepository.loading
+            footer: Item {
                 width: results.width
-                text: "نمایش نتیجه‌های بیشتر"
-                font.family: root.typography.family
-                onClicked: root.searchRepository.loadMore()
+                height: root.searchRepository.hasMore && !root.searchRepository.loading ? 64 : 0
+                LayoutMirroring.enabled: false
+                SettingsChoice {
+                    objectName: "searchMoreButton"
+                    visible: parent.height > 0
+                    x: results.rowGutter
+                        + (results.width - results.rowGutter - 8 - width) / 2
+                    y: 12
+                    width: Math.min(240, results.width - results.rowGutter - 16)
+                    appTheme: root.appTheme
+                    text: "نمایش نتیجه‌های بیشتر"
+                    font.family: root.typography.family
+                    onClicked: root.searchRepository.loadMore()
+                }
             }
         }
         Label {

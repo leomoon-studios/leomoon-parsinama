@@ -609,6 +609,35 @@ int main(int argc, char *argv[])
                 return EXIT_FAILURE;
             }
             QMetaObject::invokeMethod(printMenu, "close");
+            const QString printablePoemUrl = navigationController.url();
+            if (!printButton->property("enabled").toBool()
+                || !QMetaObject::invokeMethod(window, "showSearch")) {
+                qCritical("Print was unavailable on the poem page");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            QMetaObject::invokeMethod(window, "openPrintMenu");
+            if (printButton->property("enabled").toBool()
+                || printMenu->property("visible").toBool()
+                || !QMetaObject::invokeMethod(window, "showFavorites")) {
+                qCritical("Print remained available on the search page");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            QMetaObject::invokeMethod(window, "openPrintMenu");
+            if (printButton->property("enabled").toBool()
+                || printMenu->property("visible").toBool()
+                || !QMetaObject::invokeMethod(window, "openFavorite",
+                    Q_ARG(QVariant, QStringLiteral("poem")), Q_ARG(QVariant, printablePoemUrl))) {
+                qCritical("Print remained available on the bookmarks page");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (window->property("page").toString() != QStringLiteral("poem")
+                || !printButton->property("enabled").toBool()) {
+                qCritical("Print did not become available after returning to the poem");
+                return EXIT_FAILURE;
+            }
             if (poemScrollBar->property("visible").toBool()
                 != (poemList->property("contentHeight").toReal()
                     > poemList->property("height").toReal() + 1)) {
@@ -755,6 +784,119 @@ int main(int argc, char *argv[])
             }
             if (searchRepository.count() == 0 || !searchRepository.error().isEmpty()) {
                 qCritical().noquote() << "The real catalog search failed:" << searchRepository.error();
+                return EXIT_FAILURE;
+            }
+            QObject *searchResults = window->findChild<QObject *>(QStringLiteral("searchResults"));
+            QObject *searchResultsScrollBar = window->findChild<QObject *>(
+                QStringLiteral("searchResultsScrollBar"));
+            if (searchResults) QMetaObject::invokeMethod(searchResults, "forceLayout");
+            auto findSearchItem = [&](auto &&self, QQuickItem *item, const QString &name) -> QQuickItem * {
+                if (!item) return nullptr;
+                if (item->objectName() == name) return item;
+                for (QQuickItem *child : item->childItems()) {
+                    if (QQuickItem *found = self(self, child, name)) return found;
+                }
+                return nullptr;
+            };
+            QQuickItem *resultsContent = searchResults
+                ? searchResults->property("contentItem").value<QQuickItem *>() : nullptr;
+            QQuickItem *searchResultRow = findSearchItem(findSearchItem, resultsContent,
+                QStringLiteral("searchResultRow"));
+            for (int attempt = 0; attempt < 20 && !searchResultRow; ++attempt) {
+                QCoreApplication::processEvents();
+                if (searchResults) QMetaObject::invokeMethod(searchResults, "forceLayout");
+                searchResultRow = findSearchItem(findSearchItem, resultsContent,
+                    QStringLiteral("searchResultRow"));
+                if (!searchResultRow)
+                    QThread::msleep(10);
+            }
+            QQuickItem *searchResultTitle = findSearchItem(findSearchItem, searchResultRow,
+                QStringLiteral("searchResultTitle"));
+            QQuickItem *searchResultContext = findSearchItem(findSearchItem, searchResultRow,
+                QStringLiteral("searchResultContext"));
+            QQuickItem *searchResultSnippet = findSearchItem(findSearchItem, searchResultRow,
+                QStringLiteral("searchResultSnippet"));
+            if (!searchResults || !searchResultsScrollBar || !searchResultRow || !searchResultTitle || !searchResultContext
+                || !searchResultSnippet
+                || searchResultTitle->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight
+                || searchResultContext->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight
+                || qAbs(searchResultRow->property("x").toReal()
+                    - searchResults->property("rowGutter").toReal()) > 1
+                || searchResultTitle->mapToItem(searchResultRow,
+                    QPointF(searchResultTitle->width(), 0)).x() < searchResultRow->width() - 20
+                || searchResultContext->mapToItem(searchResultRow,
+                    QPointF(searchResultContext->width(), 0)).x() < searchResultRow->width() - 20
+                || (searchResultSnippet->isVisible()
+                    && (searchResultSnippet->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight
+                        || searchResultSnippet->mapToItem(searchResultRow,
+                            QPointF(searchResultSnippet->width(), 0)).x() < searchResultRow->width() - 20))) {
+                qCritical("The search result text or scrollbar gutter was not right aligned");
+                return EXIT_FAILURE;
+            }
+            searchRepository.search(QStringLiteral("سلام"));
+            for (int attempt = 0; attempt < 400
+                 && (searchRepository.loading() || searchRepository.totalCount() < 100); ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            if (searchRepository.totalCount() < 100 || !searchRepository.error().isEmpty()) {
+                qCritical("The multi-result search layout could not be checked");
+                return EXIT_FAILURE;
+            }
+            auto checkSearchRows = [&]() -> bool {
+                QCoreApplication::processEvents();
+                QMetaObject::invokeMethod(searchResults, "forceLayout");
+                QCoreApplication::processEvents();
+                QList<QQuickItem *> rows;
+                auto collect = [&](auto &&self, QQuickItem *item) -> void {
+                    if (!item) return;
+                    if (item->objectName() == QLatin1String("searchResultRow")) rows.append(item);
+                    for (QQuickItem *child : item->childItems()) self(self, child);
+                };
+                collect(collect, resultsContent);
+                if (rows.size() < 2) return false;
+                for (QQuickItem *item : rows) {
+                    const qreal left = item->mapToItem(resultsContent, QPointF(0, 0)).x();
+                    const qreal right = item->mapToItem(resultsContent, QPointF(item->width(), 0)).x();
+                    if (qAbs(left - searchResults->property("rowGutter").toReal()) > 1
+                        || qAbs(right - searchResults->property("width").toReal() + 8) > 1)
+                        return false;
+                    for (const QString &name : {QStringLiteral("searchResultTitle"),
+                                                QStringLiteral("searchResultContext"),
+                                                QStringLiteral("searchResultSnippet")}) {
+                        QQuickItem *line = findSearchItem(findSearchItem, item, name);
+                        if (!line || (line->isVisible()
+                            && (line->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight
+                                || line->mapToItem(item, QPointF(line->width(), 0)).x()
+                                    < item->width() - 20)))
+                            return false;
+                    }
+                }
+                return true;
+            };
+            if (!checkSearchRows()) {
+                qCritical("Search rows do not share one right edge");
+                return EXIT_FAILURE;
+            }
+            if (!searchResultsScrollBar->property("visible").toBool()
+                || qAbs(searchResultsScrollBar->property("x").toReal()) > 1) {
+                qCritical("The search scrollbar did not stay on the left");
+                return EXIT_FAILURE;
+            }
+            searchResults->setProperty("contentY", 600);
+            if (!checkSearchRows()) {
+                qCritical("Scrolled search rows do not share one right edge");
+                return EXIT_FAILURE;
+            }
+            searchResults->setProperty("contentY", 0);
+            searchRepository.search(QStringLiteral("آغاز کتاب"));
+            for (int attempt = 0; attempt < 400
+                 && (searchRepository.loading() || searchRepository.count() == 0); ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            if (searchRepository.count() == 0 || !searchRepository.error().isEmpty()) {
+                qCritical("The search result was not restored after checking row layout");
                 return EXIT_FAILURE;
             }
             const QString resultUrl = searchRepository.data(searchRepository.index(0, 0),
