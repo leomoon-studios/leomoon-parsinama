@@ -4,6 +4,7 @@
 #include "data/NavigationController.h"
 #include "data/PoemLoader.h"
 #include "data/PoetListModel.h"
+#include "data/SearchRepository.h"
 #include "services/SettingsStore.h"
 #include "services/BookmarkStore.h"
 #include "services/PrintService.h"
@@ -96,6 +97,7 @@ int main(int argc, char *argv[])
     PoetListModel poetListModel(&catalogRepository);
     CollectionListModel collectionListModel(&catalogRepository);
     PoemLoader poemLoader(catalogPath);
+    SearchRepository searchRepository(catalogPath);
     NavigationController navigationController(&catalogRepository, &collectionListModel, &poemLoader);
     PrintService printService(&navigationController, &poemLoader);
     const bool smokeTest = application.arguments().contains(QStringLiteral("--smoke-test"));
@@ -125,6 +127,7 @@ int main(int argc, char *argv[])
         {QStringLiteral("poetListModel"), QVariant::fromValue(&poetListModel)},
         {QStringLiteral("collectionListModel"), QVariant::fromValue(&collectionListModel)},
         {QStringLiteral("poemLoader"), QVariant::fromValue(&poemLoader)},
+        {QStringLiteral("searchRepository"), QVariant::fromValue(&searchRepository)},
         {QStringLiteral("navigationController"), QVariant::fromValue(&navigationController)},
         {QStringLiteral("settingsStore"), QVariant::fromValue(&settingsStore)},
         {QStringLiteral("bookmarkStore"), QVariant::fromValue(&bookmarkStore)},
@@ -206,6 +209,9 @@ int main(int argc, char *argv[])
             || !settingsPage || !readingSizeSelector || !lightThemeChoice
             || !appLogo || appLogo->property("color").value<QColor>()
                 != window->property("accentColor").value<QColor>()
+            || appLogo->property("width").toReal() != 44
+            || headerTitle->property("font").value<QFont>().pixelSize() != 20
+            || settingsButton->property("width").toReal() != 44
             || window->property("compactHeader").toBool()
             || moreButton->property("visible").toBool()
             || !poetPane->property("visible").toBool()
@@ -705,6 +711,50 @@ int main(int argc, char *argv[])
             }
             navigationController.openPoets();
             QCoreApplication::processEvents();
+            QObject *searchPage = window->findChild<QObject *>(QStringLiteral("searchPage"));
+            QObject *searchQuery = window->findChild<QObject *>(QStringLiteral("searchQuery"));
+            QObject *searchButton = window->findChild<QObject *>(QStringLiteral("searchButton"));
+            if (!searchPage || !searchQuery || !searchButton
+                || !searchButton->property("enabled").toBool()
+                || !QMetaObject::invokeMethod(window, "showSearch")) {
+                qCritical("The search page did not open");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            for (int attempt = 0; attempt < 10 && !searchQuery->property("activeFocus").toBool(); ++attempt)
+                QCoreApplication::processEvents();
+            if (window->property("page").toString() != QLatin1String("search")
+                || !searchPage->property("visible").toBool()
+                || !searchQuery->property("activeFocus").toBool()
+                || searchQuery->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight) {
+                qCritical("The Persian search page was not focused or right aligned");
+                return EXIT_FAILURE;
+            }
+            searchQuery->setProperty("text", QStringLiteral("آغاز کتاب"));
+            for (int attempt = 0; attempt < 400
+                 && (searchRepository.loading() || searchRepository.count() == 0); ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            if (searchRepository.count() == 0 || !searchRepository.error().isEmpty()) {
+                qCritical().noquote() << "The real catalog search failed:" << searchRepository.error();
+                return EXIT_FAILURE;
+            }
+            const QString resultUrl = searchRepository.data(searchRepository.index(0, 0),
+                SearchRepository::FullUrlRole).toString();
+            const QString resultType = searchRepository.data(searchRepository.index(0, 0),
+                SearchRepository::EntryTypeRole).toString();
+            if (!QMetaObject::invokeMethod(window, "openFavorite", Q_ARG(QVariant, resultType),
+                                           Q_ARG(QVariant, resultUrl))) {
+                qCritical("The search result could not navigate");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (navigationController.url() != resultUrl
+                || navigationController.breadcrumbs().last().toMap().value(QStringLiteral("url")) != resultUrl) {
+                qCritical("Search result navigation did not reconstruct breadcrumbs");
+                return EXIT_FAILURE;
+            }
             if (breadcrumbWarnings != 0) {
                 std::fprintf(stderr, "The breadcrumb menu emitted %d QML warnings.\n", breadcrumbWarnings);
                 return EXIT_FAILURE;

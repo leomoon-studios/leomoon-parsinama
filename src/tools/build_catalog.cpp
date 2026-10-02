@@ -15,10 +15,13 @@
 #include <QSqlQuery>
 #include <QVariant>
 
+#include "data/SearchNormalizer.h"
+
 #include <algorithm>
 #include <cstdio>
 #include <cstdlib>
 #include <stdexcept>
+#include <memory>
 
 namespace {
 
@@ -130,7 +133,14 @@ public:
             sql(m_database, QStringLiteral("PRAGMA journal_mode = OFF"));
             sql(m_database, QStringLiteral("PRAGMA synchronous = OFF"));
             createSchema();
+            m_searchInsert = std::make_unique<QSqlQuery>(m_database);
+            if (!m_searchInsert->prepare(QStringLiteral("INSERT INTO search_fts "
+                    "(entry_type, full_url, poet_url, category_url, title, context, "
+                    "original_text, normalized_text) VALUES (?, ?, ?, ?, ?, ?, ?, ?)"))) {
+                fail(QStringLiteral("Cannot prepare search index: %1").arg(m_searchInsert->lastError().text()));
+            }
         } catch (...) {
+            m_searchInsert.reset();
             m_database.close();
             m_database = QSqlDatabase();
             QSqlDatabase::removeDatabase(QStringLiteral("catalog_builder"));
@@ -140,6 +150,7 @@ public:
 
     ~CatalogBuilder()
     {
+        m_searchInsert.reset();
         m_database.close();
         m_database = QSqlDatabase();
         QSqlDatabase::removeDatabase(QStringLiteral("catalog_builder"));
@@ -155,9 +166,12 @@ private:
     qint64 importCategory(const QString &url, const QString &slug, qint64 poetId,
                           qint64 parentId, int depth);
     void importPoem(const QJsonObject &reference, const QString &slug,
-                    qint64 poetId, qint64 categoryId);
+                    qint64 poetId, qint64 categoryId, const QString &categoryUrl);
     SourceDigest hashSources() const;
     void metadata(const QString &key, const QString &value);
+    void searchEntry(const QString &type, const QString &url, const QString &poetUrl,
+                     const QString &categoryUrl, const QString &title,
+                     const QString &context, const QString &original);
 
     QString m_root;
     QString m_poetsRoot;
@@ -166,6 +180,10 @@ private:
     QSet<qint64> m_poetIds;
     QSet<qint64> m_categoryIds;
     QSet<qint64> m_poemIds;
+    QString m_poetName;
+    QString m_poetUrl;
+    QString m_categoryTitle;
+    std::unique_ptr<QSqlQuery> m_searchInsert;
 };
 
 void CatalogBuilder::createSchema()
@@ -195,6 +213,31 @@ void CatalogBuilder::createSchema()
                                    "sort_order INTEGER NOT NULL, PRIMARY KEY(category_id, sort_order))"));
     sql(m_database, QStringLiteral("CREATE INDEX categories_by_poet ON categories(poet_id)"));
     sql(m_database, QStringLiteral("CREATE INDEX poems_by_category ON poems(cat_id)"));
+    sql(m_database, QStringLiteral("CREATE VIRTUAL TABLE search_fts USING fts5("
+                                   "entry_type UNINDEXED, full_url UNINDEXED, poet_url UNINDEXED, "
+                                   "category_url UNINDEXED, title UNINDEXED, context UNINDEXED, "
+                                   "original_text UNINDEXED, normalized_text, "
+                                   "tokenize='unicode61 remove_diacritics 0')"));
+}
+
+void CatalogBuilder::searchEntry(const QString &type, const QString &url,
+                                 const QString &poetUrl, const QString &categoryUrl,
+                                 const QString &title, const QString &context,
+                                 const QString &original)
+{
+    const QString normalized = SearchNormalizer::normalize(original);
+    if (normalized.isEmpty()) return;
+    m_searchInsert->bindValue(0, type);
+    m_searchInsert->bindValue(1, url);
+    m_searchInsert->bindValue(2, poetUrl);
+    m_searchInsert->bindValue(3, categoryUrl);
+    m_searchInsert->bindValue(4, title);
+    m_searchInsert->bindValue(5, context);
+    m_searchInsert->bindValue(6, original);
+    m_searchInsert->bindValue(7, normalized);
+    if (!m_searchInsert->exec()) {
+        fail(QStringLiteral("Cannot index search text: %1").arg(m_searchInsert->lastError().text()));
+    }
 }
 
 QStringList CatalogBuilder::urlSegments(const QString &url) const
@@ -266,6 +309,10 @@ void CatalogBuilder::importPoet(const QJsonObject &reference, qsizetype position
          textField(file.object, "Nickname", canonical), url,
          file.object.value(QStringLiteral("Description")).toString(), file.bytes});
     m_poetIds.insert(id);
+    m_poetName = textField(file.object, "Name", canonical);
+    m_poetUrl = url;
+    searchEntry(QStringLiteral("poet"), url, url, url, m_poetName, QString{},
+                m_poetName + QLatin1Char(' ') + textField(file.object, "Nickname", canonical));
     importCategory(url, slug, id, 0, 0);
 }
 
@@ -297,6 +344,13 @@ qint64 CatalogBuilder::importCategory(const QString &url, const QString &slug,
          file.object.value(QStringLiteral("Description")).toString(),
          file.object.value(QStringLiteral("BookName")).toString(), file.bytes});
     m_categoryIds.insert(id);
+    const QString categoryTitle = textField(file.object, "Title", path);
+    if (parentId != 0) {
+        searchEntry(QStringLiteral("collection"), url, m_poetUrl, url, categoryTitle,
+                    m_poetName, categoryTitle);
+    }
+    const QString previousCategoryTitle = m_categoryTitle;
+    m_categoryTitle = categoryTitle;
 
     const QJsonArray children = arrayField(file.object, "ChildCats", path);
     for (qsizetype order = 0; order < children.size(); ++order) {
@@ -327,16 +381,17 @@ qint64 CatalogBuilder::importCategory(const QString &url, const QString &slug,
         const qint64 poemId = idField(reference, "Id", path);
         // A few Ganjoor poem URLs use a different segment from their category URL.
         // The category reference and the poem's CatId define the relationship.
-        importPoem(reference, slug, poetId, id);
+        importPoem(reference, slug, poetId, id, url);
         sql(m_database, QStringLiteral("INSERT INTO category_poems "
                                        "(category_id, poem_id, sort_order) VALUES (?, ?, ?)"),
             {id, poemId, order});
     }
+    m_categoryTitle = previousCategoryTitle;
     return id;
 }
 
 void CatalogBuilder::importPoem(const QJsonObject &reference, const QString &slug,
-                                qint64 poetId, qint64 categoryId)
+                                qint64 poetId, qint64 categoryId, const QString &categoryUrl)
 {
     const qint64 id = idField(reference, "Id", QStringLiteral("poem reference"));
     const QString url = textField(reference, "FullUrl", QStringLiteral("poem reference"));
@@ -356,6 +411,16 @@ void CatalogBuilder::importPoem(const QJsonObject &reference, const QString &slu
         {id, poetId, categoryId, textField(file.object, "Title", path),
          file.object.value(QStringLiteral("FullTitle")).toString(), url, file.bytes});
     m_poemIds.insert(id);
+    const QString title = textField(file.object, "Title", path);
+    const QString context = m_poetName + QStringLiteral(" » ") + m_categoryTitle;
+    searchEntry(QStringLiteral("poem"), url, m_poetUrl, categoryUrl, title, context, title);
+    for (const QJsonValue &verseValue : arrayField(file.object, "Verses", path)) {
+        if (!verseValue.isObject()) continue;
+        const QString verse = verseValue.toObject().value(QStringLiteral("Text")).toString().trimmed();
+        if (!verse.isEmpty()) {
+            searchEntry(QStringLiteral("verse"), url, m_poetUrl, categoryUrl, title, context, verse);
+        }
+    }
 }
 
 SourceDigest CatalogBuilder::hashSources() const
@@ -456,7 +521,7 @@ void CatalogBuilder::build()
     if (!m_database.transaction()) {
         fail(QStringLiteral("Cannot start metadata transaction: %1").arg(m_database.lastError().text()));
     }
-    metadata(QStringLiteral("catalog_schema_version"), QStringLiteral("1"));
+    metadata(QStringLiteral("catalog_schema_version"), QStringLiteral("2"));
     metadata(QStringLiteral("source_schema_version"), QStringLiteral("1"));
     metadata(QStringLiteral("source_generated_at_utc"), generatedAt);
     metadata(QStringLiteral("poets_count"), QString::number(expectedPoets));

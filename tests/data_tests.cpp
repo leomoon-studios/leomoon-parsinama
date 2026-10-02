@@ -4,6 +4,8 @@
 #include "data/NavigationController.h"
 #include "data/PoemLoader.h"
 #include "data/PoetListModel.h"
+#include "data/SearchNormalizer.h"
+#include "data/SearchRepository.h"
 #include "services/BookmarkStore.h"
 #include "services/UserDataPaths.h"
 
@@ -33,6 +35,7 @@ private slots:
     void bookmarksPersistAndNavigate();
     void bookmarksHandleMissingAndInvalidFiles();
     void fullCatalogQueries();
+    void searchAndNavigation();
 
 private:
     QTemporaryDir m_temporary;
@@ -57,7 +60,8 @@ void DataTests::initTestCase()
                 QStringLiteral("CREATE TABLE category_children (parent_id INTEGER, child_id INTEGER, sort_order INTEGER)"),
                 QStringLiteral("CREATE TABLE poems (id INTEGER PRIMARY KEY, poet_id INTEGER, cat_id INTEGER, title TEXT, full_title TEXT, full_url TEXT, data_json BLOB)"),
                 QStringLiteral("CREATE TABLE category_poems (category_id INTEGER, poem_id INTEGER, sort_order INTEGER)"),
-                QStringLiteral("INSERT INTO metadata VALUES ('catalog_schema_version', '1'), ('source_schema_version', '1'), ('source_digest_sha256', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'), ('poets_count', '3'), ('poems_count', '2')"),
+                QStringLiteral("CREATE VIRTUAL TABLE search_fts USING fts5(entry_type UNINDEXED, full_url UNINDEXED, poet_url UNINDEXED, category_url UNINDEXED, title UNINDEXED, context UNINDEXED, original_text UNINDEXED, normalized_text, tokenize='unicode61 remove_diacritics 0')"),
+                QStringLiteral("INSERT INTO metadata VALUES ('catalog_schema_version', '2'), ('source_schema_version', '1'), ('source_digest_sha256', 'aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa'), ('poets_count', '3'), ('poems_count', '2')"),
                 QStringLiteral("INSERT INTO poets VALUES (2, 0, 'hafez', 'حافظ شیرازی', 'حافظ', '/hafez', 'زندگی‌نامه'), (4, 1, 'ferdousi', 'فردوسی', 'فردوسی', '/ferdousi', ''), (222, 2, 'sepehri', 'سهراب سپهری', 'سهراب سپهری', '/sepehri', '')"),
                 QStringLiteral("INSERT INTO categories VALUES (9, 2, NULL, 'حافظ', '/hafez', '', 'دیوان حافظ'), (24, 2, 9, 'غزلیات', '/hafez/ghazal', '', ''), (32, 4, NULL, 'فردوسی', '/ferdousi', '', ''), (33, 4, 32, 'شاهنامه', '/ferdousi/shahname', '', ''), (34, 4, 33, 'آغاز کتاب', '/ferdousi/shahname/aghaz', '', ''), (3410, 222, NULL, 'سپهری', '/sepehri', '', '')"),
                 QStringLiteral("INSERT INTO category_children VALUES (9, 24, 0), (32, 33, 0), (33, 34, 0)")
@@ -136,10 +140,86 @@ void DataTests::initTestCase()
             query.addBindValue(QJsonDocument(rootPoem).toJson(QJsonDocument::Compact));
             QVERIFY2(query.exec(), qPrintable(query.lastError().text()));
             QVERIFY(query.exec(QStringLiteral("INSERT INTO category_poems VALUES (9, 502, 0)")));
+            QVERIFY(query.exec(QStringLiteral("INSERT INTO search_fts (entry_type, full_url, poet_url, category_url, title, context, original_text, normalized_text) VALUES "
+                "('poet','/hafez','/hafez','/hafez','حافظ شیرازی','','حافظ شیرازی','حافظ شیرازی'),"
+                "('collection','/hafez/ghazal','/hafez','/hafez/ghazal','غزلیات','حافظ','غزلیات','غزلیات'),"
+                "('poem','/hafez/root','/hafez','/hafez','شعر ریشه','حافظ','شعر ریشه','شعر ریشه'),"
+                "('poem','/hafez/root','/hafez','/hafez','غزل كی','حافظ','غزل كی','غزل کی'),"
+                "('verse','/hafez/root','/hafez','/hafez','شعر ریشه','حافظ','می‌گویم كی ۱۲','میگویم کی 12'),"
+                "('verse','/ferdousi/shahname/aghaz/long','/ferdousi','/ferdousi/shahname/aghaz','شعر بلند','فردوسی','می‌گویم كی ۱۲','میگویم کی 12')")));
+            QVERIFY(query.prepare(QStringLiteral("INSERT INTO search_fts "
+                "(entry_type, full_url, poet_url, category_url, title, context, original_text, normalized_text) "
+                "VALUES ('verse', '/hafez/root', '/hafez', '/hafez', 'شعر ریشه', 'حافظ', ?, ?)")));
+            for (int index = 0; index < 95; ++index) {
+                const QString verse = QStringLiteral("تکرار %1").arg(index);
+                query.bindValue(0, verse);
+                query.bindValue(1, SearchNormalizer::normalize(verse));
+                QVERIFY2(query.exec(), qPrintable(query.lastError().text()));
+            }
         }
         database.close();
     }
     QSqlDatabase::removeDatabase(connection);
+}
+
+void DataTests::searchAndNavigation()
+{
+    QCOMPARE(SearchNormalizer::normalize(QStringLiteral(" مِي‌گويم كِی ١۲ ")),
+             QStringLiteral("میگویم کی 12"));
+    SearchRepository search(m_fixturePath);
+    search.search(QStringLiteral("ميگويم كي ١٢"));
+    QTRY_VERIFY_WITH_TIMEOUT(!search.loading(), 5000);
+    QCOMPARE(search.totalCount(), 2);
+    QCOMPARE(search.data(search.index(0, 0), SearchRepository::SnippetRole).toString(),
+             QStringLiteral("می‌گویم كی ۱۲"));
+
+    search.search(QStringLiteral("غزل کی"), {}, {}, QStringLiteral("poem"));
+    QTRY_VERIFY_WITH_TIMEOUT(!search.loading(), 5000);
+    QCOMPARE(search.totalCount(), 1);
+    QCOMPARE(search.data(search.index(0, 0), SearchRepository::TitleRole).toString(),
+             QStringLiteral("غزل كی"));
+
+    search.search(QStringLiteral("تکرار"));
+    QTRY_VERIFY_WITH_TIMEOUT(!search.loading(), 5000);
+    QCOMPARE(search.totalCount(), 95);
+    QCOMPARE(search.count(), 40);
+    QVERIFY(search.hasMore());
+    const QString first = search.data(search.index(0, 0), SearchRepository::SnippetRole).toString();
+    search.loadMore();
+    QTRY_VERIFY_WITH_TIMEOUT(!search.loading(), 5000);
+    QCOMPARE(search.count(), 80);
+    QCOMPARE(search.data(search.index(0, 0), SearchRepository::SnippetRole).toString(), first);
+    search.loadMore();
+    QTRY_VERIFY_WITH_TIMEOUT(!search.loading(), 5000);
+    QCOMPARE(search.count(), 95);
+    QVERIFY(!search.hasMore());
+
+    search.search(QStringLiteral("ميگويم"), QStringLiteral("/hafez"));
+    QTRY_VERIFY_WITH_TIMEOUT(!search.loading(), 5000);
+    QCOMPARE(search.totalCount(), 1);
+    const QString url = search.data(search.index(0, 0), SearchRepository::FullUrlRole).toString();
+    QCOMPARE(url, QStringLiteral("/hafez/root"));
+    search.search(QStringLiteral("ميگويم"), {}, QStringLiteral("/ferdousi/shahname"));
+    QTRY_VERIFY_WITH_TIMEOUT(!search.loading(), 5000);
+    QCOMPARE(search.totalCount(), 1);
+    search.search(QStringLiteral("شعر"), {}, {}, QStringLiteral("poem"));
+    QTRY_VERIFY_WITH_TIMEOUT(!search.loading(), 5000);
+    QVERIFY(search.totalCount() >= 1);
+    search.search(QStringLiteral("تکرار"));
+    search.search(QStringLiteral("ميگويم"), QStringLiteral("/hafez"));
+    QTRY_VERIFY_WITH_TIMEOUT(!search.loading(), 5000);
+    QCOMPARE(search.totalCount(), 1);
+    QCOMPARE(search.count(), 1);
+
+    CatalogRepository catalog;
+    QVERIFY(catalog.openCatalog(m_fixturePath));
+    CollectionListModel collections(&catalog);
+    PoemLoader loader(m_fixturePath);
+    NavigationController navigation(&catalog, &collections, &loader);
+    QVERIFY(navigation.openPoem(url));
+    QCOMPARE(navigation.page(), QStringLiteral("poem"));
+    QCOMPARE(navigation.breadcrumbs().last().toMap().value(QStringLiteral("url")).toString(), url);
+    QCOMPARE(navigation.breadcrumbs().size(), 3);
 }
 
 void DataTests::navigationAndFiltering()
