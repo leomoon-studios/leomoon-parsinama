@@ -1,0 +1,99 @@
+name: Windows package
+
+on:
+  workflow_call:
+    inputs:
+      version:
+        required: true
+        type: string
+      arch:
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+env:
+  QT_VERSION: 6.8.3
+
+jobs:
+  build-test-package:
+    name: Windows ${{ matrix.arch }}
+    runs-on: ${{ matrix.arch == 'arm64' && 'windows-11-vs2026-arm' || 'windows-2022' }}
+    timeout-minutes: 180
+    strategy:
+      fail-fast: false
+      matrix:
+        arch: ${{ fromJSON(inputs.arch == 'x64' && '["x64"]' || inputs.arch == 'arm64' && '["arm64"]' || '["x64","arm64"]') }}
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - name: Configure MSVC
+        shell: pwsh
+        run: |
+          $vswhere = "${env:ProgramFiles(x86)}\Microsoft Visual Studio\Installer\vswhere.exe"
+          $component = "${{ matrix.arch == 'arm64' && 'Microsoft.VisualStudio.Component.VC.Tools.ARM64' || 'Microsoft.VisualStudio.Component.VC.Tools.x86.x64' }}"
+          $installationPath = (& $vswhere -latest -products * -requires $component -property installationPath).Trim()
+          if ([string]::IsNullOrWhiteSpace($installationPath)) { throw "MSVC ${{ matrix.arch }} toolchain was not found" }
+          $devCommand = Join-Path $installationPath "Common7\Tools\VsDevCmd.bat"
+          & cmd.exe /s /c "`"$devCommand`" -no_logo -arch=${{ matrix.arch }} -host_arch=${{ matrix.arch }} && set" |
+            ForEach-Object {
+              $separator = $_.IndexOf("=")
+              if ($separator -gt 0) {
+                $name = $_.Substring(0, $separator)
+                $value = $_.Substring($separator + 1)
+                if ($name -notmatch '^(GITHUB_|RUNNER_|ACTIONS_)') {
+                  "$name=$value" | Out-File -FilePath $env:GITHUB_ENV -Encoding utf8 -Append
+                }
+              }
+            }
+
+      - name: Install pinned Qt
+        uses: jurplel/install-qt-action@a9c63c7c123f3069cff414e7e482d95dfa9d8125 # v4
+        with:
+          version: ${{ env.QT_VERSION }}
+          host: ${{ matrix.arch == 'arm64' && 'windows_arm64' || 'windows' }}
+          target: desktop
+          arch: ${{ matrix.arch == 'arm64' && 'win64_msvc2022_arm64' || 'win64_msvc2022_64' }}
+          cache: true
+          setup-python: true
+
+      - name: Configure
+        shell: pwsh
+        run: cmake -S . -B build-windows -G Ninja -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTING=ON -DPARSINAMA_WINDOWS_RELEASE_ARCH=${{ matrix.arch }}
+      - name: Build app and catalog
+        shell: pwsh
+        run: |
+          cmake --build build-windows --parallel 2
+          cmake --build build-windows --target parsinama_catalog --parallel 2
+      - name: Test and lint
+        shell: pwsh
+        run: |
+          ctest --test-dir build-windows --output-on-failure --no-tests=error
+          cmake --build build-windows --target leomoon_parsinama_qmllint
+      - name: Package installer
+        shell: pwsh
+        run: cmake --build build-windows --target package_windows
+      - name: Smoke test installed package offline
+        shell: pwsh
+        run: |
+          $installer = Join-Path $env:GITHUB_WORKSPACE "build-windows\package\windows\leomoon-parsinama-${{ inputs.version }}-windows-${{ matrix.arch }}-setup.exe"
+          if (-not (Test-Path -LiteralPath $installer -PathType Leaf)) { throw "Missing installer: $installer" }
+          Remove-Item -LiteralPath "build-windows\package\windows\stage" -Recurse -Force
+          & scripts/smoke-windows-package.ps1 -Installer $installer
+      - name: Prepare artifact
+        shell: pwsh
+        run: |
+          New-Item -ItemType Directory -Force -Path dist | Out-Null
+          Copy-Item -LiteralPath "build-windows\package\windows\leomoon-parsinama-${{ inputs.version }}-windows-${{ matrix.arch }}-setup.exe" -Destination dist
+          $file = Get-ChildItem -LiteralPath dist -Filter *.exe -File | Select-Object -First 1
+          $hash = (Get-FileHash -LiteralPath $file.FullName -Algorithm SHA256).Hash.ToLowerInvariant()
+          "$hash *$($file.Name)" | Set-Content -LiteralPath "dist\SHA256SUMS" -Encoding ascii
+          Get-ChildItem dist | Format-Table Name,Length
+      - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6
+        with:
+          name: leomoon-parsinama-windows-${{ matrix.arch }}-${{ github.sha }}
+          path: dist/
+          if-no-files-found: error
+          compression-level: 0
+          retention-days: 7

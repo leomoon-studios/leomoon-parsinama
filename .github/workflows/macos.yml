@@ -1,0 +1,60 @@
+name: macOS package
+
+on:
+  workflow_call:
+    inputs:
+      version:
+        required: true
+        type: string
+
+permissions:
+  contents: read
+
+env:
+  QT_VERSION: 6.8.3
+
+jobs:
+  build-test-package:
+    name: macOS universal
+    runs-on: macos-14
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - name: Install pinned Qt
+        uses: jurplel/install-qt-action@a9c63c7c123f3069cff414e7e482d95dfa9d8125 # v4
+        with:
+          version: ${{ env.QT_VERSION }}
+          host: mac
+          target: desktop
+          arch: clang_64
+          cache: true
+          setup-python: true
+      - name: Configure universal app
+        run: cmake -S . -B build-macos -G Ninja -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTING=ON -DCMAKE_OSX_ARCHITECTURES="x86_64;arm64" -DCMAKE_OSX_DEPLOYMENT_TARGET=12.0
+      - name: Build app and catalog
+        run: |
+          cmake --build build-macos --parallel 2
+          cmake --build build-macos --target parsinama_catalog --parallel 2
+      - name: Test and lint
+        run: |
+          ctest --test-dir build-macos --output-on-failure --no-tests=error
+          cmake --build build-macos --target leomoon_parsinama_qmllint
+      - name: Package DMG
+        run: cmake --build build-macos --target package_macos
+      - name: Smoke test mounted DMG offline
+        run: |
+          rm -f build-macos/parsinama-catalog.sqlite
+          scripts/smoke-macos-package.sh "build-macos/package/macos/leomoon-parsinama-${{ inputs.version }}-macos-universal.dmg"
+      - name: Prepare artifact
+        run: |
+          mkdir -p dist
+          cp "build-macos/package/macos/leomoon-parsinama-${{ inputs.version }}-macos-universal.dmg" dist/
+          (cd dist && shasum -a 256 ./*.dmg > SHA256SUMS)
+          ls -lh dist/
+      - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6
+        with:
+          name: leomoon-parsinama-macos-${{ github.sha }}
+          path: dist/
+          if-no-files-found: error
+          compression-level: 0
+          retention-days: 7
