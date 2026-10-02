@@ -104,7 +104,9 @@ void CatalogTests::importsOrderedCollectionsAndAliasPoems()
                              {QStringLiteral("Title"), std::get<3>(item)},
                              {QStringLiteral("FullUrl"), std::get<4>(item)},
                              {QStringLiteral("Sections"), QJsonArray{}},
-                             {QStringLiteral("Verses"), QJsonArray{}}}));
+                             {QStringLiteral("Verses"), std::get<1>(item) == 100
+                                  ? QJsonArray{QJsonObject{{QStringLiteral("Text"), QStringLiteral("مِي‌گويم كی ۱۲")}}}
+                                  : QJsonArray{}}}));
     }
 
     const QString output = temporary.filePath(QStringLiteral("catalog.sqlite"));
@@ -134,6 +136,18 @@ void CatalogTests::importsOrderedCollectionsAndAliasPoems()
         QVERIFY(!query.next());
         query.finish();
         QVERIFY(query.exec(QStringLiteral("SELECT value FROM metadata WHERE key='poems_count'")));
+        QVERIFY(query.next());
+        QCOMPARE(query.value(0).toString(), QStringLiteral("2"));
+        query.finish();
+        QVERIFY(query.exec(QStringLiteral("SELECT full_url, original_text, normalized_text FROM search_fts "
+                                          "WHERE search_fts MATCH '\"میگویم\"*'")));
+        QVERIFY(query.next());
+        QCOMPARE(query.value(0).toString(), QStringLiteral("/test/root"));
+        QCOMPARE(query.value(1).toString(), QStringLiteral("مِي‌گويم كی ۱۲"));
+        QCOMPARE(query.value(2).toString(), QStringLiteral("میگویم کی 12"));
+        QVERIFY(!query.next());
+        query.finish();
+        QVERIFY(query.exec(QStringLiteral("SELECT value FROM metadata WHERE key='catalog_schema_version'")));
         QVERIFY(query.next());
         QCOMPARE(query.value(0).toString(), QStringLiteral("2"));
         query.finish();

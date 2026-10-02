@@ -112,7 +112,8 @@ bool CatalogRepository::openCatalog(const QString &path)
     const QStringList requiredTables {
         QStringLiteral("metadata"), QStringLiteral("poets"),
         QStringLiteral("categories"), QStringLiteral("category_children"),
-        QStringLiteral("category_poems"), QStringLiteral("poems")
+        QStringLiteral("category_poems"), QStringLiteral("poems"),
+        QStringLiteral("search_fts")
     };
     for (const QString &table : requiredTables) {
         if (!tables.contains(table)) {
@@ -120,7 +121,7 @@ bool CatalogRepository::openCatalog(const QString &path)
             return false;
         }
     }
-    if (metadata.value(QStringLiteral("catalog_schema_version")) != QLatin1String("1")
+    if (metadata.value(QStringLiteral("catalog_schema_version")) != QLatin1String("2")
         || metadata.value(QStringLiteral("source_schema_version")) != QLatin1String("1")
         || metadata.value(QStringLiteral("source_digest_sha256")).size() != 64
         || metadata.value(QStringLiteral("poets_count")).toLongLong() <= 0

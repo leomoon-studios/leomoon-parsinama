@@ -10,8 +10,9 @@ Button {
     property color borderColor: "#343946"
     property color focusColor: "#b9aeff"
 
-    implicitWidth: 52
-    implicitHeight: 52
+    implicitWidth: 44
+    implicitHeight: 44
+    padding: 0
     hoverEnabled: true
     focusPolicy: Qt.StrongFocus
     Accessible.name: hint
@@ -22,13 +23,13 @@ Button {
     contentItem: Text {
         text: control.symbol
         color: control.enabled ? control.textColor : control.borderColor
-        font.pixelSize: 27
+        font.pixelSize: 24
         font.family: control.font.family
         horizontalAlignment: Text.AlignHCenter
         verticalAlignment: Text.AlignVCenter
     }
     background: Rectangle {
-        radius: 14
+        radius: 11
         color: control.down ? control.borderColor : control.surfaceColor
         border.color: control.activeFocus ? control.focusColor : control.borderColor
         border.width: control.activeFocus ? 2 : 1

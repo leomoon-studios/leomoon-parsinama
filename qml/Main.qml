@@ -12,6 +12,7 @@ ApplicationWindow {
     required property var poetListModel
     required property var collectionListModel
     required property var poemLoader
+    required property var searchRepository
     required property var navigationController
     required property var settingsStore
     required property var bookmarkStore
@@ -64,6 +65,24 @@ ApplicationWindow {
         selectedPoetName = ""
         selectedPoetUrl = ""
         page = "favorites"
+    }
+
+    function showSearch() {
+        const oldPage = page
+        searchPage.availablePoetUrl = oldPage === "poet" || oldPage === "collection"
+            || oldPage === "poem" ? navigationController.poetUrl : ""
+        searchPage.availableCategoryUrl = ""
+        if (oldPage === "collection")
+            searchPage.availableCategoryUrl = navigationController.url
+        else if (oldPage === "poem") {
+            const crumbs = navigationController.breadcrumbs
+            if (crumbs.length >= 3)
+                searchPage.availableCategoryUrl = crumbs[crumbs.length - 2].url || ""
+        }
+        searchPage.scope = "all"
+        page = "search"
+        searchPage.refresh()
+        Qt.callLater(() => searchPage.focusQuery())
     }
 
     function openFavorite(entryType, fullUrl) {
@@ -181,7 +200,7 @@ ApplicationWindow {
 
     ColumnLayout {
         anchors.fill: parent
-        anchors.margins: root.compactHeader ? 16 : 24
+        anchors.margins: root.compactHeader ? 16 : 20
         spacing: 18
 
         RowLayout {
@@ -192,9 +211,9 @@ ApplicationWindow {
             Rectangle {
                 id: appLogo
                 objectName: "appLogo"
-                Layout.preferredWidth: root.compactHeader ? 48 : 60
-                Layout.preferredHeight: root.compactHeader ? 48 : 60
-                radius: width / 4
+                Layout.preferredWidth: 44
+                Layout.preferredHeight: 44
+                radius: 11
                 color: colors.accent
                 clip: true
                 Shape {
@@ -212,31 +231,39 @@ ApplicationWindow {
                 Accessible.name: "نشان لئومون پارسی‌نما"
             }
             ColumnLayout {
+                Layout.fillWidth: true
                 spacing: 0
                 RowLayout {
-                    spacing: 10
+                    Layout.fillWidth: true
+                    spacing: 8
                     Label {
                         objectName: "headerTitle"
                         text: "لئومون پارسی‌نما"
                         color: colors.foreground
-                        font.pixelSize: root.compactHeader ? 21 : 28
+                        font.pixelSize: 20
                         font.weight: Font.DemiBold
                         elide: Text.ElideRight
+                        Layout.maximumWidth: parent.width - applicationVersion.implicitWidth - parent.spacing
+                        Layout.alignment: Qt.AlignBaseline
                     }
                     Label {
+                        id: applicationVersion
                         text: "v" + Qt.application.version
                         color: colors.muted
-                        font.pixelSize: 14
+                        font.pixelSize: 12
+                        LayoutMirroring.enabled: false
+                        Layout.alignment: Qt.AlignBaseline
                     }
+                    Item { Layout.fillWidth: true }
                 }
                 Label {
+                    Layout.fillWidth: true
                     text: "گنجینهٔ شعر فارسی"
                     color: colors.muted
-                    font.pixelSize: 15
+                    font.pixelSize: 12
                     elide: Text.ElideRight
                 }
             }
-            Item { Layout.fillWidth: true }
             HeaderAction {
                 objectName: "poetsButton"
                 symbol: "\ue865"
@@ -267,11 +294,11 @@ ApplicationWindow {
                 hint: "جستجو"
                 font.family: typography.iconFamily
                 visible: !root.compactHeader
-                enabled: false
                 surfaceColor: colors.surface
                 textColor: colors.foreground
                 borderColor: colors.border
                 focusColor: colors.focus
+                onClicked: root.showSearch()
             }
             HeaderAction {
                 id: printButton
@@ -480,7 +507,8 @@ ApplicationWindow {
                             objectName: "contentTitle"
                             LayoutMirroring.enabled: false
                             text: root.page === "settings" ? "تنظیمات"
-                                : root.page === "favorites" ? "نشانک‌ها" : root.navigationController.title
+                                : root.page === "favorites" ? "نشانک‌ها"
+                                : root.page === "search" ? "جستجو" : root.navigationController.title
                             color: colors.foreground
                             font.pixelSize: 24
                             font.weight: Font.DemiBold
@@ -557,6 +585,17 @@ ApplicationWindow {
                         typography: typography
                         onActivated: (entryType, fullUrl) => root.openFavorite(entryType, fullUrl)
                         onRemoveRequested: (entryType, fullUrl) => root.bookmarkStore.remove(entryType, fullUrl)
+                    }
+                    SearchPage {
+                        id: searchPage
+                        objectName: "searchPage"
+                        visible: root.page === "search"
+                        Layout.fillWidth: true
+                        Layout.fillHeight: true
+                        searchRepository: root.searchRepository
+                        appTheme: colors
+                        typography: typography
+                        onActivated: (entryType, fullUrl) => root.openFavorite(entryType, fullUrl)
                     }
                     ListView {
                         id: collectionList
@@ -753,7 +792,7 @@ ApplicationWindow {
             onTriggered: root.showPoets()
         }
         AppMenuItem { appTheme: colors; text: "نشانک‌ها"; onTriggered: root.showFavorites() }
-        AppMenuItem { appTheme: colors; text: "جستجو"; enabled: false }
+        AppMenuItem { appTheme: colors; text: "جستجو"; onTriggered: root.showSearch() }
         AppMenuItem {
             appTheme: colors
             text: "چاپ"
