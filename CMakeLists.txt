@@ -33,6 +33,7 @@ find_package(Qt6 6.5 REQUIRED COMPONENTS
     Sql
     PrintSupport
     Test
+    Widgets
 )
 
 qt_standard_project_setup(REQUIRES 6.5)
@@ -65,6 +66,8 @@ target_link_libraries(parsinama_data PUBLIC Qt6::Core Qt6::Concurrent Qt6::Sql)
 
 qt_add_executable(leomoon_parsinama
     src/main.cpp
+    src/services/PrintService.cpp
+    src/services/PrintService.h
 )
 
 set_source_files_properties(qml/Main.qml PROPERTIES QT_RESOURCE_ALIAS Main.qml)
@@ -110,6 +113,7 @@ target_link_libraries(leomoon_parsinama PRIVATE
     Qt6::QuickControls2
     Qt6::Sql
     Qt6::PrintSupport
+    Qt6::Widgets
     parsinama_data
 )
 
@@ -146,6 +150,23 @@ if(UNIX AND NOT APPLE)
 endif()
 
 if(BUILD_TESTING)
+    qt_add_executable(parsinama_print_tests
+        tests/print_tests.cpp
+        src/services/PrintService.cpp
+        src/services/PrintService.h
+    )
+    target_link_libraries(parsinama_print_tests PRIVATE
+        Qt6::Core Qt6::Gui Qt6::PrintSupport Qt6::Widgets Qt6::Test parsinama_data
+    )
+    target_compile_definitions(parsinama_print_tests PRIVATE
+        PARSINAMA_TEST_FONT_PATH="${CMAKE_CURRENT_SOURCE_DIR}/assets/fonts/Vazirmatn[wght].ttf"
+    )
+    add_test(NAME poem_print COMMAND parsinama_print_tests)
+    set_tests_properties(poem_print PROPERTIES
+        ENVIRONMENT "QT_QPA_PLATFORM=offscreen;QT_QPA_PLATFORMTHEME="
+        TIMEOUT 30
+    )
+
     qt_add_executable(parsinama_app_tests tests/app_tests.cpp)
     target_link_libraries(parsinama_app_tests PRIVATE Qt6::Core Qt6::Test)
     target_compile_definitions(parsinama_app_tests PRIVATE

@@ -15,6 +15,7 @@ ApplicationWindow {
     required property var navigationController
     required property var settingsStore
     required property var bookmarkStore
+    required property var printService
     readonly property bool compactHeader: width < 760
     readonly property bool compactBrowse: width < 760
     readonly property bool bundledFontReady: typography.ready
@@ -25,6 +26,7 @@ ApplicationWindow {
     readonly property color foregroundColor: colors.foreground
     readonly property color surfaceColor: colors.surface
     readonly property string statusMessage: bookmarkStore.error !== "" ? bookmarkStore.error
+        : printService.error !== "" ? printService.error
         : settingsStore.error !== "" ? settingsStore.error
         : navigationController.error !== "" ? navigationController.error
         : poemLoader.loading || poemLoader.error !== "" ? poemLoader.statusText
@@ -93,6 +95,24 @@ ApplicationWindow {
 
     function nextPoem() {
         navigationController.openNextPoem(poetList.contentY, collectionScrollOffset())
+    }
+
+    function printCurrentPoem() {
+        if (printService.available)
+            printService.printCurrentPoem()
+    }
+
+    function openPrintMenu() {
+        if (!printService.available)
+            return
+        const anchor = root.compactHeader ? moreButton : printButton
+        printMenu.popup(anchor, 0, anchor.height + 8)
+    }
+
+    Shortcut {
+        sequence: StandardKey.Print
+        enabled: root.printService.available
+        onActivated: root.openPrintMenu()
     }
 
     function openBreadcrumb(index) {
@@ -254,16 +274,18 @@ ApplicationWindow {
                 focusColor: colors.focus
             }
             HeaderAction {
+                id: printButton
                 objectName: "printButton"
                 symbol: "\ue8ad"
                 hint: "چاپ"
                 font.family: typography.iconFamily
                 visible: !root.compactHeader
-                enabled: false
+                enabled: root.printService.available
                 surfaceColor: colors.surface
                 textColor: colors.foreground
                 borderColor: colors.border
                 focusColor: colors.focus
+                onClicked: root.openPrintMenu()
             }
             HeaderAction {
                 objectName: "settingsButton"
@@ -732,11 +754,44 @@ ApplicationWindow {
         }
         AppMenuItem { appTheme: colors; text: "نشانک‌ها"; onTriggered: root.showFavorites() }
         AppMenuItem { appTheme: colors; text: "جستجو"; enabled: false }
-        AppMenuItem { appTheme: colors; text: "چاپ"; enabled: false }
+        AppMenuItem {
+            appTheme: colors
+            text: "چاپ"
+            enabled: root.printService.available
+            onTriggered: Qt.callLater(() => root.openPrintMenu())
+        }
         AppMenuItem {
             appTheme: colors
             text: "تنظیمات"
             onTriggered: root.page = "settings"
+        }
+    }
+
+    Menu {
+        id: printMenu
+        objectName: "printMenu"
+        width: 230
+        topPadding: 6
+        bottomPadding: 6
+        leftPadding: 6
+        rightPadding: 6
+        modal: true
+        dim: false
+        closePolicy: Popup.CloseOnEscape | Popup.CloseOnPressOutside
+        background: Rectangle {
+            radius: 11
+            color: colors.surface
+            border.color: colors.border
+        }
+        AppMenuItem {
+            appTheme: colors
+            text: "ذخیرهٔ پی‌دی‌اف"
+            onTriggered: root.printService.choosePdfDestination()
+        }
+        AppMenuItem {
+            appTheme: colors
+            text: "چاپ با چاپگر"
+            onTriggered: root.printCurrentPoem()
         }
     }
 }

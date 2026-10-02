@@ -2,7 +2,6 @@ pragma ComponentBehavior: Bound
 
 import QtQuick
 import QtQuick.Controls
-import QtQuick.Layouts
 
 Item {
     id: root
@@ -70,14 +69,16 @@ Item {
                     border.color: row.activeFocus ? root.appTheme.focus : root.appTheme.border
                     border.width: row.activeFocus ? 2 : 1
                 }
-                contentItem: RowLayout {
+                contentItem: Item {
                     LayoutMirroring.enabled: false
-                    spacing: 8
+                    LayoutMirroring.childrenInherit: true
                     Button {
                         id: removeButton
                         objectName: "removeFavoriteButton"
-                        implicitWidth: 42
-                        implicitHeight: 42
+                        anchors.left: parent.left
+                        anchors.verticalCenter: parent.verticalCenter
+                        width: 42
+                        height: 42
                         enabled: true
                         Accessible.name: "حذف نشانک " + entry.title
                         ToolTip.text: "حذف نشانک"
@@ -97,11 +98,15 @@ Item {
                             color: removeButton.hovered ? root.appTheme.surfaceRaised : root.appTheme.surface
                         }
                     }
-                    ColumnLayout {
-                        Layout.fillWidth: true
+                    Column {
+                        anchors.left: removeButton.right
+                        anchors.leftMargin: 8
+                        anchors.right: parent.right
+                        anchors.verticalCenter: parent.verticalCenter
                         spacing: 2
                         Text {
-                            Layout.fillWidth: true
+                            objectName: "favoriteTitle"
+                            width: parent.width
                             text: entry.title
                             textFormat: Text.PlainText
                             color: entry.available ? root.appTheme.foreground : root.appTheme.muted
@@ -111,7 +116,8 @@ Item {
                             elide: Text.ElideRight
                         }
                         Text {
-                            Layout.fillWidth: true
+                            objectName: "favoriteContext"
+                            width: parent.width
                             text: entry.available ? entry.context : "دیگر در داده‌ها یافت نمی‌شود"
                             textFormat: Text.PlainText
                             color: root.appTheme.muted
