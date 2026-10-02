@@ -159,15 +159,16 @@ ListView {
                     : singleVerse.implicitHeight
                 spacing: 4
                 Button {
+                    id: noteToggleButton
                     text: verseEntry.noteExpanded ? "بستن معنی" : "معنی بیت"
                     font.family: reader.typography.family
                     font.pixelSize: 13
                     onClicked: verseEntry.noteExpanded = !verseEntry.noteExpanded
                     background: Item {}
                     contentItem: Text {
-                        text: parent.text
+                        text: noteToggleButton.text
                         color: reader.appTheme.accent
-                        font: parent.font
+                        font: noteToggleButton.font
                         horizontalAlignment: Text.AlignHCenter
                     }
                     anchors.horizontalCenter: parent.horizontalCenter
