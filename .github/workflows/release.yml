@@ -13,19 +13,30 @@ on:
         required: true
         default: all
         type: choice
-        options: [all, linux, windows, macos]
+        options:
+          - all
+          - linux
+          - windows
+          - macos
       arch:
         description: Linux and Windows architecture; macOS is universal
         required: true
         default: all
         type: choice
-        options: [all, x64, arm64]
+        options:
+          - all
+          - x64
+          - arm64
   push:
     tags:
       - "v*.*.*"
 
 permissions:
   contents: read
+
+concurrency:
+  group: release-${{ github.ref }}
+  cancel-in-progress: false
 
 jobs:
   validate:
