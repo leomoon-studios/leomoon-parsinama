@@ -15,7 +15,6 @@ DefaultDirName={autopf}\LeoMoon ParsiNama
 DefaultGroupName=LeoMoon ParsiNama
 OutputDir=@CMAKE_CURRENT_BINARY_DIR@\package\windows
 OutputBaseFilename=leomoon-parsinama-{#AppVersion}-windows-@PARSINAMA_WINDOWS_RELEASE_ARCH@-setup
-SetupIconFile={#SourceDir}\packaging\windows\app-icon.ico
 UninstallDisplayIcon={app}\bin\app-icon.ico
 UninstallDisplayName={#AppName}
 ArchitecturesAllowed=@PARSINAMA_WINDOWS_INNO_ARCHITECTURE@
