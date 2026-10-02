@@ -497,10 +497,27 @@ int main(int argc, char *argv[])
                 qCritical("The nested collection did not open");
                 return EXIT_FAILURE;
             }
+            QObject *previousPoemButton = window->findChild<QObject *>(QStringLiteral("previousPoemButton"));
+            QObject *nextPoemButton = window->findChild<QObject *>(QStringLiteral("nextPoemButton"));
+            QCoreApplication::processEvents();
+            if (!previousPoemButton || !nextPoemButton
+                || previousPoemButton->property("visible").toBool()
+                || nextPoemButton->property("visible").toBool()) {
+                qCritical("Adjacent-poem buttons appeared outside a poem");
+                return EXIT_FAILURE;
+            }
             const auto poems = catalogRepository.categoryPoems(ghazals->id);
             if (poems.isEmpty() || !navigationController.openPoem(poems.constFirst().fullUrl, 0, 240)
                 || navigationController.breadcrumbs().size() != 4) {
                 qCritical("Poem navigation did not preserve its collection position");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (!previousPoemButton->property("visible").toBool()
+                || previousPoemButton->property("enabled").toBool()
+                || !nextPoemButton->property("visible").toBool()
+                || !nextPoemButton->property("enabled").toBool()) {
+                qCritical("Adjacent-poem controls did not match the first poem's boundaries");
                 return EXIT_FAILURE;
             }
             for (int attempt = 0; attempt < 100 && poemLoader.loading(); ++attempt) {

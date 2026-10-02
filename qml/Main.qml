@@ -87,6 +87,14 @@ ApplicationWindow {
         navigationController.openPoem(fullUrl, poetList.contentY, collectionScrollOffset())
     }
 
+    function previousPoem() {
+        navigationController.openPreviousPoem(poetList.contentY, collectionScrollOffset())
+    }
+
+    function nextPoem() {
+        navigationController.openNextPoem(poetList.contentY, collectionScrollOffset())
+    }
+
     function openBreadcrumb(index) {
         navigationController.openBreadcrumb(index, poetList.contentY, collectionScrollOffset())
     }
@@ -470,6 +478,32 @@ ApplicationWindow {
                             borderColor: colors.border
                             focusColor: colors.focus
                             onClicked: root.bookmarkStore.toggleCurrent()
+                        }
+                        HeaderAction {
+                            objectName: "previousPoemButton"
+                            visible: root.page === "poem"
+                            enabled: root.navigationController.hasPreviousPoem
+                            symbol: "\ue5c8"
+                            hint: "شعر پیشین"
+                            font.family: typography.iconFamily
+                            surfaceColor: colors.surface
+                            textColor: colors.foreground
+                            borderColor: colors.border
+                            focusColor: colors.focus
+                            onClicked: root.previousPoem()
+                        }
+                        HeaderAction {
+                            objectName: "nextPoemButton"
+                            visible: root.page === "poem"
+                            enabled: root.navigationController.hasNextPoem
+                            symbol: "\ue5c4"
+                            hint: "شعر بعدی"
+                            font.family: typography.iconFamily
+                            surfaceColor: colors.surface
+                            textColor: colors.foreground
+                            borderColor: colors.border
+                            focusColor: colors.focus
+                            onClicked: root.nextPoem()
                         }
                     }
                     BreadcrumbBar {
