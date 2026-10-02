@@ -361,14 +361,23 @@ int main(int argc, char *argv[])
             qCritical("The settings scrollbar is visible when the content fits");
             return EXIT_FAILURE;
         }
-        window->setProperty("height", 500);
+        window->setProperty("width", 500);
+        window->setProperty("height", 440);
         QCoreApplication::processEvents();
-        if (!settingsScrollBar->property("visible").toBool()
-            || settingsScrollBar->property("height").toReal()
-                < settingsPage->property("availableHeight").toReal() - 1) {
-            qCritical().noquote() << "The settings scrollbar did not fill the viewport when scrolling is needed:" << "scrollbar height" << settingsScrollBar->property("height").toReal() << "available height" << settingsPage->property("availableHeight").toReal() << "scrollbar visible" << settingsScrollBar->property("visible").toBool();
+        const qreal settingsViewportHeight = settingsPage->property("availableHeight").toReal();
+        const bool settingsNeedsScroll = settingsPage->property("contentHeight").toReal()
+            > settingsViewportHeight + 1;
+        if (settingsScrollBar->property("visible").toBool() != settingsNeedsScroll
+            || (settingsNeedsScroll && settingsScrollBar->property("height").toReal()
+                < settingsViewportHeight - 1)) {
+            qCritical().noquote() << "The settings scrollbar does not match its content:"
+                                  << "content height" << settingsPage->property("contentHeight").toReal()
+                                  << "scrollbar height" << settingsScrollBar->property("height").toReal()
+                                  << "available height" << settingsViewportHeight
+                                  << "scrollbar visible" << settingsScrollBar->property("visible").toBool();
             return EXIT_FAILURE;
         }
+        window->setProperty("width", 1120);
         window->setProperty("height", 760);
         QCoreApplication::processEvents();
         QObject *tealAccentChoice = window->findChild<QObject *>(QStringLiteral("accentChoice_teal"));

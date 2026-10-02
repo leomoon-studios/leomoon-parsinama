@@ -70,6 +70,20 @@ jobs:
         shell: pwsh
         run: |
           ctest --test-dir build-windows --output-on-failure --no-tests=error
+          if ($LASTEXITCODE -ne 0) {
+            $testExitCode = $LASTEXITCODE
+            Get-Content -LiteralPath "build-windows\Testing\Temporary\LastTest.log" -Tail 200
+            $env:QT_QPA_PLATFORM = "offscreen"
+            $env:QT_QPA_PLATFORMTHEME = ""
+            $printTest = (Resolve-Path -LiteralPath "build-windows\parsinama_print_tests.exe").Path
+            $printLog = Join-Path $env:RUNNER_TEMP "parsinama-print-test.txt"
+            $printProcess = Start-Process -FilePath $printTest -ArgumentList @(
+              "-o", "`"$printLog,txt`""
+            ) -Wait -PassThru
+            if (Test-Path -LiteralPath $printLog) { Get-Content -LiteralPath $printLog }
+            Write-Host "Direct print test exit code: $($printProcess.ExitCode)"
+            throw "Windows tests failed with exit code $testExitCode"
+          }
           cmake --build build-windows --target leomoon_parsinama_qmllint
       - name: Package installer
         shell: pwsh
