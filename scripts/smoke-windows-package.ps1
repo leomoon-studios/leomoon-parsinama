@@ -8,7 +8,7 @@ $installLog = Join-Path $env:RUNNER_TEMP "parsinama-install.log"
 $env:PARSINAMA_CATALOG_PATH = $null
 $installerProcess = Start-Process -FilePath $installerPath -ArgumentList @(
     "/VERYSILENT", "/SUPPRESSMSGBOXES", "/NORESTART",
-    "/DIR=`"$installPath`"", "/LOG=`"$installLog`"
+    "/DIR=`"$installPath`"", "/LOG=`"$installLog`""
 ) -Wait -PassThru
 if ($installerProcess.ExitCode -ne 0) {
     if (Test-Path -LiteralPath $installLog) { Get-Content -LiteralPath $installLog -Tail 80 }
