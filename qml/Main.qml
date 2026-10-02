@@ -26,6 +26,7 @@ ApplicationWindow {
     readonly property color accentTextColor: colors.accentText
     readonly property color foregroundColor: colors.foreground
     readonly property color surfaceColor: colors.surface
+    readonly property bool canPrintCurrentPoem: page === "poem" && printService.available
     readonly property string statusMessage: bookmarkStore.error !== "" ? bookmarkStore.error
         : printService.error !== "" ? printService.error
         : settingsStore.error !== "" ? settingsStore.error
@@ -33,6 +34,10 @@ ApplicationWindow {
         : poemLoader.loading || poemLoader.error !== "" ? poemLoader.statusText
         : catalogRepository.ready ? "" : catalogRepository.statusText
     property string page: "poets"
+    onPageChanged: {
+        if (page !== "poem")
+            printMenu.close()
+    }
     property string selectedPoetName: ""
     property string selectedPoetUrl: ""
 
@@ -117,12 +122,12 @@ ApplicationWindow {
     }
 
     function printCurrentPoem() {
-        if (printService.available)
+        if (canPrintCurrentPoem)
             printService.printCurrentPoem()
     }
 
     function openPrintMenu() {
-        if (!printService.available)
+        if (!canPrintCurrentPoem)
             return
         const anchor = root.compactHeader ? moreButton : printButton
         printMenu.popup(anchor, 0, anchor.height + 8)
@@ -130,7 +135,7 @@ ApplicationWindow {
 
     Shortcut {
         sequence: StandardKey.Print
-        enabled: root.printService.available
+        enabled: root.canPrintCurrentPoem
         onActivated: root.openPrintMenu()
     }
 
@@ -307,7 +312,7 @@ ApplicationWindow {
                 hint: "چاپ"
                 font.family: typography.iconFamily
                 visible: !root.compactHeader
-                enabled: root.printService.available
+                enabled: root.canPrintCurrentPoem
                 surfaceColor: colors.surface
                 textColor: colors.foreground
                 borderColor: colors.border
@@ -796,7 +801,7 @@ ApplicationWindow {
         AppMenuItem {
             appTheme: colors
             text: "چاپ"
-            enabled: root.printService.available
+            enabled: root.canPrintCurrentPoem
             onTriggered: Qt.callLater(() => root.openPrintMenu())
         }
         AppMenuItem {
