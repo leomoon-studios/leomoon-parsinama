@@ -80,14 +80,15 @@ void PrintTests::multiPagePdf()
         }
 
         QProcess extract;
-        extract.start(pdftotext, {path, QStringLiteral("-")});
+        extract.start(pdftotext, {QStringLiteral("-enc"), QStringLiteral("UTF-8"), path, QStringLiteral("-")});
         QVERIFY(extract.waitForFinished(10000));
         const QByteArray extractError = extract.readAllStandardError();
         QVERIFY2(extract.exitCode() == 0, extractError.constData());
         QString text = QString::fromUtf8(extract.readAllStandardOutput())
             .normalized(QString::NormalizationForm_KC);
         text.remove(QRegularExpression(QStringLiteral("[\\s\\x{200e}\\x{200f}\\x{202a}-\\x{202e}\\x{2066}-\\x{2069}]")));
-        QVERIFY(text.contains(QStringLiteral("حافظ")));
+        QVERIFY2(text.contains(QStringLiteral("حافظ")),
+            qPrintable(QStringLiteral("Extracted text: %1").arg(text.left(200))));
         const auto first = text.indexOf(QStringLiteral("آغازیک"));
         const auto last = text.indexOf(QStringLiteral("پایانیک"));
         QVERIFY(first >= 0);
