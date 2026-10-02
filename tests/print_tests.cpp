@@ -60,21 +60,30 @@ void PrintTests::multiPagePdf()
         QCOMPARE(fonts.exitCode(), 0);
         QVERIFY(fonts.readAllStandardOutput().contains("Vazirmatn"));
     }
-    if (!QStandardPaths::findExecutable(QStringLiteral("pdftotext")).isEmpty()) {
-        QProcess bounds;
-        bounds.start(QStringLiteral("pdftotext"), {QStringLiteral("-bbox"), path, QStringLiteral("-")});
-        QVERIFY(bounds.waitForFinished(10000));
-        QCOMPARE(bounds.exitCode(), 0);
-        const QString boxes = QString::fromUtf8(bounds.readAllStandardOutput());
-        const auto topWord = QRegularExpression(QStringLiteral("<word[^>]*yMin=\"([0-9.]+)\""))
-            .match(boxes);
-        QVERIFY(topWord.hasMatch());
-        QVERIFY2(topWord.captured(1).toDouble() < 80, "The printed title starts too far down the page");
+    const QString pdftotext = QStandardPaths::findExecutable(QStringLiteral("pdftotext"));
+    if (!pdftotext.isEmpty()) {
+        QProcess help;
+        help.start(pdftotext, {QStringLiteral("-h")});
+        QVERIFY(help.waitForFinished(10000));
+        const QByteArray options = help.readAllStandardError() + help.readAllStandardOutput();
+        if (options.contains("-bbox")) {
+            QProcess bounds;
+            bounds.start(pdftotext, {QStringLiteral("-bbox"), path, QStringLiteral("-")});
+            QVERIFY(bounds.waitForFinished(10000));
+            const QByteArray boundsError = bounds.readAllStandardError();
+            QVERIFY2(bounds.exitCode() == 0, boundsError.constData());
+            const QString boxes = QString::fromUtf8(bounds.readAllStandardOutput());
+            const auto topWord = QRegularExpression(QStringLiteral("<word[^>]*yMin=\"([0-9.]+)\""))
+                .match(boxes);
+            QVERIFY(topWord.hasMatch());
+            QVERIFY2(topWord.captured(1).toDouble() < 80, "The printed title starts too far down the page");
+        }
 
         QProcess extract;
-        extract.start(QStringLiteral("pdftotext"), {path, QStringLiteral("-")});
+        extract.start(pdftotext, {path, QStringLiteral("-")});
         QVERIFY(extract.waitForFinished(10000));
-        QCOMPARE(extract.exitCode(), 0);
+        const QByteArray extractError = extract.readAllStandardError();
+        QVERIFY2(extract.exitCode() == 0, extractError.constData());
         QString text = QString::fromUtf8(extract.readAllStandardOutput())
             .normalized(QString::NormalizationForm_KC);
         text.remove(QRegularExpression(QStringLiteral("[\\s\\x{200e}\\x{200f}\\x{202a}-\\x{202e}\\x{2066}-\\x{2069}]")));
