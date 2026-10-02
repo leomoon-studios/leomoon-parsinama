@@ -6,13 +6,14 @@
 #include "data/PoetListModel.h"
 #include "services/SettingsStore.h"
 #include "services/BookmarkStore.h"
+#include "services/PrintService.h"
 
 #include <QCoreApplication>
 #include <QColor>
 #include <QEventLoop>
 #include <QFont>
 #include <QFileInfo>
-#include <QGuiApplication>
+#include <QApplication>
 #include <QIcon>
 #include <QQmlApplicationEngine>
 #include <QQuickItem>
@@ -79,9 +80,9 @@ int main(int argc, char *argv[])
     QCoreApplication::setApplicationName(QString::fromUtf8(applicationName));
     QCoreApplication::setApplicationVersion(QStringLiteral(PARSINAMA_VERSION));
 
-    QGuiApplication application(argc, argv);
-    QGuiApplication::setDesktopFileName(QStringLiteral(PARSINAMA_APP_ID));
-    QGuiApplication::setWindowIcon(QIcon(QStringLiteral(":/qt/qml/LeoMoon/ParsiNama/assets/app-icon.svg")));
+    QApplication application(argc, argv);
+    QApplication::setDesktopFileName(QStringLiteral(PARSINAMA_APP_ID));
+    QApplication::setWindowIcon(QIcon(QStringLiteral(":/qt/qml/LeoMoon/ParsiNama/assets/app-icon.svg")));
     QQuickStyle::setStyle(QStringLiteral("Basic"));
 
     QString pathError;
@@ -96,6 +97,7 @@ int main(int argc, char *argv[])
     CollectionListModel collectionListModel(&catalogRepository);
     PoemLoader poemLoader(catalogPath);
     NavigationController navigationController(&catalogRepository, &collectionListModel, &poemLoader);
+    PrintService printService(&navigationController, &poemLoader);
     const bool smokeTest = application.arguments().contains(QStringLiteral("--smoke-test"));
     QTemporaryDir smokeConfigBase;
     SettingsStore settingsStore(smokeTest ? smokeConfigBase.path() : QString{});
@@ -125,7 +127,8 @@ int main(int argc, char *argv[])
         {QStringLiteral("poemLoader"), QVariant::fromValue(&poemLoader)},
         {QStringLiteral("navigationController"), QVariant::fromValue(&navigationController)},
         {QStringLiteral("settingsStore"), QVariant::fromValue(&settingsStore)},
-        {QStringLiteral("bookmarkStore"), QVariant::fromValue(&bookmarkStore)}
+        {QStringLiteral("bookmarkStore"), QVariant::fromValue(&bookmarkStore)},
+        {QStringLiteral("printService"), QVariant::fromValue(&printService)}
     });
     QObject::connect(&engine, &QQmlApplicationEngine::objectCreationFailed,
                      &application, [] { QCoreApplication::exit(EXIT_FAILURE); },
@@ -160,6 +163,7 @@ int main(int argc, char *argv[])
         QObject *poetPane = window->findChild<QObject *>(QStringLiteral("poetPane"));
         QObject *contentPane = window->findChild<QObject *>(QStringLiteral("contentPane"));
         QObject *moreButton = window->findChild<QObject *>(QStringLiteral("moreButton"));
+        QObject *printButton = window->findChild<QObject *>(QStringLiteral("printButton"));
         QObject *settingsButton = window->findChild<QObject *>(QStringLiteral("settingsButton"));
         QObject *settingsPage = window->findChild<QObject *>(QStringLiteral("settingsPage"));
         QObject *readingSizeSelector = window->findChild<QObject *>(QStringLiteral("readingSizeSelector"));
@@ -196,6 +200,9 @@ int main(int argc, char *argv[])
             || !window->property("bundledFontReady").toBool()
             || !window->property("bundledIconFontReady").toBool()
             || !header || !poetPane || !contentPane || !moreButton || !settingsButton
+            || !printButton || printButton->property("enabled").toBool()
+            || printService.available()
+            || !QFileInfo::exists(QStringLiteral(":/qt/qml/LeoMoon/ParsiNama/assets/fonts/Vazirmatn[wght].ttf"))
             || !settingsPage || !readingSizeSelector || !lightThemeChoice
             || !appLogo || appLogo->property("color").value<QColor>()
                 != window->property("accentColor").value<QColor>()
@@ -558,12 +565,36 @@ int main(int argc, char *argv[])
                 qCritical("The poem summary and verses did not share a scroll area");
                 return EXIT_FAILURE;
             }
+            QObject *printMenu = window->findChild<QObject *>(QStringLiteral("printMenu"));
+            if (!printService.available() || !printMenu
+                || !QMetaObject::invokeMethod(window, "openPrintMenu")) {
+                qCritical("The poem print menu was not available");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (!printMenu->property("visible").toBool()) {
+                qCritical("The poem print menu did not open");
+                return EXIT_FAILURE;
+            }
+            QMetaObject::invokeMethod(printMenu, "close");
             window->setProperty("width", 1600);
             window->setProperty("height", 1100);
             for (int attempt = 0; attempt < 20; ++attempt) {
                 QCoreApplication::processEvents();
                 QThread::msleep(10);
             }
+            if (window->property("compactHeader").toBool()
+                || !printButton->property("visible").toBool()
+                || !QMetaObject::invokeMethod(window, "openPrintMenu")) {
+                qCritical("The wide poem print action did not open");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (!printMenu->property("visible").toBool()) {
+                qCritical("The wide poem print menu did not open");
+                return EXIT_FAILURE;
+            }
+            QMetaObject::invokeMethod(printMenu, "close");
             if (poemScrollBar->property("visible").toBool()
                 != (poemList->property("contentHeight").toReal()
                     > poemList->property("height").toReal() + 1)) {
@@ -636,6 +667,27 @@ int main(int argc, char *argv[])
                 QCoreApplication::processEvents();
                 QThread::msleep(10);
                 favoriteRow = findFavoriteRow();
+            }
+            QQuickItem *favoriteTitle = favoriteRow
+                ? favoriteRow->findChild<QQuickItem *>(QStringLiteral("favoriteTitle")) : nullptr;
+            QQuickItem *favoriteContext = favoriteRow
+                ? favoriteRow->findChild<QQuickItem *>(QStringLiteral("favoriteContext")) : nullptr;
+            if (!favoriteTitle || !favoriteContext
+                || favoriteTitle->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight
+                || favoriteContext->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight
+                || favoriteTitle->mapToItem(favoriteRow, QPointF(favoriteTitle->width(), 0)).x()
+                    < favoriteRow->width() - 32
+                || favoriteContext->mapToItem(favoriteRow, QPointF(favoriteContext->width(), 0)).x()
+                    < favoriteRow->width() - 32) {
+                std::fprintf(stderr, "Favorite text alignment: row=%p width=%g title=%p right=%g align=%d context=%p right=%g align=%d\n",
+                             static_cast<void *>(favoriteRow), favoriteRow ? favoriteRow->width() : -1,
+                             static_cast<void *>(favoriteTitle), favoriteTitle
+                                 ? favoriteTitle->mapToItem(favoriteRow, QPointF(favoriteTitle->width(), 0)).x() : -1,
+                             favoriteTitle ? favoriteTitle->property("effectiveHorizontalAlignment").toInt() : -1,
+                             static_cast<void *>(favoriteContext), favoriteContext
+                                 ? favoriteContext->mapToItem(favoriteRow, QPointF(favoriteContext->width(), 0)).x() : -1,
+                             favoriteContext ? favoriteContext->property("effectiveHorizontalAlignment").toInt() : -1);
+                return EXIT_FAILURE;
             }
             if (!favoriteRow || !favoriteRow->property("visible").toBool()
                 || !QMetaObject::invokeMethod(favoriteRow, "clicked")) {
