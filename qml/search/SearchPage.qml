@@ -49,9 +49,22 @@ Item {
             font.family: root.typography.family
             font.pixelSize: 17
             color: root.appTheme.foreground
-            placeholderText: "جستجو در شاعران، مجموعه‌ها و شعرها"
             Accessible.name: "جستجو در شعرها"
             onTextChanged: searchDelay.restart()
+            Text {
+                objectName: "searchQueryPlaceholder"
+                anchors.fill: parent
+                anchors.leftMargin: 12
+                anchors.rightMargin: 12
+                LayoutMirroring.enabled: false
+                visible: queryField.length === 0
+                text: "جستجو در شاعران، مجموعه‌ها و شعرها"
+                color: root.appTheme.muted
+                font: queryField.font
+                horizontalAlignment: Text.AlignRight
+                verticalAlignment: Text.AlignVCenter
+                elide: Text.ElideRight
+            }
             background: Rectangle {
                 radius: 10
                 color: root.appTheme.surface

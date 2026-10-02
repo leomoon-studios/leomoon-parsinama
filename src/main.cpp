@@ -713,8 +713,10 @@ int main(int argc, char *argv[])
             QCoreApplication::processEvents();
             QObject *searchPage = window->findChild<QObject *>(QStringLiteral("searchPage"));
             QObject *searchQuery = window->findChild<QObject *>(QStringLiteral("searchQuery"));
+            QObject *searchPlaceholder = window->findChild<QObject *>(
+                QStringLiteral("searchQueryPlaceholder"));
             QObject *searchButton = window->findChild<QObject *>(QStringLiteral("searchButton"));
-            if (!searchPage || !searchQuery || !searchButton
+            if (!searchPage || !searchQuery || !searchPlaceholder || !searchButton
                 || !searchButton->property("enabled").toBool()
                 || !QMetaObject::invokeMethod(window, "showSearch")) {
                 qCritical("The search page did not open");
@@ -726,11 +728,18 @@ int main(int argc, char *argv[])
             if (window->property("page").toString() != QLatin1String("search")
                 || !searchPage->property("visible").toBool()
                 || !searchQuery->property("activeFocus").toBool()
+                || !searchPlaceholder->property("visible").toBool()
+                || searchPlaceholder->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight
                 || searchQuery->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight) {
-                qCritical("The Persian search page was not focused or right aligned");
+                qCritical("The Persian search field or placeholder was not right aligned");
                 return EXIT_FAILURE;
             }
             searchQuery->setProperty("text", QStringLiteral("آغاز کتاب"));
+            QCoreApplication::processEvents();
+            if (searchPlaceholder->property("visible").toBool()) {
+                qCritical("The search placeholder remained visible after typing");
+                return EXIT_FAILURE;
+            }
             for (int attempt = 0; attempt < 400
                  && (searchRepository.loading() || searchRepository.count() == 0); ++attempt) {
                 QCoreApplication::processEvents();
