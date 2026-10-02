@@ -41,7 +41,7 @@ jobs:
             libgl1-mesa-dev libwayland-client0 libxkbcommon-x11-0 libxcb-cursor0 \
             libxcb-icccm4 libxcb-image0 libxcb-keysyms1 libxcb-randr0 \
             libxcb-render-util0 libxcb-shape0 libxcb-xfixes0 libxcb-xinerama0 \
-            ninja-build xvfb
+            ninja-build weston xvfb
 
       - name: Install pinned Qt
         uses: jurplel/install-qt-action@a9c63c7c123f3069cff414e7e482d95dfa9d8125 # v4
