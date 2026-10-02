@@ -1,0 +1,69 @@
+name: Package test builds
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Version from metadata/VERSION
+        required: true
+        default: 0.1.0
+        type: string
+      target:
+        description: Platform to build and test
+        required: true
+        default: all
+        type: choice
+        options: [all, linux, windows, macos]
+      arch:
+        description: Linux and Windows architecture; macOS is universal
+        required: true
+        default: all
+        type: choice
+        options: [all, x64, arm64]
+  push:
+    tags:
+      - "v*.*.*"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    outputs:
+      version: ${{ steps.version.outputs.version }}
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - name: Check release version
+        id: version
+        shell: bash
+        run: |
+          tag="$GITHUB_REF_NAME"
+          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
+            tag="v${{ inputs.version }}"
+          fi
+          version="$(scripts/check-release-version.sh "$tag")"
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+
+  linux:
+    if: github.event_name == 'push' || inputs.target == 'all' || inputs.target == 'linux'
+    needs: validate
+    uses: ./.github/workflows/linux.yml
+    with:
+      version: ${{ needs.validate.outputs.version }}
+      arch: ${{ github.event_name == 'push' && 'all' || inputs.arch }}
+
+  windows:
+    if: github.event_name == 'push' || inputs.target == 'all' || inputs.target == 'windows'
+    needs: validate
+    uses: ./.github/workflows/windows.yml
+    with:
+      version: ${{ needs.validate.outputs.version }}
+      arch: ${{ github.event_name == 'push' && 'all' || inputs.arch }}
+
+  macos:
+    if: github.event_name == 'push' || inputs.target == 'all' || inputs.target == 'macos'
+    needs: validate
+    uses: ./.github/workflows/macos.yml
+    with:
+      version: ${{ needs.validate.outputs.version }}

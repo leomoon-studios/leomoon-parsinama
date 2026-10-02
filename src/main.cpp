@@ -571,6 +571,14 @@ int main(int argc, char *argv[])
                 qCritical("The poem summary and verses did not share a scroll area");
                 return EXIT_FAILURE;
             }
+            QTemporaryDir printOutput;
+            const QString pdfPath = printOutput.filePath(QStringLiteral("poem.pdf"));
+            if (!printOutput.isValid() || !printService.exportCurrentPoemPdf(pdfPath)
+                || QFileInfo(pdfPath).size() < 1000) {
+                qCritical().noquote() << "The packaged poem could not be exported to PDF:"
+                                      << printService.error();
+                return EXIT_FAILURE;
+            }
             QObject *printMenu = window->findChild<QObject *>(QStringLiteral("printMenu"));
             if (!printService.available() || !printMenu
                 || !QMetaObject::invokeMethod(window, "openPrintMenu")) {

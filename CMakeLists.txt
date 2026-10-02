@@ -144,16 +144,11 @@ set_target_properties(leomoon_parsinama PROPERTIES
     MACOSX_BUNDLE_BUNDLE_VERSION "${PROJECT_VERSION}"
 )
 
-install(TARGETS leomoon_parsinama
-    BUNDLE DESTINATION .
-    RUNTIME DESTINATION "${CMAKE_INSTALL_BINDIR}"
-)
-
-if(UNIX AND NOT APPLE)
-    install(FILES "packaging/linux/${PARSINAMA_APP_ID}.desktop"
-        DESTINATION "${CMAKE_INSTALL_DATADIR}/applications"
-    )
+if(APPLE)
+    set_target_properties(leomoon_parsinama PROPERTIES OUTPUT_NAME "LeoMoon ParsiNama")
 endif()
+
+include(cmake/Packaging.cmake)
 
 if(BUILD_TESTING)
     qt_add_executable(parsinama_print_tests

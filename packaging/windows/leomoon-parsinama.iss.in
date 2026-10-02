@@ -1,0 +1,38 @@
+#define AppName "LeoMoon ParsiNama"
+#define AppVersion "@PROJECT_VERSION@"
+#define AppPublisher "LeoMoon Studios"
+#define AppExeName "leomoon-parsinama.exe"
+#define StageDir "@PARSINAMA_WINDOWS_STAGE_DIR@"
+#define SourceDir "@CMAKE_CURRENT_SOURCE_DIR@"
+
+[Setup]
+AppId={{BC6E67E6-2635-45E3-9E41-9D97327BFB65}
+AppName={#AppName}
+AppVersion={#AppVersion}
+AppVerName={#AppName} {#AppVersion}
+AppPublisher={#AppPublisher}
+DefaultDirName={autopf}\LeoMoon ParsiNama
+DefaultGroupName=LeoMoon ParsiNama
+OutputDir=@CMAKE_CURRENT_BINARY_DIR@\package\windows
+OutputBaseFilename=leomoon-parsinama-{#AppVersion}-windows-@PARSINAMA_WINDOWS_RELEASE_ARCH@-setup
+SetupIconFile={#SourceDir}\packaging\windows\app-icon.ico
+UninstallDisplayIcon={app}\bin\app-icon.ico
+UninstallDisplayName={#AppName}
+ArchitecturesAllowed=@PARSINAMA_WINDOWS_INNO_ARCHITECTURE@
+ArchitecturesInstallIn64BitMode=@PARSINAMA_WINDOWS_INNO_ARCHITECTURE@
+PrivilegesRequired=admin
+Compression=lzma2
+SolidCompression=yes
+WizardStyle=modern
+VersionInfoCompany={#AppPublisher}
+VersionInfoDescription={#AppName} installer
+VersionInfoProductName={#AppName}
+VersionInfoProductVersion={#AppVersion}
+VersionInfoVersion={#AppVersion}
+
+[Files]
+Source: "{#StageDir}\*"; DestDir: "{app}"; Flags: ignoreversion recursesubdirs createallsubdirs
+
+[Icons]
+Name: "{group}\LeoMoon ParsiNama"; Filename: "{app}\bin\{#AppExeName}"; IconFilename: "{app}\bin\app-icon.ico"
+Name: "{autodesktop}\LeoMoon ParsiNama"; Filename: "{app}\bin\{#AppExeName}"; IconFilename: "{app}\bin\app-icon.ico"
