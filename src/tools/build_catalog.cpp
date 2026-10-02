@@ -275,7 +275,7 @@ QString CatalogBuilder::contentPath(const QString &url, const QString &slug, boo
     if (canonical.isEmpty()) {
         fail(QStringLiteral("Missing referenced file: %1").arg(path));
     }
-    if (!canonical.startsWith(m_poetsCanonical + QDir::separator())) {
+    if (!canonical.startsWith(m_poetsCanonical + QStringLiteral("/"))) {
         fail(QStringLiteral("Referenced file is outside data/poets: %1").arg(path));
     }
     return canonical;
@@ -293,7 +293,7 @@ void CatalogBuilder::importPoet(const QJsonObject &reference, qsizetype position
     const QString slug = segments.constFirst();
     const QString path = QDir(m_poetsRoot).filePath(slug + QStringLiteral("/poet.json"));
     const QString canonical = QFileInfo(path).canonicalFilePath();
-    if (canonical.isEmpty() || !canonical.startsWith(m_poetsCanonical + QDir::separator())) {
+    if (canonical.isEmpty() || !canonical.startsWith(m_poetsCanonical + QStringLiteral("/"))) {
         fail(QStringLiteral("Missing or unsafe poet file: %1").arg(path));
     }
     const JsonFile file = readObject(canonical);
@@ -439,7 +439,7 @@ SourceDigest CatalogBuilder::hashSources() const
     for (const QString &relative : files) {
         const QString path = root.filePath(relative);
         const QString canonical = QFileInfo(path).canonicalFilePath();
-        if (canonical.isEmpty() || !canonical.startsWith(m_root + QDir::separator())) {
+        if (canonical.isEmpty() || !canonical.startsWith(m_root + QStringLiteral("/"))) {
             fail(QStringLiteral("Source file is outside data root: %1").arg(path));
         }
         QFile file(canonical);
@@ -582,7 +582,7 @@ int main(int argc, char *argv[])
         const QString sourceCanonical = QDir(source).canonicalPath();
         const QString outputCanonical = QDir(outputDir).canonicalPath();
         if (sourceCanonical.isEmpty() || outputCanonical == sourceCanonical
-            || outputCanonical.startsWith(sourceCanonical + QDir::separator())) {
+            || outputCanonical.startsWith(sourceCanonical + QStringLiteral("/"))) {
             fail(QStringLiteral("Catalog output must be outside the data source directory"));
         }
 
