@@ -508,18 +508,15 @@ ApplicationWindow {
                     visible: root.page !== "poets"
                     RowLayout {
                         Layout.fillWidth: true
-                        Label {
-                            objectName: "contentTitle"
-                            LayoutMirroring.enabled: false
-                            text: root.page === "settings" ? "تنظیمات"
-                                : root.page === "favorites" ? "نشانک‌ها"
-                                : root.page === "search" ? "جستجو" : root.navigationController.title
-                            color: colors.foreground
-                            font.pixelSize: 24
-                            font.weight: Font.DemiBold
+                        visible: root.page === "poet" || root.page === "collection" || root.page === "poem"
+                        BreadcrumbBar {
+                            objectName: "breadcrumbBar"
                             Layout.fillWidth: true
-                            horizontalAlignment: Text.AlignRight
-                            wrapMode: Text.Wrap
+                            Layout.preferredHeight: 38
+                            navigationController: root.navigationController
+                            appTheme: colors
+                            typography: typography
+                            onActivated: (index) => root.openBreadcrumb(index)
                         }
                         HeaderAction {
                             objectName: "toggleFavoriteButton"
@@ -561,15 +558,18 @@ ApplicationWindow {
                             onClicked: root.nextPoem()
                         }
                     }
-                    BreadcrumbBar {
-                        objectName: "breadcrumbBar"
-                        visible: root.page === "poet" || root.page === "collection" || root.page === "poem"
+                    Label {
+                        objectName: "contentTitle"
+                        LayoutMirroring.enabled: false
+                        text: root.page === "settings" ? "تنظیمات"
+                            : root.page === "favorites" ? "نشانک‌ها"
+                            : root.page === "search" ? "جستجو" : root.navigationController.title
+                        color: colors.foreground
+                        font.pixelSize: 24
+                        font.weight: Font.DemiBold
                         Layout.fillWidth: true
-                        Layout.preferredHeight: 38
-                        navigationController: root.navigationController
-                        appTheme: colors
-                        typography: typography
-                        onActivated: (index) => root.openBreadcrumb(index)
+                        horizontalAlignment: Text.AlignHCenter
+                        wrapMode: Text.Wrap
                     }
                     SettingsPage {
                         objectName: "settingsPage"
