@@ -43,8 +43,6 @@ def main() -> None:
     print(run("adb", "install", "-r", str(args.apk), timeout=900), flush=True)
     adb_shell("svc wifi disable")
     adb_shell("svc data disable")
-    adb_shell("settings put global airplane_mode_on 1")
-    adb_shell("am broadcast -a android.intent.action.AIRPLANE_MODE --ez state true")
     launch()
 
     deadline = time.monotonic() + 900
