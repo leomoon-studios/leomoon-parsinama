@@ -1,3 +1,24 @@
+if(ANDROID)
+    set(PARSINAMA_HOST_CATALOG "" CACHE FILEPATH
+        "Catalog built with host tools for the Android application")
+    if(NOT PARSINAMA_HOST_CATALOG)
+        message(FATAL_ERROR
+            "Android builds require -DPARSINAMA_HOST_CATALOG=/absolute/path/to/parsinama-catalog.sqlite")
+    endif()
+    if(NOT EXISTS "${PARSINAMA_HOST_CATALOG}" OR IS_DIRECTORY "${PARSINAMA_HOST_CATALOG}")
+        message(FATAL_ERROR "Host-built catalog does not exist: ${PARSINAMA_HOST_CATALOG}")
+    endif()
+    get_filename_component(PARSINAMA_CATALOG_FILE "${PARSINAMA_HOST_CATALOG}" REALPATH)
+    file(READ "${PARSINAMA_CATALOG_FILE}" PARSINAMA_CATALOG_HEADER LIMIT 16 HEX)
+    if(NOT PARSINAMA_CATALOG_HEADER STREQUAL "53514c69746520666f726d6174203300")
+        message(FATAL_ERROR "Host-built catalog is not a SQLite database: ${PARSINAMA_CATALOG_FILE}")
+    endif()
+    add_custom_target(parsinama_catalog DEPENDS "${PARSINAMA_CATALOG_FILE}")
+    add_dependencies(leomoon_parsinama parsinama_catalog)
+    message(STATUS "Using host-built Android catalog: ${PARSINAMA_CATALOG_FILE}")
+    return()
+endif()
+
 set(PARSINAMA_CATALOG_FILE "${CMAKE_CURRENT_BINARY_DIR}/parsinama-catalog.sqlite")
 add_custom_command(
     OUTPUT "${PARSINAMA_CATALOG_FILE}"

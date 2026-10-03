@@ -1,4 +1,4 @@
-name: Android compile check
+name: Android catalog and compile check
 
 on:
   workflow_dispatch:
@@ -12,7 +12,7 @@ env:
 
 jobs:
   compile:
-    name: Android arm64 configure and compile
+    name: Android arm64 host catalog and compile
     runs-on: ubuntu-24.04
     timeout-minutes: 90
     steps:
@@ -29,6 +29,16 @@ jobs:
 
       - name: Save Qt host path
         run: echo "QT_HOST_ROOT=$QT_ROOT_DIR" >> "$GITHUB_ENV"
+
+      - name: Build catalog with host tools
+        run: |
+          df -h .
+          cmake -S . -B build-host -G Ninja -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTING=OFF
+          cmake --build build-host --target parsinama_catalog --parallel 2
+          python3 -c 'import sqlite3; db = sqlite3.connect("file:build-host/parsinama-catalog.sqlite?mode=ro", uri=True); count = int(db.execute("SELECT value FROM metadata WHERE key = ?", ("poems_count",)).fetchone()[0]); assert count > 0, count; print(f"Host catalog contains {count} poems")'
+          sha256sum build-host/parsinama-catalog.sqlite > "$RUNNER_TEMP/host-catalog.sha256"
+          echo "HOST_CATALOG=$(realpath build-host/parsinama-catalog.sqlite)" >> "$GITHUB_ENV"
+          df -h .
 
       - name: Install Qt for Android arm64
         uses: jurplel/install-qt-action@a9c63c7c123f3069cff414e7e482d95dfa9d8125 # v4
@@ -50,6 +60,7 @@ jobs:
             -DQT_HOST_PATH="$QT_HOST_ROOT" \
             -DANDROID_SDK_ROOT="$ANDROID_HOME" \
             -DANDROID_NDK_ROOT="$ANDROID_HOME/ndk/$ANDROID_NDK_VERSION" \
+            -DPARSINAMA_HOST_CATALOG="$HOST_CATALOG" \
             -DBUILD_TESTING=OFF
 
       - name: Compile Android application
@@ -60,5 +71,14 @@ jobs:
         run: |
           if rg -n 'libQt6(PrintSupport|Widgets)|src/services/PrintService.cpp' build-android/build.ninja; then
             echo "Android target unexpectedly depends on desktop printing" >&2
+            exit 1
+          fi
+
+      - name: Verify Android consumed the host catalog
+        run: |
+          test "$(sed -n 's/^PARSINAMA_HOST_CATALOG:FILEPATH=//p' build-android/CMakeCache.txt)" = "$HOST_CATALOG"
+          sha256sum --check "$RUNNER_TEMP/host-catalog.sha256"
+          if rg -n 'parsinama-catalog-builder' build-android/build.ninja; then
+            echo "Android build unexpectedly contains a target-architecture catalog builder" >&2
             exit 1
           fi
