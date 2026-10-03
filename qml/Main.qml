@@ -17,6 +17,7 @@ ApplicationWindow {
     required property var settingsStore
     required property var bookmarkStore
     property var printService: null
+    property var catalogStartup: null
     readonly property bool printingSupported: Qt.platform.os !== "android"
     readonly property bool compactHeader: width < 760
     readonly property bool compactBrowse: width < 760
@@ -29,7 +30,9 @@ ApplicationWindow {
     readonly property color surfaceColor: colors.surface
     readonly property bool canPrintCurrentPoem: printingSupported && page === "poem"
         && printService !== null && printService.available
-    readonly property string statusMessage: bookmarkStore.error !== "" ? bookmarkStore.error
+    readonly property string statusMessage: catalogStartup !== null && !catalogStartup.busy
+        && !catalogStartup.ready ? catalogStartup.statusText
+        : bookmarkStore.error !== "" ? bookmarkStore.error
         : printService !== null && printService.error !== "" ? printService.error
         : settingsStore.error !== "" ? settingsStore.error
         : navigationController.error !== "" ? navigationController.error
@@ -771,6 +774,41 @@ ApplicationWindow {
                 horizontalAlignment: Text.AlignRight
                 verticalAlignment: Text.AlignVCenter
                 elide: Text.ElideMiddle
+            }
+        }
+    }
+
+    Rectangle {
+        anchors.fill: parent
+        z: 100
+        visible: root.catalogStartup !== null && !root.catalogStartup.ready
+        color: colors.background
+        ColumnLayout {
+            anchors.centerIn: parent
+            width: Math.min(parent.width - 40, 440)
+            spacing: 16
+            Label {
+                Layout.fillWidth: true
+                text: "آماده‌سازی کتابخانهٔ آفلاین"
+                font.pixelSize: 22
+                font.bold: true
+                color: colors.foreground
+                horizontalAlignment: Text.AlignHCenter
+            }
+            Label {
+                Layout.fillWidth: true
+                text: root.catalogStartup === null ? "" : root.catalogStartup.statusText
+                color: root.catalogStartup !== null && root.catalogStartup.busy
+                    ? colors.muted : colors.foreground
+                wrapMode: Text.WordWrap
+                horizontalAlignment: Text.AlignHCenter
+            }
+            ProgressBar {
+                Layout.fillWidth: true
+                visible: root.catalogStartup !== null && root.catalogStartup.busy
+                from: 0
+                to: 100
+                value: root.catalogStartup === null ? 0 : root.catalogStartup.progress
             }
         }
     }

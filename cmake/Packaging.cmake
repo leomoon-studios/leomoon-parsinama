@@ -15,6 +15,20 @@ if(ANDROID)
     endif()
     add_custom_target(parsinama_catalog DEPENDS "${PARSINAMA_CATALOG_FILE}")
     add_dependencies(leomoon_parsinama parsinama_catalog)
+    set(PARSINAMA_ANDROID_PACKAGE_DIR "${CMAKE_CURRENT_BINARY_DIR}/parsinama-android-package")
+    file(MAKE_DIRECTORY "${PARSINAMA_ANDROID_PACKAGE_DIR}/assets")
+    file(COPY "${CMAKE_CURRENT_SOURCE_DIR}/packaging/android/" DESTINATION "${PARSINAMA_ANDROID_PACKAGE_DIR}")
+    file(CREATE_LINK "${PARSINAMA_CATALOG_FILE}"
+        "${PARSINAMA_ANDROID_PACKAGE_DIR}/assets/parsinama-catalog.sqlite"
+        SYMBOLIC RESULT PARSINAMA_CATALOG_LINK_RESULT)
+    if(NOT PARSINAMA_CATALOG_LINK_RESULT STREQUAL "0")
+        message(FATAL_ERROR "Could not stage Android catalog asset: ${PARSINAMA_CATALOG_LINK_RESULT}")
+    endif()
+    file(SHA256 "${PARSINAMA_CATALOG_FILE}" PARSINAMA_CATALOG_SHA256)
+    file(WRITE "${PARSINAMA_ANDROID_PACKAGE_DIR}/assets/parsinama-catalog.sha256"
+        "${PARSINAMA_CATALOG_SHA256}\n")
+    set_property(TARGET leomoon_parsinama PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
+        "${PARSINAMA_ANDROID_PACKAGE_DIR}")
     message(STATUS "Using host-built Android catalog: ${PARSINAMA_CATALOG_FILE}")
     return()
 endif()

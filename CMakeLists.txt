@@ -48,6 +48,8 @@ set(PARSINAMA_APP_ID "com.leomoon.ParsiNama")
 qt_add_library(parsinama_data STATIC
     src/data/CatalogPaths.cpp
     src/data/CatalogPaths.h
+    src/data/CatalogStartup.cpp
+    src/data/CatalogStartup.h
     src/data/CatalogRepository.cpp
     src/data/CatalogRepository.h
     src/data/CollectionListModel.cpp

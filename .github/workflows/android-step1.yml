@@ -1,4 +1,4 @@
-name: Android catalog and compile check
+name: Android catalog and APK check
 
 on:
   workflow_dispatch:
@@ -12,9 +12,9 @@ env:
 
 jobs:
   compile:
-    name: Android arm64 host catalog and compile
+    name: Android arm64 host catalog and APK
     runs-on: ubuntu-24.04
-    timeout-minutes: 90
+    timeout-minutes: 150
     steps:
       - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
 
@@ -82,3 +82,35 @@ jobs:
             echo "Android build unexpectedly contains a target-architecture catalog builder" >&2
             exit 1
           fi
+
+      - name: Build APK with offline catalog
+        run: cmake --build build-android --target apk --parallel 2
+
+      - name: Verify packaged catalog
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import pathlib
+          import zipfile
+
+          apks = list(pathlib.Path('build-android').rglob('*.apk'))
+          assert len(apks) == 1, apks
+          apk = apks[0]
+          expected = hashlib.file_digest(open('build-host/parsinama-catalog.sqlite', 'rb'), 'sha256').hexdigest()
+          with zipfile.ZipFile(apk) as package:
+              print(f'APK: {apk} ({apk.stat().st_size:,} bytes)')
+              names = set(package.namelist())
+              assert 'assets/parsinama-catalog.sqlite' in names
+              assert 'assets/parsinama-catalog.sha256' in names
+              assert package.read('assets/parsinama-catalog.sha256').decode().strip() == expected
+              with package.open('assets/parsinama-catalog.sqlite') as catalog:
+                  assert hashlib.file_digest(catalog, 'sha256').hexdigest() == expected
+          print('APK catalog checksum matches host catalog')
+          PY
+
+      - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6
+        with:
+          name: android-step3-arm64-apk
+          path: build-android/android-build/build/outputs/apk/**/*.apk
+          if-no-files-found: error
+          compression-level: 0
