@@ -622,6 +622,18 @@ int main(int argc, char *argv[])
                 qCritical("The poem summary and verses did not share a scroll area");
                 return EXIT_FAILURE;
             }
+            const qreal poemTop = -poemHeader->height();
+            poemList->setProperty("contentY", poemTop + 20);
+            settingsStore.setReadingSize(30);
+            for (int attempt = 0; attempt < 12; ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            if (poemList->property("contentY").toReal() < -poemHeader->height() + 10) {
+                qCritical("The poem scrolled back to the top after its content changed");
+                return EXIT_FAILURE;
+            }
+            settingsStore.setReadingSize(29);
 #ifndef Q_OS_ANDROID
             QTemporaryDir printOutput;
             const QString pdfPath = printOutput.filePath(QStringLiteral("poem.pdf"));
