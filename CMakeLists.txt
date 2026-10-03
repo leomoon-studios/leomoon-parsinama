@@ -32,7 +32,7 @@ set(PARSINAMA_QT_COMPONENTS
     QuickControls2
     Sql
 )
-if(BUILD_TESTING)
+if(BUILD_TESTING AND NOT ANDROID)
     list(APPEND PARSINAMA_QT_COMPONENTS Test)
 endif()
 if(NOT ANDROID)
@@ -137,11 +137,13 @@ target_compile_definitions(leomoon_parsinama PRIVATE
     PARSINAMA_APP_ID="${PARSINAMA_APP_ID}"
 )
 
-qt_add_executable(parsinama_catalog_builder src/tools/build_catalog.cpp)
-set_target_properties(parsinama_catalog_builder PROPERTIES
-    OUTPUT_NAME parsinama-catalog-builder
-)
-target_link_libraries(parsinama_catalog_builder PRIVATE Qt6::Core Qt6::Sql parsinama_data)
+if(NOT ANDROID)
+    qt_add_executable(parsinama_catalog_builder src/tools/build_catalog.cpp)
+    set_target_properties(parsinama_catalog_builder PROPERTIES
+        OUTPUT_NAME parsinama-catalog-builder
+    )
+    target_link_libraries(parsinama_catalog_builder PRIVATE Qt6::Core Qt6::Sql parsinama_data)
+endif()
 
 set_target_properties(leomoon_parsinama PROPERTIES
     OUTPUT_NAME leomoon-parsinama
@@ -157,7 +159,9 @@ if(APPLE)
     set_target_properties(leomoon_parsinama PROPERTIES OUTPUT_NAME "LeoMoon ParsiNama")
 endif()
 
-include(cmake/Packaging.cmake)
+if(NOT ANDROID)
+    include(cmake/Packaging.cmake)
+endif()
 
 if(BUILD_TESTING AND NOT ANDROID)
     qt_add_executable(parsinama_print_tests
@@ -176,9 +180,6 @@ if(BUILD_TESTING AND NOT ANDROID)
         ENVIRONMENT "QT_QPA_PLATFORM=offscreen;QT_QPA_PLATFORMTHEME="
         TIMEOUT 30
     )
-endif()
-
-if(BUILD_TESTING)
     qt_add_executable(parsinama_app_tests tests/app_tests.cpp)
     target_link_libraries(parsinama_app_tests PRIVATE Qt6::Core Qt6::Test)
     target_compile_definitions(parsinama_app_tests PRIVATE

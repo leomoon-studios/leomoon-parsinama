@@ -52,10 +52,9 @@ jobs:
             -DANDROID_NDK_ROOT="$ANDROID_HOME/ndk/$ANDROID_NDK_VERSION" \
             -DBUILD_TESTING=OFF
 
-      - name: Compile data library and Android application entry point
+      - name: Compile Android application
         run: |
-          cmake --build build-android --target parsinama_data --parallel 2
-          ninja -C build-android CMakeFiles/leomoon_parsinama.dir/src/main.cpp.o
+          cmake --build build-android --target leomoon_parsinama --parallel 2
 
       - name: Check that desktop printing is absent
         run: |
