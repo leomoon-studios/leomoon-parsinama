@@ -341,7 +341,7 @@ ApplicationWindow {
                 }
                 Label {
                     Layout.fillWidth: true
-                    text: "گنجینهٔ شعر فارسی"
+                    text: "گنجینه شعر پارسی"
                     color: colors.muted
                     font.pixelSize: 12
                     elide: Text.ElideRight
