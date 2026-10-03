@@ -75,6 +75,13 @@ jobs:
             Get-Content -LiteralPath "build-windows\Testing\Temporary\LastTest.log" -Tail 200
             $env:QT_QPA_PLATFORM = "offscreen"
             $env:QT_QPA_PLATFORMTHEME = ""
+            $dataTest = (Resolve-Path -LiteralPath "build-windows\parsinama_data_tests.exe").Path
+            $dataLog = Join-Path $env:RUNNER_TEMP "parsinama-data-test.txt"
+            $dataProcess = Start-Process -FilePath $dataTest -ArgumentList @(
+              "-o", "`"$dataLog,txt`""
+            ) -Wait -PassThru
+            if (Test-Path -LiteralPath $dataLog) { Get-Content -LiteralPath $dataLog }
+            Write-Host "Direct data test exit code: $($dataProcess.ExitCode)"
             $printTest = (Resolve-Path -LiteralPath "build-windows\parsinama_print_tests.exe").Path
             $printLog = Join-Path $env:RUNNER_TEMP "parsinama-print-test.txt"
             $printProcess = Start-Process -FilePath $printTest -ArgumentList @(
