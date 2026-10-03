@@ -1,0 +1,279 @@
+name: Android APK
+
+on:
+  workflow_call:
+    inputs:
+      version:
+        required: true
+        type: string
+      sign_release:
+        required: false
+        type: boolean
+        default: false
+    secrets:
+      ANDROID_KEYSTORE_BASE64:
+        required: false
+      ANDROID_KEYSTORE_ALIAS:
+        required: false
+      ANDROID_KEYSTORE_STORE_PASS:
+        required: false
+      ANDROID_KEYSTORE_KEY_PASS:
+        required: false
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Version from metadata/VERSION
+        required: true
+        default: 0.1.0
+        type: string
+
+permissions:
+  contents: read
+
+env:
+  QT_VERSION: 6.8.3
+  ANDROID_NDK_VERSION: 26.1.10909125
+  ANDROID_PLATFORM: android-35
+  ANDROID_BUILD_TOOLS: 36.0.0
+  CMAKE_VERSION: 3.30.3
+  NINJA_VERSION: 1.12.1
+
+jobs:
+  build-test-package:
+    name: Android arm64 APK
+    runs-on: ubuntu-24.04
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - name: Check release version
+        shell: bash
+        run: scripts/check-release-version.sh "v${{ inputs.version }}"
+
+      - name: Set up JDK 17
+        uses: actions/setup-java@dded0888837ed1f317902acf8a20df0ad188d165 # v4
+        with:
+          distribution: temurin
+          java-version: '17.0.16+8'
+
+      - name: Install pinned CMake and Ninja
+        shell: bash
+        run: |
+          python3 -m venv "$RUNNER_TEMP/parsinama-build-tools"
+          "$RUNNER_TEMP/parsinama-build-tools/bin/pip" install "cmake==$CMAKE_VERSION" "ninja==$NINJA_VERSION"
+          echo "$RUNNER_TEMP/parsinama-build-tools/bin" >> "$GITHUB_PATH"
+
+      - name: Install pinned Android SDK components
+        shell: bash
+        run: |
+          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" \
+            "platforms;$ANDROID_PLATFORM" "build-tools;$ANDROID_BUILD_TOOLS" \
+            'platform-tools' "ndk;$ANDROID_NDK_VERSION"
+          df -h .
+
+      - name: Install Qt host tools
+        uses: jurplel/install-qt-action@a9c63c7c123f3069cff414e7e482d95dfa9d8125 # v4
+        with:
+          version: ${{ env.QT_VERSION }}
+          host: linux
+          target: desktop
+          arch: linux_gcc_64
+          setup-python: true
+
+      - name: Save Qt host path
+        run: echo "QT_HOST_ROOT=$QT_ROOT_DIR" >> "$GITHUB_ENV"
+
+      - name: Build catalog with host tools
+        run: |
+          df -h .
+          cmake -S . -B build-host -G Ninja -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTING=OFF
+          cmake --build build-host --target parsinama_catalog --parallel 2
+          python3 -c 'import sqlite3; db = sqlite3.connect("file:build-host/parsinama-catalog.sqlite?mode=ro", uri=True); count = int(db.execute("SELECT value FROM metadata WHERE key = ?", ("poems_count",)).fetchone()[0]); assert count > 0, count; print(f"Host catalog contains {count} poems")'
+          sha256sum build-host/parsinama-catalog.sqlite > "$RUNNER_TEMP/host-catalog.sha256"
+          echo "HOST_CATALOG=$(realpath build-host/parsinama-catalog.sqlite)" >> "$GITHUB_ENV"
+          df -h .
+
+      - name: Install Qt for Android arm64
+        uses: jurplel/install-qt-action@a9c63c7c123f3069cff414e7e482d95dfa9d8125 # v4
+        with:
+          version: ${{ env.QT_VERSION }}
+          host: all_os
+          target: android
+          arch: android_arm64_v8a
+          setup-python: true
+
+      - name: Save Android Qt path
+        run: |
+          echo "QT_ANDROID_ROOT=$QT_ROOT_DIR" >> "$GITHUB_ENV"
+
+      - name: Configure Android app
+        run: |
+          "$QT_ANDROID_ROOT/bin/qt-cmake" -S . -B build-android -G Ninja \
+            -DQT_HOST_PATH="$QT_HOST_ROOT" \
+            -DANDROID_SDK_ROOT="$ANDROID_HOME" \
+            -DANDROID_NDK_ROOT="$ANDROID_HOME/ndk/$ANDROID_NDK_VERSION" \
+            -DPARSINAMA_HOST_CATALOG="$HOST_CATALOG" \
+            -DBUILD_TESTING=OFF
+
+      - name: Compile Android application
+        run: |
+          cmake --build build-android --target leomoon_parsinama --parallel 2
+
+      - name: Check that desktop printing is absent
+        run: |
+          if rg -n 'libQt6(PrintSupport|Widgets)|src/services/PrintService.cpp' build-android/build.ninja; then
+            echo "Android target unexpectedly depends on desktop printing" >&2
+            exit 1
+          fi
+
+      - name: Verify Android consumed the host catalog
+        run: |
+          test "$(sed -n 's/^PARSINAMA_HOST_CATALOG:FILEPATH=//p' build-android/CMakeCache.txt)" = "$HOST_CATALOG"
+          sha256sum --check "$RUNNER_TEMP/host-catalog.sha256"
+          if rg -n 'parsinama-catalog-builder' build-android/build.ninja; then
+            echo "Android build unexpectedly contains a target-architecture catalog builder" >&2
+            exit 1
+          fi
+
+      - name: Build APK with offline catalog
+        shell: bash
+        run: |
+          mkdir -p build-android/android-build/libs/arm64-v8a
+          cp build-android/libleomoon-parsinama_arm64-v8a.so build-android/android-build/libs/arm64-v8a/
+          GRADLE_OPTS='-Dorg.gradle.jvmargs=-Xmx8g -Dorg.gradle.workers.max=2' \
+            "$QT_HOST_ROOT/bin/androiddeployqt" \
+              --input build-android/android-leomoon_parsinama-deployment-settings.json \
+              --output build-android/android-build \
+              --apk build-android/android-build/leomoon_parsinama.apk \
+              --android-platform "$ANDROID_PLATFORM"
+
+      - name: Verify packaged catalog
+        run: |
+          python3 - <<'PY'
+          import hashlib
+          import pathlib
+          import zipfile
+
+          apk = pathlib.Path('build-android/android-build/leomoon_parsinama.apk')
+          assert apk.is_file(), apk
+          expected = hashlib.file_digest(open('build-host/parsinama-catalog.sqlite', 'rb'), 'sha256').hexdigest()
+          with zipfile.ZipFile(apk) as package:
+              print(f'APK: {apk} ({apk.stat().st_size:,} bytes)')
+              names = set(package.namelist())
+              manifest = package.read('assets/parsinama-catalog.manifest').decode().split()
+              assert manifest[0] == expected
+              assert int(manifest[1]) == pathlib.Path('build-host/parsinama-catalog.sqlite').stat().st_size
+              count = int(manifest[2])
+              digest = hashlib.sha256()
+              total = 0
+              for index in range(count):
+                  name = f'assets/parsinama-catalog-{index:04d}.part'
+                  assert name in names, name
+                  with package.open(name) as part:
+                      while block := part.read(1024 * 1024):
+                          digest.update(block)
+                          total += len(block)
+              assert total == int(manifest[1]), total
+              assert digest.hexdigest() == expected
+          print('APK catalog checksum matches host catalog')
+          PY
+
+      - name: Prepare test APK and checksum
+        shell: bash
+        run: |
+          mkdir -p dist
+          cp build-android/android-build/leomoon_parsinama.apk \
+            "dist/leomoon-parsinama-${{ inputs.version }}-android-arm64-v8a-test.apk"
+          (cd dist && sha256sum ./*.apk > SHA256SUMS)
+          ls -lh dist/
+
+      - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6
+        with:
+          name: leomoon-parsinama-android-arm64-${{ github.sha }}
+          path: dist/
+          if-no-files-found: error
+          compression-level: 0
+          retention-days: 7
+
+      - name: Sign a separate release APK
+        if: inputs.sign_release
+        shell: bash
+        env:
+          ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+          QT_ANDROID_KEYSTORE_ALIAS: ${{ secrets.ANDROID_KEYSTORE_ALIAS }}
+          QT_ANDROID_KEYSTORE_STORE_PASS: ${{ secrets.ANDROID_KEYSTORE_STORE_PASS }}
+          QT_ANDROID_KEYSTORE_KEY_PASS: ${{ secrets.ANDROID_KEYSTORE_KEY_PASS }}
+        run: |
+          set -euo pipefail
+          test -n "$ANDROID_KEYSTORE_BASE64"
+          test -n "$QT_ANDROID_KEYSTORE_ALIAS"
+          test -n "$QT_ANDROID_KEYSTORE_STORE_PASS"
+          test -n "$QT_ANDROID_KEYSTORE_KEY_PASS"
+          export QT_ANDROID_KEYSTORE_PATH="$RUNNER_TEMP/parsinama-release.keystore"
+          printf '%s' "$ANDROID_KEYSTORE_BASE64" | base64 --decode > "$QT_ANDROID_KEYSTORE_PATH"
+          chmod 600 "$QT_ANDROID_KEYSTORE_PATH"
+          trap 'rm -f "$QT_ANDROID_KEYSTORE_PATH"' EXIT
+          GRADLE_OPTS='-Dorg.gradle.jvmargs=-Xmx8g -Dorg.gradle.workers.max=2' \
+            "$QT_HOST_ROOT/bin/androiddeployqt" \
+            --input build-android/android-leomoon_parsinama-deployment-settings.json \
+            --output build-android/android-build --android-platform "$ANDROID_PLATFORM" \
+            --release --sign "$QT_ANDROID_KEYSTORE_PATH" "$QT_ANDROID_KEYSTORE_ALIAS" \
+            --apk "$RUNNER_TEMP/leomoon-parsinama-release.apk"
+          mkdir -p dist-release
+          cp "$RUNNER_TEMP/leomoon-parsinama-release.apk" \
+            "dist-release/leomoon-parsinama-${{ inputs.version }}-android-arm64-v8a.apk"
+          (cd dist-release && sha256sum ./*.apk > SHA256SUMS)
+
+      - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6
+        if: inputs.sign_release
+        with:
+          name: leomoon-parsinama-android-arm64-signed-${{ github.sha }}
+          path: dist-release/
+          if-no-files-found: error
+          compression-level: 0
+          retention-days: 7
+
+      - name: Install Qt for Android x86_64 emulator
+        uses: jurplel/install-qt-action@a9c63c7c123f3069cff414e7e482d95dfa9d8125 # v4
+        with:
+          version: ${{ env.QT_VERSION }}
+          host: all_os
+          target: android
+          arch: android_x86_64
+          setup-python: true
+
+      - name: Build emulator APK with the same catalog parts
+        run: |
+          "$QT_ROOT_DIR/bin/qt-cmake" -S . -B build-android-x86 -G Ninja \
+            -DQT_HOST_PATH="$QT_HOST_ROOT" \
+            -DANDROID_SDK_ROOT="$ANDROID_HOME" \
+            -DANDROID_NDK_ROOT="$ANDROID_HOME/ndk/$ANDROID_NDK_VERSION" \
+            -DPARSINAMA_HOST_CATALOG="$HOST_CATALOG" \
+            -DPARSINAMA_ANDROID_PARTS_DIR="$GITHUB_WORKSPACE/build-android/parsinama-android-catalog-parts" \
+            -DBUILD_TESTING=OFF
+          cmake --build build-android-x86 --target leomoon_parsinama --parallel 2
+          mkdir -p build-android-x86/android-build/libs/x86_64
+          cp build-android-x86/libleomoon-parsinama_x86_64.so build-android-x86/android-build/libs/x86_64/
+          GRADLE_OPTS='-Dorg.gradle.jvmargs=-Xmx8g -Dorg.gradle.workers.max=2' \
+            "$QT_HOST_ROOT/bin/androiddeployqt" \
+              --input build-android-x86/android-leomoon_parsinama-deployment-settings.json \
+              --output build-android-x86/android-build \
+              --apk build-android-x86/android-build/leomoon_parsinama.apk \
+              --android-platform "$ANDROID_PLATFORM"
+
+      - name: Enable KVM for emulator
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+
+      - name: Fresh install and relaunch offline
+        uses: reactivecircus/android-emulator-runner@4c44018e59b437e86cdfc41da381398f93ed8808 # v2
+        with:
+          api-level: 35
+          arch: x86_64
+          target: google_apis
+          disk-size: 12G
+          ram-size: 4096M
+          emulator-boot-timeout: 600
+          script: python3 scripts/android_offline_smoke.py build-android-x86/android-build/leomoon_parsinama.apk build-host/parsinama-catalog.sqlite

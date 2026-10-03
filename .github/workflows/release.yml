@@ -18,8 +18,9 @@ on:
           - linux
           - windows
           - macos
+          - android
       arch:
-        description: Linux and Windows architecture; macOS is universal
+        description: Linux and Windows architecture; macOS and Android use their fixed targets
         required: true
         default: all
         type: choice
@@ -52,6 +53,10 @@ jobs:
           tag="$GITHUB_REF_NAME"
           if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
             tag="v${{ inputs.version }}"
+            if [[ "${{ inputs.target }}" == android && "${{ inputs.arch }}" == x64 ]]; then
+              echo "Android currently supports arm64 only; choose arch=arm64 or arch=all" >&2
+              exit 1
+            fi
           fi
           version="$(scripts/check-release-version.sh "$tag")"
           echo "version=$version" >> "$GITHUB_OUTPUT"
@@ -76,5 +81,12 @@ jobs:
     if: github.event_name == 'push' || inputs.target == 'all' || inputs.target == 'macos'
     needs: validate
     uses: ./.github/workflows/macos.yml
+    with:
+      version: ${{ needs.validate.outputs.version }}
+
+  android:
+    if: (github.event_name == 'push' || inputs.target == 'all' || inputs.target == 'android') && (github.event_name == 'push' || inputs.arch == 'all' || inputs.arch == 'arm64')
+    needs: validate
+    uses: ./.github/workflows/android.yml
     with:
       version: ${{ needs.validate.outputs.version }}
