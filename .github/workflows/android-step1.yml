@@ -25,7 +25,6 @@ jobs:
           host: linux
           target: desktop
           arch: linux_gcc_64
-          modules: qtsvg
           setup-python: true
 
       - name: Save Qt host path
