@@ -42,7 +42,7 @@ jobs:
       - name: Install matching Android NDK
         run: |
           echo "QT_ANDROID_ROOT=$QT_ROOT_DIR" >> "$GITHUB_ENV"
-          sdkmanager "ndk;$ANDROID_NDK_VERSION"
+          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" "ndk;$ANDROID_NDK_VERSION"
 
       - name: Configure Android app
         run: |
