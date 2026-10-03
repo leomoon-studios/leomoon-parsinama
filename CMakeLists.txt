@@ -159,9 +159,7 @@ if(APPLE)
     set_target_properties(leomoon_parsinama PROPERTIES OUTPUT_NAME "LeoMoon ParsiNama")
 endif()
 
-if(NOT ANDROID)
-    include(cmake/Packaging.cmake)
-endif()
+include(cmake/Packaging.cmake)
 
 if(BUILD_TESTING AND NOT ANDROID)
     qt_add_executable(parsinama_print_tests
