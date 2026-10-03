@@ -55,7 +55,6 @@ jobs:
           host: ${{ matrix.arch == 'arm64' && 'windows_arm64' || 'windows' }}
           target: desktop
           arch: ${{ matrix.arch == 'arm64' && 'win64_msvc2022_arm64' || 'win64_msvc2022_64' }}
-          modules: qtsvg
           cache: true
           setup-python: true
 

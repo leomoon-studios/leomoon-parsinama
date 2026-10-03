@@ -27,7 +27,7 @@ Install JDK 17 and the [Android SDK command-line tools](https://developer.androi
 ```sh
 python3 -m venv /tmp/parsinama-aqt-venv
 /tmp/parsinama-aqt-venv/bin/pip install aqtinstall
-/tmp/parsinama-aqt-venv/bin/aqt install-qt linux desktop 6.8.3 linux_gcc_64 --modules qtsvg --outputdir "$HOME/Qt"
+/tmp/parsinama-aqt-venv/bin/aqt install-qt linux desktop 6.8.3 linux_gcc_64 --outputdir "$HOME/Qt"
 /tmp/parsinama-aqt-venv/bin/aqt install-qt all_os android 6.8.3 android_arm64_v8a --outputdir "$HOME/Qt"
 "$HOME/Android/Sdk/cmdline-tools/latest/bin/sdkmanager" --sdk_root="$HOME/Android/Sdk" 'platforms;android-35' 'build-tools;36.0.0' 'platform-tools' 'ndk;26.1.10909125'
 ```
