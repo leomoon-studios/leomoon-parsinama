@@ -93,9 +93,8 @@ jobs:
           import pathlib
           import zipfile
 
-          apks = list(pathlib.Path('build-android').rglob('*.apk'))
-          assert len(apks) == 1, apks
-          apk = apks[0]
+          apk = pathlib.Path('build-android/android-build/leomoon_parsinama.apk')
+          assert apk.is_file(), apk
           expected = hashlib.file_digest(open('build-host/parsinama-catalog.sqlite', 'rb'), 'sha256').hexdigest()
           with zipfile.ZipFile(apk) as package:
               print(f'APK: {apk} ({apk.stat().st_size:,} bytes)')
