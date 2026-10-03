@@ -50,6 +50,7 @@ jobs:
           host: ${{ matrix.arch == 'arm64' && 'linux_arm64' || 'linux' }}
           target: desktop
           arch: ${{ matrix.arch == 'arm64' && 'linux_gcc_arm64' || 'linux_gcc_64' }}
+          modules: qtsvg
           cache: true
           setup-python: true
 

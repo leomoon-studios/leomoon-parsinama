@@ -25,6 +25,7 @@ jobs:
           host: linux
           target: desktop
           arch: linux_gcc_64
+          modules: qtsvg
           setup-python: true
 
       - name: Save Qt host path
@@ -35,9 +36,11 @@ jobs:
           df -h .
           cmake -S . -B build-host -G Ninja -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTING=OFF
           cmake --build build-host --target parsinama_catalog --parallel 2
+          cmake --build build-host --target parsinama_icon_generator --parallel 2
           python3 -c 'import sqlite3; db = sqlite3.connect("file:build-host/parsinama-catalog.sqlite?mode=ro", uri=True); count = int(db.execute("SELECT value FROM metadata WHERE key = ?", ("poems_count",)).fetchone()[0]); assert count > 0, count; print(f"Host catalog contains {count} poems")'
           sha256sum build-host/parsinama-catalog.sqlite > "$RUNNER_TEMP/host-catalog.sha256"
           echo "HOST_CATALOG=$(realpath build-host/parsinama-catalog.sqlite)" >> "$GITHUB_ENV"
+          echo "HOST_ICON_GENERATOR=$(realpath build-host/parsinama-icon-generator)" >> "$GITHUB_ENV"
           df -h .
 
       - name: Install Qt for Android arm64
@@ -61,6 +64,7 @@ jobs:
             -DANDROID_SDK_ROOT="$ANDROID_HOME" \
             -DANDROID_NDK_ROOT="$ANDROID_HOME/ndk/$ANDROID_NDK_VERSION" \
             -DPARSINAMA_HOST_CATALOG="$HOST_CATALOG" \
+            -DPARSINAMA_HOST_ICON_GENERATOR="$HOST_ICON_GENERATOR" \
             -DBUILD_TESTING=OFF
 
       - name: Compile Android application
@@ -99,6 +103,8 @@ jobs:
           with zipfile.ZipFile(apk) as package:
               print(f'APK: {apk} ({apk.stat().st_size:,} bytes)')
               names = set(package.namelist())
+              for density in ('mdpi', 'hdpi', 'xhdpi', 'xxhdpi', 'xxxhdpi'):
+                  assert f'res/mipmap-{density}-v4/ic_launcher.png' in names
               manifest = package.read('assets/parsinama-catalog.manifest').decode().split()
               assert manifest[0] == expected
               assert int(manifest[1]) == pathlib.Path('build-host/parsinama-catalog.sqlite').stat().st_size
@@ -140,6 +146,7 @@ jobs:
             -DANDROID_SDK_ROOT="$ANDROID_HOME" \
             -DANDROID_NDK_ROOT="$ANDROID_HOME/ndk/$ANDROID_NDK_VERSION" \
             -DPARSINAMA_HOST_CATALOG="$HOST_CATALOG" \
+            -DPARSINAMA_HOST_ICON_GENERATOR="$HOST_ICON_GENERATOR" \
             -DPARSINAMA_ANDROID_PARTS_DIR="$GITHUB_WORKSPACE/build-android/parsinama-android-catalog-parts" \
             -DBUILD_TESTING=OFF
           cmake --build build-android-x86 --target apk --parallel 2
