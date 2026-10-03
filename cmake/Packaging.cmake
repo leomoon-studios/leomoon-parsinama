@@ -18,17 +18,38 @@ if(ANDROID)
     set(PARSINAMA_ANDROID_PACKAGE_DIR "${CMAKE_CURRENT_BINARY_DIR}/parsinama-android-package")
     file(MAKE_DIRECTORY "${PARSINAMA_ANDROID_PACKAGE_DIR}/assets")
     file(COPY "${CMAKE_CURRENT_SOURCE_DIR}/packaging/android/" DESTINATION "${PARSINAMA_ANDROID_PACKAGE_DIR}")
-    file(CREATE_LINK "${PARSINAMA_CATALOG_FILE}"
-        "${PARSINAMA_ANDROID_PACKAGE_DIR}/assets/parsinama-catalog.sqlite"
-        SYMBOLIC RESULT PARSINAMA_CATALOG_LINK_RESULT)
-    if(NOT PARSINAMA_CATALOG_LINK_RESULT STREQUAL "0")
-        message(FATAL_ERROR "Could not stage Android catalog asset: ${PARSINAMA_CATALOG_LINK_RESULT}")
+    find_package(Python3 REQUIRED COMPONENTS Interpreter)
+    set(PARSINAMA_ANDROID_PARTS_DIR "${CMAKE_CURRENT_BINARY_DIR}/parsinama-android-catalog-parts")
+    execute_process(
+        COMMAND "${Python3_EXECUTABLE}" "${CMAKE_CURRENT_SOURCE_DIR}/scripts/split_android_catalog.py"
+            "${PARSINAMA_CATALOG_FILE}" "${PARSINAMA_ANDROID_PARTS_DIR}"
+        RESULT_VARIABLE PARSINAMA_SPLIT_RESULT
+        COMMAND_ERROR_IS_FATAL ANY
+    )
+    file(GLOB PARSINAMA_OLD_ASSETS "${PARSINAMA_ANDROID_PACKAGE_DIR}/assets/parsinama-catalog-*.part")
+    if(PARSINAMA_OLD_ASSETS)
+        file(REMOVE ${PARSINAMA_OLD_ASSETS})
     endif()
-    file(SHA256 "${PARSINAMA_CATALOG_FILE}" PARSINAMA_CATALOG_SHA256)
-    file(WRITE "${PARSINAMA_ANDROID_PACKAGE_DIR}/assets/parsinama-catalog.sha256"
-        "${PARSINAMA_CATALOG_SHA256}\n")
+    file(GLOB PARSINAMA_ANDROID_PARTS "${PARSINAMA_ANDROID_PARTS_DIR}/parsinama-catalog-*.part")
+    foreach(PARSINAMA_PART IN LISTS PARSINAMA_ANDROID_PARTS)
+        get_filename_component(PARSINAMA_PART_NAME "${PARSINAMA_PART}" NAME)
+        file(CREATE_LINK "${PARSINAMA_PART}"
+            "${PARSINAMA_ANDROID_PACKAGE_DIR}/assets/${PARSINAMA_PART_NAME}"
+            SYMBOLIC RESULT PARSINAMA_CATALOG_LINK_RESULT)
+        if(NOT PARSINAMA_CATALOG_LINK_RESULT STREQUAL "0")
+            message(FATAL_ERROR "Could not stage Android catalog asset: ${PARSINAMA_CATALOG_LINK_RESULT}")
+        endif()
+    endforeach()
+    configure_file("${PARSINAMA_ANDROID_PARTS_DIR}/parsinama-catalog.manifest"
+        "${PARSINAMA_ANDROID_PACKAGE_DIR}/assets/parsinama-catalog.manifest" COPYONLY)
     set_property(TARGET leomoon_parsinama PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR
         "${PARSINAMA_ANDROID_PACKAGE_DIR}")
+    set_property(TARGET leomoon_parsinama PROPERTY QT_ANDROID_PACKAGE_NAME "${PARSINAMA_APP_ID}")
+    set_property(TARGET leomoon_parsinama PROPERTY QT_ANDROID_VERSION_NAME "${PROJECT_VERSION}")
+    math(EXPR PARSINAMA_ANDROID_VERSION_CODE
+        "${PROJECT_VERSION_MAJOR} * 1000000 + ${PROJECT_VERSION_MINOR} * 1000 + ${PROJECT_VERSION_PATCH} + 1")
+    set_property(TARGET leomoon_parsinama PROPERTY QT_ANDROID_VERSION_CODE
+        "${PARSINAMA_ANDROID_VERSION_CODE}")
     message(STATUS "Using host-built Android catalog: ${PARSINAMA_CATALOG_FILE}")
     return()
 endif()
