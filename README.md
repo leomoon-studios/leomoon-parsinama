@@ -47,6 +47,8 @@ cmake --build build-android-local --target leomoon_parsinama --parallel 2
 Package with API 35 explicitly. This avoids selecting a newer preview platform if Android Studio installed one. The larger Gradle heap is needed to compress the bundled catalog:
 
 ```sh
+mkdir -p build-android-local/android-build/libs/arm64-v8a
+cp build-android-local/libleomoon-parsinama_arm64-v8a.so build-android-local/android-build/libs/arm64-v8a/
 GRADLE_OPTS='-Dorg.gradle.jvmargs=-Xmx8g -Dorg.gradle.workers.max=2' \
   "$HOME/Qt/6.8.3/gcc_64/bin/androiddeployqt" \
   --input build-android-local/android-leomoon_parsinama-deployment-settings.json \
@@ -57,7 +59,7 @@ adb devices -l
 adb install -r build-android-local/android-build/leomoon_parsinama.apk
 ```
 
-Enable USB debugging on the phone before using ADB. For subsequent code changes, repeat the `cmake --build`, `androiddeployqt`, and `adb install -r` commands. The APK contains the offline catalog, and its first launch copies roughly 3.7 GB into app-private storage. An APK signed with a different debug key cannot update an existing installation; removing that installation also removes its local settings and bookmarks.
+Enable USB debugging on the phone before using ADB. For subsequent code changes, repeat the build, native library copy, package, and install commands. The copy ensures that a reused Android packaging directory contains the newly compiled app. The APK contains the offline catalog, and its first launch copies roughly 3.7 GB into app-private storage. An APK signed with a different debug key cannot update an existing installation; removing that installation also removes its local settings and bookmarks.
 
 ## Reading and settings
 

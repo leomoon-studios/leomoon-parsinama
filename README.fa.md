@@ -47,6 +47,8 @@ cmake --build build-android-local --target leomoon_parsinama --parallel 2
 هنگام بسته‌بندی، پلتفرم API 35 را صریحاً مشخص کنید تا Qt پلتفرم آزمایشی جدیدتری را که Android Studio نصب کرده انتخاب نکند. حافظهٔ بیشتر Gradle برای فشرده‌سازی پایگاه دادهٔ همراه برنامه لازم است:
 
 ```sh
+mkdir -p build-android-local/android-build/libs/arm64-v8a
+cp build-android-local/libleomoon-parsinama_arm64-v8a.so build-android-local/android-build/libs/arm64-v8a/
 GRADLE_OPTS='-Dorg.gradle.jvmargs=-Xmx8g -Dorg.gradle.workers.max=2' \
   "$HOME/Qt/6.8.3/gcc_64/bin/androiddeployqt" \
   --input build-android-local/android-leomoon_parsinama-deployment-settings.json \
@@ -57,7 +59,7 @@ adb devices -l
 adb install -r build-android-local/android-build/leomoon_parsinama.apk
 ```
 
-پیش از استفاده از ADB، USB debugging را در گوشی فعال کنید. پس از هر تغییر در کد، دستورهای `cmake --build`، `androiddeployqt` و `adb install -r` را دوباره اجرا کنید. APK پایگاه دادهٔ آفلاین را در خود دارد و در نخستین اجرا حدود ۳٫۷ گیگابایت داده را به فضای خصوصی برنامه کپی می‌کند. اگر APK نصب‌شده با کلید آزمایشی دیگری امضا شده باشد، نسخهٔ محلی نمی‌تواند آن را به‌روزرسانی کند؛ حذف نسخهٔ قبلی، تنظیمات و نشانک‌های محلی آن را نیز حذف می‌کند.
+پیش از استفاده از ADB، USB debugging را در گوشی فعال کنید. پس از هر تغییر در کد، مراحل ساخت، کپی کتابخانهٔ بومی، بسته‌بندی و نصب را دوباره اجرا کنید. کپی کتابخانه مطمئن می‌کند که پوشهٔ بسته‌بندی قبلی از نسخهٔ جدید برنامه استفاده کند. APK پایگاه دادهٔ آفلاین را در خود دارد و در نخستین اجرا حدود ۳٫۷ گیگابایت داده را به فضای خصوصی برنامه کپی می‌کند. اگر APK نصب‌شده با کلید آزمایشی دیگری امضا شده باشد، نسخهٔ محلی نمی‌تواند آن را به‌روزرسانی کند؛ حذف نسخهٔ قبلی، تنظیمات و نشانک‌های محلی آن را نیز حذف می‌کند.
 
 ## خواندن شعر و تنظیمات
 
