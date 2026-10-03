@@ -55,7 +55,7 @@ void SettingsTests::createsDefaultSettingsOnFirstRun()
     QCOMPARE(settings.filePath(), path);
     QCOMPARE(settings.theme(), QStringLiteral("light"));
     QCOMPARE(settings.accentPreset(), QStringLiteral("purple"));
-    QCOMPARE(settings.readingSize(), 22);
+    QCOMPARE(settings.readingSize(), 16);
 
     QFile file(path);
     QVERIFY(file.open(QIODevice::ReadOnly));
@@ -63,7 +63,7 @@ void SettingsTests::createsDefaultSettingsOnFirstRun()
     QCOMPARE(document.value(QStringLiteral("version")).toInt(), 2);
     QCOMPARE(document.value(QStringLiteral("theme")).toString(), QStringLiteral("light"));
     QCOMPARE(document.value(QStringLiteral("accentPreset")).toString(), QStringLiteral("purple"));
-    QCOMPARE(document.value(QStringLiteral("readingSize")).toInt(), 22);
+    QCOMPARE(document.value(QStringLiteral("readingSize")).toInt(), 16);
 }
 
 void SettingsTests::persistsThemeAndReadingSize()
@@ -74,7 +74,7 @@ void SettingsTests::persistsThemeAndReadingSize()
         SettingsStore settings(configBase.path());
         QCOMPARE(settings.theme(), QStringLiteral("light"));
         QCOMPARE(settings.accentPreset(), QStringLiteral("purple"));
-        QCOMPARE(settings.readingSize(), 22);
+        QCOMPARE(settings.readingSize(), 16);
         QVERIFY(QDir(UserDataPaths::directory(configBase.path())).exists());
         settings.setTheme(QStringLiteral("dark"));
         settings.setAccentPreset(QStringLiteral("teal"));

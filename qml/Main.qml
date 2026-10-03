@@ -159,8 +159,13 @@ ApplicationWindow {
     }
 
     function restorePoemScroll() {
+        if (!poemScrollPending || page !== "poem" || poemLoader.loading)
+            return
         poemList.contentY = -(poemList.headerItem ? poemList.headerItem.height : 0)
+        poemScrollPending = false
     }
+
+    property bool poemScrollPending: false
 
     Timer {
         id: collectionScrollTimer
@@ -180,14 +185,14 @@ ApplicationWindow {
             root.page = root.navigationController.page
             root.selectedPoetName = root.navigationController.poetName
             root.selectedPoetUrl = root.navigationController.poetUrl
+            root.poemScrollPending = root.page === "poem"
+            poemScrollTimer.stop()
             Qt.callLater(() => {
                 poetList.contentY = root.navigationController.poetScroll
                 root.restoreCollectionScroll()
                 collectionScrollTimer.restart()
-                if (root.page === "poem") {
-                    root.restorePoemScroll()
+                if (root.poemScrollPending && !root.poemLoader.loading)
                     poemScrollTimer.restart()
-                }
             })
         }
     }
@@ -195,7 +200,7 @@ ApplicationWindow {
     Connections {
         target: root.poemLoader
         function onRequestFinished() {
-            if (root.page === "poem")
+            if (root.poemScrollPending)
                 poemScrollTimer.restart()
         }
     }
@@ -741,15 +746,18 @@ ApplicationWindow {
                         appTheme: colors
                         typography: typography
                         onContentHeightChanged: {
-                            if (visible && contentY <= 0)
+                            if (root.poemScrollPending && !root.poemLoader.loading)
                                 poemScrollTimer.restart()
                         }
-                        onMovementStarted: poemScrollTimer.stop()
+                        onMovementStarted: {
+                            root.poemScrollPending = false
+                            poemScrollTimer.stop()
+                        }
                     }
                     Connections {
                         target: poemList.headerItem
                         function onHeightChanged() {
-                            if (poemList.visible && poemList.contentY <= 0)
+                            if (root.poemScrollPending && !root.poemLoader.loading)
                                 poemScrollTimer.restart()
                         }
                     }
@@ -842,6 +850,8 @@ ApplicationWindow {
             appTheme: colors
             text: "چاپ"
             visible: root.printingSupported
+            implicitHeight: root.printingSupported ? 42 : 0
+            height: implicitHeight
             enabled: root.canPrintCurrentPoem
             onTriggered: Qt.callLater(() => root.openPrintMenu())
         }

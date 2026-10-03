@@ -38,6 +38,6 @@ private:
     QString m_configBasePath;
     QString m_theme = QStringLiteral("light");
     QString m_accentPreset = QStringLiteral("purple");
-    int m_readingSize = 22;
+    int m_readingSize = 16;
     QString m_error;
 };
