@@ -123,3 +123,40 @@ jobs:
           path: build-android/android-build/build/outputs/apk/**/*.apk
           if-no-files-found: error
           compression-level: 0
+
+      - name: Install Qt for Android x86_64 emulator
+        uses: jurplel/install-qt-action@a9c63c7c123f3069cff414e7e482d95dfa9d8125 # v4
+        with:
+          version: ${{ env.QT_VERSION }}
+          host: all_os
+          target: android
+          arch: android_x86_64
+          setup-python: true
+
+      - name: Build emulator APK with the same catalog parts
+        run: |
+          "$QT_ROOT_DIR/bin/qt-cmake" -S . -B build-android-x86 -G Ninja \
+            -DQT_HOST_PATH="$QT_HOST_ROOT" \
+            -DANDROID_SDK_ROOT="$ANDROID_HOME" \
+            -DANDROID_NDK_ROOT="$ANDROID_HOME/ndk/$ANDROID_NDK_VERSION" \
+            -DPARSINAMA_HOST_CATALOG="$HOST_CATALOG" \
+            -DPARSINAMA_ANDROID_PARTS_DIR="$GITHUB_WORKSPACE/build-android/parsinama-android-catalog-parts" \
+            -DBUILD_TESTING=OFF
+          cmake --build build-android-x86 --target apk --parallel 2
+
+      - name: Enable KVM for emulator
+        run: |
+          echo 'KERNEL=="kvm", GROUP="kvm", MODE="0666", OPTIONS+="static_node=kvm"' | sudo tee /etc/udev/rules.d/99-kvm4all.rules
+          sudo udevadm control --reload-rules
+          sudo udevadm trigger --name-match=kvm
+
+      - name: Fresh install and relaunch offline
+        uses: reactivecircus/android-emulator-runner@4c44018e59b437e86cdfc41da381398f93ed8808 # v2
+        with:
+          api-level: 35
+          arch: x86_64
+          target: google_apis
+          disk-size: 12G
+          ram-size: 4096M
+          emulator-boot-timeout: 600
+          script: python3 scripts/android_offline_smoke.py build-android-x86/android-build/leomoon_parsinama.apk build-host/parsinama-catalog.sqlite

@@ -19,7 +19,8 @@ if(ANDROID)
     file(MAKE_DIRECTORY "${PARSINAMA_ANDROID_PACKAGE_DIR}/assets")
     file(COPY "${CMAKE_CURRENT_SOURCE_DIR}/packaging/android/" DESTINATION "${PARSINAMA_ANDROID_PACKAGE_DIR}")
     find_package(Python3 REQUIRED COMPONENTS Interpreter)
-    set(PARSINAMA_ANDROID_PARTS_DIR "${CMAKE_CURRENT_BINARY_DIR}/parsinama-android-catalog-parts")
+    set(PARSINAMA_ANDROID_PARTS_DIR "${CMAKE_CURRENT_BINARY_DIR}/parsinama-android-catalog-parts"
+        CACHE PATH "Directory for host-generated Android catalog parts")
     execute_process(
         COMMAND "${Python3_EXECUTABLE}" "${CMAKE_CURRENT_SOURCE_DIR}/scripts/split_android_catalog.py"
             "${PARSINAMA_CATALOG_FILE}" "${PARSINAMA_ANDROID_PARTS_DIR}"
