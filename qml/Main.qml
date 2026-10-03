@@ -16,7 +16,8 @@ ApplicationWindow {
     required property var navigationController
     required property var settingsStore
     required property var bookmarkStore
-    required property var printService
+    property var printService: null
+    readonly property bool printingSupported: Qt.platform.os !== "android"
     readonly property bool compactHeader: width < 760
     readonly property bool compactBrowse: width < 760
     readonly property bool bundledFontReady: typography.ready
@@ -26,9 +27,10 @@ ApplicationWindow {
     readonly property color accentTextColor: colors.accentText
     readonly property color foregroundColor: colors.foreground
     readonly property color surfaceColor: colors.surface
-    readonly property bool canPrintCurrentPoem: page === "poem" && printService.available
+    readonly property bool canPrintCurrentPoem: printingSupported && page === "poem"
+        && printService !== null && printService.available
     readonly property string statusMessage: bookmarkStore.error !== "" ? bookmarkStore.error
-        : printService.error !== "" ? printService.error
+        : printService !== null && printService.error !== "" ? printService.error
         : settingsStore.error !== "" ? settingsStore.error
         : navigationController.error !== "" ? navigationController.error
         : poemLoader.loading || poemLoader.error !== "" ? poemLoader.statusText
@@ -311,7 +313,7 @@ ApplicationWindow {
                 symbol: "\ue8ad"
                 hint: "چاپ"
                 font.family: typography.iconFamily
-                visible: !root.compactHeader
+                visible: root.printingSupported && !root.compactHeader
                 enabled: root.canPrintCurrentPoem
                 surfaceColor: colors.surface
                 textColor: colors.foreground
@@ -801,6 +803,7 @@ ApplicationWindow {
         AppMenuItem {
             appTheme: colors
             text: "چاپ"
+            visible: root.printingSupported
             enabled: root.canPrintCurrentPoem
             onTriggered: Qt.callLater(() => root.openPrintMenu())
         }
@@ -830,11 +833,13 @@ ApplicationWindow {
         AppMenuItem {
             appTheme: colors
             text: "ذخیرهٔ پی‌دی‌اف"
+            visible: root.printingSupported
             onTriggered: root.printService.choosePdfDestination()
         }
         AppMenuItem {
             appTheme: colors
             text: "چاپ با چاپگر"
+            visible: root.printingSupported
             onTriggered: root.printCurrentPoem()
         }
     }

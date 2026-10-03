@@ -7,15 +7,21 @@
 #include "data/SearchRepository.h"
 #include "services/SettingsStore.h"
 #include "services/BookmarkStore.h"
+#include <QtGlobal>
+#ifndef Q_OS_ANDROID
 #include "services/PrintService.h"
+#endif
 
 #include <QCoreApplication>
 #include <QColor>
 #include <QEventLoop>
 #include <QFont>
 #include <QFileInfo>
+#include <QGuiApplication>
+#ifndef Q_OS_ANDROID
 #include <QApplication>
 #include <QIcon>
+#endif
 #include <QQmlApplicationEngine>
 #include <QQuickItem>
 #include <QRawFont>
@@ -81,9 +87,13 @@ int main(int argc, char *argv[])
     QCoreApplication::setApplicationName(QString::fromUtf8(applicationName));
     QCoreApplication::setApplicationVersion(QStringLiteral(PARSINAMA_VERSION));
 
+#ifdef Q_OS_ANDROID
+    QGuiApplication application(argc, argv);
+#else
     QApplication application(argc, argv);
     QApplication::setDesktopFileName(QStringLiteral(PARSINAMA_APP_ID));
     QApplication::setWindowIcon(QIcon(QStringLiteral(":/qt/qml/LeoMoon/ParsiNama/assets/app-icon.svg")));
+#endif
     QQuickStyle::setStyle(QStringLiteral("Basic"));
 
     QString pathError;
@@ -99,7 +109,9 @@ int main(int argc, char *argv[])
     PoemLoader poemLoader(catalogPath);
     SearchRepository searchRepository(catalogPath);
     NavigationController navigationController(&catalogRepository, &collectionListModel, &poemLoader);
+#ifndef Q_OS_ANDROID
     PrintService printService(&navigationController, &poemLoader);
+#endif
     const bool smokeTest = application.arguments().contains(QStringLiteral("--smoke-test"));
     QTemporaryDir smokeConfigBase;
     SettingsStore settingsStore(smokeTest ? smokeConfigBase.path() : QString{});
@@ -122,7 +134,7 @@ int main(int argc, char *argv[])
             std::fprintf(stderr, "%s\n", qPrintable(warning.toString()));
         }
     });
-    engine.setInitialProperties({
+    QVariantMap initialProperties{
         {QStringLiteral("catalogRepository"), QVariant::fromValue(&catalogRepository)},
         {QStringLiteral("poetListModel"), QVariant::fromValue(&poetListModel)},
         {QStringLiteral("collectionListModel"), QVariant::fromValue(&collectionListModel)},
@@ -130,9 +142,12 @@ int main(int argc, char *argv[])
         {QStringLiteral("searchRepository"), QVariant::fromValue(&searchRepository)},
         {QStringLiteral("navigationController"), QVariant::fromValue(&navigationController)},
         {QStringLiteral("settingsStore"), QVariant::fromValue(&settingsStore)},
-        {QStringLiteral("bookmarkStore"), QVariant::fromValue(&bookmarkStore)},
-        {QStringLiteral("printService"), QVariant::fromValue(&printService)}
-    });
+        {QStringLiteral("bookmarkStore"), QVariant::fromValue(&bookmarkStore)}
+    };
+#ifndef Q_OS_ANDROID
+    initialProperties.insert(QStringLiteral("printService"), QVariant::fromValue(&printService));
+#endif
+    engine.setInitialProperties(initialProperties);
     QObject::connect(&engine, &QQmlApplicationEngine::objectCreationFailed,
                      &application, [] { QCoreApplication::exit(EXIT_FAILURE); },
                      Qt::QueuedConnection);
@@ -204,7 +219,9 @@ int main(int argc, char *argv[])
             || !window->property("bundledIconFontReady").toBool()
             || !header || !poetPane || !contentPane || !moreButton || !settingsButton
             || !printButton || printButton->property("enabled").toBool()
+#ifndef Q_OS_ANDROID
             || printService.available()
+#endif
             || !QFileInfo::exists(QStringLiteral(":/qt/qml/LeoMoon/ParsiNama/assets/fonts/Vazirmatn[wght].ttf"))
             || !settingsPage || !readingSizeSelector || !lightThemeChoice
             || !appLogo || appLogo->property("color").value<QColor>()
@@ -580,6 +597,7 @@ int main(int argc, char *argv[])
                 qCritical("The poem summary and verses did not share a scroll area");
                 return EXIT_FAILURE;
             }
+#ifndef Q_OS_ANDROID
             QTemporaryDir printOutput;
             const QString pdfPath = printOutput.filePath(QStringLiteral("poem.pdf"));
             if (!printOutput.isValid() || !printService.exportCurrentPoemPdf(pdfPath)
@@ -647,6 +665,7 @@ int main(int argc, char *argv[])
                 qCritical("Print did not become available after returning to the poem");
                 return EXIT_FAILURE;
             }
+#endif
             if (poemScrollBar->property("visible").toBool()
                 != (poemList->property("contentHeight").toReal()
                     > poemList->property("height").toReal() + 1)) {

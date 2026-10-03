@@ -1,0 +1,65 @@
+name: Android compile check
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  QT_VERSION: 6.8.3
+  ANDROID_NDK_VERSION: 26.1.10909125
+
+jobs:
+  compile:
+    name: Android arm64 configure and compile
+    runs-on: ubuntu-24.04
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+
+      - name: Install Qt host tools
+        uses: jurplel/install-qt-action@a9c63c7c123f3069cff414e7e482d95dfa9d8125 # v4
+        with:
+          version: ${{ env.QT_VERSION }}
+          host: linux
+          target: desktop
+          arch: linux_gcc_64
+          setup-python: true
+
+      - name: Save Qt host path
+        run: echo "QT_HOST_ROOT=$QT_ROOT_DIR" >> "$GITHUB_ENV"
+
+      - name: Install Qt for Android arm64
+        uses: jurplel/install-qt-action@a9c63c7c123f3069cff414e7e482d95dfa9d8125 # v4
+        with:
+          version: ${{ env.QT_VERSION }}
+          host: linux
+          target: android
+          arch: android_arm64_v8a
+          setup-python: true
+
+      - name: Install matching Android NDK
+        run: |
+          echo "QT_ANDROID_ROOT=$QT_ROOT_DIR" >> "$GITHUB_ENV"
+          sdkmanager "ndk;$ANDROID_NDK_VERSION"
+
+      - name: Configure Android app
+        run: |
+          "$QT_ANDROID_ROOT/bin/qt-cmake" -S . -B build-android -G Ninja \
+            -DQT_HOST_PATH="$QT_HOST_ROOT" \
+            -DANDROID_SDK_ROOT="$ANDROID_HOME" \
+            -DANDROID_NDK_ROOT="$ANDROID_HOME/ndk/$ANDROID_NDK_VERSION" \
+            -DBUILD_TESTING=OFF
+
+      - name: Compile data library and Android application entry point
+        run: |
+          cmake --build build-android --target parsinama_data --parallel 2
+          ninja -C build-android CMakeFiles/leomoon_parsinama.dir/src/main.cpp.o
+
+      - name: Check that desktop printing is absent
+        run: |
+          if rg -n 'libQt6(PrintSupport|Widgets)|src/services/PrintService.cpp' build-android/build.ninja; then
+            echo "Android target unexpectedly depends on desktop printing" >&2
+            exit 1
+          fi
