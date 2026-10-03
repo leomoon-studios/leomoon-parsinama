@@ -100,11 +100,21 @@ jobs:
           with zipfile.ZipFile(apk) as package:
               print(f'APK: {apk} ({apk.stat().st_size:,} bytes)')
               names = set(package.namelist())
-              assert 'assets/parsinama-catalog.sqlite' in names
-              assert 'assets/parsinama-catalog.sha256' in names
-              assert package.read('assets/parsinama-catalog.sha256').decode().strip() == expected
-              with package.open('assets/parsinama-catalog.sqlite') as catalog:
-                  assert hashlib.file_digest(catalog, 'sha256').hexdigest() == expected
+              manifest = package.read('assets/parsinama-catalog.manifest').decode().split()
+              assert manifest[0] == expected
+              assert int(manifest[1]) == pathlib.Path('build-host/parsinama-catalog.sqlite').stat().st_size
+              count = int(manifest[2])
+              digest = hashlib.sha256()
+              total = 0
+              for index in range(count):
+                  name = f'assets/parsinama-catalog-{index:04d}.part'
+                  assert name in names, name
+                  with package.open(name) as part:
+                      while block := part.read(1024 * 1024):
+                          digest.update(block)
+                          total += len(block)
+              assert total == int(manifest[1]), total
+              assert digest.hexdigest() == expected
           print('APK catalog checksum matches host catalog')
           PY
 

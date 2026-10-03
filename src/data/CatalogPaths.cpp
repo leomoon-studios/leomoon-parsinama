@@ -33,31 +33,43 @@ QString CatalogPaths::installedCatalogPath()
 #endif
 }
 
-bool CatalogPaths::installBundledCatalog(const QString &sourcePath, const QString &checksumPath,
+bool CatalogPaths::installBundledCatalog(const QStringList &sourcePaths, const QString &manifestPath,
                                          const QString &destinationPath, QString *error,
                                          const std::function<void(qint64, qint64)> &progress)
 {
     if (error) error->clear();
-    QFile checksumFile(checksumPath);
-    if (!checksumFile.open(QIODevice::ReadOnly)) {
+    QFile manifestFile(manifestPath);
+    if (!manifestFile.open(QIODevice::ReadOnly)) {
         if (error) *error = QStringLiteral("فهرست نسخهٔ داده‌های همراه برنامه خوانده نشد.");
         return false;
     }
-    const QByteArray expected = checksumFile.readAll().trimmed().toLower();
+    const QList<QByteArray> fields = manifestFile.readAll().trimmed().toLower().split(' ');
+    if (fields.size() != 3) {
+        if (error) *error = QStringLiteral("فهرست داده‌های همراه برنامه نامعتبر است.");
+        return false;
+    }
+    const QByteArray expected = fields.at(0);
+    bool sizeOk = false;
+    bool countOk = false;
+    const qint64 total = fields.at(1).toLongLong(&sizeOk);
+    const int count = fields.at(2).toInt(&countOk);
     if (expected.size() != 64 || !std::all_of(expected.cbegin(), expected.cend(), [](char c) {
             return (c >= '0' && c <= '9') || (c >= 'a' && c <= 'f');
-        })) {
+        }) || !sizeOk || total <= 0 || !countOk || count <= 0 || count != sourcePaths.size()) {
         if (error) *error = QStringLiteral("اثر انگشت داده‌های همراه برنامه نامعتبر است.");
         return false;
     }
-    QFile source(sourcePath);
-    if (!source.open(QIODevice::ReadOnly)) {
-        if (error) *error = QStringLiteral("داده‌های شعر در بستهٔ برنامه پیدا نشد.");
-        return false;
+    qint64 availableBytes = 0;
+    for (const QString &part : sourcePaths) {
+        QFile source(part);
+        if (!source.open(QIODevice::ReadOnly) || source.size() <= 0) {
+            if (error) *error = QStringLiteral("بخشی از داده‌های شعر در بستهٔ برنامه پیدا نشد.");
+            return false;
+        }
+        availableBytes += source.size();
     }
-    const qint64 total = source.size();
-    if (total <= 0) {
-        if (error) *error = QStringLiteral("داده‌های شعر در بستهٔ برنامه خالی است.");
+    if (availableBytes != total) {
+        if (error) *error = QStringLiteral("حجم داده‌های همراه برنامه با فهرست آن سازگار نیست.");
         return false;
     }
     const QString sidecarPath = destinationPath + QStringLiteral(".sha256");
@@ -86,21 +98,29 @@ bool CatalogPaths::installBundledCatalog(const QString &sourcePath, const QStrin
     QCryptographicHash hash(QCryptographicHash::Sha256);
     qint64 copied = 0;
     if (progress) progress(0, total);
-    while (!source.atEnd()) {
-        const QByteArray chunk = source.read(1024 * 1024);
-        if (chunk.isEmpty()) {
-            if (error) *error = QStringLiteral("خواندن داده‌های همراه برنامه ناتمام ماند: %1").arg(source.errorString());
+    for (const QString &part : sourcePaths) {
+        QFile source(part);
+        if (!source.open(QIODevice::ReadOnly)) {
+            if (error) *error = QStringLiteral("باز کردن بخشی از داده‌های شعر ناموفق بود.");
             output.cancelWriting();
             return false;
         }
-        hash.addData(chunk);
-        if (output.write(chunk) != chunk.size()) {
-            if (error) *error = QStringLiteral("فضای خالی دستگاه یا مجوز نوشتن را بررسی کنید: %1").arg(output.errorString());
-            output.cancelWriting();
-            return false;
+        while (!source.atEnd()) {
+            const QByteArray chunk = source.read(1024 * 1024);
+            if (chunk.isEmpty()) {
+                if (error) *error = QStringLiteral("خواندن داده‌های همراه برنامه ناتمام ماند: %1").arg(source.errorString());
+                output.cancelWriting();
+                return false;
+            }
+            hash.addData(chunk);
+            if (output.write(chunk) != chunk.size()) {
+                if (error) *error = QStringLiteral("فضای خالی دستگاه یا مجوز نوشتن را بررسی کنید: %1").arg(output.errorString());
+                output.cancelWriting();
+                return false;
+            }
+            copied += chunk.size();
+            if (progress) progress(copied, total);
         }
-        copied += chunk.size();
-        if (progress) progress(copied, total);
     }
     if (copied != total || hash.result().toHex() != expected) {
         if (error) *error = QStringLiteral("کپی داده‌های شعر کامل یا معتبر نیست. برنامه را دوباره باز کنید.");
@@ -142,8 +162,23 @@ QString CatalogPaths::resolve(const QStringList &arguments, QString *error,
     }
 #ifdef Q_OS_ANDROID
     const QString destination = installedCatalogPath();
-    if (!installBundledCatalog(QStringLiteral("assets:/parsinama-catalog.sqlite"),
-                               QStringLiteral("assets:/parsinama-catalog.sha256"),
+    QFile manifest(QStringLiteral("assets:/parsinama-catalog.manifest"));
+    if (!manifest.open(QIODevice::ReadOnly)) {
+        if (error) *error = QStringLiteral("فهرست داده‌های شعر در بستهٔ برنامه پیدا نشد.");
+        return {};
+    }
+    const QList<QByteArray> fields = manifest.readAll().trimmed().split(' ');
+    bool countOk = false;
+    const int count = fields.size() == 3 ? fields.at(2).toInt(&countOk) : 0;
+    if (!countOk || count <= 0 || count > 1000) {
+        if (error) *error = QStringLiteral("فهرست داده‌های شعر نامعتبر است.");
+        return {};
+    }
+    QStringList parts;
+    for (int part = 0; part < count; ++part) {
+        parts.append(QStringLiteral("assets:/parsinama-catalog-%1.part").arg(part, 4, 10, QLatin1Char('0')));
+    }
+    if (!installBundledCatalog(parts, QStringLiteral("assets:/parsinama-catalog.manifest"),
                                destination, error, progress)) return {};
     return destination;
 #else

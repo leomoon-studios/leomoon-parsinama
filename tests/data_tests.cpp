@@ -597,18 +597,33 @@ void DataTests::bundledCatalogInstall()
     const QString directory = m_temporary.filePath(QStringLiteral("install"));
     QVERIFY(QDir().mkpath(directory));
     const QString destination = QDir(directory).filePath(QStringLiteral("parsinama-catalog.sqlite"));
-    const QString checksum = QDir(directory).filePath(QStringLiteral("catalog.sha256"));
-    auto writeChecksum = [&](const QString &source) {
+    const QString manifestPath = QDir(directory).filePath(QStringLiteral("catalog.manifest"));
+    auto writeManifest = [&](const QString &source, int count) {
         QFile file(source);
         if (!file.open(QIODevice::ReadOnly)) return false;
-        QFile manifest(checksum);
+        QFile manifest(manifestPath);
         if (!manifest.open(QIODevice::WriteOnly | QIODevice::Truncate)) return false;
-        return manifest.write(QCryptographicHash::hash(file.readAll(), QCryptographicHash::Sha256).toHex()) == 64;
+        const QByteArray content = QCryptographicHash::hash(file.readAll(), QCryptographicHash::Sha256)
+            .toHex() + ' ' + QByteArray::number(file.size()) + ' ' + QByteArray::number(count);
+        return manifest.write(content) == content.size();
     };
-    QVERIFY(writeChecksum(m_fixturePath));
+    QFile original(m_fixturePath);
+    QVERIFY(original.open(QIODevice::ReadOnly));
+    const QByteArray originalBytes = original.readAll();
+    QStringList parts;
+    for (int index = 0; index < 2; ++index) {
+        const QString partPath = QDir(directory).filePath(QStringLiteral("part-%1").arg(index));
+        QFile part(partPath);
+        QVERIFY(part.open(QIODevice::WriteOnly));
+        const QByteArray content = index == 0 ? originalBytes.left(originalBytes.size() / 2)
+            : originalBytes.mid(originalBytes.size() / 2);
+        QCOMPARE(part.write(content), qint64(content.size()));
+        parts.append(partPath);
+    }
+    QVERIFY(writeManifest(m_fixturePath, 2));
     QString error;
     int progressCalls = 0;
-    QVERIFY2(CatalogPaths::installBundledCatalog(m_fixturePath, checksum, destination, &error,
+    QVERIFY2(CatalogPaths::installBundledCatalog(parts, manifestPath, destination, &error,
         [&](qint64 copied, qint64 total) { QVERIFY(copied <= total); ++progressCalls; }), qPrintable(error));
     QVERIFY(progressCalls >= 2);
     CatalogRepository copied;
@@ -620,7 +635,7 @@ void DataTests::bundledCatalogInstall()
     const QByteArray firstBytes = unchanged.read(128);
     unchanged.close();
     progressCalls = 0;
-    QVERIFY(CatalogPaths::installBundledCatalog(m_fixturePath, checksum, destination, &error,
+    QVERIFY(CatalogPaths::installBundledCatalog(parts, manifestPath, destination, &error,
         [&](qint64 copied, qint64 total) { QCOMPARE(copied, total); ++progressCalls; }));
     QCOMPARE(progressCalls, 1);
 
@@ -631,15 +646,16 @@ void DataTests::bundledCatalogInstall()
     QVERIFY(replacementFile.seek(replacementFile.size()));
     QCOMPARE(replacementFile.write("update"), qint64(6));
     replacementFile.close();
-    QVERIFY(writeChecksum(replacement));
-    QVERIFY2(CatalogPaths::installBundledCatalog(replacement, checksum, destination, &error), qPrintable(error));
+    QVERIFY(writeManifest(replacement, 1));
+    QVERIFY2(CatalogPaths::installBundledCatalog({replacement}, manifestPath, destination, &error), qPrintable(error));
     QCOMPARE(QFileInfo(destination).size(), QFileInfo(replacement).size());
 
-    QFile badManifest(checksum);
+    QFile badManifest(manifestPath);
     QVERIFY(badManifest.open(QIODevice::WriteOnly | QIODevice::Truncate));
-    QCOMPARE(badManifest.write(QByteArray(64, '0')), qint64(64));
+    const QByteArray badData = QByteArray(64, '0') + ' ' + QByteArray::number(originalBytes.size()) + " 2";
+    QCOMPARE(badManifest.write(badData), qint64(badData.size()));
     badManifest.close();
-    QVERIFY(!CatalogPaths::installBundledCatalog(m_fixturePath, checksum, destination, &error));
+    QVERIFY(!CatalogPaths::installBundledCatalog(parts, manifestPath, destination, &error));
     QVERIFY(!error.isEmpty());
     QCOMPARE(QFileInfo(destination).size(), QFileInfo(replacement).size());
     QVERIFY(!firstBytes.isEmpty());

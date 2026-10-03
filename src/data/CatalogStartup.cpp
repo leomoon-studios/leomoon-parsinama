@@ -24,9 +24,11 @@ void CatalogStartup::start(const QStringList &arguments)
     watcher->setFuture(QtConcurrent::run([this, arguments] {
         CatalogStartupResult result;
         result.path = CatalogPaths::resolve(arguments, &result.error,
-            [this](qint64 copied, qint64 total) {
+            [this, lastPercent = -1](qint64 copied, qint64 total) mutable {
                 if (total <= 0) return;
                 const int percent = int(copied * 100 / total);
+                if (percent == lastPercent) return;
+                lastPercent = percent;
                 QMetaObject::invokeMethod(this, [this, percent] {
                     if (m_progress == percent) return;
                     m_progress = percent;
