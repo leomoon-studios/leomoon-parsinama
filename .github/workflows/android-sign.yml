@@ -1,0 +1,25 @@
+name: Sign Android release APK
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: Version from metadata/VERSION
+        required: true
+        default: 0.1.0
+        type: string
+
+permissions:
+  contents: read
+
+jobs:
+  sign:
+    uses: ./.github/workflows/android.yml
+    with:
+      version: ${{ inputs.version }}
+      sign_release: true
+    secrets:
+      ANDROID_KEYSTORE_BASE64: ${{ secrets.ANDROID_KEYSTORE_BASE64 }}
+      ANDROID_KEYSTORE_ALIAS: ${{ secrets.ANDROID_KEYSTORE_ALIAS }}
+      ANDROID_KEYSTORE_STORE_PASS: ${{ secrets.ANDROID_KEYSTORE_STORE_PASS }}
+      ANDROID_KEYSTORE_KEY_PASS: ${{ secrets.ANDROID_KEYSTORE_KEY_PASS }}
