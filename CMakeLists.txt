@@ -140,6 +140,15 @@ target_compile_definitions(leomoon_parsinama PRIVATE
 )
 
 if(NOT ANDROID)
+    if(NOT APPLE)
+        find_package(Qt6 6.5 REQUIRED COMPONENTS Svg)
+        qt_add_executable(parsinama_icon_generator src/tools/generate_app_icons.cpp)
+        set_target_properties(parsinama_icon_generator PROPERTIES
+            OUTPUT_NAME parsinama-icon-generator
+        )
+        target_link_libraries(parsinama_icon_generator PRIVATE Qt6::Core Qt6::Gui Qt6::Svg)
+    endif()
+
     qt_add_executable(parsinama_catalog_builder src/tools/build_catalog.cpp)
     set_target_properties(parsinama_catalog_builder PROPERTIES
         OUTPUT_NAME parsinama-catalog-builder

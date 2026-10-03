@@ -18,6 +18,20 @@ if(ANDROID)
     set(PARSINAMA_ANDROID_PACKAGE_DIR "${CMAKE_CURRENT_BINARY_DIR}/parsinama-android-package")
     file(MAKE_DIRECTORY "${PARSINAMA_ANDROID_PACKAGE_DIR}/assets")
     file(COPY "${CMAKE_CURRENT_SOURCE_DIR}/packaging/android/" DESTINATION "${PARSINAMA_ANDROID_PACKAGE_DIR}")
+    set(PARSINAMA_HOST_ICON_GENERATOR "" CACHE FILEPATH
+        "Host-built icon generator for the Android application")
+    if(NOT EXISTS "${PARSINAMA_HOST_ICON_GENERATOR}" OR IS_DIRECTORY "${PARSINAMA_HOST_ICON_GENERATOR}")
+        message(FATAL_ERROR
+            "Android builds require -DPARSINAMA_HOST_ICON_GENERATOR=/absolute/path/to/parsinama-icon-generator")
+    endif()
+    set_property(DIRECTORY APPEND PROPERTY CMAKE_CONFIGURE_DEPENDS
+        "${CMAKE_CURRENT_SOURCE_DIR}/assets/app-icon.svg")
+    execute_process(
+        COMMAND "${PARSINAMA_HOST_ICON_GENERATOR}" android
+            "${CMAKE_CURRENT_SOURCE_DIR}/assets/app-icon.svg"
+            "${PARSINAMA_ANDROID_PACKAGE_DIR}/res"
+        COMMAND_ERROR_IS_FATAL ANY
+    )
     find_package(Python3 REQUIRED COMPONENTS Interpreter)
     set(PARSINAMA_ANDROID_PARTS_DIR "${CMAKE_CURRENT_BINARY_DIR}/parsinama-android-catalog-parts"
         CACHE PATH "Directory for host-generated Android catalog parts")
@@ -68,6 +82,10 @@ add_custom_command(
 add_custom_target(parsinama_catalog DEPENDS "${PARSINAMA_CATALOG_FILE}")
 add_dependencies(leomoon_parsinama parsinama_catalog)
 
+if(WIN32)
+    set(PARSINAMA_WINDOWS_ICON "${CMAKE_CURRENT_BINARY_DIR}/packaging/windows/app-icon.ico")
+endif()
+
 install(TARGETS leomoon_parsinama
     BUNDLE DESTINATION .
     RUNTIME DESTINATION "${CMAKE_INSTALL_BINDIR}"
@@ -84,7 +102,7 @@ elseif(WIN32)
         DESTINATION "${CMAKE_INSTALL_BINDIR}/data"
         COMPONENT Content
     )
-    install(FILES "${CMAKE_CURRENT_SOURCE_DIR}/packaging/windows/app-icon.ico"
+    install(FILES "${PARSINAMA_WINDOWS_ICON}"
         DESTINATION "${CMAKE_INSTALL_BINDIR}"
         COMPONENT Application
     )
@@ -111,6 +129,13 @@ install(FILES "${CMAKE_CURRENT_SOURCE_DIR}/SOURCES.md"
 )
 
 if(WIN32)
+    add_custom_command(OUTPUT "${PARSINAMA_WINDOWS_ICON}"
+        COMMAND "$<TARGET_FILE:parsinama_icon_generator>" windows
+            "${CMAKE_CURRENT_SOURCE_DIR}/assets/app-icon.svg" "${PARSINAMA_WINDOWS_ICON}"
+        DEPENDS parsinama_icon_generator "${CMAKE_CURRENT_SOURCE_DIR}/assets/app-icon.svg"
+        VERBATIM)
+    add_custom_target(parsinama_windows_icon DEPENDS "${PARSINAMA_WINDOWS_ICON}")
+    add_dependencies(leomoon_parsinama parsinama_windows_icon)
     enable_language(RC)
     configure_file("${CMAKE_CURRENT_SOURCE_DIR}/packaging/windows/leomoon-parsinama.rc.in"
         "${CMAKE_CURRENT_BINARY_DIR}/packaging/windows/leomoon-parsinama.rc" @ONLY)

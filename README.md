@@ -27,12 +27,12 @@ Install JDK 17 and the [Android SDK command-line tools](https://developer.androi
 ```sh
 python3 -m venv /tmp/parsinama-aqt-venv
 /tmp/parsinama-aqt-venv/bin/pip install aqtinstall
-/tmp/parsinama-aqt-venv/bin/aqt install-qt linux desktop 6.8.3 linux_gcc_64 --outputdir "$HOME/Qt"
+/tmp/parsinama-aqt-venv/bin/aqt install-qt linux desktop 6.8.3 linux_gcc_64 --modules qtsvg --outputdir "$HOME/Qt"
 /tmp/parsinama-aqt-venv/bin/aqt install-qt all_os android 6.8.3 android_arm64_v8a --outputdir "$HOME/Qt"
 "$HOME/Android/Sdk/cmdline-tools/latest/bin/sdkmanager" --sdk_root="$HOME/Android/Sdk" 'platforms;android-35' 'build-tools;36.0.0' 'platform-tools' 'ndk;26.1.10909125'
 ```
 
-First build the desktop catalog as shown above. From the repository root, configure and compile the Android app using that catalog:
+First build the desktop catalog as shown above, then build the host icon generator with `cmake --build build --target parsinama_icon_generator`. From the repository root, configure and compile the Android app using that catalog and icon generator. The generated launcher icons come from `assets/app-icon.svg` on each Android configure:
 
 ```sh
 "$HOME/Qt/6.8.3/android_arm64_v8a/bin/qt-cmake" -S . -B build-android-local -G Ninja \
@@ -40,6 +40,7 @@ First build the desktop catalog as shown above. From the repository root, config
   -DANDROID_SDK_ROOT="$HOME/Android/Sdk" \
   -DANDROID_NDK_ROOT="$HOME/Android/Sdk/ndk/26.1.10909125" \
   -DPARSINAMA_HOST_CATALOG="$PWD/build/parsinama-catalog.sqlite" \
+  -DPARSINAMA_HOST_ICON_GENERATOR="$PWD/build/parsinama-icon-generator" \
   -DBUILD_TESTING=OFF
 cmake --build build-android-local --target leomoon_parsinama --parallel 2
 ```
