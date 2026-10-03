@@ -21,6 +21,11 @@ ApplicationWindow {
     readonly property bool printingSupported: Qt.platform.os !== "android"
     readonly property bool compactHeader: width < 760
     readonly property bool compactBrowse: width < 760
+    readonly property bool shortAndroidView: Qt.platform.os === "android" && height < 500
+    readonly property bool stackedReaderToolbar: compactBrowse && !shortAndroidView
+    readonly property real keyboardInset: Qt.platform.os === "android" && Qt.inputMethod.visible
+        && Qt.inputMethod.keyboardRectangle.height > 0
+        ? Math.max(0, height - Qt.inputMethod.keyboardRectangle.y) : 0
     readonly property bool bundledFontReady: typography.ready
     readonly property bool bundledFontError: typography.failed
     readonly property bool bundledIconFontReady: typography.iconReady
@@ -30,6 +35,8 @@ ApplicationWindow {
     readonly property color surfaceColor: colors.surface
     readonly property bool canPrintCurrentPoem: printingSupported && page === "poem"
         && printService !== null && printService.available
+    readonly property bool canHandleAndroidBack: overflowMenu.visible || printMenu.visible
+        || breadcrumbs.overflowVisible || Qt.inputMethod.visible || page !== "poets"
     readonly property string statusMessage: catalogStartup !== null && !catalogStartup.busy
         && !catalogStartup.ready ? catalogStartup.statusText
         : bookmarkStore.error !== "" ? bookmarkStore.error
@@ -39,6 +46,7 @@ ApplicationWindow {
         : poemLoader.loading || poemLoader.error !== "" ? poemLoader.statusText
         : catalogRepository.ready ? "" : catalogRepository.statusText
     property string page: "poets"
+    property var pageReturnStack: []
     onPageChanged: {
         if (page !== "poem")
             printMenu.close()
@@ -48,9 +56,15 @@ ApplicationWindow {
 
     width: 1120
     height: 760
-    minimumWidth: 500
-    minimumHeight: 440
+    minimumWidth: Qt.platform.os === "android" ? 0 : 500
+    minimumHeight: Qt.platform.os === "android" ? 0 : 440
     visible: true
+    onClosing: (event) => {
+        if (Qt.platform.os === "android" && canHandleAndroidBack) {
+            event.accepted = false
+            handleAndroidBack()
+        }
+    }
     title: "لئومون پارسی‌نما"
     color: colors.background
     font.family: typography.family
@@ -71,10 +85,21 @@ ApplicationWindow {
         page = "poets"
     }
 
+    function showAuxiliaryPage(target) {
+        if (page === target)
+            return
+        pageReturnStack = pageReturnStack.concat([page])
+        page = target
+    }
+
     function showFavorites() {
         selectedPoetName = ""
         selectedPoetUrl = ""
-        page = "favorites"
+        showAuxiliaryPage("favorites")
+    }
+
+    function showSettings() {
+        showAuxiliaryPage("settings")
     }
 
     function showSearch() {
@@ -90,7 +115,7 @@ ApplicationWindow {
                 searchPage.availableCategoryUrl = crumbs[crumbs.length - 2].url || ""
         }
         searchPage.scope = "all"
-        page = "search"
+        showAuxiliaryPage("search")
         searchPage.refresh()
         Qt.callLater(() => searchPage.focusQuery())
     }
@@ -138,6 +163,47 @@ ApplicationWindow {
         printMenu.popup(anchor, 0, anchor.height + 8)
     }
 
+
+    function handleAndroidBack() {
+        if (overflowMenu.visible) {
+            overflowMenu.close()
+            return
+        }
+        if (printMenu.visible) {
+            printMenu.close()
+            return
+        }
+        if (breadcrumbs.overflowVisible) {
+            breadcrumbs.closeOverflow()
+            return
+        }
+        if (Qt.inputMethod.visible) {
+            Qt.inputMethod.hide()
+            return
+        }
+        if (pageReturnStack.length > 0) {
+            const previousPage = pageReturnStack[pageReturnStack.length - 1]
+            pageReturnStack = pageReturnStack.slice(0, -1)
+            page = previousPage
+            return
+        }
+        if (page !== navigationController.page) {
+            page = navigationController.page
+            return
+        }
+        if (page !== "poets" && navigationController.canGoBack)
+            navigationController.back(poetList.contentY, collectionScrollOffset())
+        else if (page !== "poets")
+            showPoets()
+    }
+
+    Shortcut {
+        sequence: "Back"
+        context: Qt.ApplicationShortcut
+        enabled: Qt.platform.os === "android" && root.canHandleAndroidBack
+        onActivated: root.handleAndroidBack()
+    }
+
     Shortcut {
         sequence: StandardKey.Print
         enabled: root.canPrintCurrentPoem
@@ -182,6 +248,7 @@ ApplicationWindow {
     Connections {
         target: root.navigationController
         function onStateChanged() {
+            root.pageReturnStack = []
             root.page = root.navigationController.page
             root.selectedPoetName = root.navigationController.poetName
             root.selectedPoetUrl = root.navigationController.poetUrl
@@ -216,7 +283,8 @@ ApplicationWindow {
     ColumnLayout {
         anchors.fill: parent
         anchors.margins: root.compactHeader ? 16 : 20
-        spacing: 18
+        anchors.bottomMargin: (root.compactHeader ? 16 : 20) + root.keyboardInset
+        spacing: root.shortAndroidView ? 8 : 18
 
         RowLayout {
             objectName: "header"
@@ -339,7 +407,7 @@ ApplicationWindow {
                 textColor: colors.foreground
                 borderColor: colors.border
                 focusColor: colors.focus
-                onClicked: root.page = "settings"
+                onClicked: root.showSettings()
             }
             HeaderAction {
                 id: moreButton
@@ -513,59 +581,69 @@ ApplicationWindow {
                 }
                 ColumnLayout {
                     anchors.fill: parent
-                    anchors.margins: 14
-                    spacing: 16
+                    anchors.margins: root.shortAndroidView ? 8 : 14
+                    spacing: root.shortAndroidView ? 8 : 16
                     visible: root.page !== "poets"
-                    RowLayout {
+                    Item {
                         Layout.fillWidth: true
+                        Layout.preferredHeight: root.stackedReaderToolbar ? 86 : 44
                         visible: root.page === "poet" || root.page === "collection" || root.page === "poem"
                         BreadcrumbBar {
+                            id: breadcrumbs
                             objectName: "breadcrumbBar"
-                            Layout.fillWidth: true
-                            Layout.preferredHeight: 38
+                            x: root.stackedReaderToolbar ? 0 : actionRow.width + 8
+                            width: root.stackedReaderToolbar ? parent.width : parent.width - actionRow.width - 8
+                            height: 38
                             navigationController: root.navigationController
                             appTheme: colors
                             typography: typography
                             onActivated: (index) => root.openBreadcrumb(index)
                         }
-                        HeaderAction {
-                            objectName: "toggleFavoriteButton"
-                            visible: root.page === "poet" || root.page === "collection" || root.page === "poem"
-                            enabled: root.bookmarkStore.canFavoriteCurrent
-                            symbol: "\ue866"
-                            hint: root.bookmarkStore.currentFavorite ? "حذف نشانک" : "افزودن نشانک"
-                            font.family: typography.iconFamily
-                            surfaceColor: colors.surface
-                            textColor: root.bookmarkStore.currentFavorite ? colors.accent : colors.foreground
-                            borderColor: colors.border
-                            focusColor: colors.focus
-                            onClicked: root.bookmarkStore.toggleCurrent()
-                        }
-                        HeaderAction {
-                            objectName: "previousPoemButton"
-                            visible: root.page === "poem"
-                            enabled: root.navigationController.hasPreviousPoem
-                            symbol: "\ue5c8"
-                            hint: "شعر پیشین"
-                            font.family: typography.iconFamily
-                            surfaceColor: colors.surface
-                            textColor: colors.foreground
-                            borderColor: colors.border
-                            focusColor: colors.focus
-                            onClicked: root.previousPoem()
-                        }
-                        HeaderAction {
-                            objectName: "nextPoemButton"
-                            visible: root.page === "poem"
-                            enabled: root.navigationController.hasNextPoem
-                            symbol: "\ue5c4"
-                            hint: "شعر بعدی"
-                            font.family: typography.iconFamily
-                            surfaceColor: colors.surface
-                            textColor: colors.foreground
-                            borderColor: colors.border
-                            focusColor: colors.focus
-                            onClicked: root.nextPoem()
+                        RowLayout {
+                            id: actionRow
+                            x: 0
+                            y: root.stackedReaderToolbar ? 42 : 0
+                            width: implicitWidth
+                            height: 44
+                            spacing: 8
+                            HeaderAction {
+                                objectName: "toggleFavoriteButton"
+                                enabled: root.bookmarkStore.canFavoriteCurrent
+                                symbol: "\ue866"
+                                hint: root.bookmarkStore.currentFavorite ? "حذف نشانک" : "افزودن نشانک"
+                                font.family: typography.iconFamily
+                                surfaceColor: colors.surface
+                                textColor: root.bookmarkStore.currentFavorite ? colors.accent : colors.foreground
+                                borderColor: colors.border
+                                focusColor: colors.focus
+                                onClicked: root.bookmarkStore.toggleCurrent()
+                            }
+                            HeaderAction {
+                                objectName: "previousPoemButton"
+                                visible: root.page === "poem"
+                                enabled: root.navigationController.hasPreviousPoem
+                                symbol: "\ue5c8"
+                                hint: "شعر پیشین"
+                                font.family: typography.iconFamily
+                                surfaceColor: colors.surface
+                                textColor: colors.foreground
+                                borderColor: colors.border
+                                focusColor: colors.focus
+                                onClicked: root.previousPoem()
+                            }
+                            HeaderAction {
+                                objectName: "nextPoemButton"
+                                visible: root.page === "poem"
+                                enabled: root.navigationController.hasNextPoem
+                                symbol: "\ue5c4"
+                                hint: "شعر بعدی"
+                                font.family: typography.iconFamily
+                                surfaceColor: colors.surface
+                                textColor: colors.foreground
+                                borderColor: colors.border
+                                focusColor: colors.focus
+                                onClicked: root.nextPoem()
+                            }
                         }
                     }
                     Label {
@@ -858,7 +936,7 @@ ApplicationWindow {
         AppMenuItem {
             appTheme: colors
             text: "تنظیمات"
-            onTriggered: root.page = "settings"
+            onTriggered: root.showSettings()
         }
     }
 

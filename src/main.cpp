@@ -19,6 +19,10 @@
 #include <QFont>
 #include <QFileInfo>
 #include <QGuiApplication>
+#ifdef Q_OS_ANDROID
+#include <QJniEnvironment>
+#include <QPointer>
+#endif
 #ifndef Q_OS_ANDROID
 #include <QApplication>
 #include <QIcon>
@@ -40,6 +44,30 @@ namespace {
 constexpr auto applicationName = "LeoMoon ParsiNama";
 constexpr auto windowTitle = "لئومون پارسی‌نما";
 constexpr auto welcomeText = "به لئومون پارسی‌نما خوش آمدید";
+
+#ifdef Q_OS_ANDROID
+QPointer<QObject> androidWindow;
+
+jboolean JNICALL handleNativeBack(JNIEnv *, jobject)
+{
+    if (!androidWindow)
+        return JNI_FALSE;
+
+    bool handled = false;
+    auto dispatch = [&] {
+        if (!androidWindow)
+            return;
+        handled = androidWindow->property("canHandleAndroidBack").toBool();
+        if (handled)
+            QMetaObject::invokeMethod(androidWindow, "handleAndroidBack", Qt::DirectConnection);
+    };
+    if (QThread::currentThread() == androidWindow->thread())
+        dispatch();
+    else
+        QMetaObject::invokeMethod(androidWindow, dispatch, Qt::BlockingQueuedConnection);
+    return handled ? JNI_TRUE : JNI_FALSE;
+}
+#endif
 
 #ifdef Q_OS_LINUX
 QtMessageHandler previousMessageHandler = nullptr;
@@ -170,6 +198,15 @@ int main(int argc, char *argv[])
     }
 
 #ifdef Q_OS_ANDROID
+    androidWindow = engine.rootObjects().constFirst();
+    QJniEnvironment jni;
+    const JNINativeMethod backMethod[] = {
+        {const_cast<char *>("handleNativeBack"), const_cast<char *>("()Z"),
+         reinterpret_cast<void *>(handleNativeBack)}
+    };
+    if (!jni.registerNativeMethods("com/leomoon/ParsiNama/ParsiNamaActivity", backMethod, 1))
+        qWarning("Could not register Android Back handler");
+
     QObject::connect(&catalogStartup, &CatalogStartup::catalogPrepared, &application,
                      [&](const QString &path, const QString &error) {
         if (!error.isEmpty()) {

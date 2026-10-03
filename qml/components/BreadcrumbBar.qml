@@ -10,15 +10,19 @@ Item {
     required property var appTheme
     required property var typography
     readonly property real fullCrumbWidth: widthProbe.implicitWidth + 12
-    readonly property bool collapsed: navigationController.breadcrumbs.length > 3
+    readonly property bool collapsed: navigationController.breadcrumbs.length > (width < 420 ? 2 : 3)
         && fullCrumbWidth > width
-    readonly property var hiddenEntries: navigationController.breadcrumbs.slice(1, -2)
+    readonly property var hiddenEntries: navigationController.breadcrumbs.slice(1, width < 420 ? -1 : -2)
     readonly property bool overflowVisible: hiddenCrumbs.visible
     signal activated(int index)
 
     function openOverflow() {
         if (collapsed)
             hiddenCrumbs.open()
+    }
+
+    function closeOverflow() {
+        hiddenCrumbs.close()
     }
 
     implicitHeight: 38
@@ -51,12 +55,13 @@ Item {
                 required property int index
                 required property var modelData
                 visible: !root.collapsed || index === 0
-                    || index >= root.navigationController.breadcrumbs.length - 2
+                    || index >= root.navigationController.breadcrumbs.length - (root.width < 420 ? 1 : 2)
                 spacing: 5
 
                 Button {
                     id: crumbButton
-                    Layout.maximumWidth: root.collapsed ? Math.max(90, (root.width - 50) / 3) : 220
+                    Layout.maximumWidth: root.collapsed
+                        ? Math.max(90, (root.width - 50) / (root.width < 420 ? 2 : 3)) : 220
                     implicitHeight: 34
                     text: parent.modelData && parent.modelData.title ? parent.modelData.title : ""
                     font.family: root.typography.family
