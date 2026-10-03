@@ -1,4 +1,5 @@
 #include "data/CatalogPaths.h"
+#include "data/CatalogStartup.h"
 #include "data/CatalogRepository.h"
 #include "data/CollectionListModel.h"
 #include "data/NavigationController.h"
@@ -97,13 +98,20 @@ int main(int argc, char *argv[])
     QQuickStyle::setStyle(QStringLiteral("Basic"));
 
     QString pathError;
+#ifdef Q_OS_ANDROID
+    const QString catalogPath = CatalogPaths::installedCatalogPath();
+    CatalogStartup catalogStartup;
+#else
     const QString catalogPath = CatalogPaths::resolve(application.arguments(), &pathError);
     if (!pathError.isEmpty()) {
         qCritical().noquote() << pathError;
         return EXIT_FAILURE;
     }
+#endif
     CatalogRepository catalogRepository;
+#ifndef Q_OS_ANDROID
     catalogRepository.openCatalog(catalogPath);
+#endif
     PoetListModel poetListModel(&catalogRepository);
     CollectionListModel collectionListModel(&catalogRepository);
     PoemLoader poemLoader(catalogPath);
@@ -144,6 +152,9 @@ int main(int argc, char *argv[])
         {QStringLiteral("settingsStore"), QVariant::fromValue(&settingsStore)},
         {QStringLiteral("bookmarkStore"), QVariant::fromValue(&bookmarkStore)}
     };
+#ifdef Q_OS_ANDROID
+    initialProperties.insert(QStringLiteral("catalogStartup"), QVariant::fromValue(&catalogStartup));
+#endif
 #ifndef Q_OS_ANDROID
     initialProperties.insert(QStringLiteral("printService"), QVariant::fromValue(&printService));
 #endif
@@ -157,6 +168,20 @@ int main(int argc, char *argv[])
         std::fprintf(stderr, "QML root window could not be created.\n");
         return EXIT_FAILURE;
     }
+
+#ifdef Q_OS_ANDROID
+    QObject::connect(&catalogStartup, &CatalogStartup::catalogPrepared, &application,
+                     [&](const QString &path, const QString &error) {
+        if (!error.isEmpty()) {
+            catalogStartup.setCatalogOpened(false, error);
+            return;
+        }
+        const bool opened = catalogRepository.openCatalog(path);
+        if (opened) poetListModel.reload();
+        catalogStartup.setCatalogOpened(opened, catalogRepository.error());
+    });
+    catalogStartup.start(application.arguments());
+#endif
 
     if (smokeTest) {
 #ifdef Q_OS_LINUX

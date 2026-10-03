@@ -10,6 +10,7 @@
 #include "services/UserDataPaths.h"
 
 #include <QDir>
+#include <QCryptographicHash>
 #include <QFile>
 #include <QFileInfo>
 #include <QJsonArray>
@@ -36,6 +37,7 @@ private slots:
     void bookmarksHandleMissingAndInvalidFiles();
     void fullCatalogQueries();
     void searchAndNavigation();
+    void bundledCatalogInstall();
 
 private:
     QTemporaryDir m_temporary;
@@ -588,6 +590,59 @@ void DataTests::fullCatalogQueries()
     QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::PairedRole).toBool(), false);
     QCOMPARE(loader.readingRows()->data(loader.readingRows()->index(0, 0), ReadingRowListModel::PositionRole).toString(),
              QStringLiteral("Single"));
+}
+
+void DataTests::bundledCatalogInstall()
+{
+    const QString directory = m_temporary.filePath(QStringLiteral("install"));
+    QVERIFY(QDir().mkpath(directory));
+    const QString destination = QDir(directory).filePath(QStringLiteral("parsinama-catalog.sqlite"));
+    const QString checksum = QDir(directory).filePath(QStringLiteral("catalog.sha256"));
+    auto writeChecksum = [&](const QString &source) {
+        QFile file(source);
+        if (!file.open(QIODevice::ReadOnly)) return false;
+        QFile manifest(checksum);
+        if (!manifest.open(QIODevice::WriteOnly | QIODevice::Truncate)) return false;
+        return manifest.write(QCryptographicHash::hash(file.readAll(), QCryptographicHash::Sha256).toHex()) == 64;
+    };
+    QVERIFY(writeChecksum(m_fixturePath));
+    QString error;
+    int progressCalls = 0;
+    QVERIFY2(CatalogPaths::installBundledCatalog(m_fixturePath, checksum, destination, &error,
+        [&](qint64 copied, qint64 total) { QVERIFY(copied <= total); ++progressCalls; }), qPrintable(error));
+    QVERIFY(progressCalls >= 2);
+    CatalogRepository copied;
+    QVERIFY(copied.openCatalog(destination));
+    QCOMPARE(copied.poets().size(), 3);
+
+    QFile unchanged(destination);
+    QVERIFY(unchanged.open(QIODevice::ReadOnly));
+    const QByteArray firstBytes = unchanged.read(128);
+    unchanged.close();
+    progressCalls = 0;
+    QVERIFY(CatalogPaths::installBundledCatalog(m_fixturePath, checksum, destination, &error,
+        [&](qint64 copied, qint64 total) { QCOMPARE(copied, total); ++progressCalls; }));
+    QCOMPARE(progressCalls, 1);
+
+    const QString replacement = QDir(directory).filePath(QStringLiteral("replacement.sqlite"));
+    QVERIFY(QFile::copy(m_fixturePath, replacement));
+    QFile replacementFile(replacement);
+    QVERIFY(replacementFile.open(QIODevice::ReadWrite));
+    QVERIFY(replacementFile.seek(replacementFile.size()));
+    QCOMPARE(replacementFile.write("update"), qint64(6));
+    replacementFile.close();
+    QVERIFY(writeChecksum(replacement));
+    QVERIFY2(CatalogPaths::installBundledCatalog(replacement, checksum, destination, &error), qPrintable(error));
+    QCOMPARE(QFileInfo(destination).size(), QFileInfo(replacement).size());
+
+    QFile badManifest(checksum);
+    QVERIFY(badManifest.open(QIODevice::WriteOnly | QIODevice::Truncate));
+    QCOMPARE(badManifest.write(QByteArray(64, '0')), qint64(64));
+    badManifest.close();
+    QVERIFY(!CatalogPaths::installBundledCatalog(m_fixturePath, checksum, destination, &error));
+    QVERIFY(!error.isEmpty());
+    QCOMPARE(QFileInfo(destination).size(), QFileInfo(replacement).size());
+    QVERIFY(!firstBytes.isEmpty());
 }
 
 QTEST_GUILESS_MAIN(DataTests)
