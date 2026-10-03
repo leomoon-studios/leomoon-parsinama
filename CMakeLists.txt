@@ -23,7 +23,7 @@ set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 set(CMAKE_CXX_EXTENSIONS OFF)
 
-find_package(Qt6 6.5 REQUIRED COMPONENTS
+set(PARSINAMA_QT_COMPONENTS
     Core
     Concurrent
     Gui
@@ -31,10 +31,14 @@ find_package(Qt6 6.5 REQUIRED COMPONENTS
     Quick
     QuickControls2
     Sql
-    PrintSupport
-    Test
-    Widgets
 )
+if(BUILD_TESTING)
+    list(APPEND PARSINAMA_QT_COMPONENTS Test)
+endif()
+if(NOT ANDROID)
+    list(APPEND PARSINAMA_QT_COMPONENTS PrintSupport Widgets)
+endif()
+find_package(Qt6 6.5 REQUIRED COMPONENTS ${PARSINAMA_QT_COMPONENTS})
 
 qt_standard_project_setup(REQUIRES 6.5)
 qt_policy(SET QTP0004 NEW)
@@ -70,9 +74,13 @@ target_link_libraries(parsinama_data PUBLIC Qt6::Core Qt6::Concurrent Qt6::Sql)
 
 qt_add_executable(leomoon_parsinama
     src/main.cpp
-    src/services/PrintService.cpp
-    src/services/PrintService.h
 )
+if(NOT ANDROID)
+    target_sources(leomoon_parsinama PRIVATE
+        src/services/PrintService.cpp
+        src/services/PrintService.h
+    )
+endif()
 
 set_source_files_properties(qml/Main.qml PROPERTIES QT_RESOURCE_ALIAS Main.qml)
 set_source_files_properties(qml/theme/AppTheme.qml PROPERTIES QT_RESOURCE_ALIAS theme/AppTheme.qml)
@@ -118,10 +126,11 @@ target_link_libraries(leomoon_parsinama PRIVATE
     Qt6::Quick
     Qt6::QuickControls2
     Qt6::Sql
-    Qt6::PrintSupport
-    Qt6::Widgets
     parsinama_data
 )
+if(NOT ANDROID)
+    target_link_libraries(leomoon_parsinama PRIVATE Qt6::PrintSupport Qt6::Widgets)
+endif()
 
 target_compile_definitions(leomoon_parsinama PRIVATE
     PARSINAMA_VERSION="${PROJECT_VERSION}"
@@ -150,7 +159,7 @@ endif()
 
 include(cmake/Packaging.cmake)
 
-if(BUILD_TESTING)
+if(BUILD_TESTING AND NOT ANDROID)
     qt_add_executable(parsinama_print_tests
         tests/print_tests.cpp
         src/services/PrintService.cpp
@@ -167,7 +176,9 @@ if(BUILD_TESTING)
         ENVIRONMENT "QT_QPA_PLATFORM=offscreen;QT_QPA_PLATFORMTHEME="
         TIMEOUT 30
     )
+endif()
 
+if(BUILD_TESTING)
     qt_add_executable(parsinama_app_tests tests/app_tests.cpp)
     target_link_libraries(parsinama_app_tests PRIVATE Qt6::Core Qt6::Test)
     target_compile_definitions(parsinama_app_tests PRIVATE
