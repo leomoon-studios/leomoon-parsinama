@@ -626,9 +626,11 @@ void DataTests::bundledCatalogInstall()
     QVERIFY2(CatalogPaths::installBundledCatalog(parts, manifestPath, destination, &error,
         [&](qint64 copied, qint64 total) { QVERIFY(copied <= total); ++progressCalls; }), qPrintable(error));
     QVERIFY(progressCalls >= 2);
-    CatalogRepository copied;
-    QVERIFY(copied.openCatalog(destination));
-    QCOMPARE(copied.poets().size(), 3);
+    {
+        CatalogRepository copied;
+        QVERIFY(copied.openCatalog(destination));
+        QCOMPARE(copied.poets().size(), 3);
+    }
 
     QFile unchanged(destination);
     QVERIFY(unchanged.open(QIODevice::ReadOnly));
