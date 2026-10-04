@@ -165,11 +165,13 @@ ScrollView {
                 leftPadding: sizeSelector.indicator.width + 14
             }
             indicator: Text {
+                objectName: "readingSizeIndicator"
                 x: 12
                 anchors.verticalCenter: parent.verticalCenter
-                text: "▾"
+                text: "\ue5c5"
                 color: root.appTheme.foreground
-                font.pixelSize: 18
+                font.family: root.typography.iconFamily
+                font.pixelSize: 24
             }
             background: Rectangle {
                 radius: 10
@@ -235,6 +237,15 @@ ScrollView {
             Layout.fillWidth: true
             horizontalAlignment: Text.AlignRight
             wrapMode: Text.Wrap
+        }
+        Label {
+            objectName: "settingsVersion"
+            Layout.fillWidth: true
+            LayoutMirroring.enabled: false
+            text: "نسخهٔ برنامه: v" + Qt.application.version
+            color: root.appTheme.muted
+            font.pixelSize: 14
+            horizontalAlignment: Text.AlignRight
         }
     }
 }
