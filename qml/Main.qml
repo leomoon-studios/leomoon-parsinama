@@ -3,7 +3,6 @@ pragma ComponentBehavior: Bound
 import QtQuick
 import QtQuick.Controls
 import QtQuick.Layouts
-import QtQuick.Shapes
 
 ApplicationWindow {
     id: root
@@ -294,26 +293,16 @@ ApplicationWindow {
             Layout.fillWidth: true
             spacing: 12
 
-            Rectangle {
+            Image {
                 id: appLogo
                 objectName: "appLogo"
                 Layout.preferredWidth: 44
                 Layout.preferredHeight: 44
-                radius: 11
-                color: colors.accent
-                clip: true
-                Shape {
-                    width: 256
-                    height: 256
-                    transformOrigin: Item.TopLeft
-                    scale: appLogo.width / 256
-                    ShapePath {
-                        objectName: "appLogoGlyph"
-                        fillColor: colors.accentText
-                        strokeColor: "transparent"
-                        PathSvg { path: "m138.938 151.188 8.53 8.53-8.53 8.532-8.477-8.531zm-19.032 0 8.531 8.53-8.53 8.532-8.532-8.531zm9.516 14 8.531 8.476-8.531 8.531-8.531-8.53zm9.023-19.688h-12.687q-12.797 0-22.531-2.242-9.735-2.242-15.204-8.04-5.468-5.796-5.468-16.515 0-4.703 1.039-9.187 1.094-4.485 2.68-8.313l12.25 4.594q-.876 2.516-1.805 5.797-.875 3.281-.875 6.289 0 5.633 3.937 8.422 3.938 2.734 10.719 3.61 6.781.874 15.258.874h12.797q6.398 0 11.32-.656 4.922-.711 7.71-2.735 2.845-2.023 2.845-6.07 0-3.5-.82-7.984-.82-4.54-1.805-8.696l13.398-3.39q2.297 10.281 2.297 19.195 0 8.04-2.734 13.016-2.68 4.976-7.493 7.601-4.812 2.57-11.156 3.5t-13.672.93" }
-                    }
-                }
+                source: "qrc:/qt/qml/LeoMoon/ParsiNama/assets/app-icon.svg"
+                sourceSize: Qt.size(256, 256)
+                fillMode: Image.PreserveAspectFit
+                smooth: true
+                mipmap: true
                 Accessible.name: "نشان لئومون پارسی‌نما"
             }
             ColumnLayout {
@@ -525,6 +514,9 @@ ApplicationWindow {
                                 LayoutMirroring.enabled: true
                                 text: poetEntry.name
                                 font.family: typography.family
+                                implicitHeight: Math.max(48,
+                                    contentItem.implicitHeight + topPadding + bottomPadding)
+                                hoverEnabled: true
                                 contentItem: Text {
                                     objectName: "poetRowText"
                                     LayoutMirroring.enabled: false
@@ -541,9 +533,12 @@ ApplicationWindow {
                                 background: Rectangle {
                                     radius: 9
                                     color: poetEntry.fullUrl === root.selectedPoetUrl ? colors.accent
-                                        : poetRow.hovered ? colors.surfaceRaised : colors.surface
-                                    border.color: poetRow.activeFocus ? colors.focus : "transparent"
-                                    border.width: poetRow.activeFocus ? 2 : 0
+                                        : poetRow.pressed || poetRow.hovered
+                                            ? colors.surfaceRaised : colors.surface
+                                    border.color: poetRow.activeFocus ? colors.focus
+                                        : poetEntry.fullUrl === root.selectedPoetUrl
+                                            ? colors.accent : colors.border
+                                    border.width: poetRow.activeFocus ? 2 : 1
                                 }
                                 onClicked: root.selectPoet(poetEntry.fullUrl, poetEntry.name)
                             }
@@ -787,6 +782,9 @@ ApplicationWindow {
                                 LayoutMirroring.enabled: true
                                 text: collectionEntry.title
                                 font.family: typography.family
+                                implicitHeight: Math.max(48,
+                                    contentItem.implicitHeight + topPadding + bottomPadding)
+                                hoverEnabled: true
                                 contentItem: Text {
                                     objectName: "collectionRowText"
                                     LayoutMirroring.enabled: false
@@ -801,9 +799,10 @@ ApplicationWindow {
                                 Accessible.name: collectionEntry.title
                                 background: Rectangle {
                                     radius: 9
-                                    color: collectionRow.hovered ? colors.surfaceRaised : colors.surface
-                                    border.color: collectionRow.activeFocus ? colors.focus : "transparent"
-                                    border.width: collectionRow.activeFocus ? 2 : 0
+                                    color: collectionRow.pressed || collectionRow.hovered
+                                        ? colors.surfaceRaised : colors.surface
+                                    border.color: collectionRow.activeFocus ? colors.focus : colors.border
+                                    border.width: collectionRow.activeFocus ? 2 : 1
                                 }
                                 onClicked: {
                                     if (collectionEntry.entryType === "category")
