@@ -19,8 +19,10 @@ ApplicationWindow {
     property var printService: null
     property var catalogStartup: null
     readonly property bool printingSupported: Qt.platform.os !== "android"
-    readonly property bool compactHeader: width < 760
-    readonly property bool compactBrowse: width < 760
+    readonly property bool phoneLayout: Qt.platform.os === "android"
+        && (width < 600 || height < 500)
+    readonly property bool compactHeader: width < 760 || phoneLayout
+    readonly property bool compactBrowse: width < 760 || phoneLayout
     readonly property bool shortAndroidView: Qt.platform.os === "android" && height < 500
     readonly property bool stackedReaderToolbar: compactBrowse && !shortAndroidView
     readonly property real keyboardInset: Qt.platform.os === "android" && Qt.inputMethod.visible
@@ -282,9 +284,10 @@ ApplicationWindow {
 
     ColumnLayout {
         anchors.fill: parent
-        anchors.margins: root.compactHeader ? 16 : 20
-        anchors.bottomMargin: (root.compactHeader ? 16 : 20) + root.keyboardInset
-        spacing: root.shortAndroidView ? 8 : 18
+        anchors.margins: root.phoneLayout ? 10 : root.compactHeader ? 16 : 20
+        anchors.bottomMargin: (root.phoneLayout ? 10 : root.compactHeader ? 16 : 20)
+            + root.keyboardInset
+        spacing: root.phoneLayout ? 8 : root.shortAndroidView ? 8 : 18
 
         RowLayout {
             objectName: "header"
@@ -326,12 +329,15 @@ ApplicationWindow {
                         font.pixelSize: 20
                         font.weight: Font.DemiBold
                         elide: Text.ElideRight
-                        Layout.maximumWidth: parent.width - applicationVersion.implicitWidth - parent.spacing
+                        Layout.maximumWidth: parent.width - (applicationVersion.visible
+                            ? applicationVersion.implicitWidth + parent.spacing : 0)
                         Layout.alignment: Qt.AlignBaseline
                     }
                     Label {
                         id: applicationVersion
+                        objectName: "headerVersion"
                         text: "v" + Qt.application.version
+                        visible: !root.phoneLayout
                         color: colors.muted
                         font.pixelSize: 12
                         LayoutMirroring.enabled: false
@@ -340,8 +346,10 @@ ApplicationWindow {
                     Item { Layout.fillWidth: true }
                 }
                 Label {
+                    objectName: "headerSubtitle"
                     Layout.fillWidth: true
                     text: "گنجینه شعر پارسی"
+                    visible: !root.phoneLayout
                     color: colors.muted
                     font.pixelSize: 12
                     elide: Text.ElideRight
@@ -416,6 +424,8 @@ ApplicationWindow {
                 hint: "گزینه‌های بیشتر"
                 font.family: typography.iconFamily
                 visible: root.compactHeader
+                Layout.minimumWidth: 44
+                Layout.minimumHeight: 44
                 surfaceColor: colors.surface
                 textColor: colors.foreground
                 borderColor: colors.border
