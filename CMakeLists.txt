@@ -31,6 +31,7 @@ set(PARSINAMA_QT_COMPONENTS
     Quick
     QuickControls2
     Sql
+    Svg
 )
 if(BUILD_TESTING AND NOT ANDROID)
     list(APPEND PARSINAMA_QT_COMPONENTS Test)
@@ -128,6 +129,7 @@ target_link_libraries(leomoon_parsinama PRIVATE
     Qt6::Quick
     Qt6::QuickControls2
     Qt6::Sql
+    Qt6::Svg
     parsinama_data
 )
 if(NOT ANDROID)

@@ -286,8 +286,7 @@ int main(int argc, char *argv[])
 #endif
             || !QFileInfo::exists(QStringLiteral(":/qt/qml/LeoMoon/ParsiNama/assets/fonts/Vazirmatn[wght].ttf"))
             || !settingsPage || !readingSizeSelector || !lightThemeChoice
-            || !appLogo || appLogo->property("color").value<QColor>()
-                != window->property("accentColor").value<QColor>()
+            || !appLogo || appLogo->property("status").toInt() != 1
             || appLogo->property("width").toReal() != 44
             || headerTitle->property("font").value<QFont>().pixelSize() != 20
             || settingsButton->property("width").toReal() != 44
@@ -425,11 +424,8 @@ int main(int argc, char *argv[])
         const QColor originalAccent = window->property("accentColor").value<QColor>();
         settingsStore.setAccentPreset(QStringLiteral("teal"));
         QCoreApplication::processEvents();
-        QObject *logoGlyph = window->findChild<QObject *>(QStringLiteral("appLogoGlyph"));
         if (window->property("accentColor").value<QColor>() == originalAccent
-            || appLogo->property("color").value<QColor>() != window->property("accentColor").value<QColor>()
-            || !logoGlyph || logoGlyph->property("fillColor").value<QColor>()
-                != window->property("accentTextColor").value<QColor>()) {
+            || appLogo->property("status").toInt() != 1) {
             qCritical("The accent choice did not update the theme");
             return EXIT_FAILURE;
         }
