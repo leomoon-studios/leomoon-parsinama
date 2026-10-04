@@ -17,6 +17,7 @@ ListView {
     clip: true
     spacing: 8
     boundsBehavior: Flickable.StopAtBounds
+    readonly property real contentInset: poemScrollBar.visible ? poemScrollBar.width + 20 : 0
 
     header: ColumnLayout {
         width: reader.width - 20
@@ -60,6 +61,7 @@ ListView {
     }
 
     ScrollBar.vertical: AppScrollBar {
+        id: poemScrollBar
         objectName: "poemScrollBar"
         visible: reader.contentHeight > reader.height + 1
         trackColor: reader.appTheme.surfaceRaised
@@ -85,7 +87,7 @@ ListView {
             id: readingContent
             LayoutMirroring.enabled: false
             width: Math.min(Math.max(0, verseEntry.width - 48), 1000)
-            anchors.horizontalCenter: parent.horizontalCenter
+            x: (verseEntry.width - width + reader.contentInset) / 2
             height: verseEntry.kind === "section" ? sectionLabel.implicitHeight
                 : verseEntry.paired
                     ? (verseEntry.stacked
