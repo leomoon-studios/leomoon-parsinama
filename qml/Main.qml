@@ -47,6 +47,9 @@ ApplicationWindow {
         : poemLoader.loading || poemLoader.error !== "" ? poemLoader.statusText
         : catalogRepository.ready ? "" : catalogRepository.statusText
     property string page: "poets"
+    readonly property string currentContentTitle: page === "settings" ? "تنظیمات"
+        : page === "favorites" ? "نشانک‌ها"
+        : page === "search" ? "جستجو" : navigationController.title
     property var pageReturnStack: []
     onPageChanged: {
         if (page !== "poem")
@@ -590,14 +593,27 @@ ApplicationWindow {
                     spacing: root.shortAndroidView ? 8 : 16
                     visible: root.page !== "poets"
                     Item {
+                        id: readerToolbar
                         Layout.fillWidth: true
                         Layout.preferredHeight: root.stackedReaderToolbar ? 86 : 44
                         visible: root.page === "poet" || root.page === "collection" || root.page === "poem"
+                        readonly property real landscapeCrumbWidth: Math.max(160,
+                            Math.min(breadcrumbs.fullCrumbWidth, 250))
+                        readonly property bool inlinePhoneTitle: root.phoneLayout
+                            && root.shortAndroidView
+                            && readerToolbar.visible
+                            && inlineTitle.implicitWidth + actionRow.width + landscapeCrumbWidth + 24 <= width
                         BreadcrumbBar {
                             id: breadcrumbs
                             objectName: "breadcrumbBar"
-                            x: root.stackedReaderToolbar ? 0 : actionRow.width + 8
-                            width: root.stackedReaderToolbar ? parent.width : parent.width - actionRow.width - 8
+                            x: root.stackedReaderToolbar ? 0
+                                : readerToolbar.inlinePhoneTitle
+                                    ? parent.width - readerToolbar.landscapeCrumbWidth
+                                    : actionRow.width + 8
+                            width: root.stackedReaderToolbar ? parent.width
+                                : readerToolbar.inlinePhoneTitle
+                                    ? readerToolbar.landscapeCrumbWidth
+                                    : parent.width - actionRow.width - 8
                             height: 38
                             navigationController: root.navigationController
                             appTheme: colors
@@ -607,6 +623,7 @@ ApplicationWindow {
                         }
                         RowLayout {
                             id: actionRow
+                            objectName: "readerActionArea"
                             x: 0
                             y: root.stackedReaderToolbar ? 42 : 0
                             width: implicitWidth
@@ -651,13 +668,28 @@ ApplicationWindow {
                                 onClicked: root.nextPoem()
                             }
                         }
+                        Label {
+                            id: inlineTitle
+                            objectName: "landscapeContentTitle"
+                            visible: readerToolbar.inlinePhoneTitle
+                            x: actionRow.width + 8
+                            y: 0
+                            width: breadcrumbs.x - x - 8
+                            height: 44
+                            text: root.currentContentTitle
+                            color: colors.foreground
+                            font.pixelSize: 24
+                            font.weight: Font.DemiBold
+                            horizontalAlignment: Text.AlignHCenter
+                            verticalAlignment: Text.AlignVCenter
+                            elide: Text.ElideRight
+                        }
                     }
                     Label {
                         objectName: "contentTitle"
+                        visible: !readerToolbar.inlinePhoneTitle
                         LayoutMirroring.enabled: false
-                        text: root.page === "settings" ? "تنظیمات"
-                            : root.page === "favorites" ? "نشانک‌ها"
-                            : root.page === "search" ? "جستجو" : root.navigationController.title
+                        text: root.currentContentTitle
                         color: colors.foreground
                         font.pixelSize: 24
                         font.weight: Font.DemiBold
