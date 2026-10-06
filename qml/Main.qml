@@ -602,6 +602,7 @@ ApplicationWindow {
                             navigationController: root.navigationController
                             appTheme: colors
                             typography: typography
+                            phoneMode: root.phoneLayout
                             onActivated: (index) => root.openBreadcrumb(index)
                         }
                         RowLayout {
