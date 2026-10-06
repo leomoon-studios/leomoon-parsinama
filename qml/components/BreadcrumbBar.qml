@@ -9,8 +9,10 @@ Item {
     required property var navigationController
     required property var appTheme
     required property var typography
+    property bool phoneMode: false
     readonly property real fullCrumbWidth: widthProbe.implicitWidth + 12
-    readonly property bool collapsed: navigationController.breadcrumbs.length > (width < 420 ? 2 : 3)
+    readonly property bool collapsed: !phoneMode
+        && navigationController.breadcrumbs.length > (width < 420 ? 2 : 3)
         && fullCrumbWidth > width
     readonly property var hiddenEntries: navigationController.breadcrumbs.slice(1, width < 420 ? -1 : -2)
     readonly property bool overflowVisible: hiddenCrumbs.visible
@@ -27,6 +29,70 @@ Item {
 
     implicitHeight: 38
     clip: true
+
+    Flickable {
+        id: phoneCrumbs
+        objectName: "phoneBreadcrumbScroll"
+        anchors.fill: parent
+        visible: root.phoneMode
+        clip: true
+        contentWidth: Math.max(width, phoneCrumbRow.width)
+        contentHeight: height
+        flickableDirection: Flickable.HorizontalFlick
+        boundsBehavior: Flickable.StopAtBounds
+        interactive: contentWidth > width
+        onContentWidthChanged: contentX = 0
+        onWidthChanged: contentX = 0
+
+        Row {
+            id: phoneCrumbRow
+            objectName: "phoneBreadcrumbRow"
+            LayoutMirroring.enabled: false
+            layoutDirection: Qt.RightToLeft
+            spacing: 5
+            width: implicitWidth
+            x: Math.max(0, phoneCrumbs.width - width)
+
+            Repeater {
+                model: root.navigationController.breadcrumbs
+                delegate: Button {
+                    id: phoneCrumbButton
+                    objectName: "phoneBreadcrumbButton"
+                    required property int index
+                    required property var modelData
+                    implicitWidth: phoneCrumbLabel.implicitWidth + 24
+                    implicitHeight: 34
+                    text: modelData && modelData.title ? modelData.title : ""
+                    font.family: root.typography.family
+                    font.pixelSize: 15
+                    onClicked: root.activated(index)
+                    contentItem: Text {
+                        id: phoneCrumbLabel
+                        LayoutMirroring.enabled: false
+                        text: phoneCrumbButton.text
+                        font: phoneCrumbButton.font
+                        color: root.appTheme.foreground
+                        horizontalAlignment: Text.AlignHCenter
+                        verticalAlignment: Text.AlignVCenter
+                    }
+                    background: Rectangle {
+                        radius: 8
+                        color: phoneCrumbButton.hovered
+                            ? root.appTheme.surfaceRaised : root.appTheme.surface
+                        border.color: root.appTheme.border
+                    }
+                }
+            }
+        }
+    }
+
+    Connections {
+        target: root.navigationController
+        function onStateChanged() {
+            if (root.phoneMode)
+                Qt.callLater(() => { phoneCrumbs.contentX = 0 })
+        }
+    }
 
     Row {
         id: widthProbe
@@ -48,6 +114,7 @@ Item {
 
     RowLayout {
         anchors.fill: parent
+        visible: !root.phoneMode
         spacing: 5
         Repeater {
             model: root.navigationController.breadcrumbs

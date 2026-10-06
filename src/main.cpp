@@ -780,6 +780,69 @@ int main(int argc, char *argv[])
             QObject *breadcrumbOverflowPopup = window->findChild<QObject *>(
                 QStringLiteral("breadcrumbOverflowPopup"));
             QMetaObject::invokeMethod(breadcrumbOverflowPopup, "close");
+            breadcrumbs->setProperty("phoneMode", true);
+            breadcrumbs->setProperty("width", 320);
+            for (int attempt = 0; attempt < 20; ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            auto *phoneCrumbScroll = window->findChild<QObject *>(
+                QStringLiteral("phoneBreadcrumbScroll"));
+            auto *phoneCrumbRow = window->findChild<QQuickItem *>(
+                QStringLiteral("phoneBreadcrumbRow"));
+            QList<QObject *> phoneCrumbButtons;
+            if (phoneCrumbRow) {
+                for (QQuickItem *child : phoneCrumbRow->childItems()) {
+                    if (child->objectName() == QStringLiteral("phoneBreadcrumbButton"))
+                        phoneCrumbButtons.append(child);
+                }
+            }
+            QObject *firstPhoneCrumb = nullptr;
+            QObject *currentPhoneCrumb = nullptr;
+            QObject *middlePhoneCrumb = nullptr;
+            for (QObject *button : phoneCrumbButtons) {
+                const int index = button->property("index").toInt();
+                if (index < 0 || index >= navigationController.breadcrumbs().size()
+                    || button->property("text").toString() != navigationController.breadcrumbs()
+                        .at(index).toMap().value(QStringLiteral("title")).toString()) {
+                    std::fprintf(stderr, "A phone breadcrumb label or index is wrong.\n");
+                    return EXIT_FAILURE;
+                }
+                if (index == 0) firstPhoneCrumb = button;
+                if (index == 2) middlePhoneCrumb = button;
+                if (index == navigationController.breadcrumbs().size() - 1)
+                    currentPhoneCrumb = button;
+            }
+            if (!phoneCrumbScroll || !phoneCrumbRow || !firstPhoneCrumb
+                || !middlePhoneCrumb || !currentPhoneCrumb
+                || phoneCrumbButtons.size() != navigationController.breadcrumbs().size()
+                || breadcrumbs->property("collapsed").toBool()
+                || phoneCrumbScroll->property("contentWidth").toReal()
+                    <= phoneCrumbScroll->property("width").toReal()
+                || currentPhoneCrumb->property("x").toReal() + phoneCrumbRow->x()
+                    >= phoneCrumbScroll->property("width").toReal()) {
+                std::fprintf(stderr, "Deep phone breadcrumbs were not scrollable from the current level.\n");
+                return EXIT_FAILURE;
+            }
+            phoneCrumbScroll->setProperty("contentX",
+                phoneCrumbScroll->property("contentWidth").toReal()
+                    - phoneCrumbScroll->property("width").toReal());
+            QCoreApplication::processEvents();
+            if (firstPhoneCrumb->property("x").toReal() + phoneCrumbRow->x()
+                    + firstPhoneCrumb->property("width").toReal()
+                    - phoneCrumbScroll->property("contentX").toReal()
+                    > phoneCrumbScroll->property("width").toReal() + 1
+                || !QMetaObject::invokeMethod(middlePhoneCrumb, "clicked")) {
+                std::fprintf(stderr, "A hidden phone breadcrumb could not be reached or tapped.\n");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (navigationController.url() != QStringLiteral("/ferdousi/shahname")
+                || !navigationController.openCategory(QStringLiteral("/ferdousi/shahname/aghaz"))) {
+                std::fprintf(stderr, "A phone breadcrumb opened the wrong ancestor.\n");
+                return EXIT_FAILURE;
+            }
+            breadcrumbs->setProperty("phoneMode", false);
             if (!bookmarkStore.toggleCurrent() || !bookmarkStore.currentFavorite()
                 || bookmarkStore.count() != 1
                 || !QMetaObject::invokeMethod(window, "showFavorites")) {
