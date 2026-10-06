@@ -13,11 +13,11 @@ Button {
     implicitWidth: 44
     implicitHeight: 44
     padding: 0
-    hoverEnabled: true
-    focusPolicy: Qt.StrongFocus
+    hoverEnabled: Qt.platform.os !== "android"
+    focusPolicy: Qt.platform.os === "android" ? Qt.NoFocus : Qt.StrongFocus
     Accessible.name: hint
     ToolTip.text: hint
-    ToolTip.visible: hovered && hint !== ""
+    ToolTip.visible: Qt.platform.os !== "android" && hovered && hint !== ""
     ToolTip.delay: 550
 
     contentItem: Text {
