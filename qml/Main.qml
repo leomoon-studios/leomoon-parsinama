@@ -257,6 +257,7 @@ ApplicationWindow {
             root.selectedPoetName = root.navigationController.poetName
             root.selectedPoetUrl = root.navigationController.poetUrl
             root.poemScrollPending = root.page === "poem"
+            poemList.resetScrollAnchor()
             poemScrollTimer.stop()
             Qt.callLater(() => {
                 poetList.contentY = root.navigationController.poetScroll
@@ -555,7 +556,7 @@ ApplicationWindow {
                 visible: !root.compactBrowse || root.page !== "poets"
                 Layout.fillWidth: true
                 Layout.fillHeight: true
-                radius: 18
+                radius: root.phoneLayout ? 12 : 18
                 color: colors.surface
                 border.color: colors.border
                 Item {
@@ -589,19 +590,20 @@ ApplicationWindow {
                 }
                 ColumnLayout {
                     anchors.fill: parent
-                    anchors.margins: root.shortAndroidView ? 8 : 14
-                    spacing: root.shortAndroidView ? 8 : 16
+                    anchors.margins: root.phoneLayout ? (root.shortAndroidView ? 6 : 8) : 14
+                    spacing: root.phoneLayout ? (root.shortAndroidView ? 6 : 8) : 16
                     visible: root.page !== "poets"
                     Item {
                         id: readerToolbar
                         Layout.fillWidth: true
-                        Layout.preferredHeight: root.stackedReaderToolbar ? 86 : 44
+                        Layout.preferredHeight: root.stackedReaderToolbar
+                            ? (root.phoneLayout ? 84 : 86) : 44
                         visible: root.page === "poet" || root.page === "collection" || root.page === "poem"
                         readonly property real landscapeCrumbWidth: Math.max(160,
                             Math.min(breadcrumbs.fullCrumbWidth, 250))
                         readonly property bool inlinePhoneTitle: root.phoneLayout
                             && root.shortAndroidView
-                            && readerToolbar.visible
+                            && (root.page === "poet" || root.page === "collection" || root.page === "poem")
                             && inlineTitle.implicitWidth + actionRow.width + landscapeCrumbWidth + 24 <= width
                         BreadcrumbBar {
                             id: breadcrumbs
@@ -625,7 +627,7 @@ ApplicationWindow {
                             id: actionRow
                             objectName: "readerActionArea"
                             x: 0
-                            y: root.stackedReaderToolbar ? 42 : 0
+                            y: root.stackedReaderToolbar ? (root.phoneLayout ? 40 : 42) : 0
                             width: implicitWidth
                             height: 44
                             spacing: 8
@@ -865,6 +867,7 @@ ApplicationWindow {
                         settingsStore: root.settingsStore
                         appTheme: colors
                         typography: typography
+                        phoneMode: root.phoneLayout
                         onContentHeightChanged: {
                             if (root.poemScrollPending && !root.poemLoader.loading)
                                 poemScrollTimer.restart()
@@ -872,6 +875,7 @@ ApplicationWindow {
                         onMovementStarted: {
                             root.poemScrollPending = false
                             poemScrollTimer.stop()
+                            poemList.recordUserScroll()
                         }
                     }
                     Connections {
