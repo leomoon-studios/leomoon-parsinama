@@ -12,16 +12,92 @@ ListView {
     required property var settingsStore
     required property var appTheme
     required property var typography
+    property bool phoneMode: false
+    property bool userHasScrolled: false
+    property bool restoringScroll: false
+    property int anchorIndex: -1
+    property real anchorFraction: 0
+
+    function resetScrollAnchor() {
+        resizeRestore.stop()
+        userHasScrolled = false
+        anchorIndex = -1
+        anchorFraction = 0
+    }
+
+    function recordUserScroll() {
+        userHasScrolled = true
+        saveScrollAnchor()
+    }
+
+    function saveScrollAnchor() {
+        if (!userHasScrolled || restoringScroll)
+            return
+        const poemHeader = headerItem
+        if (poemHeader && contentY < poemHeader.y + poemHeader.height) {
+            anchorIndex = -1
+            anchorFraction = Math.max(0, Math.min(1,
+                (contentY - poemHeader.y) / Math.max(1, poemHeader.height)))
+            return
+        }
+        for (let offset = 2; offset <= spacing + 18; offset += 4) {
+            const index = indexAt(width / 2, contentY + offset)
+            const item = index >= 0 ? itemAtIndex(index) : null
+            if (item) {
+                anchorIndex = index
+                anchorFraction = Math.max(0, Math.min(1,
+                    (contentY - item.y) / Math.max(1, item.height)))
+                return
+            }
+        }
+    }
+
+    function restoreScrollAnchor() {
+        if (!userHasScrolled || !visible || poemLoader.loading)
+            return
+        restoringScroll = true
+        if (anchorIndex < 0) {
+            if (headerItem)
+                contentY = headerItem.y + anchorFraction * headerItem.height
+        } else {
+            positionViewAtIndex(anchorIndex, ListView.Beginning)
+            const item = itemAtIndex(anchorIndex)
+            if (item)
+                contentY = item.y + anchorFraction * item.height
+        }
+        restoringScroll = false
+    }
+
+    onContentYChanged: {
+        if (moving)
+            saveScrollAnchor()
+    }
+    onMovementEnded: saveScrollAnchor()
+    onWidthChanged: {
+        if (userHasScrolled)
+            resizeRestore.restart()
+    }
+    onHeightChanged: {
+        if (userHasScrolled)
+            resizeRestore.restart()
+    }
+
+    Timer {
+        id: resizeRestore
+        interval: 40
+        onTriggered: reader.restoreScrollAnchor()
+    }
 
     model: poemLoader.readingRows
     clip: true
     spacing: 8
     boundsBehavior: Flickable.StopAtBounds
-    readonly property real contentInset: poemScrollBar.visible ? poemScrollBar.width + 20 : 0
+    readonly property real contentInset: poemScrollBar.visible
+        ? poemScrollBar.width + (phoneMode ? 8 : 20) : 0
 
     header: ColumnLayout {
-        width: reader.width - 20
-        x: 20
+        width: reader.phoneMode ? Math.max(0, reader.width - x - 8) : reader.width - 20
+        x: reader.phoneMode ? reader.contentInset + 8 : 20
         spacing: 12
         Label {
             LayoutMirroring.enabled: false
@@ -79,15 +155,19 @@ ListView {
         required property string position
         required property string note
         property bool noteExpanded: false
-        readonly property bool stacked: reader.width < 700
+        readonly property bool stacked: reader.phoneMode || reader.width < 700
         width: reader.width
         height: readingContent.height + (kind === "section" ? 24 : 14)
 
         Item {
             id: readingContent
             LayoutMirroring.enabled: false
-            width: Math.min(Math.max(0, verseEntry.width - 48), 1000)
-            x: (verseEntry.width - width + reader.contentInset) / 2
+            width: reader.phoneMode
+                ? Math.min(Math.max(0, verseEntry.width - reader.contentInset - 8), 1000)
+                : Math.min(Math.max(0, verseEntry.width - 48), 1000)
+            x: reader.phoneMode
+                ? reader.contentInset + (verseEntry.width - reader.contentInset - width) / 2
+                : (verseEntry.width - width + reader.contentInset) / 2
             height: verseEntry.kind === "section" ? sectionLabel.implicitHeight
                 : verseEntry.paired
                     ? (verseEntry.stacked
