@@ -49,6 +49,7 @@ ApplicationWindow {
         : poemLoader.loading || poemLoader.error !== "" ? poemLoader.statusText
         : catalogRepository.ready ? "" : catalogRepository.statusText
     property string page: "poets"
+    readonly property bool auxiliaryPage: page === "settings" || page === "favorites" || page === "search"
     readonly property string currentContentTitle: page === "settings" ? "تنظیمات"
         : page === "favorites" ? "نشانک‌ها"
         : page === "search" ? "جستجو" : navigationController.title
@@ -100,10 +101,31 @@ ApplicationWindow {
     }
 
     function showAuxiliaryPage(target) {
-        if (page === target)
+        if (page === target) {
+            if (Qt.platform.os !== "android")
+                returnFromAuxiliaryPage()
             return
+        }
         pageReturnStack = pageReturnStack.concat([page])
         page = target
+    }
+
+    function returnFromAuxiliaryPage() {
+        if (!auxiliaryPage)
+            return
+        if (pageReturnStack.length > 0) {
+            const previousPage = pageReturnStack[pageReturnStack.length - 1]
+            pageReturnStack = pageReturnStack.slice(0, -1)
+            page = previousPage
+        } else {
+            page = navigationController.page
+        }
+        if (!auxiliaryPage) {
+            selectedPoetName = navigationController.poetName
+            selectedPoetUrl = navigationController.poetUrl
+        }
+        if (Qt.platform.os !== "android")
+            root.contentItem.forceActiveFocus()
     }
 
     function showFavorites() {
@@ -117,6 +139,10 @@ ApplicationWindow {
     }
 
     function showSearch() {
+        if (page === "search" && Qt.platform.os !== "android") {
+            returnFromAuxiliaryPage()
+            return
+        }
         const oldPage = page
         searchPage.availablePoetUrl = oldPage === "poet" || oldPage === "collection"
             || oldPage === "poem" ? navigationController.poetUrl : ""
@@ -220,6 +246,16 @@ ApplicationWindow {
         context: Qt.ApplicationShortcut
         enabled: Qt.platform.os === "android" && root.canHandleAndroidBack
         onActivated: root.handleAndroidBack()
+    }
+
+    Shortcut {
+        objectName: "desktopAuxiliaryEscape"
+        sequence: "Escape"
+        context: Qt.ApplicationShortcut
+        enabled: Qt.platform.os !== "android" && root.auxiliaryPage
+            && !navigationDrawer.visible && !overflowMenu.visible && !printMenu.visible
+            && !breadcrumbs.overflowVisible && !settingsPage.readingSizePopupVisible
+        onActivated: root.returnFromAuxiliaryPage()
     }
 
     Shortcut {
@@ -378,6 +414,7 @@ ApplicationWindow {
                 objectName: "favoritesButton"
                 symbol: "\ue866"
                 hint: "نشانک‌ها"
+                selected: root.page === "favorites"
                 font.family: typography.iconFamily
                 visible: !root.compactHeader
                 surfaceColor: colors.surface
@@ -390,6 +427,7 @@ ApplicationWindow {
                 objectName: "searchButton"
                 symbol: "\ue8b6"
                 hint: "جستجو"
+                selected: root.page === "search"
                 font.family: typography.iconFamily
                 visible: !root.compactHeader
                 surfaceColor: colors.surface
@@ -416,6 +454,7 @@ ApplicationWindow {
                 objectName: "settingsButton"
                 symbol: "\ue8b8"
                 hint: "تنظیمات"
+                selected: root.page === "settings"
                 font.family: typography.iconFamily
                 visible: !root.compactHeader
                 surfaceColor: colors.surface
@@ -760,6 +799,7 @@ ApplicationWindow {
                         wrapMode: Text.Wrap
                     }
                     SettingsPage {
+                        id: settingsPage
                         objectName: "settingsPage"
                         visible: root.page === "settings"
                         Layout.fillWidth: true

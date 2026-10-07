@@ -5,6 +5,7 @@ Button {
     id: control
     property string symbol: ""
     property string hint: ""
+    property bool selected: false
     property color surfaceColor: "#191c25"
     property color textColor: "#f3f4f8"
     property color borderColor: "#343946"
@@ -31,7 +32,7 @@ Button {
     background: Rectangle {
         radius: 11
         color: control.down ? control.borderColor : control.surfaceColor
-        border.color: control.activeFocus ? control.focusColor : control.borderColor
-        border.width: control.activeFocus ? 2 : 1
+        border.color: control.activeFocus || control.selected ? control.focusColor : control.borderColor
+        border.width: control.activeFocus || control.selected ? 2 : 1
     }
 }
