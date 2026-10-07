@@ -16,13 +16,21 @@ Item {
     signal activated(string entryType, string fullUrl)
 
     function focusQuery() {
+        if (!root.visible)
+            return
         queryField.forceActiveFocus(Qt.ShortcutFocusReason)
         queryField.selectAll()
+    }
+
+    function releaseQueryFocus() {
+        queryField.focus = false
     }
 
     onVisibleChanged: {
         if (visible)
             Qt.callLater(() => root.focusQuery())
+        else
+            releaseQueryFocus()
     }
 
     function refresh() {

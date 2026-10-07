@@ -588,6 +588,60 @@ int main(int argc, char *argv[])
                 qCritical("The poet biography and collection rows did not share a scroll area");
                 return EXIT_FAILURE;
             }
+            auto *readerToolbar = window->findChild<QQuickItem *>(
+                QStringLiteral("readerToolbar"));
+            auto *actionArea = window->findChild<QQuickItem *>(
+                QStringLiteral("readerActionArea"));
+            auto *bookmarkAction = window->findChild<QQuickItem *>(
+                QStringLiteral("toggleFavoriteButton"));
+            auto *phoneTitle = window->findChild<QQuickItem *>(
+                QStringLiteral("contentTitle"));
+            QObject *headerVersion = window->findChild<QObject *>(
+                QStringLiteral("headerVersion"));
+            QObject *headerSubtitle = window->findChild<QObject *>(
+                QStringLiteral("headerSubtitle"));
+            window->setProperty("simulatePhoneForSmokeTest", true);
+            window->setProperty("width", 390);
+            window->setProperty("height", 760);
+            for (int attempt = 0; attempt < 20; ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            if (!window->property("phoneLayout").toBool()
+                || !window->property("compactHeader").toBool()
+                || !moreButton->property("visible").toBool()
+                || moreButton->property("width").toReal() < 44
+                || moreButton->property("height").toReal() < 44
+                || headerVersion->property("visible").toBool()
+                || headerSubtitle->property("visible").toBool()
+                || !readerToolbar || !actionArea || !bookmarkAction || !phoneTitle
+                || !breadcrumbs->property("phoneMode").toBool()
+                || breadcrumbs->property("collapsed").toBool()
+                || breadcrumbs->property("width").toReal() < readerToolbar->width() - 2
+                || actionArea->y() < breadcrumbs->property("height").toReal()
+                || bookmarkAction->width() < 44 || bookmarkAction->height() < 44
+                || !phoneTitle->isVisible()
+                || contentPane->property("radius").toReal() != 12) {
+                qCritical("The phone portrait header, breadcrumb row, or action targets are invalid");
+                return EXIT_FAILURE;
+            }
+            window->setProperty("width", 780);
+            window->setProperty("height", 440);
+            for (int attempt = 0; attempt < 20; ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            if (!window->property("phoneLayout").toBool()
+                || window->property("stackedReaderToolbar").toBool()
+                || actionArea->y() != 0
+                || bookmarkAction->width() < 44 || bookmarkAction->height() < 44) {
+                qCritical("The phone landscape actions did not fit beside the breadcrumbs");
+                return EXIT_FAILURE;
+            }
+            window->setProperty("simulatePhoneForSmokeTest", false);
+            window->setProperty("width", 600);
+            window->setProperty("height", 760);
+            QCoreApplication::processEvents();
             const auto ghazals = catalogRepository.categoryByUrl(QStringLiteral("/hafez/ghazal"));
             if (!ghazals || !navigationController.openCategory(ghazals->fullUrl, 0, 180)
                 || navigationController.breadcrumbs().size() != 3) {
@@ -693,6 +747,14 @@ int main(int argc, char *argv[])
             for (int attempt = 0; attempt < 20; ++attempt) {
                 QCoreApplication::processEvents();
                 QThread::msleep(10);
+            }
+            if (poemList->property("width").toReal() < 700
+                || poemList->property("phoneMode").toBool()
+                || contentPane->property("radius").toReal() != 18
+                || !headerVersion->property("visible").toBool()
+                || !headerSubtitle->property("visible").toBool()) {
+                qCritical("The wide desktop poem inherited phone-only styling");
+                return EXIT_FAILURE;
             }
             if (window->property("compactHeader").toBool()
                 || !printButton->property("visible").toBool()
@@ -1071,8 +1133,9 @@ int main(int argc, char *argv[])
             }
             QCoreApplication::processEvents();
             if (navigationController.url() != resultUrl
-                || navigationController.breadcrumbs().last().toMap().value(QStringLiteral("url")) != resultUrl) {
-                qCritical("Search result navigation did not reconstruct breadcrumbs");
+                || navigationController.breadcrumbs().last().toMap().value(QStringLiteral("url")) != resultUrl
+                || searchQuery->property("activeFocus").toBool()) {
+                qCritical("Search result navigation left the wrong path or kept search focused");
                 return EXIT_FAILURE;
             }
             if (breadcrumbWarnings != 0) {
