@@ -625,6 +625,25 @@ int main(int argc, char *argv[])
                 qCritical("The phone portrait header, breadcrumb row, or action targets are invalid");
                 return EXIT_FAILURE;
             }
+            QObject *navigationDrawer = window->findChild<QObject *>(
+                QStringLiteral("navigationDrawer"));
+            if (!navigationDrawer || !QMetaObject::invokeMethod(moreButton, "clicked")) {
+                qCritical("The phone navigation button could not open a drawer");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (!navigationDrawer->property("visible").toBool()
+                || navigationDrawer->property("width").toReal() < 250
+                || overflowMenu->property("visible").toBool()) {
+                qCritical("The phone navigation drawer did not open correctly");
+                return EXIT_FAILURE;
+            }
+            QMetaObject::invokeMethod(window, "handleAndroidBack");
+            QCoreApplication::processEvents();
+            if (navigationDrawer->property("visible").toBool()) {
+                qCritical("The phone navigation drawer ignored Back");
+                return EXIT_FAILURE;
+            }
             window->setProperty("width", 780);
             window->setProperty("height", 440);
             for (int attempt = 0; attempt < 20; ++attempt) {

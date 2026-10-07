@@ -38,7 +38,7 @@ ApplicationWindow {
     readonly property color surfaceColor: colors.surface
     readonly property bool canPrintCurrentPoem: printingSupported && page === "poem"
         && printService !== null && printService.available
-    readonly property bool canHandleAndroidBack: overflowMenu.visible || printMenu.visible
+    readonly property bool canHandleAndroidBack: navigationDrawer.visible || overflowMenu.visible || printMenu.visible
         || breadcrumbs.overflowVisible || Qt.inputMethod.visible || page !== "poets"
     readonly property string statusMessage: catalogStartup !== null && !catalogStartup.busy
         && !catalogStartup.ready ? catalogStartup.statusText
@@ -179,6 +179,10 @@ ApplicationWindow {
 
 
     function handleAndroidBack() {
+        if (navigationDrawer.visible) {
+            navigationDrawer.close()
+            return
+        }
         if (overflowMenu.visible) {
             overflowMenu.close()
             return
@@ -424,7 +428,7 @@ ApplicationWindow {
                 id: moreButton
                 objectName: "moreButton"
                 symbol: "\ue5d4"
-                hint: "گزینه‌های بیشتر"
+                hint: root.phoneLayout ? "باز کردن فهرست" : "گزینه‌های بیشتر"
                 font.family: typography.iconFamily
                 visible: root.compactHeader
                 Layout.minimumWidth: 44
@@ -433,7 +437,44 @@ ApplicationWindow {
                 textColor: colors.foreground
                 borderColor: colors.border
                 focusColor: colors.focus
-                onClicked: overflowMenu.popup(moreButton, 0, moreButton.height + 8)
+                contentItem: Item {
+                    Text {
+                        anchors.fill: parent
+                        visible: !root.phoneLayout
+                        text: moreButton.symbol
+                        color: moreButton.enabled ? moreButton.textColor : moreButton.borderColor
+                        font.family: typography.iconFamily
+                        font.pixelSize: 24
+                        horizontalAlignment: Text.AlignHCenter
+                        verticalAlignment: Text.AlignVCenter
+                    }
+                    Column {
+                        anchors.centerIn: parent
+                        visible: root.phoneLayout
+                        spacing: 4
+                        Repeater {
+                            model: 3
+                            Rectangle {
+                                width: 20
+                                height: 2
+                                radius: 1
+                                color: moreButton.enabled ? moreButton.textColor : moreButton.borderColor
+                            }
+                        }
+                    }
+                }
+                onClicked: {
+                    if (root.phoneLayout) {
+                        if (root.page === "search") {
+                            searchPage.releaseQueryFocus()
+                            root.contentItem.forceActiveFocus()
+                            Qt.inputMethod.hide()
+                        }
+                        navigationDrawer.open()
+                    } else {
+                        overflowMenu.popup(moreButton, 0, moreButton.height + 8)
+                    }
+                }
             }
         }
 
@@ -960,6 +1001,107 @@ ApplicationWindow {
                 from: 0
                 to: 100
                 value: root.catalogStartup === null ? 0 : root.catalogStartup.progress
+            }
+        }
+    }
+
+    Drawer {
+        id: navigationDrawer
+        objectName: "navigationDrawer"
+        edge: Qt.RightEdge
+        y: 0
+        width: Math.min(320, root.width * 0.84)
+        height: root.height
+        padding: 0
+        modal: true
+        dim: true
+        interactive: root.phoneLayout
+        closePolicy: Popup.CloseOnEscape | Popup.CloseOnPressOutside
+        onClosed: {
+            if (root.page !== "search" && Qt.platform.os === "android") {
+                searchPage.releaseQueryFocus()
+                root.contentItem.forceActiveFocus()
+                Qt.inputMethod.hide()
+            }
+        }
+        Overlay.modal: Rectangle { color: "#80000000" }
+        background: Rectangle {
+            radius: 0
+            color: colors.surface
+            border.color: colors.border
+        }
+        contentItem: Item {
+            LayoutMirroring.enabled: false
+            LayoutMirroring.childrenInherit: true
+            Column {
+                anchors.fill: parent
+                anchors.margins: 16
+                spacing: 6
+                Label {
+                    width: parent.width
+                    height: 52
+                    text: "فهرست"
+                    color: colors.foreground
+                    font.family: typography.family
+                    font.pixelSize: 20
+                    font.weight: Font.DemiBold
+                    horizontalAlignment: Text.AlignRight
+                    verticalAlignment: Text.AlignVCenter
+                }
+                Repeater {
+                    model: [
+                        { title: "شاعران", target: "poets", icon: "\ue865" },
+                        { title: "نشانک‌ها", target: "favorites", icon: "\ue866" },
+                        { title: "جستجو", target: "search", icon: "\ue8b6" },
+                        { title: "تنظیمات", target: "settings", icon: "\ue8b8" }
+                    ]
+                    delegate: Button {
+                        id: drawerDestination
+                        objectName: "drawerDestination"
+                        required property var modelData
+                        readonly property bool selected: modelData.target === "poets"
+                            ? root.page !== "favorites" && root.page !== "search" && root.page !== "settings"
+                            : root.page === modelData.target
+                        width: parent.width
+                        height: 56
+                        text: modelData.title
+                        Accessible.name: text
+                        onClicked: {
+                            navigationDrawer.close()
+                            if (modelData.target === "poets") root.showPoets()
+                            else if (modelData.target === "favorites") root.showFavorites()
+                            else if (modelData.target === "search") root.showSearch()
+                            else root.showSettings()
+                        }
+                        contentItem: Item {
+                            Row {
+                                anchors.right: parent.right
+                                anchors.rightMargin: 16
+                                anchors.verticalCenter: parent.verticalCenter
+                                layoutDirection: Qt.RightToLeft
+                                spacing: 12
+                                Text {
+                                    text: drawerDestination.modelData.icon
+                                    color: drawerDestination.selected ? colors.accent : colors.foreground
+                                    font.family: typography.iconFamily
+                                    font.pixelSize: 24
+                                }
+                                Text {
+                                    text: drawerDestination.text
+                                    color: colors.foreground
+                                    font.family: typography.family
+                                    font.pixelSize: 17
+                                }
+                            }
+                        }
+                        background: Rectangle {
+                            radius: 12
+                            color: drawerDestination.selected || drawerDestination.down
+                                ? colors.surfaceRaised : "transparent"
+                            border.color: drawerDestination.selected ? colors.accent : "transparent"
+                        }
+                    }
+                }
             }
         }
     }
