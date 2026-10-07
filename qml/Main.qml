@@ -17,12 +17,14 @@ ApplicationWindow {
     required property var bookmarkStore
     property var printService: null
     property var catalogStartup: null
+    property bool simulatePhoneForSmokeTest: false
     readonly property bool printingSupported: Qt.platform.os !== "android"
-    readonly property bool phoneLayout: Qt.platform.os === "android"
+    readonly property bool phoneLayout: (Qt.platform.os === "android" || simulatePhoneForSmokeTest)
         && (width < 600 || height < 500)
     readonly property bool compactHeader: width < 760 || phoneLayout
     readonly property bool compactBrowse: width < 760 || phoneLayout
-    readonly property bool shortAndroidView: Qt.platform.os === "android" && height < 500
+    readonly property bool shortAndroidView: (Qt.platform.os === "android" || simulatePhoneForSmokeTest)
+        && height < 500
     readonly property bool stackedReaderToolbar: compactBrowse && !shortAndroidView
     readonly property real keyboardInset: Qt.platform.os === "android" && Qt.inputMethod.visible
         && Qt.inputMethod.keyboardRectangle.height > 0
@@ -54,14 +56,22 @@ ApplicationWindow {
     onPageChanged: {
         if (page !== "poem")
             printMenu.close()
+        if (page !== "search" && Qt.platform.os === "android")
+            Qt.callLater(() => {
+                if (page !== "search") {
+                    searchPage.releaseQueryFocus()
+                    root.contentItem.forceActiveFocus()
+                    Qt.inputMethod.hide()
+                }
+            })
     }
     property string selectedPoetName: ""
     property string selectedPoetUrl: ""
 
     width: 1120
     height: 760
-    minimumWidth: Qt.platform.os === "android" ? 0 : 500
-    minimumHeight: Qt.platform.os === "android" ? 0 : 440
+    minimumWidth: Qt.platform.os === "android" || simulatePhoneForSmokeTest ? 0 : 500
+    minimumHeight: Qt.platform.os === "android" || simulatePhoneForSmokeTest ? 0 : 440
     visible: true
     onClosing: (event) => {
         if (Qt.platform.os === "android" && canHandleAndroidBack) {
@@ -595,16 +605,25 @@ ApplicationWindow {
                     visible: root.page !== "poets"
                     Item {
                         id: readerToolbar
+                        objectName: "readerToolbar"
                         Layout.fillWidth: true
                         Layout.preferredHeight: root.stackedReaderToolbar
                             ? (root.phoneLayout ? 84 : 86) : 44
                         visible: root.page === "poet" || root.page === "collection" || root.page === "poem"
                         readonly property real landscapeCrumbWidth: Math.max(160,
                             Math.min(breadcrumbs.fullCrumbWidth, 250))
+                        TextMetrics {
+                            id: inlineTitleMeasure
+                            text: root.currentContentTitle
+                            font.family: typography.family
+                            font.pixelSize: 24
+                            font.weight: Font.DemiBold
+                        }
                         readonly property bool inlinePhoneTitle: root.phoneLayout
                             && root.shortAndroidView
                             && (root.page === "poet" || root.page === "collection" || root.page === "poem")
-                            && inlineTitle.implicitWidth + actionRow.width + landscapeCrumbWidth + 24 <= width
+                            && inlineTitleMeasure.advanceWidth + actionRow.width
+                                + landscapeCrumbWidth + 24 <= width
                         BreadcrumbBar {
                             id: breadcrumbs
                             objectName: "breadcrumbBar"
