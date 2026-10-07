@@ -729,6 +729,64 @@ int main(int argc, char *argv[])
                 qCritical("The poem summary and verses did not share a scroll area");
                 return EXIT_FAILURE;
             }
+            QObject *hideTranslationsSwitch = window->findChild<QObject *>(
+                QStringLiteral("hidePoemTranslationsSwitch"));
+            poemList->setProperty("contentY", poemHeader->height());
+            for (int attempt = 0; attempt < 8; ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            QObject *meaningBlock = nullptr;
+            for (int index = 0; index < poemList->property("count").toInt(); ++index) {
+                QQuickItem *verseItem = nullptr;
+                if (!QMetaObject::invokeMethod(poemList, "itemAtIndex",
+                                               Q_RETURN_ARG(QQuickItem *, verseItem),
+                                               Q_ARG(int, index)) || !verseItem)
+                    continue;
+                QObject *candidate = verseItem->findChild<QObject *>(
+                    QStringLiteral("poemMeaningBlock"));
+                if (candidate && candidate->property("visible").toBool()) {
+                    meaningBlock = candidate;
+                    break;
+                }
+            }
+            if (!hideTranslationsSwitch || hideTranslationsSwitch->property("checked").toBool()
+                || !meaningBlock) {
+                qCritical("Verse meanings or their setting were unavailable");
+                return EXIT_FAILURE;
+            }
+            QQuickItem *translationIndicator = hideTranslationsSwitch->findChild<QQuickItem *>(
+                QStringLiteral("translationIndicator"));
+            QQuickItem *translationLabel = hideTranslationsSwitch->findChild<QQuickItem *>(
+                QStringLiteral("translationLabel"));
+            if (!translationIndicator || !translationLabel
+                || translationIndicator->x() > 24
+                || translationLabel->x() + translationLabel->width()
+                    < hideTranslationsSwitch->property("width").toReal() - 32
+                || translationLabel->property("horizontalAlignment").toInt() != Qt::AlignRight) {
+                std::fprintf(stderr, "The hide-translations setting is not right aligned: indicator=%p x=%g label=%p right=%g row=%g align=%d\n",
+                             static_cast<void *>(translationIndicator),
+                             translationIndicator ? translationIndicator->x() : -1,
+                             static_cast<void *>(translationLabel),
+                             translationLabel ? translationLabel->x() + translationLabel->width() : -1,
+                             hideTranslationsSwitch->property("width").toReal(),
+                             translationLabel ? translationLabel->property("horizontalAlignment").toInt() : -1);
+                return EXIT_FAILURE;
+            }
+            settingsStore.setHidePoemTranslations(true);
+            QCoreApplication::processEvents();
+            if (meaningBlock->property("visible").toBool()
+                || !hideTranslationsSwitch->property("checked").toBool()) {
+                qCritical("The hide-translations setting did not hide verse meanings");
+                return EXIT_FAILURE;
+            }
+            settingsStore.setHidePoemTranslations(false);
+            QCoreApplication::processEvents();
+            if (!meaningBlock->property("visible").toBool()) {
+                qCritical("Verse meanings did not reappear when the setting was disabled");
+                return EXIT_FAILURE;
+            }
+            poemList->setProperty("contentY", -poemHeader->height());
             const qreal poemTop = -poemHeader->height();
             poemList->setProperty("contentY", poemTop + 20);
             settingsStore.setReadingSize(30);

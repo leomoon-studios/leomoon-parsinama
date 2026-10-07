@@ -239,6 +239,65 @@ ScrollView {
             horizontalAlignment: Text.AlignRight
             wrapMode: Text.Wrap
         }
+        Button {
+            id: hidePoemTranslationsSwitch
+            objectName: "hidePoemTranslationsSwitch"
+            Layout.fillWidth: true
+            Layout.topMargin: 12
+            LayoutMirroring.enabled: false
+            implicitHeight: 48
+            text: "پنهان کردن معنی بیت‌ها"
+            checked: root.settingsStore.hidePoemTranslations
+            onClicked: root.settingsStore.setHidePoemTranslations(!checked)
+            Accessible.name: text
+            Accessible.role: Accessible.CheckBox
+            Accessible.checked: checked
+            font.family: root.typography.family
+            font.pixelSize: 16
+            padding: 0
+            contentItem: Item {
+                Text {
+                    id: translationLabel
+                    objectName: "translationLabel"
+                    x: parent.width - width - 16
+                    y: (parent.height - height) / 2
+                    text: hidePoemTranslationsSwitch.text
+                    font: hidePoemTranslationsSwitch.font
+                    color: root.appTheme.foreground
+                    horizontalAlignment: Text.AlignRight
+                }
+                Rectangle {
+                    id: translationIndicator
+                    objectName: "translationIndicator"
+                    x: 12
+                    y: (parent.height - height) / 2
+                    width: 42
+                    height: 24
+                    radius: 12
+                    color: hidePoemTranslationsSwitch.checked
+                        ? root.appTheme.accent : root.appTheme.surfaceRaised
+                    border.color: hidePoemTranslationsSwitch.checked
+                        ? root.appTheme.accent : root.appTheme.border
+                    Rectangle {
+                        x: hidePoemTranslationsSwitch.checked ? 3 : parent.width - width - 3
+                        y: 3
+                        width: 18
+                        height: 18
+                        radius: 9
+                        color: hidePoemTranslationsSwitch.checked
+                            ? root.appTheme.accentText : root.appTheme.muted
+                    }
+                }
+            }
+            background: Rectangle {
+                radius: 10
+                color: hidePoemTranslationsSwitch.down
+                    ? root.appTheme.surfaceRaised : root.appTheme.surface
+                border.color: hidePoemTranslationsSwitch.activeFocus
+                    ? root.appTheme.focus : root.appTheme.border
+                border.width: hidePoemTranslationsSwitch.activeFocus ? 2 : 1
+            }
+        }
         Label {
             objectName: "settingsVersion"
             Layout.fillWidth: true

@@ -68,19 +68,22 @@ bool SettingsStore::reload()
     const QString accentPreset = version == 1 ? QStringLiteral("purple")
         : object.value(QStringLiteral("accentPreset")).toString();
     const QJsonValue readingSize = object.value(QStringLiteral("readingSize"));
+    const QJsonValue hidePoemTranslations = object.value(QStringLiteral("hidePoemTranslations"));
     if ((version != 1 && version != settingsVersion)
         || (theme != QLatin1String("dark") && theme != QLatin1String("light"))
         || !validAccentPreset(accentPreset)
         || !readingSize.isDouble()
         || readingSize.toDouble() != readingSize.toInt()
         || readingSize.toInt() < minimumReadingSize
-        || readingSize.toInt() > maximumReadingSize) {
+        || readingSize.toInt() > maximumReadingSize
+        || (!hidePoemTranslations.isUndefined() && !hidePoemTranslations.isBool())) {
         setError(QStringLiteral("نسخه یا مقدارهای تنظیمات معتبر نیست."));
         return false;
     }
     m_theme = theme;
     m_accentPreset = accentPreset;
     m_readingSize = readingSize.toInt();
+    m_hidePoemTranslations = hidePoemTranslations.toBool(false);
     setError({});
     emit settingsChanged();
     return true;
@@ -101,7 +104,8 @@ bool SettingsStore::save()
         {QStringLiteral("version"), settingsVersion},
         {QStringLiteral("theme"), m_theme},
         {QStringLiteral("accentPreset"), m_accentPreset},
-        {QStringLiteral("readingSize"), m_readingSize}
+        {QStringLiteral("readingSize"), m_readingSize},
+        {QStringLiteral("hidePoemTranslations"), m_hidePoemTranslations}
     };
     const QByteArray data = QJsonDocument(object).toJson(QJsonDocument::Indented);
     if (file.write(data) != data.size()
@@ -141,6 +145,16 @@ void SettingsStore::setReadingSize(int size)
         return;
     }
     m_readingSize = bounded;
+    emit settingsChanged();
+    save();
+}
+
+void SettingsStore::setHidePoemTranslations(bool hide)
+{
+    if (m_hidePoemTranslations == hide) {
+        return;
+    }
+    m_hidePoemTranslations = hide;
     emit settingsChanged();
     save();
 }

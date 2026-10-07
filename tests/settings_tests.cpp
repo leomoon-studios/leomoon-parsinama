@@ -19,6 +19,7 @@ private slots:
     void persistsThemeAndReadingSize();
     void rejectsInvalidSettings();
     void readsPreviousSettingsVersion();
+    void readsSettingsWithoutTranslationPreference();
 };
 
 void SettingsTests::pathsUsePlatformConfigDirectory()
@@ -56,6 +57,7 @@ void SettingsTests::createsDefaultSettingsOnFirstRun()
     QCOMPARE(settings.theme(), QStringLiteral("light"));
     QCOMPARE(settings.accentPreset(), QStringLiteral("purple"));
     QCOMPARE(settings.readingSize(), 16);
+    QVERIFY(!settings.hidePoemTranslations());
 
     QFile file(path);
     QVERIFY(file.open(QIODevice::ReadOnly));
@@ -64,6 +66,7 @@ void SettingsTests::createsDefaultSettingsOnFirstRun()
     QCOMPARE(document.value(QStringLiteral("theme")).toString(), QStringLiteral("light"));
     QCOMPARE(document.value(QStringLiteral("accentPreset")).toString(), QStringLiteral("purple"));
     QCOMPARE(document.value(QStringLiteral("readingSize")).toInt(), 16);
+    QCOMPARE(document.value(QStringLiteral("hidePoemTranslations")).toBool(), false);
 }
 
 void SettingsTests::persistsThemeAndReadingSize()
@@ -81,6 +84,7 @@ void SettingsTests::persistsThemeAndReadingSize()
         settings.setAccentPreset(QStringLiteral("invalid"));
         QCOMPARE(settings.accentPreset(), QStringLiteral("teal"));
         settings.setReadingSize(29);
+        settings.setHidePoemTranslations(true);
         QVERIFY(settings.error().isEmpty());
         settings.setReadingSize(100);
         QCOMPARE(settings.readingSize(), 40);
@@ -90,6 +94,7 @@ void SettingsTests::persistsThemeAndReadingSize()
     QCOMPARE(restored.theme(), QStringLiteral("dark"));
     QCOMPARE(restored.accentPreset(), QStringLiteral("teal"));
     QCOMPARE(restored.readingSize(), 29);
+    QVERIFY(restored.hidePoemTranslations());
     restored.toggleTheme();
     QCOMPARE(restored.theme(), QStringLiteral("light"));
     QFile file(restored.filePath());
@@ -99,6 +104,7 @@ void SettingsTests::persistsThemeAndReadingSize()
     QCOMPARE(document.value(QStringLiteral("theme")).toString(), QStringLiteral("light"));
     QCOMPARE(document.value(QStringLiteral("accentPreset")).toString(), QStringLiteral("teal"));
     QCOMPARE(document.value(QStringLiteral("readingSize")).toInt(), 29);
+    QCOMPARE(document.value(QStringLiteral("hidePoemTranslations")).toBool(), true);
     QVERIFY(!QFile::exists(restored.filePath() + QStringLiteral(".tmp")));
 }
 
@@ -116,6 +122,21 @@ void SettingsTests::readsPreviousSettingsVersion()
     QCOMPARE(settings.theme(), QStringLiteral("light"));
     QCOMPARE(settings.readingSize(), 29);
     QCOMPARE(settings.accentPreset(), QStringLiteral("purple"));
+    QVERIFY(!settings.hidePoemTranslations());
+}
+
+void SettingsTests::readsSettingsWithoutTranslationPreference()
+{
+    QTemporaryDir configBase;
+    QVERIFY(configBase.isValid());
+    QVERIFY(UserDataPaths::ensureDirectory(configBase.path()));
+    QFile file(UserDataPaths::settingsFile(configBase.path()));
+    QVERIFY(file.open(QIODevice::WriteOnly));
+    QVERIFY(file.write("{\"version\":2,\"theme\":\"dark\",\"accentPreset\":\"teal\",\"readingSize\":20}") > 0);
+    file.close();
+    SettingsStore settings(configBase.path());
+    QVERIFY(settings.error().isEmpty());
+    QVERIFY(!settings.hidePoemTranslations());
 }
 
 void SettingsTests::rejectsInvalidSettings()

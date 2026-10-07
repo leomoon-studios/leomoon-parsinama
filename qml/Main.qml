@@ -46,7 +46,7 @@ ApplicationWindow {
         : printService !== null && printService.error !== "" ? printService.error
         : settingsStore.error !== "" ? settingsStore.error
         : navigationController.error !== "" ? navigationController.error
-        : poemLoader.loading || poemLoader.error !== "" ? poemLoader.statusText
+        : poemLoader.error !== "" ? poemLoader.statusText
         : catalogRepository.ready ? "" : catalogRepository.statusText
     property string page: "poets"
     readonly property bool auxiliaryPage: page === "settings" || page === "favorites" || page === "search"
@@ -960,6 +960,7 @@ ApplicationWindow {
                     PoemPage {
                         id: poemList
                         visible: root.page === "poem"
+                        opacity: root.poemLoader.loading || root.poemScrollPending ? 0 : 1
                         Layout.fillWidth: true
                         Layout.fillHeight: true
                         poemLoader: root.poemLoader
