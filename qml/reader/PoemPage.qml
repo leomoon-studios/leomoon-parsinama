@@ -232,7 +232,9 @@ ListView {
             }
             Column {
                 id: noteBlock
+                objectName: "poemMeaningBlock"
                 visible: verseEntry.kind === "verse" && verseEntry.note !== ""
+                    && !reader.settingsStore.hidePoemTranslations
                 width: parent.width
                 y: verseEntry.paired
                     ? (verseEntry.stacked
