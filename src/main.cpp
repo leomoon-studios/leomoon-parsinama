@@ -19,6 +19,7 @@
 #include <QFont>
 #include <QFileInfo>
 #include <QGuiApplication>
+#include <QKeyEvent>
 #ifdef Q_OS_ANDROID
 #include <QJniEnvironment>
 #include <QPointer>
@@ -741,6 +742,67 @@ int main(int argc, char *argv[])
             }
             settingsStore.setReadingSize(29);
 #ifndef Q_OS_ANDROID
+            window->setProperty("width", 800);
+            QCoreApplication::processEvents();
+            const qreal readingPosition = poemList->property("contentY").toReal();
+            QObject *auxSearchButton = window->findChild<QObject *>(QStringLiteral("searchButton"));
+            QObject *desktopEscape = window->findChild<QObject *>(
+                QStringLiteral("desktopAuxiliaryEscape"));
+            if (!auxSearchButton || !desktopEscape
+                || !settingsButton->property("visible").toBool()
+                || !auxSearchButton->property("visible").toBool()
+                || !favoritesButton->property("visible").toBool()
+                || !QMetaObject::invokeMethod(settingsButton, "clicked")) {
+                qCritical("The desktop settings button did not open from a poem");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (window->property("page").toString() != QStringLiteral("settings")
+                || !settingsButton->property("selected").toBool()
+                || !desktopEscape->property("enabled").toBool()
+                || !QMetaObject::invokeMethod(auxSearchButton, "clicked")) {
+                qCritical("The desktop auxiliary toolbar state was incorrect");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            QKeyEvent escapePress(QEvent::KeyPress, Qt::Key_Escape, Qt::NoModifier);
+            QKeyEvent escapeRelease(QEvent::KeyRelease, Qt::Key_Escape, Qt::NoModifier);
+            QCoreApplication::sendEvent(window, &escapePress);
+            QCoreApplication::sendEvent(window, &escapeRelease);
+            QCoreApplication::processEvents();
+            auto *settingsActionItem = qobject_cast<QQuickItem *>(settingsButton);
+            if (settingsActionItem)
+                settingsActionItem->forceActiveFocus();
+            if (window->property("page").toString() != QStringLiteral("settings")
+                || !QMetaObject::invokeMethod(settingsButton, "clicked")) {
+                qCritical("Escape did not return to the preceding desktop page");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (window->property("page").toString() != QStringLiteral("poem")
+                || settingsButton->property("selected").toBool()
+                || settingsButton->property("activeFocus").toBool()
+                || qAbs(poemList->property("contentY").toReal() - readingPosition) > 1) {
+                qCritical("Toggling desktop Settings did not restore the poem position");
+                return EXIT_FAILURE;
+            }
+            if (!QMetaObject::invokeMethod(favoritesButton, "clicked")) {
+                qCritical("The desktop bookmarks button did not open from a poem");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (window->property("page").toString() != QStringLiteral("favorites")
+                || !favoritesButton->property("selected").toBool()
+                || !QMetaObject::invokeMethod(favoritesButton, "clicked")) {
+                qCritical("The desktop bookmarks button did not toggle");
+                return EXIT_FAILURE;
+            }
+            QCoreApplication::processEvents();
+            if (window->property("page").toString() != QStringLiteral("poem")
+                || qAbs(poemList->property("contentY").toReal() - readingPosition) > 1) {
+                qCritical("Toggling desktop Bookmarks did not restore the poem position");
+                return EXIT_FAILURE;
+            }
             QTemporaryDir printOutput;
             const QString pdfPath = printOutput.filePath(QStringLiteral("poem.pdf"));
             if (!printOutput.isValid() || !printService.exportCurrentPoemPdf(pdfPath)
