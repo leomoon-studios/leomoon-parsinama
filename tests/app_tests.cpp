@@ -44,7 +44,7 @@ void AppTests::persianShellLoads()
 {
     int exitCode = -1;
     const QByteArray output = runApp({QStringLiteral("--smoke-test")}, &exitCode);
-    QCOMPARE(exitCode, 0);
+    QVERIFY2(exitCode == 0, output.constData());
     QVERIFY2(!output.contains("QQmlApplicationEngine failed"), output.constData());
 }
 
