@@ -54,6 +54,8 @@ ApplicationWindow {
         : page === "favorites" ? "نشانک‌ها"
         : page === "search" ? "جستجو" : navigationController.title
     property var pageReturnStack: []
+    property real auxiliaryPoemOffset: 0
+    property bool auxiliaryPoemRestorePending: false
     onPageChanged: {
         if (page !== "poem")
             printMenu.close()
@@ -106,8 +108,20 @@ ApplicationWindow {
                 returnFromAuxiliaryPage()
             return
         }
+        if (Qt.platform.os !== "android" && page === "poem") {
+            auxiliaryPoemOffset = poemList.contentY
+                + (poemList.headerItem ? poemList.headerItem.height : 0)
+            auxiliaryPoemRestorePending = false
+            auxiliaryPoemRestoreTimer.stop()
+        }
         pageReturnStack = pageReturnStack.concat([page])
         page = target
+    }
+
+    function restoreAuxiliaryPoemOffset() {
+        if (auxiliaryPoemRestorePending && page === "poem")
+            poemList.contentY = auxiliaryPoemOffset
+                - (poemList.headerItem ? poemList.headerItem.height : 0)
     }
 
     function returnFromAuxiliaryPage() {
@@ -123,6 +137,12 @@ ApplicationWindow {
         if (!auxiliaryPage) {
             selectedPoetName = navigationController.poetName
             selectedPoetUrl = navigationController.poetUrl
+        }
+        if (Qt.platform.os !== "android" && page === "poem") {
+            auxiliaryPoemRestorePending = true
+            restoreAuxiliaryPoemOffset()
+            Qt.callLater(() => root.restoreAuxiliaryPoemOffset())
+            auxiliaryPoemRestoreTimer.restart()
         }
         if (Qt.platform.os !== "android") {
             if (page === "poem")
@@ -292,6 +312,15 @@ ApplicationWindow {
     property bool poemScrollPending: false
 
     Timer {
+        id: auxiliaryPoemRestoreTimer
+        interval: 80
+        onTriggered: {
+            root.restoreAuxiliaryPoemOffset()
+            root.auxiliaryPoemRestorePending = false
+        }
+    }
+
+    Timer {
         id: collectionScrollTimer
         interval: 30
         onTriggered: root.restoreCollectionScroll()
@@ -306,6 +335,8 @@ ApplicationWindow {
     Connections {
         target: root.navigationController
         function onStateChanged() {
+            root.auxiliaryPoemRestorePending = false
+            auxiliaryPoemRestoreTimer.stop()
             root.pageReturnStack = []
             root.page = root.navigationController.page
             root.selectedPoetName = root.navigationController.poetName
@@ -974,10 +1005,14 @@ ApplicationWindow {
                         typography: typography
                         phoneMode: root.phoneLayout
                         onContentHeightChanged: {
+                            if (root.auxiliaryPoemRestorePending)
+                                Qt.callLater(() => root.restoreAuxiliaryPoemOffset())
                             if (root.poemScrollPending && !root.poemLoader.loading)
                                 poemScrollTimer.restart()
                         }
                         onMovementStarted: {
+                            root.auxiliaryPoemRestorePending = false
+                            auxiliaryPoemRestoreTimer.stop()
                             root.poemScrollPending = false
                             poemScrollTimer.stop()
                             poemList.recordUserScroll()
@@ -986,6 +1021,10 @@ ApplicationWindow {
                     Connections {
                         target: poemList.headerItem
                         function onHeightChanged() {
+                            if (root.auxiliaryPoemRestorePending) {
+                                Qt.callLater(() => root.restoreAuxiliaryPoemOffset())
+                                auxiliaryPoemRestoreTimer.restart()
+                            }
                             if (root.poemScrollPending && !root.poemLoader.loading)
                                 poemScrollTimer.restart()
                         }
