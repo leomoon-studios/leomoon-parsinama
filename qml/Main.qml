@@ -124,8 +124,12 @@ ApplicationWindow {
             selectedPoetName = navigationController.poetName
             selectedPoetUrl = navigationController.poetUrl
         }
-        if (Qt.platform.os !== "android")
-            root.contentItem.forceActiveFocus()
+        if (Qt.platform.os !== "android") {
+            if (page === "poem")
+                poemList.forceActiveFocus()
+            else
+                root.contentItem.forceActiveFocus()
+        }
     }
 
     function showFavorites() {
