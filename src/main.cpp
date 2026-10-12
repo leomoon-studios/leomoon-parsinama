@@ -841,7 +841,12 @@ int main(int argc, char *argv[])
                 || settingsButton->property("selected").toBool()
                 || settingsButton->property("activeFocus").toBool()
                 || qAbs(poemList->property("contentY").toReal() - readingPosition) > 1) {
-                qCritical("Toggling desktop Settings did not restore the poem position");
+                qCritical().noquote() << "Toggling desktop Settings did not restore the poem position:"
+                                      << "page=" << window->property("page").toString()
+                                      << "selected=" << settingsButton->property("selected").toBool()
+                                      << "focus=" << settingsButton->property("activeFocus").toBool()
+                                      << "contentY=" << poemList->property("contentY").toReal()
+                                      << "expected=" << readingPosition;
                 return EXIT_FAILURE;
             }
             if (!QMetaObject::invokeMethod(favoritesButton, "clicked")) {
