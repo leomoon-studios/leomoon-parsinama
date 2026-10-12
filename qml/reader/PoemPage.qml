@@ -12,6 +12,8 @@ ListView {
     required property var settingsStore
     required property var appTheme
     required property var typography
+    readonly property string poemFontFamily: settingsStore.poemFont === "irannastaliq"
+        ? typography.nastaliqFamily : typography.family
     property bool phoneMode: false
     property bool userHasScrolled: false
     property bool restoringScroll: false
@@ -178,25 +180,27 @@ ListView {
 
             Text {
                 id: sectionLabel
+                objectName: "poemSectionText"
                 visible: verseEntry.kind === "section"
                 width: parent.width
                 text: verseEntry.text
                 textFormat: Text.PlainText
                 color: reader.appTheme.muted
-                font.family: reader.typography.family
+                font.family: reader.poemFontFamily
                 font.pixelSize: Math.max(17, reader.settingsStore.readingSize - 2)
                 font.weight: Font.DemiBold
                 horizontalAlignment: Text.AlignHCenter
             }
             Text {
                 id: rightVerse
+                objectName: "poemRightVerseText"
                 visible: verseEntry.kind === "verse" && verseEntry.paired
                 width: verseEntry.stacked ? readingContent.width : (readingContent.width - 28) / 2
                 x: verseEntry.stacked ? 0 : readingContent.width - width
                 text: verseEntry.rightText
                 textFormat: Text.PlainText
                 color: reader.appTheme.foreground
-                font.family: reader.typography.family
+                font.family: reader.poemFontFamily
                 font.pixelSize: reader.settingsStore.readingSize
                 horizontalAlignment: verseEntry.stacked ? Text.AlignHCenter
                     : lineCount > 1 ? Text.AlignJustify : Text.AlignHCenter
@@ -204,13 +208,14 @@ ListView {
             }
             Text {
                 id: leftVerse
+                objectName: "poemLeftVerseText"
                 visible: verseEntry.kind === "verse" && verseEntry.paired
                 width: verseEntry.stacked ? readingContent.width : (readingContent.width - 28) / 2
                 y: verseEntry.stacked ? rightVerse.implicitHeight + 10 : 0
                 text: verseEntry.leftText
                 textFormat: Text.PlainText
                 color: reader.appTheme.foreground
-                font.family: reader.typography.family
+                font.family: reader.poemFontFamily
                 font.pixelSize: reader.settingsStore.readingSize
                 horizontalAlignment: verseEntry.stacked ? Text.AlignHCenter
                     : lineCount > 1 ? Text.AlignJustify : Text.AlignHCenter
@@ -218,12 +223,13 @@ ListView {
             }
             Text {
                 id: singleVerse
+                objectName: "poemSingleVerseText"
                 visible: verseEntry.kind === "verse" && !verseEntry.paired
                 width: readingContent.width
                 text: verseEntry.text
                 textFormat: Text.PlainText
                 color: reader.appTheme.foreground
-                font.family: reader.typography.family
+                font.family: reader.poemFontFamily
                 font.pixelSize: reader.settingsStore.readingSize
                 horizontalAlignment: verseEntry.position === "Paragraph"
                     || verseEntry.position === "Comment"

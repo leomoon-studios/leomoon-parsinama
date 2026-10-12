@@ -137,6 +137,33 @@ ScrollView {
         }
 
         Label {
+            text: "قلم شعر"
+            color: root.appTheme.foreground
+            font.pixelSize: 18
+            font.weight: Font.DemiBold
+        }
+        RowLayout {
+            Layout.fillWidth: true
+            spacing: 8
+            SettingsChoice {
+                objectName: "poemFontChoiceVazirmatn"
+                Layout.fillWidth: true
+                appTheme: root.appTheme
+                text: "وزیرمتن"
+                selected: root.settingsStore.poemFont === "vazirmatn"
+                onClicked: root.settingsStore.setPoemFont("vazirmatn")
+            }
+            SettingsChoice {
+                objectName: "poemFontChoiceIranNastaliq"
+                Layout.fillWidth: true
+                appTheme: root.appTheme
+                text: "ایران‌نستعلیق"
+                selected: root.settingsStore.poemFont === "irannastaliq"
+                onClicked: root.settingsStore.setPoemFont("irannastaliq")
+            }
+        }
+
+        Label {
             text: "اندازهٔ متن شعر"
             color: root.appTheme.foreground
             font.pixelSize: 18
@@ -233,6 +260,8 @@ ScrollView {
             objectName: "readingSizePreview"
             text: "بنی‌آدم اعضای یکدیگرند"
             LayoutMirroring.enabled: false
+            font.family: root.settingsStore.poemFont === "irannastaliq"
+                ? root.typography.nastaliqFamily : root.typography.family
             font.pixelSize: root.settingsStore.readingSize
             color: root.appTheme.foreground
             Layout.fillWidth: true

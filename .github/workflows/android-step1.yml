@@ -7,8 +7,8 @@ permissions:
   contents: read
 
 env:
-  QT_VERSION: 6.8.3
-  ANDROID_NDK_VERSION: 26.1.10909125
+  QT_VERSION: 6.11.2
+  ANDROID_NDK_VERSION: 27.2.12479018
 
 jobs:
   compile:
@@ -19,6 +19,12 @@ jobs:
       - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
         with:
           fetch-depth: 0
+
+      - name: Set up JDK 21
+        uses: actions/setup-java@dded0888837ed1f317902acf8a20df0ad188d165 # v4
+        with:
+          distribution: temurin
+          java-version: '21'
 
       - name: Install Qt host tools
         uses: jurplel/install-qt-action@a9c63c7c123f3069cff414e7e482d95dfa9d8125 # v4
@@ -56,7 +62,8 @@ jobs:
       - name: Install matching Android NDK
         run: |
           echo "QT_ANDROID_ROOT=$QT_ROOT_DIR" >> "$GITHUB_ENV"
-          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" "ndk;$ANDROID_NDK_VERSION"
+          "$ANDROID_HOME/cmdline-tools/latest/bin/sdkmanager" \
+            'platforms;android-36' 'build-tools;36.0.0' "ndk;$ANDROID_NDK_VERSION"
 
       - name: Configure Android app
         run: |

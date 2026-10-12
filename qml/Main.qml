@@ -31,6 +31,8 @@ ApplicationWindow {
         ? Math.max(0, height - Qt.inputMethod.keyboardRectangle.y) : 0
     readonly property bool bundledFontReady: typography.ready
     readonly property bool bundledFontError: typography.failed
+    readonly property bool bundledNastaliqFontReady: typography.nastaliqReady
+    readonly property string bundledNastaliqFontFamily: typography.nastaliqFamily
     readonly property bool bundledIconFontReady: typography.iconReady
     readonly property color accentColor: colors.accent
     readonly property color accentTextColor: colors.accentText

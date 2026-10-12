@@ -22,40 +22,40 @@ To check the build, run `ctest --test-dir build --output-on-failure`. You can al
 
 ## Local Android build on Linux
 
-Install JDK 17 and the [Android SDK command-line tools](https://developer.android.com/studio#command-line-tools-only), with `sdkmanager` at `~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager`. Then install SDK platform 35, build tools 36.0.0, platform tools, and NDK 26.1.10909125. Install Qt 6.8.3 for both the Linux desktop host and Android arm64. These commands install the matching Qt packages in `~/Qt` if they are missing:
+Install JDK 21 and the [Android SDK command-line tools](https://developer.android.com/studio#command-line-tools-only), with `sdkmanager` at `~/Android/Sdk/cmdline-tools/latest/bin/sdkmanager`. Then install SDK platform 36, build tools 36.0.0, platform tools, and NDK 27.2.12479018. Install Qt 6.11.2 for both the Linux desktop host and Android arm64. These commands install the matching Qt packages in `~/Qt` if they are missing:
 
 ```sh
 python3 -m venv /tmp/parsinama-aqt-venv
 /tmp/parsinama-aqt-venv/bin/pip install aqtinstall
-/tmp/parsinama-aqt-venv/bin/aqt install-qt linux desktop 6.8.3 linux_gcc_64 --outputdir "$HOME/Qt"
-/tmp/parsinama-aqt-venv/bin/aqt install-qt all_os android 6.8.3 android_arm64_v8a --outputdir "$HOME/Qt"
-"$HOME/Android/Sdk/cmdline-tools/latest/bin/sdkmanager" --sdk_root="$HOME/Android/Sdk" 'platforms;android-35' 'build-tools;36.0.0' 'platform-tools' 'ndk;26.1.10909125'
+/tmp/parsinama-aqt-venv/bin/aqt install-qt linux desktop 6.11.2 linux_gcc_64 --outputdir "$HOME/Qt"
+/tmp/parsinama-aqt-venv/bin/aqt install-qt all_os android 6.11.2 android_arm64_v8a --outputdir "$HOME/Qt"
+"$HOME/Android/Sdk/cmdline-tools/latest/bin/sdkmanager" --sdk_root="$HOME/Android/Sdk" 'platforms;android-36' 'build-tools;36.0.0' 'platform-tools' 'ndk;27.2.12479018'
 ```
 
 First build the desktop catalog as shown above, then build the host icon generator with `cmake --build build --target parsinama_icon_generator`. From the repository root, configure and compile the Android app using that catalog and icon generator. The generated launcher icons come from `assets/app-icon.svg` on each Android configure:
 
 ```sh
-"$HOME/Qt/6.8.3/android_arm64_v8a/bin/qt-cmake" -S . -B build-android-local -G Ninja \
-  -DQT_HOST_PATH="$HOME/Qt/6.8.3/gcc_64" \
+"$HOME/Qt/6.11.2/android_arm64_v8a/bin/qt-cmake" -S . -B build-android-local -G Ninja \
+  -DQT_HOST_PATH="$HOME/Qt/6.11.2/gcc_64" \
   -DANDROID_SDK_ROOT="$HOME/Android/Sdk" \
-  -DANDROID_NDK_ROOT="$HOME/Android/Sdk/ndk/26.1.10909125" \
+  -DANDROID_NDK_ROOT="$HOME/Android/Sdk/ndk/27.2.12479018" \
   -DPARSINAMA_HOST_CATALOG="$PWD/build/parsinama-catalog.sqlite" \
   -DPARSINAMA_HOST_ICON_GENERATOR="$PWD/build/parsinama-icon-generator" \
   -DBUILD_TESTING=OFF
 cmake --build build-android-local --target leomoon_parsinama --parallel 2
 ```
 
-Package with API 35 explicitly. This avoids selecting a newer preview platform if Android Studio installed one. The larger Gradle heap is needed to compress the bundled catalog:
+Package with API 36 explicitly. This avoids selecting a newer preview platform if Android Studio installed one. The larger Gradle heap is needed to compress the bundled catalog:
 
 ```sh
 mkdir -p build-android-local/android-build/libs/arm64-v8a
 cp build-android-local/libleomoon-parsinama_arm64-v8a.so build-android-local/android-build/libs/arm64-v8a/
 GRADLE_OPTS='-Dorg.gradle.jvmargs=-Xmx8g -Dorg.gradle.workers.max=2' \
-  "$HOME/Qt/6.8.3/gcc_64/bin/androiddeployqt" \
+  "$HOME/Qt/6.11.2/gcc_64/bin/androiddeployqt" \
   --input build-android-local/android-leomoon_parsinama-deployment-settings.json \
   --output build-android-local/android-build \
   --apk build-android-local/android-build/leomoon_parsinama.apk \
-  --android-platform android-35
+  --android-platform android-36
 adb devices -l
 adb install -r build-android-local/android-build/leomoon_parsinama.apk
 ```

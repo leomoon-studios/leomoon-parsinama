@@ -261,6 +261,7 @@ int main(int argc, char *argv[])
             QStringLiteral("poetFilterPlaceholder"));
         for (int attempt = 0; attempt < 100
              && (!window->property("bundledFontReady").toBool()
+                 || !window->property("bundledNastaliqFontReady").toBool()
                  || !window->property("bundledIconFontReady").toBool()); ++attempt) {
             QCoreApplication::processEvents(QEventLoop::AllEvents, 50);
         }
@@ -279,6 +280,7 @@ int main(int argc, char *argv[])
             || (catalogRepository.ready() && !status->property("text").toString().isEmpty())
             || (!catalogRepository.ready() && status->property("text").toString().isEmpty())
             || !window->property("bundledFontReady").toBool()
+            || !window->property("bundledNastaliqFontReady").toBool()
             || !window->property("bundledIconFontReady").toBool()
             || !header || !poetPane || !contentPane || !moreButton || !settingsButton
             || !printButton || printButton->property("enabled").toBool()
@@ -286,6 +288,7 @@ int main(int argc, char *argv[])
             || printService.available()
 #endif
             || !QFileInfo::exists(QStringLiteral(":/qt/qml/LeoMoon/ParsiNama/assets/fonts/Vazirmatn[wght].ttf"))
+            || !QFileInfo::exists(QStringLiteral(":/qt/qml/LeoMoon/ParsiNama/assets/fonts/IranNastaliq.ttf"))
             || !settingsPage || !readingSizeSelector || !lightThemeChoice
             || !appLogo || appLogo->property("status").toInt() != 1
             || appLogo->property("width").toReal() != 44
@@ -737,13 +740,63 @@ int main(int argc, char *argv[])
                 qCritical("The poem summary and verses did not share a scroll area");
                 return EXIT_FAILURE;
             }
-            QObject *hideTranslationsSwitch = window->findChild<QObject *>(
-                QStringLiteral("hidePoemTranslationsSwitch"));
             poemList->setProperty("contentY", poemHeader->height());
             for (int attempt = 0; attempt < 8; ++attempt) {
                 QCoreApplication::processEvents();
                 QThread::msleep(10);
             }
+            QObject *fontChoiceVazirmatn = window->findChild<QObject *>(
+                QStringLiteral("poemFontChoiceVazirmatn"));
+            QObject *fontChoiceIranNastaliq = window->findChild<QObject *>(
+                QStringLiteral("poemFontChoiceIranNastaliq"));
+            QObject *verseText = nullptr;
+            for (int index = 0; index < poemList->property("count").toInt(); ++index) {
+                QQuickItem *verseItem = nullptr;
+                if (!QMetaObject::invokeMethod(poemList, "itemAtIndex",
+                                               Q_RETURN_ARG(QQuickItem *, verseItem),
+                                               Q_ARG(int, index)) || !verseItem)
+                    continue;
+                verseText = verseItem->findChild<QObject *>(QStringLiteral("poemRightVerseText"));
+                if (!verseText)
+                    verseText = verseItem->findChild<QObject *>(QStringLiteral("poemSingleVerseText"));
+                if (verseText)
+                    break;
+            }
+            if (!fontChoiceVazirmatn || !fontChoiceIranNastaliq || !verseText
+                || !fontChoiceVazirmatn->property("selected").toBool()
+                || verseText->property("font").value<QFont>().family()
+                    != poemList->property("poemFontFamily").toString()) {
+                qCritical().noquote() << "The default poem font did not load:"
+                                      << "choices" << fontChoiceVazirmatn << fontChoiceIranNastaliq
+                                      << "verse" << verseText
+                                      << "selected" << (fontChoiceVazirmatn
+                                          ? fontChoiceVazirmatn->property("selected").toBool() : false)
+                                      << "family" << (verseText
+                                          ? verseText->property("font").value<QFont>().family() : QString{})
+                                      << "expected" << poemList->property("poemFontFamily").toString();
+                return EXIT_FAILURE;
+            }
+            settingsStore.setPoemFont(QStringLiteral("irannastaliq"));
+            QCoreApplication::processEvents();
+            const QString nastaliqFamily = window->property("bundledNastaliqFontFamily").toString();
+            if (!fontChoiceIranNastaliq->property("selected").toBool()
+                || fontChoiceVazirmatn->property("selected").toBool()
+                || nastaliqFamily.isEmpty()
+                || poemList->property("poemFontFamily").toString() != nastaliqFamily
+                || verseText->property("font").value<QFont>().family() != nastaliqFamily) {
+                qCritical("Selecting IranNastaliq did not update the poem");
+                return EXIT_FAILURE;
+            }
+            settingsStore.setPoemFont(QStringLiteral("vazirmatn"));
+            QCoreApplication::processEvents();
+            if (!fontChoiceVazirmatn->property("selected").toBool()
+                || verseText->property("font").value<QFont>().family()
+                    != poemList->property("poemFontFamily").toString()) {
+                qCritical("Selecting Vazirmatn did not restore the poem font");
+                return EXIT_FAILURE;
+            }
+            QObject *hideTranslationsSwitch = window->findChild<QObject *>(
+                QStringLiteral("hidePoemTranslationsSwitch"));
             QObject *meaningBlock = nullptr;
             for (int index = 0; index < poemList->property("count").toInt(); ++index) {
                 QQuickItem *verseItem = nullptr;

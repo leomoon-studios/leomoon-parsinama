@@ -5,6 +5,8 @@ QtObject {
     readonly property bool ready: fontLoader.status === FontLoader.Ready
     readonly property bool failed: fontLoader.status === FontLoader.Error
     readonly property string family: ready ? fontLoader.name : "sans-serif"
+    readonly property bool nastaliqReady: nastaliqFontLoader.status === FontLoader.Ready
+    readonly property string nastaliqFamily: nastaliqReady ? nastaliqFontLoader.name : family
     readonly property bool iconReady: iconFontLoader.status === FontLoader.Ready
     readonly property string iconFamily: iconReady ? iconFontLoader.name : "sans-serif"
     readonly property FontLoader fontLoader: FontLoader {
@@ -14,5 +16,9 @@ QtObject {
     readonly property FontLoader iconFontLoader: FontLoader {
         id: iconFontLoader
         source: "qrc:/qt/qml/LeoMoon/ParsiNama/assets/fonts/MaterialSymbolsRounded.ttf"
+    }
+    readonly property FontLoader nastaliqFontLoader: FontLoader {
+        id: nastaliqFontLoader
+        source: "qrc:/qt/qml/LeoMoon/ParsiNama/assets/fonts/IranNastaliq.ttf"
     }
 }
