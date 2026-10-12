@@ -22,8 +22,13 @@ foreach ($path in @($app, $catalog, $driver)) {
 }
 Push-Location $env:RUNNER_TEMP
 try {
-    $appProcess = Start-Process -FilePath $app -ArgumentList "--smoke-test" -Wait -PassThru
+    $env:QT_LOGGING_TO_CONSOLE = "1"
+    $stdoutLog = Join-Path $env:RUNNER_TEMP "parsinama-installed-stdout.log"
+    $stderrLog = Join-Path $env:RUNNER_TEMP "parsinama-installed-stderr.log"
+    $appProcess = Start-Process -FilePath $app -ArgumentList "--smoke-test" -RedirectStandardOutput $stdoutLog -RedirectStandardError $stderrLog -Wait -PassThru
     if ($appProcess.ExitCode -ne 0) {
+        if (Test-Path -LiteralPath $stdoutLog) { Get-Content -LiteralPath $stdoutLog -Tail 80 }
+        if (Test-Path -LiteralPath $stderrLog) { Get-Content -LiteralPath $stderrLog -Tail 80 }
         throw "Installed app smoke test failed with exit code $($appProcess.ExitCode)"
     }
 } finally {
