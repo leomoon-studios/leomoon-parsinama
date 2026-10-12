@@ -84,6 +84,16 @@ jobs:
             ) -Wait -PassThru
             if (Test-Path -LiteralPath $printLog) { Get-Content -LiteralPath $printLog }
             Write-Host "Direct print test exit code: $($printProcess.ExitCode)"
+            $env:PARSINAMA_TEST_APP = (Resolve-Path -LiteralPath "build-windows\leomoon-parsinama.exe").Path
+            $env:QT_QUICK_BACKEND = "software"
+            $env:QT_QUICK_CONTROLS_STYLE = "Basic"
+            $appTest = (Resolve-Path -LiteralPath "build-windows\parsinama_app_tests.exe").Path
+            $appLog = Join-Path $env:RUNNER_TEMP "parsinama-app-test.txt"
+            $appProcess = Start-Process -FilePath $appTest -ArgumentList @(
+              "-o", "`"$appLog,txt`""
+            ) -Wait -PassThru
+            if (Test-Path -LiteralPath $appLog) { Get-Content -LiteralPath $appLog }
+            Write-Host "Direct app test exit code: $($appProcess.ExitCode)"
             throw "Windows tests failed with exit code $testExitCode"
           }
           cmake --build build-windows --target leomoon_parsinama_qmllint
