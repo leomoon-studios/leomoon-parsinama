@@ -911,8 +911,7 @@ int main(int argc, char *argv[])
                 QCoreApplication::processEvents();
                 QThread::msleep(10);
             }
-            if (poemList->property("width").toReal() < 700
-                || poemList->property("phoneMode").toBool()
+            if (poemList->property("phoneMode").toBool()
                 || contentPane->property("radius").toReal() != 18
                 || !headerVersion->property("visible").toBool()
                 || !headerSubtitle->property("visible").toBool()) {

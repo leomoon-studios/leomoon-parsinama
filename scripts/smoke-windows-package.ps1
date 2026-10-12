@@ -22,7 +22,7 @@ foreach ($path in @($app, $catalog, $driver)) {
 }
 Push-Location $env:RUNNER_TEMP
 try {
-    $env:QT_LOGGING_TO_CONSOLE = "1"
+    $env:QT_FORCE_STDERR_LOGGING = "1"
     $stdoutLog = Join-Path $env:RUNNER_TEMP "parsinama-installed-stdout.log"
     $stderrLog = Join-Path $env:RUNNER_TEMP "parsinama-installed-stderr.log"
     $appProcess = Start-Process -FilePath $app -ArgumentList "--smoke-test" -RedirectStandardOutput $stdoutLog -RedirectStandardError $stderrLog -Wait -PassThru
