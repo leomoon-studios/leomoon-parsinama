@@ -19,6 +19,8 @@ env:
 jobs:
   build-test-package:
     name: Windows ${{ matrix.arch }}
+    env:
+      PARSINAMA_VERSION_TAG: v${{ inputs.version }}
     runs-on: ${{ matrix.arch == 'arm64' && 'windows-11-vs2026-arm' || 'windows-2022' }}
     timeout-minutes: 180
     strategy:

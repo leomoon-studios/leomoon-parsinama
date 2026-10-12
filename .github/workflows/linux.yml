@@ -22,6 +22,8 @@ env:
 jobs:
   build-test-package:
     name: Linux ${{ matrix.arch }}
+    env:
+      PARSINAMA_VERSION_TAG: v${{ inputs.version }}
     runs-on: ${{ matrix.arch == 'arm64' && 'ubuntu-24.04-arm' || 'ubuntu-22.04' }}
     timeout-minutes: 180
     strategy:

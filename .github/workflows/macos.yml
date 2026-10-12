@@ -16,6 +16,8 @@ env:
 jobs:
   build-test-package:
     name: macOS universal
+    env:
+      PARSINAMA_VERSION_TAG: v${{ inputs.version }}
     runs-on: macos-15
     timeout-minutes: 180
     steps:

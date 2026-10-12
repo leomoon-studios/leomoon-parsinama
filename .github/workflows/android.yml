@@ -4,7 +4,8 @@ on:
   workflow_call:
     inputs:
       version:
-        required: true
+        required: false
+        default: ''
         type: string
       sign_release:
         required: false
@@ -20,12 +21,6 @@ on:
       ANDROID_KEYSTORE_KEY_PASS:
         required: false
   workflow_dispatch:
-    inputs:
-      version:
-        description: Version from metadata/VERSION
-        required: true
-        default: 0.1.0
-        type: string
 
 permissions:
   contents: read
@@ -41,14 +36,21 @@ env:
 jobs:
   build-test-package:
     name: Android arm64 APK
+    env:
+      PARSINAMA_VERSION_TAG: ${{ inputs.version && format('v{0}', inputs.version) || '' }}
     runs-on: ubuntu-24.04
     timeout-minutes: 150
     steps:
       - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          fetch-depth: 0
 
-      - name: Check release version
+      - name: Generate version from tag
+        id: version
         shell: bash
-        run: scripts/check-release-version.sh "v${{ inputs.version }}"
+        run: |
+          cmake -P cmake/GenerateVersion.cmake
+          echo "version=$(cat metadata/VERSION)" >> "$GITHUB_OUTPUT"
 
       - name: Set up JDK 17
         uses: actions/setup-java@dded0888837ed1f317902acf8a20df0ad188d165 # v4
@@ -188,7 +190,7 @@ jobs:
         run: |
           mkdir -p dist
           cp build-android/android-build/leomoon_parsinama.apk \
-            "dist/leomoon-parsinama-${{ inputs.version }}-android-arm64-v8a-test.apk"
+            "dist/leomoon-parsinama-${{ steps.version.outputs.version }}-android-arm64-v8a-test.apk"
           (cd dist && sha256sum ./*.apk > SHA256SUMS)
           ls -lh dist/
 
@@ -228,7 +230,7 @@ jobs:
             "$RUNNER_TEMP/leomoon-parsinama-release.apk"
           mkdir -p dist-release
           cp "$RUNNER_TEMP/leomoon-parsinama-release.apk" \
-            "dist-release/leomoon-parsinama-${{ inputs.version }}-android-arm64-v8a.apk"
+            "dist-release/leomoon-parsinama-${{ steps.version.outputs.version }}-android-arm64-v8a.apk"
           (cd dist-release && sha256sum ./*.apk > SHA256SUMS)
 
       - uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6

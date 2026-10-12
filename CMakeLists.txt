@@ -1,14 +1,6 @@
 cmake_minimum_required(VERSION 3.21)
 
-set_property(DIRECTORY APPEND PROPERTY CMAKE_CONFIGURE_DEPENDS
-    "${CMAKE_CURRENT_SOURCE_DIR}/metadata/VERSION"
-)
-
-file(READ "${CMAKE_CURRENT_SOURCE_DIR}/metadata/VERSION" PARSINAMA_VERSION)
-string(STRIP "${PARSINAMA_VERSION}" PARSINAMA_VERSION)
-if(NOT PARSINAMA_VERSION MATCHES "^[0-9]+\\.[0-9]+\\.[0-9]+$")
-    message(FATAL_ERROR "metadata/VERSION must contain a version such as 0.1.0")
-endif()
+include("${CMAKE_CURRENT_SOURCE_DIR}/cmake/GenerateVersion.cmake")
 
 project(LeoMoonParsiNama
     VERSION "${PARSINAMA_VERSION}"
