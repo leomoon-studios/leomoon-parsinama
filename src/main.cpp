@@ -805,6 +805,10 @@ int main(int argc, char *argv[])
             const qreal readingPosition = poemList->property("contentY").toReal();
             const qreal readingHeaderHeight = poemHeader->height();
             const qreal readingOffset = readingPosition + readingHeaderHeight;
+            const auto readingOffsetRestored = [&] {
+                return qAbs(poemList->property("contentY").toReal()
+                    + poemHeader->height() - readingOffset) <= 1;
+            };
             QObject *auxSearchButton = window->findChild<QObject *>(QStringLiteral("searchButton"));
             QObject *desktopEscape = window->findChild<QObject *>(
                 QStringLiteral("desktopAuxiliaryEscape"));
@@ -839,11 +843,14 @@ int main(int argc, char *argv[])
                 return EXIT_FAILURE;
             }
             QCoreApplication::processEvents();
+            for (int attempt = 0; attempt < 30 && !readingOffsetRestored(); ++attempt) {
+                QThread::msleep(10);
+                QCoreApplication::processEvents();
+            }
             if (window->property("page").toString() != QStringLiteral("poem")
                 || settingsButton->property("selected").toBool()
                 || settingsButton->property("activeFocus").toBool()
-                || qAbs(poemList->property("contentY").toReal() + poemHeader->height()
-                    - readingOffset) > 1) {
+                || !readingOffsetRestored()) {
                 qCritical().noquote() << "Toggling desktop Settings did not restore the poem position:"
                                       << "page=" << window->property("page").toString()
                                       << "selected=" << settingsButton->property("selected").toBool()
@@ -866,9 +873,12 @@ int main(int argc, char *argv[])
                 return EXIT_FAILURE;
             }
             QCoreApplication::processEvents();
+            for (int attempt = 0; attempt < 30 && !readingOffsetRestored(); ++attempt) {
+                QThread::msleep(10);
+                QCoreApplication::processEvents();
+            }
             if (window->property("page").toString() != QStringLiteral("poem")
-                || qAbs(poemList->property("contentY").toReal() + poemHeader->height()
-                    - readingOffset) > 1) {
+                || !readingOffsetRestored()) {
                 qCritical().noquote() << "Toggling desktop Bookmarks did not restore the poem position:"
                                       << "contentY=" << poemList->property("contentY").toReal()
                                       << "headerHeight=" << poemHeader->height()
