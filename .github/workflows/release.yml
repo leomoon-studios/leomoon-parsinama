@@ -3,6 +3,10 @@ name: Package test builds
 on:
   workflow_dispatch:
     inputs:
+      test_tag:
+        description: Version tag to simulate for a manual package test
+        required: false
+        type: string
       target:
         description: Platform to build and test
         required: true
@@ -46,6 +50,8 @@ jobs:
       - name: Generate version from tag
         id: version
         shell: bash
+        env:
+          PARSINAMA_VERSION_TAG: ${{ inputs.test_tag }}
         run: |
           if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" && "${{ inputs.target }}" == android && "${{ inputs.arch }}" == x64 ]]; then
             echo "Android currently supports arm64 only; choose arch=arm64 or arch=all" >&2
