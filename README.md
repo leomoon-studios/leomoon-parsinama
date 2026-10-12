@@ -70,7 +70,7 @@ The app creates `settings.json` and `bookmarks.json` in the platform configurati
 
 ## Package builds
 
-The **Package test builds** GitHub Actions workflow can be started manually for Linux, Windows, macOS, Android, or all platforms. Linux and Windows offer x64 and ARM64 targets, while macOS builds a universal app. A pushed version tag such as `v1.0.0` starts all package builds. Each build generates `metadata/VERSION` from the tag; manual builds use the nearest version tag in the selected ref's history. The workflows upload test artifacts; they do not publish a GitHub Release.
+The **Package test builds** GitHub Actions workflow can be started manually for Linux, Windows, macOS, Android, or all platforms. Linux and Windows offer x64 and ARM64 targets, while macOS builds a universal app. A pushed version tag such as `v1.0.0` starts all package builds. Each build generates `metadata/VERSION` from the tag. Manual builds can provide a test tag without creating a Git tag; otherwise they use the nearest version tag in the selected ref's history. The workflows upload test artifacts; they do not publish a GitHub Release.
 
 ## Content and attribution
 
