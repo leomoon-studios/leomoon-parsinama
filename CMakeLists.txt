@@ -110,6 +110,8 @@ qt_add_qml_module(leomoon_parsinama
         assets/app-icon.svg
         "assets/fonts/Vazirmatn[wght].ttf"
         assets/fonts/OFL.txt
+        assets/fonts/IranNastaliq.ttf
+        assets/fonts/IranNastaliq-OFL.txt
         assets/fonts/MaterialSymbolsRounded.ttf
         assets/fonts/MaterialSymbols-LICENSE.txt
 )

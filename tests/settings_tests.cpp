@@ -18,6 +18,7 @@ private slots:
     void createsDefaultSettingsOnFirstRun();
     void persistsThemeAndReadingSize();
     void rejectsInvalidSettings();
+    void rejectsInvalidPoemFont();
     void readsPreviousSettingsVersion();
     void readsSettingsWithoutTranslationPreference();
 };
@@ -57,6 +58,7 @@ void SettingsTests::createsDefaultSettingsOnFirstRun()
     QCOMPARE(settings.theme(), QStringLiteral("light"));
     QCOMPARE(settings.accentPreset(), QStringLiteral("purple"));
     QCOMPARE(settings.readingSize(), 16);
+    QCOMPARE(settings.poemFont(), QStringLiteral("vazirmatn"));
     QVERIFY(!settings.hidePoemTranslations());
 
     QFile file(path);
@@ -66,6 +68,7 @@ void SettingsTests::createsDefaultSettingsOnFirstRun()
     QCOMPARE(document.value(QStringLiteral("theme")).toString(), QStringLiteral("light"));
     QCOMPARE(document.value(QStringLiteral("accentPreset")).toString(), QStringLiteral("purple"));
     QCOMPARE(document.value(QStringLiteral("readingSize")).toInt(), 16);
+    QCOMPARE(document.value(QStringLiteral("poemFont")).toString(), QStringLiteral("vazirmatn"));
     QCOMPARE(document.value(QStringLiteral("hidePoemTranslations")).toBool(), false);
 }
 
@@ -78,12 +81,16 @@ void SettingsTests::persistsThemeAndReadingSize()
         QCOMPARE(settings.theme(), QStringLiteral("light"));
         QCOMPARE(settings.accentPreset(), QStringLiteral("purple"));
         QCOMPARE(settings.readingSize(), 16);
+        QCOMPARE(settings.poemFont(), QStringLiteral("vazirmatn"));
         QVERIFY(QDir(UserDataPaths::directory(configBase.path())).exists());
         settings.setTheme(QStringLiteral("dark"));
         settings.setAccentPreset(QStringLiteral("teal"));
         settings.setAccentPreset(QStringLiteral("invalid"));
         QCOMPARE(settings.accentPreset(), QStringLiteral("teal"));
         settings.setReadingSize(29);
+        settings.setPoemFont(QStringLiteral("irannastaliq"));
+        settings.setPoemFont(QStringLiteral("invalid"));
+        QCOMPARE(settings.poemFont(), QStringLiteral("irannastaliq"));
         settings.setHidePoemTranslations(true);
         QVERIFY(settings.error().isEmpty());
         settings.setReadingSize(100);
@@ -94,6 +101,7 @@ void SettingsTests::persistsThemeAndReadingSize()
     QCOMPARE(restored.theme(), QStringLiteral("dark"));
     QCOMPARE(restored.accentPreset(), QStringLiteral("teal"));
     QCOMPARE(restored.readingSize(), 29);
+    QCOMPARE(restored.poemFont(), QStringLiteral("irannastaliq"));
     QVERIFY(restored.hidePoemTranslations());
     restored.toggleTheme();
     QCOMPARE(restored.theme(), QStringLiteral("light"));
@@ -104,6 +112,7 @@ void SettingsTests::persistsThemeAndReadingSize()
     QCOMPARE(document.value(QStringLiteral("theme")).toString(), QStringLiteral("light"));
     QCOMPARE(document.value(QStringLiteral("accentPreset")).toString(), QStringLiteral("teal"));
     QCOMPARE(document.value(QStringLiteral("readingSize")).toInt(), 29);
+    QCOMPARE(document.value(QStringLiteral("poemFont")).toString(), QStringLiteral("irannastaliq"));
     QCOMPARE(document.value(QStringLiteral("hidePoemTranslations")).toBool(), true);
     QVERIFY(!QFile::exists(restored.filePath() + QStringLiteral(".tmp")));
 }
@@ -122,7 +131,21 @@ void SettingsTests::readsPreviousSettingsVersion()
     QCOMPARE(settings.theme(), QStringLiteral("light"));
     QCOMPARE(settings.readingSize(), 29);
     QCOMPARE(settings.accentPreset(), QStringLiteral("purple"));
+    QCOMPARE(settings.poemFont(), QStringLiteral("vazirmatn"));
     QVERIFY(!settings.hidePoemTranslations());
+}
+
+void SettingsTests::rejectsInvalidPoemFont()
+{
+    QTemporaryDir configBase;
+    QVERIFY(configBase.isValid());
+    SettingsStore settings(configBase.path());
+    QFile file(settings.filePath());
+    QVERIFY(file.open(QIODevice::WriteOnly));
+    QVERIFY(file.write("{\"version\":2,\"theme\":\"light\",\"accentPreset\":\"purple\",\"readingSize\":16,\"poemFont\":\"unknown\"}") > 0);
+    file.close();
+    QVERIFY(!settings.reload());
+    QCOMPARE(settings.poemFont(), QStringLiteral("vazirmatn"));
 }
 
 void SettingsTests::readsSettingsWithoutTranslationPreference()
@@ -137,6 +160,7 @@ void SettingsTests::readsSettingsWithoutTranslationPreference()
     SettingsStore settings(configBase.path());
     QVERIFY(settings.error().isEmpty());
     QVERIFY(!settings.hidePoemTranslations());
+    QCOMPARE(settings.poemFont(), QStringLiteral("vazirmatn"));
 }
 
 void SettingsTests::rejectsInvalidSettings()
