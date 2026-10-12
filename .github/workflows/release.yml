@@ -3,11 +3,6 @@ name: Package test builds
 on:
   workflow_dispatch:
     inputs:
-      version:
-        description: Version from metadata/VERSION
-        required: true
-        default: 0.1.0
-        type: string
       target:
         description: Platform to build and test
         required: true
@@ -46,19 +41,18 @@ jobs:
       version: ${{ steps.version.outputs.version }}
     steps:
       - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
-      - name: Check release version
+        with:
+          fetch-depth: 0
+      - name: Generate version from tag
         id: version
         shell: bash
         run: |
-          tag="$GITHUB_REF_NAME"
-          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" ]]; then
-            tag="v${{ inputs.version }}"
-            if [[ "${{ inputs.target }}" == android && "${{ inputs.arch }}" == x64 ]]; then
-              echo "Android currently supports arm64 only; choose arch=arm64 or arch=all" >&2
-              exit 1
-            fi
+          if [[ "$GITHUB_EVENT_NAME" == "workflow_dispatch" && "${{ inputs.target }}" == android && "${{ inputs.arch }}" == x64 ]]; then
+            echo "Android currently supports arm64 only; choose arch=arm64 or arch=all" >&2
+            exit 1
           fi
-          version="$(scripts/check-release-version.sh "$tag")"
+          cmake -P cmake/GenerateVersion.cmake
+          version="$(cat metadata/VERSION)"
           echo "version=$version" >> "$GITHUB_OUTPUT"
 
   linux:
