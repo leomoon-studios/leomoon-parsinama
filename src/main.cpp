@@ -433,8 +433,16 @@ int main(int argc, char *argv[])
         window->setProperty("page", QStringLiteral("settings"));
         QCoreApplication::processEvents();
         QObject *settingsScrollBar = window->findChild<QObject *>(QStringLiteral("settingsScrollBar"));
-        if (!settingsScrollBar || settingsScrollBar->property("visible").toBool()) {
-            qCritical("The settings scrollbar is visible when the content fits");
+        const qreal initialSettingsViewportHeight = settingsPage->property("availableHeight").toReal();
+        const bool initialSettingsNeedsScroll = settingsPage->property("contentHeight").toReal()
+            > initialSettingsViewportHeight + 1;
+        if (!settingsScrollBar
+            || settingsScrollBar->property("visible").toBool() != initialSettingsNeedsScroll) {
+            qCritical().noquote() << "The settings scrollbar does not match its content at the initial window size:"
+                                  << "content height" << settingsPage->property("contentHeight").toReal()
+                                  << "available height" << initialSettingsViewportHeight
+                                  << "scrollbar visible" << (settingsScrollBar
+                                      ? settingsScrollBar->property("visible").toBool() : false);
             return EXIT_FAILURE;
         }
         window->setProperty("width", 500);
