@@ -6,6 +6,8 @@ LeoMoon ParsiNama (لئومون پارسی‌نما) is a desktop and Android re
 
 The interface is in Persian and reads right to left. Poems show their verses in source order, including paired lines where the source marks a couplet. You can follow breadcrumbs through a poet's collections, move between poems in the same collection, and save bookmarks. Desktop builds can also print a poem or export it to PDF. Settings include light and dark themes, accent colors, poem fonts, reading text size, and an app scale dropdown from 1.0× to 3.0× in 0.1 steps. Selecting a scale applies it immediately and saves it for the next launch.
 
+See the [changelog](CHANGELOG.md) for release notes.
+
 ## Screenshots
 
 ### Browse poets
