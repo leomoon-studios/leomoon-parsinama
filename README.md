@@ -86,7 +86,7 @@ The app creates `settings.json` and `bookmarks.json` in the platform configurati
 
 ## Package builds
 
-The **Package test builds** GitHub Actions workflow can be started manually for Linux, Windows, macOS, Android, or all platforms. Linux and Windows offer x64 and ARM64 targets, while macOS builds a universal app. A pushed version tag such as `v1.0.0` starts all package builds. Each build generates `metadata/VERSION` from the tag. Manual builds can provide a test tag without creating a Git tag; otherwise they use the nearest version tag in the selected ref's history. Manual runs upload test artifacts only. After every platform passes on a version-tag run, the workflow publishes a GitHub Release with the packages and checksums. The Android APK is currently a test build.
+The **Package test builds** GitHub Actions workflow can be started manually for Linux, Windows, macOS, Android, or all platforms. Linux and Windows offer x64 and ARM64 targets, while macOS builds a universal app. A pushed version tag such as `v1.0.0` starts all package builds. Each build generates `metadata/VERSION` from the tag. Manual builds can provide a test tag without creating a Git tag; otherwise they use the nearest version tag in the selected ref's history. Manual runs upload test artifacts only. After every platform passes on a version-tag run, the workflow publishes a GitHub Release with the packages and checksums. The Android APK is currently signed with a debug key; a persistent release key is needed for future APKs to update existing installations.
 
 ## Content and attribution
 

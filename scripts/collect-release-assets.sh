@@ -42,7 +42,7 @@ if [[ -d "$signed_dir" ]]; then
     android_asset="leomoon-parsinama-$version-android-arm64-v8a.apk"
 else
     android_dir="$artifact_root/leomoon-parsinama-android-arm64-$commit_sha"
-    android_asset="leomoon-parsinama-$version-android-arm64-v8a-test.apk"
+    android_asset="leomoon-parsinama-$version-android-arm64-v8a.apk"
 fi
 [[ -f "$android_dir/$android_asset" && -f "$android_dir/SHA256SUMS" ]] || {
     echo "Missing Android release asset or checksum: $android_dir/$android_asset" >&2
