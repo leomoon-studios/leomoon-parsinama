@@ -91,5 +91,3 @@ The **Package test builds** GitHub Actions workflow can be started manually for 
 ## Content and attribution
 
 The poetry export comes from [ganjoor/ganjoor-data](https://github.com/ganjoor/ganjoor-data) at commit `a64968e78425b2e8c7904fbdf5289fba8251a757`. Its manifest records 240 poets and 135,319 poems. See [SOURCES.md](SOURCES.md) for source digests and [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) for font and data notices.
-
-The export did not include an explicit data license. Confirm its redistribution terms before publishing binary packages that contain the complete catalog.
