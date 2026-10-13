@@ -114,16 +114,45 @@ jobs:
       - name: Collect individual release assets
         run: bash scripts/collect-release-assets.sh release-input release-assets "${{ needs.validate.outputs.version }}" "$GITHUB_SHA"
 
-      - name: Prepare release notes from changelog
+      - name: Generate release notes with commit list
+        env:
+          GH_TOKEN: ${{ github.token }}
         shell: bash
         run: |
           set -euo pipefail
+          previous_tag=""
+          while IFS= read -r candidate; do
+            if git rev-parse -q --verify "refs/tags/$candidate^{commit}" >/dev/null \
+              && git merge-base --is-ancestor "$candidate" "$GITHUB_REF_NAME^"; then
+              previous_tag="$candidate"
+              break
+            fi
+          done < <(gh release list --exclude-drafts --limit 100 --json tagName --jq '.[].tagName')
+          commit_range="$GITHUB_REF_NAME"
+          if [[ -n "$previous_tag" ]]; then
+            commit_range="$previous_tag..$GITHUB_REF_NAME"
+          fi
           git show "$GITHUB_REF_NAME:CHANGELOG.md" | awk -v heading="## $GITHUB_REF_NAME - " '
             index($0, heading) == 1 { found = 1 }
             found && /^## / && index($0, heading) != 1 { exit }
             found { print }
             END { if (!found) exit 1 }
           ' > release-notes.md
+          {
+            echo
+            echo '## Commits'
+            echo
+            while IFS= read -r commit_hash; do
+              subject="$(git show -s --format=%s "$commit_hash")"
+              author_name="$(git show -s --format=%an "$commit_hash")"
+              printf -- '- %s ([`%s`](https://github.com/%s/commit/%s)) by %s\n' \
+                "$subject" "${commit_hash:0:7}" "$GITHUB_REPOSITORY" "$commit_hash" "$author_name"
+            done < <(git rev-list "$commit_range")
+            echo
+            echo '## Downloads'
+            echo
+            echo 'Platform packages and a combined SHA256SUMS file are attached below.'
+          } >> release-notes.md
           if compgen -G 'release-assets/*-test.apk' >/dev/null; then
             printf '\nThe Android APK is a test build. It may not update an installation signed with a different key.\n' >> release-notes.md
           fi
