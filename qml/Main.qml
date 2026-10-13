@@ -270,13 +270,6 @@ ApplicationWindow {
     }
 
     Shortcut {
-        sequence: "Back"
-        context: Qt.ApplicationShortcut
-        enabled: root.simulatePhoneForSmokeTest && root.canHandleAndroidBack
-        onActivated: root.handleAndroidBack()
-    }
-
-    Shortcut {
         objectName: "desktopAuxiliaryEscape"
         sequence: "Escape"
         context: Qt.ApplicationShortcut

@@ -760,21 +760,20 @@ int main(int argc, char *argv[])
                 qCritical("The phone navigation drawer did not open correctly");
                 return EXIT_FAILURE;
             }
-            const auto pressBack = [&] {
-                QKeyEvent press(QEvent::KeyPress, Qt::Key_Back, Qt::NoModifier);
-                QCoreApplication::sendEvent(window, &press);
-                QKeyEvent release(QEvent::KeyRelease, Qt::Key_Back, Qt::NoModifier);
-                QCoreApplication::sendEvent(window, &release);
-                QCoreApplication::processEvents();
-            };
-            pressBack();
+            if (!QMetaObject::invokeMethod(window, "handleAndroidBack")) {
+                qCritical("The phone navigation Back handler was unavailable");
+                return EXIT_FAILURE;
+            }
             QCoreApplication::processEvents();
             if (navigationDrawer->property("visible").toBool()
                 || !window->property("visible").toBool()) {
                 qCritical("The phone navigation drawer ignored Back");
                 return EXIT_FAILURE;
             }
-            pressBack();
+            if (!QMetaObject::invokeMethod(window, "handleAndroidBack")) {
+                qCritical("The phone navigation Back handler was unavailable");
+                return EXIT_FAILURE;
+            }
             if (window->property("page").toString() != QStringLiteral("poets")
                 || !window->property("visible").toBool()) {
                 qCritical("Android Back did not return to poets without closing the window");
