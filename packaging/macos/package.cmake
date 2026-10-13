@@ -24,10 +24,23 @@ endif()
 if(NOT EXISTS "${app}/Contents/PlugIns/sqldrivers/libqsqlite.dylib")
     message(FATAL_ERROR "The deployed macOS app has no SQLite driver")
 endif()
-execute_process(COMMAND hdiutil create -volname "LeoMoon ParsiNama"
-    -srcfolder "${app}" -ov -format UDZO
-    "${output_dir}/leomoon-parsinama-${VERSION}-macos-universal.dmg"
-    RESULT_VARIABLE dmg_result)
-if(NOT dmg_result EQUAL 0)
+set(dmg "${output_dir}/leomoon-parsinama-${VERSION}-macos-universal.dmg")
+set(dmg_created FALSE)
+foreach(attempt RANGE 1 3)
+    execute_process(COMMAND hdiutil create -volname "LeoMoon ParsiNama"
+        -srcfolder "${app}" -ov -format UDZO "${dmg}"
+        RESULT_VARIABLE dmg_result
+        OUTPUT_VARIABLE dmg_output
+        ERROR_VARIABLE dmg_error)
+    if(dmg_result EQUAL 0)
+        set(dmg_created TRUE)
+        break()
+    endif()
+    message(WARNING "DMG creation attempt ${attempt} failed: ${dmg_error}")
+    if(attempt LESS 3)
+        execute_process(COMMAND "${CMAKE_COMMAND}" -E sleep 15)
+    endif()
+endforeach()
+if(NOT dmg_created)
     message(FATAL_ERROR "Could not create the ParsiNama DMG")
 endif()
