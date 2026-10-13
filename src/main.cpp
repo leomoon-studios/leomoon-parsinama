@@ -15,6 +15,7 @@
 
 #include <QCoreApplication>
 #include <QColor>
+#include <QElapsedTimer>
 #include <QEventLoop>
 #include <QFont>
 #include <QFileInfo>
@@ -439,6 +440,17 @@ int main(int argc, char *argv[])
         QObject *uiScaleText = window->findChild<QObject *>(QStringLiteral("uiScaleText"));
         QObject *uiScalePopup = window->findChild<QObject *>(QStringLiteral("uiScalePopup"));
         QObject *uiScaleList = window->findChild<QObject *>(QStringLiteral("uiScaleList"));
+        const auto waitForLayout = [](auto ready) {
+            QElapsedTimer timer;
+            timer.start();
+            do {
+                QCoreApplication::processEvents(QEventLoop::AllEvents, 50);
+                if (ready())
+                    return true;
+                QThread::msleep(10);
+            } while (timer.elapsed() < 3000);
+            return false;
+        };
         if (!uiScaleSelector || !uiScaleText || !uiScalePopup || !uiScaleList
             || uiScaleSelector->property("count").toInt() != 21
             || uiScaleSelector->property("currentIndex").toInt() != 0
@@ -461,14 +473,15 @@ int main(int argc, char *argv[])
                 uiScalePopup->property("visible").toBool(), uiScaleList->property("count").toInt());
             return EXIT_FAILURE;
         }
-        QCoreApplication::processEvents();
-        if (appLogo->property("width").toReal() != 66
-            || headerTitle->property("font").value<QFont>().pixelSize() != 30
-            || settingsStore.uiScale() != 1.5
-            || uiScaleSelector->property("currentIndex").toInt() != 5
-            || uiScaleText->property("text").toString() != QStringLiteral("1.5×")
-            || uiScalePopup->property("visible").toBool()
-            || !window->property("compactHeader").toBool()) {
+        if (!waitForLayout([&] {
+            return appLogo->property("width").toReal() == 66
+                && headerTitle->property("font").value<QFont>().pixelSize() == 30
+                && settingsStore.uiScale() == 1.5
+                && uiScaleSelector->property("currentIndex").toInt() == 5
+                && uiScaleText->property("text").toString() == QStringLiteral("1.5×")
+                && !uiScalePopup->property("visible").toBool()
+                && window->property("compactHeader").toBool();
+        })) {
             std::fprintf(stderr, "The interface did not resize at 1.5x: scale=%g index=%d text=%s popup=%d logo=%g font=%d compact=%d\n",
                 settingsStore.uiScale(), uiScaleSelector->property("currentIndex").toInt(),
                 qPrintable(uiScaleText->property("text").toString()), uiScalePopup->property("visible").toBool(),
@@ -480,36 +493,51 @@ int main(int argc, char *argv[])
             qCritical("The UI scale dropdown could not select 3.0x");
             return EXIT_FAILURE;
         }
-        QCoreApplication::processEvents();
         QObject *readingPreviewAtScale = window->findChild<QObject *>(
             QStringLiteral("readingSizePreview"));
-        if (appLogo->property("width").toReal() != 132
-            || headerTitle->property("font").value<QFont>().pixelSize() != 60
-            || settingsStore.uiScale() != 3.0
-            || uiScaleSelector->property("currentIndex").toInt() != 20
-            || uiScaleText->property("text").toString() != QStringLiteral("3.0×")
-            || !readingPreviewAtScale
-            || readingPreviewAtScale->property("font").value<QFont>().pixelSize()
-                != settingsStore.readingSize() * 3
-            || settingsPage->property("contentHeight").toReal()
-                <= settingsPage->property("availableHeight").toReal()) {
-            qCritical("The interface did not resize or scroll at 3.0x");
+        if (!waitForLayout([&] {
+            return appLogo->property("width").toReal() == 132
+                && headerTitle->property("font").value<QFont>().pixelSize() == 60
+                && settingsStore.uiScale() == 3.0
+                && uiScaleSelector->property("currentIndex").toInt() == 20
+                && uiScaleText->property("text").toString() == QStringLiteral("3.0×")
+                && readingPreviewAtScale
+                && readingPreviewAtScale->property("font").value<QFont>().pixelSize()
+                    == settingsStore.readingSize() * 3
+                && settingsPage->property("contentHeight").toReal()
+                    > settingsPage->property("availableHeight").toReal();
+        })) {
+            qCritical().noquote() << "The interface did not resize or scroll at 3.0x:"
+                << "scale" << settingsStore.uiScale()
+                << "index" << uiScaleSelector->property("currentIndex").toInt()
+                << "text" << uiScaleText->property("text").toString()
+                << "logo" << appLogo->property("width").toReal()
+                << "font" << headerTitle->property("font").value<QFont>().pixelSize()
+                << "reading font" << (readingPreviewAtScale
+                    ? readingPreviewAtScale->property("font").value<QFont>().pixelSize() : -1)
+                << "content height" << settingsPage->property("contentHeight").toReal()
+                << "available height" << settingsPage->property("availableHeight").toReal();
             return EXIT_FAILURE;
         }
         window->setProperty("width", 500);
-        QCoreApplication::processEvents();
         QObject *narrowAccentChoice = window->findChild<QObject *>(QStringLiteral("accentChoice_purple"));
-        if (!narrowAccentChoice
-            || lightThemeChoice->property("width").toReal()
-                > settingsPage->property("availableWidth").toReal() + 1
-            || narrowAccentChoice->property("width").toReal()
-                > settingsPage->property("availableWidth").toReal() + 1
-            || readingSizeSelector->property("width").toReal()
-                > settingsPage->property("availableWidth").toReal() + 1
-            || uiScaleSelector->property("width").toReal()
-                > settingsPage->property("availableWidth").toReal() + 1
-            || uiScaleSelector->property("width").toReal() < 100) {
-            qCritical("The 3.0x settings controls do not fit a narrow window");
+        if (!waitForLayout([&] {
+            const qreal availableWidth = settingsPage->property("availableWidth").toReal();
+            return narrowAccentChoice && availableWidth >= 100
+                && lightThemeChoice->property("width").toReal() <= availableWidth + 1
+                && narrowAccentChoice->property("width").toReal() <= availableWidth + 1
+                && readingSizeSelector->property("width").toReal() <= availableWidth + 1
+                && uiScaleSelector->property("width").toReal() <= availableWidth + 1
+                && uiScaleSelector->property("width").toReal() >= 100;
+        })) {
+            qCritical().noquote() << "The 3.0x settings controls do not fit a narrow window:"
+                << "window width" << window->property("width").toReal()
+                << "available width" << settingsPage->property("availableWidth").toReal()
+                << "light" << lightThemeChoice->property("width").toReal()
+                << "accent" << (narrowAccentChoice
+                    ? narrowAccentChoice->property("width").toReal() : -1)
+                << "reading" << readingSizeSelector->property("width").toReal()
+                << "scale" << uiScaleSelector->property("width").toReal();
             return EXIT_FAILURE;
         }
         window->setProperty("width", 1120);
