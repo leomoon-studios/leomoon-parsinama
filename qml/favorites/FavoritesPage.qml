@@ -15,11 +15,11 @@ Item {
         objectName: "favoritesEmptyState"
         visible: root.bookmarkStore.count === 0
         anchors.centerIn: parent
-        width: Math.max(0, parent.width - 48)
+        width: Math.max(0, parent.width - UiMetrics.px(48))
         text: "هنوز نشانکی ذخیره نشده است.\nبرای ذخیره، شعر یا مجموعه‌ای را باز کنید و نشانک را بزنید."
         color: root.appTheme.muted
         font.family: root.typography.family
-        font.pixelSize: 17
+        font.pixelSize: UiMetrics.px(17)
         horizontalAlignment: Text.AlignHCenter
         wrapMode: Text.Wrap
     }
@@ -31,7 +31,7 @@ Item {
         anchors.fill: parent
         model: root.bookmarkStore
         clip: true
-        spacing: 8
+        spacing: UiMetrics.px(8)
         boundsBehavior: Flickable.StopAtBounds
         ScrollBar.vertical: AppScrollBar {
             id: scrollbar
@@ -48,14 +48,14 @@ Item {
             required property string context
             required property bool available
             width: list.width
-            height: 76
+            height: UiMetrics.px(76)
             LayoutMirroring.enabled: false
 
             ItemDelegate {
                 id: row
                 objectName: "favoriteRow"
-                x: scrollbar.width + 8
-                width: entry.width - x - 4
+                x: scrollbar.width + UiMetrics.px(8)
+                width: entry.width - x - UiMetrics.px(4)
                 height: entry.height
                 hoverEnabled: true
                 focusPolicy: Qt.StrongFocus
@@ -64,7 +64,7 @@ Item {
                     if (entry.available) root.activated(entry.entryType, entry.fullUrl)
                 }
                 background: Rectangle {
-                    radius: 10
+                    radius: UiMetrics.px(10)
                     color: row.hovered ? root.appTheme.surfaceRaised : root.appTheme.surface
                     border.color: row.activeFocus ? root.appTheme.focus : root.appTheme.border
                     border.width: row.activeFocus ? 2 : 1
@@ -77,8 +77,8 @@ Item {
                         objectName: "removeFavoriteButton"
                         anchors.left: parent.left
                         anchors.verticalCenter: parent.verticalCenter
-                        width: 42
-                        height: 42
+                        width: UiMetrics.px(42)
+                        height: UiMetrics.px(42)
                         enabled: true
                         Accessible.name: "حذف نشانک " + entry.title
                         ToolTip.text: "حذف نشانک"
@@ -88,22 +88,22 @@ Item {
                         contentItem: Text {
                             text: "\ue872"
                             font.family: root.typography.iconFamily
-                            font.pixelSize: 21
+                            font.pixelSize: UiMetrics.px(21)
                             color: root.appTheme.muted
                             horizontalAlignment: Text.AlignHCenter
                             verticalAlignment: Text.AlignVCenter
                         }
                         background: Rectangle {
-                            radius: 8
+                            radius: UiMetrics.px(8)
                             color: removeButton.hovered ? root.appTheme.surfaceRaised : root.appTheme.surface
                         }
                     }
                     Column {
                         anchors.left: removeButton.right
-                        anchors.leftMargin: 8
+                        anchors.leftMargin: UiMetrics.px(8)
                         anchors.right: parent.right
                         anchors.verticalCenter: parent.verticalCenter
-                        spacing: 2
+                        spacing: UiMetrics.px(2)
                         Text {
                             objectName: "favoriteTitle"
                             width: parent.width
@@ -111,7 +111,7 @@ Item {
                             textFormat: Text.PlainText
                             color: entry.available ? root.appTheme.foreground : root.appTheme.muted
                             font.family: root.typography.family
-                            font.pixelSize: 17
+                            font.pixelSize: UiMetrics.px(17)
                             horizontalAlignment: Text.AlignRight
                             elide: Text.ElideRight
                         }
@@ -122,7 +122,7 @@ Item {
                             textFormat: Text.PlainText
                             color: root.appTheme.muted
                             font.family: root.typography.family
-                            font.pixelSize: 13
+                            font.pixelSize: UiMetrics.px(13)
                             horizontalAlignment: Text.AlignRight
                             elide: Text.ElideRight
                         }

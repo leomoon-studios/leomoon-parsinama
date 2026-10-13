@@ -8,6 +8,7 @@
 #include <QStandardPaths>
 #include <QTemporaryDir>
 #include <QtTest>
+#include <limits>
 
 class SettingsTests final : public QObject
 {
@@ -17,6 +18,7 @@ private slots:
     void pathsUsePlatformConfigDirectory();
     void createsDefaultSettingsOnFirstRun();
     void persistsThemeAndReadingSize();
+    void persistsUiScaleAndRejectsInvalidValues();
     void rejectsInvalidSettings();
     void rejectsInvalidPoemFont();
     void readsPreviousSettingsVersion();
@@ -59,6 +61,7 @@ void SettingsTests::createsDefaultSettingsOnFirstRun()
     QCOMPARE(settings.accentPreset(), QStringLiteral("purple"));
     QCOMPARE(settings.readingSize(), 16);
     QCOMPARE(settings.poemFont(), QStringLiteral("vazirmatn"));
+    QCOMPARE(settings.uiScale(), 1.0);
     QVERIFY(!settings.hidePoemTranslations());
 
     QFile file(path);
@@ -69,6 +72,7 @@ void SettingsTests::createsDefaultSettingsOnFirstRun()
     QCOMPARE(document.value(QStringLiteral("accentPreset")).toString(), QStringLiteral("purple"));
     QCOMPARE(document.value(QStringLiteral("readingSize")).toInt(), 16);
     QCOMPARE(document.value(QStringLiteral("poemFont")).toString(), QStringLiteral("vazirmatn"));
+    QCOMPARE(document.value(QStringLiteral("uiScale")).toDouble(), 1.0);
     QCOMPARE(document.value(QStringLiteral("hidePoemTranslations")).toBool(), false);
 }
 
@@ -117,6 +121,39 @@ void SettingsTests::persistsThemeAndReadingSize()
     QVERIFY(!QFile::exists(restored.filePath() + QStringLiteral(".tmp")));
 }
 
+void SettingsTests::persistsUiScaleAndRejectsInvalidValues()
+{
+    QTemporaryDir configBase;
+    QVERIFY(configBase.isValid());
+    SettingsStore settings(configBase.path());
+    QCOMPARE(settings.uiScale(), 1.0);
+    for (int tenths = 10; tenths <= 30; ++tenths) {
+        const qreal scale = tenths / 10.0;
+        settings.setUiScale(scale);
+        QCOMPARE(settings.uiScale(), scale);
+    }
+    settings.setUiScale(2.3);
+    settings.setUiScale(0.9);
+    settings.setUiScale(3.1);
+    settings.setUiScale(1.05);
+    settings.setUiScale(1e300);
+    settings.setUiScale(std::numeric_limits<qreal>::infinity());
+    QCOMPARE(settings.uiScale(), 2.3);
+
+    SettingsStore restored(configBase.path());
+    QCOMPARE(restored.uiScale(), 2.3);
+    QFile file(restored.filePath());
+    QVERIFY(file.open(QIODevice::ReadOnly));
+    QCOMPARE(QJsonDocument::fromJson(file.readAll()).object()
+                 .value(QStringLiteral("uiScale")).toDouble(), 2.3);
+    file.close();
+    QVERIFY(file.open(QIODevice::WriteOnly));
+    QVERIFY(file.write("{\"version\":2,\"theme\":\"light\",\"accentPreset\":\"purple\",\"readingSize\":16,\"uiScale\":1.05}") > 0);
+    file.close();
+    QVERIFY(!restored.reload());
+    QCOMPARE(restored.uiScale(), 2.3);
+}
+
 void SettingsTests::readsPreviousSettingsVersion()
 {
     QTemporaryDir configBase;
@@ -132,6 +169,7 @@ void SettingsTests::readsPreviousSettingsVersion()
     QCOMPARE(settings.readingSize(), 29);
     QCOMPARE(settings.accentPreset(), QStringLiteral("purple"));
     QCOMPARE(settings.poemFont(), QStringLiteral("vazirmatn"));
+    QCOMPARE(settings.uiScale(), 1.0);
     QVERIFY(!settings.hidePoemTranslations());
 }
 
@@ -146,6 +184,7 @@ void SettingsTests::rejectsInvalidPoemFont()
     file.close();
     QVERIFY(!settings.reload());
     QCOMPARE(settings.poemFont(), QStringLiteral("vazirmatn"));
+    QCOMPARE(settings.uiScale(), 1.0);
 }
 
 void SettingsTests::readsSettingsWithoutTranslationPreference()

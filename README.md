@@ -4,7 +4,7 @@
 
 LeoMoon ParsiNama (لئومون پارسی‌نما) is a desktop and Android reader for Persian poetry. It turns the Ganjoor poetry export in this repository into a local SQLite catalog, so you can browse poets and collections, read poems, and search their text without a network connection.
 
-The interface is in Persian and reads right to left. Poems show their verses in source order, including paired lines where the source marks a couplet. You can follow breadcrumbs through a poet's collections, move between poems in the same collection, and save bookmarks. Desktop builds can also print a poem or export it to PDF. Settings include light and dark themes, accent colors, and reading text size.
+The interface is in Persian and reads right to left. Poems show their verses in source order, including paired lines where the source marks a couplet. You can follow breadcrumbs through a poet's collections, move between poems in the same collection, and save bookmarks. Desktop builds can also print a poem or export it to PDF. Settings include light and dark themes, accent colors, poem fonts, reading text size, and an app scale dropdown from 1.0× to 3.0× in 0.1 steps. Selecting a scale applies it immediately and saves it for the next launch.
 
 ## Build and run
 

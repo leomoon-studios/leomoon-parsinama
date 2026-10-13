@@ -9,19 +9,19 @@ Button {
     property bool hasSwatch: false
     property color swatchColor: "transparent"
 
-    implicitHeight: 44
-    implicitWidth: 130
+    implicitHeight: UiMetrics.px(44)
+    implicitWidth: UiMetrics.px(130)
     focusPolicy: Qt.StrongFocus
     hoverEnabled: true
     Accessible.name: text
 
     contentItem: RowLayout {
-        spacing: 8
+        spacing: UiMetrics.px(8)
         Rectangle {
             visible: control.hasSwatch
-            Layout.preferredWidth: 16
-            Layout.preferredHeight: 16
-            radius: 8
+            Layout.preferredWidth: UiMetrics.px(16)
+            Layout.preferredHeight: UiMetrics.px(16)
+            radius: UiMetrics.px(8)
             color: control.swatchColor
             border.color: control.appTheme.border
         }
@@ -29,14 +29,15 @@ Button {
             Layout.fillWidth: true
             text: control.text
             font.family: control.font.family
-            font.pixelSize: 15
+            font.pixelSize: UiMetrics.px(15)
             color: control.appTheme.foreground
             horizontalAlignment: Text.AlignHCenter
             verticalAlignment: Text.AlignVCenter
+            elide: Text.ElideRight
         }
     }
     background: Rectangle {
-        radius: 10
+        radius: UiMetrics.px(10)
         color: control.selected || control.down
             ? control.appTheme.surfaceRaised : control.appTheme.surface
         border.color: control.activeFocus ? control.appTheme.focus

@@ -9,6 +9,7 @@ class SettingsStore final : public QObject
     Q_PROPERTY(QString theme READ theme WRITE setTheme NOTIFY settingsChanged)
     Q_PROPERTY(QString accentPreset READ accentPreset WRITE setAccentPreset NOTIFY settingsChanged)
     Q_PROPERTY(int readingSize READ readingSize WRITE setReadingSize NOTIFY settingsChanged)
+    Q_PROPERTY(qreal uiScale READ uiScale WRITE setUiScale NOTIFY settingsChanged)
     Q_PROPERTY(QString poemFont READ poemFont WRITE setPoemFont NOTIFY settingsChanged)
     Q_PROPERTY(bool hidePoemTranslations READ hidePoemTranslations WRITE setHidePoemTranslations NOTIFY settingsChanged)
     Q_PROPERTY(QString error READ error NOTIFY errorChanged)
@@ -20,6 +21,7 @@ public:
     QString theme() const { return m_theme; }
     QString accentPreset() const { return m_accentPreset; }
     int readingSize() const { return m_readingSize; }
+    qreal uiScale() const { return m_uiScaleTenths / 10.0; }
     QString poemFont() const { return m_poemFont; }
     bool hidePoemTranslations() const { return m_hidePoemTranslations; }
     QString error() const { return m_error; }
@@ -28,6 +30,7 @@ public:
     Q_INVOKABLE void setTheme(const QString &theme);
     Q_INVOKABLE void setAccentPreset(const QString &preset);
     Q_INVOKABLE void setReadingSize(int size);
+    Q_INVOKABLE void setUiScale(qreal scale);
     Q_INVOKABLE void setPoemFont(const QString &font);
     Q_INVOKABLE void setHidePoemTranslations(bool hide);
     Q_INVOKABLE void toggleTheme();
@@ -45,6 +48,7 @@ private:
     QString m_theme = QStringLiteral("light");
     QString m_accentPreset = QStringLiteral("purple");
     int m_readingSize = 16;
+    int m_uiScaleTenths = 10;
     QString m_poemFont = QStringLiteral("vazirmatn");
     bool m_hidePoemTranslations = false;
     QString m_error;

@@ -435,6 +435,86 @@ int main(int argc, char *argv[])
         }
         window->setProperty("page", QStringLiteral("settings"));
         QCoreApplication::processEvents();
+        QObject *uiScaleSelector = window->findChild<QObject *>(QStringLiteral("uiScaleSelector"));
+        QObject *uiScaleText = window->findChild<QObject *>(QStringLiteral("uiScaleText"));
+        QObject *uiScalePopup = window->findChild<QObject *>(QStringLiteral("uiScalePopup"));
+        QObject *uiScaleList = window->findChild<QObject *>(QStringLiteral("uiScaleList"));
+        if (!uiScaleSelector || !uiScaleText || !uiScalePopup || !uiScaleList
+            || uiScaleSelector->property("count").toInt() != 21
+            || uiScaleSelector->property("currentIndex").toInt() != 0
+            || uiScaleText->property("text").toString() != QStringLiteral("1.0×")
+            || uiScaleText->property("effectiveHorizontalAlignment").toInt() != Qt::AlignRight
+            || !QMetaObject::invokeMethod(uiScalePopup, "open")) {
+            std::fprintf(stderr, "The UI scale dropdown did not initialize at 1.0x: selector=%p text=%p popup=%p list=%p count=%d index=%d label=%s\n",
+                static_cast<void *>(uiScaleSelector), static_cast<void *>(uiScaleText),
+                static_cast<void *>(uiScalePopup), static_cast<void *>(uiScaleList),
+                uiScaleSelector ? uiScaleSelector->property("count").toInt() : -1,
+                uiScaleSelector ? uiScaleSelector->property("currentIndex").toInt() : -1,
+                uiScaleText ? qPrintable(uiScaleText->property("text").toString()) : "");
+            return EXIT_FAILURE;
+        }
+        QCoreApplication::processEvents();
+        if (!uiScalePopup->property("visible").toBool()
+            || uiScaleList->property("count").toInt() != 21
+            || !QMetaObject::invokeMethod(uiScaleSelector, "activated", Q_ARG(int, 5))) {
+            std::fprintf(stderr, "The UI scale dropdown did not show all 21 choices: visible=%d count=%d\n",
+                uiScalePopup->property("visible").toBool(), uiScaleList->property("count").toInt());
+            return EXIT_FAILURE;
+        }
+        QCoreApplication::processEvents();
+        if (appLogo->property("width").toReal() != 66
+            || headerTitle->property("font").value<QFont>().pixelSize() != 30
+            || settingsStore.uiScale() != 1.5
+            || uiScaleSelector->property("currentIndex").toInt() != 5
+            || uiScaleText->property("text").toString() != QStringLiteral("1.5×")
+            || uiScalePopup->property("visible").toBool()
+            || !window->property("compactHeader").toBool()) {
+            std::fprintf(stderr, "The interface did not resize at 1.5x: scale=%g index=%d text=%s popup=%d logo=%g font=%d compact=%d\n",
+                settingsStore.uiScale(), uiScaleSelector->property("currentIndex").toInt(),
+                qPrintable(uiScaleText->property("text").toString()), uiScalePopup->property("visible").toBool(),
+                appLogo->property("width").toReal(), headerTitle->property("font").value<QFont>().pixelSize(),
+                window->property("compactHeader").toBool());
+            return EXIT_FAILURE;
+        }
+        if (!QMetaObject::invokeMethod(uiScaleSelector, "activated", Q_ARG(int, 20))) {
+            qCritical("The UI scale dropdown could not select 3.0x");
+            return EXIT_FAILURE;
+        }
+        QCoreApplication::processEvents();
+        QObject *readingPreviewAtScale = window->findChild<QObject *>(
+            QStringLiteral("readingSizePreview"));
+        if (appLogo->property("width").toReal() != 132
+            || headerTitle->property("font").value<QFont>().pixelSize() != 60
+            || settingsStore.uiScale() != 3.0
+            || uiScaleSelector->property("currentIndex").toInt() != 20
+            || uiScaleText->property("text").toString() != QStringLiteral("3.0×")
+            || !readingPreviewAtScale
+            || readingPreviewAtScale->property("font").value<QFont>().pixelSize()
+                != settingsStore.readingSize() * 3
+            || settingsPage->property("contentHeight").toReal()
+                <= settingsPage->property("availableHeight").toReal()) {
+            qCritical("The interface did not resize or scroll at 3.0x");
+            return EXIT_FAILURE;
+        }
+        window->setProperty("width", 500);
+        QCoreApplication::processEvents();
+        QObject *narrowAccentChoice = window->findChild<QObject *>(QStringLiteral("accentChoice_purple"));
+        if (!narrowAccentChoice
+            || lightThemeChoice->property("width").toReal()
+                > settingsPage->property("availableWidth").toReal() + 1
+            || narrowAccentChoice->property("width").toReal()
+                > settingsPage->property("availableWidth").toReal() + 1
+            || readingSizeSelector->property("width").toReal()
+                > settingsPage->property("availableWidth").toReal() + 1
+            || uiScaleSelector->property("width").toReal()
+                > settingsPage->property("availableWidth").toReal() + 1
+            || uiScaleSelector->property("width").toReal() < 100) {
+            qCritical("The 3.0x settings controls do not fit a narrow window");
+            return EXIT_FAILURE;
+        }
+        window->setProperty("width", 1120);
+        settingsStore.setUiScale(1.0);
+        QCoreApplication::processEvents();
         QObject *settingsScrollBar = window->findChild<QObject *>(QStringLiteral("settingsScrollBar"));
         const qreal initialSettingsViewportHeight = settingsPage->property("availableHeight").toReal();
         const bool initialSettingsNeedsScroll = settingsPage->property("contentHeight").toReal()
@@ -604,6 +684,8 @@ int main(int argc, char *argv[])
                 QStringLiteral("readerToolbar"));
             auto *actionArea = window->findChild<QQuickItem *>(
                 QStringLiteral("readerActionArea"));
+            auto *actionViewport = window->findChild<QQuickItem *>(
+                QStringLiteral("readerActionViewport"));
             auto *bookmarkAction = window->findChild<QQuickItem *>(
                 QStringLiteral("toggleFavoriteButton"));
             auto *phoneTitle = window->findChild<QQuickItem *>(
@@ -626,11 +708,11 @@ int main(int argc, char *argv[])
                 || moreButton->property("height").toReal() < 44
                 || headerVersion->property("visible").toBool()
                 || headerSubtitle->property("visible").toBool()
-                || !readerToolbar || !actionArea || !bookmarkAction || !phoneTitle
+                || !readerToolbar || !actionArea || !actionViewport || !bookmarkAction || !phoneTitle
                 || !breadcrumbs->property("phoneMode").toBool()
                 || breadcrumbs->property("collapsed").toBool()
                 || breadcrumbs->property("width").toReal() < readerToolbar->width() - 2
-                || actionArea->y() < breadcrumbs->property("height").toReal()
+                || actionViewport->y() < breadcrumbs->property("height").toReal()
                 || bookmarkAction->width() < 44 || bookmarkAction->height() < 44
                 || !phoneTitle->isVisible()
                 || contentPane->property("radius").toReal() != 12) {
@@ -664,7 +746,7 @@ int main(int argc, char *argv[])
             }
             if (!window->property("phoneLayout").toBool()
                 || window->property("stackedReaderToolbar").toBool()
-                || actionArea->y() != 0
+                || actionViewport->y() != 0
                 || bookmarkAction->width() < 44 || bookmarkAction->height() < 44) {
                 qCritical("The phone landscape actions did not fit beside the breadcrumbs");
                 return EXIT_FAILURE;
@@ -1027,6 +1109,26 @@ int main(int argc, char *argv[])
                 qCritical("The poem scrollbar does not match its content size");
                 return EXIT_FAILURE;
             }
+            window->setProperty("simulatePhoneForSmokeTest", true);
+            window->setProperty("width", 390);
+            window->setProperty("height", 760);
+            settingsStore.setUiScale(3.0);
+            for (int attempt = 0; attempt < 12; ++attempt) {
+                QCoreApplication::processEvents();
+                QThread::msleep(10);
+            }
+            if (!window->property("stackedReaderToolbar").toBool()
+                || actionViewport->property("contentWidth").toReal() <= actionViewport->width()
+                || !actionViewport->property("interactive").toBool()
+                || poemList->property("height").toReal() < 132
+                || poemList->property("contentHeight").toReal()
+                    <= poemList->property("height").toReal()
+                || poemList->property("count").toInt() == 0) {
+                qCritical("The 3.0x phone poem layout has no usable reading area or scrolling actions");
+                return EXIT_FAILURE;
+            }
+            settingsStore.setUiScale(1.0);
+            window->setProperty("simulatePhoneForSmokeTest", false);
             window->setProperty("width", 600);
             window->setProperty("height", 760);
             QCoreApplication::processEvents();

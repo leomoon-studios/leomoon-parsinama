@@ -8,17 +8,17 @@ ScrollBar {
     property color activeThumbColor: "#9b8cff"
 
     policy: ScrollBar.AsNeeded
-    implicitWidth: 12
-    padding: 3
+    implicitWidth: UiMetrics.px(12)
+    padding: UiMetrics.px(3)
     minimumSize: 0.08
 
     contentItem: Rectangle {
-        implicitWidth: 6
-        radius: 3
+        implicitWidth: UiMetrics.px(6)
+        radius: UiMetrics.px(3)
         color: control.pressed || control.hovered ? control.activeThumbColor : control.thumbColor
     }
     background: Rectangle {
-        radius: 6
+        radius: UiMetrics.px(6)
         color: control.trackColor
     }
 }

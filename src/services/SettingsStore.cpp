@@ -7,12 +7,26 @@
 #include <QJsonObject>
 #include <QSaveFile>
 
+#include <cmath>
 #include <utility>
 
 namespace {
 constexpr int settingsVersion = 2;
 constexpr int minimumReadingSize = 16;
 constexpr int maximumReadingSize = 40;
+constexpr int minimumUiScaleTenths = 10;
+constexpr int maximumUiScaleTenths = 30;
+
+int validUiScaleTenths(qreal scale)
+{
+    if (!std::isfinite(scale) || scale < minimumUiScaleTenths / 10.0
+        || scale > maximumUiScaleTenths / 10.0)
+        return -1;
+    const qreal tenths = scale * 10;
+    const int rounded = qRound(tenths);
+    return rounded >= minimumUiScaleTenths && rounded <= maximumUiScaleTenths
+        && std::abs(tenths - rounded) < 0.000001 ? rounded : -1;
+}
 
 bool validAccentPreset(const QString &preset)
 {
@@ -73,6 +87,9 @@ bool SettingsStore::reload()
     const QString accentPreset = version == 1 ? QStringLiteral("purple")
         : object.value(QStringLiteral("accentPreset")).toString();
     const QJsonValue readingSize = object.value(QStringLiteral("readingSize"));
+    const QJsonValue uiScale = object.value(QStringLiteral("uiScale"));
+    const int uiScaleTenths = uiScale.isUndefined() ? minimumUiScaleTenths
+        : uiScale.isDouble() ? validUiScaleTenths(uiScale.toDouble()) : -1;
     const QJsonValue poemFont = object.value(QStringLiteral("poemFont"));
     const QJsonValue hidePoemTranslations = object.value(QStringLiteral("hidePoemTranslations"));
     if ((version != 1 && version != settingsVersion)
@@ -82,6 +99,7 @@ bool SettingsStore::reload()
         || readingSize.toDouble() != readingSize.toInt()
         || readingSize.toInt() < minimumReadingSize
         || readingSize.toInt() > maximumReadingSize
+        || uiScaleTenths < minimumUiScaleTenths
         || (!poemFont.isUndefined()
             && (!poemFont.isString() || !validPoemFont(poemFont.toString())))
         || (!hidePoemTranslations.isUndefined() && !hidePoemTranslations.isBool())) {
@@ -91,6 +109,7 @@ bool SettingsStore::reload()
     m_theme = theme;
     m_accentPreset = accentPreset;
     m_readingSize = readingSize.toInt();
+    m_uiScaleTenths = uiScaleTenths;
     m_poemFont = poemFont.isUndefined() ? QStringLiteral("vazirmatn") : poemFont.toString();
     m_hidePoemTranslations = hidePoemTranslations.toBool(false);
     setError({});
@@ -114,6 +133,7 @@ bool SettingsStore::save()
         {QStringLiteral("theme"), m_theme},
         {QStringLiteral("accentPreset"), m_accentPreset},
         {QStringLiteral("readingSize"), m_readingSize},
+        {QStringLiteral("uiScale"), m_uiScaleTenths / 10.0},
         {QStringLiteral("poemFont"), m_poemFont},
         {QStringLiteral("hidePoemTranslations"), m_hidePoemTranslations}
     };
@@ -155,6 +175,16 @@ void SettingsStore::setReadingSize(int size)
         return;
     }
     m_readingSize = bounded;
+    emit settingsChanged();
+    save();
+}
+
+void SettingsStore::setUiScale(qreal scale)
+{
+    const int tenths = validUiScaleTenths(scale);
+    if (tenths < minimumUiScaleTenths || m_uiScaleTenths == tenths)
+        return;
+    m_uiScaleTenths = tenths;
     emit settingsChanged();
     save();
 }
