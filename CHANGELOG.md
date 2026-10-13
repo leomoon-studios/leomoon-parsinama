@@ -1,7 +1,11 @@
 # Changelog
 
-## v1.0.0 - 2026-10-12
+## v1.0.0 - 2026-10-13
 
+- Remove test suffix from Android APK filename ([`016a25dc1`](https://github.com/leomoon-studios/leomoon-parsinama/commit/016a25dc1ae6230de9edc23a64ab1ff205e4d833))
+- Link release note authors to GitHub profiles ([`aee4bc2a6`](https://github.com/leomoon-studios/leomoon-parsinama/commit/aee4bc2a6d7a66cbcd43419287c77d3870963ea0))
+- List only commits in release notes ([`8853f0346`](https://github.com/leomoon-studios/leomoon-parsinama/commit/8853f03463931ca9b55fe7757a7542727ba78e52))
+- Update MD files ([`d58e00828`](https://github.com/leomoon-studios/leomoon-parsinama/commit/d58e00828b7c72532cf722007715140c6f370061))
 - Fix Linux Back smoke test after Android callback change ([`ef5cc49ea`](https://github.com/leomoon-studios/leomoon-parsinama/commit/ef5cc49eabb88d0a4d07720889986a2ebe232a13))
 - Handle Android Back without closing the app ([`3f3ac3528`](https://github.com/leomoon-studios/leomoon-parsinama/commit/3f3ac3528ab9d46e1d88be62dbfbc5285739d0e1))
 - List commits in GitHub release notes ([`32c3ffeb4`](https://github.com/leomoon-studios/leomoon-parsinama/commit/32c3ffeb42c1e27d6b87489cf51a203b3f4a53b9))
