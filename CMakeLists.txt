@@ -86,6 +86,8 @@ set_source_files_properties(qml/components/SettingsChoice.qml PROPERTIES QT_RESO
 set_source_files_properties(qml/components/AppMenuItem.qml PROPERTIES QT_RESOURCE_ALIAS components/AppMenuItem.qml)
 set_source_files_properties(qml/components/BreadcrumbBar.qml PROPERTIES QT_RESOURCE_ALIAS components/BreadcrumbBar.qml)
 set_source_files_properties(qml/settings/SettingsPage.qml PROPERTIES QT_RESOURCE_ALIAS settings/SettingsPage.qml)
+set_source_files_properties(qml/components/UiMetrics.qml PROPERTIES
+    QT_RESOURCE_ALIAS components/UiMetrics.qml QT_QML_SINGLETON_TYPE TRUE)
 set_source_files_properties(qml/reader/PoemPage.qml PROPERTIES QT_RESOURCE_ALIAS reader/PoemPage.qml)
 set_source_files_properties(qml/favorites/FavoritesPage.qml PROPERTIES QT_RESOURCE_ALIAS favorites/FavoritesPage.qml)
 set_source_files_properties(qml/search/SearchPage.qml PROPERTIES QT_RESOURCE_ALIAS search/SearchPage.qml)
@@ -97,6 +99,7 @@ qt_add_qml_module(leomoon_parsinama
         qml/Main.qml
         qml/theme/AppTheme.qml
         qml/components/Typography.qml
+        qml/components/UiMetrics.qml
         qml/components/HeaderAction.qml
         qml/components/AppScrollBar.qml
         qml/components/SettingsChoice.qml

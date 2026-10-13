@@ -5,10 +5,11 @@ MenuItem {
     id: control
     required property var appTheme
 
-    implicitWidth: 218
-    implicitHeight: 42
-    leftPadding: 14
-    rightPadding: 14
+    implicitWidth: UiMetrics.px(218)
+    implicitHeight: UiMetrics.px(42)
+    leftPadding: UiMetrics.px(14)
+    rightPadding: UiMetrics.px(14)
+    font.pixelSize: UiMetrics.px(15)
     hoverEnabled: true
     Accessible.name: text
 
@@ -24,7 +25,7 @@ MenuItem {
         elide: Text.ElideRight
     }
     background: Rectangle {
-        radius: 7
+        radius: UiMetrics.px(7)
         color: control.highlighted && control.enabled
             ? control.appTheme.surfaceRaised : "transparent"
         border.color: control.activeFocus ? control.appTheme.focus : "transparent"

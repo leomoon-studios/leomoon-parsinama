@@ -42,7 +42,7 @@ ListView {
                 (contentY - poemHeader.y) / Math.max(1, poemHeader.height)))
             return
         }
-        for (let offset = 2; offset <= spacing + 18; offset += 4) {
+        for (let offset = UiMetrics.px(2); offset <= spacing + UiMetrics.px(18); offset += UiMetrics.px(4)) {
             const index = indexAt(width / 2, contentY + offset)
             const item = index >= 0 ? itemAtIndex(index) : null
             if (item) {
@@ -92,15 +92,15 @@ ListView {
 
     model: poemLoader.readingRows
     clip: true
-    spacing: 8
+    spacing: UiMetrics.px(8)
     boundsBehavior: Flickable.StopAtBounds
     readonly property real contentInset: poemScrollBar.visible
-        ? poemScrollBar.width + (phoneMode ? 8 : 20) : 0
+        ? poemScrollBar.width + UiMetrics.px(phoneMode ? 8 : 20) : 0
 
     header: ColumnLayout {
-        width: reader.phoneMode ? Math.max(0, reader.width - x - 8) : reader.width - 20
-        x: reader.phoneMode ? reader.contentInset + 8 : 20
-        spacing: 12
+        width: reader.phoneMode ? Math.max(0, reader.width - x - UiMetrics.px(8)) : reader.width - UiMetrics.px(20)
+        x: reader.phoneMode ? reader.contentInset + UiMetrics.px(8) : UiMetrics.px(20)
+        spacing: UiMetrics.px(12)
         Label {
             LayoutMirroring.enabled: false
             Layout.fillWidth: true
@@ -108,7 +108,7 @@ ListView {
                 + " از " + reader.navigationController.poemCount
             color: reader.appTheme.muted
             font.family: reader.typography.family
-            font.pixelSize: 14
+            font.pixelSize: UiMetrics.px(14)
             horizontalAlignment: Text.AlignRight
         }
         Label {
@@ -118,7 +118,7 @@ ListView {
             text: "وزن: " + reader.poemLoader.metre
             color: reader.appTheme.muted
             font.family: reader.typography.family
-            font.pixelSize: 14
+            font.pixelSize: UiMetrics.px(14)
             horizontalAlignment: Text.AlignRight
             wrapMode: Text.Wrap
         }
@@ -127,12 +127,12 @@ ListView {
             visible: reader.poemLoader.summary !== ""
             LayoutMirroring.enabled: false
             Layout.fillWidth: true
-            Layout.bottomMargin: 12
+            Layout.bottomMargin: UiMetrics.px(12)
             text: reader.poemLoader.summary
             textFormat: Text.PlainText
             color: reader.appTheme.muted
             font.family: reader.typography.family
-            font.pixelSize: 15
+            font.pixelSize: UiMetrics.px(15)
             horizontalAlignment: Text.AlignJustify
             wrapMode: Text.Wrap
         }
@@ -157,23 +157,23 @@ ListView {
         required property string position
         required property string note
         property bool noteExpanded: false
-        readonly property bool stacked: reader.phoneMode || reader.width < 700
+        readonly property bool stacked: reader.phoneMode || reader.width < UiMetrics.px(700)
         width: reader.width
-        height: readingContent.height + (kind === "section" ? 24 : 14)
+        height: readingContent.height + UiMetrics.px(kind === "section" ? 24 : 14)
 
         Item {
             id: readingContent
             LayoutMirroring.enabled: false
             width: reader.phoneMode
-                ? Math.min(Math.max(0, verseEntry.width - reader.contentInset - 8), 1000)
-                : Math.min(Math.max(0, verseEntry.width - 48), 1000)
+                ? Math.min(Math.max(0, verseEntry.width - reader.contentInset - UiMetrics.px(8)), UiMetrics.px(1000))
+                : Math.min(Math.max(0, verseEntry.width - UiMetrics.px(48)), UiMetrics.px(1000))
             x: reader.phoneMode
                 ? reader.contentInset + (verseEntry.width - reader.contentInset - width) / 2
                 : (verseEntry.width - width + reader.contentInset) / 2
             height: verseEntry.kind === "section" ? sectionLabel.implicitHeight
                 : verseEntry.paired
                     ? (verseEntry.stacked
-                        ? rightVerse.implicitHeight + leftVerse.implicitHeight + 10
+                        ? rightVerse.implicitHeight + leftVerse.implicitHeight + UiMetrics.px(10)
                         : Math.max(rightVerse.implicitHeight, leftVerse.implicitHeight))
                         + (noteBlock.visible ? noteBlock.height : 0)
                     : singleVerse.implicitHeight + (noteBlock.visible ? noteBlock.height : 0)
@@ -187,7 +187,7 @@ ListView {
                 textFormat: Text.PlainText
                 color: reader.appTheme.muted
                 font.family: reader.poemFontFamily
-                font.pixelSize: Math.max(17, reader.settingsStore.readingSize - 2)
+                font.pixelSize: UiMetrics.px(Math.max(17, reader.settingsStore.readingSize - 2))
                 font.weight: Font.DemiBold
                 horizontalAlignment: Text.AlignHCenter
             }
@@ -195,13 +195,13 @@ ListView {
                 id: rightVerse
                 objectName: "poemRightVerseText"
                 visible: verseEntry.kind === "verse" && verseEntry.paired
-                width: verseEntry.stacked ? readingContent.width : (readingContent.width - 28) / 2
+                width: verseEntry.stacked ? readingContent.width : (readingContent.width - UiMetrics.px(28)) / 2
                 x: verseEntry.stacked ? 0 : readingContent.width - width
                 text: verseEntry.rightText
                 textFormat: Text.PlainText
                 color: reader.appTheme.foreground
                 font.family: reader.poemFontFamily
-                font.pixelSize: reader.settingsStore.readingSize
+                font.pixelSize: UiMetrics.px(reader.settingsStore.readingSize)
                 horizontalAlignment: verseEntry.stacked ? Text.AlignHCenter
                     : lineCount > 1 ? Text.AlignJustify : Text.AlignHCenter
                 wrapMode: Text.Wrap
@@ -210,13 +210,13 @@ ListView {
                 id: leftVerse
                 objectName: "poemLeftVerseText"
                 visible: verseEntry.kind === "verse" && verseEntry.paired
-                width: verseEntry.stacked ? readingContent.width : (readingContent.width - 28) / 2
-                y: verseEntry.stacked ? rightVerse.implicitHeight + 10 : 0
+                width: verseEntry.stacked ? readingContent.width : (readingContent.width - UiMetrics.px(28)) / 2
+                y: verseEntry.stacked ? rightVerse.implicitHeight + UiMetrics.px(10) : 0
                 text: verseEntry.leftText
                 textFormat: Text.PlainText
                 color: reader.appTheme.foreground
                 font.family: reader.poemFontFamily
-                font.pixelSize: reader.settingsStore.readingSize
+                font.pixelSize: UiMetrics.px(reader.settingsStore.readingSize)
                 horizontalAlignment: verseEntry.stacked ? Text.AlignHCenter
                     : lineCount > 1 ? Text.AlignJustify : Text.AlignHCenter
                 wrapMode: Text.Wrap
@@ -230,7 +230,7 @@ ListView {
                 textFormat: Text.PlainText
                 color: reader.appTheme.foreground
                 font.family: reader.poemFontFamily
-                font.pixelSize: reader.settingsStore.readingSize
+                font.pixelSize: UiMetrics.px(reader.settingsStore.readingSize)
                 horizontalAlignment: verseEntry.position === "Paragraph"
                     || verseEntry.position === "Comment"
                     ? Text.AlignJustify : Text.AlignHCenter
@@ -244,15 +244,15 @@ ListView {
                 width: parent.width
                 y: verseEntry.paired
                     ? (verseEntry.stacked
-                        ? rightVerse.implicitHeight + leftVerse.implicitHeight + 10
+                        ? rightVerse.implicitHeight + leftVerse.implicitHeight + UiMetrics.px(10)
                         : Math.max(rightVerse.implicitHeight, leftVerse.implicitHeight))
                     : singleVerse.implicitHeight
-                spacing: 4
+                spacing: UiMetrics.px(4)
                 Button {
                     id: noteToggleButton
                     text: verseEntry.noteExpanded ? "بستن معنی" : "معنی بیت"
                     font.family: reader.typography.family
-                    font.pixelSize: 13
+                    font.pixelSize: UiMetrics.px(13)
                     onClicked: verseEntry.noteExpanded = !verseEntry.noteExpanded
                     background: Item {}
                     contentItem: Text {
@@ -270,7 +270,7 @@ ListView {
                     textFormat: Text.PlainText
                     color: reader.appTheme.muted
                     font.family: reader.typography.family
-                    font.pixelSize: Math.max(14, reader.settingsStore.readingSize - 4)
+                    font.pixelSize: UiMetrics.px(Math.max(14, reader.settingsStore.readingSize - 4))
                     horizontalAlignment: Text.AlignJustify
                     wrapMode: Text.Wrap
                 }

@@ -14,18 +14,20 @@ ApplicationWindow {
     required property var searchRepository
     required property var navigationController
     required property var settingsStore
+    readonly property real uiScale: settingsStore.uiScale
     required property var bookmarkStore
     property var printService: null
     property var catalogStartup: null
     property bool simulatePhoneForSmokeTest: false
     readonly property bool printingSupported: Qt.platform.os !== "android"
     readonly property bool phoneLayout: (Qt.platform.os === "android" || simulatePhoneForSmokeTest)
-        && (width < 600 || height < 500)
-    readonly property bool compactHeader: width < 760 || phoneLayout
-    readonly property bool compactBrowse: width < 760 || phoneLayout
+        && (width < UiMetrics.px(600) || height < UiMetrics.px(500))
+    readonly property bool compactHeader: width < UiMetrics.px(760) || phoneLayout
+    readonly property bool compactBrowse: width < UiMetrics.px(760) || phoneLayout
     readonly property bool shortAndroidView: (Qt.platform.os === "android" || simulatePhoneForSmokeTest)
-        && height < 500
-    readonly property bool stackedReaderToolbar: compactBrowse && !shortAndroidView
+        && width > height && height < UiMetrics.px(500)
+    readonly property bool stackedReaderToolbar: compactBrowse
+        && (!shortAndroidView || width < UiMetrics.px(600))
     readonly property real keyboardInset: Qt.platform.os === "android" && Qt.inputMethod.visible
         && Qt.inputMethod.keyboardRectangle.height > 0
         ? Math.max(0, height - Qt.inputMethod.keyboardRectangle.y) : 0
@@ -87,6 +89,7 @@ ApplicationWindow {
     title: "لئومون پارسی‌نما"
     color: colors.background
     font.family: typography.family
+    font.pixelSize: UiMetrics.px(16)
 
     LayoutMirroring.enabled: true
     LayoutMirroring.childrenInherit: true
@@ -226,7 +229,7 @@ ApplicationWindow {
         if (!canPrintCurrentPoem)
             return
         const anchor = root.compactHeader ? moreButton : printButton
-        printMenu.popup(anchor, 0, anchor.height + 8)
+        printMenu.popup(anchor, 0, anchor.height + UiMetrics.px(8))
     }
 
 
@@ -372,23 +375,30 @@ ApplicationWindow {
 
     Typography { id: typography }
 
+    Binding {
+        target: UiMetrics
+        property: "scale"
+        value: root.uiScale
+    }
+
     ColumnLayout {
         anchors.fill: parent
-        anchors.margins: root.phoneLayout ? 10 : root.compactHeader ? 16 : 20
-        anchors.bottomMargin: (root.phoneLayout ? 10 : root.compactHeader ? 16 : 20)
+        anchors.margins: UiMetrics.px(root.phoneLayout ? 10 : root.compactHeader ? 16 : 20)
+        anchors.bottomMargin: UiMetrics.px(root.phoneLayout ? 10 : root.compactHeader ? 16 : 20)
             + root.keyboardInset
-        spacing: root.phoneLayout ? 8 : root.shortAndroidView ? 8 : 18
+        spacing: UiMetrics.px(root.phoneLayout ? 8 : root.shortAndroidView ? 8 : 18)
 
         RowLayout {
             objectName: "header"
             Layout.fillWidth: true
-            spacing: 12
+            Layout.minimumWidth: 0
+            spacing: UiMetrics.px(12)
 
             Image {
                 id: appLogo
                 objectName: "appLogo"
-                Layout.preferredWidth: 44
-                Layout.preferredHeight: 44
+                Layout.preferredWidth: UiMetrics.px(44)
+                Layout.preferredHeight: UiMetrics.px(44)
                 source: "qrc:/qt/qml/LeoMoon/ParsiNama/assets/app-icon.svg"
                 sourceSize: Qt.size(256, 256)
                 fillMode: Image.PreserveAspectFit
@@ -398,17 +408,20 @@ ApplicationWindow {
             }
             ColumnLayout {
                 Layout.fillWidth: true
+                Layout.minimumWidth: 0
                 spacing: 0
                 RowLayout {
                     Layout.fillWidth: true
-                    spacing: 8
+                    Layout.minimumWidth: 0
+                    spacing: UiMetrics.px(8)
                     Label {
                         objectName: "headerTitle"
                         text: "لئومون پارسی‌نما"
                         color: colors.foreground
-                        font.pixelSize: 20
+                        font.pixelSize: UiMetrics.px(20)
                         font.weight: Font.DemiBold
                         elide: Text.ElideRight
+                        Layout.minimumWidth: 0
                         Layout.maximumWidth: parent.width - (applicationVersion.visible
                             ? applicationVersion.implicitWidth + parent.spacing : 0)
                         Layout.alignment: Qt.AlignBaseline
@@ -419,7 +432,7 @@ ApplicationWindow {
                         text: "v" + Qt.application.version
                         visible: !root.phoneLayout
                         color: colors.muted
-                        font.pixelSize: 12
+                        font.pixelSize: UiMetrics.px(12)
                         LayoutMirroring.enabled: false
                         Layout.alignment: Qt.AlignBaseline
                     }
@@ -431,7 +444,7 @@ ApplicationWindow {
                     text: "گنجینه شعر پارسی"
                     visible: !root.phoneLayout
                     color: colors.muted
-                    font.pixelSize: 12
+                    font.pixelSize: UiMetrics.px(12)
                     elide: Text.ElideRight
                 }
             }
@@ -507,8 +520,8 @@ ApplicationWindow {
                 hint: root.phoneLayout ? "باز کردن فهرست" : "گزینه‌های بیشتر"
                 font.family: typography.iconFamily
                 visible: root.compactHeader
-                Layout.minimumWidth: 44
-                Layout.minimumHeight: 44
+                Layout.minimumWidth: UiMetrics.px(44)
+                Layout.minimumHeight: UiMetrics.px(44)
                 surfaceColor: colors.surface
                 textColor: colors.foreground
                 borderColor: colors.border
@@ -520,20 +533,20 @@ ApplicationWindow {
                         text: moreButton.symbol
                         color: moreButton.enabled ? moreButton.textColor : moreButton.borderColor
                         font.family: typography.iconFamily
-                        font.pixelSize: 24
+                        font.pixelSize: UiMetrics.px(24)
                         horizontalAlignment: Text.AlignHCenter
                         verticalAlignment: Text.AlignVCenter
                     }
                     Column {
                         anchors.centerIn: parent
                         visible: root.phoneLayout
-                        spacing: 4
+                        spacing: UiMetrics.px(4)
                         Repeater {
                             model: 3
                             Rectangle {
-                                width: 20
-                                height: 2
-                                radius: 1
+                                width: UiMetrics.px(20)
+                                height: UiMetrics.px(2)
+                                radius: UiMetrics.px(1)
                                 color: moreButton.enabled ? moreButton.textColor : moreButton.borderColor
                             }
                         }
@@ -548,7 +561,7 @@ ApplicationWindow {
                         }
                         navigationDrawer.open()
                     } else {
-                        overflowMenu.popup(moreButton, 0, moreButton.height + 8)
+                        overflowMenu.popup(moreButton, 0, moreButton.height + UiMetrics.px(8))
                     }
                 }
             }
@@ -557,27 +570,29 @@ ApplicationWindow {
         RowLayout {
             Layout.fillWidth: true
             Layout.fillHeight: true
-            spacing: 16
+            Layout.minimumWidth: 0
+            spacing: UiMetrics.px(16)
 
             Rectangle {
                 id: poetPane
                 objectName: "poetPane"
                 visible: !root.compactBrowse || root.page === "poets"
-                Layout.preferredWidth: root.compactBrowse ? 0 : 280
+                Layout.preferredWidth: root.compactBrowse ? 0 : UiMetrics.px(280)
                 Layout.fillWidth: root.compactBrowse
                 Layout.fillHeight: true
-                radius: 18
+                Layout.minimumWidth: 0
+                radius: UiMetrics.px(18)
                 color: colors.surface
                 border.color: colors.border
                 clip: true
                 ColumnLayout {
                     anchors.fill: parent
-                    anchors.margins: 14
-                    spacing: 8
+                    anchors.margins: UiMetrics.px(14)
+                    spacing: UiMetrics.px(8)
                     Label {
                         text: "شاعران"
                         color: colors.foreground
-                        font.pixelSize: 19
+                        font.pixelSize: UiMetrics.px(19)
                         font.weight: Font.DemiBold
                     }
                     TextField {
@@ -586,7 +601,7 @@ ApplicationWindow {
                         LayoutMirroring.enabled: false
                         Layout.fillWidth: true
                         font.family: typography.family
-                        font.pixelSize: 15
+                        font.pixelSize: UiMetrics.px(15)
                         color: colors.foreground
                         horizontalAlignment: Text.AlignRight
                         inputMethodHints: Qt.ImhNoPredictiveText
@@ -595,8 +610,8 @@ ApplicationWindow {
                         Text {
                             objectName: "poetFilterPlaceholder"
                             anchors.fill: parent
-                            anchors.leftMargin: 10
-                            anchors.rightMargin: 10
+                            anchors.leftMargin: UiMetrics.px(10)
+                            anchors.rightMargin: UiMetrics.px(10)
                             LayoutMirroring.enabled: false
                             visible: poetFilter.length === 0 && !poetFilter.activeFocus
                             text: "جستجوی شاعر"
@@ -606,7 +621,7 @@ ApplicationWindow {
                             verticalAlignment: Text.AlignVCenter
                         }
                         background: Rectangle {
-                            radius: 9
+                            radius: UiMetrics.px(9)
                             color: colors.surface
                             border.color: poetFilter.activeFocus ? colors.focus : colors.border
                             border.width: poetFilter.activeFocus ? 2 : 1
@@ -615,12 +630,12 @@ ApplicationWindow {
                     ListView {
                         id: poetList
                         objectName: "poetList"
-                        readonly property real rowGutter: poetScrollBar.width + 8
+                        readonly property real rowGutter: poetScrollBar.width + UiMetrics.px(8)
                         Layout.fillWidth: true
                         Layout.fillHeight: true
                         model: root.poetListModel
                         clip: true
-                        spacing: 4
+                        spacing: UiMetrics.px(4)
                         boundsBehavior: Flickable.StopAtBounds
                         ScrollBar.vertical: AppScrollBar {
                             id: poetScrollBar
@@ -641,11 +656,12 @@ ApplicationWindow {
                                 id: poetRow
                                 objectName: "poetRow"
                                 x: poetList.rowGutter
-                                width: poetEntry.width - poetList.rowGutter - 4
+                                width: poetEntry.width - poetList.rowGutter - UiMetrics.px(4)
                                 LayoutMirroring.enabled: true
                                 text: poetEntry.name
                                 font.family: typography.family
-                                implicitHeight: Math.max(48,
+                                font.pixelSize: UiMetrics.px(16)
+                                implicitHeight: Math.max(UiMetrics.px(48),
                                     contentItem.implicitHeight + topPadding + bottomPadding)
                                 hoverEnabled: true
                                 contentItem: Text {
@@ -662,7 +678,7 @@ ApplicationWindow {
                                 focusPolicy: Qt.StrongFocus
                                 Accessible.name: poetEntry.name
                                 background: Rectangle {
-                                    radius: 9
+                                    radius: UiMetrics.px(9)
                                     color: poetEntry.fullUrl === root.selectedPoetUrl ? colors.accent
                                         : poetRow.pressed || poetRow.hovered
                                             ? colors.surfaceRaised : colors.surface
@@ -683,7 +699,8 @@ ApplicationWindow {
                 visible: !root.compactBrowse || root.page !== "poets"
                 Layout.fillWidth: true
                 Layout.fillHeight: true
-                radius: root.phoneLayout ? 12 : 18
+                Layout.minimumWidth: 0
+                radius: UiMetrics.px(root.phoneLayout ? 12 : 18)
                 color: colors.surface
                 border.color: colors.border
                 Item {
@@ -693,13 +710,13 @@ ApplicationWindow {
                     ColumnLayout {
                         objectName: "welcomeContent"
                         anchors.centerIn: parent
-                        width: Math.min(parent.width - 48, 560)
-                        spacing: 12
+                        width: Math.min(parent.width - UiMetrics.px(48), UiMetrics.px(560))
+                        spacing: UiMetrics.px(12)
                         Label {
                             objectName: "welcomeLabel"
                             text: "به لئومون پارسی‌نما خوش آمدید"
                             color: colors.foreground
-                            font.pixelSize: 27
+                            font.pixelSize: UiMetrics.px(27)
                             font.weight: Font.DemiBold
                             Layout.fillWidth: true
                             horizontalAlignment: Text.AlignHCenter
@@ -708,7 +725,7 @@ ApplicationWindow {
                         Label {
                             text: "برای خواندن، شاعری را از فهرست انتخاب کنید."
                             color: colors.muted
-                            font.pixelSize: 16
+                            font.pixelSize: UiMetrics.px(16)
                             Layout.fillWidth: true
                             horizontalAlignment: Text.AlignHCenter
                             wrapMode: Text.Wrap
@@ -717,106 +734,119 @@ ApplicationWindow {
                 }
                 ColumnLayout {
                     anchors.fill: parent
-                    anchors.margins: root.phoneLayout ? (root.shortAndroidView ? 6 : 8) : 14
-                    spacing: root.phoneLayout ? (root.shortAndroidView ? 6 : 8) : 16
+                    anchors.margins: UiMetrics.px(root.phoneLayout ? (root.shortAndroidView ? 6 : 8) : 14)
+                    spacing: UiMetrics.px(root.phoneLayout ? (root.shortAndroidView ? 6 : 8) : 16)
                     visible: root.page !== "poets"
                     Item {
                         id: readerToolbar
                         objectName: "readerToolbar"
                         Layout.fillWidth: true
                         Layout.preferredHeight: root.stackedReaderToolbar
-                            ? (root.phoneLayout ? 84 : 86) : 44
+                            ? UiMetrics.px(root.phoneLayout ? 84 : 86) : UiMetrics.px(44)
                         visible: root.page === "poet" || root.page === "collection" || root.page === "poem"
-                        readonly property real landscapeCrumbWidth: Math.max(160,
-                            Math.min(breadcrumbs.fullCrumbWidth, 250))
+                        readonly property real landscapeCrumbWidth: Math.max(UiMetrics.px(160),
+                            Math.min(breadcrumbs.fullCrumbWidth, UiMetrics.px(250)))
                         TextMetrics {
                             id: inlineTitleMeasure
                             text: root.currentContentTitle
                             font.family: typography.family
-                            font.pixelSize: 24
+                            font.pixelSize: UiMetrics.px(24)
                             font.weight: Font.DemiBold
                         }
                         readonly property bool inlinePhoneTitle: root.phoneLayout
                             && root.shortAndroidView
+                            && !root.stackedReaderToolbar
                             && (root.page === "poet" || root.page === "collection" || root.page === "poem")
                             && inlineTitleMeasure.advanceWidth + actionRow.width
-                                + landscapeCrumbWidth + 24 <= width
+                                + landscapeCrumbWidth + UiMetrics.px(24) <= width
                         BreadcrumbBar {
                             id: breadcrumbs
                             objectName: "breadcrumbBar"
                             x: root.stackedReaderToolbar ? 0
                                 : readerToolbar.inlinePhoneTitle
                                     ? parent.width - readerToolbar.landscapeCrumbWidth
-                                    : actionRow.width + 8
+                                    : actionRow.width + UiMetrics.px(8)
                             width: root.stackedReaderToolbar ? parent.width
                                 : readerToolbar.inlinePhoneTitle
                                     ? readerToolbar.landscapeCrumbWidth
-                                    : parent.width - actionRow.width - 8
-                            height: 38
+                                    : parent.width - actionRow.width - UiMetrics.px(8)
+                            height: UiMetrics.px(38)
                             navigationController: root.navigationController
                             appTheme: colors
                             typography: typography
                             phoneMode: root.phoneLayout
                             onActivated: (index) => root.openBreadcrumb(index)
                         }
-                        RowLayout {
-                            id: actionRow
-                            objectName: "readerActionArea"
+                        Flickable {
+                            id: actionViewport
+                            objectName: "readerActionViewport"
                             x: 0
-                            y: root.stackedReaderToolbar ? (root.phoneLayout ? 40 : 42) : 0
-                            width: implicitWidth
-                            height: 44
-                            spacing: 8
-                            HeaderAction {
-                                objectName: "toggleFavoriteButton"
-                                enabled: root.bookmarkStore.canFavoriteCurrent
-                                symbol: "\ue866"
-                                hint: root.bookmarkStore.currentFavorite ? "حذف نشانک" : "افزودن نشانک"
-                                font.family: typography.iconFamily
-                                surfaceColor: colors.surface
-                                textColor: root.bookmarkStore.currentFavorite ? colors.accent : colors.foreground
-                                borderColor: colors.border
-                                focusColor: colors.focus
-                                onClicked: root.bookmarkStore.toggleCurrent()
-                            }
-                            HeaderAction {
-                                objectName: "previousPoemButton"
-                                visible: root.page === "poem"
-                                enabled: root.navigationController.hasPreviousPoem
-                                symbol: "\ue5c8"
-                                hint: "شعر پیشین"
-                                font.family: typography.iconFamily
-                                surfaceColor: colors.surface
-                                textColor: colors.foreground
-                                borderColor: colors.border
-                                focusColor: colors.focus
-                                onClicked: root.previousPoem()
-                            }
-                            HeaderAction {
-                                objectName: "nextPoemButton"
-                                visible: root.page === "poem"
-                                enabled: root.navigationController.hasNextPoem
-                                symbol: "\ue5c4"
-                                hint: "شعر بعدی"
-                                font.family: typography.iconFamily
-                                surfaceColor: colors.surface
-                                textColor: colors.foreground
-                                borderColor: colors.border
-                                focusColor: colors.focus
-                                onClicked: root.nextPoem()
+                            y: root.stackedReaderToolbar ? UiMetrics.px(root.phoneLayout ? 40 : 42) : 0
+                            width: root.stackedReaderToolbar ? parent.width : actionRow.implicitWidth
+                            height: UiMetrics.px(44)
+                            contentWidth: actionRow.implicitWidth
+                            contentHeight: height
+                            flickableDirection: Flickable.HorizontalFlick
+                            boundsBehavior: Flickable.StopAtBounds
+                            interactive: contentWidth > width
+                            clip: true
+                            RowLayout {
+                                id: actionRow
+                                objectName: "readerActionArea"
+                                width: implicitWidth
+                                height: parent.height
+                                spacing: UiMetrics.px(8)
+                                HeaderAction {
+                                    objectName: "toggleFavoriteButton"
+                                    enabled: root.bookmarkStore.canFavoriteCurrent
+                                    symbol: "\ue866"
+                                    hint: root.bookmarkStore.currentFavorite ? "حذف نشانک" : "افزودن نشانک"
+                                    font.family: typography.iconFamily
+                                    surfaceColor: colors.surface
+                                    textColor: root.bookmarkStore.currentFavorite ? colors.accent : colors.foreground
+                                    borderColor: colors.border
+                                    focusColor: colors.focus
+                                    onClicked: root.bookmarkStore.toggleCurrent()
+                                }
+                                HeaderAction {
+                                    objectName: "previousPoemButton"
+                                    visible: root.page === "poem"
+                                    enabled: root.navigationController.hasPreviousPoem
+                                    symbol: "\ue5c8"
+                                    hint: "شعر پیشین"
+                                    font.family: typography.iconFamily
+                                    surfaceColor: colors.surface
+                                    textColor: colors.foreground
+                                    borderColor: colors.border
+                                    focusColor: colors.focus
+                                    onClicked: root.previousPoem()
+                                }
+                                HeaderAction {
+                                    objectName: "nextPoemButton"
+                                    visible: root.page === "poem"
+                                    enabled: root.navigationController.hasNextPoem
+                                    symbol: "\ue5c4"
+                                    hint: "شعر بعدی"
+                                    font.family: typography.iconFamily
+                                    surfaceColor: colors.surface
+                                    textColor: colors.foreground
+                                    borderColor: colors.border
+                                    focusColor: colors.focus
+                                    onClicked: root.nextPoem()
+                                }
                             }
                         }
                         Label {
                             id: inlineTitle
                             objectName: "landscapeContentTitle"
                             visible: readerToolbar.inlinePhoneTitle
-                            x: actionRow.width + 8
+                            x: actionRow.width + UiMetrics.px(8)
                             y: 0
-                            width: breadcrumbs.x - x - 8
-                            height: 44
+                            width: breadcrumbs.x - x - UiMetrics.px(8)
+                            height: UiMetrics.px(44)
                             text: root.currentContentTitle
                             color: colors.foreground
-                            font.pixelSize: 24
+                            font.pixelSize: UiMetrics.px(24)
                             font.weight: Font.DemiBold
                             horizontalAlignment: Text.AlignHCenter
                             verticalAlignment: Text.AlignVCenter
@@ -826,14 +856,17 @@ ApplicationWindow {
                     Label {
                         objectName: "contentTitle"
                         visible: !readerToolbar.inlinePhoneTitle
+                            && !(root.phoneLayout && root.uiScale >= 2 && root.page === "poem")
                         LayoutMirroring.enabled: false
                         text: root.currentContentTitle
                         color: colors.foreground
-                        font.pixelSize: 24
+                        font.pixelSize: UiMetrics.px(24)
                         font.weight: Font.DemiBold
                         Layout.fillWidth: true
                         horizontalAlignment: Text.AlignHCenter
                         wrapMode: Text.Wrap
+                        maximumLineCount: root.phoneLayout && root.uiScale >= 2 ? 1 : 100
+                        elide: root.phoneLayout && root.uiScale >= 2 ? Text.ElideRight : Text.ElideNone
                     }
                     SettingsPage {
                         id: settingsPage
@@ -870,13 +903,13 @@ ApplicationWindow {
                     ListView {
                         id: collectionList
                         objectName: "collectionList"
-                        readonly property real rowGutter: collectionScrollBar.width + 8
+                        readonly property real rowGutter: collectionScrollBar.width + UiMetrics.px(8)
                         visible: root.page === "poet" || root.page === "collection"
                         Layout.fillWidth: true
                         Layout.fillHeight: true
                         model: root.collectionListModel
                         clip: true
-                        spacing: 4
+                        spacing: UiMetrics.px(4)
                         onContentHeightChanged: {
                             if (visible && root.navigationController.collectionScroll === 0
                                 && contentY <= 0)
@@ -884,9 +917,9 @@ ApplicationWindow {
                         }
                         onMovementStarted: collectionScrollTimer.stop()
                         header: ColumnLayout {
-                            width: collectionList.width - collectionList.rowGutter - 4
+                            width: collectionList.width - collectionList.rowGutter - UiMetrics.px(4)
                             x: collectionList.rowGutter
-                            spacing: 16
+                            spacing: UiMetrics.px(16)
                             Label {
                                 objectName: "poetBiography"
                                 visible: root.page === "poet" && root.navigationController.poetDescription !== ""
@@ -894,7 +927,7 @@ ApplicationWindow {
                                 Layout.fillWidth: true
                                 text: root.navigationController.poetDescription
                                 color: colors.foreground
-                                font.pixelSize: 15
+                                font.pixelSize: UiMetrics.px(15)
                                 horizontalAlignment: Text.AlignRight
                                 wrapMode: Text.Wrap
                             }
@@ -903,7 +936,7 @@ ApplicationWindow {
                                 LayoutMirroring.enabled: false
                                 text: root.navigationController.bookName
                                 color: colors.muted
-                                font.pixelSize: 15
+                                font.pixelSize: UiMetrics.px(15)
                                 Layout.fillWidth: true
                                 horizontalAlignment: Text.AlignRight
                             }
@@ -915,7 +948,7 @@ ApplicationWindow {
                                 Layout.fillWidth: true
                                 text: root.navigationController.description
                                 color: colors.foreground
-                                font.pixelSize: 15
+                                font.pixelSize: UiMetrics.px(15)
                                 horizontalAlignment: Text.AlignRight
                                 wrapMode: Text.Wrap
                             }
@@ -924,9 +957,9 @@ ApplicationWindow {
                                 text: root.collectionListModel.categoryCount + " مجموعه · "
                                     + root.collectionListModel.poemCount + " شعر"
                                 color: colors.muted
-                                font.pixelSize: 14
+                                font.pixelSize: UiMetrics.px(14)
                                 Layout.fillWidth: true
-                                Layout.bottomMargin: 12
+                                Layout.bottomMargin: UiMetrics.px(12)
                                 horizontalAlignment: Text.AlignRight
                             }
                         }
@@ -950,11 +983,12 @@ ApplicationWindow {
                                 id: collectionRow
                                 objectName: "collectionRow"
                                 x: collectionList.rowGutter
-                                width: collectionEntry.width - collectionList.rowGutter - 4
+                                width: collectionEntry.width - collectionList.rowGutter - UiMetrics.px(4)
                                 LayoutMirroring.enabled: true
                                 text: collectionEntry.title
                                 font.family: typography.family
-                                implicitHeight: Math.max(48,
+                                font.pixelSize: UiMetrics.px(16)
+                                implicitHeight: Math.max(UiMetrics.px(48),
                                     contentItem.implicitHeight + topPadding + bottomPadding)
                                 hoverEnabled: true
                                 contentItem: Text {
@@ -970,7 +1004,7 @@ ApplicationWindow {
                                 focusPolicy: Qt.StrongFocus
                                 Accessible.name: collectionEntry.title
                                 background: Rectangle {
-                                    radius: 9
+                                    radius: UiMetrics.px(9)
                                     color: collectionRow.pressed || collectionRow.hovered
                                         ? colors.surfaceRaised : colors.surface
                                     border.color: collectionRow.activeFocus ? colors.focus : colors.border
@@ -1038,14 +1072,14 @@ ApplicationWindow {
         Rectangle {
             Layout.fillWidth: true
             visible: root.statusMessage !== ""
-            implicitHeight: 40
-            radius: 10
+            implicitHeight: UiMetrics.px(40)
+            radius: UiMetrics.px(10)
             color: colors.surface
             border.color: colors.border
             Label {
                 objectName: "catalogStatus"
                 anchors.fill: parent
-                anchors.margins: 10
+                anchors.margins: UiMetrics.px(10)
                 LayoutMirroring.enabled: false
                 text: root.statusMessage
                 color: colors.muted
@@ -1063,12 +1097,12 @@ ApplicationWindow {
         color: colors.background
         ColumnLayout {
             anchors.centerIn: parent
-            width: Math.min(parent.width - 40, 440)
-            spacing: 16
+            width: Math.min(parent.width - UiMetrics.px(40), UiMetrics.px(440))
+            spacing: UiMetrics.px(16)
             Label {
                 Layout.fillWidth: true
                 text: "آماده‌سازی کتابخانهٔ آفلاین"
-                font.pixelSize: 22
+                font.pixelSize: UiMetrics.px(22)
                 font.bold: true
                 color: colors.foreground
                 horizontalAlignment: Text.AlignHCenter
@@ -1096,7 +1130,7 @@ ApplicationWindow {
         objectName: "navigationDrawer"
         edge: Qt.RightEdge
         y: 0
-        width: Math.min(320, root.width * 0.84)
+        width: Math.min(UiMetrics.px(320), root.width * 0.84)
         height: root.height
         padding: 0
         modal: true
@@ -1121,15 +1155,15 @@ ApplicationWindow {
             LayoutMirroring.childrenInherit: true
             Column {
                 anchors.fill: parent
-                anchors.margins: 16
-                spacing: 6
+                anchors.margins: UiMetrics.px(16)
+                spacing: UiMetrics.px(6)
                 Label {
                     width: parent.width
-                    height: 52
+                    height: UiMetrics.px(52)
                     text: "فهرست"
                     color: colors.foreground
                     font.family: typography.family
-                    font.pixelSize: 20
+                    font.pixelSize: UiMetrics.px(20)
                     font.weight: Font.DemiBold
                     horizontalAlignment: Text.AlignRight
                     verticalAlignment: Text.AlignVCenter
@@ -1149,7 +1183,7 @@ ApplicationWindow {
                             ? root.page !== "favorites" && root.page !== "search" && root.page !== "settings"
                             : root.page === modelData.target
                         width: parent.width
-                        height: 56
+                        height: UiMetrics.px(56)
                         text: modelData.title
                         Accessible.name: text
                         onClicked: {
@@ -1162,26 +1196,26 @@ ApplicationWindow {
                         contentItem: Item {
                             Row {
                                 anchors.right: parent.right
-                                anchors.rightMargin: 16
+                                anchors.rightMargin: UiMetrics.px(16)
                                 anchors.verticalCenter: parent.verticalCenter
                                 layoutDirection: Qt.RightToLeft
-                                spacing: 12
+                                spacing: UiMetrics.px(12)
                                 Text {
                                     text: drawerDestination.modelData.icon
                                     color: drawerDestination.selected ? colors.accent : colors.foreground
                                     font.family: typography.iconFamily
-                                    font.pixelSize: 24
+                                    font.pixelSize: UiMetrics.px(24)
                                 }
                                 Text {
                                     text: drawerDestination.text
                                     color: colors.foreground
                                     font.family: typography.family
-                                    font.pixelSize: 17
+                                    font.pixelSize: UiMetrics.px(17)
                                 }
                             }
                         }
                         background: Rectangle {
-                            radius: 12
+                            radius: UiMetrics.px(12)
                             color: drawerDestination.selected || drawerDestination.down
                                 ? colors.surfaceRaised : "transparent"
                             border.color: drawerDestination.selected ? colors.accent : "transparent"
@@ -1195,17 +1229,17 @@ ApplicationWindow {
     Menu {
         id: overflowMenu
         objectName: "overflowMenu"
-        width: 230
-        topPadding: 6
-        bottomPadding: 6
-        leftPadding: 6
-        rightPadding: 6
+        width: Math.min(UiMetrics.px(230), root.width - UiMetrics.px(16))
+        topPadding: UiMetrics.px(6)
+        bottomPadding: UiMetrics.px(6)
+        leftPadding: UiMetrics.px(6)
+        rightPadding: UiMetrics.px(6)
         modal: true
         dim: false
         closePolicy: Popup.CloseOnEscape | Popup.CloseOnPressOutside
         background: Rectangle {
             objectName: "overflowMenuBackground"
-            radius: 11
+            radius: UiMetrics.px(11)
             color: colors.surface
             border.color: colors.border
         }
@@ -1221,7 +1255,7 @@ ApplicationWindow {
             appTheme: colors
             text: "چاپ"
             visible: root.printingSupported
-            implicitHeight: root.printingSupported ? 42 : 0
+            implicitHeight: root.printingSupported ? UiMetrics.px(42) : 0
             height: implicitHeight
             enabled: root.canPrintCurrentPoem
             onTriggered: Qt.callLater(() => root.openPrintMenu())
@@ -1236,16 +1270,16 @@ ApplicationWindow {
     Menu {
         id: printMenu
         objectName: "printMenu"
-        width: 230
-        topPadding: 6
-        bottomPadding: 6
-        leftPadding: 6
-        rightPadding: 6
+        width: Math.min(UiMetrics.px(230), root.width - UiMetrics.px(16))
+        topPadding: UiMetrics.px(6)
+        bottomPadding: UiMetrics.px(6)
+        leftPadding: UiMetrics.px(6)
+        rightPadding: UiMetrics.px(6)
         modal: true
         dim: false
         closePolicy: Popup.CloseOnEscape | Popup.CloseOnPressOutside
         background: Rectangle {
-            radius: 11
+            radius: UiMetrics.px(11)
             color: colors.surface
             border.color: colors.border
         }

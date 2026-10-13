@@ -47,7 +47,7 @@ Item {
 
     ColumnLayout {
         anchors.fill: parent
-        spacing: 12
+        spacing: UiMetrics.px(12)
         TextField {
             id: queryField
             objectName: "searchQuery"
@@ -55,15 +55,15 @@ Item {
             LayoutMirroring.enabled: false
             horizontalAlignment: Text.AlignRight
             font.family: root.typography.family
-            font.pixelSize: 17
+            font.pixelSize: UiMetrics.px(17)
             color: root.appTheme.foreground
             Accessible.name: "جستجو در شعرها"
             onTextChanged: searchDelay.restart()
             Text {
                 objectName: "searchQueryPlaceholder"
                 anchors.fill: parent
-                anchors.leftMargin: 12
-                anchors.rightMargin: 12
+                anchors.leftMargin: UiMetrics.px(12)
+                anchors.rightMargin: UiMetrics.px(12)
                 LayoutMirroring.enabled: false
                 visible: queryField.length === 0
                 text: "جستجو در شاعران، مجموعه‌ها و شعرها"
@@ -74,7 +74,7 @@ Item {
                 elide: Text.ElideRight
             }
             background: Rectangle {
-                radius: 10
+                radius: UiMetrics.px(10)
                 color: root.appTheme.surface
                 border.color: queryField.activeFocus ? root.appTheme.focus : root.appTheme.border
                 border.width: queryField.activeFocus ? 2 : 1
@@ -83,7 +83,7 @@ Item {
         Flow {
             visible: root.availablePoetUrl !== "" || root.availableCategoryUrl !== ""
             Layout.fillWidth: true
-            spacing: 7
+            spacing: UiMetrics.px(7)
             SettingsChoice {
                 visible: root.availablePoetUrl !== ""
                 appTheme: root.appTheme
@@ -101,7 +101,7 @@ Item {
         }
         Flow {
             Layout.fillWidth: true
-            spacing: 7
+            spacing: UiMetrics.px(7)
             Repeater {
                 model: [
                     { "label": "همه", "value": "" },
@@ -133,13 +133,13 @@ Item {
         ListView {
             id: results
             objectName: "searchResults"
-            readonly property real rowGutter: resultScrollBar.visible ? resultScrollBar.width + 8 : 8
+            readonly property real rowGutter: resultScrollBar.visible ? resultScrollBar.width + UiMetrics.px(8) : UiMetrics.px(8)
             LayoutMirroring.enabled: false
             Layout.fillWidth: true
             Layout.fillHeight: true
             model: root.searchRepository
             clip: true
-            spacing: 6
+            spacing: UiMetrics.px(6)
             boundsBehavior: Flickable.StopAtBounds
             ScrollBar.vertical: AppScrollBar {
                 id: resultScrollBar
@@ -164,15 +164,15 @@ Item {
                     id: row
                     objectName: "searchResultRow"
                     x: results.rowGutter
-                    width: resultEntry.width - results.rowGutter - 8
-                    implicitHeight: textColumn.implicitHeight + 20
+                    width: resultEntry.width - results.rowGutter - UiMetrics.px(8)
+                    implicitHeight: textColumn.implicitHeight + UiMetrics.px(20)
                     LayoutMirroring.enabled: false
                     hoverEnabled: true
                     Accessible.name: resultEntry.title + "، " + resultEntry.context
                     onClicked: root.activated(resultEntry.entryType === "verse" ? "poem" : resultEntry.entryType,
                                               resultEntry.fullUrl)
                     background: Rectangle {
-                        radius: 10
+                        radius: UiMetrics.px(10)
                         color: row.hovered ? root.appTheme.surfaceRaised : root.appTheme.surface
                         border.color: row.activeFocus ? root.appTheme.focus : root.appTheme.border
                     }
@@ -183,7 +183,7 @@ Item {
                         Column {
                             id: textColumn
                             anchors.fill: parent
-                            spacing: 3
+                            spacing: UiMetrics.px(3)
                             Text {
                                 objectName: "searchResultTitle"
                                 width: textColumn.width
@@ -192,7 +192,7 @@ Item {
                                 textFormat: Text.PlainText
                                 color: root.appTheme.foreground
                                 font.family: root.typography.family
-                                font.pixelSize: 17
+                                font.pixelSize: UiMetrics.px(17)
                                 horizontalAlignment: Text.AlignRight
                                 elide: Text.ElideRight
                             }
@@ -204,7 +204,7 @@ Item {
                                 textFormat: Text.PlainText
                                 color: root.appTheme.muted
                                 font.family: root.typography.family
-                                font.pixelSize: 13
+                                font.pixelSize: UiMetrics.px(13)
                                 horizontalAlignment: Text.AlignRight
                                 elide: Text.ElideRight
                             }
@@ -217,7 +217,7 @@ Item {
                                 textFormat: Text.PlainText
                                 color: root.appTheme.foreground
                                 font.family: root.typography.family
-                                font.pixelSize: 15
+                                font.pixelSize: UiMetrics.px(15)
                                 horizontalAlignment: Text.AlignRight
                                 elide: Text.ElideRight
                             }
@@ -227,15 +227,15 @@ Item {
             }
             footer: Item {
                 width: results.width
-                height: root.searchRepository.hasMore && !root.searchRepository.loading ? 64 : 0
+                height: root.searchRepository.hasMore && !root.searchRepository.loading ? UiMetrics.px(64) : 0
                 LayoutMirroring.enabled: false
                 SettingsChoice {
                     objectName: "searchMoreButton"
                     visible: parent.height > 0
                     x: results.rowGutter
-                        + (results.width - results.rowGutter - 8 - width) / 2
-                    y: 12
-                    width: Math.min(240, results.width - results.rowGutter - 16)
+                        + (results.width - results.rowGutter - UiMetrics.px(8) - width) / 2
+                    y: UiMetrics.px(12)
+                    width: Math.min(UiMetrics.px(240), results.width - results.rowGutter - UiMetrics.px(16))
                     appTheme: root.appTheme
                     text: "نمایش نتیجه‌های بیشتر"
                     font.family: root.typography.family

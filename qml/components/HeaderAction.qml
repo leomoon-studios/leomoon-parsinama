@@ -11,8 +11,8 @@ Button {
     property color borderColor: "#343946"
     property color focusColor: "#b9aeff"
 
-    implicitWidth: 44
-    implicitHeight: 44
+    implicitWidth: UiMetrics.px(44)
+    implicitHeight: UiMetrics.px(44)
     padding: 0
     hoverEnabled: Qt.platform.os !== "android"
     focusPolicy: Qt.platform.os === "android" ? Qt.NoFocus : Qt.StrongFocus
@@ -24,13 +24,13 @@ Button {
     contentItem: Text {
         text: control.symbol
         color: control.enabled ? control.textColor : control.borderColor
-        font.pixelSize: 24
+        font.pixelSize: UiMetrics.px(24)
         font.family: control.font.family
         horizontalAlignment: Text.AlignHCenter
         verticalAlignment: Text.AlignVCenter
     }
     background: Rectangle {
-        radius: 11
+        radius: UiMetrics.px(11)
         color: control.down ? control.borderColor : control.surfaceColor
         border.color: control.activeFocus || control.selected ? control.focusColor : control.borderColor
         border.width: control.activeFocus || control.selected ? 2 : 1
