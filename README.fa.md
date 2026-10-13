@@ -88,5 +88,3 @@ adb install -r build-android-local/android-build/leomoon_parsinama.apk
 ## منبع داده‌ها و سپاسگزاری
 
 داده‌های شعر از مخزن [ganjoor/ganjoor-data](https://github.com/ganjoor/ganjoor-data) در کامیت `a64968e78425b2e8c7904fbdf5289fba8251a757` گرفته شده‌اند. فایل فهرست داده‌ها شامل ۲۴۰ شاعر و ۱۳۵٬۳۱۹ شعر است. برای شناسه‌ها و اثرانگشت‌های منابع به [SOURCES.md](SOURCES.md) و برای اطلاعات حقوقی داده‌ها و قلم‌ها به [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md) مراجعه کنید.
-
-برای این خروجی داده، مجوز صریحی ارائه نشده است. پیش از انتشار بسته‌های باینری حاوی پایگاه دادهٔ کامل، شرایط بازنشر آن باید روشن شود.
