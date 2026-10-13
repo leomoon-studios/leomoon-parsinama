@@ -57,6 +57,7 @@ jobs:
           host: ${{ matrix.arch == 'arm64' && 'windows_arm64' || 'windows' }}
           target: desktop
           arch: ${{ matrix.arch == 'arm64' && 'win64_msvc2022_arm64' || 'win64_msvc2022_64' }}
+          aqtsource: git+https://github.com/miurahr/aqtinstall.git@8c3695d4a4e1ceabf6a74dc6c79681656dc6b74b
           cache: true
           setup-python: true
 
