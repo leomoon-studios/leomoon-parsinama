@@ -81,9 +81,8 @@ ApplicationWindow {
     minimumHeight: Qt.platform.os === "android" || simulatePhoneForSmokeTest ? 0 : 440
     visible: true
     onClosing: (event) => {
-        if (Qt.platform.os === "android" && canHandleAndroidBack) {
+        if (Qt.platform.os === "android") {
             event.accepted = false
-            handleAndroidBack()
         }
     }
     title: "لئومون پارسی‌نما"
@@ -273,7 +272,7 @@ ApplicationWindow {
     Shortcut {
         sequence: "Back"
         context: Qt.ApplicationShortcut
-        enabled: Qt.platform.os === "android" && root.canHandleAndroidBack
+        enabled: root.simulatePhoneForSmokeTest && root.canHandleAndroidBack
         onActivated: root.handleAndroidBack()
     }
 
