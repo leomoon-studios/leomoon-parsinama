@@ -90,3 +90,59 @@ jobs:
     uses: ./.github/workflows/android.yml
     with:
       version: ${{ needs.validate.outputs.version }}
+
+  publish:
+    name: Publish GitHub release
+    if: github.event_name == 'push'
+    needs: [validate, linux, windows, macos, android]
+    runs-on: ubuntu-24.04
+    permissions:
+      actions: read
+      contents: write
+    steps:
+      - name: Check out release source
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+        with:
+          fetch-depth: 0
+
+      - name: Download verified platform packages
+        uses: actions/download-artifact@37930b1c2abaa49bbe596cd826c3c89aef350131 # v7
+        with:
+          pattern: leomoon-parsinama-*-${{ github.sha }}
+          path: release-input
+
+      - name: Collect individual release assets
+        run: bash scripts/collect-release-assets.sh release-input release-assets "${{ needs.validate.outputs.version }}" "$GITHUB_SHA"
+
+      - name: Prepare release notes from changelog
+        shell: bash
+        run: |
+          set -euo pipefail
+          git show "$GITHUB_REF_NAME:CHANGELOG.md" | awk -v heading="## $GITHUB_REF_NAME - " '
+            index($0, heading) == 1 { found = 1 }
+            found && /^## / && index($0, heading) != 1 { exit }
+            found { print }
+            END { if (!found) exit 1 }
+          ' > release-notes.md
+          if compgen -G 'release-assets/*-test.apk' >/dev/null; then
+            printf '\nThe Android APK is a test build. It may not update an installation signed with a different key.\n' >> release-notes.md
+          fi
+
+      - name: Publish release and packages
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          title="LeoMoon ParsiNama $GITHUB_REF_NAME"
+          if gh release view "$GITHUB_REF_NAME" --json isDraft --jq '.isDraft' > existing-draft.txt 2>/dev/null; then
+            if [[ "$(cat existing-draft.txt)" != true ]]; then
+              echo "Release $GITHUB_REF_NAME is already published"
+              exit 0
+            fi
+            gh release edit "$GITHUB_REF_NAME" --title "$title" --notes-file release-notes.md
+            gh release upload "$GITHUB_REF_NAME" release-assets/* --clobber
+            gh release edit "$GITHUB_REF_NAME" --draft=false
+          else
+            gh release create "$GITHUB_REF_NAME" release-assets/* --verify-tag --title "$title" --notes-file release-notes.md
+          fi
