@@ -3,10 +3,12 @@
 
 import argparse
 import hashlib
+import re
 import shlex
 import subprocess
 import time
 import sys
+import xml.etree.ElementTree as ET
 from pathlib import Path
 
 PACKAGE = "com.leomoon.ParsiNama"
@@ -29,6 +31,43 @@ def launch() -> None:
     output = adb_shell(f"monkey -p {PACKAGE} -c android.intent.category.LAUNCHER 1")
     if "Events injected: 1" not in output:
         raise RuntimeError(f"App launch failed: {output}")
+
+
+def ui_nodes() -> list[dict[str, str]]:
+    adb_shell("uiautomator dump /sdcard/parsinama-smoke-window.xml")
+    xml = run("adb", "exec-out", "cat", "/sdcard/parsinama-smoke-window.xml")
+    return [node.attrib for node in ET.fromstring(xml).iter("node")]
+
+
+def wait_for_node(description: str, timeout: int = 40) -> dict[str, str]:
+    deadline = time.monotonic() + timeout
+    while time.monotonic() < deadline:
+        try:
+            for node in ui_nodes():
+                if node.get("content-desc") == description:
+                    return node
+        except (subprocess.CalledProcessError, ET.ParseError):
+            pass
+        time.sleep(2)
+    raise TimeoutError(f"Android UI did not show {description!r}")
+
+
+def check_android_back_navigation() -> None:
+    wait_for_node("جستجوی شاعر")
+    poet = wait_for_node("حافظ شیرازی")
+    bounds = re.fullmatch(r"\[(\d+),(\d+)\]\[(\d+),(\d+)\]", poet["bounds"])
+    if not bounds:
+        raise RuntimeError(f"Poet row has invalid bounds: {poet['bounds']}")
+    left, top, right, bottom = map(int, bounds.groups())
+    adb_shell(f"input tap {(left + right) // 2} {(top + bottom) // 2}")
+    wait_for_node("افزودن نشانک")
+    adb_shell("input keyevent KEYCODE_BACK")
+    wait_for_node("جستجوی شاعر")
+    time.sleep(2)
+    activity = adb_shell("dumpsys activity activities")
+    if not re.search(r"topResumedActivity=.*com\.leomoon\.ParsiNama/", activity):
+        raise RuntimeError("Android Back left the app instead of returning to the poet list")
+    print("Android Back returned to the poet list without closing the app", flush=True)
 
 
 def main() -> None:
@@ -72,6 +111,7 @@ def main() -> None:
     assert second_timestamp == first_timestamp, "Relaunch unexpectedly recopied the catalog"
     assert adb_shell(f"pidof {PACKAGE}"), "App stopped after relaunch"
     print("Offline relaunch reused the installed catalog", flush=True)
+    check_android_back_navigation()
 
 
 if __name__ == "__main__":

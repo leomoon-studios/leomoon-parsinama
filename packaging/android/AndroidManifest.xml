@@ -16,6 +16,7 @@
         android:hardwareAccelerated="true"
         android:label="LeoMoon ParsiNama"
         android:icon="@mipmap/ic_launcher"
+        android:enableOnBackInvokedCallback="true"
         android:requestLegacyExternalStorage="true"
         android:allowBackup="true"
         android:fullBackupOnly="false">
