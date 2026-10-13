@@ -185,12 +185,12 @@ jobs:
           print('APK catalog checksum matches host catalog')
           PY
 
-      - name: Prepare test APK and checksum
+      - name: Prepare APK and checksum
         shell: bash
         run: |
           mkdir -p dist
           cp build-android/android-build/leomoon_parsinama.apk \
-            "dist/leomoon-parsinama-${{ steps.version.outputs.version }}-android-arm64-v8a-test.apk"
+            "dist/leomoon-parsinama-${{ steps.version.outputs.version }}-android-arm64-v8a.apk"
           (cd dist && sha256sum ./*.apk > SHA256SUMS)
           ls -lh dist/
 
