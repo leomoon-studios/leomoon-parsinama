@@ -155,7 +155,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          title="LeoMoon ParsiNama $GITHUB_REF_NAME"
+          title="$GITHUB_REF_NAME"
           if gh release view "$GITHUB_REF_NAME" --json isDraft --jq '.isDraft' > existing-draft.txt 2>/dev/null; then
             if [[ "$(cat existing-draft.txt)" != true ]]; then
               echo "Release $GITHUB_REF_NAME is already published"
