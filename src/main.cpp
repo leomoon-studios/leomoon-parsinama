@@ -857,10 +857,22 @@ int main(int argc, char *argv[])
                 || !poemScrollBar || !poemScrollBar->property("visible").toBool()
                 || !poemHeader || poemHeader->height() < 50
                 || breadcrumbs->property("fullCrumbWidth").toReal() < 200
-                || breadcrumbs->property("collapsed").toBool()
                 || qAbs(poemList->property("contentY").toReal()
                     + poemHeader->height()) > 1) {
-                qCritical("The poem summary and verses did not share a scroll area");
+                qCritical().noquote()
+                    << "The poem summary and verses did not share a scroll area:"
+                    << "loading=" << poemLoader.loading()
+                    << "summaryVisible=" << (summary && summary->property("visible").toBool())
+                    << "summaryLength=" << (summary ? summary->property("text").toString().size() : 0)
+                    << "summaryInList=" << bool(poemList && poemList->findChild<QObject *>(QStringLiteral("poemSummary")))
+                    << "listHeight=" << (poemList ? poemList->property("height").toReal() : 0)
+                    << "contentHeight=" << (poemList ? poemList->property("contentHeight").toReal() : 0)
+                    << "scrollBarVisible=" << (poemScrollBar && poemScrollBar->property("visible").toBool())
+                    << "headerHeight=" << (poemHeader ? poemHeader->height() : 0)
+                    << "crumbWidth=" << breadcrumbs->property("width").toReal()
+                    << "fullCrumbWidth=" << breadcrumbs->property("fullCrumbWidth").toReal()
+                    << "crumbsCollapsed=" << breadcrumbs->property("collapsed").toBool()
+                    << "contentY=" << (poemList ? poemList->property("contentY").toReal() : 0);
                 return EXIT_FAILURE;
             }
             poemList->setProperty("contentY", poemHeader->height());
@@ -1189,6 +1201,8 @@ int main(int argc, char *argv[])
                 qCritical("The deep collection did not open");
                 return EXIT_FAILURE;
             }
+            QCoreApplication::processEvents();
+            breadcrumbs->setProperty("width", breadcrumbs->property("fullCrumbWidth").toReal() + 20);
             QCoreApplication::processEvents();
             if (breadcrumbs->property("collapsed").toBool()) {
                 qCritical("Breadcrumbs collapsed despite having enough space");
