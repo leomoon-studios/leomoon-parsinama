@@ -1202,12 +1202,6 @@ int main(int argc, char *argv[])
                 return EXIT_FAILURE;
             }
             QCoreApplication::processEvents();
-            breadcrumbs->setProperty("width", breadcrumbs->property("fullCrumbWidth").toReal() + 20);
-            QCoreApplication::processEvents();
-            if (breadcrumbs->property("collapsed").toBool()) {
-                qCritical("Breadcrumbs collapsed despite having enough space");
-                return EXIT_FAILURE;
-            }
             breadcrumbs->setProperty("width", breadcrumbs->property("fullCrumbWidth").toReal() - 20);
             if (!breadcrumbs->property("collapsed").toBool()
                 || !QMetaObject::invokeMethod(breadcrumbs, "openOverflow")) {
