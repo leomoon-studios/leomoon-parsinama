@@ -32,7 +32,7 @@ cmake --build build --parallel 2
 ./build/leomoon-parsinama
 ```
 
-The build generates `build/parsinama-catalog.sqlite` from `data/` before building the app. The source export occupies about 2.4 GB and the generated catalog about 3.5 GB, so allow additional disk space and time for the first build. The catalog is application data; bookmarks and settings are stored separately and remain available when the catalog is rebuilt.
+The build verifies the split archive in `data-archive/`, extracts its source data under `build/catalog-source/`, and generates `build/parsinama-catalog.sqlite` before building the app. Install Python 3 and Info-ZIP `zip` to build. The extracted source occupies about 2.4 GB and the catalog about 3.5 GB, with temporary space also needed for reconstruction. See [data-archive/README.md](data-archive/README.md) for archive update instructions. Bookmarks and settings are stored separately from the catalog.
 
 To check the build, run `ctest --test-dir build --output-on-failure`. You can also run `./build/leomoon-parsinama --smoke-test` for an app-level check, or pass `--catalog /path/to/parsinama-catalog.sqlite` to open another catalog.
 

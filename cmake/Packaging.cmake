@@ -69,14 +69,39 @@ if(ANDROID)
     return()
 endif()
 
+find_package(Python3 REQUIRED COMPONENTS Interpreter)
+set(PARSINAMA_ARCHIVE_DIR "${CMAKE_CURRENT_SOURCE_DIR}/data-archive")
+file(READ "${PARSINAMA_ARCHIVE_DIR}/manifest.json" PARSINAMA_ARCHIVE_MANIFEST)
+string(JSON PARSINAMA_PART_COUNT LENGTH "${PARSINAMA_ARCHIVE_MANIFEST}" parts)
+if(PARSINAMA_PART_COUNT LESS 1)
+    message(FATAL_ERROR "Data archive manifest contains no parts")
+endif()
+math(EXPR PARSINAMA_LAST_PART "${PARSINAMA_PART_COUNT} - 1")
+foreach(PARSINAMA_INDEX RANGE 0 ${PARSINAMA_LAST_PART})
+    string(JSON PARSINAMA_PART_NAME GET "${PARSINAMA_ARCHIVE_MANIFEST}" parts ${PARSINAMA_INDEX} name)
+    list(APPEND PARSINAMA_ARCHIVE_PARTS "${PARSINAMA_ARCHIVE_DIR}/${PARSINAMA_PART_NAME}")
+endforeach()
+set_property(DIRECTORY APPEND PROPERTY CMAKE_CONFIGURE_DEPENDS "${PARSINAMA_ARCHIVE_DIR}/manifest.json")
+set(PARSINAMA_EXTRACTED_DIR "${CMAKE_CURRENT_BINARY_DIR}/catalog-source")
+set(PARSINAMA_EXTRACT_STAMP "${CMAKE_CURRENT_BINARY_DIR}/catalog-source.stamp")
+add_custom_command(
+    OUTPUT "${PARSINAMA_EXTRACT_STAMP}"
+    COMMAND "${Python3_EXECUTABLE}" "${CMAKE_CURRENT_SOURCE_DIR}/scripts/extract_data_archive.py"
+        "${PARSINAMA_ARCHIVE_DIR}" "${PARSINAMA_EXTRACTED_DIR}"
+    COMMAND "${CMAKE_COMMAND}" -E touch "${PARSINAMA_EXTRACT_STAMP}"
+    DEPENDS "${PARSINAMA_ARCHIVE_DIR}/manifest.json" ${PARSINAMA_ARCHIVE_PARTS}
+        "${CMAKE_CURRENT_SOURCE_DIR}/scripts/extract_data_archive.py"
+    COMMENT "Validate and extract catalog source archive"
+    VERBATIM
+)
 set(PARSINAMA_CATALOG_FILE "${CMAKE_CURRENT_BINARY_DIR}/parsinama-catalog.sqlite")
 add_custom_command(
     OUTPUT "${PARSINAMA_CATALOG_FILE}"
     COMMAND "$<TARGET_FILE:parsinama_catalog_builder>"
-        --data-root "${CMAKE_CURRENT_SOURCE_DIR}/data"
+        --data-root "${PARSINAMA_EXTRACTED_DIR}/data"
         --output "${PARSINAMA_CATALOG_FILE}"
-    DEPENDS parsinama_catalog_builder "${CMAKE_CURRENT_SOURCE_DIR}/data/manifest.json"
-    COMMENT "Generate the searchable ParsiNama catalog from data/"
+    DEPENDS parsinama_catalog_builder "${PARSINAMA_EXTRACT_STAMP}"
+    COMMENT "Generate the searchable ParsiNama catalog from the archive"
     VERBATIM
 )
 add_custom_target(parsinama_catalog DEPENDS "${PARSINAMA_CATALOG_FILE}")

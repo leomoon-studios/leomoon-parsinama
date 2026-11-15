@@ -30,6 +30,13 @@ jobs:
     steps:
       - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
 
+      - name: Install Info-ZIP
+        shell: pwsh
+        run: |
+          choco install zip --version=3.0.0.20251001 --yes --no-progress
+          if ($LASTEXITCODE -ne 0) { throw "Info-ZIP installation failed" }
+          "$env:ChocolateyInstall\bin" | Out-File -FilePath $env:GITHUB_PATH -Encoding utf8 -Append
+
       - name: Configure MSVC
         shell: pwsh
         run: |

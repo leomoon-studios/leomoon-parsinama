@@ -22,6 +22,8 @@ jobs:
     timeout-minutes: 180
     steps:
       - uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09 # v5
+      - name: Verify Info-ZIP
+        run: command -v zip
       - name: Install pinned Qt
         uses: jurplel/install-qt-action@a9c63c7c123f3069cff414e7e482d95dfa9d8125 # v4
         with:

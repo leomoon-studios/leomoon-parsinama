@@ -87,6 +87,7 @@ jobs:
 
       - name: Build catalog with host tools
         run: |
+          command -v zip
           df -h .
           cmake -S . -B build-host -G Ninja -DCMAKE_BUILD_TYPE=Release -DBUILD_TESTING=OFF
           cmake --build build-host --target parsinama_catalog --parallel 2

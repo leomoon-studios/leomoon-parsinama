@@ -1,0 +1,34 @@
+{
+  "parts": [
+    {
+      "name": "data.z01",
+      "size": 73400320,
+      "sha256": "70b1dff4ce35eab0e04ddf67462fa0ddf9decaa73e481006c7059532ba51a2b9"
+    },
+    {
+      "name": "data.z02",
+      "size": 73400320,
+      "sha256": "efa08dfbf4a13c52d88b9b69f29d992ce600c49e42f6acbc33541084a59b8d83"
+    },
+    {
+      "name": "data.z03",
+      "size": 73400320,
+      "sha256": "1018b8b86f5acd8056421c693cf48a9c0aace4871394e2657440b255497f7854"
+    },
+    {
+      "name": "data.z04",
+      "size": 73400320,
+      "sha256": "cde9ff742b4e6fbcb107b625b7488c52d83a831ba6ce2afefe9930e20c77df4a"
+    },
+    {
+      "name": "data.z05",
+      "size": 73400320,
+      "sha256": "4797aa99f2ae1210bef7743045241a6813e90bb6d13644745195882498a252be"
+    },
+    {
+      "name": "data.zip",
+      "size": 69502127,
+      "sha256": "aac5bb3a0cb06ff54f6414c705300e88adf3ce2ab5a7d34bd09c3b8ba326a819"
+    }
+  ]
+}
